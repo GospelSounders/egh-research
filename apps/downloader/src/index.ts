@@ -2,7 +2,7 @@
 
 import 'dotenv/config';
 import { Command } from 'commander';
-import { createAuthManager, createApiClient, EGWDatabase } from '@surgbc/egw-writings-shared';
+import { EGWDatabase, EGWApiClientNew as EGWApiClient, ContentDownloader } from '@surgbc/egw-writings-shared';
 
 const program = new Command();
 
@@ -17,20 +17,16 @@ program
   .action(async () => {
     console.log('📚 Downloading languages...');
     
-    const authManager = createAuthManager();
-    const apiClient = createApiClient(authManager);
+    const apiClient = new EGWApiClient();
     const db = new EGWDatabase();
+    const downloader = new ContentDownloader(apiClient, db);
     
     try {
-      const languages = await apiClient.getLanguages();
-      console.log(`Found ${languages.length} languages`);
+      await downloader.downloadLanguages((progress) => {
+        console.log(`Progress: ${progress.completed}/${progress.total} - ${progress.currentItem}`);
+      });
       
-      for (const lang of languages) {
-        db.insertLanguage(lang.code, lang.name, lang.direction);
-        console.log(`✅ ${lang.name} (${lang.code})`);
-      }
-      
-      console.log(`🎉 Successfully indexed ${languages.length} languages`);
+      console.log('🎉 Successfully downloaded and indexed all languages');
     } catch (error) {
       console.error('❌ Error downloading languages:', error);
       process.exit(1);
@@ -43,43 +39,28 @@ program
   .command('books')
   .description('Download book metadata for a language')
   .option('-l, --lang <language>', 'Language code', 'en')
-  .option('--limit <number>', 'Limit number of books', '100')
   .action(async (options) => {
     console.log(`📖 Downloading books for language: ${options.lang}`);
     
-    const authManager = createAuthManager();
-    const apiClient = createApiClient(authManager);
+    const apiClient = new EGWApiClient();
     const db = new EGWDatabase();
+    const downloader = new ContentDownloader(apiClient, db);
     
     try {
-      // Get folders for the language
-      const folders = await apiClient.getFolders(options.lang);
-      console.log(`Found ${folders.length} folders`);
+      // Download folders first
+      await downloader.downloadFolders(options.lang, (progress) => {
+        console.log(`Folders: ${progress.completed}/${progress.total} - ${progress.currentItem}`);
+      });
       
-      let totalBooks = 0;
-      
-      // Process all folders and their children
-      for (const folder of folders) {
-        if (folder.children) {
-          for (const subfolder of folder.children) {
-            if (subfolder.nbooks > 0) {
-              console.log(`📁 Processing folder: ${subfolder.name} (${subfolder.nbooks} books)`);
-              
-              const books = await apiClient.getBooksByFolder(subfolder.folder_id);
-              const limit = parseInt(options.limit);
-              const booksToProcess = books.slice(0, limit);
-              
-              for (const book of booksToProcess) {
-                db.insertBook(book);
-                totalBooks++;
-                console.log(`  ✅ ${book.title} by ${book.author}`);
-              }
-            }
-          }
+      // Download books for the language
+      await downloader.downloadBooks({
+        languageCode: options.lang,
+        onProgress: (progress) => {
+          console.log(`Books: ${progress.completed}/${progress.total} - ${progress.currentItem}`);
         }
-      }
+      });
       
-      console.log(`🎉 Successfully indexed ${totalBooks} books`);
+      console.log('🎉 Successfully downloaded books and folders');
     } catch (error) {
       console.error('❌ Error downloading books:', error);
       process.exit(1);
@@ -97,60 +78,38 @@ program
   .action(async (options) => {
     console.log('📄 Downloading book content...');
     
-    const authManager = createAuthManager();
-    const apiClient = createApiClient(authManager);
+    const apiClient = new EGWApiClient();
     const db = new EGWDatabase();
+    const downloader = new ContentDownloader(apiClient, db);
     
     try {
-      let books;
-      
       if (options.book) {
-        // Download specific book
-        const book = db.getBook(parseInt(options.book));
-        if (!book) {
-          throw new Error(`Book ${options.book} not found in database`);
-        }
-        books = [book as any];
-      } else {
-        // Download books for language
-        books = (db.getBooks(options.lang) as any[]).slice(0, parseInt(options.limit));
-      }
-      
-      console.log(`Processing ${books.length} books...`);
-      
-      for (const book of books) {
-        const typedBook = book as any;
-        console.log(`\n📖 Downloading content for: ${typedBook.title}`);
+        // Download specific book content
+        const bookId = parseInt(options.book);
+        console.log(`Downloading content for book ID: ${bookId}`);
         
-        try {
-          // Get table of contents
-          const toc = await apiClient.getBookToc(typedBook.book_id);
-          console.log(`  Found ${toc.length} chapters`);
+        await downloader.downloadBookContent(bookId, (progress) => {
+          console.log(`Content: ${progress.completed}/${progress.total} - ${progress.currentItem}`);
+        });
+      } else {
+        // Download content for sample books
+        const books = db.getBooks(options.lang) as any[];
+        const limit = parseInt(options.limit);
+        const sampleBooks = books.slice(0, Math.min(limit, books.length));
+        
+        console.log(`Downloading content for ${sampleBooks.length} books...`);
+        
+        for (let i = 0; i < sampleBooks.length; i++) {
+          const book = sampleBooks[i];
+          console.log(`\n[${i + 1}/${sampleBooks.length}] ${book.title}`);
           
-          let totalParagraphs = 0;
-          
-          // Download each chapter
-          for (const chapter of toc) {
-            try {
-              const paragraphs = await apiClient.getChapter(typedBook.book_id, chapter.id);
-              console.log(`    📄 Chapter "${chapter.title}": ${paragraphs.length} paragraphs`);
-              
-              // Insert paragraphs
-              for (const paragraph of paragraphs) {
-                db.insertParagraph(paragraph, typedBook.book_id, chapter.title);
-                totalParagraphs++;
-              }
-              
-              // Rate limiting
-              await new Promise(resolve => setTimeout(resolve, 1000));
-            } catch (chapterError) {
-              console.error(`    ❌ Error downloading chapter ${chapter.id}:`, chapterError);
-            }
+          try {
+            await downloader.downloadBookContent(book.book_id, (progress) => {
+              console.log(`  Content: ${progress.completed}/${progress.total} - ${progress.currentItem}`);
+            });
+          } catch (error) {
+            console.error(`  ❌ Failed to download content for ${book.title}:`, error);
           }
-          
-          console.log(`  ✅ Downloaded ${totalParagraphs} paragraphs`);
-        } catch (bookError) {
-          console.error(`❌ Error downloading book ${typedBook.book_id}:`, bookError);
         }
       }
       
@@ -234,61 +193,19 @@ program
   .action(async () => {
     console.log('🚀 Quick Start: Setting up EGW Writings database...\n');
     
-    const authManager = createAuthManager();
-    const apiClient = createApiClient(authManager);
+    const apiClient = new EGWApiClient();
     const db = new EGWDatabase();
+    const downloader = new ContentDownloader(apiClient, db);
     
     try {
-      // Step 1: Languages
-      console.log('1️⃣ Downloading languages...');
-      const languages = await apiClient.getLanguages();
-      for (const lang of languages) {
-        db.insertLanguage(lang.code, lang.name, lang.direction);
-      }
-      console.log(`✅ ${languages.length} languages indexed\n`);
-      
-      // Step 2: Books (English only, first 20)
-      console.log('2️⃣ Downloading sample books (English)...');
-      const folders = await apiClient.getFolders('en');
-      const booksFolder = folders.find(f => f.children?.find(c => c.name === 'Books'))?.children?.find(c => c.name === 'Books');
-      
-      if (booksFolder) {
-        const books = await apiClient.getBooksByFolder(booksFolder.folder_id);
-        const sampleBooks = books.slice(0, 20);
-        
-        for (const book of sampleBooks) {
-          db.insertBook(book);
+      // Use the comprehensive download method with sample content
+      await downloader.downloadAll('en', {
+        includeContent: true,
+        maxBooks: 5,
+        onProgress: (progress) => {
+          console.log(`${progress.taskType}: ${progress.completed}/${progress.total} - ${progress.currentItem || ''}`);
         }
-        console.log(`✅ ${sampleBooks.length} books indexed\n`);
-        
-        // Step 3: Content (first 3 books only)
-        console.log('3️⃣ Downloading sample content...');
-        const contentBooks = sampleBooks.slice(0, 3);
-        
-        for (const book of contentBooks) {
-          console.log(`  📖 ${book.title}...`);
-          
-          try {
-            const toc = await apiClient.getBookToc(book.book_id);
-            const firstChapter = toc[0];
-            
-            if (firstChapter) {
-              const paragraphs = await apiClient.getChapter(book.book_id, firstChapter.id);
-              
-              for (const paragraph of paragraphs) {
-                db.insertParagraph(paragraph, book.book_id, firstChapter.title);
-              }
-              
-              console.log(`    ✅ ${paragraphs.length} paragraphs from first chapter`);
-            }
-            
-            // Rate limiting
-            await new Promise(resolve => setTimeout(resolve, 1000));
-          } catch (error) {
-            console.log(`    ❌ Error: ${error}`);
-          }
-        }
-      }
+      });
       
       console.log('\n🎉 Quick start complete!');
       
@@ -296,11 +213,70 @@ program
       console.log('\n📊 Final Statistics:');
       console.log(`  Languages: ${stats.languages}`);
       console.log(`  Books: ${stats.books}`);
+      console.log(`  Downloaded Books: ${stats.downloadedBooks}`);
       console.log(`  Paragraphs: ${stats.paragraphs}`);
-      console.log('\n💡 Try: pnpm --filter local-server dev');
+      
+      // Show category breakdown
+      const categories = db.getBooksByCategories();
+      if (categories.length > 0) {
+        console.log('\n📚 Books by Category:');
+        categories.forEach((cat: any) => {
+          console.log(`  ${cat.category}/${cat.subcategory}: ${cat.count} books`);
+        });
+      }
+      
+      console.log('\n💡 Try: pnpm --filter website dev');
       
     } catch (error) {
       console.error('❌ Quick start failed:', error);
+      process.exit(1);
+    } finally {
+      db.close();
+    }
+  });
+
+program
+  .command('download:all')
+  .description('Download everything: languages, books, and content')
+  .option('-l, --lang <language>', 'Language code', 'en')
+  .option('--content', 'Include full content download')
+  .option('--limit <number>', 'Limit number of books for content', '20')
+  .action(async (options) => {
+    console.log('🚀 Starting comprehensive download...\n');
+    
+    const apiClient = new EGWApiClient();
+    const db = new EGWDatabase();
+    const downloader = new ContentDownloader(apiClient, db);
+    
+    try {
+      await downloader.downloadAll(options.lang, {
+        includeContent: options.content,
+        maxBooks: parseInt(options.limit),
+        onProgress: (progress) => {
+          console.log(`${progress.taskType}: ${progress.completed}/${progress.total} - ${progress.currentItem || ''}`);
+        }
+      });
+      
+      console.log('\n🎉 Comprehensive download complete!');
+      
+      const stats = db.getStats();
+      console.log('\n📊 Final Statistics:');
+      console.log(`  Languages: ${stats.languages}`);
+      console.log(`  Books: ${stats.books}`);
+      console.log(`  Downloaded Books: ${stats.downloadedBooks}`);
+      console.log(`  Paragraphs: ${stats.paragraphs}`);
+      
+      // Show category breakdown
+      const categories = db.getBooksByCategories();
+      if (categories.length > 0) {
+        console.log('\n📚 Books by Category:');
+        categories.forEach((cat: any) => {
+          console.log(`  ${cat.category}/${cat.subcategory}: ${cat.count} books`);
+        });
+      }
+      
+    } catch (error) {
+      console.error('❌ Comprehensive download failed:', error);
       process.exit(1);
     } finally {
       db.close();

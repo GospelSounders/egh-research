@@ -554,6 +554,48 @@ export class EGWDatabase {
     return stmt.all();
   }
 
+  /**
+   * Insert a folder into the database
+   */
+  insertFolder(folder: { 
+    folder_id: number; 
+    name: string; 
+    add_class: string; 
+    nbooks: number; 
+    naudiobooks: number; 
+    sort_order: number; 
+    parent_id?: number; 
+  }) {
+    const stmt = this.db.prepare(`
+      INSERT OR REPLACE INTO folders (
+        folder_id, name, add_class, nbooks, naudiobooks, sort_order, parent_id
+      ) VALUES (?, ?, ?, ?, ?, ?, ?)
+    `);
+    
+    return stmt.run(
+      folder.folder_id,
+      folder.name,
+      folder.add_class,
+      folder.nbooks,
+      folder.naudiobooks,
+      folder.sort_order,
+      folder.parent_id
+    );
+  }
+
+  /**
+   * Mark a book as downloaded (has content)
+   */
+  markBookAsDownloaded(bookId: number) {
+    const stmt = this.db.prepare(`
+      UPDATE books 
+      SET downloaded_at = CURRENT_TIMESTAMP 
+      WHERE book_id = ?
+    `);
+    
+    return stmt.run(bookId);
+  }
+
   // Statistics
   getStats() {
     const stats = {
