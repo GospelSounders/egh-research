@@ -2,6 +2,8 @@
 
 A comprehensive Model Context Protocol (MCP) server ecosystem for accessing Ellen G. White writings for educational and research purposes.
 
+[![NPM Package](https://img.shields.io/badge/npm-@gospelsounders%2Fegw--writings-blue)](https://www.npmjs.com/org/gospelsounders)
+
 ## Overview
 
 This monorepo contains three MCP servers and shared utilities for working with Ellen G. White writings:
