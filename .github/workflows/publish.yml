@@ -12,13 +12,59 @@ on:
   workflow_dispatch:
 
 jobs:
-  publish:
+  publish-shared:
     runs-on: ubuntu-latest
-    
+    outputs:
+      shared-published: ${{ steps.shared-check.outputs.published }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          registry-url: 'https://registry.npmjs.org'
+          
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+          
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+        
+      - name: Build packages
+        run: pnpm build
+        
+      - name: Check if shared package version changed
+        id: shared-check
+        run: |
+          PACKAGE_NAME=$(cat packages/shared/package.json | grep '"name":' | cut -d'"' -f4)
+          CURRENT_VERSION=$(cat packages/shared/package.json | grep '"version":' | cut -d'"' -f4)
+          
+          if npm view "$PACKAGE_NAME@$CURRENT_VERSION" version 2>/dev/null; then
+            echo "Version $CURRENT_VERSION already exists on npm"
+            echo "published=false" >> $GITHUB_OUTPUT
+          else
+            echo "Version $CURRENT_VERSION does not exist on npm"
+            echo "published=true" >> $GITHUB_OUTPUT
+          fi
+        
+      - name: Publish shared package to NPM
+        if: steps.shared-check.outputs.published == 'true'
+        run: |
+          cd packages/shared
+          pnpm publish --access public --no-git-checks
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+  publish-apps:
+    runs-on: ubuntu-latest
+    needs: publish-shared
     strategy:
       matrix:
         package:
-          - shared
           - api-server
           - downloader
           - local-server
@@ -41,16 +87,16 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
         
+      - name: Prepare packages for publishing
+        run: node scripts/prepare-for-publish.js
+        
       - name: Build packages
         run: pnpm build
         
       - name: Check if package version changed
         id: version-check
         run: |
-          PACKAGE_PATH="packages/${{ matrix.package }}"
-          if [ "${{ matrix.package }}" != "shared" ]; then
-            PACKAGE_PATH="apps/${{ matrix.package }}"
-          fi
+          PACKAGE_PATH="apps/${{ matrix.package }}"
           
           PACKAGE_NAME=$(cat $PACKAGE_PATH/package.json | grep '"name":' | cut -d'"' -f4)
           CURRENT_VERSION=$(cat $PACKAGE_PATH/package.json | grep '"version":' | cut -d'"' -f4)
