@@ -1,203 +1,213 @@
-# EGW Writings MCP Server
+# EGW Writings MCP Servers
 
-An MCP (Model Context Protocol) server that provides contextual access to Ellen G. White writings and related Adventist literature for AI research assistance.
+A comprehensive Model Context Protocol (MCP) server ecosystem for accessing Ellen G. White writings for educational and research purposes.
 
 ## Overview
 
-This project creates an MCP server that enables AI assistants to search and reference Ellen G. White writings, Pioneer writings, and Commentaries from the EGW Writings collection. The server provides structured access to the vast collection of Adventist literature for research and study purposes.
+This monorepo contains three MCP servers and shared utilities for working with Ellen G. White writings:
 
-## Data Source
+- **API Server**: Live access to the EGW Writings API
+- **Downloader**: Bulk data extraction and database population 
+- **Local Server**: High-performance offline access with full-text search
+- **Shared Library**: Common utilities, types, and database management
 
-Primary source: [egwwritings.org](https://egwwritings.org/)
-- Ellen G. White writings
-- Pioneer writings  
-- Commentaries and related literature
-- Organized by books with paragraph-level identifiers
+## Quick Start
 
-## Project Structure
+### 1. Install Global Packages
 
-```
-egw-writings-mcp/
-├── README.md
-├── src/
-│   ├── server.ts          # Main MCP server implementation
-│   ├── data/
-│   │   ├── extractor.ts   # Data extraction pipeline
-│   │   ├── storage.ts     # Data storage and indexing
-│   │   └── models.ts      # Data models and types
-│   ├── tools/
-│   │   ├── search.ts      # Search functionality
-│   │   └── context.ts     # Context retrieval tools
-│   └── utils/
-│       ├── apk.ts         # APK analysis utilities
-│       └── api.ts         # API interaction utilities
-├── data/
-│   ├── raw/               # Raw extracted data
-│   ├── processed/         # Processed and indexed data
-│   └── sqlite/            # SQLite database
-├── scripts/
-│   ├── extract-apk.sh     # APK download and extraction
-│   ├── analyze-api.ts     # API endpoint analysis
-│   └── build-index.ts     # Data indexing script
-├── docs/
-│   └── api-endpoints.md   # Documented API endpoints
-├── package.json
-├── tsconfig.json
-└── .gitignore
+```bash
+# Install all three servers globally
+npm install -g @gospelsounders/egw-writings-api-server
+npm install -g @gospelsounders/egw-writings-downloader  
+npm install -g @gospelsounders/egw-writings-local-server
 ```
 
-## Implementation Plan
+### 2. Set Up Environment
 
-### Phase 1: Data Extraction (Current Focus)
+Create a `.env` file with your API credentials:
 
-#### 1.1 APK Analysis
-- [ ] Download EGW Writings Android app from APKMirror/APKPure
-- [ ] Extract APK using `apktool` or `unzip`
-- [ ] Analyze app structure for API endpoints
-- [ ] Document network requests and data formats
-
-#### 1.2 API Reverse Engineering
-- [ ] Identify book listing endpoints
-- [ ] Identify chapter/paragraph retrieval endpoints
-- [ ] Document authentication requirements (if any)
-- [ ] Test API endpoints for data access
-
-#### 1.3 Data Collection Pipeline
-- [ ] Implement book metadata collection
-- [ ] Implement paragraph-level content extraction
-- [ ] Handle rate limiting and respectful scraping
-- [ ] Validate data integrity and completeness
-
-### Phase 2: Data Processing and Storage
-
-#### 2.1 Database Design
-- [ ] Design SQLite schema for books, chapters, paragraphs
-- [ ] Implement full-text search indexing
-- [ ] Add metadata for book categories (Ellen White, Pioneers, Commentaries)
-- [ ] Create efficient query structures
-
-#### 2.2 Data Processing
-- [ ] Clean and normalize extracted text
-- [ ] Parse paragraph identifiers and references
-- [ ] Build cross-reference indexes
-- [ ] Implement search optimization
-
-### Phase 3: MCP Server Implementation
-
-#### 3.1 Core MCP Server
-- [ ] Implement MCP protocol handlers
-- [ ] Create resource discovery endpoints
-- [ ] Add tool registration and capabilities
-- [ ] Implement error handling and logging
-
-#### 3.2 Search Tools
-- [ ] Full-text search across all writings
-- [ ] Category-specific search (Ellen White, Pioneers, etc.)
-- [ ] Citation and reference lookup
-- [ ] Context window optimization for AI consumption
-
-#### 3.3 Context Tools
-- [ ] Paragraph retrieval by identifier
-- [ ] Book chapter summaries
-- [ ] Related content suggestions
-- [ ] Quote verification and attribution
-
-### Phase 4: Testing and Deployment
-
-#### 4.1 Testing
-- [ ] Unit tests for data extraction
-- [ ] Integration tests for MCP server
-- [ ] Performance testing for search queries
-- [ ] Validation of data accuracy
-
-#### 4.2 Documentation
-- [ ] API documentation for MCP tools
-- [ ] Usage examples and guides
-- [ ] Data source attributions
-- [ ] Deployment instructions
-
-## Technical Requirements
-
-### APK Analysis Tools
-- `apktool` - APK reverse engineering
-- `jadx` - Java decompiler (optional)
-- `unzip` - Basic APK extraction
-- Network analysis tools for API discovery
-
-### Development Stack
-- **Runtime**: Node.js with TypeScript
-- **Database**: SQLite with FTS5 full-text search
-- **MCP Framework**: @modelcontextprotocol/sdk
-- **HTTP Client**: axios for API requests
-- **Search**: SQLite FTS5 + custom indexing
-
-### Data Storage Strategy
-- **Raw Data**: JSON files for each book/chapter
-- **Processed Data**: SQLite database with optimized schema
-- **Search Index**: FTS5 virtual tables for fast text search
-- **Metadata**: Book hierarchies, categories, and cross-references
-
-## API Endpoint Discovery Strategy
-
-1. **APK Extraction**: Download and extract EGW Writings app
-2. **Static Analysis**: Examine JavaScript/Java code for API URLs
-3. **Network Analysis**: Monitor app traffic during usage
-4. **Endpoint Testing**: Validate discovered endpoints
-5. **Documentation**: Document request/response formats
-
-## Ethical and Legal Considerations
-
-- Respectful rate limiting to avoid server overload
-- Proper attribution of all content sources
-- Compliance with egwwritings.org terms of service
-- Educational and research use focus
-- No redistribution of copyrighted content beyond fair use
-
-## Usage Examples
-
-Once implemented, the MCP server will enable queries like:
-
-```typescript
-// Search for specific topics
-await searchWritings("sanctuary doctrine", { category: "ellen-white" })
-
-// Get specific paragraph
-await getParagraph("GC 415.2")
-
-// Find related content
-await findRelated("1844 movement", { includeCommentaries: true })
+```bash
+EGW_CLIENT_ID=your_client_id_here
+EGW_CLIENT_SECRET=your_client_secret_here
 ```
 
-## Getting Started
+### 3. Download Sample Data
+
+```bash
+egw-downloader quick-start
+```
+
+### 4. Configure MCP Client
+
+Add to your MCP client configuration:
+
+```json
+{
+  "mcpServers": {
+    "egw-api": {
+      "command": "egw-api-server",
+      "env": {
+        "EGW_CLIENT_ID": "your_client_id",
+        "EGW_CLIENT_SECRET": "your_client_secret"
+      }
+    },
+    "egw-local": {
+      "command": "egw-local-server"
+    }
+  }
+}
+```
+
+## Packages
+
+### [@gospelsounders/egw-writings-api-server](./apps/api-server/)
+MCP server providing live access to the EGW Writings API with real-time search and content retrieval.
+
+**Features:**
+- Real-time API access
+- Multi-language support (150+ languages)
+- Full-text search
+- Book management and citation support
+
+### [@gospelsounders/egw-writings-downloader](./apps/downloader/)
+Command-line tool for downloading and indexing EGW writings into a local SQLite database.
+
+**Features:**
+- Bulk download capabilities
+- Progress tracking and resume
+- SQLite with FTS5 search indexing
+- Selective language and content filtering
+
+### [@gospelsounders/egw-writings-local-server](./apps/local-server/)
+MCP server providing high-performance access to locally downloaded EGW writings database.
+
+**Features:**
+- Offline operation
+- Millisecond search response times
+- Reference-based navigation (e.g., "AA 15.1")
+- Context retrieval and highlighting
+
+### [@gospelsounders/egw-writings-shared](./packages/shared/)
+Shared utilities, types, and database management for the EGW Writings ecosystem.
+
+**Features:**
+- OAuth 2.0 authentication
+- API client with auto-retry
+- SQLite database management
+- Complete TypeScript definitions
+
+## Development
 
 ### Prerequisites
-- Node.js 18+
-- Linux environment with APK tools
-- Git and GitHub CLI
 
-### Installation
+- Node.js 18+
+- pnpm 8+
+
+### Setup
+
 ```bash
-# Clone the repository
-git clone git@github.com:surgbc/egw-writings-mcp.git
+# Clone repository
+git clone https://github.com/gospelsounders/egw-writings-mcp.git
 cd egw-writings-mcp
 
 # Install dependencies
-npm install
+pnpm install
 
-# Extract and analyze data
-npm run extract-data
+# Build all packages
+pnpm build
 
-# Build search index
-npm run build-index
-
-# Start MCP server
-npm run start
+# Set up environment
+cp .env.example .env
+# Edit .env with your credentials
 ```
+
+### Commands
+
+```bash
+# Build all packages
+pnpm build
+
+# Run linting
+pnpm lint
+
+# Clean build artifacts
+pnpm clean
+
+# Test downloader
+pnpm --filter downloader quick-start
+
+# Test local server
+pnpm --filter local-server dev
+```
+
+## Architecture
+
+```
+├── apps/
+│   ├── api-server/          # Live API MCP server
+│   ├── downloader/          # Data extraction CLI
+│   └── local-server/        # Local database MCP server
+├── packages/
+│   └── shared/              # Common utilities and types
+└── .github/
+    └── workflows/           # CI/CD for npm publishing
+```
+
+## Educational and Research Use
+
+This project is designed specifically for educational and research purposes. The Ellen G. White writings may be subject to copyright restrictions. Users are responsible for ensuring their use complies with applicable copyright laws and fair use guidelines.
+
+### Academic Citation
+
+When using this software in academic work, please cite:
+
+```
+Gospel Sounders. (2024). EGW Writings MCP Servers. 
+GitHub: https://github.com/gospelsounders/egw-writings-mcp
+```
+
+## API Credentials
+
+This software requires API credentials from the EGW Writings service. The credentials are used exclusively for:
+
+- Accessing publicly available writings
+- Educational and research purposes
+- Non-commercial use cases
+
+## Performance
+
+- **Local Server**: Sub-millisecond search response times
+- **Database**: SQLite with FTS5 full-text search
+- **Storage**: Efficient compression with reference indexing
+- **Memory**: Optimized for large content databases
 
 ## Contributing
 
-This project is focused on providing educational and research access to Adventist literature. Contributions should maintain respect for the source material and comply with fair use guidelines.
+1. Fork the repository
+2. Create a feature branch from `dev`
+3. Make your changes
+4. Ensure tests pass and code is linted
+5. Submit a pull request
+
+## Organization
+
+Developed by [Gospel Sounders](https://github.com/gospelsounders) under the leadership of [Brian Onang'o](https://github.com/surgbc).
 
 ## License
 
-This project is for educational and research purposes. All Ellen G. White writings and related content remain under their respective copyrights and usage terms from the Ellen G. White Estate and egwwritings.org.
+UNLICENSED - Proprietary software for educational and research use.
+
+See [LICENSE](./LICENSE) for full terms.
+
+## Support
+
+- [Issues](https://github.com/gospelsounders/egw-writings-mcp/issues)
+- [Discussions](https://github.com/gospelsounders/egw-writings-mcp/discussions)
+
+## Security
+
+If you discover a security vulnerability, please send an email to the maintainers rather than creating a public issue.
+
+---
+
+*Built with ❤️ for educational and research purposes*

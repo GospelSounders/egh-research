@@ -1,0 +1,59 @@
+{
+  "name": "@gospelsounders/egw-writings-downloader",
+  "version": "1.0.0",
+  "description": "Data extraction and database population tool for EGW Writings",
+  "main": "dist/index.js",
+  "bin": {
+    "egw-downloader": "dist/index.js"
+  },
+  "type": "module",
+  "license": "UNLICENSED",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gospelsounders/egw-writings-mcp.git",
+    "directory": "apps/downloader"
+  },
+  "author": {
+    "name": "Brian Onang'o",
+    "url": "https://github.com/surgbc"
+  },
+  "homepage": "https://github.com/gospelsounders/egw-writings-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/gospelsounders/egw-writings-mcp/issues"
+  },
+  "keywords": [
+    "egw",
+    "ellen-white",
+    "writings",
+    "downloader",
+    "database",
+    "research",
+    "educational"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "download": "tsx src/index.ts",
+    "clean": "rimraf dist",
+    "lint": "eslint src/ --ext .ts"
+  },
+  "dependencies": {
+    "@gospelsounders/egw-writings-shared": "^1.0.0",
+    "commander": "^11.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.0.0",
+    "rimraf": "^5.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

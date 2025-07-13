@@ -8,22 +8,51 @@ export interface Language {
 }
 
 export interface Folder {
-  id: number;
+  folder_id: number;
   name: string;
-  description?: string;
-  bookCount: number;
+  add_class: string;
+  nbooks: number;
+  naudiobooks: number;
+  sort: number;
+  children?: Folder[];
 }
 
 export interface Book {
-  id: number;
+  book_id: number;
+  code: string;
+  lang: string;
+  type: string;
+  subtype: string;
   title: string;
+  first_para: string;
   author: string;
-  language: string;
-  folderId: number;
-  status: string;
-  publishedYear?: number;
-  description?: string;
-  coverUrl?: string;
+  description: string;
+  npages: number;
+  isbn?: string;
+  publisher: string;
+  pub_year: string;
+  buy_link?: string;
+  folder_id: number;
+  folder_color_group: string;
+  cover: {
+    small: string;
+    large: string;
+  };
+  files: {
+    mp3?: string;
+    pdf: string;
+    epub: string;
+    mobi: string;
+  };
+  download: string;
+  last_modified: string;
+  permission_required: string;
+  sort: number;
+  is_audiobook: boolean;
+  cite: string;
+  original_book?: string;
+  translated_into: string[];
+  nelements: number;
 }
 
 export interface Chapter {
@@ -35,18 +64,42 @@ export interface Chapter {
 }
 
 export interface Paragraph {
-  id: number;
-  text: string;
-  reference: string;
-  chapterId: number;
-  order: number;
-  type: string;
+  para_id: string;
+  id_prev?: string;
+  id_next?: string;
+  refcode_1: string;
+  refcode_2: string;
+  refcode_3: string;
+  refcode_4: string;
+  refcode_short: string;
+  refcode_long: string;
+  element_type: string;
+  element_subtype: string;
+  content: string;
+  puborder: number;
+  translations: any[];
+}
+
+export interface SearchHit {
+  index: number;
+  lang: string;
+  para_id: string;
+  pub_code: string;
+  pub_name: string;
+  refcode_long: string;
+  refcode_short: string;
+  pub_year: string;
+  snippet: string;
+  weight: number;
+  group: string;
 }
 
 export interface SearchResult {
-  paragraphs: Paragraph[];
-  totalCount: number;
-  searchId: string;
+  next: string | null;
+  previous: string | null;
+  total: number;
+  count: number;
+  results: SearchHit[];
 }
 
 export class EGWApiClient {
@@ -154,29 +207,33 @@ export class EGWApiClient {
   /**
    * Get specific paragraph
    */
-  async getParagraph(bookId: number, paragraphId: number): Promise<Paragraph> {
+  async getParagraph(bookId: number, paragraphId: string): Promise<Paragraph> {
     const response = await this.client.get(`/content/books/${bookId}/content/${paragraphId}`);
     await this.delay();
     return response.data;
   }
 
   /**
-   * Search content
+   * Search content (using Android app parameters)
    */
   async search(query: string, options?: {
-    language?: string;
-    folder?: number;
-    book?: number;
+    lang?: string[];
+    folder?: number[];
+    pubnr?: number[];
     limit?: number;
     offset?: number;
+    highlight?: string;
+    trans?: string;
   }): Promise<SearchResult> {
     const params = new URLSearchParams({
-      q: query,
-      ...(options?.language && { lang: options.language }),
-      ...(options?.folder && { folder: options.folder.toString() }),
-      ...(options?.book && { book: options.book.toString() }),
+      query: query,
+      ...(options?.lang && { lang: options.lang.join(',') }),
+      ...(options?.folder && { folder: options.folder.join(',') }),
+      ...(options?.pubnr && { pubnr: options.pubnr.join(',') }),
       ...(options?.limit && { limit: options.limit.toString() }),
-      ...(options?.offset && { offset: options.offset.toString() })
+      ...(options?.offset && { offset: options.offset.toString() }),
+      ...(options?.highlight && { highlight: options.highlight }),
+      ...(options?.trans && { trans: options.trans })
     });
 
     const response = await this.client.get(`/search?${params.toString()}`);
@@ -185,10 +242,10 @@ export class EGWApiClient {
   }
 
   /**
-   * Get search suggestions
+   * Get search suggestions (using Android app parameters)
    */
   async getSearchSuggestions(query: string): Promise<string[]> {
-    const response = await this.client.get(`/search/suggestions?q=${encodeURIComponent(query)}`);
+    const response = await this.client.get(`/search/suggestions?query=${encodeURIComponent(query)}`);
     await this.delay();
     return response.data;
   }

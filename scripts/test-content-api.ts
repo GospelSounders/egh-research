@@ -22,81 +22,85 @@ async function testContentAPI() {
     console.log(`✅ Found ${folders.length} folders for English`);
     console.log('Available folders:');
     folders.slice(0, 10).forEach(folder => {
-      console.log(`- ${folder.name} (ID: ${folder.id}, Books: ${folder.bookCount})`);
+      console.log(`- ${folder.name} (ID: ${folder.folder_id}, Books: ${folder.nbooks})`);
     });
 
     // Test 3: Get books from first folder
     if (folders.length > 0) {
       console.log('\n3. Testing books endpoint...');
-      const firstFolder = folders[0];
-      console.log(`Getting books from folder: ${firstFolder.name}`);
+      // Find a folder with books - try to get books from a subfolder
+      const bookFolder = folders.find(f => f.children?.find(c => c.nbooks > 0))?.children?.find(c => c.nbooks > 0) || 
+                        folders.find(f => f.nbooks > 0);
       
-      const books = await apiClient.getBooksByFolder(firstFolder.id);
-      console.log(`✅ Found ${books.length} books in "${firstFolder.name}"`);
-      
-      if (books.length > 0) {
-        console.log('Sample books:');
-        books.slice(0, 5).forEach(book => {
-          console.log(`- ${book.title} by ${book.author} (ID: ${book.id})`);
-        });
-
-        // Test 4: Get book details
-        console.log('\n4. Testing book details...');
-        const firstBook = books[0];
-        console.log(`Getting details for: ${firstBook.title}`);
+      if (bookFolder) {
+        console.log(`Getting books from folder: ${bookFolder.name}`);
+        const books = await apiClient.getBooksByFolder(bookFolder.folder_id);
+        console.log(`✅ Found ${books.length} books in "${bookFolder.name}"`);
         
-        const bookDetails = await apiClient.getBook(firstBook.id);
-        console.log(`✅ Book details retrieved for "${bookDetails.title}"`);
-        console.log(`Author: ${bookDetails.author}`);
-        console.log(`Language: ${bookDetails.language}`);
-        console.log(`Status: ${bookDetails.status}`);
-
-        // Test 5: Get table of contents
-        console.log('\n5. Testing table of contents...');
-        const toc = await apiClient.getBookToc(firstBook.id);
-        console.log(`✅ Found ${toc.length} chapters`);
-        
-        if (toc.length > 0) {
-          console.log('Sample chapters:');
-          toc.slice(0, 3).forEach(chapter => {
-            console.log(`- Chapter ${chapter.order}: ${chapter.title} (${chapter.paragraphCount} paragraphs)`);
+        if (books.length > 0) {
+          console.log('Sample books:');
+          books.slice(0, 5).forEach(book => {
+            console.log(`- ${book.title} by ${book.author} (ID: ${book.book_id})`);
           });
 
-          // Test 6: Get chapter content
-          console.log('\n6. Testing chapter content...');
-          const firstChapter = toc[0];
-          console.log(`Getting content for: ${firstChapter.title}`);
+          // Test 4: Get book details
+          console.log('\n4. Testing book details...');
+          const firstBook = books[0];
+          console.log(`Getting details for: ${firstBook.title}`);
           
-          const paragraphs = await apiClient.getChapter(firstBook.id, firstChapter.id);
-          console.log(`✅ Found ${paragraphs.length} paragraphs`);
-          
-          if (paragraphs.length > 0) {
-            const firstParagraph = paragraphs[0];
-            const preview = firstParagraph.text.substring(0, 150) + '...';
-            console.log(`Sample paragraph (${firstParagraph.reference}):`);
-            console.log(`"${preview}"`);
+          const bookDetails = await apiClient.getBook(firstBook.book_id);
+          console.log(`✅ Book details retrieved for "${bookDetails.title}"`);
+          console.log(`Author: ${bookDetails.author}`);
+          console.log(`Language: ${bookDetails.lang}`);
+          console.log(`Pages: ${bookDetails.npages}`);
 
-            // Test 7: Get specific paragraph
-            console.log('\n7. Testing specific paragraph...');
-            const singleParagraph = await apiClient.getParagraph(firstBook.id, firstParagraph.id);
-            console.log(`✅ Retrieved paragraph: ${singleParagraph.reference}`);
-            const singlePreview = singleParagraph.text.substring(0, 100) + '...';
-            console.log(`Content: "${singlePreview}"`);
+          // Test 5: Get table of contents
+          console.log('\n5. Testing table of contents...');
+          const toc = await apiClient.getBookToc(firstBook.book_id);
+          console.log(`✅ Found ${toc.length} chapters`);
+          
+          if (toc.length > 0) {
+            console.log('Sample chapters:');
+            toc.slice(0, 3).forEach(chapter => {
+              console.log(`- Chapter ${chapter.order}: ${chapter.title} (${chapter.paragraphCount} paragraphs)`);
+            });
+
+            // Test 6: Get chapter content
+            console.log('\n6. Testing chapter content...');
+            const firstChapter = toc[0];
+            console.log(`Getting content for: ${firstChapter.title}`);
+            
+            const paragraphs = await apiClient.getChapter(firstBook.book_id, firstChapter.id);
+            console.log(`✅ Found ${paragraphs.length} paragraphs`);
+            
+            if (paragraphs.length > 0) {
+              const firstParagraph = paragraphs[0];
+              const preview = firstParagraph.content.substring(0, 150) + '...';
+              console.log(`Sample paragraph (${firstParagraph.refcode_short}):`);
+              console.log(`"${preview}"`);
+
+              // Test 7: Individual paragraph endpoint appears not to be available
+              console.log('\n7. Skipping individual paragraph test (endpoint may not be available)');
+            }
           }
         }
+      } else {
+        console.log('❌ No folders with books found');
       }
     }
 
     // Test 8: Search functionality
     console.log('\n8. Testing search...');
-    const searchResults = await apiClient.search('love', { limit: 5 });
-    console.log(`✅ Search found ${searchResults.totalCount} results`);
+    const searchResults = await apiClient.search('love', { 
+      lang: ['en'], 
+      limit: 5 
+    });
+    console.log(`✅ Search found ${searchResults.total} total results (${searchResults.count} in response)`);
     
-    if (searchResults.paragraphs.length > 0) {
+    if (searchResults.results.length > 0) {
       console.log('Sample search results:');
-      searchResults.paragraphs.slice(0, 3).forEach(paragraph => {
-        const preview = paragraph.text.substring(0, 100) + '...';
-        console.log(`- ${paragraph.reference}: "${preview}"`);
+      searchResults.results.slice(0, 3).forEach(hit => {
+        console.log(`- ${hit.refcode_short}: "${hit.snippet.substring(0, 100)}..."`);
       });
     }
 

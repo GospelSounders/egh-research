@@ -260,14 +260,25 @@ export class EGWAuthManager {
 
 // Create default auth manager instance
 export const createAuthManager = (): EGWAuthManager => {
+  // Check for environment variables
+  const clientId = process.env.EGW_CLIENT_ID;
+  const clientSecret = process.env.EGW_CLIENT_SECRET;
+  
+  if (!clientId || !clientSecret) {
+    throw new Error(
+      'Missing EGW API credentials. Please set EGW_CLIENT_ID and EGW_CLIENT_SECRET environment variables.'
+    );
+  }
+
   const config: OAuthConfig = {
-    clientId: 'LmuOHIVpIdTXi0qnrtsUtxuUaBqLyvZjgSY91qbC',
-    clientSecret: 'JBD8FwEOn6AN4F769gprjujZrZNkSC07HxKlvJvByJlXzS0sDXPBkm2zRChGYXwv9GZq8aux2gDmLQfzaVvcmDsZgYkp6yZ41tN1oIpbclYH8ARACEzFeaNlm835vnCi',
-    redirectUri: 'egw://egwwritings.oauthresponse',
-    scope: 'writings search studycenter subscriptions user_info',
-    authBaseUrl: 'https://cpanel.egwwritings.org',
-    apiBaseUrl: 'https://a.egwwritings.org'
+    clientId,
+    clientSecret,
+    redirectUri: process.env.EGW_REDIRECT_URI || 'egw://egwwritings.oauthresponse',
+    scope: process.env.EGW_SCOPE || 'writings search studycenter subscriptions user_info',
+    authBaseUrl: process.env.EGW_AUTH_BASE_URL || 'https://cpanel.egwwritings.org',
+    apiBaseUrl: process.env.EGW_API_BASE_URL || 'https://a.egwwritings.org'
   };
 
-  return new EGWAuthManager(config);
+  const tokenFile = process.env.EGW_TOKEN_FILE || path.join(process.cwd(), 'data', 'tokens.json');
+  return new EGWAuthManager(config, tokenFile);
 };

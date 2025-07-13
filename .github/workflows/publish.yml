@@ -1,0 +1,101 @@
+name: Publish to NPM
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'apps/**'
+      - 'packages/**'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        package:
+          - shared
+          - api-server
+          - downloader
+          - local-server
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          registry-url: 'https://registry.npmjs.org'
+          
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+          
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+        
+      - name: Build packages
+        run: pnpm build
+        
+      - name: Check if package version changed
+        id: version-check
+        run: |
+          PACKAGE_PATH="packages/${{ matrix.package }}"
+          if [ "${{ matrix.package }}" != "shared" ]; then
+            PACKAGE_PATH="apps/${{ matrix.package }}"
+          fi
+          
+          PACKAGE_NAME=$(cat $PACKAGE_PATH/package.json | grep '"name":' | cut -d'"' -f4)
+          CURRENT_VERSION=$(cat $PACKAGE_PATH/package.json | grep '"version":' | cut -d'"' -f4)
+          
+          # Check if version exists on npm
+          if npm view "$PACKAGE_NAME@$CURRENT_VERSION" version 2>/dev/null; then
+            echo "Version $CURRENT_VERSION already exists on npm"
+            echo "should_publish=false" >> $GITHUB_OUTPUT
+          else
+            echo "Version $CURRENT_VERSION does not exist on npm"
+            echo "should_publish=true" >> $GITHUB_OUTPUT
+          fi
+          
+          echo "package_name=$PACKAGE_NAME" >> $GITHUB_OUTPUT
+          echo "package_version=$CURRENT_VERSION" >> $GITHUB_OUTPUT
+          echo "package_path=$PACKAGE_PATH" >> $GITHUB_OUTPUT
+        
+      - name: Publish to NPM
+        if: steps.version-check.outputs.should_publish == 'true'
+        run: |
+          cd ${{ steps.version-check.outputs.package_path }}
+          pnpm publish --access public --no-git-checks
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          EGW_CLIENT_ID: ${{ secrets.EGW_CLIENT_ID }}
+          EGW_CLIENT_SECRET: ${{ secrets.EGW_CLIENT_SECRET }}
+          
+      - name: Create GitHub Release
+        if: steps.version-check.outputs.should_publish == 'true'
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.version-check.outputs.package_name }}@${{ steps.version-check.outputs.package_version }}
+          release_name: ${{ steps.version-check.outputs.package_name }} v${{ steps.version-check.outputs.package_version }}
+          body: |
+            ## ${{ steps.version-check.outputs.package_name }} v${{ steps.version-check.outputs.package_version }}
+            
+            Published to NPM: https://www.npmjs.com/package/${{ steps.version-check.outputs.package_name }}
+            
+            ### Installation
+            ```bash
+            npm install ${{ steps.version-check.outputs.package_name }}
+            ```
+            
+            ### Educational and Research Use
+            This package is designed for educational and research purposes. The EGW writings may be subject to copyright restrictions. Users are responsible for ensuring their use complies with applicable copyright laws and fair use guidelines.
+          draft: false
+          prerelease: false

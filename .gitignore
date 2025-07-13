@@ -53,6 +53,10 @@ data/sqlite/
 *.sqlite
 *.sqlite3
 
+# Token files
+*-token.json
+tokens.json
+
 # APK files and extracted content
 apk/
 extracted/
@@ -74,3 +78,6 @@ docs/build/
 .yarn/
 yarn.lock
 package-lock.json
+
+# Turbo
+.turbo/
