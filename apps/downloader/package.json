@@ -43,7 +43,7 @@
     "lint": "eslint src/ --ext .ts"
   },
   "dependencies": {
-    "@gospelsounders/egw-writings-shared": "^1.0.0",
+    "@gospelsounders/egw-writings-shared": "workspace:*",
     "commander": "^11.0.0",
     "dotenv": "^16.0.0"
   },

@@ -14,12 +14,15 @@ importers:
 
   apps/api-server:
     dependencies:
-      '@egw-writings/shared':
+      '@gospelsounders/egw-writings-shared':
         specifier: workspace:*
         version: link:../../packages/shared
       '@modelcontextprotocol/sdk':
         specifier: ^1.0.0
         version: 1.15.1
+      dotenv:
+        specifier: ^16.0.0
+        version: 16.6.1
     devDependencies:
       '@types/node':
         specifier: ^20.0.0
@@ -45,12 +48,15 @@ importers:
 
   apps/downloader:
     dependencies:
-      '@egw-writings/shared':
+      '@gospelsounders/egw-writings-shared':
         specifier: workspace:*
         version: link:../../packages/shared
       commander:
         specifier: ^11.0.0
         version: 11.1.0
+      dotenv:
+        specifier: ^16.0.0
+        version: 16.6.1
     devDependencies:
       '@types/node':
         specifier: ^20.0.0
@@ -76,7 +82,7 @@ importers:
 
   apps/local-server:
     dependencies:
-      '@egw-writings/shared':
+      '@gospelsounders/egw-writings-shared':
         specifier: workspace:*
         version: link:../../packages/shared
       '@modelcontextprotocol/sdk':
@@ -1049,6 +1055,11 @@ packages:
       dom-serializer: 2.0.0
       domelementtype: 2.3.0
       domhandler: 5.0.3
+    dev: false
+
+  /dotenv@16.6.1:
+    resolution: {integrity: sha512-uBq4egWHTcTt33a72vpSG0z3HnPuIl6NqYcTrKEg2azoEyl2hpW0zqlxysq2pK9HlDIHyHyakeYaYnSAwd8bow==}
+    engines: {node: '>=12'}
     dev: false
 
   /dunder-proto@1.0.1:
