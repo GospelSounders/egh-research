@@ -7,7 +7,7 @@
     "egw-api-server": "dist/server.js"
   },
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": false,
   "publishConfig": {
     "access": "public"

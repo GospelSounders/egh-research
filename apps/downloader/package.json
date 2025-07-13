@@ -7,7 +7,7 @@
     "egw-downloader": "dist/index.js"
   },
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": false,
   "publishConfig": {
     "access": "public"
