@@ -14,12 +14,12 @@ importers:
 
   apps/api-server:
     dependencies:
-      '@gospelsounders/egw-writings-shared':
-        specifier: workspace:*
-        version: link:../../packages/shared
       '@modelcontextprotocol/sdk':
         specifier: ^1.0.0
         version: 1.15.1
+      '@surgbc/egw-writings-shared':
+        specifier: workspace:*
+        version: link:../../packages/shared
       dotenv:
         specifier: ^16.0.0
         version: 16.6.1
@@ -48,7 +48,7 @@ importers:
 
   apps/downloader:
     dependencies:
-      '@gospelsounders/egw-writings-shared':
+      '@surgbc/egw-writings-shared':
         specifier: workspace:*
         version: link:../../packages/shared
       commander:
@@ -82,12 +82,12 @@ importers:
 
   apps/local-server:
     dependencies:
-      '@gospelsounders/egw-writings-shared':
-        specifier: workspace:*
-        version: link:../../packages/shared
       '@modelcontextprotocol/sdk':
         specifier: ^1.0.0
         version: 1.15.1
+      '@surgbc/egw-writings-shared':
+        specifier: workspace:*
+        version: link:../../packages/shared
     devDependencies:
       '@types/node':
         specifier: ^20.0.0

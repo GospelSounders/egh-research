@@ -1,4 +1,4 @@
-# @gospelsounders/egw-writings-downloader
+# @surgbc/egw-writings-downloader
 
 Data extraction and database population tool for Ellen G. White (EGW) Writings for educational and research purposes.
 
@@ -18,7 +18,7 @@ This command-line tool downloads and indexes EGW writings content into a local S
 ## Installation
 
 ```bash
-npm install -g @gospelsounders/egw-writings-downloader
+npm install -g @surgbc/egw-writings-downloader
 ```
 
 ## Usage

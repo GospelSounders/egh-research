@@ -7,7 +7,7 @@ import {
   CallToolRequestSchema,
   ListToolsRequestSchema,
 } from '@modelcontextprotocol/sdk/types.js';
-import { createAuthManager, createApiClient } from '@gospelsounders/egw-writings-shared';
+import { createAuthManager, createApiClient } from '@surgbc/egw-writings-shared';
 
 const server = new Server(
   {

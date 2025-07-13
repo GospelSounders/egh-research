@@ -1,5 +1,5 @@
 {
-  "name": "@gospelsounders/egw-writings-downloader",
+  "name": "@surgbc/egw-writings-downloader",
   "version": "1.0.0",
   "description": "Data extraction and database population tool for EGW Writings",
   "main": "dist/index.js",
@@ -43,7 +43,7 @@
     "lint": "eslint src/ --ext .ts"
   },
   "dependencies": {
-    "@gospelsounders/egw-writings-shared": "workspace:*",
+    "@surgbc/egw-writings-shared": "workspace:*",
     "commander": "^11.0.0",
     "dotenv": "^16.0.0"
   },

@@ -1,4 +1,4 @@
-# @gospelsounders/egw-writings-api-server
+# @surgbc/egw-writings-api-server
 
 MCP server providing live access to Ellen G. White (EGW) Writings API for educational and research purposes.
 
@@ -18,7 +18,7 @@ This Model Context Protocol (MCP) server provides real-time access to the EGW Wr
 ## Installation
 
 ```bash
-npm install -g @gospelsounders/egw-writings-api-server
+npm install -g @surgbc/egw-writings-api-server
 ```
 
 ## Usage

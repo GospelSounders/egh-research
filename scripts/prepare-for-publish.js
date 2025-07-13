@@ -17,8 +17,8 @@ function updatePackageForPublish(packagePath) {
   const sharedVersion = sharedPackageJson.version;
   
   // Update workspace dependencies to published versions
-  if (packageJson.dependencies && packageJson.dependencies['@gospelsounders/egw-writings-shared']) {
-    packageJson.dependencies['@gospelsounders/egw-writings-shared'] = `^${sharedVersion}`;
+  if (packageJson.dependencies && packageJson.dependencies['@surgbc/egw-writings-shared']) {
+    packageJson.dependencies['@surgbc/egw-writings-shared'] = `^${sharedVersion}`;
   }
   
   // Write updated package.json

@@ -1,4 +1,4 @@
-# @gospelsounders/egw-writings-shared
+# @surgbc/egw-writings-shared
 
 Shared utilities, types, and database schema for EGW Writings MCP servers for educational and research purposes.
 
@@ -17,7 +17,7 @@ This package provides common functionality shared across the EGW Writings MCP se
 ## Installation
 
 ```bash
-npm install @gospelsounders/egw-writings-shared
+npm install @surgbc/egw-writings-shared
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ npm install @gospelsounders/egw-writings-shared
 ### API Client
 
 ```typescript
-import { createAuthManager, createApiClient } from '@gospelsounders/egw-writings-shared';
+import { createAuthManager, createApiClient } from '@surgbc/egw-writings-shared';
 
 const authManager = createAuthManager();
 const apiClient = createApiClient(authManager);
@@ -46,7 +46,7 @@ const books = await apiClient.getBooksByFolder(folderId);
 ### Database Management
 
 ```typescript
-import { EGWDatabase } from '@gospelsounders/egw-writings-shared';
+import { EGWDatabase } from '@surgbc/egw-writings-shared';
 
 const db = new EGWDatabase({
   dbPath: './data/egw-writings.db',
@@ -76,7 +76,7 @@ import type {
   SearchResult, 
   Language,
   Folder 
-} from '@gospelsounders/egw-writings-shared';
+} from '@surgbc/egw-writings-shared';
 
 // Use types for type safety
 const processBook = (book: Book) => {

@@ -2,7 +2,7 @@
 
 A comprehensive Model Context Protocol (MCP) server ecosystem for accessing Ellen G. White writings for educational and research purposes.
 
-[![NPM Package](https://img.shields.io/badge/npm-@gospelsounders%2Fegw--writings-blue)](https://www.npmjs.com/org/gospelsounders)
+[![NPM Package](https://img.shields.io/badge/npm-@surgbc%2Fegw--writings-blue)](https://www.npmjs.com/~surgbc)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
@@ -20,9 +20,9 @@ This monorepo contains three MCP servers and shared utilities for working with E
 
 ```bash
 # Install all three servers globally
-npm install -g @gospelsounders/egw-writings-api-server
-npm install -g @gospelsounders/egw-writings-downloader  
-npm install -g @gospelsounders/egw-writings-local-server
+npm install -g @surgbc/egw-writings-api-server
+npm install -g @surgbc/egw-writings-downloader  
+npm install -g @surgbc/egw-writings-local-server
 ```
 
 ### 2. Set Up Environment
@@ -73,7 +73,7 @@ Add to your MCP client configuration:
 
 ## Packages
 
-### [@gospelsounders/egw-writings-api-server](./apps/api-server/)
+### [@surgbc/egw-writings-api-server](./apps/api-server/)
 MCP server providing live access to the EGW Writings API with real-time search and content retrieval.
 
 **Features:**
@@ -82,7 +82,7 @@ MCP server providing live access to the EGW Writings API with real-time search a
 - Full-text search
 - Book management and citation support
 
-### [@gospelsounders/egw-writings-downloader](./apps/downloader/)
+### [@surgbc/egw-writings-downloader](./apps/downloader/)
 Command-line tool for downloading and indexing EGW writings into a local SQLite database.
 
 **Features:**
@@ -91,7 +91,7 @@ Command-line tool for downloading and indexing EGW writings into a local SQLite 
 - SQLite with FTS5 search indexing
 - Selective language and content filtering
 
-### [@gospelsounders/egw-writings-local-server](./apps/local-server/)
+### [@surgbc/egw-writings-local-server](./apps/local-server/)
 MCP server providing high-performance access to locally downloaded EGW writings database.
 
 **Features:**
@@ -100,7 +100,7 @@ MCP server providing high-performance access to locally downloaded EGW writings 
 - Reference-based navigation (e.g., "AA 15.1")
 - Context retrieval and highlighting
 
-### [@gospelsounders/egw-writings-shared](./packages/shared/)
+### [@surgbc/egw-writings-shared](./packages/shared/)
 Shared utilities, types, and database management for the EGW Writings ecosystem.
 
 **Features:**

@@ -1,5 +1,5 @@
 {
-  "name": "@gospelsounders/egw-writings-shared",
+  "name": "@surgbc/egw-writings-shared",
   "version": "1.0.0",
   "description": "Shared utilities, types, and database schema for EGW Writings MCP servers",
   "main": "dist/index.js",

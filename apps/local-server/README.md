@@ -1,4 +1,4 @@
-# @gospelsounders/egw-writings-local-server
+# @surgbc/egw-writings-local-server
 
 MCP server providing fast access to local EGW Writings database for educational and research purposes.
 
@@ -19,7 +19,7 @@ This Model Context Protocol (MCP) server provides high-performance access to a l
 ## Installation
 
 ```bash
-npm install -g @gospelsounders/egw-writings-local-server
+npm install -g @surgbc/egw-writings-local-server
 ```
 
 ## Prerequisites
@@ -27,7 +27,7 @@ npm install -g @gospelsounders/egw-writings-local-server
 You need a populated EGW writings database. Use the downloader tool first:
 
 ```bash
-npx @gospelsounders/egw-writings-downloader quick-start
+npx @surgbc/egw-writings-downloader quick-start
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-  "name": "@gospelsounders/egw-writings-api-server",
+  "name": "@surgbc/egw-writings-api-server",
   "version": "1.0.0",
   "description": "MCP server providing live access to EGW Writings API",
   "main": "dist/server.js",
@@ -43,7 +43,7 @@
     "lint": "eslint src/ --ext .ts"
   },
   "dependencies": {
-    "@gospelsounders/egw-writings-shared": "workspace:*",
+    "@surgbc/egw-writings-shared": "workspace:*",
     "@modelcontextprotocol/sdk": "^1.0.0",
     "dotenv": "^16.0.0"
   },

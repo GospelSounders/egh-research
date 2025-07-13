@@ -6,7 +6,7 @@ import {
   CallToolRequestSchema,
   ListToolsRequestSchema,
 } from '@modelcontextprotocol/sdk/types.js';
-import { EGWDatabase } from '@gospelsounders/egw-writings-shared';
+import { EGWDatabase } from '@surgbc/egw-writings-shared';
 
 const server = new Server(
   {

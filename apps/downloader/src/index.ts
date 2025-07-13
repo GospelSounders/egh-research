@@ -2,7 +2,7 @@
 
 import 'dotenv/config';
 import { Command } from 'commander';
-import { createAuthManager, createApiClient, EGWDatabase } from '@gospelsounders/egw-writings-shared';
+import { createAuthManager, createApiClient, EGWDatabase } from '@surgbc/egw-writings-shared';
 
 const program = new Command();
 
