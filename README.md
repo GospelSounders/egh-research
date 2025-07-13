@@ -24,11 +24,21 @@ npm install -g @gospelsounders/egw-writings-local-server
 
 ### 2. Set Up Environment
 
-Create a `.env` file with your API credentials:
-
+**For Global Installation (recommended):**
 ```bash
-EGW_CLIENT_ID=your_client_id_here
-EGW_CLIENT_SECRET=your_client_secret_here
+# Set environment variables in your shell profile (~/.bashrc, ~/.zshrc, etc.)
+export EGW_CLIENT_ID="your_client_id_here"
+export EGW_CLIENT_SECRET="your_client_secret_here"
+
+# Or set them per command:
+EGW_CLIENT_ID="your_id" EGW_CLIENT_SECRET="your_secret" egw-downloader quick-start
+```
+
+**For Local Development:**
+```bash
+# Create .env file in the repository root
+echo "EGW_CLIENT_ID=your_client_id_here" > .env
+echo "EGW_CLIENT_SECRET=your_client_secret_here" >> .env
 ```
 
 ### 3. Download Sample Data
@@ -195,14 +205,14 @@ Developed by [Gospel Sounders](https://github.com/gospelsounders) under the lead
 
 ## License
 
-UNLICENSED - Proprietary software for educational and research use.
+MIT License - Open source software for educational and research use.
 
 See [LICENSE](./LICENSE) for full terms.
 
 ## Support
 
 - [Issues](https://github.com/gospelsounders/egw-writings-mcp/issues)
-- [Discussions](https://github.com/gospelsounders/egw-writings-mcp/discussions)
+- [Documentation](https://github.com/gospelsounders/egw-writings-mcp#readme)
 
 ## Security
 
