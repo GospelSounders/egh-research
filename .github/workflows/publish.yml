@@ -40,8 +40,8 @@ jobs:
       - name: Check if shared package version changed
         id: shared-check
         run: |
-          PACKAGE_NAME=$(cat packages/shared/package.json | grep '"name":' | cut -d'"' -f4)
-          CURRENT_VERSION=$(cat packages/shared/package.json | grep '"version":' | cut -d'"' -f4)
+          PACKAGE_NAME=$(cat packages/shared/package.json | grep '^ *"name":' | head -1 | cut -d'"' -f4)
+          CURRENT_VERSION=$(cat packages/shared/package.json | grep '^ *"version":' | head -1 | cut -d'"' -f4)
           
           if npm view "$PACKAGE_NAME@$CURRENT_VERSION" version 2>/dev/null; then
             echo "Version $CURRENT_VERSION already exists on npm"
@@ -98,8 +98,8 @@ jobs:
         run: |
           PACKAGE_PATH="apps/${{ matrix.package }}"
           
-          PACKAGE_NAME=$(cat $PACKAGE_PATH/package.json | grep '"name":' | cut -d'"' -f4)
-          CURRENT_VERSION=$(cat $PACKAGE_PATH/package.json | grep '"version":' | cut -d'"' -f4)
+          PACKAGE_NAME=$(cat $PACKAGE_PATH/package.json | grep '^ *"name":' | head -1 | cut -d'"' -f4)
+          CURRENT_VERSION=$(cat $PACKAGE_PATH/package.json | grep '^ *"version":' | head -1 | cut -d'"' -f4)
           
           # Check if version exists on npm
           if npm view "$PACKAGE_NAME@$CURRENT_VERSION" version 2>/dev/null; then
