@@ -1,0 +1,53 @@
+{
+  "name": "egw-writings-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Ellen G. White writings and Adventist literature",
+  "main": "dist/server.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "tsx watch src/server.ts",
+    "extract-data": "tsx scripts/extract-apk.ts",
+    "analyze-api": "tsx scripts/analyze-api.ts",
+    "build-index": "tsx scripts/build-index.ts",
+    "test": "jest",
+    "lint": "eslint src/ --ext .ts",
+    "clean": "rimraf dist"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ellen-white",
+    "adventist",
+    "research",
+    "writings"
+  ],
+  "author": "surgbc",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "axios": "^1.6.0",
+    "better-sqlite3": "^9.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^11.0.0",
+    "fs-extra": "^11.0.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.0",
+    "@types/fs-extra": "^11.0.0",
+    "@types/jest": "^29.0.0",
+    "@types/node": "^20.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.0.0",
+    "jest": "^29.0.0",
+    "rimraf": "^5.0.0",
+    "ts-jest": "^29.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
