@@ -68,6 +68,9 @@ jobs:
           - api-server
           - downloader
           - local-server
+        include:
+          - package: egw-pdf-generator
+            path: packages/egw-pdf-generator
     
     steps:
       - name: Checkout code
@@ -96,7 +99,7 @@ jobs:
       - name: Check if package version changed
         id: version-check
         run: |
-          PACKAGE_PATH="apps/${{ matrix.package }}"
+          PACKAGE_PATH="${{ matrix.path || format('apps/{0}', matrix.package) }}"
           
           PACKAGE_NAME=$(cat $PACKAGE_PATH/package.json | grep '^ *"name":' | head -1 | cut -d'"' -f4)
           CURRENT_VERSION=$(cat $PACKAGE_PATH/package.json | grep '^ *"version":' | head -1 | cut -d'"' -f4)

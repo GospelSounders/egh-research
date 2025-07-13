@@ -178,6 +178,15 @@ program
       console.log(`  Downloaded Books: ${stats.downloadedBooks}`);
       console.log(`  Paragraphs: ${stats.paragraphs}`);
       
+      // Show category breakdown
+      const categories = db.getBooksByCategories();
+      if (categories.length > 0) {
+        console.log('\n📚 Books by Category:');
+        categories.forEach((cat: any) => {
+          console.log(`  ${cat.category}/${cat.subcategory}: ${cat.count} books`);
+        });
+      }
+      
       const progress = db.getDownloadProgress();
       if (progress.length > 0) {
         console.log('\n📈 Recent Download Progress:');
@@ -187,6 +196,32 @@ program
       }
     } catch (error) {
       console.error('❌ Error getting stats:', error);
+      process.exit(1);
+    } finally {
+      db.close();
+    }
+  });
+
+program
+  .command('categorize')
+  .description('Update existing books with category information')
+  .action(async () => {
+    console.log('🏷️ Updating book categories...');
+    
+    const db = new EGWDatabase();
+    
+    try {
+      const updated = db.updateBookCategories();
+      console.log(`✅ Updated ${updated} books with category information`);
+      
+      // Show updated breakdown
+      const categories = db.getBooksByCategories();
+      console.log('\n📚 Updated Books by Category:');
+      categories.forEach((cat: any) => {
+        console.log(`  ${cat.category}/${cat.subcategory}: ${cat.count} books`);
+      });
+    } catch (error) {
+      console.error('❌ Error updating categories:', error);
       process.exit(1);
     } finally {
       db.close();

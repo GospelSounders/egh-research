@@ -1,0 +1,60 @@
+{
+  "name": "egw-research-compilation",
+  "description": "Claude Code sandbox for automated EGW research compilation",
+  "dockerFile": "FROM node:18-alpine\n\n# Install system dependencies\nRUN apk add --no-cache git python3 make g++ sqlite\n\n# Install pnpm\nRUN npm install -g pnpm\n\n# Set working directory\nWORKDIR /workspace\n\n# Install Claude Code (this would be mounted or installed)\n# RUN npm install -g @anthropic/claude-code\n\n# Copy EGW packages (these would be pre-built)\n# COPY packages/ ./packages/\n# COPY apps/ ./apps/\n\n# Install dependencies\n# RUN pnpm install\n\n# Default command\nCMD [\"bash\"]",
+  "environment": {
+    "NODE_ENV": "development",
+    "EGW_DATABASE_PATH": "/workspace/data/egw.db",
+    "CLAUDE_API_KEY": "${CLAUDE_API_KEY}",
+    "RESEARCH_OUTPUT_DIR": "/workspace/output"
+  },
+  "mounts": [
+    {
+      "source": "./data",
+      "target": "/workspace/data",
+      "type": "bind",
+      "readonly": true
+    },
+    {
+      "source": "./output",
+      "target": "/workspace/output",
+      "type": "bind"
+    }
+  ],
+  "setupCommands": [
+    "echo 'Setting up EGW Research environment...'",
+    "mkdir -p /workspace/output",
+    "npm install -g @surgbc/egw-writings-shared @surgbc/egw-pdf-generator",
+    "echo 'EGW Research sandbox ready for automated compilation'"
+  ],
+  "initialPrompt": "You are in an EGW Research compilation environment. Your task is to:\n\n1. Take a research topic as input\n2. Use the EGW database tools to search for relevant passages\n3. Organize findings by book, topic, or chronological order\n4. Generate a professional PDF compilation with proper citations\n5. Save the output to /workspace/output/\n\nAvailable tools:\n- @surgbc/egw-writings-shared: Database search and content retrieval\n- @surgbc/egw-pdf-generator: Professional PDF generation\n- EGW database at /workspace/data/egw.db\n\nExample workflow:\n```bash\n# Search for topic\negw-search 'salvation by faith' --limit 50\n\n# Generate research compilation\negw-pdf-generator research \\\n  --query 'salvation by faith' \\\n  --output /workspace/output/salvation-research.pdf \\\n  --group-by book \\\n  --citation-style academic\n```\n\nWhat research topic would you like me to compile?",
+  "autoCommit": true,
+  "branchPrefix": "research-compilation",
+  "tools": {
+    "bash": {
+      "enabled": true,
+      "timeout": 300000
+    },
+    "file_operations": {
+      "enabled": true,
+      "allowedPaths": ["/workspace"]
+    },
+    "git": {
+      "enabled": true,
+      "autoCommit": true
+    }
+  },
+  "security": {
+    "networkAccess": "limited",
+    "allowedHosts": [
+      "api.anthropic.com",
+      "github.com",
+      "registry.npmjs.org"
+    ],
+    "resourceLimits": {
+      "memory": "2GB",
+      "cpu": "2",
+      "disk": "10GB"
+    }
+  }
+}

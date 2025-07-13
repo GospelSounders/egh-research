@@ -1,0 +1,29 @@
+{
+  "description": "Example batch research configuration for EGW Research automation",
+  "topics": [
+    "salvation by faith",
+    "health and temperance principles",
+    "education philosophy and methods", 
+    "prayer and communion with God",
+    "second coming of Christ",
+    "sabbath observance and blessing",
+    "family life and relationships",
+    "christian service and witnessing",
+    "bible study methods",
+    "spiritual gifts and their use"
+  ],
+  "options": {
+    "maxResults": 75,
+    "groupBy": "book",
+    "citationStyle": "academic", 
+    "outputFormat": "pdf",
+    "includeContext": true,
+    "languages": ["en"]
+  },
+  "metadata": {
+    "created": "2024-01-01",
+    "description": "Core theological topics for comprehensive EGW research",
+    "estimatedDuration": "2-3 hours for complete batch",
+    "outputLocation": "./research-output/"
+  }
+}

@@ -1,6 +1,6 @@
 import Database from 'better-sqlite3';
 import path from 'path';
-import fs from 'fs-extra';
+import { mkdirSync, existsSync } from 'fs';
 import type { Book, Paragraph, SearchHit } from '../types/index.js';
 
 export interface DatabaseConfig {
@@ -15,8 +15,15 @@ export class EGWDatabase {
   constructor(config: DatabaseConfig = {}) {
     const dbPath = config.dbPath || path.join(process.cwd(), 'data', 'egw-writings.db');
     
-    // Ensure database directory exists
-    fs.ensureDirSync(path.dirname(dbPath));
+    console.log('Creating EGWDatabase with path:', dbPath);
+    console.log('Database file exists:', existsSync(dbPath));
+    
+    // Ensure database directory exists only if needed
+    const dbDir = path.dirname(dbPath);
+    if (!existsSync(dbDir)) {
+      console.log('Creating database directory:', dbDir);
+      mkdirSync(dbDir, { recursive: true });
+    }
     
     this.db = new Database(dbPath);
     
@@ -91,9 +98,24 @@ export class EGWDatabase {
         original_book TEXT,
         translated_into TEXT, -- JSON array
         nelements INTEGER DEFAULT 0,
-        downloaded_at DATETIME
+        downloaded_at DATETIME,
+        category TEXT, -- Main category: egw, pioneer, devotional, historical, periodical, reference
+        subcategory TEXT -- Subcategory within main category
       )
     `);
+
+    // Add category columns if they don't exist (for existing databases)
+    try {
+      this.db.exec(`ALTER TABLE books ADD COLUMN category TEXT;`);
+    } catch (error) {
+      // Ignore if column already exists
+    }
+    
+    try {
+      this.db.exec(`ALTER TABLE books ADD COLUMN subcategory TEXT;`);
+    } catch (error) {
+      // Ignore if column already exists
+    }
 
     // Paragraphs table
     this.db.exec(`
@@ -139,6 +161,9 @@ export class EGWDatabase {
       CREATE INDEX IF NOT EXISTS idx_books_lang ON books(lang);
       CREATE INDEX IF NOT EXISTS idx_books_folder ON books(folder_id);
       CREATE INDEX IF NOT EXISTS idx_books_author ON books(author);
+      CREATE INDEX IF NOT EXISTS idx_books_category ON books(category);
+      CREATE INDEX IF NOT EXISTS idx_books_subcategory ON books(subcategory);
+      CREATE INDEX IF NOT EXISTS idx_books_type ON books(type);
       CREATE INDEX IF NOT EXISTS idx_paragraphs_book ON paragraphs(book_id);
       CREATE INDEX IF NOT EXISTS idx_paragraphs_type ON paragraphs(element_type);
       CREATE INDEX IF NOT EXISTS idx_paragraphs_order ON paragraphs(book_id, puborder);
@@ -207,11 +232,14 @@ export class EGWDatabase {
         npages, isbn, publisher, pub_year, buy_link, folder_id, folder_color_group,
         cover_small, cover_large, file_mp3, file_pdf, file_epub, file_mobi,
         download_url, last_modified, permission_required, sort_order, is_audiobook,
-        cite, original_book, translated_into, nelements, downloaded_at
+        cite, original_book, translated_into, nelements, downloaded_at, category, subcategory
       ) VALUES (
-        ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+        ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
       )
     `);
+    
+    // Automatically categorize book based on type, folder, and author
+    const { category, subcategory } = this.categorizeBook(book);
     
     return stmt.run(
       book.book_id, book.code, book.lang, book.type, book.subtype, book.title,
@@ -221,31 +249,184 @@ export class EGWDatabase {
       book.files.mp3, book.files.pdf, book.files.epub, book.files.mobi,
       book.download, book.last_modified, book.permission_required, book.sort,
       book.is_audiobook ? 1 : 0, book.cite, book.original_book,
-      JSON.stringify(book.translated_into), book.nelements, new Date().toISOString()
+      JSON.stringify(book.translated_into), book.nelements, new Date().toISOString(),
+      category, subcategory
     );
   }
 
-  getBooks(languageCode?: string, folderId?: number) {
+  // Categorize books based on egwwritings.org structure
+  private categorizeBook(book: Book): { category: string; subcategory: string } {
+    const author = book.author?.toLowerCase() || '';
+    const title = book.title?.toLowerCase() || '';
+    const type = book.type?.toLowerCase() || '';
+    const code = book.code?.toLowerCase() || '';
+
+    // Ellen G. White writings
+    if (author.includes('white') || author.includes('elena')) {
+      // Devotional compilations
+      if (title.includes('maranatha') || title.includes('heavenly') || 
+          title.includes('sons') || title.includes('daughters') ||
+          title.includes('morning watch') || title.includes('devotional')) {
+        return { category: 'egw', subcategory: 'devotional' };
+      }
+      
+      // Manuscript releases
+      if (title.includes('manuscript release') || code.includes('mr')) {
+        return { category: 'egw', subcategory: 'manuscripts' };
+      }
+      
+      // Letters
+      if (title.includes('letter') || code.includes('lt')) {
+        return { category: 'egw', subcategory: 'letters' };
+      }
+      
+      // Testimonies
+      if (title.includes('testimon') || code.includes('tt') || code.includes('1t')) {
+        return { category: 'egw', subcategory: 'testimonies' };
+      }
+      
+      // Major books
+      if (title.includes('great controversy') || title.includes('desire') || 
+          title.includes('patriarchs') || title.includes('acts') ||
+          title.includes('prophets and kings') || title.includes('education') ||
+          title.includes('ministry of healing') || title.includes('steps to christ')) {
+        return { category: 'egw', subcategory: 'books' };
+      }
+      
+      // Pamphlets
+      if (type === 'pamphlet' || book.npages < 100) {
+        return { category: 'egw', subcategory: 'pamphlets' };
+      }
+      
+      return { category: 'egw', subcategory: 'books' };
+    }
+
+    // Pioneer authors
+    const pioneers = [
+      'uriah smith', 'a. t. jones', 'j. n. andrews', 'john andrews', 
+      'm. l. andreasen', 'j. n. loughborough', 'alonzo jones',
+      'ellet waggoner', 'stephen haskell', 'william miller',
+      'joshua himes', 'hiram edson', 'joseph bates'
+    ];
+    
+    if (pioneers.some(pioneer => author.includes(pioneer))) {
+      if (type === 'periodical' || title.includes('review') || title.includes('herald')) {
+        return { category: 'periodical', subcategory: 'pioneer' };
+      }
+      return { category: 'pioneer', subcategory: 'books' };
+    }
+
+    // Periodicals
+    if (type === 'periodical' || 
+        title.includes('review') || title.includes('herald') || 
+        title.includes('signs') || title.includes('times') ||
+        title.includes('youth') || title.includes('instructor') ||
+        title.includes('advent') && title.includes('herald')) {
+      return { category: 'periodical', subcategory: 'historical' };
+    }
+
+    // Reference materials
+    if (type === 'bible' || type === 'dictionary' || type === 'scriptindex' || 
+        type === 'topicalindex' || title.includes('concordance')) {
+      return { category: 'reference', subcategory: 'biblical' };
+    }
+
+    // Historical works
+    if (title.includes('history') || title.includes('origin') || 
+        title.includes('movement') || title.includes('denomination') ||
+        author.includes('spalding') || author.includes('knight')) {
+      return { category: 'historical', subcategory: 'denominational' };
+    }
+
+    // Modern devotional works
+    if (type === 'devotional' || title.includes('devotional') || 
+        title.includes('daily') || title.includes('meditation')) {
+      return { category: 'devotional', subcategory: 'modern' };
+    }
+
+    // Default classification
+    if (type === 'book') {
+      return { category: 'historical', subcategory: 'general' };
+    }
+
+    return { category: 'reference', subcategory: 'general' };
+  }
+
+  getBooks(languageCode?: string, folderId?: number, category?: string, subcategory?: string) {
     let query = 'SELECT * FROM books';
     const params: any[] = [];
+    const conditions: string[] = [];
     
-    if (languageCode || folderId) {
-      query += ' WHERE';
-      if (languageCode) {
-        query += ' lang = ?';
-        params.push(languageCode);
-      }
-      if (folderId) {
-        if (languageCode) query += ' AND';
-        query += ' folder_id = ?';
-        params.push(folderId);
-      }
+    if (languageCode) {
+      conditions.push('lang = ?');
+      params.push(languageCode);
+    }
+    
+    if (folderId) {
+      conditions.push('folder_id = ?');
+      params.push(folderId);
+    }
+    
+    if (category) {
+      conditions.push('category = ?');
+      params.push(category);
+    }
+    
+    if (subcategory) {
+      conditions.push('subcategory = ?');
+      params.push(subcategory);
+    }
+    
+    if (conditions.length > 0) {
+      query += ' WHERE ' + conditions.join(' AND ');
     }
     
     query += ' ORDER BY sort_order, title';
     
     const stmt = this.db.prepare(query);
     return stmt.all(...params);
+  }
+
+  // Get books organized by categories
+  getBooksByCategories(languageCode?: string) {
+    let query = `
+      SELECT 
+        category,
+        subcategory,
+        COUNT(*) as count,
+        GROUP_CONCAT(title, '|||') as sample_titles
+      FROM books
+    `;
+    
+    const params: any[] = [];
+    
+    if (languageCode) {
+      query += ' WHERE lang = ?';
+      params.push(languageCode);
+    }
+    
+    query += ' GROUP BY category, subcategory ORDER BY category, subcategory';
+    
+    const stmt = this.db.prepare(query);
+    return stmt.all(...params);
+  }
+
+  // Update existing books with categories (migration helper)
+  updateBookCategories() {
+    const books = this.db.prepare('SELECT * FROM books WHERE category IS NULL').all();
+    
+    for (const book of books) {
+      const typedBook = book as any;
+      const { category, subcategory } = this.categorizeBook(typedBook);
+      
+      const updateStmt = this.db.prepare(`
+        UPDATE books SET category = ?, subcategory = ? WHERE book_id = ?
+      `);
+      
+      updateStmt.run(category, subcategory, typedBook.book_id);
+    }
+    
+    return books.length;
   }
 
   getBook(bookId: number) {

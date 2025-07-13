@@ -11,7 +11,11 @@
     "dev": "turbo dev",
     "start": "turbo start",
     "clean": "turbo clean",
-    "download": "turbo download"
+    "download": "turbo download",
+    "download:all": "node scripts/download-all-books.js",
+    "download:sample": "node scripts/download-sample-books.js",
+    "export:books": "node scripts/export-books-json.js",
+    "populate:db": "npm run download:sample && npm run export:books"
   },
   "keywords": [
     "mcp",

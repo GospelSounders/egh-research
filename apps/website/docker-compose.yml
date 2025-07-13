@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  egw-research-website:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_TELEMETRY_DISABLED=1
+    volumes:
+      # Mount the EGW database if available
+      - ${EGW_DATABASE_PATH:-./data}:/app/data:ro
+    restart: unless-stopped
+    networks:
+      - egw-network
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.egw-research.rule=Host(`egwresearch.gospelsounders.org`)"
+      - "traefik.http.routers.egw-research.tls=true"
+      - "traefik.http.routers.egw-research.tls.certresolver=letsencrypt"
+      - "traefik.http.services.egw-research.loadbalancer.server.port=3000"
+
+  # Optional: Include the API server if needed
+  # egw-api-server:
+  #   image: surgbc/egw-api-server:latest
+  #   ports:
+  #     - "3001:3001"
+  #   environment:
+  #     - NODE_ENV=production
+  #     - PORT=3001
+  #     - CORS_ENABLED=true
+  #   volumes:
+  #     - ${EGW_DATABASE_PATH:-./data}:/app/data:ro
+  #   restart: unless-stopped
+  #   networks:
+  #     - egw-network
+
+networks:
+  egw-network:
+    driver: bridge
+
+volumes:
+  egw-data:
+    driver: local

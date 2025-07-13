@@ -85,7 +85,7 @@ Developed by [Gospel Sounders](https://github.com/gospelsounders) under the lead
 
 ## License
 
-UNLICENSED - Proprietary software for educational and research use.
+MIT - Open source software for educational and research use.
 
 ## Support
 

@@ -26,8 +26,14 @@ function updatePackageForPublish(packagePath) {
   console.log(`Updated ${packagePath}/package.json - shared dependency: ^${sharedVersion}`);
 }
 
-// Update all app packages
-const apps = ['api-server', 'downloader', 'local-server'];
-apps.forEach(app => {
-  updatePackageForPublish(path.join(rootDir, 'apps', app));
+// Update all packages (excluding website since it's private)
+const packages = [
+  'apps/api-server',
+  'apps/downloader', 
+  'apps/local-server',
+  'packages/egw-pdf-generator'
+];
+
+packages.forEach(pkg => {
+  updatePackageForPublish(path.join(rootDir, pkg));
 });
