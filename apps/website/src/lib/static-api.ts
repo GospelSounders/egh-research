@@ -124,18 +124,14 @@ async function loadBooks(): Promise<Book[]> {
   try {
     // Try to load from books.json first
     const basePath = getBasePath();
-    console.log('Loading books from:', `${basePath}/api/books.json`);
     const response = await fetch(`${basePath}/api/books.json`);
     if (response.ok) {
       const booksData = await response.json();
-      console.log('Books data loaded:', { total: booksData.total, hasAll: 'all' in booksData });
       cachedBooks = booksData.all || booksData;
-      console.log('Cached books length:', cachedBooks.length);
       return cachedBooks!;
     }
     
     // Fallback to main data file
-    console.log('Fallback to main data file');
     const data = await loadData();
     cachedBooks = data.books.all;
     return cachedBooks!;
