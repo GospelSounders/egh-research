@@ -13,8 +13,8 @@ The fastest way to get started is with our pre-built Docker image:
 
 ```bash
 # Pull and run the latest image
-docker pull ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
-docker run -p 3000:3000 ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
+docker pull ghcr.io/surgbc/egh-research-server:latest
+docker run -p 3000:3000 ghcr.io/surgbc/egh-research-server:latest
 
 # Test the API
 curl http://localhost:3000/health
@@ -63,11 +63,11 @@ EGH Research is a comprehensive platform for offline research of Ellen Gould Har
 
 ```bash
 # Using Docker Run
-docker pull ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
-docker run -p 3000:3000 ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
+docker pull ghcr.io/surgbc/egh-research-server:latest
+docker run -p 3000:3000 ghcr.io/surgbc/egh-research-server:latest
 
 # Using Docker Compose
-curl -O https://raw.githubusercontent.com/GospelSounders/egw-writings-mcp/master/apps/local-server/docker-compose.yml
+curl -O https://raw.githubusercontent.com/Surgbc/egh-research/master/apps/local-server/docker-compose.yml
 docker-compose up -d
 ```
 

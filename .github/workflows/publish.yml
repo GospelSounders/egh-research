@@ -1,19 +1,17 @@
 name: Publish to NPM
 
 on:
-  push:
-    branches:
-      - master
-    paths:
-      - 'apps/**'
-      - 'packages/**'
-      - 'package.json'
-      - 'pnpm-lock.yaml'
+  workflow_run:
+    workflows: ["CI"]
+    branches: [master]
+    types:
+      - completed
   workflow_dispatch:
 
 jobs:
   publish-shared:
     runs-on: ubuntu-latest
+    if: github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch'
     outputs:
       shared-published: ${{ steps.shared-check.outputs.published }}
     steps:

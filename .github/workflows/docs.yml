@@ -85,6 +85,9 @@ jobs:
           rm -rf docs/*
           cp -r apps/website/out/* docs/
           
+          # Add .nojekyll to prevent Jekyll processing
+          touch docs/.nojekyll
+          
           # Ensure JSON files are available at root for direct download
           cp apps/website/public/api/* docs/
 
