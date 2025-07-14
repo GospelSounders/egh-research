@@ -59,6 +59,10 @@ jobs:
           rm -rf apps/website/src/app/api/test-db
           rm -f apps/website/src/lib/database.ts
           
+          # Remove dynamic pages that need generateStaticParams for static export
+          rm -rf apps/website/src/app/books/[bookId]/pdf
+          rm -rf apps/website/src/app/books/[bookId]/read
+          
           # Remove shared package import from types
           sed -i '/export \* from.*@surgbc\/egw-writings-shared/d' apps/website/src/types/index.ts
           sed -i '/Re-export types from shared package/d' apps/website/src/types/index.ts
