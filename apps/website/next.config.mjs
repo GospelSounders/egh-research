@@ -16,6 +16,7 @@ const nextConfig = {
   output: process.env.BUILD_MODE === 'static' ? 'export' : 'standalone',
   trailingSlash: true,
   distDir: process.env.BUILD_MODE === 'static' ? 'out' : '.next',
+  basePath: process.env.BUILD_MODE === 'static' ? '/egw-writings-mcp' : '',
   // SEO optimizations
   generateEtags: true,
   poweredByHeader: false,

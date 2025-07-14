@@ -1,0 +1,133 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "endpoints": [
+    {
+      "method": "GET",
+      "path": "/health",
+      "description": "Server health status and database statistics",
+      "example": "curl http://localhost:3000/health"
+    },
+    {
+      "method": "GET",
+      "path": "/api/docs",
+      "description": "Interactive API documentation",
+      "example": "curl http://localhost:3000/api/docs"
+    },
+    {
+      "method": "GET",
+      "path": "/content/books",
+      "description": "List books with pagination",
+      "parameters": [
+        {
+          "name": "page",
+          "type": "number",
+          "default": 1,
+          "description": "Page number"
+        },
+        {
+          "name": "limit",
+          "type": "number",
+          "default": 100,
+          "description": "Items per page"
+        },
+        {
+          "name": "lang",
+          "type": "string",
+          "default": "en",
+          "description": "Language code"
+        },
+        {
+          "name": "folder",
+          "type": "string",
+          "optional": true,
+          "description": "Filter by category"
+        }
+      ],
+      "example": "curl \"http://localhost:3000/content/books?page=1&limit=5&lang=en\""
+    },
+    {
+      "method": "GET",
+      "path": "/content/books/{id}",
+      "description": "Get detailed book information",
+      "example": "curl http://localhost:3000/content/books/127"
+    },
+    {
+      "method": "GET",
+      "path": "/content/books/{id}/toc",
+      "description": "Get book table of contents",
+      "example": "curl http://localhost:3000/content/books/127/toc"
+    },
+    {
+      "method": "POST",
+      "path": "/content/books/{id}/generate-pdf",
+      "description": "Generate PDF with custom formatting",
+      "contentType": "application/json",
+      "body": {
+        "config": {
+          "pageSize": "A4",
+          "fontSize": 12,
+          "fontFamily": "Times",
+          "margins": {
+            "top": 72,
+            "bottom": 72,
+            "left": 72,
+            "right": 72
+          },
+          "toc": {
+            "generate": true,
+            "maxDepth": 2
+          },
+          "pagination": {
+            "show": true,
+            "style": "bottom-center"
+          }
+        }
+      },
+      "example": "curl -X POST -H \"Content-Type: application/json\" -d '{\"config\":{\"pageSize\":\"A4\"}}' http://localhost:3000/content/books/127/generate-pdf"
+    },
+    {
+      "method": "GET",
+      "path": "/pdf/status/{token}",
+      "description": "Check PDF generation status",
+      "example": "curl http://localhost:3000/pdf/status/abc123-def456"
+    },
+    {
+      "method": "GET",
+      "path": "/pdf/download/{token}",
+      "description": "Download generated PDF",
+      "example": "curl -O http://localhost:3000/pdf/download/abc123-def456"
+    },
+    {
+      "method": "GET",
+      "path": "/search",
+      "description": "Full-text search across all content",
+      "parameters": [
+        {
+          "name": "q",
+          "type": "string",
+          "required": true,
+          "description": "Search query"
+        },
+        {
+          "name": "limit",
+          "type": "number",
+          "default": 20,
+          "description": "Maximum results"
+        },
+        {
+          "name": "offset",
+          "type": "number",
+          "default": 0,
+          "description": "Result offset"
+        }
+      ],
+      "example": "curl \"http://localhost:3000/search?q=righteousness%20by%20faith&limit=5\""
+    },
+    {
+      "method": "GET",
+      "path": "/stats",
+      "description": "Database and server statistics",
+      "example": "curl http://localhost:3000/stats"
+    }
+  ]
+}
