@@ -80,6 +80,9 @@ export interface DocsData {
 let cachedData: DocsData | null = null;
 let cachedBooks: Book[] | null = null;
 
+// Get the base path from the environment or use empty string
+const basePath = process.env.NODE_ENV === 'production' && typeof window !== 'undefined' && window.location.pathname.includes('/egw-writings-mcp') ? '/egw-writings-mcp' : '';
+
 /**
  * Load data from static JSON files
  */
@@ -87,7 +90,7 @@ async function loadData(): Promise<DocsData> {
   if (cachedData) return cachedData;
   
   try {
-    const response = await fetch('/api/data.json');
+    const response = await fetch(`${basePath}/api/data.json`);
     if (!response.ok) throw new Error('Failed to load data');
     cachedData = await response.json();
     return cachedData!;
@@ -105,7 +108,7 @@ async function loadBooks(): Promise<Book[]> {
   
   try {
     // Try to load from books.json first
-    const response = await fetch('/api/books.json');
+    const response = await fetch(`${basePath}/api/books.json`);
     if (response.ok) {
       const booksData = await response.json();
       cachedBooks = booksData.all || booksData;
@@ -235,7 +238,7 @@ export async function getStats() {
  */
 export async function getZipStructure(): Promise<ZipStructure> {
   try {
-    const response = await fetch('/api/zip-structure.json');
+    const response = await fetch(`${basePath}/api/zip-structure.json`);
     if (!response.ok) throw new Error('Failed to load ZIP structure');
     return await response.json();
   } catch (error) {
