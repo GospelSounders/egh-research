@@ -1,0 +1,1226 @@
+[
+  {
+    "para_id": "128.951",
+    "id_prev": "128.948",
+    "id_next": "128.953",
+    "refcode_1": "AH",
+    "refcode_2": "209",
+    "refcode_3": "",
+    "refcode_4": "9",
+    "refcode_short": "AH 209",
+    "refcode_long": "The Adventist Home, p. 209 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 9&mdash;Father&mdash;The House-Band",
+    "puborder": 624,
+    "translations": [
+      {
+        "para_id": "13839.764",
+        "lang": "bg",
+        "refcode": "ХД 87"
+      },
+      {
+        "para_id": "177.975",
+        "lang": "es",
+        "refcode": "HC 188"
+      },
+      {
+        "para_id": "193.937",
+        "lang": "fr",
+        "refcode": "FC 201"
+      },
+      {
+        "para_id": "12869.1141",
+        "lang": "id",
+        "refcode": "MKB 199"
+      },
+      {
+        "para_id": "891.607",
+        "lang": "it",
+        "refcode": "FC 88"
+      },
+      {
+        "para_id": "12178.788",
+        "lang": "pl",
+        "refcode": "ChD 129"
+      },
+      {
+        "para_id": "1955.1230",
+        "lang": "pt",
+        "refcode": "LA 211"
+      },
+      {
+        "para_id": "2026.944",
+        "lang": "ro",
+        "refcode": "CA 211"
+      },
+      {
+        "para_id": "1803.910",
+        "lang": "ru",
+        "refcode": "ХД 210"
+      },
+      {
+        "para_id": "12131.849",
+        "lang": "uk",
+        "refcode": "ХР 167"
+      }
+    ]
+  },
+  {
+    "para_id": "128.953",
+    "id_prev": "128.951",
+    "id_next": "128.954",
+    "refcode_1": "AH",
+    "refcode_2": "211",
+    "refcode_3": "",
+    "refcode_4": "34",
+    "refcode_short": "AH 211",
+    "refcode_long": "The Adventist Home, p. 211 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 34&mdash;Father&apos;s Position and Responsibilities",
+    "puborder": 625,
+    "translations": [
+      {
+        "para_id": "13839.765",
+        "lang": "bg",
+        "refcode": "ХД 87"
+      },
+      {
+        "para_id": "792.428",
+        "lang": "de",
+        "refcode": "GFH 67"
+      },
+      {
+        "para_id": "177.976",
+        "lang": "es",
+        "refcode": "HC 188"
+      },
+      {
+        "para_id": "193.940",
+        "lang": "fr",
+        "refcode": "FC 203"
+      },
+      {
+        "para_id": "12869.1143",
+        "lang": "id",
+        "refcode": "MKB 200"
+      },
+      {
+        "para_id": "891.608",
+        "lang": "it",
+        "refcode": "FC 88"
+      },
+      {
+        "para_id": "12178.789",
+        "lang": "pl",
+        "refcode": "ChD 129"
+      },
+      {
+        "para_id": "1955.1231",
+        "lang": "pt",
+        "refcode": "LA 211"
+      },
+      {
+        "para_id": "2026.945",
+        "lang": "ro",
+        "refcode": "CA 211"
+      },
+      {
+        "para_id": "1803.912",
+        "lang": "ru",
+        "refcode": "ХД 211"
+      },
+      {
+        "para_id": "12131.851",
+        "lang": "uk",
+        "refcode": "ХР 168"
+      }
+    ]
+  },
+  {
+    "para_id": "128.954",
+    "id_prev": "128.953",
+    "id_next": "128.955",
+    "refcode_1": "AH",
+    "refcode_2": "211",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 211.1",
+    "refcode_long": "The Adventist Home, p. 211.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>True Definition of Husband</strong>&mdash;The home is an institution of God. God designed that the family circle, father, mother, and children, should exist in this world as a firm.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 36, 1899\" data-link=\"14064.4750001\">Manuscript 36, 1899</span>.</span></a></sup>",
+    "puborder": 626,
+    "translations": [
+      {
+        "para_id": "13839.766",
+        "lang": "bg",
+        "refcode": "ХД 87.4"
+      },
+      {
+        "para_id": "177.977",
+        "lang": "es",
+        "refcode": "HC 188.1"
+      },
+      {
+        "para_id": "193.941",
+        "lang": "fr",
+        "refcode": "FC 203.1"
+      },
+      {
+        "para_id": "12869.1145",
+        "lang": "id",
+        "refcode": "MKB 200.1"
+      },
+      {
+        "para_id": "891.609",
+        "lang": "it",
+        "refcode": "FC 88"
+      },
+      {
+        "para_id": "891.610",
+        "lang": "it",
+        "refcode": "FC 88.1"
+      },
+      {
+        "para_id": "12178.790",
+        "lang": "pl",
+        "refcode": "ChD 129.1"
+      },
+      {
+        "para_id": "1955.1232",
+        "lang": "pt",
+        "refcode": "LA 211"
+      },
+      {
+        "para_id": "1955.1233",
+        "lang": "pt",
+        "refcode": "LA 211.1"
+      },
+      {
+        "para_id": "2026.946",
+        "lang": "ro",
+        "refcode": "CA 211.1"
+      },
+      {
+        "para_id": "1803.913",
+        "lang": "ru",
+        "refcode": "ХД 211.1"
+      },
+      {
+        "para_id": "12131.852",
+        "lang": "uk",
+        "refcode": "ХР 168.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.955",
+    "id_prev": "128.954",
+    "id_next": "128.956",
+    "refcode_1": "AH",
+    "refcode_2": "211",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 211.2",
+    "refcode_long": "The Adventist Home, p. 211.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The work of making home happy does not rest upon the mother alone. Fathers have an important part to act. The husband is the house-band of the home treasures, binding by his strong, earnest, devoted affection the members of the household, mother and children, together in the strongest bonds of union.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 9-13-1877\" data-link=\"820.740\">The Signs of the Times, September 13, 1877</span>.</span></a></sup>",
+    "puborder": 627,
+    "translations": [
+      {
+        "para_id": "13839.767",
+        "lang": "bg",
+        "refcode": "ХД 87.5"
+      },
+      {
+        "para_id": "792.430",
+        "lang": "de",
+        "refcode": "GFH 67.1"
+      },
+      {
+        "para_id": "177.978",
+        "lang": "es",
+        "refcode": "HC 188.2"
+      },
+      {
+        "para_id": "193.942",
+        "lang": "fr",
+        "refcode": "FC 203.2"
+      },
+      {
+        "para_id": "12869.1146",
+        "lang": "id",
+        "refcode": "MKB 200.2"
+      },
+      {
+        "para_id": "891.611",
+        "lang": "it",
+        "refcode": "FC 88.2"
+      },
+      {
+        "para_id": "12178.791",
+        "lang": "pl",
+        "refcode": "ChD 129.2"
+      },
+      {
+        "para_id": "1955.1234",
+        "lang": "pt",
+        "refcode": "LA 211.2"
+      },
+      {
+        "para_id": "2026.947",
+        "lang": "ro",
+        "refcode": "CA 211.2"
+      },
+      {
+        "para_id": "1803.914",
+        "lang": "ru",
+        "refcode": "ХД 211.2"
+      },
+      {
+        "para_id": "12131.853",
+        "lang": "uk",
+        "refcode": "ХР 168.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.956",
+    "id_prev": "128.955",
+    "id_next": "128.957",
+    "refcode_1": "AH",
+    "refcode_2": "211",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 211.3",
+    "refcode_long": "The Adventist Home, p. 211.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "His name, &ldquo;house-band,&rdquo; is the true definition of husband.... I saw that but few fathers realize their responsibility.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"1T 547.1\" data-link=\"116.2535\">Testimonies for the Church 1:547</span>.</span></a></sup>",
+    "puborder": 628,
+    "translations": [
+      {
+        "para_id": "13839.768",
+        "lang": "bg",
+        "refcode": "ХД 87.6"
+      },
+      {
+        "para_id": "177.979",
+        "lang": "es",
+        "refcode": "HC 188.3"
+      },
+      {
+        "para_id": "193.943",
+        "lang": "fr",
+        "refcode": "FC 203.3"
+      },
+      {
+        "para_id": "12869.1147",
+        "lang": "id",
+        "refcode": "MKB 200.3"
+      },
+      {
+        "para_id": "891.611",
+        "lang": "it",
+        "refcode": "FC 88.2"
+      },
+      {
+        "para_id": "1955.1235",
+        "lang": "pt",
+        "refcode": "LA 211.3"
+      },
+      {
+        "para_id": "2026.948",
+        "lang": "ro",
+        "refcode": "CA 211.3"
+      },
+      {
+        "para_id": "1803.915",
+        "lang": "ru",
+        "refcode": "ХД 211.3"
+      },
+      {
+        "para_id": "12131.854",
+        "lang": "uk",
+        "refcode": "ХР 168.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.957",
+    "id_prev": "128.956",
+    "id_next": "128.958",
+    "refcode_1": "AH",
+    "refcode_2": "211",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 211.4",
+    "refcode_long": "The Adventist Home, p. 211.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Head of the Family Firm</strong>&mdash;The husband and father is the head of the household. The wife looks to him for love and sympathy and for aid in the training of the children; and this is right. The children are his as well as hers, and he is equally interested in their welfare. The children look to the father for support and guidance; he needs to have a right conception of life and of the influences and associations that should surround his family; above all, he should be controlled by the love and fear of God and by the teaching of His word, that he may guide the feet of his children in the right way....",
+    "puborder": 629,
+    "translations": [
+      {
+        "para_id": "13839.769",
+        "lang": "bg",
+        "refcode": "ХД 87.7"
+      },
+      {
+        "para_id": "792.432",
+        "lang": "de",
+        "refcode": "GFH 67.2"
+      },
+      {
+        "para_id": "792.431",
+        "lang": "de",
+        "refcode": "GFH 67"
+      },
+      {
+        "para_id": "177.980",
+        "lang": "es",
+        "refcode": "HC 188.4"
+      },
+      {
+        "para_id": "193.944",
+        "lang": "fr",
+        "refcode": "FC 203.4"
+      },
+      {
+        "para_id": "12869.1151",
+        "lang": "id",
+        "refcode": "MKB 201.1"
+      },
+      {
+        "para_id": "12178.792",
+        "lang": "pl",
+        "refcode": "ChD 129.3"
+      },
+      {
+        "para_id": "1955.1236",
+        "lang": "pt",
+        "refcode": "LA 211"
+      },
+      {
+        "para_id": "1955.1237",
+        "lang": "pt",
+        "refcode": "LA 211.4"
+      },
+      {
+        "para_id": "2026.949",
+        "lang": "ro",
+        "refcode": "CA 211.4"
+      },
+      {
+        "para_id": "1803.916",
+        "lang": "ru",
+        "refcode": "ХД 211.4"
+      },
+      {
+        "para_id": "12131.855",
+        "lang": "uk",
+        "refcode": "ХР 168.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.958",
+    "id_prev": "128.957",
+    "id_next": "128.961",
+    "refcode_1": "AH",
+    "refcode_2": "211",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 211.5",
+    "refcode_long": "The Adventist Home, p. 211.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The father should do his part toward making home happy. Whatever his cares and business perplexities, they should not be permitted to overshadow his family; <span class=\"page-break\" data-page=\"212\"></span> he should enter his home with smiles and pleasant words.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 390.1\" data-link=\"135.1971\">The Ministry of Healing, 390, 392</span>.</span></a></sup>",
+    "puborder": 630,
+    "translations": [
+      {
+        "para_id": "13839.770",
+        "lang": "bg",
+        "refcode": "ХД 87.8"
+      },
+      {
+        "para_id": "792.433",
+        "lang": "de",
+        "refcode": "GFH 67.3"
+      },
+      {
+        "para_id": "177.982",
+        "lang": "es",
+        "refcode": "HC 189.1"
+      },
+      {
+        "para_id": "193.945",
+        "lang": "fr",
+        "refcode": "FC 203.5"
+      },
+      {
+        "para_id": "12869.1152",
+        "lang": "id",
+        "refcode": "MKB 201.2"
+      },
+      {
+        "para_id": "12178.793",
+        "lang": "pl",
+        "refcode": "ChD 129.4"
+      },
+      {
+        "para_id": "1955.1239",
+        "lang": "pt",
+        "refcode": "LA 212.1"
+      },
+      {
+        "para_id": "2026.950",
+        "lang": "ro",
+        "refcode": "CA 211.5"
+      },
+      {
+        "para_id": "1803.917",
+        "lang": "ru",
+        "refcode": "ХД 211.5"
+      },
+      {
+        "para_id": "12131.856",
+        "lang": "uk",
+        "refcode": "ХР 168.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.961",
+    "id_prev": "128.958",
+    "id_next": "128.962",
+    "refcode_1": "AH",
+    "refcode_2": "212",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 212.1",
+    "refcode_long": "The Adventist Home, p. 212.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Lawmaker and Priest</strong>&mdash;All members of the family center in the father. He is the lawmaker, illustrating in his own manly bearing the sterner virtues: energy, integrity, honesty, patience, courage, diligence, and practical usefulness. The father is in one sense the priest of the household, laying upon the altar of God the morning and evening sacrifice. The wife and children should be encouraged to unite in this offering and also to engage in the song of praise. Morning and evening the father, as priest of the household, should confess to God the sins committed by himself and his children through the day. Those sins which have come to his knowledge and also those which are secret, of which God&apos;s eye alone has taken cognizance, should be confessed. This rule of action, zealously carried out by the father when he is present or by the mother when he is absent, will result in blessings to the family.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 701.1\" data-link=\"120.3042\">Testimonies for the Church 2:701</span>.</span></a></sup>",
+    "puborder": 631,
+    "translations": [
+      {
+        "para_id": "13839.772",
+        "lang": "bg",
+        "refcode": "ХД 88.1"
+      },
+      {
+        "para_id": "177.983",
+        "lang": "es",
+        "refcode": "HC 189.2"
+      },
+      {
+        "para_id": "193.948",
+        "lang": "fr",
+        "refcode": "FC 204.1"
+      },
+      {
+        "para_id": "12869.1154",
+        "lang": "id",
+        "refcode": "MKB 201.3"
+      },
+      {
+        "para_id": "12178.794",
+        "lang": "pl",
+        "refcode": "ChD 129.5"
+      },
+      {
+        "para_id": "1955.1241",
+        "lang": "pt",
+        "refcode": "LA 212.2"
+      },
+      {
+        "para_id": "1955.1240",
+        "lang": "pt",
+        "refcode": "LA 212"
+      },
+      {
+        "para_id": "2026.953",
+        "lang": "ro",
+        "refcode": "CA 212.1"
+      },
+      {
+        "para_id": "1803.920",
+        "lang": "ru",
+        "refcode": "ХД 212.1"
+      },
+      {
+        "para_id": "12131.857",
+        "lang": "uk",
+        "refcode": "ХР 168.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.962",
+    "id_prev": "128.961",
+    "id_next": "128.963",
+    "refcode_1": "AH",
+    "refcode_2": "212",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 212.2",
+    "refcode_long": "The Adventist Home, p. 212.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The father represents the divine Lawgiver in his family. He is a laborer together with God, carrying out the gracious designs of God and establishing in his children upright principles, enabling them to form pure and virtuous characters, because he has preoccupied the soul with that which will enable his children to render obedience not only to their earthly parent but also to their heavenly Father.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 9-10-1894\" data-link=\"820.12414\">The Signs of the Times, September 10, 1894</span>.</span></a></sup>",
+    "puborder": 632,
+    "translations": [
+      {
+        "para_id": "13839.773",
+        "lang": "bg",
+        "refcode": "ХД 88.2"
+      },
+      {
+        "para_id": "177.984",
+        "lang": "es",
+        "refcode": "HC 189.3"
+      },
+      {
+        "para_id": "193.949",
+        "lang": "fr",
+        "refcode": "FC 204.2"
+      },
+      {
+        "para_id": "12869.1155",
+        "lang": "id",
+        "refcode": "MKB 201.4"
+      },
+      {
+        "para_id": "12178.797",
+        "lang": "pl",
+        "refcode": "ChD 130.1"
+      },
+      {
+        "para_id": "1955.1242",
+        "lang": "pt",
+        "refcode": "LA 212.3"
+      },
+      {
+        "para_id": "2026.954",
+        "lang": "ro",
+        "refcode": "CA 212.2"
+      },
+      {
+        "para_id": "1803.921",
+        "lang": "ru",
+        "refcode": "ХД 212.2"
+      },
+      {
+        "para_id": "12131.860",
+        "lang": "uk",
+        "refcode": "ХР 169.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.963",
+    "id_prev": "128.962",
+    "id_next": "128.964",
+    "refcode_1": "AH",
+    "refcode_2": "212",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 212.3",
+    "refcode_long": "The Adventist Home, p. 212.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The father must not betray his sacred trust. He must not, on any point, yield up his parental authority.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 9, 1904\" data-link=\"14069.8334001\">Letter 9, 1904</span>.</span></a></sup>",
+    "puborder": 633,
+    "translations": [
+      {
+        "para_id": "13839.774",
+        "lang": "bg",
+        "refcode": "ХД 88.3"
+      },
+      {
+        "para_id": "177.985",
+        "lang": "es",
+        "refcode": "HC 189.4"
+      },
+      {
+        "para_id": "193.950",
+        "lang": "fr",
+        "refcode": "FC 204.3"
+      },
+      {
+        "para_id": "12869.1157",
+        "lang": "id",
+        "refcode": "MKB 202.1"
+      },
+      {
+        "para_id": "12178.798",
+        "lang": "pl",
+        "refcode": "ChD 130.2"
+      },
+      {
+        "para_id": "1955.1243",
+        "lang": "pt",
+        "refcode": "LA 212.4"
+      },
+      {
+        "para_id": "2026.955",
+        "lang": "ro",
+        "refcode": "CA 212.3"
+      },
+      {
+        "para_id": "1803.922",
+        "lang": "ru",
+        "refcode": "ХД 212.3"
+      },
+      {
+        "para_id": "12131.861",
+        "lang": "uk",
+        "refcode": "ХР 169.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.964",
+    "id_prev": "128.963",
+    "id_next": "128.967",
+    "refcode_1": "AH",
+    "refcode_2": "212",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 212.4",
+    "refcode_long": "The Adventist Home, p. 212.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>To Walk With God</strong>&mdash;The father ... will bind his children to the throne of God by living faith. Distrusting his own strength, he hangs his helpless soul on Jesus and <span class=\"page-break\" data-page=\"213\"></span> takes hold of the strength of the Most High. Brethren, pray at home, in your family, night and morning; pray earnestly in your closet; and while engaged in your daily labor, lift up the soul to God in prayer. It was thus that Enoch walked with God. The silent, fervent prayer of the soul will rise like holy incense to the throne of grace and will be as acceptable to God as if offered in the sanctuary. To all who thus seek Him, Christ becomes a present help in time of need. They will be strong in the day of trial.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 616.1\" data-link=\"114.3055\">Testimonies for the Church 4:616</span>.</span></a></sup>",
+    "puborder": 634,
+    "translations": [
+      {
+        "para_id": "13839.775",
+        "lang": "bg",
+        "refcode": "ХД 88.4"
+      },
+      {
+        "para_id": "177.986",
+        "lang": "es",
+        "refcode": "HC 189.5"
+      },
+      {
+        "para_id": "193.951",
+        "lang": "fr",
+        "refcode": "FC 204.4"
+      },
+      {
+        "para_id": "12869.1159",
+        "lang": "id",
+        "refcode": "MKB 202.2"
+      },
+      {
+        "para_id": "12178.799",
+        "lang": "pl",
+        "refcode": "ChD 130.3"
+      },
+      {
+        "para_id": "1955.1244",
+        "lang": "pt",
+        "refcode": "LA 212"
+      },
+      {
+        "para_id": "1955.1245",
+        "lang": "pt",
+        "refcode": "LA 212.5"
+      },
+      {
+        "para_id": "2026.956",
+        "lang": "ro",
+        "refcode": "CA 212.4"
+      },
+      {
+        "para_id": "1803.923",
+        "lang": "ru",
+        "refcode": "ХД 212.4"
+      },
+      {
+        "para_id": "12131.862",
+        "lang": "uk",
+        "refcode": "ХР 169.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.967",
+    "id_prev": "128.964",
+    "id_next": "128.968",
+    "refcode_1": "AH",
+    "refcode_2": "213",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 213.1",
+    "refcode_long": "The Adventist Home, p. 213.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Maturity of Experience Called For</strong>&mdash;A father must not be as a child, moved merely by impulse. He is bound to his family by sacred, holy ties.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"1T 547.1\" data-link=\"116.2535\">Testimonies for the Church 1:547</span>.</span></a></sup>",
+    "puborder": 635,
+    "translations": [
+      {
+        "para_id": "13839.776",
+        "lang": "bg",
+        "refcode": "ХД 88.5"
+      },
+      {
+        "para_id": "792.434",
+        "lang": "de",
+        "refcode": "GFH 67"
+      },
+      {
+        "para_id": "792.435",
+        "lang": "de",
+        "refcode": "GFH 67.4"
+      },
+      {
+        "para_id": "177.989",
+        "lang": "es",
+        "refcode": "HC 190.1"
+      },
+      {
+        "para_id": "193.954",
+        "lang": "fr",
+        "refcode": "FC 205.1"
+      },
+      {
+        "para_id": "12869.1161",
+        "lang": "id",
+        "refcode": "MKB 202.3"
+      },
+      {
+        "para_id": "891.612",
+        "lang": "it",
+        "refcode": "FC 88"
+      },
+      {
+        "para_id": "891.613",
+        "lang": "it",
+        "refcode": "FC 88.3"
+      },
+      {
+        "para_id": "12178.800",
+        "lang": "pl",
+        "refcode": "ChD 130.4"
+      },
+      {
+        "para_id": "1955.1248",
+        "lang": "pt",
+        "refcode": "LA 213"
+      },
+      {
+        "para_id": "1955.1249",
+        "lang": "pt",
+        "refcode": "LA 213.1"
+      },
+      {
+        "para_id": "2026.959",
+        "lang": "ro",
+        "refcode": "CA 213.1"
+      },
+      {
+        "para_id": "1803.926",
+        "lang": "ru",
+        "refcode": "ХД 213.1"
+      },
+      {
+        "para_id": "12131.863",
+        "lang": "uk",
+        "refcode": "ХР 169.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.968",
+    "id_prev": "128.967",
+    "id_next": "128.969",
+    "refcode_1": "AH",
+    "refcode_2": "213",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 213.2",
+    "refcode_long": "The Adventist Home, p. 213.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "What his influence will be in the home will be determined by his knowledge of the only true God and Jesus Christ whom He has sent. &ldquo;When I was a child,&rdquo; Paul says, &ldquo;I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.&rdquo; The father is to stand at the head of his family, not as an overgrown, undisciplined boy, but as a man with manly character and with his passions controlled. He is to obtain an education in correct morals. His conduct in his home life is to be directed and restrained by the pure principles of the word of God. Then he will grow up to the full stature of a man in Christ Jesus.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 36, 1899\" data-link=\"14064.4750001\">Manuscript 36, 1899</span>.</span></a></sup>",
+    "puborder": 636,
+    "translations": [
+      {
+        "para_id": "13839.777",
+        "lang": "bg",
+        "refcode": "ХД 88.6"
+      },
+      {
+        "para_id": "792.438",
+        "lang": "de",
+        "refcode": "GFH 68.1"
+      },
+      {
+        "para_id": "792.435",
+        "lang": "de",
+        "refcode": "GFH 67.4"
+      },
+      {
+        "para_id": "177.990",
+        "lang": "es",
+        "refcode": "HC 190.2"
+      },
+      {
+        "para_id": "193.955",
+        "lang": "fr",
+        "refcode": "FC 205.2"
+      },
+      {
+        "para_id": "12869.1162",
+        "lang": "id",
+        "refcode": "MKB 202.4"
+      },
+      {
+        "para_id": "891.614",
+        "lang": "it",
+        "refcode": "FC 88.4"
+      },
+      {
+        "para_id": "12178.801",
+        "lang": "pl",
+        "refcode": "ChD 130.5"
+      },
+      {
+        "para_id": "1955.1250",
+        "lang": "pt",
+        "refcode": "LA 213.2"
+      },
+      {
+        "para_id": "2026.960",
+        "lang": "ro",
+        "refcode": "CA 213.2"
+      },
+      {
+        "para_id": "1803.927",
+        "lang": "ru",
+        "refcode": "ХД 213.2"
+      },
+      {
+        "para_id": "12131.864",
+        "lang": "uk",
+        "refcode": "ХР 169.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.969",
+    "id_prev": "128.968",
+    "id_next": "128.972",
+    "refcode_1": "AH",
+    "refcode_2": "213",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 213.3",
+    "refcode_long": "The Adventist Home, p. 213.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Submit the Will to God</strong>&mdash;To the man who is a husband and a father, I would say, Be sure that a pure, holy atmosphere surrounds your soul.... You are to learn daily of Christ. Never, never are you to show a tyrannical spirit in the home. The man who does this is working in partnership with satanic agencies. Bring your will into submission to the will of God. Do all in your power to <span class=\"page-break\" data-page=\"214\"></span> make the life of your wife pleasant and happy. Take the word of God as the man of your counsel. In the home live out the teachings of the word. Then you will live them out in the church and will take them with you to your place of business. The principles of heaven will ennoble all your transactions. Angels of God will cooperate with you, helping you to reveal Christ to the world.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 272, 1903\" data-link=\"14068.10251001\">Letter 272, 1903</span>.</span></a></sup>",
+    "puborder": 637,
+    "translations": [
+      {
+        "para_id": "13839.778",
+        "lang": "bg",
+        "refcode": "ХД 88.7"
+      },
+      {
+        "para_id": "792.440",
+        "lang": "de",
+        "refcode": "GFH 68.2"
+      },
+      {
+        "para_id": "792.439",
+        "lang": "de",
+        "refcode": "GFH 68"
+      },
+      {
+        "para_id": "177.991",
+        "lang": "es",
+        "refcode": "HC 190.3"
+      },
+      {
+        "para_id": "193.956",
+        "lang": "fr",
+        "refcode": "FC 205.3"
+      },
+      {
+        "para_id": "12869.1164",
+        "lang": "id",
+        "refcode": "MKB 202.5"
+      },
+      {
+        "para_id": "891.616",
+        "lang": "it",
+        "refcode": "FC 88.5"
+      },
+      {
+        "para_id": "891.615",
+        "lang": "it",
+        "refcode": "FC 88"
+      },
+      {
+        "para_id": "12178.804",
+        "lang": "pl",
+        "refcode": "ChD 131.1"
+      },
+      {
+        "para_id": "1955.1252",
+        "lang": "pt",
+        "refcode": "LA 213.3"
+      },
+      {
+        "para_id": "1955.1251",
+        "lang": "pt",
+        "refcode": "LA 213"
+      },
+      {
+        "para_id": "2026.961",
+        "lang": "ro",
+        "refcode": "CA 213.3"
+      },
+      {
+        "para_id": "1803.928",
+        "lang": "ru",
+        "refcode": "ХД 213.3"
+      },
+      {
+        "para_id": "12131.867",
+        "lang": "uk",
+        "refcode": "ХР 170.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.972",
+    "id_prev": "128.969",
+    "id_next": "128.973",
+    "refcode_1": "AH",
+    "refcode_2": "214",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 214.1",
+    "refcode_long": "The Adventist Home, p. 214.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Fitting Prayer for a Quick-tempered Husband</strong>&mdash;Do not allow the vexations of your business to bring darkness into your home life. If, when little things occur that are not exactly as you think they should be, you fail to reveal patience, long forbearance, kindness, and love, you show that you have not chosen as a companion Him who so loved you that He gave His life for you, that you might be one with Him.",
+    "puborder": 638,
+    "translations": [
+      {
+        "para_id": "13839.781",
+        "lang": "bg",
+        "refcode": "ХД 89.1"
+      },
+      {
+        "para_id": "177.994",
+        "lang": "es",
+        "refcode": "HC 191.1"
+      },
+      {
+        "para_id": "193.958",
+        "lang": "fr",
+        "refcode": "FC 205.5"
+      },
+      {
+        "para_id": "12869.1168",
+        "lang": "id",
+        "refcode": "MKB 203.1"
+      },
+      {
+        "para_id": "12178.805",
+        "lang": "pl",
+        "refcode": "ChD 131.2"
+      },
+      {
+        "para_id": "1955.1255",
+        "lang": "pt",
+        "refcode": "LA 214"
+      },
+      {
+        "para_id": "1955.1256",
+        "lang": "pt",
+        "refcode": "LA 214.1"
+      },
+      {
+        "para_id": "2026.964",
+        "lang": "ro",
+        "refcode": "CA 214.1"
+      },
+      {
+        "para_id": "1803.931",
+        "lang": "ru",
+        "refcode": "ХД 214.1"
+      },
+      {
+        "para_id": "12131.868",
+        "lang": "uk",
+        "refcode": "ХР 170.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.973",
+    "id_prev": "128.972",
+    "id_next": "128.976",
+    "refcode_1": "AH",
+    "refcode_2": "214",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 214.2",
+    "refcode_long": "The Adventist Home, p. 214.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the daily life you will meet with sudden surprises, disappointments, and temptations. What saith the word? &ldquo;Resist the devil,&rdquo; by firm reliance upon God, &ldquo;and he will flee from you. Draw nigh to God, and He will draw nigh to you.&rdquo; &ldquo;Let him take hold of My strength, that he may make peace with Me; and he shall make peace with Me.&rdquo; Look unto Jesus at all times and in all places, offering a silent prayer from a sincere heart that you may know how to do His will. Then when the enemy comes in like a flood, the Spirit of the Lord will lift up a standard for you against the enemy. When you are almost ready to yield, to lose patience and self-control, to be hard and denunciatory, to find fault and accuse&mdash;this is the time for you to send to heaven the prayer, &ldquo;Help me, O God, to resist temptation, to put all bitterness and wrath and evilspeaking out of my heart. Give me Thy meekness, Thy lowliness, Thy long-suffering, and Thy love. Leave <span class=\"page-break\" data-page=\"215\"></span> me not to dishonor my Redeemer, to misinterpret the words and motives of my wife, my children, and my brethren and sisters in the faith. Help me that I may be kind, pitiful, tenderhearted, forgiving. Help me to be a real house-band in my home and to represent the character of Christ to others.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 105, 1893\" data-link=\"14058.5121001\">Letter 105, 1893</span>.</span></a></sup>",
+    "puborder": 639,
+    "translations": [
+      {
+        "para_id": "13839.782",
+        "lang": "bg",
+        "refcode": "ХД 89.2"
+      },
+      {
+        "para_id": "177.995",
+        "lang": "es",
+        "refcode": "HC 191.2"
+      },
+      {
+        "para_id": "193.961",
+        "lang": "fr",
+        "refcode": "FC 206.1"
+      },
+      {
+        "para_id": "12869.1169",
+        "lang": "id",
+        "refcode": "MKB 203.2"
+      },
+      {
+        "para_id": "12178.806",
+        "lang": "pl",
+        "refcode": "ChD 131.3"
+      },
+      {
+        "para_id": "1955.1257",
+        "lang": "pt",
+        "refcode": "LA 214.2"
+      },
+      {
+        "para_id": "2026.965",
+        "lang": "ro",
+        "refcode": "CA 214.2"
+      },
+      {
+        "para_id": "1803.932",
+        "lang": "ru",
+        "refcode": "ХД 214.2"
+      },
+      {
+        "para_id": "12131.869",
+        "lang": "uk",
+        "refcode": "ХР 170.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.976",
+    "id_prev": "128.973",
+    "id_next": "128.978",
+    "refcode_1": "AH",
+    "refcode_2": "215",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 215.1",
+    "refcode_long": "The Adventist Home, p. 215.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Exercise Authority With Humility</strong>&mdash;It is no evidence of manliness in the husband for him to dwell constantly upon his position as head of the family. It does not increase respect for him to hear him quoting Scripture to sustain his claims to authority. It will not make him more manly to require his wife, the mother of his children, to act upon his plans as if they were infallible. The Lord has constituted the husband the head of the wife to be her protector; he is the house-band of the family, binding the members together, even as Christ is the head of the church and the Saviour of the mystical body. Let every husband who claims to love God carefully study the requirements of God in his position. Christ&apos;s authority is exercised in wisdom, in all kindness and gentleness; so let the husband exercise his power and imitate the great Head of the church.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 18b, 1891\" data-link=\"14057.5649001\">Letter 18b, 1891</span>.</span></a></sup>",
+    "puborder": 640,
+    "translations": [
+      {
+        "para_id": "13839.783",
+        "lang": "bg",
+        "refcode": "ХД 89.3"
+      },
+      {
+        "para_id": "792.441",
+        "lang": "de",
+        "refcode": "GFH 68"
+      },
+      {
+        "para_id": "792.442",
+        "lang": "de",
+        "refcode": "GFH 68.3"
+      },
+      {
+        "para_id": "792.443",
+        "lang": "de",
+        "refcode": "GFH 68.4"
+      },
+      {
+        "para_id": "177.996",
+        "lang": "es",
+        "refcode": "HC 191.3"
+      },
+      {
+        "para_id": "193.962",
+        "lang": "fr",
+        "refcode": "FC 206.2"
+      },
+      {
+        "para_id": "12869.1172",
+        "lang": "id",
+        "refcode": "MKB 204.1"
+      },
+      {
+        "para_id": "891.620",
+        "lang": "it",
+        "refcode": "FC 89.1"
+      },
+      {
+        "para_id": "891.619",
+        "lang": "it",
+        "refcode": "FC 89"
+      },
+      {
+        "para_id": "12178.809",
+        "lang": "pl",
+        "refcode": "ChD 132.1"
+      },
+      {
+        "para_id": "1955.1260",
+        "lang": "pt",
+        "refcode": "LA 215"
+      },
+      {
+        "para_id": "1955.1261",
+        "lang": "pt",
+        "refcode": "LA 215.1"
+      },
+      {
+        "para_id": "2026.968",
+        "lang": "ro",
+        "refcode": "CA 215.1"
+      },
+      {
+        "para_id": "1803.935",
+        "lang": "ru",
+        "refcode": "ХД 215.1"
+      },
+      {
+        "para_id": "12131.872",
+        "lang": "uk",
+        "refcode": "ХР 171.1"
+      }
+    ]
+  }
+]

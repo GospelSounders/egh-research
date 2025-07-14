@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.719",
+    "id_prev": "21.716",
+    "id_next": "21.720",
+    "refcode_1": "CSW",
+    "refcode_2": "156",
+    "refcode_3": "",
+    "refcode_4": "121",
+    "refcode_short": "CSW 156",
+    "refcode_long": "Counsels on Sabbath School Work, p. 156 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Training for Sabbath School Work",
+    "puborder": 453,
+    "translations": [
+      {
+        "para_id": "11629.697",
+        "lang": "da",
+        "refcode": "RSSA 156"
+      },
+      {
+        "para_id": "799.679",
+        "lang": "de",
+        "refcode": "RSs 127"
+      },
+      {
+        "para_id": "1711.774",
+        "lang": "es",
+        "refcode": "COES 174"
+      },
+      {
+        "para_id": "1724.761",
+        "lang": "pt",
+        "refcode": "CES 156"
+      },
+      {
+        "para_id": "1917.846",
+        "lang": "pt",
+        "refcode": "CES38 81"
+      },
+      {
+        "para_id": "2719.737",
+        "lang": "ro",
+        "refcode": "SSS 156"
+      },
+      {
+        "para_id": "1873.715",
+        "lang": "ru",
+        "refcode": "ССШ 156"
+      }
+    ]
+  },
+  {
+    "para_id": "21.720",
+    "id_prev": "21.719",
+    "id_next": "21.721",
+    "refcode_1": "CSW",
+    "refcode_2": "156",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 156.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 156.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There is a dearth of educated ability among us, and we have not men who are sufficiently trained to do justice to the work of managing our Sabbath schools and churches. Many who know the truth, still do not understand it in such a way that they could hold their own in its presentation. They are not prepared to present it in such a way that its sacred, majestic character will be clear to the people. Instead of less discipline, they need more thorough training. It is impossible for any one to foresee to what he may be called. He may be placed in situations where he will need quick discernment and well-balanced arguments, and therefore it is for the honor of Christ that well-educated workers should be multiplied among us; they will be better able to communicate the truth in a clear, intelligent way, and the truth should be presented in a way that will be as free as possible from defects.&mdash;<span class=\"egwlink egwlink_book\" title=\"FE 256.1\" data-link=\"32.1044\"><em>Fundamentals of Christian Education</em>, 256, 257</span>.",
+    "puborder": 454,
+    "translations": [
+      {
+        "para_id": "11629.698",
+        "lang": "da",
+        "refcode": "RSSA 156.1"
+      },
+      {
+        "para_id": "799.680",
+        "lang": "de",
+        "refcode": "RSs 127.2"
+      },
+      {
+        "para_id": "1711.775",
+        "lang": "es",
+        "refcode": "COES 174.2"
+      },
+      {
+        "para_id": "1724.762",
+        "lang": "pt",
+        "refcode": "CES 156.1"
+      },
+      {
+        "para_id": "1917.847",
+        "lang": "pt",
+        "refcode": "CES38 81.3"
+      },
+      {
+        "para_id": "2719.738",
+        "lang": "ro",
+        "refcode": "SSS 156.1"
+      },
+      {
+        "para_id": "1873.716",
+        "lang": "ru",
+        "refcode": "ССШ 156.1"
+      }
+    ]
+  }
+]

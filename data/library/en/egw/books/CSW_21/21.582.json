@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.582",
+    "id_prev": "21.579",
+    "id_next": "21.583",
+    "refcode_1": "CSW",
+    "refcode_2": "125",
+    "refcode_3": "",
+    "refcode_4": "87",
+    "refcode_short": "CSW 125",
+    "refcode_long": "Counsels on Sabbath School Work, p. 125 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Whole Classes to Be Converted",
+    "puborder": 364,
+    "translations": [
+      {
+        "para_id": "11629.555",
+        "lang": "da",
+        "refcode": "RSSA 125"
+      },
+      {
+        "para_id": "799.550",
+        "lang": "de",
+        "refcode": "RSs 103"
+      },
+      {
+        "para_id": "1711.621",
+        "lang": "es",
+        "refcode": "COES 139"
+      },
+      {
+        "para_id": "1917.684",
+        "lang": "pt",
+        "refcode": "CES38 65"
+      },
+      {
+        "para_id": "1724.617",
+        "lang": "pt",
+        "refcode": "CES 125"
+      },
+      {
+        "para_id": "2719.599",
+        "lang": "ro",
+        "refcode": "SSS 125"
+      },
+      {
+        "para_id": "1873.577",
+        "lang": "ru",
+        "refcode": "ССШ 125"
+      }
+    ]
+  },
+  {
+    "para_id": "21.583",
+    "id_prev": "21.582",
+    "id_next": "21.584",
+    "refcode_1": "CSW",
+    "refcode_2": "125",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 125.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 125.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As workers for God we want more of Jesus and less of self. We should have more of a burden for souls, and should pray daily that strength and wisdom may be given us for the Sabbath. Teachers, meet with your classes. Pray with them, and teach them how to pray. Let the heart be softened, and the petitions short and simple, but earnest. Let your words be few and well chosen; and let them learn from your lips and your example that the truth of God must be rooted in their hearts or they cannot stand the test of temptation. We want to see whole classes of young people being converted to God, and growing up useful members of the church.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 19.1\" data-link=\"121.65\"><em>Testimonies on Sabbath-School Work</em>, 19, 20</span>.",
+    "puborder": 365,
+    "translations": [
+      {
+        "para_id": "11629.556",
+        "lang": "da",
+        "refcode": "RSSA 125.1"
+      },
+      {
+        "para_id": "799.551",
+        "lang": "de",
+        "refcode": "RSs 103.2"
+      },
+      {
+        "para_id": "1711.622",
+        "lang": "es",
+        "refcode": "COES 139.1"
+      },
+      {
+        "para_id": "1724.618",
+        "lang": "pt",
+        "refcode": "CES 125.1"
+      },
+      {
+        "para_id": "1917.685",
+        "lang": "pt",
+        "refcode": "CES38 65.4"
+      },
+      {
+        "para_id": "2719.600",
+        "lang": "ro",
+        "refcode": "SSS 125.1"
+      },
+      {
+        "para_id": "1873.578",
+        "lang": "ru",
+        "refcode": "ССШ 125.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.584",
+    "id_prev": "21.583",
+    "id_next": "21.586",
+    "refcode_1": "CSW",
+    "refcode_2": "125",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 125.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 125.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Do not allow all your strength and energy to be given to worldly, temporal things during the week, and so have no energy and moral strength to give to the service of Christ on the Sabbath. There is earnest work to be done just now. We have not a moment&apos;s time to use selfishly. Let all we do be done with an eye single to the glory of God. Never rest till every child in your class is brought to the saving knowledge of Christ.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 14.1\" data-link=\"121.44\"><em>Testimonies on Sabbath-School Work</em>, 14</span>.",
+    "puborder": 366,
+    "translations": [
+      {
+        "para_id": "11629.557",
+        "lang": "da",
+        "refcode": "RSSA 125.2"
+      },
+      {
+        "para_id": "799.554",
+        "lang": "de",
+        "refcode": "RSs 104.1"
+      },
+      {
+        "para_id": "1711.623",
+        "lang": "es",
+        "refcode": "COES 139.2"
+      },
+      {
+        "para_id": "1724.619",
+        "lang": "pt",
+        "refcode": "CES 125.2"
+      },
+      {
+        "para_id": "1917.688",
+        "lang": "pt",
+        "refcode": "CES38 66.1"
+      },
+      {
+        "para_id": "2719.601",
+        "lang": "ro",
+        "refcode": "SSS 125.2"
+      },
+      {
+        "para_id": "1873.579",
+        "lang": "ru",
+        "refcode": "ССШ 125.2"
+      }
+    ]
+  }
+]

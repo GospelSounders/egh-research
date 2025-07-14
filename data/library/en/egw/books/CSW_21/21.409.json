@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.409",
+    "id_prev": "21.407",
+    "id_next": "21.410",
+    "refcode_1": "CSW",
+    "refcode_2": "92",
+    "refcode_3": "",
+    "refcode_4": "59",
+    "refcode_short": "CSW 92",
+    "refcode_long": "Counsels on Sabbath School Work, p. 92 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Essential Qualifications",
+    "puborder": 254,
+    "translations": [
+      {
+        "para_id": "11629.383",
+        "lang": "da",
+        "refcode": "RSSA 92"
+      },
+      {
+        "para_id": "799.395",
+        "lang": "de",
+        "refcode": "RSs 78"
+      },
+      {
+        "para_id": "1711.446",
+        "lang": "es",
+        "refcode": "COES 102"
+      },
+      {
+        "para_id": "1724.444",
+        "lang": "pt",
+        "refcode": "CES 92"
+      },
+      {
+        "para_id": "1917.479",
+        "lang": "pt",
+        "refcode": "CES38 46"
+      },
+      {
+        "para_id": "2719.421",
+        "lang": "ro",
+        "refcode": "SSS 92"
+      },
+      {
+        "para_id": "1873.405",
+        "lang": "ru",
+        "refcode": "ССШ 92"
+      }
+    ]
+  },
+  {
+    "para_id": "21.410",
+    "id_prev": "21.409",
+    "id_next": "21.411",
+    "refcode_1": "CSW",
+    "refcode_2": "92",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 92.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 92.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those whose duty it is to select teachers should be guarded, and not urge those into the school who are not fitted to exert a good influence. How is the teacher&apos;s behavior? Is he punctual? Is he cleanly and neat? This should have attention; for these qualities are essential in a teacher. How can he enjoin these necessary acquirements upon the class unless they have an example of punctuality, of neatness, composure, and order? If the teacher is not in his place, and the class are left to amuse themselves, and the teacher comes rushing in breathless, behind time, the influence is leading to nonpunctuality and disorder.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 95.1\" data-link=\"121.375\"><em>Testimonies on Sabbath-School Work</em>, 95, 96</span>.",
+    "puborder": 255,
+    "translations": [
+      {
+        "para_id": "11629.384",
+        "lang": "da",
+        "refcode": "RSSA 92.1"
+      },
+      {
+        "para_id": "799.396",
+        "lang": "de",
+        "refcode": "RSs 78.1"
+      },
+      {
+        "para_id": "1711.447",
+        "lang": "es",
+        "refcode": "COES 102.1"
+      },
+      {
+        "para_id": "1917.480",
+        "lang": "pt",
+        "refcode": "CES38 46.2"
+      },
+      {
+        "para_id": "1724.445",
+        "lang": "pt",
+        "refcode": "CES 92.1"
+      },
+      {
+        "para_id": "2719.422",
+        "lang": "ro",
+        "refcode": "SSS 92.1"
+      },
+      {
+        "para_id": "1873.406",
+        "lang": "ru",
+        "refcode": "ССШ 92.1"
+      }
+    ]
+  }
+]

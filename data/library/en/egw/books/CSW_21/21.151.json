@@ -1,0 +1,163 @@
+[
+  {
+    "para_id": "21.151",
+    "id_prev": "21.150",
+    "id_next": "21.152",
+    "refcode_1": "CSW",
+    "refcode_2": "36",
+    "refcode_3": "",
+    "refcode_4": "22",
+    "refcode_short": "CSW 36",
+    "refcode_long": "Counsels on Sabbath School Work, p. 36 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Divine Aid in the Search for Truth",
+    "puborder": 92,
+    "translations": [
+      {
+        "para_id": "11629.125",
+        "lang": "da",
+        "refcode": "RSSA 36"
+      },
+      {
+        "para_id": "799.158",
+        "lang": "de",
+        "refcode": "RSs 35"
+      },
+      {
+        "para_id": "1711.171",
+        "lang": "es",
+        "refcode": "COES 39"
+      },
+      {
+        "para_id": "1724.180",
+        "lang": "pt",
+        "refcode": "CES 36"
+      },
+      {
+        "para_id": "1917.169",
+        "lang": "pt",
+        "refcode": "CES38 16"
+      },
+      {
+        "para_id": "2719.157",
+        "lang": "ro",
+        "refcode": "SSS 36"
+      },
+      {
+        "para_id": "1873.149",
+        "lang": "ru",
+        "refcode": "ССШ 36"
+      }
+    ]
+  },
+  {
+    "para_id": "21.152",
+    "id_prev": "21.151",
+    "id_next": "21.155",
+    "refcode_1": "CSW",
+    "refcode_2": "36",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 36.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 36.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Point after point of truth should be investigated; for there is no limitation to the truth of God, and in its study a most lively interest should be felt by both teachers and pupils, that they may know what God <span class=\"page-break\" data-page=\"37\"></span> hath said. For years the voice of God has been saying to us, &ldquo;Agitate, agitate, agitate.&rdquo; Study every point of truth, that you may know for yourselves what is truth in distinction from error. Let students search for themselves, that they may know the deep things of God. Let this work be done in the Spirit of Christ. Put no restriction upon the students.",
+    "puborder": 93,
+    "translations": [
+      {
+        "para_id": "11629.126",
+        "lang": "da",
+        "refcode": "RSSA 36.2"
+      },
+      {
+        "para_id": "799.159",
+        "lang": "de",
+        "refcode": "RSs 35.1"
+      },
+      {
+        "para_id": "1711.172",
+        "lang": "es",
+        "refcode": "COES 39.1"
+      },
+      {
+        "para_id": "1917.170",
+        "lang": "pt",
+        "refcode": "CES38 16.4"
+      },
+      {
+        "para_id": "1917.172",
+        "lang": "pt",
+        "refcode": "CES38 16.5"
+      },
+      {
+        "para_id": "1724.181",
+        "lang": "pt",
+        "refcode": "CES 36.2"
+      },
+      {
+        "para_id": "2719.158",
+        "lang": "ro",
+        "refcode": "SSS 36.2"
+      },
+      {
+        "para_id": "1873.150",
+        "lang": "ru",
+        "refcode": "ССШ 36.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.155",
+    "id_prev": "21.152",
+    "id_next": "21.156",
+    "refcode_1": "CSW",
+    "refcode_2": "37",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 37.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 37.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In searching the Scriptures there is need of great humility of mind and contrition of heart, of seeking earnestly unto God. Those who come in a lowly spirit, seeking for truth, will be aided in their search by the angels of God.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 55.1\" data-link=\"121.216\"><em>Testimonies on Sabbath-School Work</em>, 55, 56</span>.",
+    "puborder": 94,
+    "translations": [
+      {
+        "para_id": "11629.129",
+        "lang": "da",
+        "refcode": "RSSA 37.1"
+      },
+      {
+        "para_id": "799.160",
+        "lang": "de",
+        "refcode": "RSs 35.2"
+      },
+      {
+        "para_id": "1711.173",
+        "lang": "es",
+        "refcode": "COES 39.2"
+      },
+      {
+        "para_id": "1917.175",
+        "lang": "pt",
+        "refcode": "CES38 17.1"
+      },
+      {
+        "para_id": "1724.184",
+        "lang": "pt",
+        "refcode": "CES 37.1"
+      },
+      {
+        "para_id": "2719.161",
+        "lang": "ro",
+        "refcode": "SSS 37.1"
+      },
+      {
+        "para_id": "1873.153",
+        "lang": "ru",
+        "refcode": "ССШ 37.1"
+      }
+    ]
+  }
+]

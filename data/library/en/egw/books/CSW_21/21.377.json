@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.377",
+    "id_prev": "21.376",
+    "id_next": "21.378",
+    "refcode_1": "CSW",
+    "refcode_2": "83",
+    "refcode_3": "",
+    "refcode_4": "55",
+    "refcode_short": "CSW 83",
+    "refcode_long": "Counsels on Sabbath School Work, p. 83 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Training for Bible Work",
+    "puborder": 235,
+    "translations": [
+      {
+        "para_id": "11629.350",
+        "lang": "da",
+        "refcode": "RSSA 83"
+      },
+      {
+        "para_id": "799.365",
+        "lang": "de",
+        "refcode": "RSs 71"
+      },
+      {
+        "para_id": "1711.409",
+        "lang": "es",
+        "refcode": "COES 92"
+      },
+      {
+        "para_id": "1917.441",
+        "lang": "pt",
+        "refcode": "CES38 42"
+      },
+      {
+        "para_id": "1724.409",
+        "lang": "pt",
+        "refcode": "CES 83"
+      },
+      {
+        "para_id": "2719.387",
+        "lang": "ro",
+        "refcode": "SSS 83"
+      },
+      {
+        "para_id": "1873.373",
+        "lang": "ru",
+        "refcode": "ССШ 83"
+      }
+    ]
+  },
+  {
+    "para_id": "21.378",
+    "id_prev": "21.377",
+    "id_next": "21.380",
+    "refcode_1": "CSW",
+    "refcode_2": "83",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 83.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 83.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The great work of opening the Bible from house to house in Bible readings gives an added importance to the Sabbath school work, and makes it evident that the teachers in the schools should be consecrated men and women, who understand the Scriptures, and can rightly divide the word of truth. The idea of holding Bible readings is a heaven-born idea, and opens the way to put hundreds of young men and women into the field to do an important work, which otherwise could not have been done.",
+    "puborder": 236,
+    "translations": [
+      {
+        "para_id": "11629.351",
+        "lang": "da",
+        "refcode": "RSSA 83.2"
+      },
+      {
+        "para_id": "799.366",
+        "lang": "de",
+        "refcode": "RSs 71.1"
+      },
+      {
+        "para_id": "1711.410",
+        "lang": "es",
+        "refcode": "COES 92.1"
+      },
+      {
+        "para_id": "1917.442",
+        "lang": "pt",
+        "refcode": "CES38 42.4"
+      },
+      {
+        "para_id": "1724.410",
+        "lang": "pt",
+        "refcode": "CES 83.3"
+      },
+      {
+        "para_id": "2719.388",
+        "lang": "ro",
+        "refcode": "SSS 83.2"
+      },
+      {
+        "para_id": "1873.374",
+        "lang": "ru",
+        "refcode": "ССШ 83.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.380",
+    "id_prev": "21.378",
+    "id_next": "21.381",
+    "refcode_1": "CSW",
+    "refcode_2": "84",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 84.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 84.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Bible is unchained. It can be carried to every man&apos;s door, and its truths may be presented to every man&apos;s conscience. There are many who, like the noble Bereans, will search the Scriptures daily for themselves, when the truth is presented, to see whether or not these things are so. Christ has said, &ldquo;Search the Scriptures; for in them ye think ye have eternal life: and they are they which testify of Me.&rdquo; Jesus, the world&apos;s Redeemer, bids men not only to read, but to &ldquo;search the Scriptures.&rdquo; This is a great and important work, and it is committed to us, and in doing this we shall be greatly benefited; for obedience to Christ&apos;s command will not go unrewarded. He will crown with especial tokens of His favor this act of loyalty in following the light revealed in His word.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 29.1\" data-link=\"121.105\"><em>Testimonies on Sabbath-School Work</em>, 29, 30</span>.",
+    "puborder": 237,
+    "translations": [
+      {
+        "para_id": "11629.354",
+        "lang": "da",
+        "refcode": "RSSA 84.1"
+      },
+      {
+        "para_id": "799.367",
+        "lang": "de",
+        "refcode": "RSs 71.2"
+      },
+      {
+        "para_id": "1711.411",
+        "lang": "es",
+        "refcode": "COES 92.2"
+      },
+      {
+        "para_id": "1917.444",
+        "lang": "pt",
+        "refcode": "CES38 42.5"
+      },
+      {
+        "para_id": "1724.412",
+        "lang": "pt",
+        "refcode": "CES 84.1"
+      },
+      {
+        "para_id": "2719.390",
+        "lang": "ro",
+        "refcode": "SSS 84.1"
+      },
+      {
+        "para_id": "1873.374",
+        "lang": "ru",
+        "refcode": "ССШ 83.2"
+      }
+    ]
+  }
+]

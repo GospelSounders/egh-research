@@ -1,0 +1,2662 @@
+[
+  {
+    "para_id": "127.1849",
+    "id_prev": "127.1847",
+    "id_next": "127.2683",
+    "refcode_1": "AA",
+    "refcode_2": "419",
+    "refcode_3": "",
+    "refcode_4": "39",
+    "refcode_short": "AA 419",
+    "refcode_long": "The Acts of the Apostles, p. 419 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 39&mdash;The Trial at Caesarea",
+    "puborder": 1153,
+    "translations": [
+      {
+        "para_id": "13804.1380",
+        "lang": "bg",
+        "refcode": "Дa 163"
+      },
+      {
+        "para_id": "11590.1768",
+        "lang": "ce",
+        "refcode": "ABA 357"
+      },
+      {
+        "para_id": "11247.1689",
+        "lang": "cs",
+        "refcode": "PNL 241"
+      },
+      {
+        "para_id": "813.1844",
+        "lang": "de",
+        "refcode": "WA 415"
+      },
+      {
+        "para_id": "198.1720",
+        "lang": "es",
+        "refcode": "HAp 335"
+      },
+      {
+        "para_id": "158.1752",
+        "lang": "fr",
+        "refcode": "CP 371"
+      },
+      {
+        "para_id": "11938.1593",
+        "lang": "hu",
+        "refcode": "AT 276"
+      },
+      {
+        "para_id": "12410.1722",
+        "lang": "id",
+        "refcode": "KR 352"
+      },
+      {
+        "para_id": "882.1600",
+        "lang": "it",
+        "refcode": "UVI 262"
+      },
+      {
+        "para_id": "12335.1530",
+        "lang": "nb",
+        "refcode": "AV 241"
+      },
+      {
+        "para_id": "12008.1437",
+        "lang": "pl",
+        "refcode": "DA 231"
+      },
+      {
+        "para_id": "1806.1512",
+        "lang": "pt",
+        "refcode": "AA 215.1"
+      },
+      {
+        "para_id": "2013.1834",
+        "lang": "ro",
+        "refcode": "FA 419"
+      },
+      {
+        "para_id": "1785.1802",
+        "lang": "ru",
+        "refcode": "ДА 419"
+      },
+      {
+        "para_id": "13874.1531",
+        "lang": "rw",
+        "refcode": "INI 258"
+      },
+      {
+        "para_id": "11182.1518",
+        "lang": "sk",
+        "refcode": "SA 251"
+      },
+      {
+        "para_id": "11904.1664",
+        "lang": "tl",
+        "refcode": "AGA 316"
+      },
+      {
+        "para_id": "11875.1616",
+        "lang": "uk",
+        "refcode": "ДА 287"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2683",
+    "id_prev": "127.1849",
+    "id_next": "127.1850",
+    "refcode_1": "AA",
+    "refcode_2": "419",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "bibletext",
+    "content": "<span class=\"non-egw-comment\">This chapter is based on <span class=\"egwlink egwlink_bible\" title=\"Acts 24:1\" data-link=\"1965.56629\">Acts 24</span>.</span>",
+    "puborder": 1154,
+    "translations": [
+      {
+        "para_id": "813.1845",
+        "lang": "de",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "198.1720",
+        "lang": "es",
+        "refcode": "HAp 335"
+      },
+      {
+        "para_id": "158.1753",
+        "lang": "fr",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11938.1594",
+        "lang": "hu",
+        "refcode": "AT 276"
+      },
+      {
+        "para_id": "1806.2170",
+        "lang": "pt",
+        "refcode": "AA 310.6"
+      },
+      {
+        "para_id": "2013.2669",
+        "lang": "ro",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "1785.2623",
+        "lang": "ru",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "13874.1532",
+        "lang": "rw",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11875.1617",
+        "lang": "uk",
+        "refcode": "The Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1850",
+    "id_prev": "127.2683",
+    "id_next": "127.1851",
+    "refcode_1": "AA",
+    "refcode_2": "419",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 419.1",
+    "refcode_long": "The Acts of the Apostles, p. 419.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Five days after Paul&apos;s arrival at Caesarea his accusers came from Jerusalem, accompanied by Tertullus, an orator whom they had engaged as their counsel. The case was granted a speedy hearing. Paul was brought before the assembly, and Tertullus &ldquo;began to accuse him.&rdquo; Judging that flattery would have more influence upon the Roman governor than the simple statements of truth and justice, the wily orator began his speech by praising Felix: &ldquo;Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence, we accept it always, and in all places, most noble Felix, with all thankfulness.&rdquo;",
+    "puborder": 1155,
+    "translations": [
+      {
+        "para_id": "13804.1381",
+        "lang": "bg",
+        "refcode": "Дa 163.2"
+      },
+      {
+        "para_id": "11590.1769",
+        "lang": "ce",
+        "refcode": "ABA 357.1"
+      },
+      {
+        "para_id": "11247.1690",
+        "lang": "cs",
+        "refcode": "PNL 241.1"
+      },
+      {
+        "para_id": "813.1846",
+        "lang": "de",
+        "refcode": "WA 415.1"
+      },
+      {
+        "para_id": "198.1721",
+        "lang": "es",
+        "refcode": "HAp 335.1"
+      },
+      {
+        "para_id": "158.1755",
+        "lang": "fr",
+        "refcode": "CP 371.2"
+      },
+      {
+        "para_id": "158.1754",
+        "lang": "fr",
+        "refcode": "CP 371.1"
+      },
+      {
+        "para_id": "11938.1595",
+        "lang": "hu",
+        "refcode": "AT 276.1"
+      },
+      {
+        "para_id": "12410.1723",
+        "lang": "id",
+        "refcode": "KR 352.1"
+      },
+      {
+        "para_id": "882.1601",
+        "lang": "it",
+        "refcode": "UVI 262.1"
+      },
+      {
+        "para_id": "12335.1531",
+        "lang": "nb",
+        "refcode": "AV 241.1"
+      },
+      {
+        "para_id": "12008.1438",
+        "lang": "pl",
+        "refcode": "DA 231.1"
+      },
+      {
+        "para_id": "1806.1513",
+        "lang": "pt",
+        "refcode": "AA 215.2"
+      },
+      {
+        "para_id": "2013.1835",
+        "lang": "ro",
+        "refcode": "FA 419.1"
+      },
+      {
+        "para_id": "1785.1803",
+        "lang": "ru",
+        "refcode": "ДА 419.1"
+      },
+      {
+        "para_id": "13874.1533",
+        "lang": "rw",
+        "refcode": "INI 258.1"
+      },
+      {
+        "para_id": "11182.1519",
+        "lang": "sk",
+        "refcode": "SA 251.1"
+      },
+      {
+        "para_id": "11904.1665",
+        "lang": "tl",
+        "refcode": "AGA 316.1"
+      },
+      {
+        "para_id": "11875.1618",
+        "lang": "uk",
+        "refcode": "ДА 287.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1851",
+    "id_prev": "127.1850",
+    "id_next": "127.1854",
+    "refcode_1": "AA",
+    "refcode_2": "419",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 419.2",
+    "refcode_long": "The Acts of the Apostles, p. 419.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Tertullus here descended to barefaced falsehood; for the character of Felix was base and contemptible. It was said of him, that &ldquo;in the practice of all kinds of lust and cruelty, he exercised the power of a king with the temper of a slave.&rdquo; <span class=\"page-break\" data-page=\"420\"></span> &mdash;Tacitus, <em>History,</em> ch. 5, par. 9. Those who heard Tertullus knew that his flattering words were untrue, but their desire to secure the condemnation of Paul was stronger than their love of truth.",
+    "puborder": 1156,
+    "translations": [
+      {
+        "para_id": "13804.1382",
+        "lang": "bg",
+        "refcode": "Дa 163.3"
+      },
+      {
+        "para_id": "11590.1770",
+        "lang": "ce",
+        "refcode": "ABA 357.2"
+      },
+      {
+        "para_id": "11247.1691",
+        "lang": "cs",
+        "refcode": "PNL 241.2"
+      },
+      {
+        "para_id": "813.1847",
+        "lang": "de",
+        "refcode": "WA 415.2"
+      },
+      {
+        "para_id": "198.1722",
+        "lang": "es",
+        "refcode": "HAp 335.2"
+      },
+      {
+        "para_id": "158.1756",
+        "lang": "fr",
+        "refcode": "CP 371.3"
+      },
+      {
+        "para_id": "11938.1596",
+        "lang": "hu",
+        "refcode": "AT 276.2"
+      },
+      {
+        "para_id": "12410.1724",
+        "lang": "id",
+        "refcode": "KR 352.2"
+      },
+      {
+        "para_id": "882.1602",
+        "lang": "it",
+        "refcode": "UVI 262.2"
+      },
+      {
+        "para_id": "12335.1532",
+        "lang": "nb",
+        "refcode": "AV 241.2"
+      },
+      {
+        "para_id": "12008.1439",
+        "lang": "pl",
+        "refcode": "DA 231.2"
+      },
+      {
+        "para_id": "1806.1514",
+        "lang": "pt",
+        "refcode": "AA 215.3"
+      },
+      {
+        "para_id": "2013.1836",
+        "lang": "ro",
+        "refcode": "FA 419.2"
+      },
+      {
+        "para_id": "1785.1804",
+        "lang": "ru",
+        "refcode": "ДА 419.2"
+      },
+      {
+        "para_id": "13874.1534",
+        "lang": "rw",
+        "refcode": "INI 258.2"
+      },
+      {
+        "para_id": "11182.1520",
+        "lang": "sk",
+        "refcode": "SA 251.2"
+      },
+      {
+        "para_id": "11904.1666",
+        "lang": "tl",
+        "refcode": "AGA 316.2"
+      },
+      {
+        "para_id": "11875.1619",
+        "lang": "uk",
+        "refcode": "ДА 287.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1854",
+    "id_prev": "127.1851",
+    "id_next": "127.1855",
+    "refcode_1": "AA",
+    "refcode_2": "420",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 420.1",
+    "refcode_long": "The Acts of the Apostles, p. 420.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In his speech, Tertullus charged Paul with crimes which, if proved, would have resulted in his conviction for high treason against the government. &ldquo;We have found this man a pestilent fellow,&rdquo; declared the orator, &ldquo;and a mover of sedition among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes: who also hath gone about to profane the temple.&rdquo; Tertullus then stated that Lysias, the commandant of the garrison at Jerusalem, had violently taken Paul from the Jews when they were about to judge him by their ecclesiastical law, and had thus forced them to bring the matter before Felix. These statements were made with the design of inducing the procurator to deliver Paul over to the Jewish court. All the charges were vehemently supported by the Jews present, who made no effort to conceal their hatred of the prisoner.",
+    "puborder": 1157,
+    "translations": [
+      {
+        "para_id": "13804.1383",
+        "lang": "bg",
+        "refcode": "Дa 163.4"
+      },
+      {
+        "para_id": "11590.1771",
+        "lang": "ce",
+        "refcode": "ABA 357.3"
+      },
+      {
+        "para_id": "11247.1692",
+        "lang": "cs",
+        "refcode": "PNL 241.3"
+      },
+      {
+        "para_id": "813.1848",
+        "lang": "de",
+        "refcode": "WA 415.3"
+      },
+      {
+        "para_id": "198.1724",
+        "lang": "es",
+        "refcode": "HAp 335.4"
+      },
+      {
+        "para_id": "158.1760",
+        "lang": "fr",
+        "refcode": "CP 372.3"
+      },
+      {
+        "para_id": "158.1759",
+        "lang": "fr",
+        "refcode": "CP 372.2"
+      },
+      {
+        "para_id": "11938.1597",
+        "lang": "hu",
+        "refcode": "AT 276.3"
+      },
+      {
+        "para_id": "12410.1725",
+        "lang": "id",
+        "refcode": "KR 352.3"
+      },
+      {
+        "para_id": "882.1603",
+        "lang": "it",
+        "refcode": "UVI 262.3"
+      },
+      {
+        "para_id": "12335.1533",
+        "lang": "nb",
+        "refcode": "AV 241.3"
+      },
+      {
+        "para_id": "12008.1440",
+        "lang": "pl",
+        "refcode": "DA 231.3"
+      },
+      {
+        "para_id": "1806.1515",
+        "lang": "pt",
+        "refcode": "AA 215.4"
+      },
+      {
+        "para_id": "2013.1839",
+        "lang": "ro",
+        "refcode": "FA 420.1"
+      },
+      {
+        "para_id": "1785.1807",
+        "lang": "ru",
+        "refcode": "ДА 420.1"
+      },
+      {
+        "para_id": "13874.1535",
+        "lang": "rw",
+        "refcode": "INI 258.3"
+      },
+      {
+        "para_id": "11182.1521",
+        "lang": "sk",
+        "refcode": "SA 251.3"
+      },
+      {
+        "para_id": "11904.1667",
+        "lang": "tl",
+        "refcode": "AGA 316.3"
+      },
+      {
+        "para_id": "11875.1621",
+        "lang": "uk",
+        "refcode": "ДА 287.4"
+      },
+      {
+        "para_id": "11875.1620",
+        "lang": "uk",
+        "refcode": "ДА 287.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1855",
+    "id_prev": "127.1854",
+    "id_next": "127.1858",
+    "refcode_1": "AA",
+    "refcode_2": "420",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 420.2",
+    "refcode_long": "The Acts of the Apostles, p. 420.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Felix had sufficient penetration to read the disposition and character of Paul&apos;s accusers. He knew from what motive they had flattered him, and he saw also that they had failed to substantiate their charges against Paul. Turning to the accused, he beckoned to him to answer for himself. Paul wasted no words in compliments, but simply stated that he could the more cheerfully defend himself before Felix, since the latter had been so long a procurator, and therefore had so good an understanding of the laws and customs of the Jews. Referring to the charges brought <span class=\"page-break\" data-page=\"421\"></span> against him, he plainly showed that not one of them was true. He declared that he had caused no disturbance in any part of Jerusalem, nor had he profaned the sanctuary. &ldquo;They neither found me in the temple disputing with any man,&rdquo; he said, &ldquo;neither raising up the people, neither in the synagogues, nor in the city: neither can they prove the things whereof they now accuse me.&rdquo;",
+    "puborder": 1158,
+    "translations": [
+      {
+        "para_id": "13804.1384",
+        "lang": "bg",
+        "refcode": "Дa 163.5"
+      },
+      {
+        "para_id": "11590.1774",
+        "lang": "ce",
+        "refcode": "ABA 358.1"
+      },
+      {
+        "para_id": "11247.1695",
+        "lang": "cs",
+        "refcode": "PNL 242.1"
+      },
+      {
+        "para_id": "813.1851",
+        "lang": "de",
+        "refcode": "WA 416.1"
+      },
+      {
+        "para_id": "198.1727",
+        "lang": "es",
+        "refcode": "HAp 336.1"
+      },
+      {
+        "para_id": "158.1761",
+        "lang": "fr",
+        "refcode": "CP 372.4"
+      },
+      {
+        "para_id": "11938.1598",
+        "lang": "hu",
+        "refcode": "AT 276.4"
+      },
+      {
+        "para_id": "12410.1728",
+        "lang": "id",
+        "refcode": "KR 353.1"
+      },
+      {
+        "para_id": "882.1604",
+        "lang": "it",
+        "refcode": "UVI 262.4"
+      },
+      {
+        "para_id": "12335.1534",
+        "lang": "nb",
+        "refcode": "AV 241.4"
+      },
+      {
+        "para_id": "12008.1441",
+        "lang": "pl",
+        "refcode": "DA 231.4"
+      },
+      {
+        "para_id": "1806.1516",
+        "lang": "pt",
+        "refcode": "AA 215.5"
+      },
+      {
+        "para_id": "2013.1840",
+        "lang": "ro",
+        "refcode": "FA 420.2"
+      },
+      {
+        "para_id": "1785.1808",
+        "lang": "ru",
+        "refcode": "ДА 420.2"
+      },
+      {
+        "para_id": "13874.1536",
+        "lang": "rw",
+        "refcode": "INI 258.4"
+      },
+      {
+        "para_id": "11182.1522",
+        "lang": "sk",
+        "refcode": "SA 251.4"
+      },
+      {
+        "para_id": "11904.1670",
+        "lang": "tl",
+        "refcode": "AGA 317.1"
+      },
+      {
+        "para_id": "11875.1624",
+        "lang": "uk",
+        "refcode": "ДА 288.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1858",
+    "id_prev": "127.1855",
+    "id_next": "127.1859",
+    "refcode_1": "AA",
+    "refcode_2": "421",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 421.1",
+    "refcode_long": "The Acts of the Apostles, p. 421.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "While confessing that &ldquo;after the way which they call heresy&rdquo; he had worshiped the God of his fathers, he asserted that he had always believed &ldquo;all things which are written in the law and in the prophets;&rdquo; and that in harmony with the plain teaching of the Scriptures, he held the faith of the resurrection of the dead. And he further declared that the ruling purpose of his life was to &ldquo;have always a conscience void of offense toward God, and toward men.&rdquo;",
+    "puborder": 1159,
+    "translations": [
+      {
+        "para_id": "13804.1387",
+        "lang": "bg",
+        "refcode": "Дa 164.1"
+      },
+      {
+        "para_id": "11590.1775",
+        "lang": "ce",
+        "refcode": "ABA 358.2"
+      },
+      {
+        "para_id": "11247.1696",
+        "lang": "cs",
+        "refcode": "PNL 242.2"
+      },
+      {
+        "para_id": "813.1852",
+        "lang": "de",
+        "refcode": "WA 416.2"
+      },
+      {
+        "para_id": "198.1728",
+        "lang": "es",
+        "refcode": "HAp 336.2"
+      },
+      {
+        "para_id": "158.1761",
+        "lang": "fr",
+        "refcode": "CP 372.4"
+      },
+      {
+        "para_id": "11938.1601",
+        "lang": "hu",
+        "refcode": "AT 277.1"
+      },
+      {
+        "para_id": "12410.1729",
+        "lang": "id",
+        "refcode": "KR 353.2"
+      },
+      {
+        "para_id": "882.1607",
+        "lang": "it",
+        "refcode": "UVI 263.1"
+      },
+      {
+        "para_id": "12335.1537",
+        "lang": "nb",
+        "refcode": "AV 242.1"
+      },
+      {
+        "para_id": "12008.1444",
+        "lang": "pl",
+        "refcode": "DA 232.1"
+      },
+      {
+        "para_id": "1806.1517",
+        "lang": "pt",
+        "refcode": "AA 215.6"
+      },
+      {
+        "para_id": "2013.1843",
+        "lang": "ro",
+        "refcode": "FA 421.1"
+      },
+      {
+        "para_id": "1785.1811",
+        "lang": "ru",
+        "refcode": "ДА 421.1"
+      },
+      {
+        "para_id": "13874.1539",
+        "lang": "rw",
+        "refcode": "INI 259.1"
+      },
+      {
+        "para_id": "11182.1525",
+        "lang": "sk",
+        "refcode": "SA 252.1"
+      },
+      {
+        "para_id": "11904.1671",
+        "lang": "tl",
+        "refcode": "AGA 317.2"
+      },
+      {
+        "para_id": "11875.1625",
+        "lang": "uk",
+        "refcode": "ДА 288.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1859",
+    "id_prev": "127.1858",
+    "id_next": "127.1860",
+    "refcode_1": "AA",
+    "refcode_2": "421",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 421.2",
+    "refcode_long": "The Acts of the Apostles, p. 421.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In a candid, straightforward manner he stated the object of his visit to Jerusalem, and the circumstances of his arrest and trial: &ldquo;Now after many years I came to bring alms to my nation, and offerings. Whereupon certain Jews from Asia found me purified in the temple, neither with multitude, nor with tumult. Who ought to have been here before thee, and object, if they had aught against me. Or else let these same here say, if they have found any evil doing in me, while I stood before the council, except it be for this one voice, that I cried standing among them, Touching the resurrection of the dead I am called in question by you this day.&rdquo;",
+    "puborder": 1160,
+    "translations": [
+      {
+        "para_id": "13804.1388",
+        "lang": "bg",
+        "refcode": "Дa 164.2"
+      },
+      {
+        "para_id": "11590.1776",
+        "lang": "ce",
+        "refcode": "ABA 358.3"
+      },
+      {
+        "para_id": "11247.1697",
+        "lang": "cs",
+        "refcode": "PNL 242.3"
+      },
+      {
+        "para_id": "813.1855",
+        "lang": "de",
+        "refcode": "WA 417.1"
+      },
+      {
+        "para_id": "198.1729",
+        "lang": "es",
+        "refcode": "HAp 336.3"
+      },
+      {
+        "para_id": "158.1764",
+        "lang": "fr",
+        "refcode": "CP 373.1"
+      },
+      {
+        "para_id": "11938.1602",
+        "lang": "hu",
+        "refcode": "AT 277.2"
+      },
+      {
+        "para_id": "12410.1732",
+        "lang": "id",
+        "refcode": "KR 354.1"
+      },
+      {
+        "para_id": "882.1608",
+        "lang": "it",
+        "refcode": "UVI 263.2"
+      },
+      {
+        "para_id": "12335.1538",
+        "lang": "nb",
+        "refcode": "AV 242.2"
+      },
+      {
+        "para_id": "12008.1445",
+        "lang": "pl",
+        "refcode": "DA 232.2"
+      },
+      {
+        "para_id": "1806.1521",
+        "lang": "pt",
+        "refcode": "AA 217"
+      },
+      {
+        "para_id": "2013.1844",
+        "lang": "ro",
+        "refcode": "FA 421.2"
+      },
+      {
+        "para_id": "1785.1812",
+        "lang": "ru",
+        "refcode": "ДА 421.2"
+      },
+      {
+        "para_id": "13874.1540",
+        "lang": "rw",
+        "refcode": "INI 259.2"
+      },
+      {
+        "para_id": "11182.1526",
+        "lang": "sk",
+        "refcode": "SA 252.2"
+      },
+      {
+        "para_id": "11904.1671",
+        "lang": "tl",
+        "refcode": "AGA 317.2"
+      },
+      {
+        "para_id": "11875.1626",
+        "lang": "uk",
+        "refcode": "ДА 288.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1860",
+    "id_prev": "127.1859",
+    "id_next": "127.1863",
+    "refcode_1": "AA",
+    "refcode_2": "421",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 421.3",
+    "refcode_long": "The Acts of the Apostles, p. 421.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle spoke with earnestness and evident sincerity, and his words carried with them a weight of conviction. Claudius Lysias, in his letter to Felix, had borne a similar <span class=\"page-break\" data-page=\"422\"></span> testimony in regard to Paul&apos;s conduct. Moreover, Felix himself had a better knowledge of the Jewish religion than many supposed. Paul&apos;s plain statement of the facts in the case enabled Felix to understand still more clearly the motives by which the Jews were governed in attempting to convict the apostle of sedition and treasonable conduct. The governor would not gratify them by unjustly condemning a Roman citizen, neither would he give him up to them to be put to death without a fair trial. Yet Felix knew no higher motive than self-interest, and he was controlled by love of praise and a desire for promotion. Fear of offending the Jews held him back from doing full justice to a man whom he knew to be innocent. He therefore decided to suspend the trial until Lysias should be present, saying, &ldquo;When Lysias the chief captain shall come down, I will know the uttermost of your matter.&rdquo;",
+    "puborder": 1161,
+    "translations": [
+      {
+        "para_id": "13804.1389",
+        "lang": "bg",
+        "refcode": "Дa 164.3"
+      },
+      {
+        "para_id": "11590.1779",
+        "lang": "ce",
+        "refcode": "ABA 359.1"
+      },
+      {
+        "para_id": "11247.1698",
+        "lang": "cs",
+        "refcode": "PNL 242.4"
+      },
+      {
+        "para_id": "813.1856",
+        "lang": "de",
+        "refcode": "WA 417.2"
+      },
+      {
+        "para_id": "198.1732",
+        "lang": "es",
+        "refcode": "HAp 337.1"
+      },
+      {
+        "para_id": "158.1765",
+        "lang": "fr",
+        "refcode": "CP 373.2"
+      },
+      {
+        "para_id": "11938.1603",
+        "lang": "hu",
+        "refcode": "AT 277.3"
+      },
+      {
+        "para_id": "12410.1733",
+        "lang": "id",
+        "refcode": "KR 354.2"
+      },
+      {
+        "para_id": "882.1609",
+        "lang": "it",
+        "refcode": "UVI 263.3"
+      },
+      {
+        "para_id": "12335.1539",
+        "lang": "nb",
+        "refcode": "AV 242.3"
+      },
+      {
+        "para_id": "12008.1446",
+        "lang": "pl",
+        "refcode": "DA 232.3"
+      },
+      {
+        "para_id": "1806.1521",
+        "lang": "pt",
+        "refcode": "AA 217"
+      },
+      {
+        "para_id": "2013.1845",
+        "lang": "ro",
+        "refcode": "FA 421.3"
+      },
+      {
+        "para_id": "1785.1813",
+        "lang": "ru",
+        "refcode": "ДА 421.3"
+      },
+      {
+        "para_id": "13874.1541",
+        "lang": "rw",
+        "refcode": "INI 259.3"
+      },
+      {
+        "para_id": "11182.1527",
+        "lang": "sk",
+        "refcode": "SA 252.3"
+      },
+      {
+        "para_id": "11904.1674",
+        "lang": "tl",
+        "refcode": "AGA 318.1"
+      },
+      {
+        "para_id": "11875.1628",
+        "lang": "uk",
+        "refcode": "ДА 289.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1863",
+    "id_prev": "127.1860",
+    "id_next": "127.1864",
+    "refcode_1": "AA",
+    "refcode_2": "422",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 422.1",
+    "refcode_long": "The Acts of the Apostles, p. 422.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle remained a prisoner, but Felix commanded the centurion who had been appointed to keep Paul, &ldquo;to let him have liberty,&rdquo; and to &ldquo;forbid none of his acquaintance to minister or come unto him.&rdquo;",
+    "puborder": 1162,
+    "translations": [
+      {
+        "para_id": "13804.1389",
+        "lang": "bg",
+        "refcode": "Дa 164.3"
+      },
+      {
+        "para_id": "11590.1780",
+        "lang": "ce",
+        "refcode": "ABA 359.2"
+      },
+      {
+        "para_id": "11247.1701",
+        "lang": "cs",
+        "refcode": "PNL 243.1"
+      },
+      {
+        "para_id": "813.1859",
+        "lang": "de",
+        "refcode": "WA 418.1"
+      },
+      {
+        "para_id": "198.1733",
+        "lang": "es",
+        "refcode": "HAp 337.2"
+      },
+      {
+        "para_id": "158.1769",
+        "lang": "fr",
+        "refcode": "CP 374.1"
+      },
+      {
+        "para_id": "11938.1606",
+        "lang": "hu",
+        "refcode": "AT 278.1"
+      },
+      {
+        "para_id": "12410.1736",
+        "lang": "id",
+        "refcode": "KR 355.1"
+      },
+      {
+        "para_id": "882.1612",
+        "lang": "it",
+        "refcode": "UVI 264.1"
+      },
+      {
+        "para_id": "12335.1540",
+        "lang": "nb",
+        "refcode": "AV 242.4"
+      },
+      {
+        "para_id": "12008.1448",
+        "lang": "pl",
+        "refcode": "DA 233.1"
+      },
+      {
+        "para_id": "1806.1522",
+        "lang": "pt",
+        "refcode": "AA 217.1"
+      },
+      {
+        "para_id": "2013.1848",
+        "lang": "ro",
+        "refcode": "FA 422.1"
+      },
+      {
+        "para_id": "1785.1816",
+        "lang": "ru",
+        "refcode": "ДА 422.1"
+      },
+      {
+        "para_id": "13874.1544",
+        "lang": "rw",
+        "refcode": "INI 260.1"
+      },
+      {
+        "para_id": "11182.1528",
+        "lang": "sk",
+        "refcode": "SA 252.4"
+      },
+      {
+        "para_id": "11904.1675",
+        "lang": "tl",
+        "refcode": "AGA 318.2"
+      },
+      {
+        "para_id": "11875.1629",
+        "lang": "uk",
+        "refcode": "ДА 289.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1864",
+    "id_prev": "127.1863",
+    "id_next": "127.1865",
+    "refcode_1": "AA",
+    "refcode_2": "422",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 422.2",
+    "refcode_long": "The Acts of the Apostles, p. 422.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It was not long after this that Felix and his wife, Drusilla, sent for Paul in order that in a private interview they might hear from him &ldquo;concerning the faith in Christ.&rdquo; They were willing and even eager to listen to these new truths&mdash;truths which they might never hear again and which, if rejected, would prove a swift witness against them in the day of God.",
+    "puborder": 1163,
+    "translations": [
+      {
+        "para_id": "13804.1390",
+        "lang": "bg",
+        "refcode": "Дa 164.4"
+      },
+      {
+        "para_id": "11590.1781",
+        "lang": "ce",
+        "refcode": "ABA 359.3"
+      },
+      {
+        "para_id": "11247.1703",
+        "lang": "cs",
+        "refcode": "PNL 243.2"
+      },
+      {
+        "para_id": "813.1860",
+        "lang": "de",
+        "refcode": "WA 418.2"
+      },
+      {
+        "para_id": "198.1734",
+        "lang": "es",
+        "refcode": "HAp 337.3"
+      },
+      {
+        "para_id": "158.1770",
+        "lang": "fr",
+        "refcode": "CP 374.2"
+      },
+      {
+        "para_id": "11938.1607",
+        "lang": "hu",
+        "refcode": "AT 278.2"
+      },
+      {
+        "para_id": "12410.1737",
+        "lang": "id",
+        "refcode": "KR 355.2"
+      },
+      {
+        "para_id": "882.1613",
+        "lang": "it",
+        "refcode": "UVI 264.2"
+      },
+      {
+        "para_id": "12335.1541",
+        "lang": "nb",
+        "refcode": "AV 242.5"
+      },
+      {
+        "para_id": "12008.1449",
+        "lang": "pl",
+        "refcode": "DA 233.2"
+      },
+      {
+        "para_id": "1806.1524",
+        "lang": "pt",
+        "refcode": "AA 217.3"
+      },
+      {
+        "para_id": "2013.1849",
+        "lang": "ro",
+        "refcode": "FA 422.2"
+      },
+      {
+        "para_id": "1785.1817",
+        "lang": "ru",
+        "refcode": "ДА 422.2"
+      },
+      {
+        "para_id": "13874.1545",
+        "lang": "rw",
+        "refcode": "INI 260.2"
+      },
+      {
+        "para_id": "11182.1530",
+        "lang": "sk",
+        "refcode": "SA 253.1"
+      },
+      {
+        "para_id": "11904.1676",
+        "lang": "tl",
+        "refcode": "AGA 318.3"
+      },
+      {
+        "para_id": "11875.1630",
+        "lang": "uk",
+        "refcode": "ДА 289.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1865",
+    "id_prev": "127.1864",
+    "id_next": "127.1868",
+    "refcode_1": "AA",
+    "refcode_2": "422",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 422.3",
+    "refcode_long": "The Acts of the Apostles, p. 422.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul regarded this as a God-given opportunity, and faithfully <span class=\"page-break\" data-page=\"423\"></span> he improved it. He knew that he stood in the presence of one who had power to put him to death or to set him free; yet he did not address Felix and Drusilla with praise or flattery. He knew that his words would be to them a savor of life or of death, and, forgetting all selfish considerations, he sought to arouse them to a sense of their peril.",
+    "puborder": 1164,
+    "translations": [
+      {
+        "para_id": "13804.1391",
+        "lang": "bg",
+        "refcode": "Дa 164.5"
+      },
+      {
+        "para_id": "11590.1784",
+        "lang": "ce",
+        "refcode": "ABA 360.1"
+      },
+      {
+        "para_id": "11247.1704",
+        "lang": "cs",
+        "refcode": "PNL 243.3"
+      },
+      {
+        "para_id": "813.1861",
+        "lang": "de",
+        "refcode": "WA 418.3"
+      },
+      {
+        "para_id": "198.1735",
+        "lang": "es",
+        "refcode": "HAp 337.4"
+      },
+      {
+        "para_id": "158.1771",
+        "lang": "fr",
+        "refcode": "CP 374.3"
+      },
+      {
+        "para_id": "11938.1608",
+        "lang": "hu",
+        "refcode": "AT 278.3"
+      },
+      {
+        "para_id": "12410.1738",
+        "lang": "id",
+        "refcode": "KR 355.3"
+      },
+      {
+        "para_id": "882.1614",
+        "lang": "it",
+        "refcode": "UVI 264.3"
+      },
+      {
+        "para_id": "12335.1544",
+        "lang": "nb",
+        "refcode": "AV 243.1"
+      },
+      {
+        "para_id": "12008.1450",
+        "lang": "pl",
+        "refcode": "DA 233.3"
+      },
+      {
+        "para_id": "1806.1525",
+        "lang": "pt",
+        "refcode": "AA 217.4"
+      },
+      {
+        "para_id": "2013.1850",
+        "lang": "ro",
+        "refcode": "FA 422.3"
+      },
+      {
+        "para_id": "1785.1819",
+        "lang": "ru",
+        "refcode": "ДА 423.1"
+      },
+      {
+        "para_id": "13874.1546",
+        "lang": "rw",
+        "refcode": "INI 260.3"
+      },
+      {
+        "para_id": "11182.1531",
+        "lang": "sk",
+        "refcode": "SA 253.2"
+      },
+      {
+        "para_id": "11904.1677",
+        "lang": "tl",
+        "refcode": "AGA 318.4"
+      },
+      {
+        "para_id": "11875.1631",
+        "lang": "uk",
+        "refcode": "ДА 289.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1868",
+    "id_prev": "127.1865",
+    "id_next": "127.1869",
+    "refcode_1": "AA",
+    "refcode_2": "423",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 423.1",
+    "refcode_long": "The Acts of the Apostles, p. 423.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle realized that the gospel had a claim upon whoever might listen to his words; that one day they would stand either among the pure and holy around the great white throne, or with those to whom Christ would say, &ldquo;Depart from Me, ye that work iniquity.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Matthew 7:23\" data-link=\"1965.47657\">Matthew 7:23</span>. He knew that he must meet every one of his hearers before the tribunal of heaven and must there render an account, not only for all that he had said and done, but for the motive and spirit of his words and deeds.",
+    "puborder": 1165,
+    "translations": [
+      {
+        "para_id": "13804.1392",
+        "lang": "bg",
+        "refcode": "Дa 164.6"
+      },
+      {
+        "para_id": "11590.1785",
+        "lang": "ce",
+        "refcode": "ABA 360.2"
+      },
+      {
+        "para_id": "11247.1705",
+        "lang": "cs",
+        "refcode": "PNL 243.4"
+      },
+      {
+        "para_id": "813.1862",
+        "lang": "de",
+        "refcode": "WA 418.4"
+      },
+      {
+        "para_id": "198.1738",
+        "lang": "es",
+        "refcode": "HAp 338.1"
+      },
+      {
+        "para_id": "158.1772",
+        "lang": "fr",
+        "refcode": "CP 374.4"
+      },
+      {
+        "para_id": "11938.1609",
+        "lang": "hu",
+        "refcode": "AT 278.4"
+      },
+      {
+        "para_id": "12410.1739",
+        "lang": "id",
+        "refcode": "KR 355.4"
+      },
+      {
+        "para_id": "882.1615",
+        "lang": "it",
+        "refcode": "UVI 264.4"
+      },
+      {
+        "para_id": "12335.1545",
+        "lang": "nb",
+        "refcode": "AV 243.2"
+      },
+      {
+        "para_id": "12008.1451",
+        "lang": "pl",
+        "refcode": "DA 233.4"
+      },
+      {
+        "para_id": "1806.1525",
+        "lang": "pt",
+        "refcode": "AA 217.4"
+      },
+      {
+        "para_id": "2013.1853",
+        "lang": "ro",
+        "refcode": "FA 423.1"
+      },
+      {
+        "para_id": "1785.1820",
+        "lang": "ru",
+        "refcode": "ДА 423.2"
+      },
+      {
+        "para_id": "13874.1547",
+        "lang": "rw",
+        "refcode": "INI 260.4"
+      },
+      {
+        "para_id": "11182.1532",
+        "lang": "sk",
+        "refcode": "SA 253.3"
+      },
+      {
+        "para_id": "11904.1678",
+        "lang": "tl",
+        "refcode": "AGA 318.5"
+      },
+      {
+        "para_id": "11875.1632",
+        "lang": "uk",
+        "refcode": "ДА 289.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1869",
+    "id_prev": "127.1868",
+    "id_next": "127.1870",
+    "refcode_1": "AA",
+    "refcode_2": "423",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 423.2",
+    "refcode_long": "The Acts of the Apostles, p. 423.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "So violent and cruel had been the course of Felix that few had ever before dared even to intimate to him that his character and conduct were not faultless. But Paul had no fear of man. He plainly declared his faith in Christ, and the reasons for that faith, and was thus led to speak particularly of those virtues essential to Christian character, but of which the haughty pair before him were so strikingly destitute.",
+    "puborder": 1166,
+    "translations": [
+      {
+        "para_id": "13804.1394",
+        "lang": "bg",
+        "refcode": "Дa 165.1"
+      },
+      {
+        "para_id": "11590.1786",
+        "lang": "ce",
+        "refcode": "ABA 360.3"
+      },
+      {
+        "para_id": "11247.1706",
+        "lang": "cs",
+        "refcode": "PNL 243.5"
+      },
+      {
+        "para_id": "813.1864",
+        "lang": "de",
+        "refcode": "WA 419.1"
+      },
+      {
+        "para_id": "198.1739",
+        "lang": "es",
+        "refcode": "HAp 338.2"
+      },
+      {
+        "para_id": "158.1773",
+        "lang": "fr",
+        "refcode": "CP 374.5"
+      },
+      {
+        "para_id": "11938.1610",
+        "lang": "hu",
+        "refcode": "AT 278.5"
+      },
+      {
+        "para_id": "12410.1740",
+        "lang": "id",
+        "refcode": "KR 355.5"
+      },
+      {
+        "para_id": "882.1616",
+        "lang": "it",
+        "refcode": "UVI 264.5"
+      },
+      {
+        "para_id": "12335.1546",
+        "lang": "nb",
+        "refcode": "AV 243.3"
+      },
+      {
+        "para_id": "12008.1452",
+        "lang": "pl",
+        "refcode": "DA 233.5"
+      },
+      {
+        "para_id": "1806.1525",
+        "lang": "pt",
+        "refcode": "AA 217.4"
+      },
+      {
+        "para_id": "2013.1854",
+        "lang": "ro",
+        "refcode": "FA 423.2"
+      },
+      {
+        "para_id": "1785.1821",
+        "lang": "ru",
+        "refcode": "ДА 423.3"
+      },
+      {
+        "para_id": "13874.1548",
+        "lang": "rw",
+        "refcode": "INI 260.5"
+      },
+      {
+        "para_id": "11182.1533",
+        "lang": "sk",
+        "refcode": "SA 253.4"
+      },
+      {
+        "para_id": "11904.1681",
+        "lang": "tl",
+        "refcode": "AGA 319.1"
+      },
+      {
+        "para_id": "11875.1635",
+        "lang": "uk",
+        "refcode": "ДА 290.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1870",
+    "id_prev": "127.1869",
+    "id_next": "127.1873",
+    "refcode_1": "AA",
+    "refcode_2": "423",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 423.3",
+    "refcode_long": "The Acts of the Apostles, p. 423.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "He held up before Felix and Drusilla the character of God&mdash;His righteousness, justice, and equity, and the nature of His law. He clearly showed that it is man&apos;s duty to live a life of sobriety and temperance, keeping the passions under the control of reason, in conformity to God&apos;s law, and preserving the physical and mental powers in a healthy condition. <span class=\"page-break\" data-page=\"424\"></span> He declared that there would surely come a day of judgment when all would be rewarded according to the deeds done in the body, and when it would be plainly revealed that wealth, position, or titles are powerless to gain for man the favor of God or to deliver him from the results of sin. He showed that this life is man&apos;s time of preparation for the future life. Should he neglect present privileges and opportunities he would suffer an eternal loss; no new probation would be given him.",
+    "puborder": 1167,
+    "translations": [
+      {
+        "para_id": "13804.1395",
+        "lang": "bg",
+        "refcode": "Дa 165.2"
+      },
+      {
+        "para_id": "11590.1787",
+        "lang": "ce",
+        "refcode": "ABA 360.4"
+      },
+      {
+        "para_id": "11247.1707",
+        "lang": "cs",
+        "refcode": "PNL 243.6"
+      },
+      {
+        "para_id": "813.1865",
+        "lang": "de",
+        "refcode": "WA 419.2"
+      },
+      {
+        "para_id": "198.1740",
+        "lang": "es",
+        "refcode": "HAp 338.3"
+      },
+      {
+        "para_id": "158.1776",
+        "lang": "fr",
+        "refcode": "CP 375.1"
+      },
+      {
+        "para_id": "11938.1612",
+        "lang": "hu",
+        "refcode": "AT 279.1"
+      },
+      {
+        "para_id": "12410.1743",
+        "lang": "id",
+        "refcode": "KR 356.1"
+      },
+      {
+        "para_id": "882.1617",
+        "lang": "it",
+        "refcode": "UVI 264.6"
+      },
+      {
+        "para_id": "12335.1547",
+        "lang": "nb",
+        "refcode": "AV 243.4"
+      },
+      {
+        "para_id": "12008.1453",
+        "lang": "pl",
+        "refcode": "DA 233.6"
+      },
+      {
+        "para_id": "1806.1528",
+        "lang": "pt",
+        "refcode": "AA 218.1"
+      },
+      {
+        "para_id": "2013.1855",
+        "lang": "ro",
+        "refcode": "FA 423.3"
+      },
+      {
+        "para_id": "1785.1822",
+        "lang": "ru",
+        "refcode": "ДА 423.4"
+      },
+      {
+        "para_id": "13874.1549",
+        "lang": "rw",
+        "refcode": "INI 260.6"
+      },
+      {
+        "para_id": "11182.1534",
+        "lang": "sk",
+        "refcode": "SA 253.5"
+      },
+      {
+        "para_id": "11904.1682",
+        "lang": "tl",
+        "refcode": "AGA 319.2"
+      },
+      {
+        "para_id": "11875.1636",
+        "lang": "uk",
+        "refcode": "ДА 290.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1873",
+    "id_prev": "127.1870",
+    "id_next": "127.1874",
+    "refcode_1": "AA",
+    "refcode_2": "424",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 424.1",
+    "refcode_long": "The Acts of the Apostles, p. 424.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul dwelt especially upon the far-reaching claims of God&apos;s law. He showed how it extends to the deep secrets of man&apos;s moral nature and throws a flood of light upon that which has been concealed from the sight and knowledge of men. What the hands may do or the tongue may utter&mdash;what the outer life reveals&mdash;but imperfectly shows man&apos;s moral character. The law searches his thoughts, motives, and purposes. The dark passions that lie hidden from the sight of men, the jealousy, hatred, lust, and ambition, the evil deeds meditated upon in the dark recesses of the soul, yet never executed for want of opportunity&mdash;all these God&apos;s law condemns.",
+    "puborder": 1168,
+    "translations": [
+      {
+        "para_id": "13804.1396",
+        "lang": "bg",
+        "refcode": "Дa 165.3"
+      },
+      {
+        "para_id": "11590.1790",
+        "lang": "ce",
+        "refcode": "ABA 361.1"
+      },
+      {
+        "para_id": "11247.1710",
+        "lang": "cs",
+        "refcode": "PNL 244.1"
+      },
+      {
+        "para_id": "813.1866",
+        "lang": "de",
+        "refcode": "WA 419.3"
+      },
+      {
+        "para_id": "198.1740",
+        "lang": "es",
+        "refcode": "HAp 338.3"
+      },
+      {
+        "para_id": "158.1779",
+        "lang": "fr",
+        "refcode": "CP 375.4"
+      },
+      {
+        "para_id": "158.1778",
+        "lang": "fr",
+        "refcode": "CP 375.3"
+      },
+      {
+        "para_id": "11938.1613",
+        "lang": "hu",
+        "refcode": "AT 279.2"
+      },
+      {
+        "para_id": "12410.1744",
+        "lang": "id",
+        "refcode": "KR 356.2"
+      },
+      {
+        "para_id": "882.1620",
+        "lang": "it",
+        "refcode": "UVI 265.1"
+      },
+      {
+        "para_id": "12335.1548",
+        "lang": "nb",
+        "refcode": "AV 243.5"
+      },
+      {
+        "para_id": "12008.1454",
+        "lang": "pl",
+        "refcode": "DA 233.7"
+      },
+      {
+        "para_id": "1806.1529",
+        "lang": "pt",
+        "refcode": "AA 218.2"
+      },
+      {
+        "para_id": "2013.1858",
+        "lang": "ro",
+        "refcode": "FA 424.1"
+      },
+      {
+        "para_id": "1785.1825",
+        "lang": "ru",
+        "refcode": "ДА 424.1"
+      },
+      {
+        "para_id": "13874.1552",
+        "lang": "rw",
+        "refcode": "INI 261.1"
+      },
+      {
+        "para_id": "11182.1536",
+        "lang": "sk",
+        "refcode": "SA 254.1"
+      },
+      {
+        "para_id": "11904.1683",
+        "lang": "tl",
+        "refcode": "AGA 319.3"
+      },
+      {
+        "para_id": "11875.1637",
+        "lang": "uk",
+        "refcode": "ДА 290.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1874",
+    "id_prev": "127.1873",
+    "id_next": "127.1877",
+    "refcode_1": "AA",
+    "refcode_2": "424",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 424.2",
+    "refcode_long": "The Acts of the Apostles, p. 424.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul endeavored to direct the minds of his hearers to the one great Sacrifice for sin. He pointed to the sacrifices that were shadows of good things to come, and then presented Christ as the antitype of all those ceremonies&mdash;the object to which they pointed as the only source of life and hope for fallen man. Holy men of old were saved by faith in the blood of Christ. As they saw the dying agonies of <span class=\"page-break\" data-page=\"425\"></span> the sacrificial victims they looked across the gulf of ages to the Lamb of God that was to take away the sin of the world.",
+    "puborder": 1169,
+    "translations": [
+      {
+        "para_id": "13804.1397",
+        "lang": "bg",
+        "refcode": "Дa 165.4"
+      },
+      {
+        "para_id": "11590.1791",
+        "lang": "ce",
+        "refcode": "ABA 361.2"
+      },
+      {
+        "para_id": "11247.1711",
+        "lang": "cs",
+        "refcode": "PNL 244.2"
+      },
+      {
+        "para_id": "813.1869",
+        "lang": "de",
+        "refcode": "WA 420.1"
+      },
+      {
+        "para_id": "198.1743",
+        "lang": "es",
+        "refcode": "HAp 339.1"
+      },
+      {
+        "para_id": "158.1780",
+        "lang": "fr",
+        "refcode": "CP 375.5"
+      },
+      {
+        "para_id": "11938.1614",
+        "lang": "hu",
+        "refcode": "AT 279.3"
+      },
+      {
+        "para_id": "12410.1745",
+        "lang": "id",
+        "refcode": "KR 356.3"
+      },
+      {
+        "para_id": "882.1621",
+        "lang": "it",
+        "refcode": "UVI 265.2"
+      },
+      {
+        "para_id": "12335.1551",
+        "lang": "nb",
+        "refcode": "AV 244.1"
+      },
+      {
+        "para_id": "12008.1457",
+        "lang": "pl",
+        "refcode": "DA 234.1"
+      },
+      {
+        "para_id": "1806.1532",
+        "lang": "pt",
+        "refcode": "AA 218.5"
+      },
+      {
+        "para_id": "2013.1859",
+        "lang": "ro",
+        "refcode": "FA 424.2"
+      },
+      {
+        "para_id": "1785.1826",
+        "lang": "ru",
+        "refcode": "ДА 424.2"
+      },
+      {
+        "para_id": "13874.1553",
+        "lang": "rw",
+        "refcode": "INI 261.2"
+      },
+      {
+        "para_id": "11182.1536",
+        "lang": "sk",
+        "refcode": "SA 254.1"
+      },
+      {
+        "para_id": "11904.1686",
+        "lang": "tl",
+        "refcode": "AGA 320.1"
+      },
+      {
+        "para_id": "11875.1638",
+        "lang": "uk",
+        "refcode": "ДА 290.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1877",
+    "id_prev": "127.1874",
+    "id_next": "127.1878",
+    "refcode_1": "AA",
+    "refcode_2": "425",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 425.1",
+    "refcode_long": "The Acts of the Apostles, p. 425.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God justly claims the love and obedience of all His creatures. He has given them in His law a perfect standard of right. But many forget their Maker and choose to follow their own way in opposition to His will. They return enmity for love that is as high as heaven and as broad as the universe. God cannot lower the requirements of His law to meet the standard of wicked men; neither can man in his own power meet the demands of the law. Only by faith in Christ can the sinner be cleansed from guilt and be enabled to render obedience to the law of his Maker.",
+    "puborder": 1170,
+    "translations": [
+      {
+        "para_id": "13804.1398",
+        "lang": "bg",
+        "refcode": "Дa 165.5"
+      },
+      {
+        "para_id": "11590.1792",
+        "lang": "ce",
+        "refcode": "ABA 361.3"
+      },
+      {
+        "para_id": "11247.1712",
+        "lang": "cs",
+        "refcode": "PNL 244.3"
+      },
+      {
+        "para_id": "813.1870",
+        "lang": "de",
+        "refcode": "WA 420.2"
+      },
+      {
+        "para_id": "198.1744",
+        "lang": "es",
+        "refcode": "HAp 339.2"
+      },
+      {
+        "para_id": "158.1783",
+        "lang": "fr",
+        "refcode": "CP 376.1"
+      },
+      {
+        "para_id": "11938.1615",
+        "lang": "hu",
+        "refcode": "AT 279.4"
+      },
+      {
+        "para_id": "12410.1748",
+        "lang": "id",
+        "refcode": "KR 357.1"
+      },
+      {
+        "para_id": "882.1622",
+        "lang": "it",
+        "refcode": "UVI 265.3"
+      },
+      {
+        "para_id": "12335.1552",
+        "lang": "nb",
+        "refcode": "AV 244.2"
+      },
+      {
+        "para_id": "12008.1458",
+        "lang": "pl",
+        "refcode": "DA 234.2"
+      },
+      {
+        "para_id": "1806.1533",
+        "lang": "pt",
+        "refcode": "AA 218.6"
+      },
+      {
+        "para_id": "2013.1862",
+        "lang": "ro",
+        "refcode": "FA 425.1"
+      },
+      {
+        "para_id": "1785.1829",
+        "lang": "ru",
+        "refcode": "ДА 425.1"
+      },
+      {
+        "para_id": "13874.1554",
+        "lang": "rw",
+        "refcode": "INI 261.3"
+      },
+      {
+        "para_id": "11182.1537",
+        "lang": "sk",
+        "refcode": "SA 254.2"
+      },
+      {
+        "para_id": "11904.1687",
+        "lang": "tl",
+        "refcode": "AGA 320.2"
+      },
+      {
+        "para_id": "11875.1641",
+        "lang": "uk",
+        "refcode": "ДА 291.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1878",
+    "id_prev": "127.1877",
+    "id_next": "127.1879",
+    "refcode_1": "AA",
+    "refcode_2": "425",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 425.2",
+    "refcode_long": "The Acts of the Apostles, p. 425.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Thus Paul, the prisoner, urged the claims of the divine law upon Jew and Gentile, and presented Jesus, the despised Nazarene, as the Son of God, the world&apos;s Redeemer.",
+    "puborder": 1171,
+    "translations": [
+      {
+        "para_id": "13804.1399",
+        "lang": "bg",
+        "refcode": "Дa 165.6"
+      },
+      {
+        "para_id": "11590.1795",
+        "lang": "ce",
+        "refcode": "ABA 362.1"
+      },
+      {
+        "para_id": "11247.1713",
+        "lang": "cs",
+        "refcode": "PNL 244.4"
+      },
+      {
+        "para_id": "813.1871",
+        "lang": "de",
+        "refcode": "WA 420.3"
+      },
+      {
+        "para_id": "198.1745",
+        "lang": "es",
+        "refcode": "HAp 339.3"
+      },
+      {
+        "para_id": "158.1783",
+        "lang": "fr",
+        "refcode": "CP 376.1"
+      },
+      {
+        "para_id": "11938.1618",
+        "lang": "hu",
+        "refcode": "AT 280.1"
+      },
+      {
+        "para_id": "12410.1749",
+        "lang": "id",
+        "refcode": "KR 357.2"
+      },
+      {
+        "para_id": "882.1623",
+        "lang": "it",
+        "refcode": "UVI 265.4"
+      },
+      {
+        "para_id": "12335.1553",
+        "lang": "nb",
+        "refcode": "AV 244.3"
+      },
+      {
+        "para_id": "12008.1459",
+        "lang": "pl",
+        "refcode": "DA 234.3"
+      },
+      {
+        "para_id": "1806.1534",
+        "lang": "pt",
+        "refcode": "AA 218.7"
+      },
+      {
+        "para_id": "2013.1863",
+        "lang": "ro",
+        "refcode": "FA 425.2"
+      },
+      {
+        "para_id": "1785.1830",
+        "lang": "ru",
+        "refcode": "ДА 425.2"
+      },
+      {
+        "para_id": "13874.1555",
+        "lang": "rw",
+        "refcode": "INI 261.4"
+      },
+      {
+        "para_id": "11182.1538",
+        "lang": "sk",
+        "refcode": "SA 254.3"
+      },
+      {
+        "para_id": "11904.1688",
+        "lang": "tl",
+        "refcode": "AGA 320.3"
+      },
+      {
+        "para_id": "11875.1642",
+        "lang": "uk",
+        "refcode": "ДА 291.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1879",
+    "id_prev": "127.1878",
+    "id_next": "127.1882",
+    "refcode_1": "AA",
+    "refcode_2": "425",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 425.3",
+    "refcode_long": "The Acts of the Apostles, p. 425.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Jewish princess well understood the sacred character of that law which she had so shamelessly transgressed, but her prejudice against the Man of Calvary steeled her heart against the word of life. But Felix had never before listened to the truth, and as the Spirit of God sent conviction to his soul, he became deeply agitated. Conscience, now aroused, made her voice heard, and Felix felt that Paul&apos;s words were true. Memory went back over the guilty past. With terrible distinctness there came up before him the secrets of his early life of profligacy and bloodshed, and the black record of his later years. He saw himself licentious, cruel, rapacious. Never before had the truth been thus brought home to his <span class=\"page-break\" data-page=\"426\"></span> heart. Never before had his soul been so filled with terror. The thought that all the secrets of his career of crime were open before the eye of God, and that he must be judged according to his deeds, caused him to tremble with dread.",
+    "puborder": 1172,
+    "translations": [
+      {
+        "para_id": "13804.1400",
+        "lang": "bg",
+        "refcode": "Дa 165.7"
+      },
+      {
+        "para_id": "11590.1796",
+        "lang": "ce",
+        "refcode": "ABA 362.2"
+      },
+      {
+        "para_id": "11247.1715",
+        "lang": "cs",
+        "refcode": "PNL 244.5"
+      },
+      {
+        "para_id": "813.1873",
+        "lang": "de",
+        "refcode": "WA 421.1"
+      },
+      {
+        "para_id": "198.1747",
+        "lang": "es",
+        "refcode": "HAp 340.1"
+      },
+      {
+        "para_id": "158.1784",
+        "lang": "fr",
+        "refcode": "CP 376.2"
+      },
+      {
+        "para_id": "158.1785",
+        "lang": "fr",
+        "refcode": "CP 376.3"
+      },
+      {
+        "para_id": "11938.1619",
+        "lang": "hu",
+        "refcode": "AT 280.2"
+      },
+      {
+        "para_id": "12410.1750",
+        "lang": "id",
+        "refcode": "KR 357.3"
+      },
+      {
+        "para_id": "882.1626",
+        "lang": "it",
+        "refcode": "UVI 266.1"
+      },
+      {
+        "para_id": "12335.1554",
+        "lang": "nb",
+        "refcode": "AV 244.4"
+      },
+      {
+        "para_id": "12008.1460",
+        "lang": "pl",
+        "refcode": "DA 234.4"
+      },
+      {
+        "para_id": "1806.1534",
+        "lang": "pt",
+        "refcode": "AA 218.7"
+      },
+      {
+        "para_id": "2013.1864",
+        "lang": "ro",
+        "refcode": "FA 425.3"
+      },
+      {
+        "para_id": "1785.1831",
+        "lang": "ru",
+        "refcode": "ДА 425.3"
+      },
+      {
+        "para_id": "13874.1557",
+        "lang": "rw",
+        "refcode": "INI 262.1"
+      },
+      {
+        "para_id": "11182.1539",
+        "lang": "sk",
+        "refcode": "SA 254.4"
+      },
+      {
+        "para_id": "11904.1689",
+        "lang": "tl",
+        "refcode": "AGA 320.4"
+      },
+      {
+        "para_id": "11875.1643",
+        "lang": "uk",
+        "refcode": "ДА 291.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1882",
+    "id_prev": "127.1879",
+    "id_next": "127.1883",
+    "refcode_1": "AA",
+    "refcode_2": "426",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 426.1",
+    "refcode_long": "The Acts of the Apostles, p. 426.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But instead of permitting his convictions to lead him to repentance, he sought to dismiss these unwelcome reflections. The interview with Paul was cut short. &ldquo;Go thy way for this time,&rdquo; he said; &ldquo;when I have a convenient season, I will call for thee.&rdquo;",
+    "puborder": 1173,
+    "translations": [
+      {
+        "para_id": "13804.1403",
+        "lang": "bg",
+        "refcode": "Дa 166.1"
+      },
+      {
+        "para_id": "11590.1797",
+        "lang": "ce",
+        "refcode": "ABA 362.3"
+      },
+      {
+        "para_id": "11247.1718",
+        "lang": "cs",
+        "refcode": "PNL 245.1"
+      },
+      {
+        "para_id": "813.1874",
+        "lang": "de",
+        "refcode": "WA 421.2"
+      },
+      {
+        "para_id": "198.1748",
+        "lang": "es",
+        "refcode": "HAp 340.2"
+      },
+      {
+        "para_id": "158.1786",
+        "lang": "fr",
+        "refcode": "CP 376.4"
+      },
+      {
+        "para_id": "11938.1620",
+        "lang": "hu",
+        "refcode": "AT 280.3"
+      },
+      {
+        "para_id": "12410.1753",
+        "lang": "id",
+        "refcode": "KR 358.1"
+      },
+      {
+        "para_id": "882.1627",
+        "lang": "it",
+        "refcode": "UVI 266.2"
+      },
+      {
+        "para_id": "12335.1555",
+        "lang": "nb",
+        "refcode": "AV 244.5"
+      },
+      {
+        "para_id": "12008.1461",
+        "lang": "pl",
+        "refcode": "DA 234.5"
+      },
+      {
+        "para_id": "1806.1534",
+        "lang": "pt",
+        "refcode": "AA 218.7"
+      },
+      {
+        "para_id": "2013.1867",
+        "lang": "ro",
+        "refcode": "FA 426.1"
+      },
+      {
+        "para_id": "1785.1834",
+        "lang": "ru",
+        "refcode": "ДА 426.1"
+      },
+      {
+        "para_id": "13874.1558",
+        "lang": "rw",
+        "refcode": "INI 262.2"
+      },
+      {
+        "para_id": "11182.1542",
+        "lang": "sk",
+        "refcode": "SA 255.1"
+      },
+      {
+        "para_id": "11904.1692",
+        "lang": "tl",
+        "refcode": "AGA 321.1"
+      },
+      {
+        "para_id": "11875.1644",
+        "lang": "uk",
+        "refcode": "ДА 291.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1883",
+    "id_prev": "127.1882",
+    "id_next": "127.1884",
+    "refcode_1": "AA",
+    "refcode_2": "426",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 426.2",
+    "refcode_long": "The Acts of the Apostles, p. 426.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "How wide the contrast between the course of Felix and that of the jailer of Philippi! The servants of the Lord were brought in bonds to the jailer, as was Paul to Felix. The evidence they gave of being sustained by a divine power, their rejoicing under suffering and disgrace, their fearlessness when the earth was reeling with the earthquake shock, and their spirit of Christlike forgiveness, sent conviction to the jailer&apos;s heart, and with trembling he confessed his sins and found pardon. Felix trembled, but he did not repent. The jailer joyfully welcomed the Spirit of God to his heart and to his home; Felix bade the divine Messenger depart. The one chose to become a child of God and an heir of heaven; the other cast his lot with the workers of iniquity.",
+    "puborder": 1174,
+    "translations": [
+      {
+        "para_id": "13804.1404",
+        "lang": "bg",
+        "refcode": "Дa 166.2"
+      },
+      {
+        "para_id": "11590.1800",
+        "lang": "ce",
+        "refcode": "ABA 363.1"
+      },
+      {
+        "para_id": "11247.1719",
+        "lang": "cs",
+        "refcode": "PNL 245.2"
+      },
+      {
+        "para_id": "813.1875",
+        "lang": "de",
+        "refcode": "WA 421.3"
+      },
+      {
+        "para_id": "198.1749",
+        "lang": "es",
+        "refcode": "HAp 340.3"
+      },
+      {
+        "para_id": "158.1789",
+        "lang": "fr",
+        "refcode": "CP 377.1"
+      },
+      {
+        "para_id": "158.1790",
+        "lang": "fr",
+        "refcode": "CP 377.2"
+      },
+      {
+        "para_id": "11938.1621",
+        "lang": "hu",
+        "refcode": "AT 280.4"
+      },
+      {
+        "para_id": "12410.1754",
+        "lang": "id",
+        "refcode": "KR 358.2"
+      },
+      {
+        "para_id": "882.1628",
+        "lang": "it",
+        "refcode": "UVI 266.3"
+      },
+      {
+        "para_id": "12335.1558",
+        "lang": "nb",
+        "refcode": "AV 245.1"
+      },
+      {
+        "para_id": "12008.1463",
+        "lang": "pl",
+        "refcode": "DA 235.1"
+      },
+      {
+        "para_id": "1806.1538",
+        "lang": "pt",
+        "refcode": "AA 219.2"
+      },
+      {
+        "para_id": "2013.1868",
+        "lang": "ro",
+        "refcode": "FA 426.2"
+      },
+      {
+        "para_id": "1785.1835",
+        "lang": "ru",
+        "refcode": "ДА 426.2"
+      },
+      {
+        "para_id": "13874.1559",
+        "lang": "rw",
+        "refcode": "INI 262.3"
+      },
+      {
+        "para_id": "11182.1543",
+        "lang": "sk",
+        "refcode": "SA 255.2"
+      },
+      {
+        "para_id": "11904.1693",
+        "lang": "tl",
+        "refcode": "AGA 321.2"
+      },
+      {
+        "para_id": "11875.1645",
+        "lang": "uk",
+        "refcode": "ДА 291.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1884",
+    "id_prev": "127.1883",
+    "id_next": "127.1887",
+    "refcode_1": "AA",
+    "refcode_2": "426",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 426.3",
+    "refcode_long": "The Acts of the Apostles, p. 426.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "For two years no further action was taken against Paul, yet he remained a prisoner. Felix visited him several times and listened attentively to his words. But the real motive for this apparent friendliness was a desire for gain, and he intimated that by the payment of a large sum of money <span class=\"page-break\" data-page=\"427\"></span> Paul might secure his release. The apostle, however, was of too noble a nature to free himself by a bribe. He was not guilty of any crime, and he would not stoop to commit a wrong in order to gain freedom. Furthermore, he was himself too poor to pay such a ransom, had he been disposed to do so, and he would not, in his own behalf, appeal to the sympathy and generosity of his converts. He also felt that he was in the hands of God, and he would not interfere with the divine purposes respecting himself.",
+    "puborder": 1175,
+    "translations": [
+      {
+        "para_id": "13804.1405",
+        "lang": "bg",
+        "refcode": "Дa 166.3"
+      },
+      {
+        "para_id": "11590.1801",
+        "lang": "ce",
+        "refcode": "ABA 363.2"
+      },
+      {
+        "para_id": "11247.1720",
+        "lang": "cs",
+        "refcode": "PNL 245.3"
+      },
+      {
+        "para_id": "813.1878",
+        "lang": "de",
+        "refcode": "WA 422.1"
+      },
+      {
+        "para_id": "198.1750",
+        "lang": "es",
+        "refcode": "HAp 340.4"
+      },
+      {
+        "para_id": "158.1791",
+        "lang": "fr",
+        "refcode": "CP 377.3"
+      },
+      {
+        "para_id": "11938.1622",
+        "lang": "hu",
+        "refcode": "AT 280.5"
+      },
+      {
+        "para_id": "12410.1755",
+        "lang": "id",
+        "refcode": "KR 358.3"
+      },
+      {
+        "para_id": "882.1629",
+        "lang": "it",
+        "refcode": "UVI 266.4"
+      },
+      {
+        "para_id": "12335.1559",
+        "lang": "nb",
+        "refcode": "AV 245.2"
+      },
+      {
+        "para_id": "12008.1464",
+        "lang": "pl",
+        "refcode": "DA 235.2"
+      },
+      {
+        "para_id": "1806.1539",
+        "lang": "pt",
+        "refcode": "AA 219.3"
+      },
+      {
+        "para_id": "2013.1869",
+        "lang": "ro",
+        "refcode": "FA 426.3"
+      },
+      {
+        "para_id": "1785.1836",
+        "lang": "ru",
+        "refcode": "ДА 426.3"
+      },
+      {
+        "para_id": "13874.1560",
+        "lang": "rw",
+        "refcode": "INI 262.4"
+      },
+      {
+        "para_id": "11182.1544",
+        "lang": "sk",
+        "refcode": "SA 255.3"
+      },
+      {
+        "para_id": "11904.1694",
+        "lang": "tl",
+        "refcode": "AGA 321.3"
+      },
+      {
+        "para_id": "11875.1648",
+        "lang": "uk",
+        "refcode": "ДА 292.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1887",
+    "id_prev": "127.1884",
+    "id_next": "127.1888",
+    "refcode_1": "AA",
+    "refcode_2": "427",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 427.1",
+    "refcode_long": "The Acts of the Apostles, p. 427.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Felix was finally summoned to Rome because of gross wrongs committed against the Jews. Before leaving Caesarea in answer to this summons, he thought to &ldquo;show the Jews a pleasure&rdquo; by allowing Paul to remain in prison. But Felix was not successful in his attempt to regain the confidence of the Jews. He was removed from office in disgrace, and Porcius Festus was appointed to succeed him, with headquarters at Caesarea.",
+    "puborder": 1176,
+    "translations": [
+      {
+        "para_id": "13804.1406",
+        "lang": "bg",
+        "refcode": "Дa 166.4"
+      },
+      {
+        "para_id": "11590.1802",
+        "lang": "ce",
+        "refcode": "ABA 363.3"
+      },
+      {
+        "para_id": "11247.1721",
+        "lang": "cs",
+        "refcode": "PNL 245.4"
+      },
+      {
+        "para_id": "813.1879",
+        "lang": "de",
+        "refcode": "WA 422.2"
+      },
+      {
+        "para_id": "198.1753",
+        "lang": "es",
+        "refcode": "HAp 341.1"
+      },
+      {
+        "para_id": "158.1792",
+        "lang": "fr",
+        "refcode": "CP 377.4"
+      },
+      {
+        "para_id": "11938.1625",
+        "lang": "hu",
+        "refcode": "AT 281.1"
+      },
+      {
+        "para_id": "12410.1758",
+        "lang": "id",
+        "refcode": "KR 359.1"
+      },
+      {
+        "para_id": "882.1632",
+        "lang": "it",
+        "refcode": "UVI 267.1"
+      },
+      {
+        "para_id": "12335.1560",
+        "lang": "nb",
+        "refcode": "AV 245.3"
+      },
+      {
+        "para_id": "12008.1465",
+        "lang": "pl",
+        "refcode": "DA 235.3"
+      },
+      {
+        "para_id": "1806.1540",
+        "lang": "pt",
+        "refcode": "AA 219.4"
+      },
+      {
+        "para_id": "2013.1872",
+        "lang": "ro",
+        "refcode": "FA 427.1"
+      },
+      {
+        "para_id": "1785.1839",
+        "lang": "ru",
+        "refcode": "ДА 427.1"
+      },
+      {
+        "para_id": "13874.1563",
+        "lang": "rw",
+        "refcode": "INI 263.1"
+      },
+      {
+        "para_id": "11182.1544",
+        "lang": "sk",
+        "refcode": "SA 255.3"
+      },
+      {
+        "para_id": "11904.1696",
+        "lang": "tl",
+        "refcode": "AGA 322.1"
+      },
+      {
+        "para_id": "11875.1649",
+        "lang": "uk",
+        "refcode": "ДА 292.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1888",
+    "id_prev": "127.1887",
+    "id_next": "127.1890",
+    "refcode_1": "AA",
+    "refcode_2": "427",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 427.2",
+    "refcode_long": "The Acts of the Apostles, p. 427.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "A ray of light from heaven had been permitted to shine upon Felix, when Paul reasoned with him concerning righteousness, temperance, and a judgment to come. That was his heaven-sent opportunity to see and to forsake his sins. But he said to the messenger of God, &ldquo;Go thy way for this time; when I have a convenient season, I will call for thee.&rdquo; He had slighted his last offer of mercy. Never was he to receive another call from God.",
+    "puborder": 1177,
+    "translations": [
+      {
+        "para_id": "13804.1407",
+        "lang": "bg",
+        "refcode": "Дa 166.5"
+      },
+      {
+        "para_id": "11590.1805",
+        "lang": "ce",
+        "refcode": "ABA 364.1"
+      },
+      {
+        "para_id": "11247.1722",
+        "lang": "cs",
+        "refcode": "PNL 245.5"
+      },
+      {
+        "para_id": "813.1880",
+        "lang": "de",
+        "refcode": "WA 422.3"
+      },
+      {
+        "para_id": "198.1754",
+        "lang": "es",
+        "refcode": "HAp 341.2"
+      },
+      {
+        "para_id": "158.1794",
+        "lang": "fr",
+        "refcode": "CP 378.1"
+      },
+      {
+        "para_id": "11938.1626",
+        "lang": "hu",
+        "refcode": "AT 281.2"
+      },
+      {
+        "para_id": "12410.1759",
+        "lang": "id",
+        "refcode": "KR 359.2"
+      },
+      {
+        "para_id": "882.1633",
+        "lang": "it",
+        "refcode": "UVI 267.2"
+      },
+      {
+        "para_id": "12335.1561",
+        "lang": "nb",
+        "refcode": "AV 245.4"
+      },
+      {
+        "para_id": "12008.1466",
+        "lang": "pl",
+        "refcode": "DA 235.4"
+      },
+      {
+        "para_id": "1806.1541",
+        "lang": "pt",
+        "refcode": "AA 219.5"
+      },
+      {
+        "para_id": "2013.1873",
+        "lang": "ro",
+        "refcode": "FA 427.2"
+      },
+      {
+        "para_id": "1785.1840",
+        "lang": "ru",
+        "refcode": "ДА 427.2"
+      },
+      {
+        "para_id": "13874.1564",
+        "lang": "rw",
+        "refcode": "INI 263.2"
+      },
+      {
+        "para_id": "11182.1545",
+        "lang": "sk",
+        "refcode": "SA 255.4"
+      },
+      {
+        "para_id": "11904.1697",
+        "lang": "tl",
+        "refcode": "AGA 322.2"
+      },
+      {
+        "para_id": "11875.1650",
+        "lang": "uk",
+        "refcode": "ДА 292.3"
+      }
+    ]
+  }
+]

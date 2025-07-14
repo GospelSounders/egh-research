@@ -1,0 +1,1704 @@
+[
+  {
+    "para_id": "128.523",
+    "id_prev": "128.521",
+    "id_next": "128.524",
+    "refcode_1": "AH",
+    "refcode_2": "121",
+    "refcode_3": "",
+    "refcode_4": "18",
+    "refcode_short": "AH 121",
+    "refcode_long": "The Adventist Home, p. 121 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 18&mdash;Marital Duties and Privileges",
+    "puborder": 337,
+    "translations": [
+      {
+        "para_id": "13839.416",
+        "lang": "bg",
+        "refcode": "ХД 49"
+      },
+      {
+        "para_id": "177.556",
+        "lang": "es",
+        "refcode": "HC 106"
+      },
+      {
+        "para_id": "193.517",
+        "lang": "fr",
+        "refcode": "FC 115"
+      },
+      {
+        "para_id": "12869.604",
+        "lang": "id",
+        "refcode": "MKB 113"
+      },
+      {
+        "para_id": "891.287",
+        "lang": "it",
+        "refcode": "FC 45"
+      },
+      {
+        "para_id": "12178.444",
+        "lang": "pl",
+        "refcode": "ChD 73"
+      },
+      {
+        "para_id": "1955.688",
+        "lang": "pt",
+        "refcode": "LA 121"
+      },
+      {
+        "para_id": "2026.514",
+        "lang": "ro",
+        "refcode": "CA 121"
+      },
+      {
+        "para_id": "1803.489",
+        "lang": "ru",
+        "refcode": "ХД 121"
+      },
+      {
+        "para_id": "12131.461",
+        "lang": "uk",
+        "refcode": "ХР 96"
+      }
+    ]
+  },
+  {
+    "para_id": "128.524",
+    "id_prev": "128.523",
+    "id_next": "128.525",
+    "refcode_1": "AH",
+    "refcode_2": "121",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 121.1",
+    "refcode_long": "The Adventist Home, p. 121.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Jesus Did Not Enforce Celibacy</strong>&mdash;Those who regard the marriage relation as one of God&apos;s sacred ordinances, guarded by His holy precept, will be controlled by the dictates of reason.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"SA 139.1\" data-link=\"4.267\">A Solemn Appeal, 139</span>.</span></a></sup>",
+    "puborder": 338,
+    "translations": [
+      {
+        "para_id": "13839.417",
+        "lang": "bg",
+        "refcode": "ХД 49.1"
+      },
+      {
+        "para_id": "177.557",
+        "lang": "es",
+        "refcode": "HC 106.1"
+      },
+      {
+        "para_id": "193.518",
+        "lang": "fr",
+        "refcode": "FC 115.1"
+      },
+      {
+        "para_id": "12869.606",
+        "lang": "id",
+        "refcode": "MKB 113.1"
+      },
+      {
+        "para_id": "12178.445",
+        "lang": "pl",
+        "refcode": "ChD 73.4"
+      },
+      {
+        "para_id": "1955.690",
+        "lang": "pt",
+        "refcode": "LA 121.1"
+      },
+      {
+        "para_id": "1955.689",
+        "lang": "pt",
+        "refcode": "LA 121"
+      },
+      {
+        "para_id": "2026.515",
+        "lang": "ro",
+        "refcode": "CA 121.1"
+      },
+      {
+        "para_id": "1803.490",
+        "lang": "ru",
+        "refcode": "ХД 121.1"
+      },
+      {
+        "para_id": "12131.462",
+        "lang": "uk",
+        "refcode": "ХР 96.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.525",
+    "id_prev": "128.524",
+    "id_next": "128.526",
+    "refcode_1": "AH",
+    "refcode_2": "121",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 121.2",
+    "refcode_long": "The Adventist Home, p. 121.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Jesus did not enforce celibacy upon any class of men. He came not to destroy the sacred relationship of marriage, but to exalt it and restore it to its original sanctity. He looks with pleasure upon the family relationship where sacred and unselfish love bears sway.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 126, 1903\" data-link=\"14068.9645001\">Manuscript 126, 1903</span>.</span></a></sup>",
+    "puborder": 339,
+    "translations": [
+      {
+        "para_id": "13839.418",
+        "lang": "bg",
+        "refcode": "ХД 49.2"
+      },
+      {
+        "para_id": "177.558",
+        "lang": "es",
+        "refcode": "HC 106.2"
+      },
+      {
+        "para_id": "193.519",
+        "lang": "fr",
+        "refcode": "FC 115.2"
+      },
+      {
+        "para_id": "12869.607",
+        "lang": "id",
+        "refcode": "MKB 113.2"
+      },
+      {
+        "para_id": "12178.448",
+        "lang": "pl",
+        "refcode": "ChD 74.1"
+      },
+      {
+        "para_id": "1955.691",
+        "lang": "pt",
+        "refcode": "LA 121.2"
+      },
+      {
+        "para_id": "2026.516",
+        "lang": "ro",
+        "refcode": "CA 121.2"
+      },
+      {
+        "para_id": "1803.491",
+        "lang": "ru",
+        "refcode": "ХД 121.2"
+      },
+      {
+        "para_id": "12131.463",
+        "lang": "uk",
+        "refcode": "ХР 96.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.526",
+    "id_prev": "128.525",
+    "id_next": "128.527",
+    "refcode_1": "AH",
+    "refcode_2": "121",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 121.3",
+    "refcode_long": "The Adventist Home, p. 121.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Marriage Is Lawful and Holy</strong>&mdash;There is in itself no sin in eating and drinking, or in marrying and giving in marriage. It was lawful to marry in the time of Noah, and it is lawful to marry now, if that which is lawful is properly treated and not carried to sinful excess. But in the days of Noah men married without consulting God or seeking His guidance and counsel....",
+    "puborder": 340,
+    "translations": [
+      {
+        "para_id": "13839.419",
+        "lang": "bg",
+        "refcode": "ХД 49.3"
+      },
+      {
+        "para_id": "177.559",
+        "lang": "es",
+        "refcode": "HC 106.3"
+      },
+      {
+        "para_id": "193.520",
+        "lang": "fr",
+        "refcode": "FC 115.3"
+      },
+      {
+        "para_id": "12869.609",
+        "lang": "id",
+        "refcode": "MKB 113.3"
+      },
+      {
+        "para_id": "891.289",
+        "lang": "it",
+        "refcode": "FC 45.2"
+      },
+      {
+        "para_id": "891.288",
+        "lang": "it",
+        "refcode": "FC 45"
+      },
+      {
+        "para_id": "12178.449",
+        "lang": "pl",
+        "refcode": "ChD 74.2"
+      },
+      {
+        "para_id": "1955.692",
+        "lang": "pt",
+        "refcode": "LA 121"
+      },
+      {
+        "para_id": "1955.693",
+        "lang": "pt",
+        "refcode": "LA 121.3"
+      },
+      {
+        "para_id": "2026.517",
+        "lang": "ro",
+        "refcode": "CA 121.3"
+      },
+      {
+        "para_id": "1803.492",
+        "lang": "ru",
+        "refcode": "ХД 121.3"
+      },
+      {
+        "para_id": "12131.464",
+        "lang": "uk",
+        "refcode": "ХР 96.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.527",
+    "id_prev": "128.526",
+    "id_next": "128.528",
+    "refcode_1": "AH",
+    "refcode_2": "121",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 121.4",
+    "refcode_long": "The Adventist Home, p. 121.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The fact that all the relations of life are of a transitory nature should have a modifying influence on all we do and say. In Noah&apos;s day it was the inordinate, excessive love of that which in itself was lawful, when properly used, that made marriage sinful before God. There are many who are losing their souls in this age of the world by becoming absorbed in the thoughts of marriage and in the marriage relation itself.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 9-25-1888\" data-link=\"821.9198\">The Review and Herald, September 25, 1888</span>.</span></a></sup>",
+    "puborder": 341,
+    "translations": [
+      {
+        "para_id": "13839.420",
+        "lang": "bg",
+        "refcode": "ХД 49.4"
+      },
+      {
+        "para_id": "177.560",
+        "lang": "es",
+        "refcode": "HC 106.4"
+      },
+      {
+        "para_id": "193.521",
+        "lang": "fr",
+        "refcode": "FC 115.4"
+      },
+      {
+        "para_id": "12869.612",
+        "lang": "id",
+        "refcode": "MKB 114.1"
+      },
+      {
+        "para_id": "891.289",
+        "lang": "it",
+        "refcode": "FC 45.2"
+      },
+      {
+        "para_id": "12178.450",
+        "lang": "pl",
+        "refcode": "ChD 74.3"
+      },
+      {
+        "para_id": "1955.694",
+        "lang": "pt",
+        "refcode": "LA 121.4"
+      },
+      {
+        "para_id": "2026.518",
+        "lang": "ro",
+        "refcode": "CA 121.4"
+      },
+      {
+        "para_id": "1803.493",
+        "lang": "ru",
+        "refcode": "ХД 121.4"
+      },
+      {
+        "para_id": "12131.464",
+        "lang": "uk",
+        "refcode": "ХР 96.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.528",
+    "id_prev": "128.527",
+    "id_next": "128.531",
+    "refcode_1": "AH",
+    "refcode_2": "121",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 121.5",
+    "refcode_long": "The Adventist Home, p. 121.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The marriage relation is holy, but in this degenerate age it covers vileness of every description. It is abused and has become a crime which now constitutes one of the <span class=\"page-break\" data-page=\"122\"></span> signs of the last days, even as marriages, managed as they were previous to the Flood, were then a crime.... When the sacred nature and the claims of marriage are understood, it will even now be approved of Heaven; and the result will be happiness to both parties, and God will be glorified.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 252.1\" data-link=\"120.1066\">Testimonies for the Church 2:252</span>.</span></a></sup>",
+    "puborder": 342,
+    "translations": [
+      {
+        "para_id": "13839.421",
+        "lang": "bg",
+        "refcode": "ХД 49.5"
+      },
+      {
+        "para_id": "177.562",
+        "lang": "es",
+        "refcode": "HC 107.1"
+      },
+      {
+        "para_id": "193.522",
+        "lang": "fr",
+        "refcode": "FC 115.5"
+      },
+      {
+        "para_id": "12869.613",
+        "lang": "id",
+        "refcode": "MKB 114.2"
+      },
+      {
+        "para_id": "891.290",
+        "lang": "it",
+        "refcode": "FC 45.3"
+      },
+      {
+        "para_id": "12178.451",
+        "lang": "pl",
+        "refcode": "ChD 74.4"
+      },
+      {
+        "para_id": "1955.695",
+        "lang": "pt",
+        "refcode": "LA 121.5"
+      },
+      {
+        "para_id": "2026.519",
+        "lang": "ro",
+        "refcode": "CA 121.5"
+      },
+      {
+        "para_id": "1803.494",
+        "lang": "ru",
+        "refcode": "ХД 121.5"
+      },
+      {
+        "para_id": "12131.465",
+        "lang": "uk",
+        "refcode": "ХР 96.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.531",
+    "id_prev": "128.528",
+    "id_next": "128.532",
+    "refcode_1": "AH",
+    "refcode_2": "122",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 122.1",
+    "refcode_long": "The Adventist Home, p. 122.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Privileges of the Marriage Relation</strong>&mdash;Those professing to be Christians ... should duly consider the result of every privilege [<span class=\"non-egw-note\">Note: On another occasion Mrs. White speaks of the &ldquo;Privacy And Privileges Of The Family Relation.&rdquo; See <span class=\"egwlink egwlink_book\" title=\"2T 90.1\" data-link=\"120.376\">Testimonies for the Church 2:90</span>.&mdash;<em>Compilers</em>.</span>] of the marriage relation, and sanctified principle should be the basis of every action.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 380.1\" data-link=\"120.1649\">Ibid., 2:380</span>.</span></a></sup>",
+    "puborder": 343,
+    "translations": [
+      {
+        "para_id": "13839.422",
+        "lang": "bg",
+        "refcode": "ХД 49.6"
+      },
+      {
+        "para_id": "13839.423",
+        "lang": "bg",
+        "refcode": "ХД 49.7"
+      },
+      {
+        "para_id": "177.563",
+        "lang": "es",
+        "refcode": "HC 107.2"
+      },
+      {
+        "para_id": "193.525",
+        "lang": "fr",
+        "refcode": "FC 116.1"
+      },
+      {
+        "para_id": "12869.615",
+        "lang": "id",
+        "refcode": "MKB 114.3"
+      },
+      {
+        "para_id": "1955.698",
+        "lang": "pt",
+        "refcode": "LA 122"
+      },
+      {
+        "para_id": "1955.699",
+        "lang": "pt",
+        "refcode": "LA 122.1"
+      },
+      {
+        "para_id": "2026.522",
+        "lang": "ro",
+        "refcode": "CA 122.1"
+      },
+      {
+        "para_id": "1803.497",
+        "lang": "ru",
+        "refcode": "ХД 122.1"
+      },
+      {
+        "para_id": "12131.466",
+        "lang": "uk",
+        "refcode": "ХР 96.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.532",
+    "id_prev": "128.531",
+    "id_next": "128.533",
+    "refcode_1": "AH",
+    "refcode_2": "122",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 122.2",
+    "refcode_long": "The Adventist Home, p. 122.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In very many cases the parents ... have abused their marriage privileges, and by indulgence have strengthened their animal passions.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 391.1\" data-link=\"120.1702\">Ibid., 2:391</span>.</span></a></sup>",
+    "puborder": 344,
+    "translations": [
+      {
+        "para_id": "13839.424",
+        "lang": "bg",
+        "refcode": "ХД 49.8"
+      },
+      {
+        "para_id": "177.564",
+        "lang": "es",
+        "refcode": "HC 107.3"
+      },
+      {
+        "para_id": "193.526",
+        "lang": "fr",
+        "refcode": "FC 116.2"
+      },
+      {
+        "para_id": "12869.616",
+        "lang": "id",
+        "refcode": "MKB 114.4"
+      },
+      {
+        "para_id": "1955.700",
+        "lang": "pt",
+        "refcode": "LA 122.2"
+      },
+      {
+        "para_id": "2026.523",
+        "lang": "ro",
+        "refcode": "CA 122.2"
+      },
+      {
+        "para_id": "1803.498",
+        "lang": "ru",
+        "refcode": "ХД 122.2"
+      },
+      {
+        "para_id": "12131.469",
+        "lang": "uk",
+        "refcode": "ХР 97.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.533",
+    "id_prev": "128.532",
+    "id_next": "128.534",
+    "refcode_1": "AH",
+    "refcode_2": "122",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 122.3",
+    "refcode_long": "The Adventist Home, p. 122.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Duty to Avoid Excesses</strong>&mdash;It is carrying that which is lawful to excess that makes it a grievous sin.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 505.1\" data-link=\"114.2485\">Testimonies for the Church 4:505</span>.</span></a></sup>",
+    "puborder": 345,
+    "translations": [
+      {
+        "para_id": "13839.425",
+        "lang": "bg",
+        "refcode": "ХД 49.9"
+      },
+      {
+        "para_id": "177.565",
+        "lang": "es",
+        "refcode": "HC 107.4"
+      },
+      {
+        "para_id": "193.527",
+        "lang": "fr",
+        "refcode": "FC 116.3"
+      },
+      {
+        "para_id": "12869.618",
+        "lang": "id",
+        "refcode": "MKB 114.5"
+      },
+      {
+        "para_id": "12178.452",
+        "lang": "pl",
+        "refcode": "ChD 74.5"
+      },
+      {
+        "para_id": "1955.701",
+        "lang": "pt",
+        "refcode": "LA 122"
+      },
+      {
+        "para_id": "1955.702",
+        "lang": "pt",
+        "refcode": "LA 122.3"
+      },
+      {
+        "para_id": "2026.524",
+        "lang": "ro",
+        "refcode": "CA 122.3"
+      },
+      {
+        "para_id": "1803.499",
+        "lang": "ru",
+        "refcode": "ХД 122.3"
+      },
+      {
+        "para_id": "12131.470",
+        "lang": "uk",
+        "refcode": "ХР 97.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.534",
+    "id_prev": "128.533",
+    "id_next": "128.536",
+    "refcode_1": "AH",
+    "refcode_2": "122",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 122.4",
+    "refcode_long": "The Adventist Home, p. 122.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Many parents do not obtain the knowledge that they should in the married life. They are not guarded lest Satan take advantage of them and control their minds and their lives. They do not see that God requires them to control their married lives from any excesses. But very few feel it to be a religious duty to govern their passions. They have united themselves in marriage to the object of their choice and, therefore, reason that marriage sanctifies the indulgence of the baser passions. Even men and women professing godliness give loose rein to their lustful passions and have no thought that God holds them accountable for the expenditure of vital energy, which weakens their hold on life and enervates the entire system.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 472.1\" data-link=\"120.2049\">Testimonies for the Church 2:472</span>.</span></a></sup>",
+    "puborder": 346,
+    "translations": [
+      {
+        "para_id": "13839.426",
+        "lang": "bg",
+        "refcode": "ХД 49.10"
+      },
+      {
+        "para_id": "177.566",
+        "lang": "es",
+        "refcode": "HC 107.5"
+      },
+      {
+        "para_id": "193.528",
+        "lang": "fr",
+        "refcode": "FC 116.4"
+      },
+      {
+        "para_id": "12869.619",
+        "lang": "id",
+        "refcode": "MKB 114.6"
+      },
+      {
+        "para_id": "12178.452",
+        "lang": "pl",
+        "refcode": "ChD 74.5"
+      },
+      {
+        "para_id": "1955.703",
+        "lang": "pt",
+        "refcode": "LA 122.4"
+      },
+      {
+        "para_id": "2026.525",
+        "lang": "ro",
+        "refcode": "CA 122.4"
+      },
+      {
+        "para_id": "1803.500",
+        "lang": "ru",
+        "refcode": "ХД 122.4"
+      },
+      {
+        "para_id": "12131.470",
+        "lang": "uk",
+        "refcode": "ХР 97.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.536",
+    "id_prev": "128.534",
+    "id_next": "128.537",
+    "refcode_1": "AH",
+    "refcode_2": "123",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 123.1",
+    "refcode_long": "The Adventist Home, p. 123.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Let Self-denial and Temperance Be the Watchword</strong>&mdash;Oh, that I could make all understand their obligation to God to preserve the mental and physical organism in the best condition to render perfect service to their Maker! Let the Christian wife refrain, both in word and act, from exciting the animal passions of her husband. Many have no strength at all to waste in this direction. From their youth up they have weakened the brain and sapped the constitution by the gratification of animal passions. Self-denial and temperance should be the watchword in their married life.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 477.1\" data-link=\"120.2070\">Testimonies for the Church 2:477, 478</span>.</span></a></sup>",
+    "puborder": 347,
+    "translations": [
+      {
+        "para_id": "13839.429",
+        "lang": "bg",
+        "refcode": "ХД 50.1"
+      },
+      {
+        "para_id": "177.568",
+        "lang": "es",
+        "refcode": "HC 108.1"
+      },
+      {
+        "para_id": "193.529",
+        "lang": "fr",
+        "refcode": "FC 116.5"
+      },
+      {
+        "para_id": "12869.623",
+        "lang": "id",
+        "refcode": "MKB 115.1"
+      },
+      {
+        "para_id": "12178.455",
+        "lang": "pl",
+        "refcode": "ChD 75.1"
+      },
+      {
+        "para_id": "1955.705",
+        "lang": "pt",
+        "refcode": "LA 123"
+      },
+      {
+        "para_id": "1955.706",
+        "lang": "pt",
+        "refcode": "LA 123.1"
+      },
+      {
+        "para_id": "2026.527",
+        "lang": "ro",
+        "refcode": "CA 123.1"
+      },
+      {
+        "para_id": "1803.502",
+        "lang": "ru",
+        "refcode": "ХД 123.1"
+      },
+      {
+        "para_id": "12131.471",
+        "lang": "uk",
+        "refcode": "ХР 97.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.537",
+    "id_prev": "128.536",
+    "id_next": "128.538",
+    "refcode_1": "AH",
+    "refcode_2": "123",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 123.2",
+    "refcode_long": "The Adventist Home, p. 123.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "We are under solemn obligations to God to keep the spirit pure and the body healthy, that we may be a benefit to humanity and render to God perfect service. The apostle utters these words of warning: &ldquo;Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.&rdquo; He urges us onward by telling us that &ldquo;every man that striveth for the mastery is temperate in all things.&rdquo; He exhorts all who call themselves Christians to present their bodies &ldquo;a living sacrifice, holy, acceptable unto God.&rdquo; He says: &ldquo;I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 381.1\" data-link=\"120.1653\">Testimonies for the Church 2:381</span>.</span></a></sup>",
+    "puborder": 348,
+    "translations": [
+      {
+        "para_id": "13839.430",
+        "lang": "bg",
+        "refcode": "ХД 50.2"
+      },
+      {
+        "para_id": "177.569",
+        "lang": "es",
+        "refcode": "HC 108.2"
+      },
+      {
+        "para_id": "193.532",
+        "lang": "fr",
+        "refcode": "FC 117.1"
+      },
+      {
+        "para_id": "12869.624",
+        "lang": "id",
+        "refcode": "MKB 115.2"
+      },
+      {
+        "para_id": "12178.456",
+        "lang": "pl",
+        "refcode": "ChD 75.2"
+      },
+      {
+        "para_id": "1955.707",
+        "lang": "pt",
+        "refcode": "LA 123.2"
+      },
+      {
+        "para_id": "2026.528",
+        "lang": "ro",
+        "refcode": "CA 123.2"
+      },
+      {
+        "para_id": "1803.503",
+        "lang": "ru",
+        "refcode": "ХД 123.2"
+      },
+      {
+        "para_id": "12131.472",
+        "lang": "uk",
+        "refcode": "ХР 97.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.538",
+    "id_prev": "128.537",
+    "id_next": "128.541",
+    "refcode_1": "AH",
+    "refcode_2": "123",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 123.3",
+    "refcode_long": "The Adventist Home, p. 123.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is not pure love which actuates a man to make his wife an instrument to minister to his lust. It is the animal passions which clamor for indulgence. How few men show their love in the manner specified by the apostle: &ldquo;Even as Christ also loved the church, and gave Himself for it; that He might [not pollute it, but] sanctify and cleanse it; ... that it should be holy and without blemish.&rdquo; This is the quality of love in the marriage relation which God recognizes as holy. Love is a pure and holy principle, but lustful passion will not admit of <span class=\"page-break\" data-page=\"124\"></span> restraint and will not be dictated to or controlled by reason. It is blind to consequences; it will not reason from cause to effect.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 473.1\" data-link=\"120.2054\">Testimonies for the Church 2:473</span>.</span></a></sup>",
+    "puborder": 349,
+    "translations": [
+      {
+        "para_id": "13839.431",
+        "lang": "bg",
+        "refcode": "ХД 50.3"
+      },
+      {
+        "para_id": "177.570",
+        "lang": "es",
+        "refcode": "HC 108.3"
+      },
+      {
+        "para_id": "193.533",
+        "lang": "fr",
+        "refcode": "FC 117.2"
+      },
+      {
+        "para_id": "12178.457",
+        "lang": "pl",
+        "refcode": "ChD 75.3"
+      },
+      {
+        "para_id": "1955.708",
+        "lang": "pt",
+        "refcode": "LA 123.3"
+      },
+      {
+        "para_id": "2026.529",
+        "lang": "ro",
+        "refcode": "CA 123.3"
+      },
+      {
+        "para_id": "1803.504",
+        "lang": "ru",
+        "refcode": "ХД 123.3"
+      },
+      {
+        "para_id": "12131.475",
+        "lang": "uk",
+        "refcode": "ХР 98.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.541",
+    "id_prev": "128.538",
+    "id_next": "128.542",
+    "refcode_1": "AH",
+    "refcode_2": "124",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 124.1",
+    "refcode_long": "The Adventist Home, p. 124.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Why Satan Seeks to Weaken Self-control</strong>&mdash;Satan seeks to lower the standard of purity and to weaken the self-control of those who enter the marriage relation, because he knows that while the baser passions are in the ascendancy, the moral powers grow steadily weaker, and he need have no concern as to their spiritual growth. He knows, too, that in no way can he better stamp his own hateful image upon their offspring, and that he can thus mold their character even more readily than he can the character of the parents.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CTBH 130.1\" data-link=\"14.614\">Christian Temperance and Bible Hygiene, 130</span>.</span></a></sup>",
+    "puborder": 350,
+    "translations": [
+      {
+        "para_id": "13839.432",
+        "lang": "bg",
+        "refcode": "ХД 50.4"
+      },
+      {
+        "para_id": "177.572",
+        "lang": "es",
+        "refcode": "HC 109.1"
+      },
+      {
+        "para_id": "193.534",
+        "lang": "fr",
+        "refcode": "FC 117.3"
+      },
+      {
+        "para_id": "891.292",
+        "lang": "it",
+        "refcode": "FC 45.4"
+      },
+      {
+        "para_id": "891.291",
+        "lang": "it",
+        "refcode": "FC 45"
+      },
+      {
+        "para_id": "12178.459",
+        "lang": "pl",
+        "refcode": "ChD 76.1"
+      },
+      {
+        "para_id": "1955.712",
+        "lang": "pt",
+        "refcode": "LA 124.1"
+      },
+      {
+        "para_id": "1955.711",
+        "lang": "pt",
+        "refcode": "LA 124"
+      },
+      {
+        "para_id": "2026.532",
+        "lang": "ro",
+        "refcode": "CA 124.1"
+      },
+      {
+        "para_id": "1803.507",
+        "lang": "ru",
+        "refcode": "ХД 124.1"
+      },
+      {
+        "para_id": "12131.476",
+        "lang": "uk",
+        "refcode": "ХР 98.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.542",
+    "id_prev": "128.541",
+    "id_next": "128.543",
+    "refcode_1": "AH",
+    "refcode_2": "124",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 124.2",
+    "refcode_long": "The Adventist Home, p. 124.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Results of Excesses</strong>&mdash;Men and women, you will one day learn what is lust and the result of its gratification. Passion of just as base a quality may be found in the marriage relation as outside of it.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 473.1\" data-link=\"120.2054\">Testimonies for the Church 2:473</span>.</span></a></sup>",
+    "puborder": 351,
+    "translations": [
+      {
+        "para_id": "13839.433",
+        "lang": "bg",
+        "refcode": "ХД 50.5"
+      },
+      {
+        "para_id": "177.573",
+        "lang": "es",
+        "refcode": "HC 109.2"
+      },
+      {
+        "para_id": "193.536",
+        "lang": "fr",
+        "refcode": "FC 118.1"
+      },
+      {
+        "para_id": "891.295",
+        "lang": "it",
+        "refcode": "FC 46"
+      },
+      {
+        "para_id": "891.296",
+        "lang": "it",
+        "refcode": "FC 46.1"
+      },
+      {
+        "para_id": "12178.460",
+        "lang": "pl",
+        "refcode": "ChD 76.2"
+      },
+      {
+        "para_id": "1955.714",
+        "lang": "pt",
+        "refcode": "LA 124.2"
+      },
+      {
+        "para_id": "1955.713",
+        "lang": "pt",
+        "refcode": "LA 124"
+      },
+      {
+        "para_id": "2026.533",
+        "lang": "ro",
+        "refcode": "CA 124.2"
+      },
+      {
+        "para_id": "1803.508",
+        "lang": "ru",
+        "refcode": "ХД 124.2"
+      },
+      {
+        "para_id": "12131.477",
+        "lang": "uk",
+        "refcode": "ХР 98.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.543",
+    "id_prev": "128.542",
+    "id_next": "128.544",
+    "refcode_1": "AH",
+    "refcode_2": "124",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 124.3",
+    "refcode_long": "The Adventist Home, p. 124.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "What is the result of giving loose rein to the lower passions? ... The bedchamber, where angels of God should preside, is made unholy by unholy practices. And because shameful animalism rules, bodies are corrupted; loathsome practices lead to loathsome diseases. That which God has given as a blessing is made a curse.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">14<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 1, 1888\" data-link=\"14055.4194001\">Manuscript 1, 1888</span>.</span></a></sup>",
+    "puborder": 352,
+    "translations": [
+      {
+        "para_id": "13839.435",
+        "lang": "bg",
+        "refcode": "ХД 51.1"
+      },
+      {
+        "para_id": "177.574",
+        "lang": "es",
+        "refcode": "HC 109.3"
+      },
+      {
+        "para_id": "193.537",
+        "lang": "fr",
+        "refcode": "FC 118.2"
+      },
+      {
+        "para_id": "891.297",
+        "lang": "it",
+        "refcode": "FC 46.2"
+      },
+      {
+        "para_id": "12178.461",
+        "lang": "pl",
+        "refcode": "ChD 76.3"
+      },
+      {
+        "para_id": "1955.715",
+        "lang": "pt",
+        "refcode": "LA 124.3"
+      },
+      {
+        "para_id": "2026.534",
+        "lang": "ro",
+        "refcode": "CA 124.3"
+      },
+      {
+        "para_id": "1803.509",
+        "lang": "ru",
+        "refcode": "ХД 124.3"
+      },
+      {
+        "para_id": "12131.477",
+        "lang": "uk",
+        "refcode": "ХР 98.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.544",
+    "id_prev": "128.543",
+    "id_next": "128.545",
+    "refcode_1": "AH",
+    "refcode_2": "124",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 124.4",
+    "refcode_long": "The Adventist Home, p. 124.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Sexual excess will effectually destroy a love for devotional exercises, will take from the brain the substance needed to nourish the system, and will most effectively exhaust the vitality. No woman should aid her husband in this work of self-destruction. She will not do it if she is enlightened and has true love for him.",
+    "puborder": 353,
+    "translations": [
+      {
+        "para_id": "13839.436",
+        "lang": "bg",
+        "refcode": "ХД 51.2"
+      },
+      {
+        "para_id": "177.575",
+        "lang": "es",
+        "refcode": "HC 109.4"
+      },
+      {
+        "para_id": "193.538",
+        "lang": "fr",
+        "refcode": "FC 118.3"
+      },
+      {
+        "para_id": "891.297",
+        "lang": "it",
+        "refcode": "FC 46.2"
+      },
+      {
+        "para_id": "12178.462",
+        "lang": "pl",
+        "refcode": "ChD 76.4"
+      },
+      {
+        "para_id": "1955.716",
+        "lang": "pt",
+        "refcode": "LA 124.4"
+      },
+      {
+        "para_id": "2026.535",
+        "lang": "ro",
+        "refcode": "CA 124.4"
+      },
+      {
+        "para_id": "1803.510",
+        "lang": "ru",
+        "refcode": "ХД 124.4"
+      },
+      {
+        "para_id": "12131.478",
+        "lang": "uk",
+        "refcode": "ХР 98.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.545",
+    "id_prev": "128.544",
+    "id_next": "128.548",
+    "refcode_1": "AH",
+    "refcode_2": "124",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 124.5",
+    "refcode_long": "The Adventist Home, p. 124.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The more the animal passions are indulged, the stronger do they become, and the more violent will be <span class=\"page-break\" data-page=\"125\"></span> their clamors for indulgence. Let God-fearing men and women awake to their duty. Many professed Christians are suffering with paralysis of nerve and brain because of their intemperance in this direction.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">15<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 477.1\" data-link=\"120.2070\">Testimonies for the Church 2:477</span>.</span></a></sup>",
+    "puborder": 354,
+    "translations": [
+      {
+        "para_id": "13839.437",
+        "lang": "bg",
+        "refcode": "ХД 51.3"
+      },
+      {
+        "para_id": "177.576",
+        "lang": "es",
+        "refcode": "HC 109.5"
+      },
+      {
+        "para_id": "193.539",
+        "lang": "fr",
+        "refcode": "FC 118.4"
+      },
+      {
+        "para_id": "891.297",
+        "lang": "it",
+        "refcode": "FC 46.2"
+      },
+      {
+        "para_id": "12178.463",
+        "lang": "pl",
+        "refcode": "ChD 76.5"
+      },
+      {
+        "para_id": "1955.717",
+        "lang": "pt",
+        "refcode": "LA 124.5"
+      },
+      {
+        "para_id": "2026.536",
+        "lang": "ro",
+        "refcode": "CA 124.5"
+      },
+      {
+        "para_id": "1803.511",
+        "lang": "ru",
+        "refcode": "ХД 124.5"
+      },
+      {
+        "para_id": "12131.481",
+        "lang": "uk",
+        "refcode": "ХР 99.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.548",
+    "id_prev": "128.545",
+    "id_next": "128.549",
+    "refcode_1": "AH",
+    "refcode_2": "125",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 125.1",
+    "refcode_long": "The Adventist Home, p. 125.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Husbands to Be Considerate</strong>&mdash;Husbands should be careful, attentive, constant, faithful, and compassionate. They should manifest love and sympathy. If they fulfill the words of Christ, their love will not be of a base, earthly, sensual character that will lead to the destruction of their own bodies and bring upon their wives debility and disease. They will not indulge in the gratification of base passions, while ringing in the ears of their wives that they must be subject to the husband in everything. When the husband has the nobility of character, purity of heart, elevation of mind that every true Christian must possess, it will be made manifest in the marriage relation. If he has the mind of Christ, he will not be a destroyer of the body, but will be full of tender love, seeking to reach the highest standard in Christ.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">16<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 17, 1891\" data-link=\"14057.6457001\">Manuscript 17, 1891</span>.</span></a></sup>",
+    "puborder": 355,
+    "translations": [
+      {
+        "para_id": "13839.438",
+        "lang": "bg",
+        "refcode": "ХД 51.4"
+      },
+      {
+        "para_id": "177.577",
+        "lang": "es",
+        "refcode": "HC 109.6"
+      },
+      {
+        "para_id": "193.540",
+        "lang": "fr",
+        "refcode": "FC 118.5"
+      },
+      {
+        "para_id": "891.298",
+        "lang": "it",
+        "refcode": "FC 46"
+      },
+      {
+        "para_id": "891.299",
+        "lang": "it",
+        "refcode": "FC 46.3"
+      },
+      {
+        "para_id": "12178.464",
+        "lang": "pl",
+        "refcode": "ChD 76.6"
+      },
+      {
+        "para_id": "1955.720",
+        "lang": "pt",
+        "refcode": "LA 125"
+      },
+      {
+        "para_id": "1955.721",
+        "lang": "pt",
+        "refcode": "LA 125.1"
+      },
+      {
+        "para_id": "2026.539",
+        "lang": "ro",
+        "refcode": "CA 125.1"
+      },
+      {
+        "para_id": "1803.514",
+        "lang": "ru",
+        "refcode": "ХД 125.1"
+      },
+      {
+        "para_id": "12131.482",
+        "lang": "uk",
+        "refcode": "ХР 99.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.549",
+    "id_prev": "128.548",
+    "id_next": "128.551",
+    "refcode_1": "AH",
+    "refcode_2": "125",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 125.2",
+    "refcode_long": "The Adventist Home, p. 125.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>When Doubts Creep In</strong>&mdash;No man can truly love his wife when she will patiently submit to become his slave and minister to his depraved passions. In her passive submission she loses the value she once possessed in his eyes. He sees her dragged down from everything elevating to a low level, and soon he suspects that she will as tamely submit to be degraded by another as by himself. He doubts her constancy and purity, tires of her, and seeks new objects to arouse and intensify his hellish passions. The law of God is not regarded. These men are worse than brutes; they are demons in human form. They are unacquainted with the elevating, ennobling principles of true, sanctified love.",
+    "puborder": 356,
+    "translations": [
+      {
+        "para_id": "13839.439",
+        "lang": "bg",
+        "refcode": "ХД 51.5"
+      },
+      {
+        "para_id": "177.580",
+        "lang": "es",
+        "refcode": "HC 110.1"
+      },
+      {
+        "para_id": "193.542",
+        "lang": "fr",
+        "refcode": "FC 119.1"
+      },
+      {
+        "para_id": "891.301",
+        "lang": "it",
+        "refcode": "FC 46.4"
+      },
+      {
+        "para_id": "891.300",
+        "lang": "it",
+        "refcode": "FC 46"
+      },
+      {
+        "para_id": "12178.467",
+        "lang": "pl",
+        "refcode": "ChD 77.1"
+      },
+      {
+        "para_id": "1955.723",
+        "lang": "pt",
+        "refcode": "LA 125.2"
+      },
+      {
+        "para_id": "1955.722",
+        "lang": "pt",
+        "refcode": "LA 125"
+      },
+      {
+        "para_id": "2026.540",
+        "lang": "ro",
+        "refcode": "CA 125.2"
+      },
+      {
+        "para_id": "1803.515",
+        "lang": "ru",
+        "refcode": "ХД 125.2"
+      },
+      {
+        "para_id": "12131.483",
+        "lang": "uk",
+        "refcode": "ХР 99.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.551",
+    "id_prev": "128.549",
+    "id_next": "128.552",
+    "refcode_1": "AH",
+    "refcode_2": "126",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 126.1",
+    "refcode_long": "The Adventist Home, p. 126.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The wife also becomes jealous of the husband and suspects that if opportunity should offer, he would just as readily pay his addresses to another as to her. She sees that he is not controlled by conscience or the fear of God; all these sanctified barriers are broken down by lustful passions; all that is Godlike in the husband is made the servant of low, brutish lust.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">17<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 474.1\" data-link=\"120.2057\">Testimonies for the Church 2:474, 475</span>.</span></a></sup>",
+    "puborder": 357,
+    "translations": [
+      {
+        "para_id": "13839.440",
+        "lang": "bg",
+        "refcode": "ХД 51.6"
+      },
+      {
+        "para_id": "177.580",
+        "lang": "es",
+        "refcode": "HC 110.1"
+      },
+      {
+        "para_id": "193.543",
+        "lang": "fr",
+        "refcode": "FC 119.2"
+      },
+      {
+        "para_id": "891.304",
+        "lang": "it",
+        "refcode": "FC 47.1"
+      },
+      {
+        "para_id": "12178.468",
+        "lang": "pl",
+        "refcode": "ChD 77.2"
+      },
+      {
+        "para_id": "1955.725",
+        "lang": "pt",
+        "refcode": "LA 126.1"
+      },
+      {
+        "para_id": "2026.542",
+        "lang": "ro",
+        "refcode": "CA 126.1"
+      },
+      {
+        "para_id": "12131.484",
+        "lang": "uk",
+        "refcode": "ХР 99.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.552",
+    "id_prev": "128.551",
+    "id_next": "128.553",
+    "refcode_1": "AH",
+    "refcode_2": "126",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 126.2",
+    "refcode_long": "The Adventist Home, p. 126.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Problem of Unreasonable Demands</strong>&mdash;The matter now to be settled is: Shall the wife feel bound to yield implicitly to the demands of her husband when she sees that nothing but base passions control him, and when her reason and judgment are convinced that she does it to the injury of her body, which God has enjoined upon her to possess in sanctification and honor, to preserve as a living sacrifice to God?",
+    "puborder": 358,
+    "translations": [
+      {
+        "para_id": "13839.441",
+        "lang": "bg",
+        "refcode": "ХД 51.7"
+      },
+      {
+        "para_id": "177.581",
+        "lang": "es",
+        "refcode": "HC 110.2"
+      },
+      {
+        "para_id": "193.544",
+        "lang": "fr",
+        "refcode": "FC 119.3"
+      },
+      {
+        "para_id": "12869.625",
+        "lang": "id",
+        "refcode": "MKB 115.3"
+      },
+      {
+        "para_id": "12178.469",
+        "lang": "pl",
+        "refcode": "ChD 77.3"
+      },
+      {
+        "para_id": "1955.727",
+        "lang": "pt",
+        "refcode": "LA 126.2"
+      },
+      {
+        "para_id": "1955.726",
+        "lang": "pt",
+        "refcode": "LA 126"
+      },
+      {
+        "para_id": "2026.543",
+        "lang": "ro",
+        "refcode": "CA 126.2"
+      },
+      {
+        "para_id": "1803.518",
+        "lang": "ru",
+        "refcode": "ХД 126.2"
+      },
+      {
+        "para_id": "12131.486",
+        "lang": "uk",
+        "refcode": "ХР 100.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.553",
+    "id_prev": "128.552",
+    "id_next": "128.554",
+    "refcode_1": "AH",
+    "refcode_2": "126",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 126.3",
+    "refcode_long": "The Adventist Home, p. 126.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is not pure, holy love which leads the wife to gratify the animal propensities of her husband at the expense of health and life. If she possesses true love and wisdom, she will seek to divert his mind from the gratification of lustful passions to high and spiritual themes by dwelling upon interesting spiritual subjects. It may be necessary to humbly and affectionately urge, even at the risk of his displeasure, that she cannot debase her body by yielding to sexual excess. She should, in a tender, kind manner, remind him that God has the first and highest claim upon her entire being, and that she cannot disregard this claim, for she will be held accountable in the great day of God....",
+    "puborder": 359,
+    "translations": [
+      {
+        "para_id": "13839.444",
+        "lang": "bg",
+        "refcode": "ХД 52.1"
+      },
+      {
+        "para_id": "177.584",
+        "lang": "es",
+        "refcode": "HC 111.1"
+      },
+      {
+        "para_id": "193.545",
+        "lang": "fr",
+        "refcode": "FC 119.4"
+      },
+      {
+        "para_id": "12869.630",
+        "lang": "id",
+        "refcode": "MKB 118.1"
+      },
+      {
+        "para_id": "12178.470",
+        "lang": "pl",
+        "refcode": "ChD 77.4"
+      },
+      {
+        "para_id": "1955.728",
+        "lang": "pt",
+        "refcode": "LA 126.3"
+      },
+      {
+        "para_id": "2026.544",
+        "lang": "ro",
+        "refcode": "CA 126.3"
+      },
+      {
+        "para_id": "1803.519",
+        "lang": "ru",
+        "refcode": "ХД 126.3"
+      },
+      {
+        "para_id": "12131.487",
+        "lang": "uk",
+        "refcode": "ХР 100.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.554",
+    "id_prev": "128.553",
+    "id_next": "128.557",
+    "refcode_1": "AH",
+    "refcode_2": "126",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 126.4",
+    "refcode_long": "The Adventist Home, p. 126.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "If she will elevate her affections, and in sanctification and honor preserve her refined, womanly dignity, woman can do much by her judicious influence to sanctify her husband, and thus fulfill her high mission. In so doing she can save both her husband and herself, thus performing <span class=\"page-break\" data-page=\"127\"></span> a double work. In this matter, so delicate and so difficult to manage, much wisdom and patience are necessary, as well as moral courage and fortitude. Strength and grace can be found in prayer. Sincere love is to be the ruling principle of the heart. Love to God and love to the husband can alone be the right ground of action....",
+    "puborder": 360,
+    "translations": [
+      {
+        "para_id": "13839.445",
+        "lang": "bg",
+        "refcode": "ХД 52.2"
+      },
+      {
+        "para_id": "177.585",
+        "lang": "es",
+        "refcode": "HC 111.2"
+      },
+      {
+        "para_id": "193.546",
+        "lang": "fr",
+        "refcode": "FC 119.5"
+      },
+      {
+        "para_id": "12869.631",
+        "lang": "id",
+        "refcode": "MKB 118.2"
+      },
+      {
+        "para_id": "12178.472",
+        "lang": "pl",
+        "refcode": "ChD 78.1"
+      },
+      {
+        "para_id": "1955.729",
+        "lang": "pt",
+        "refcode": "LA 126.4"
+      },
+      {
+        "para_id": "2026.545",
+        "lang": "ro",
+        "refcode": "CA 126.4"
+      },
+      {
+        "para_id": "1803.520",
+        "lang": "ru",
+        "refcode": "ХД 126.4"
+      },
+      {
+        "para_id": "12131.488",
+        "lang": "uk",
+        "refcode": "ХР 100.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.557",
+    "id_prev": "128.554",
+    "id_next": "128.558",
+    "refcode_1": "AH",
+    "refcode_2": "127",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 127.1",
+    "refcode_long": "The Adventist Home, p. 127.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When the wife yields her body and mind to the control of her husband, being passive to his will in all things, sacrificing her conscience, her dignity, and even her identity, she loses the opportunity of exerting that mighty influence for good which she should possess to elevate her husband. She could soften his stern nature, and her sanctifying influence could be exerted in a manner to refine and purify, leading him to strive earnestly to govern his passions and be more spiritually minded, that they might be partakers together of the divine nature, having escaped the corruption that is in the world through lust. The power of influence can be great to lead the mind to high and noble themes, above the low, sensual indulgences for which the heart unrenewed by grace naturally seeks. If the wife feels that in order to please her husband she must come down to his standard, when animal passion is the principal basis of his love and controls his actions, she displeases God; for she fails to exert a sanctifying influence upon her husband. If she feels that she must submit to his animal passions without a word of remonstrance, she does not understand her duty to him nor to her God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">18<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 475.1\" data-link=\"120.2060\">Ibid., 2:475-477</span>.</span></a></sup>",
+    "puborder": 361,
+    "translations": [
+      {
+        "para_id": "13839.446",
+        "lang": "bg",
+        "refcode": "ХД 52.3"
+      },
+      {
+        "para_id": "177.586",
+        "lang": "es",
+        "refcode": "HC 111.3"
+      },
+      {
+        "para_id": "177.589",
+        "lang": "es",
+        "refcode": "HC 112.1"
+      },
+      {
+        "para_id": "193.549",
+        "lang": "fr",
+        "refcode": "FC 120.1"
+      },
+      {
+        "para_id": "12869.632",
+        "lang": "id",
+        "refcode": "MKB 118.3"
+      },
+      {
+        "para_id": "12178.473",
+        "lang": "pl",
+        "refcode": "ChD 78.2"
+      },
+      {
+        "para_id": "1955.732",
+        "lang": "pt",
+        "refcode": "LA 127.1"
+      },
+      {
+        "para_id": "2026.548",
+        "lang": "ro",
+        "refcode": "CA 127.1"
+      },
+      {
+        "para_id": "1803.523",
+        "lang": "ru",
+        "refcode": "ХД 127.1"
+      },
+      {
+        "para_id": "12131.489",
+        "lang": "uk",
+        "refcode": "ХР 100.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.558",
+    "id_prev": "128.557",
+    "id_next": "128.563",
+    "refcode_1": "AH",
+    "refcode_2": "127",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 127.2",
+    "refcode_long": "The Adventist Home, p. 127.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Our Bodies a Purchased Possession</strong>&mdash;The lower passions have their seat in the body and work through it. The words &ldquo;flesh&rdquo; or &ldquo;fleshly&rdquo; or &ldquo;carnal lusts&rdquo; embrace the lower, corrupt nature; the flesh of itself cannot act contrary to the will of God. We are commanded to <span class=\"page-break\" data-page=\"128\"></span> crucify the flesh, with the affections and lusts. How shall we do it? Shall we inflict pain on the body? No; but put to death the temptation to sin. The corrupt thought is to be expelled. Every thought is to be brought into captivity to Jesus Christ. All animal propensities are to be subjected to the higher powers of the soul. The love of God must reign supreme; Christ must occupy an undivided throne. Our bodies are to be regarded as His purchased possession. The members of the body are to become the instruments of righteousness.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">19<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 1, 1888\" data-link=\"14055.4194001\">Manuscript 1, 1888</span>.</span></a></sup>",
+    "puborder": 362,
+    "translations": [
+      {
+        "para_id": "13839.447",
+        "lang": "bg",
+        "refcode": "ХД 52.4"
+      },
+      {
+        "para_id": "177.590",
+        "lang": "es",
+        "refcode": "HC 112.2"
+      },
+      {
+        "para_id": "193.550",
+        "lang": "fr",
+        "refcode": "FC 120.2"
+      },
+      {
+        "para_id": "12869.636",
+        "lang": "id",
+        "refcode": "MKB 119.1"
+      },
+      {
+        "para_id": "12178.474",
+        "lang": "pl",
+        "refcode": "ChD 78.3"
+      },
+      {
+        "para_id": "1955.733",
+        "lang": "pt",
+        "refcode": "LA 127"
+      },
+      {
+        "para_id": "1955.734",
+        "lang": "pt",
+        "refcode": "LA 127.2"
+      },
+      {
+        "para_id": "2026.549",
+        "lang": "ro",
+        "refcode": "CA 127.2"
+      },
+      {
+        "para_id": "1803.524",
+        "lang": "ru",
+        "refcode": "ХД 127.2"
+      },
+      {
+        "para_id": "12131.492",
+        "lang": "uk",
+        "refcode": "ХР 101.1"
+      }
+    ]
+  }
+]

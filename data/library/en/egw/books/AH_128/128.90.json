@@ -1,0 +1,893 @@
+[
+  {
+    "para_id": "128.90",
+    "id_prev": "128.88",
+    "id_next": "128.91",
+    "refcode_1": "AH",
+    "refcode_2": "25",
+    "refcode_3": "",
+    "refcode_4": "3",
+    "refcode_short": "AH 25",
+    "refcode_long": "The Adventist Home, p. 25 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 3&mdash;The Eden Home a Pattern",
+    "puborder": 54,
+    "translations": [
+      {
+        "para_id": "13839.67",
+        "lang": "bg",
+        "refcode": "ХД 9"
+      },
+      {
+        "para_id": "177.131",
+        "lang": "es",
+        "refcode": "HC 21"
+      },
+      {
+        "para_id": "193.91",
+        "lang": "fr",
+        "refcode": "FC 25"
+      },
+      {
+        "para_id": "12869.95",
+        "lang": "id",
+        "refcode": "MKB 23"
+      },
+      {
+        "para_id": "891.49",
+        "lang": "it",
+        "refcode": "FC 11"
+      },
+      {
+        "para_id": "12178.73",
+        "lang": "pl",
+        "refcode": "ChD 14"
+      },
+      {
+        "para_id": "1955.155",
+        "lang": "pt",
+        "refcode": "LA 25"
+      },
+      {
+        "para_id": "2026.79",
+        "lang": "ro",
+        "refcode": "CA 25"
+      },
+      {
+        "para_id": "1803.58",
+        "lang": "ru",
+        "refcode": "ХД 25"
+      },
+      {
+        "para_id": "12131.75",
+        "lang": "uk",
+        "refcode": "ХР 21"
+      }
+    ]
+  },
+  {
+    "para_id": "128.91",
+    "id_prev": "128.90",
+    "id_next": "128.92",
+    "refcode_1": "AH",
+    "refcode_2": "25",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 25.1",
+    "refcode_long": "The Adventist Home, p. 25.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God Prepared Man&apos;s First Home</strong>&mdash;The Eden home of our first parents was prepared for them by God Himself. When He had furnished it with everything that man could desire, He said: &ldquo;Let Us make man in Our image, after Our likeness.&rdquo; ...",
+    "puborder": 55,
+    "translations": [
+      {
+        "para_id": "13839.68",
+        "lang": "bg",
+        "refcode": "ХД 9.3"
+      },
+      {
+        "para_id": "177.132",
+        "lang": "es",
+        "refcode": "HC 21.1"
+      },
+      {
+        "para_id": "193.92",
+        "lang": "fr",
+        "refcode": "FC 25.1"
+      },
+      {
+        "para_id": "12869.97",
+        "lang": "id",
+        "refcode": "MKB 23.1"
+      },
+      {
+        "para_id": "891.51",
+        "lang": "it",
+        "refcode": "FC 11.3"
+      },
+      {
+        "para_id": "891.50",
+        "lang": "it",
+        "refcode": "FC 11"
+      },
+      {
+        "para_id": "12178.74",
+        "lang": "pl",
+        "refcode": "ChD 14.1"
+      },
+      {
+        "para_id": "1955.157",
+        "lang": "pt",
+        "refcode": "LA 25.1"
+      },
+      {
+        "para_id": "1955.156",
+        "lang": "pt",
+        "refcode": "LA 25"
+      },
+      {
+        "para_id": "2026.80",
+        "lang": "ro",
+        "refcode": "CA 25.1"
+      },
+      {
+        "para_id": "1803.59",
+        "lang": "ru",
+        "refcode": "ХД 25.1"
+      },
+      {
+        "para_id": "12131.76",
+        "lang": "uk",
+        "refcode": "ХР 21.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.92",
+    "id_prev": "128.91",
+    "id_next": "128.93",
+    "refcode_1": "AH",
+    "refcode_2": "25",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 25.2",
+    "refcode_long": "The Adventist Home, p. 25.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Lord was pleased with this last and noblest of all His creatures, and designed that he should be the perfect inhabitant of a perfect world. But it was not His purpose that man should live in solitude. He said: &ldquo;It is not good that the man should be alone; I will make him an help meet for him.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"YI 8-10-1899.4\" data-link=\"469.3562\">The Youth&apos;s Instructor, August 10, 1899</span>.</span></a></sup>",
+    "puborder": 56,
+    "translations": [
+      {
+        "para_id": "13839.69",
+        "lang": "bg",
+        "refcode": "ХД 9.4"
+      },
+      {
+        "para_id": "177.133",
+        "lang": "es",
+        "refcode": "HC 21.2"
+      },
+      {
+        "para_id": "193.93",
+        "lang": "fr",
+        "refcode": "FC 25.2"
+      },
+      {
+        "para_id": "12869.98",
+        "lang": "id",
+        "refcode": "MKB 23.2"
+      },
+      {
+        "para_id": "891.51",
+        "lang": "it",
+        "refcode": "FC 11.3"
+      },
+      {
+        "para_id": "12178.75",
+        "lang": "pl",
+        "refcode": "ChD 14.2"
+      },
+      {
+        "para_id": "1955.158",
+        "lang": "pt",
+        "refcode": "LA 25.2"
+      },
+      {
+        "para_id": "2026.81",
+        "lang": "ro",
+        "refcode": "CA 25.2"
+      },
+      {
+        "para_id": "1803.60",
+        "lang": "ru",
+        "refcode": "ХД 25.2"
+      },
+      {
+        "para_id": "12131.77",
+        "lang": "uk",
+        "refcode": "ХР 21.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.93",
+    "id_prev": "128.92",
+    "id_next": "128.94",
+    "refcode_1": "AH",
+    "refcode_2": "25",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 25.3",
+    "refcode_long": "The Adventist Home, p. 25.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God Himself gave Adam a companion. He provided &ldquo;an help meet for him&rdquo;&mdash;a helper corresponding to him&mdash;one who was fitted to be his companion, and who could be one with him in love and sympathy. Eve was created from a rib taken from the side of Adam, signifying that she was not to control him as the head, nor to be trampled under his feet as an inferior, but to stand by his side as an equal, to be loved and protected by him. A part of man, bone of his bone, and flesh of his flesh, she was his second self; showing the close union and the affectionate attachment that should exist in this relation. &ldquo;For no man ever yet hated his own flesh; but nourisheth and cherisheth it.&rdquo; &ldquo;Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 46.1\" data-link=\"84.127\">Patriarchs and Prophets, 46</span>.</span></a></sup>",
+    "puborder": 57,
+    "translations": [
+      {
+        "para_id": "13839.70",
+        "lang": "bg",
+        "refcode": "ХД 9.5"
+      },
+      {
+        "para_id": "177.134",
+        "lang": "es",
+        "refcode": "HC 21.3"
+      },
+      {
+        "para_id": "193.94",
+        "lang": "fr",
+        "refcode": "FC 25.3"
+      },
+      {
+        "para_id": "12869.100",
+        "lang": "id",
+        "refcode": "MKB 24.1"
+      },
+      {
+        "para_id": "891.51",
+        "lang": "it",
+        "refcode": "FC 11.3"
+      },
+      {
+        "para_id": "12178.76",
+        "lang": "pl",
+        "refcode": "ChD 14.3"
+      },
+      {
+        "para_id": "1955.159",
+        "lang": "pt",
+        "refcode": "LA 25.3"
+      },
+      {
+        "para_id": "2026.82",
+        "lang": "ro",
+        "refcode": "CA 25.3"
+      },
+      {
+        "para_id": "1803.61",
+        "lang": "ru",
+        "refcode": "ХД 25.3"
+      },
+      {
+        "para_id": "12131.78",
+        "lang": "uk",
+        "refcode": "ХР 21.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.94",
+    "id_prev": "128.93",
+    "id_next": "128.97",
+    "refcode_1": "AH",
+    "refcode_2": "25",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 25.4",
+    "refcode_long": "The Adventist Home, p. 25.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>First Marriage Performed by God</strong>&mdash;God celebrated the first marriage. Thus the institution has for its originator <span class=\"page-break\" data-page=\"26\"></span> the Creator of the universe. &ldquo;Marriage is honourable&rdquo;; it was one of the first gifts of God to man, and it is one of the two institutions that, after the fall, Adam brought with him beyond the gates of Paradise. When the divine principles are recognized and obeyed in this relation, marriage is a blessing; it guards the purity and happiness of the race, it provides for man&apos;s social needs, it elevates the physical, the intellectual, and the moral nature.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 46.1\" data-link=\"84.127\">Ibid., 46</span>.</span></a></sup>",
+    "puborder": 58,
+    "translations": [
+      {
+        "para_id": "13839.71",
+        "lang": "bg",
+        "refcode": "ХД 9.6"
+      },
+      {
+        "para_id": "177.135",
+        "lang": "es",
+        "refcode": "HC 21.4"
+      },
+      {
+        "para_id": "193.95",
+        "lang": "fr",
+        "refcode": "FC 25.4"
+      },
+      {
+        "para_id": "12869.102",
+        "lang": "id",
+        "refcode": "MKB 24.2"
+      },
+      {
+        "para_id": "891.55",
+        "lang": "it",
+        "refcode": "FC 12.1"
+      },
+      {
+        "para_id": "891.54",
+        "lang": "it",
+        "refcode": "FC 12"
+      },
+      {
+        "para_id": "12178.77",
+        "lang": "pl",
+        "refcode": "ChD 14.4"
+      },
+      {
+        "para_id": "1955.160",
+        "lang": "pt",
+        "refcode": "LA 25"
+      },
+      {
+        "para_id": "1955.161",
+        "lang": "pt",
+        "refcode": "LA 25.4"
+      },
+      {
+        "para_id": "2026.83",
+        "lang": "ro",
+        "refcode": "CA 25.4"
+      },
+      {
+        "para_id": "1803.62",
+        "lang": "ru",
+        "refcode": "ХД 25.4"
+      },
+      {
+        "para_id": "12131.79",
+        "lang": "uk",
+        "refcode": "ХР 21.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.97",
+    "id_prev": "128.94",
+    "id_next": "128.98",
+    "refcode_1": "AH",
+    "refcode_2": "26",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 26.1",
+    "refcode_long": "The Adventist Home, p. 26.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "He who gave Eve to Adam as a helpmeet performed His first miracle at a marriage festival. In the festal hall where friends and kindred rejoiced together, Christ began His public ministry. Thus He sanctioned marriage, recognizing it as an institution that He Himself had established....",
+    "puborder": 59,
+    "translations": [
+      {
+        "para_id": "13839.73",
+        "lang": "bg",
+        "refcode": "ХД 10.1"
+      },
+      {
+        "para_id": "177.138",
+        "lang": "es",
+        "refcode": "HC 22.1"
+      },
+      {
+        "para_id": "193.98",
+        "lang": "fr",
+        "refcode": "FC 26.1"
+      },
+      {
+        "para_id": "12869.103",
+        "lang": "id",
+        "refcode": "MKB 24.3"
+      },
+      {
+        "para_id": "891.56",
+        "lang": "it",
+        "refcode": "FC 12.2"
+      },
+      {
+        "para_id": "12178.79",
+        "lang": "pl",
+        "refcode": "ChD 15.1"
+      },
+      {
+        "para_id": "1955.164",
+        "lang": "pt",
+        "refcode": "LA 26.1"
+      },
+      {
+        "para_id": "2026.86",
+        "lang": "ro",
+        "refcode": "CA 26.1"
+      },
+      {
+        "para_id": "1803.65",
+        "lang": "ru",
+        "refcode": "ХД 26.1"
+      },
+      {
+        "para_id": "12131.81",
+        "lang": "uk",
+        "refcode": "ХР 22.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.98",
+    "id_prev": "128.97",
+    "id_next": "128.99",
+    "refcode_1": "AH",
+    "refcode_2": "26",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 26.2",
+    "refcode_long": "The Adventist Home, p. 26.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Christ honored the marriage relation by making it also a symbol of the union between Him and His redeemed ones. He Himself is the Bridegroom; the bride is the church, of which, as His chosen one, He says, &ldquo;Thou art all fair, My love; there is no spot in thee.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 356.1\" data-link=\"135.1793\">The Ministry of Healing, 356</span>.</span></a></sup>",
+    "puborder": 60,
+    "translations": [
+      {
+        "para_id": "13839.74",
+        "lang": "bg",
+        "refcode": "ХД 10.2"
+      },
+      {
+        "para_id": "177.139",
+        "lang": "es",
+        "refcode": "HC 22.2"
+      },
+      {
+        "para_id": "193.99",
+        "lang": "fr",
+        "refcode": "FC 26.2"
+      },
+      {
+        "para_id": "12869.104",
+        "lang": "id",
+        "refcode": "MKB 24.4"
+      },
+      {
+        "para_id": "891.56",
+        "lang": "it",
+        "refcode": "FC 12.2"
+      },
+      {
+        "para_id": "12178.80",
+        "lang": "pl",
+        "refcode": "ChD 15.2"
+      },
+      {
+        "para_id": "1955.165",
+        "lang": "pt",
+        "refcode": "LA 26.2"
+      },
+      {
+        "para_id": "2026.87",
+        "lang": "ro",
+        "refcode": "CA 26.2"
+      },
+      {
+        "para_id": "1803.66",
+        "lang": "ru",
+        "refcode": "ХД 26.2"
+      },
+      {
+        "para_id": "12131.82",
+        "lang": "uk",
+        "refcode": "ХР 22.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.99",
+    "id_prev": "128.98",
+    "id_next": "128.100",
+    "refcode_1": "AH",
+    "refcode_2": "26",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 26.3",
+    "refcode_long": "The Adventist Home, p. 26.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Every Want Was Supplied</strong>&mdash;Adam was surrounded with everything his heart could wish. Every want was supplied. There were no sin and no signs of decay in glorious Eden. Angels of God conversed freely and lovingly with the holy pair. The happy songsters caroled forth their free, joyous songs of praise to their Creator. The peaceful beasts in happy innocence played about Adam and Eve, obedient to their word. Adam was in the perfection of manhood, the noblest of the Creator&apos;s work.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 6-11-1874\" data-link=\"820.51\">The Signs of the Times, June 11, 1874</span>.</span></a></sup>",
+    "puborder": 61,
+    "translations": [
+      {
+        "para_id": "13839.75",
+        "lang": "bg",
+        "refcode": "ХД 10.3"
+      },
+      {
+        "para_id": "177.140",
+        "lang": "es",
+        "refcode": "HC 22.3"
+      },
+      {
+        "para_id": "193.100",
+        "lang": "fr",
+        "refcode": "FC 26.3"
+      },
+      {
+        "para_id": "12869.106",
+        "lang": "id",
+        "refcode": "MKB 24.5"
+      },
+      {
+        "para_id": "12178.81",
+        "lang": "pl",
+        "refcode": "ChD 15.3"
+      },
+      {
+        "para_id": "1955.167",
+        "lang": "pt",
+        "refcode": "LA 26.3"
+      },
+      {
+        "para_id": "1955.166",
+        "lang": "pt",
+        "refcode": "LA 26"
+      },
+      {
+        "para_id": "2026.88",
+        "lang": "ro",
+        "refcode": "CA 26.3"
+      },
+      {
+        "para_id": "1803.67",
+        "lang": "ru",
+        "refcode": "ХД 26.3"
+      },
+      {
+        "para_id": "12131.83",
+        "lang": "uk",
+        "refcode": "ХР 22.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.100",
+    "id_prev": "128.99",
+    "id_next": "128.103",
+    "refcode_1": "AH",
+    "refcode_2": "26",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 26.4",
+    "refcode_long": "The Adventist Home, p. 26.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Not a shadow interposed between them and their Creator. They knew God as their beneficent Father, and in all things their will was conformed to the will of God. <span class=\"page-break\" data-page=\"27\"></span> And God&apos;s character was reflected in the character of Adam. His glory was revealed in every object of nature.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"YI 6-2-1898.2\" data-link=\"469.2940\">The Youth&apos;s Instructor, June 2, 1898</span>.</span></a></sup>",
+    "puborder": 62,
+    "translations": [
+      {
+        "para_id": "13839.76",
+        "lang": "bg",
+        "refcode": "ХД 10.4"
+      },
+      {
+        "para_id": "177.141",
+        "lang": "es",
+        "refcode": "HC 22.4"
+      },
+      {
+        "para_id": "193.101",
+        "lang": "fr",
+        "refcode": "FC 26.4"
+      },
+      {
+        "para_id": "12869.109",
+        "lang": "id",
+        "refcode": "MKB 25.1"
+      },
+      {
+        "para_id": "12178.82",
+        "lang": "pl",
+        "refcode": "ChD 15.4"
+      },
+      {
+        "para_id": "1955.168",
+        "lang": "pt",
+        "refcode": "LA 26.4"
+      },
+      {
+        "para_id": "2026.89",
+        "lang": "ro",
+        "refcode": "CA 26.4"
+      },
+      {
+        "para_id": "1803.68",
+        "lang": "ru",
+        "refcode": "ХД 26.4"
+      },
+      {
+        "para_id": "12131.84",
+        "lang": "uk",
+        "refcode": "ХР 22.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.103",
+    "id_prev": "128.100",
+    "id_next": "128.104",
+    "refcode_1": "AH",
+    "refcode_2": "27",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 27.1",
+    "refcode_long": "The Adventist Home, p. 27.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Labor Was Appointed for Man&apos;s Happiness</strong>&mdash;God is a lover of the beautiful. He has given us unmistakable evidence of this in the work of His hands. He planted for our first parents a beautiful garden in Eden. Stately trees were caused to grow out of the ground, of every description, for usefulness and ornament. The beautiful flowers were formed, of rare loveliness, of every tint and hue, perfuming the air.... It was the design of God that man should find happiness in the employment of tending the things He had created, and that his wants should be met with the fruits of the trees of the garden<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"HR 7-1-1871\" data-link=\"504.247\">The Health Reformer, July, 1871</span>.</span></a></sup>",
+    "puborder": 63,
+    "translations": [
+      {
+        "para_id": "13839.77",
+        "lang": "bg",
+        "refcode": "ХД 10.5"
+      },
+      {
+        "para_id": "177.142",
+        "lang": "es",
+        "refcode": "HC 22.5"
+      },
+      {
+        "para_id": "193.102",
+        "lang": "fr",
+        "refcode": "FC 26.5"
+      },
+      {
+        "para_id": "12869.111",
+        "lang": "id",
+        "refcode": "MKB 25.2"
+      },
+      {
+        "para_id": "12178.83",
+        "lang": "pl",
+        "refcode": "ChD 15.5"
+      },
+      {
+        "para_id": "1955.170",
+        "lang": "pt",
+        "refcode": "LA 27"
+      },
+      {
+        "para_id": "1955.171",
+        "lang": "pt",
+        "refcode": "LA 27.1"
+      },
+      {
+        "para_id": "2026.92",
+        "lang": "ro",
+        "refcode": "CA 27.1"
+      },
+      {
+        "para_id": "1803.71",
+        "lang": "ru",
+        "refcode": "ХД 27.1"
+      },
+      {
+        "para_id": "12131.85",
+        "lang": "uk",
+        "refcode": "ХР 22.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.104",
+    "id_prev": "128.103",
+    "id_next": "128.105",
+    "refcode_1": "AH",
+    "refcode_2": "27",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 27.2",
+    "refcode_long": "The Adventist Home, p. 27.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To Adam was given the work of caring for the garden. The Creator knew that Adam could not be happy without employment. The beauty of the garden delighted him, but this was not enough. He must have labor to call into exercise the wonderful organs of the body. Had happiness consisted in doing nothing, man, in his state of holy innocence, would have been left unemployed. But He who created man knew what would be for his happiness; and no sooner had He created him than He gave him his appointed work. The promise of future glory, and the decree that man must toil for his daily bread, came from the same throne.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"YI 2-27-1902.2\" data-link=\"469.4770\">The Youth&apos;s Instructor, February 27, 1902</span>.</span></a></sup>",
+    "puborder": 64,
+    "translations": [
+      {
+        "para_id": "13839.78",
+        "lang": "bg",
+        "refcode": "ХД 10.6"
+      },
+      {
+        "para_id": "177.145",
+        "lang": "es",
+        "refcode": "HC 23.1"
+      },
+      {
+        "para_id": "193.105",
+        "lang": "fr",
+        "refcode": "FC 27.1"
+      },
+      {
+        "para_id": "12869.112",
+        "lang": "id",
+        "refcode": "MKB 25.3"
+      },
+      {
+        "para_id": "12178.84",
+        "lang": "pl",
+        "refcode": "ChD 15.6"
+      },
+      {
+        "para_id": "1955.172",
+        "lang": "pt",
+        "refcode": "LA 27.2"
+      },
+      {
+        "para_id": "2026.93",
+        "lang": "ro",
+        "refcode": "CA 27.2"
+      },
+      {
+        "para_id": "1803.72",
+        "lang": "ru",
+        "refcode": "ХД 27.2"
+      },
+      {
+        "para_id": "12131.86",
+        "lang": "uk",
+        "refcode": "ХР 22.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.105",
+    "id_prev": "128.104",
+    "id_next": "128.108",
+    "refcode_1": "AH",
+    "refcode_2": "27",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 27.3",
+    "refcode_long": "The Adventist Home, p. 27.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God Is Honored by a Christian Home</strong>&mdash;Fathers and mothers who make God first in their households, who teach their children that the fear of the Lord is the beginning of wisdom, glorify God before angels and before men by presenting to the world a well-ordered, well-disciplined family&mdash;a family that love and obey God instead of rebelling against Him. Christ is not a stranger <span class=\"page-break\" data-page=\"28\"></span> in their homes; His name is a household name, revered and glorified. Angels delight in a home where God reigns supreme and the children are taught to reverence religion, the Bible, and their Creator. Such families can claim the promise, &ldquo;Them that honour Me I will honour.&rdquo; As from such a home the father goes forth to his daily duties, it is with a spirit softened and subdued by converse with God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 424.1\" data-link=\"113.2108\">Testimonies for the Church 5:424</span>.</span></a></sup>",
+    "puborder": 65,
+    "translations": [
+      {
+        "para_id": "13839.79",
+        "lang": "bg",
+        "refcode": "ХД 10.7"
+      },
+      {
+        "para_id": "177.146",
+        "lang": "es",
+        "refcode": "HC 23.2"
+      },
+      {
+        "para_id": "193.106",
+        "lang": "fr",
+        "refcode": "FC 27.2"
+      },
+      {
+        "para_id": "12869.114",
+        "lang": "id",
+        "refcode": "MKB 25.4"
+      },
+      {
+        "para_id": "891.57",
+        "lang": "it",
+        "refcode": "FC 12"
+      },
+      {
+        "para_id": "891.58",
+        "lang": "it",
+        "refcode": "FC 12.3"
+      },
+      {
+        "para_id": "12178.87",
+        "lang": "pl",
+        "refcode": "ChD 16.1"
+      },
+      {
+        "para_id": "1955.173",
+        "lang": "pt",
+        "refcode": "LA 27"
+      },
+      {
+        "para_id": "1955.174",
+        "lang": "pt",
+        "refcode": "LA 27.3"
+      },
+      {
+        "para_id": "2026.94",
+        "lang": "ro",
+        "refcode": "CA 27.3"
+      },
+      {
+        "para_id": "1803.73",
+        "lang": "ru",
+        "refcode": "ХД 27.3"
+      },
+      {
+        "para_id": "12131.89",
+        "lang": "uk",
+        "refcode": "ХР 23.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.108",
+    "id_prev": "128.105",
+    "id_next": "128.111",
+    "refcode_1": "AH",
+    "refcode_2": "28",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 28.1",
+    "refcode_long": "The Adventist Home, p. 28.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The presence of Christ alone can make men and women happy. All the common waters of life Christ can turn into the wine of heaven. The home then becomes as an Eden of bliss; the family, a beautiful symbol of the family in heaven.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 43, 1900\" data-link=\"14065.7577001\">Manuscript 43, 1900</span>.</span></a></sup>",
+    "puborder": 66,
+    "translations": [
+      {
+        "para_id": "13839.81",
+        "lang": "bg",
+        "refcode": "ХД 11.1"
+      },
+      {
+        "para_id": "177.149",
+        "lang": "es",
+        "refcode": "HC 24.1"
+      },
+      {
+        "para_id": "193.107",
+        "lang": "fr",
+        "refcode": "FC 27.3"
+      },
+      {
+        "para_id": "12869.117",
+        "lang": "id",
+        "refcode": "MKB 26.1"
+      },
+      {
+        "para_id": "891.58",
+        "lang": "it",
+        "refcode": "FC 12.3"
+      },
+      {
+        "para_id": "12178.88",
+        "lang": "pl",
+        "refcode": "ChD 16.2"
+      },
+      {
+        "para_id": "1955.177",
+        "lang": "pt",
+        "refcode": "LA 28.1"
+      },
+      {
+        "para_id": "2026.97",
+        "lang": "ro",
+        "refcode": "CA 28.1"
+      },
+      {
+        "para_id": "1803.76",
+        "lang": "ru",
+        "refcode": "ХД 28.1"
+      },
+      {
+        "para_id": "12131.90",
+        "lang": "uk",
+        "refcode": "ХР 23.2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.638",
+    "id_prev": "21.637",
+    "id_next": "21.639",
+    "refcode_1": "CSW",
+    "refcode_2": "137",
+    "refcode_3": "",
+    "refcode_4": "103",
+    "refcode_short": "CSW 137",
+    "refcode_long": "Counsels on Sabbath School Work, p. 137 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Continual Bestowal Upon the Continual Giver",
+    "puborder": 402,
+    "translations": [
+      {
+        "para_id": "11629.613",
+        "lang": "da",
+        "refcode": "RSSA 137"
+      },
+      {
+        "para_id": "799.606",
+        "lang": "de",
+        "refcode": "RSs 114"
+      },
+      {
+        "para_id": "1711.687",
+        "lang": "es",
+        "refcode": "COES 155"
+      },
+      {
+        "para_id": "1917.751",
+        "lang": "pt",
+        "refcode": "CES38 72"
+      },
+      {
+        "para_id": "1724.676",
+        "lang": "pt",
+        "refcode": "CES 137"
+      },
+      {
+        "para_id": "2719.655",
+        "lang": "ro",
+        "refcode": "SSS 137"
+      },
+      {
+        "para_id": "1873.633",
+        "lang": "ru",
+        "refcode": "ССШ 137"
+      }
+    ]
+  },
+  {
+    "para_id": "21.639",
+    "id_prev": "21.638",
+    "id_next": "21.642",
+    "refcode_1": "CSW",
+    "refcode_2": "137",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 137.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 137.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Should all who claim to be sons and daughters of God, conscientiously meet their obligation to God and their fellow men in tithes and offerings, an abundance would flow into the treasury to sustain the work of <span class=\"page-break\" data-page=\"138\"></span> God in its different branches throughout our world. As they should impart, the Lord would open ways whereby they would be able continually to bestow, because they were continually receiving. There would then be no occasion to make appeals for means to sustain the cause. If the principle of giving to the Lord His own were carried out regularly and systematically, it would be acknowledged of God. &ldquo;Them that honor Me I will honor.&rdquo;&mdash;<span class=\"egwlink egwlink_book\" title=\"RH 5-16-1893\" data-link=\"821.12746\"><em>The Review and Herald</em>, May 16, 1893</span>.",
+    "puborder": 403,
+    "translations": [
+      {
+        "para_id": "11629.614",
+        "lang": "da",
+        "refcode": "RSSA 137.2"
+      },
+      {
+        "para_id": "799.607",
+        "lang": "de",
+        "refcode": "RSs 114.2"
+      },
+      {
+        "para_id": "1711.688",
+        "lang": "es",
+        "refcode": "COES 155.1"
+      },
+      {
+        "para_id": "1724.677",
+        "lang": "pt",
+        "refcode": "CES 137.2"
+      },
+      {
+        "para_id": "1917.752",
+        "lang": "pt",
+        "refcode": "CES38 72.1"
+      },
+      {
+        "para_id": "2719.656",
+        "lang": "ro",
+        "refcode": "SSS 137.2"
+      },
+      {
+        "para_id": "1873.634",
+        "lang": "ru",
+        "refcode": "ССШ 137.2"
+      }
+    ]
+  }
+]

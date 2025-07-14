@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.149",
+    "id_prev": "21.146",
+    "id_next": "21.150",
+    "refcode_1": "CSW",
+    "refcode_2": "36",
+    "refcode_3": "",
+    "refcode_4": "21",
+    "refcode_short": "CSW 36",
+    "refcode_long": "Counsels on Sabbath School Work, p. 36 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Barrier Against Temptation",
+    "puborder": 90,
+    "translations": [
+      {
+        "para_id": "11629.123",
+        "lang": "da",
+        "refcode": "RSSA 36"
+      },
+      {
+        "para_id": "799.154",
+        "lang": "de",
+        "refcode": "RSs 34"
+      },
+      {
+        "para_id": "1711.167",
+        "lang": "es",
+        "refcode": "COES 38"
+      },
+      {
+        "para_id": "1724.178",
+        "lang": "pt",
+        "refcode": "CES 36"
+      },
+      {
+        "para_id": "1917.167",
+        "lang": "pt",
+        "refcode": "CES38 16"
+      },
+      {
+        "para_id": "2719.155",
+        "lang": "ro",
+        "refcode": "SSS 36"
+      },
+      {
+        "para_id": "1873.147",
+        "lang": "ru",
+        "refcode": "ССШ 36"
+      }
+    ]
+  },
+  {
+    "para_id": "21.150",
+    "id_prev": "21.149",
+    "id_next": "21.151",
+    "refcode_1": "CSW",
+    "refcode_2": "36",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 36.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 36.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There should be a living, growing interest in storing the mind with Bible truth. The precious knowledge thus gained will build a barrier about the soul. Although assailed with temptation, there will be a firm trust in Jesus, through the knowledge of Him who hath called them to glory and to virtue.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 12.1\" data-link=\"121.38\"><em>Testimonies on Sabbath-School Work</em>, 12</span>.",
+    "puborder": 91,
+    "translations": [
+      {
+        "para_id": "11629.124",
+        "lang": "da",
+        "refcode": "RSSA 36.1"
+      },
+      {
+        "para_id": "799.155",
+        "lang": "de",
+        "refcode": "RSs 34.3"
+      },
+      {
+        "para_id": "1711.168",
+        "lang": "es",
+        "refcode": "COES 38.2"
+      },
+      {
+        "para_id": "1724.179",
+        "lang": "pt",
+        "refcode": "CES 36.1"
+      },
+      {
+        "para_id": "1917.168",
+        "lang": "pt",
+        "refcode": "CES38 16.3"
+      },
+      {
+        "para_id": "2719.156",
+        "lang": "ro",
+        "refcode": "SSS 36.1"
+      },
+      {
+        "para_id": "1873.148",
+        "lang": "ru",
+        "refcode": "ССШ 36.1"
+      }
+    ]
+  }
+]

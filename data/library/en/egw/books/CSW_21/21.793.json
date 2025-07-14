@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.793",
+    "id_prev": "21.792",
+    "id_next": "21.794",
+    "refcode_1": "CSW",
+    "refcode_2": "170",
+    "refcode_3": "",
+    "refcode_4": "132",
+    "refcode_short": "CSW 170",
+    "refcode_long": "Counsels on Sabbath School Work, p. 170 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Begin at the Appointed Hour",
+    "puborder": 500,
+    "translations": [
+      {
+        "para_id": "11629.772",
+        "lang": "da",
+        "refcode": "RSSA 170"
+      },
+      {
+        "para_id": "799.742",
+        "lang": "de",
+        "refcode": "RSs 138"
+      },
+      {
+        "para_id": "1711.852",
+        "lang": "es",
+        "refcode": "COES 191"
+      },
+      {
+        "para_id": "1917.935",
+        "lang": "pt",
+        "refcode": "CES38 89"
+      },
+      {
+        "para_id": "1724.836",
+        "lang": "pt",
+        "refcode": "CES 170"
+      },
+      {
+        "para_id": "2719.812",
+        "lang": "ro",
+        "refcode": "SSS 170"
+      },
+      {
+        "para_id": "1873.787",
+        "lang": "ru",
+        "refcode": "ССШ 170"
+      }
+    ]
+  },
+  {
+    "para_id": "21.794",
+    "id_prev": "21.793",
+    "id_next": "21.796",
+    "refcode_1": "CSW",
+    "refcode_2": "170",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 170.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 170.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Meetings for conference and prayer should not be made tedious. All should, if possible, be prompt to the hour appointed; and if there are dilatory ones, who are half an hour or fifteen minutes even behind the time, there should be no waiting. If there are but two present, they can claim the promise. The meeting should open at the appointed hour, if possible, be there few or many present.&mdash;<span class=\"egwlink egwlink_book\" title=\"RH 5-30-1871\" data-link=\"821.1145\"><em>The Review and Herald</em>, May 30, 1871</span>.",
+    "puborder": 501,
+    "translations": [
+      {
+        "para_id": "11629.773",
+        "lang": "da",
+        "refcode": "RSSA 170.2"
+      },
+      {
+        "para_id": "799.743",
+        "lang": "de",
+        "refcode": "RSs 138.3"
+      },
+      {
+        "para_id": "1711.853",
+        "lang": "es",
+        "refcode": "COES 191.1"
+      },
+      {
+        "para_id": "1724.837",
+        "lang": "pt",
+        "refcode": "CES 170.2"
+      },
+      {
+        "para_id": "1917.936",
+        "lang": "pt",
+        "refcode": "CES38 89.5"
+      },
+      {
+        "para_id": "2719.813",
+        "lang": "ro",
+        "refcode": "SSS 170.2"
+      },
+      {
+        "para_id": "1873.788",
+        "lang": "ru",
+        "refcode": "ССШ 170.2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2038 @@
+[
+  {
+    "para_id": "127.22",
+    "id_prev": "127.2699",
+    "id_next": "127.23",
+    "refcode_1": "AA",
+    "refcode_2": "9",
+    "refcode_3": "",
+    "refcode_4": "1",
+    "refcode_short": "AA 9",
+    "refcode_long": "The Acts of the Apostles, p. 9 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 1&mdash;God&apos;s Purpose for His Church",
+    "puborder": 11,
+    "translations": [
+      {
+        "para_id": "13804.15",
+        "lang": "bg",
+        "refcode": "Дa 4"
+      },
+      {
+        "para_id": "11590.19",
+        "lang": "ce",
+        "refcode": "ABA 9"
+      },
+      {
+        "para_id": "11247.19",
+        "lang": "cs",
+        "refcode": "PNL 9"
+      },
+      {
+        "para_id": "813.23",
+        "lang": "de",
+        "refcode": "WA 9"
+      },
+      {
+        "para_id": "198.36",
+        "lang": "es",
+        "refcode": "HAp 9"
+      },
+      {
+        "para_id": "158.33",
+        "lang": "fr",
+        "refcode": "CP 11"
+      },
+      {
+        "para_id": "11938.23",
+        "lang": "hu",
+        "refcode": "AT 7"
+      },
+      {
+        "para_id": "12410.22",
+        "lang": "id",
+        "refcode": "KR 9"
+      },
+      {
+        "para_id": "882.19",
+        "lang": "it",
+        "refcode": "UVI 7"
+      },
+      {
+        "para_id": "11660.81",
+        "lang": "ja",
+        "refcode": "AAJ 1"
+      },
+      {
+        "para_id": "12335.25",
+        "lang": "nb",
+        "refcode": "AV 9"
+      },
+      {
+        "para_id": "12008.30",
+        "lang": "pl",
+        "refcode": "DA 9"
+      },
+      {
+        "para_id": "1806.42",
+        "lang": "pt",
+        "refcode": "AA 13"
+      },
+      {
+        "para_id": "2013.17",
+        "lang": "ro",
+        "refcode": "FA 9"
+      },
+      {
+        "para_id": "1785.4",
+        "lang": "ru",
+        "refcode": "ДА 10"
+      },
+      {
+        "para_id": "13874.21",
+        "lang": "rw",
+        "refcode": "INI 9"
+      },
+      {
+        "para_id": "11182.11",
+        "lang": "sk",
+        "refcode": "SA 9"
+      },
+      {
+        "para_id": "11904.20",
+        "lang": "tl",
+        "refcode": "AGA 9"
+      },
+      {
+        "para_id": "11875.9",
+        "lang": "uk",
+        "refcode": "ДА 5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.23",
+    "id_prev": "127.22",
+    "id_next": "127.24",
+    "refcode_1": "AA",
+    "refcode_2": "9",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 9.1",
+    "refcode_long": "The Acts of the Apostles, p. 9.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The church is God&apos;s appointed agency for the salvation of men. It was organized for service, and its mission is to carry the gospel to the world. From the beginning it has been God&apos;s plan that through His church shall be reflected to the world His fullness and His sufficiency. The members of the church, those whom He has called out of darkness into His marvelous light, are to show forth His glory. The church is the repository of the riches of the grace of Christ; and through the church will eventually be made manifest, even to &ldquo;the principalities and powers in heavenly places,&rdquo; the final and full display of the love of God. <span class=\"egwlink egwlink_bible\" title=\"Ephesians 3:10\" data-link=\"1965.59674\">Ephesians 3:10</span>.",
+    "puborder": 12,
+    "translations": [
+      {
+        "para_id": "13804.16",
+        "lang": "bg",
+        "refcode": "Дa 4.1"
+      },
+      {
+        "para_id": "11590.20",
+        "lang": "ce",
+        "refcode": "ABA 9.1"
+      },
+      {
+        "para_id": "11247.20",
+        "lang": "cs",
+        "refcode": "PNL 9.1"
+      },
+      {
+        "para_id": "813.24",
+        "lang": "de",
+        "refcode": "WA 9.1"
+      },
+      {
+        "para_id": "198.37",
+        "lang": "es",
+        "refcode": "HAp 9.1"
+      },
+      {
+        "para_id": "158.34",
+        "lang": "fr",
+        "refcode": "CP 11.1"
+      },
+      {
+        "para_id": "11938.24",
+        "lang": "hu",
+        "refcode": "AT 7.1"
+      },
+      {
+        "para_id": "12410.23",
+        "lang": "id",
+        "refcode": "KR 9.1"
+      },
+      {
+        "para_id": "882.20",
+        "lang": "it",
+        "refcode": "UVI 7.1"
+      },
+      {
+        "para_id": "11660.82",
+        "lang": "ja",
+        "refcode": "AAJ 1.1"
+      },
+      {
+        "para_id": "12335.26",
+        "lang": "nb",
+        "refcode": "AV 9.1"
+      },
+      {
+        "para_id": "12008.31",
+        "lang": "pl",
+        "refcode": "DA 9.1"
+      },
+      {
+        "para_id": "1806.43",
+        "lang": "pt",
+        "refcode": "AA 13.1"
+      },
+      {
+        "para_id": "2013.18",
+        "lang": "ro",
+        "refcode": "FA 9.1"
+      },
+      {
+        "para_id": "1785.5",
+        "lang": "ru",
+        "refcode": "ДА 10.1"
+      },
+      {
+        "para_id": "13874.22",
+        "lang": "rw",
+        "refcode": "INI 9.1"
+      },
+      {
+        "para_id": "11182.12",
+        "lang": "sk",
+        "refcode": "SA 9.1"
+      },
+      {
+        "para_id": "11904.21",
+        "lang": "tl",
+        "refcode": "AGA 9.1"
+      },
+      {
+        "para_id": "11875.10",
+        "lang": "uk",
+        "refcode": "ДА 5.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.24",
+    "id_prev": "127.23",
+    "id_next": "127.27",
+    "refcode_1": "AA",
+    "refcode_2": "9",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 9.2",
+    "refcode_long": "The Acts of the Apostles, p. 9.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Many and wonderful are the promises recorded in the Scriptures regarding the church. &ldquo;Mine house shall be called an house of prayer for all people.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 56:7\" data-link=\"1965.38281\">Isaiah 56:7</span>. &ldquo;I will make them and the places round about My hill a blessing; and I will cause the shower to come down in his season; <span class=\"page-break\" data-page=\"10\"></span> there shall be showers of blessing.&rdquo; &ldquo;And I will raise up for them a plant of renown, and they shall be no more consumed with hunger in the land, neither bear the shame of the heathen any more. Thus shall they know that I the Lord their God am with them, and that they, even the house of Israel, are My people, saith the Lord God. And ye My flock, the flock of My pasture, are men, and I am your God, saith the Lord God.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Ezekiel 34:26\" data-link=\"1965.43543\">Ezekiel 34:26, 29-31</span>.",
+    "puborder": 13,
+    "translations": [
+      {
+        "para_id": "13804.17",
+        "lang": "bg",
+        "refcode": "Дa 4.2"
+      },
+      {
+        "para_id": "11590.21",
+        "lang": "ce",
+        "refcode": "ABA 9.2"
+      },
+      {
+        "para_id": "11247.22",
+        "lang": "cs",
+        "refcode": "PNL 9.2"
+      },
+      {
+        "para_id": "813.25",
+        "lang": "de",
+        "refcode": "WA 9.2"
+      },
+      {
+        "para_id": "198.38",
+        "lang": "es",
+        "refcode": "HAp 9.2"
+      },
+      {
+        "para_id": "158.35",
+        "lang": "fr",
+        "refcode": "CP 11.2"
+      },
+      {
+        "para_id": "11938.25",
+        "lang": "hu",
+        "refcode": "AT 7.2"
+      },
+      {
+        "para_id": "12410.24",
+        "lang": "id",
+        "refcode": "KR 9.2"
+      },
+      {
+        "para_id": "882.21",
+        "lang": "it",
+        "refcode": "UVI 7.2"
+      },
+      {
+        "para_id": "11660.83",
+        "lang": "ja",
+        "refcode": "AAJ 1.2"
+      },
+      {
+        "para_id": "12335.27",
+        "lang": "nb",
+        "refcode": "AV 9.2"
+      },
+      {
+        "para_id": "12008.32",
+        "lang": "pl",
+        "refcode": "DA 9.2"
+      },
+      {
+        "para_id": "1806.44",
+        "lang": "pt",
+        "refcode": "AA 13.2"
+      },
+      {
+        "para_id": "2013.19",
+        "lang": "ro",
+        "refcode": "FA 9.2"
+      },
+      {
+        "para_id": "1785.6",
+        "lang": "ru",
+        "refcode": "ДА 10.2"
+      },
+      {
+        "para_id": "13874.23",
+        "lang": "rw",
+        "refcode": "INI 9.2"
+      },
+      {
+        "para_id": "11182.13",
+        "lang": "sk",
+        "refcode": "SA 9.2"
+      },
+      {
+        "para_id": "11904.22",
+        "lang": "tl",
+        "refcode": "AGA 9.2"
+      },
+      {
+        "para_id": "11875.11",
+        "lang": "uk",
+        "refcode": "ДА 5.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.27",
+    "id_prev": "127.24",
+    "id_next": "127.28",
+    "refcode_1": "AA",
+    "refcode_2": "10",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 10.1",
+    "refcode_long": "The Acts of the Apostles, p. 10.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Ye are My witnesses, saith the Lord, and My servant whom I have chosen: that ye may know and believe Me, and understand that I am He: before Me there was no God formed, neither shall there be after Me. I, even I, am the Lord; and beside Me there is no Saviour. I have declared, and have saved, and I have showed, when there was no strange god among you: therefore ye are My witnesses.&rdquo; &ldquo;I the Lord have called thee in righteousness, and will hold thine hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles; to open the blind eyes, to bring out the prisoners from the prison, and them that sit in darkness out of the prison house.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 43:10\" data-link=\"1965.37778\">Isaiah 43:10-12</span>; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 42:6\" data-link=\"1965.37719\">42:6, 7</span>.",
+    "puborder": 14,
+    "translations": [
+      {
+        "para_id": "13804.18",
+        "lang": "bg",
+        "refcode": "Дa 4.3"
+      },
+      {
+        "para_id": "11590.22",
+        "lang": "ce",
+        "refcode": "ABA 9.3"
+      },
+      {
+        "para_id": "11247.23",
+        "lang": "cs",
+        "refcode": "PNL 9.3"
+      },
+      {
+        "para_id": "813.28",
+        "lang": "de",
+        "refcode": "WA 10.1"
+      },
+      {
+        "para_id": "198.39",
+        "lang": "es",
+        "refcode": "HAp 9.3"
+      },
+      {
+        "para_id": "158.38",
+        "lang": "fr",
+        "refcode": "CP 12.1"
+      },
+      {
+        "para_id": "11938.26",
+        "lang": "hu",
+        "refcode": "AT 7.3"
+      },
+      {
+        "para_id": "12410.27",
+        "lang": "id",
+        "refcode": "KR 10.1"
+      },
+      {
+        "para_id": "882.22",
+        "lang": "it",
+        "refcode": "UVI 7.3"
+      },
+      {
+        "para_id": "11660.86",
+        "lang": "ja",
+        "refcode": "AAJ 2.1"
+      },
+      {
+        "para_id": "12335.28",
+        "lang": "nb",
+        "refcode": "AV 9.3"
+      },
+      {
+        "para_id": "12008.32",
+        "lang": "pl",
+        "refcode": "DA 9.2"
+      },
+      {
+        "para_id": "1806.45",
+        "lang": "pt",
+        "refcode": "AA 13.3"
+      },
+      {
+        "para_id": "2013.22",
+        "lang": "ro",
+        "refcode": "FA 10.1"
+      },
+      {
+        "para_id": "1785.7",
+        "lang": "ru",
+        "refcode": "ДА 10.3"
+      },
+      {
+        "para_id": "13874.24",
+        "lang": "rw",
+        "refcode": "INI 9.3"
+      },
+      {
+        "para_id": "11182.14",
+        "lang": "sk",
+        "refcode": "SA 9.3"
+      },
+      {
+        "para_id": "11904.23",
+        "lang": "tl",
+        "refcode": "AGA 9.3"
+      },
+      {
+        "para_id": "11875.12",
+        "lang": "uk",
+        "refcode": "ДА 5.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.28",
+    "id_prev": "127.27",
+    "id_next": "127.31",
+    "refcode_1": "AA",
+    "refcode_2": "10",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 10.2",
+    "refcode_long": "The Acts of the Apostles, p. 10.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages; that thou mayest say to the prisoners, Go forth; to them that are in darkness, Show yourselves. They shall feed in the ways, and their pastures shall be in all high places. They shall not hunger nor thirst; neither shall the heat nor sun smite them: for <span class=\"page-break\" data-page=\"11\"></span> He that hath mercy on them shall lead them, even by the springs of water shall He guide them. And I will make all My mountains a way, and My highways shall be exalted....",
+    "puborder": 15,
+    "translations": [
+      {
+        "para_id": "13804.19",
+        "lang": "bg",
+        "refcode": "Дa 4.4"
+      },
+      {
+        "para_id": "11590.25",
+        "lang": "ce",
+        "refcode": "ABA 10.1"
+      },
+      {
+        "para_id": "11247.24",
+        "lang": "cs",
+        "refcode": "PNL 9.4"
+      },
+      {
+        "para_id": "813.29",
+        "lang": "de",
+        "refcode": "WA 10.2"
+      },
+      {
+        "para_id": "198.42",
+        "lang": "es",
+        "refcode": "HAp 10.1"
+      },
+      {
+        "para_id": "158.39",
+        "lang": "fr",
+        "refcode": "CP 12.2"
+      },
+      {
+        "para_id": "11938.27",
+        "lang": "hu",
+        "refcode": "AT 7.4"
+      },
+      {
+        "para_id": "12410.28",
+        "lang": "id",
+        "refcode": "KR 10.2"
+      },
+      {
+        "para_id": "882.23",
+        "lang": "it",
+        "refcode": "UVI 7.4"
+      },
+      {
+        "para_id": "11660.87",
+        "lang": "ja",
+        "refcode": "AAJ 2.2"
+      },
+      {
+        "para_id": "12335.29",
+        "lang": "nb",
+        "refcode": "AV 9.4"
+      },
+      {
+        "para_id": "12008.32",
+        "lang": "pl",
+        "refcode": "DA 9.2"
+      },
+      {
+        "para_id": "1806.46",
+        "lang": "pt",
+        "refcode": "AA 13.4"
+      },
+      {
+        "para_id": "2013.23",
+        "lang": "ro",
+        "refcode": "FA 10.2"
+      },
+      {
+        "para_id": "1785.8",
+        "lang": "ru",
+        "refcode": "ДА 10.4"
+      },
+      {
+        "para_id": "13874.25",
+        "lang": "rw",
+        "refcode": "INI 9.4"
+      },
+      {
+        "para_id": "11182.15",
+        "lang": "sk",
+        "refcode": "SA 9.4"
+      },
+      {
+        "para_id": "11904.26",
+        "lang": "tl",
+        "refcode": "AGA 10.1"
+      },
+      {
+        "para_id": "11875.15",
+        "lang": "uk",
+        "refcode": "ДА 6.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.31",
+    "id_prev": "127.28",
+    "id_next": "127.32",
+    "refcode_1": "AA",
+    "refcode_2": "11",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 11.1",
+    "refcode_long": "The Acts of the Apostles, p. 11.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the Lord hath comforted His people, and will have mercy upon His afflicted. But Zion said, The Lord hath forsaken me, and my Lord hath forgotten me. Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee. Behold, I have graven thee upon the palms of My hands; thy walls are continually before Me.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 49:8\" data-link=\"1965.38042\">Isaiah 49:8-16</span>.",
+    "puborder": 16,
+    "translations": [
+      {
+        "para_id": "13804.20",
+        "lang": "bg",
+        "refcode": "Дa 4.5"
+      },
+      {
+        "para_id": "11590.26",
+        "lang": "ce",
+        "refcode": "ABA 10.2"
+      },
+      {
+        "para_id": "11247.27",
+        "lang": "cs",
+        "refcode": "PNL 10.1"
+      },
+      {
+        "para_id": "813.29",
+        "lang": "de",
+        "refcode": "WA 10.2"
+      },
+      {
+        "para_id": "198.43",
+        "lang": "es",
+        "refcode": "HAp 10.2"
+      },
+      {
+        "para_id": "158.40",
+        "lang": "fr",
+        "refcode": "CP 12.3"
+      },
+      {
+        "para_id": "11938.27",
+        "lang": "hu",
+        "refcode": "AT 7.4"
+      },
+      {
+        "para_id": "12410.29",
+        "lang": "id",
+        "refcode": "KR 10.3"
+      },
+      {
+        "para_id": "882.23",
+        "lang": "it",
+        "refcode": "UVI 7.4"
+      },
+      {
+        "para_id": "11660.90",
+        "lang": "ja",
+        "refcode": "AAJ 3.1"
+      },
+      {
+        "para_id": "12335.29",
+        "lang": "nb",
+        "refcode": "AV 9.4"
+      },
+      {
+        "para_id": "12008.32",
+        "lang": "pl",
+        "refcode": "DA 9.2"
+      },
+      {
+        "para_id": "1806.49",
+        "lang": "pt",
+        "refcode": "AA 14.1"
+      },
+      {
+        "para_id": "2013.23",
+        "lang": "ro",
+        "refcode": "FA 10.2"
+      },
+      {
+        "para_id": "1785.11",
+        "lang": "ru",
+        "refcode": "ДА 11.1"
+      },
+      {
+        "para_id": "13874.25",
+        "lang": "rw",
+        "refcode": "INI 9.4"
+      },
+      {
+        "para_id": "11182.18",
+        "lang": "sk",
+        "refcode": "SA 10.1"
+      },
+      {
+        "para_id": "11904.27",
+        "lang": "tl",
+        "refcode": "AGA 10.2"
+      },
+      {
+        "para_id": "11875.16",
+        "lang": "uk",
+        "refcode": "ДА 6.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.32",
+    "id_prev": "127.31",
+    "id_next": "127.33",
+    "refcode_1": "AA",
+    "refcode_2": "11",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 11.2",
+    "refcode_long": "The Acts of the Apostles, p. 11.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The church is God&apos;s fortress, His city of refuge, which He holds in a revolted world. Any betrayal of the church is treachery to Him who has bought mankind with the blood of His only-begotten Son. From the beginning, faithful souls have constituted the church on earth. In every age the Lord has had His watchmen, who have borne a faithful testimony to the generation in which they lived. These sentinels gave the message of warning; and when they were called to lay off their armor, others took up the work. God brought these witnesses into covenant relation with Himself, uniting the church on earth with the church in heaven. He has sent forth His angels to minister to His church, and the gates of hell have not been able to prevail against His people.",
+    "puborder": 17,
+    "translations": [
+      {
+        "para_id": "13804.21",
+        "lang": "bg",
+        "refcode": "Дa 4.6"
+      },
+      {
+        "para_id": "11590.27",
+        "lang": "ce",
+        "refcode": "ABA 10.3"
+      },
+      {
+        "para_id": "11247.28",
+        "lang": "cs",
+        "refcode": "PNL 10.2"
+      },
+      {
+        "para_id": "813.30",
+        "lang": "de",
+        "refcode": "WA 10.3"
+      },
+      {
+        "para_id": "198.44",
+        "lang": "es",
+        "refcode": "HAp 10.3"
+      },
+      {
+        "para_id": "158.43",
+        "lang": "fr",
+        "refcode": "CP 13.1"
+      },
+      {
+        "para_id": "11938.30",
+        "lang": "hu",
+        "refcode": "AT 8.1"
+      },
+      {
+        "para_id": "12410.31",
+        "lang": "id",
+        "refcode": "KR 11.1"
+      },
+      {
+        "para_id": "882.26",
+        "lang": "it",
+        "refcode": "UVI 8.1"
+      },
+      {
+        "para_id": "11660.91",
+        "lang": "ja",
+        "refcode": "AAJ 3.2"
+      },
+      {
+        "para_id": "12335.32",
+        "lang": "nb",
+        "refcode": "AV 10.1"
+      },
+      {
+        "para_id": "12008.35",
+        "lang": "pl",
+        "refcode": "DA 10.1"
+      },
+      {
+        "para_id": "1806.50",
+        "lang": "pt",
+        "refcode": "AA 14.2"
+      },
+      {
+        "para_id": "2013.26",
+        "lang": "ro",
+        "refcode": "FA 11.2"
+      },
+      {
+        "para_id": "1785.12",
+        "lang": "ru",
+        "refcode": "ДА 11.2"
+      },
+      {
+        "para_id": "13874.28",
+        "lang": "rw",
+        "refcode": "INI 10.1"
+      },
+      {
+        "para_id": "11182.19",
+        "lang": "sk",
+        "refcode": "SA 10.2"
+      },
+      {
+        "para_id": "11904.28",
+        "lang": "tl",
+        "refcode": "AGA 10.3"
+      },
+      {
+        "para_id": "11875.17",
+        "lang": "uk",
+        "refcode": "ДА 6.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.33",
+    "id_prev": "127.32",
+    "id_next": "127.36",
+    "refcode_1": "AA",
+    "refcode_2": "11",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 11.3",
+    "refcode_long": "The Acts of the Apostles, p. 11.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Through centuries of persecution, conflict, and darkness, God has sustained His church. Not one cloud has fallen upon it that He has not prepared for; not one opposing <span class=\"page-break\" data-page=\"12\"></span> force has risen to counterwork His work, that He has not foreseen. All has taken place as He predicted. He has not left His church forsaken, but has traced in prophetic declarations what would occur, and that which His Spirit inspired the prophets to foretell has been brought about. All His purposes will be fulfilled. His law is linked with His throne, and no power of evil can destroy it. Truth is inspired and guarded by God; and it will triumph over all opposition.",
+    "puborder": 18,
+    "translations": [
+      {
+        "para_id": "13804.23",
+        "lang": "bg",
+        "refcode": "Дa 5.1"
+      },
+      {
+        "para_id": "11590.30",
+        "lang": "ce",
+        "refcode": "ABA 11.1"
+      },
+      {
+        "para_id": "11247.29",
+        "lang": "cs",
+        "refcode": "PNL 10.3"
+      },
+      {
+        "para_id": "813.33",
+        "lang": "de",
+        "refcode": "WA 11.1"
+      },
+      {
+        "para_id": "198.45",
+        "lang": "es",
+        "refcode": "HAp 10.4"
+      },
+      {
+        "para_id": "158.44",
+        "lang": "fr",
+        "refcode": "CP 13.2"
+      },
+      {
+        "para_id": "11938.31",
+        "lang": "hu",
+        "refcode": "AT 8.2"
+      },
+      {
+        "para_id": "12410.32",
+        "lang": "id",
+        "refcode": "KR 11.2"
+      },
+      {
+        "para_id": "882.27",
+        "lang": "it",
+        "refcode": "UVI 8.2"
+      },
+      {
+        "para_id": "11660.92",
+        "lang": "ja",
+        "refcode": "AAJ 3.3"
+      },
+      {
+        "para_id": "12335.33",
+        "lang": "nb",
+        "refcode": "AV 10.2"
+      },
+      {
+        "para_id": "12008.36",
+        "lang": "pl",
+        "refcode": "DA 10.2"
+      },
+      {
+        "para_id": "1806.51",
+        "lang": "pt",
+        "refcode": "AA 14.3"
+      },
+      {
+        "para_id": "2013.27",
+        "lang": "ro",
+        "refcode": "FA 11.3"
+      },
+      {
+        "para_id": "1785.13",
+        "lang": "ru",
+        "refcode": "ДА 11.3"
+      },
+      {
+        "para_id": "13874.29",
+        "lang": "rw",
+        "refcode": "INI 10.2"
+      },
+      {
+        "para_id": "11182.20",
+        "lang": "sk",
+        "refcode": "SA 10.3"
+      },
+      {
+        "para_id": "11904.31",
+        "lang": "tl",
+        "refcode": "AGA 11.1"
+      },
+      {
+        "para_id": "11875.18",
+        "lang": "uk",
+        "refcode": "ДА 6.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.36",
+    "id_prev": "127.33",
+    "id_next": "127.37",
+    "refcode_1": "AA",
+    "refcode_2": "12",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 12.1",
+    "refcode_long": "The Acts of the Apostles, p. 12.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "During ages of spiritual darkness the church of God has been as a city set on a hill. From age to age, through successive generations, the pure doctrines of heaven have been unfolding within its borders. Enfeebled and defective as it may appear, the church is the one object upon which God bestows in a special sense His supreme regard. It is the theater of His grace, in which He delights to reveal His power to transform hearts.",
+    "puborder": 19,
+    "translations": [
+      {
+        "para_id": "13804.24",
+        "lang": "bg",
+        "refcode": "Дa 5.2"
+      },
+      {
+        "para_id": "11590.31",
+        "lang": "ce",
+        "refcode": "ABA 11.2"
+      },
+      {
+        "para_id": "11247.31",
+        "lang": "cs",
+        "refcode": "PNL 10.4"
+      },
+      {
+        "para_id": "813.34",
+        "lang": "de",
+        "refcode": "WA 11.2"
+      },
+      {
+        "para_id": "198.48",
+        "lang": "es",
+        "refcode": "HAp 11.1"
+      },
+      {
+        "para_id": "158.45",
+        "lang": "fr",
+        "refcode": "CP 13.3"
+      },
+      {
+        "para_id": "11938.32",
+        "lang": "hu",
+        "refcode": "AT 8.3"
+      },
+      {
+        "para_id": "12410.33",
+        "lang": "id",
+        "refcode": "KR 11.3"
+      },
+      {
+        "para_id": "882.28",
+        "lang": "it",
+        "refcode": "UVI 8.3"
+      },
+      {
+        "para_id": "11660.95",
+        "lang": "ja",
+        "refcode": "AAJ 4.1"
+      },
+      {
+        "para_id": "12335.34",
+        "lang": "nb",
+        "refcode": "AV 10.3"
+      },
+      {
+        "para_id": "12008.37",
+        "lang": "pl",
+        "refcode": "DA 10.3"
+      },
+      {
+        "para_id": "1806.52",
+        "lang": "pt",
+        "refcode": "AA 14.4"
+      },
+      {
+        "para_id": "2013.30",
+        "lang": "ro",
+        "refcode": "FA 12.1"
+      },
+      {
+        "para_id": "1785.16",
+        "lang": "ru",
+        "refcode": "ДА 12.1"
+      },
+      {
+        "para_id": "13874.30",
+        "lang": "rw",
+        "refcode": "INI 10.3"
+      },
+      {
+        "para_id": "11182.21",
+        "lang": "sk",
+        "refcode": "SA 10.4"
+      },
+      {
+        "para_id": "11904.32",
+        "lang": "tl",
+        "refcode": "AGA 11.2"
+      },
+      {
+        "para_id": "11875.21",
+        "lang": "uk",
+        "refcode": "ДА 7.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.37",
+    "id_prev": "127.36",
+    "id_next": "127.39",
+    "refcode_1": "AA",
+    "refcode_2": "12",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 12.2",
+    "refcode_long": "The Acts of the Apostles, p. 12.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Whereunto,&rdquo; asked Christ, &ldquo;shall we liken the kingdom of God? or with what comparison shall we compare it?&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Mark 4:30\" data-link=\"1965.49711\">Mark 4:30</span>. He could not employ the kingdoms of the world as a similitude. In society He found nothing with which to compare it. Earthly kingdoms rule by the ascendancy of physical power; but from Christ&apos;s kingdom every carnal weapon, every instrument of coercion, is banished. This kingdom is to uplift and ennoble humanity. God&apos;s church is the court of holy life, filled with varied gifts and endowed with the Holy Spirit. The members are to find their happiness in the happiness of those whom they help and bless.",
+    "puborder": 20,
+    "translations": [
+      {
+        "para_id": "13804.25",
+        "lang": "bg",
+        "refcode": "Дa 5.3"
+      },
+      {
+        "para_id": "11590.32",
+        "lang": "ce",
+        "refcode": "ABA 11.3"
+      },
+      {
+        "para_id": "11247.32",
+        "lang": "cs",
+        "refcode": "PNL 10.5"
+      },
+      {
+        "para_id": "11247.34",
+        "lang": "cs",
+        "refcode": "PNL 11.1"
+      },
+      {
+        "para_id": "813.36",
+        "lang": "de",
+        "refcode": "WA 12.1"
+      },
+      {
+        "para_id": "198.49",
+        "lang": "es",
+        "refcode": "HAp 11.2"
+      },
+      {
+        "para_id": "158.48",
+        "lang": "fr",
+        "refcode": "CP 14.1"
+      },
+      {
+        "para_id": "11938.35",
+        "lang": "hu",
+        "refcode": "AT 9.1"
+      },
+      {
+        "para_id": "12410.34",
+        "lang": "id",
+        "refcode": "KR 11.4"
+      },
+      {
+        "para_id": "882.29",
+        "lang": "it",
+        "refcode": "UVI 8.4"
+      },
+      {
+        "para_id": "11660.96",
+        "lang": "ja",
+        "refcode": "AAJ 4.2"
+      },
+      {
+        "para_id": "12335.35",
+        "lang": "nb",
+        "refcode": "AV 10.4"
+      },
+      {
+        "para_id": "12008.38",
+        "lang": "pl",
+        "refcode": "DA 10.4"
+      },
+      {
+        "para_id": "1806.53",
+        "lang": "pt",
+        "refcode": "AA 14.5"
+      },
+      {
+        "para_id": "2013.30",
+        "lang": "ro",
+        "refcode": "FA 12.1"
+      },
+      {
+        "para_id": "1785.17",
+        "lang": "ru",
+        "refcode": "ДА 12.2"
+      },
+      {
+        "para_id": "13874.33",
+        "lang": "rw",
+        "refcode": "INI 11.1"
+      },
+      {
+        "para_id": "11182.22",
+        "lang": "sk",
+        "refcode": "SA 10.5"
+      },
+      {
+        "para_id": "11904.33",
+        "lang": "tl",
+        "refcode": "AGA 11.3"
+      },
+      {
+        "para_id": "11875.22",
+        "lang": "uk",
+        "refcode": "ДА 7.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.39",
+    "id_prev": "127.37",
+    "id_next": "127.40",
+    "refcode_1": "AA",
+    "refcode_2": "13",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 13.1",
+    "refcode_long": "The Acts of the Apostles, p. 13.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Wonderful is the work which the Lord designs to accomplish through His church, that His name may be glorified. A picture of this work is given in Ezekiel&apos;s vision of the river of healing: &ldquo;These waters issue out toward the east country, and go down into the desert, and go into the sea: which being brought forth into the sea, the waters shall be healed. And it shall come to pass, that everything that liveth, which moveth, whithersoever the rivers shall come, shall live:... and by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters they issued out of the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Ezekiel 47:8\" data-link=\"1965.44252\">Ezekiel 47:8-12</span>.",
+    "puborder": 21,
+    "translations": [
+      {
+        "para_id": "13804.26",
+        "lang": "bg",
+        "refcode": "Дa 5.4"
+      },
+      {
+        "para_id": "11590.35",
+        "lang": "ce",
+        "refcode": "ABA 12.1"
+      },
+      {
+        "para_id": "11247.35",
+        "lang": "cs",
+        "refcode": "PNL 11.2"
+      },
+      {
+        "para_id": "813.37",
+        "lang": "de",
+        "refcode": "WA 12.2"
+      },
+      {
+        "para_id": "198.50",
+        "lang": "es",
+        "refcode": "HAp 11.3"
+      },
+      {
+        "para_id": "158.49",
+        "lang": "fr",
+        "refcode": "CP 14.2"
+      },
+      {
+        "para_id": "11938.36",
+        "lang": "hu",
+        "refcode": "AT 9.2"
+      },
+      {
+        "para_id": "12410.37",
+        "lang": "id",
+        "refcode": "KR 12.1"
+      },
+      {
+        "para_id": "882.32",
+        "lang": "it",
+        "refcode": "UVI 9.1"
+      },
+      {
+        "para_id": "11660.97",
+        "lang": "ja",
+        "refcode": "AAJ 4.3"
+      },
+      {
+        "para_id": "12335.38",
+        "lang": "nb",
+        "refcode": "AV 11.1"
+      },
+      {
+        "para_id": "12008.41",
+        "lang": "pl",
+        "refcode": "DA 11.1"
+      },
+      {
+        "para_id": "1806.56",
+        "lang": "pt",
+        "refcode": "AA 15.2"
+      },
+      {
+        "para_id": "2013.32",
+        "lang": "ro",
+        "refcode": "FA 13.1"
+      },
+      {
+        "para_id": "1785.19",
+        "lang": "ru",
+        "refcode": "ДА 13.1"
+      },
+      {
+        "para_id": "13874.34",
+        "lang": "rw",
+        "refcode": "INI 11.2"
+      },
+      {
+        "para_id": "11182.25",
+        "lang": "sk",
+        "refcode": "SA 11.1"
+      },
+      {
+        "para_id": "11904.34",
+        "lang": "tl",
+        "refcode": "AGA 11.4"
+      },
+      {
+        "para_id": "11875.23",
+        "lang": "uk",
+        "refcode": "ДА 7.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.40",
+    "id_prev": "127.39",
+    "id_next": "127.42",
+    "refcode_1": "AA",
+    "refcode_2": "13",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 13.2",
+    "refcode_long": "The Acts of the Apostles, p. 13.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "From the beginning God has wrought through His people to bring blessing to the world. To the ancient Egyptian nation God made Joseph a fountain of life. Through the integrity of Joseph the life of that whole people was preserved. Through Daniel God saved the life of all the wise men of Babylon. And these deliverances are as object lessons; they illustrate the spiritual blessings offered to the world through connection with the God whom Joseph and Daniel worshiped. Everyone in whose heart Christ abides, everyone who will show forth His love to the world, is a worker together with God for the blessing of humanity. As he receives from the Saviour grace to impart to others, from his whole being flows forth the tide of spiritual life.",
+    "puborder": 22,
+    "translations": [
+      {
+        "para_id": "13804.27",
+        "lang": "bg",
+        "refcode": "Дa 5.5"
+      },
+      {
+        "para_id": "11590.36",
+        "lang": "ce",
+        "refcode": "ABA 12.2"
+      },
+      {
+        "para_id": "11247.36",
+        "lang": "cs",
+        "refcode": "PNL 11.3"
+      },
+      {
+        "para_id": "813.39",
+        "lang": "de",
+        "refcode": "WA 13.1"
+      },
+      {
+        "para_id": "198.53",
+        "lang": "es",
+        "refcode": "HAp 12.1"
+      },
+      {
+        "para_id": "158.51",
+        "lang": "fr",
+        "refcode": "CP 15.1"
+      },
+      {
+        "para_id": "11938.37",
+        "lang": "hu",
+        "refcode": "AT 9.3"
+      },
+      {
+        "para_id": "12410.38",
+        "lang": "id",
+        "refcode": "KR 12.2"
+      },
+      {
+        "para_id": "882.33",
+        "lang": "it",
+        "refcode": "UVI 9.2"
+      },
+      {
+        "para_id": "11660.100",
+        "lang": "ja",
+        "refcode": "AAJ 5.1"
+      },
+      {
+        "para_id": "12335.39",
+        "lang": "nb",
+        "refcode": "AV 11.2"
+      },
+      {
+        "para_id": "12008.42",
+        "lang": "pl",
+        "refcode": "DA 11.2"
+      },
+      {
+        "para_id": "1806.57",
+        "lang": "pt",
+        "refcode": "AA 15.3"
+      },
+      {
+        "para_id": "2013.33",
+        "lang": "ro",
+        "refcode": "FA 13.2"
+      },
+      {
+        "para_id": "1785.20",
+        "lang": "ru",
+        "refcode": "ДА 13.2"
+      },
+      {
+        "para_id": "13874.35",
+        "lang": "rw",
+        "refcode": "INI 11.3"
+      },
+      {
+        "para_id": "11182.26",
+        "lang": "sk",
+        "refcode": "SA 11.2"
+      },
+      {
+        "para_id": "11904.37",
+        "lang": "tl",
+        "refcode": "AGA 12.1"
+      },
+      {
+        "para_id": "11875.24",
+        "lang": "uk",
+        "refcode": "ДА 7.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.42",
+    "id_prev": "127.40",
+    "id_next": "127.43",
+    "refcode_1": "AA",
+    "refcode_2": "14",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 14.1",
+    "refcode_long": "The Acts of the Apostles, p. 14.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God chose Israel to reveal His character to men. He desired them to be as wells of salvation in the world. To them were committed the oracles of heaven, the revelation of God&apos;s will. In the early days of Israel the nations of the world, through corrupt practices, had lost the knowledge of God. They had once known Him; but because &ldquo;they glorified Him not as God, neither were thankful; but became vain in their imaginations, ... their foolish heart was darkened.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Romans 1:21\" data-link=\"1965.56997\">Romans 1:21</span>. Yet in His mercy God did not blot them out of existence. He purposed to give them an opportunity of again becoming acquainted with Him through His chosen people. Through the teachings of the sacrificial service, Christ was to be uplifted before all nations, and all who would look to Him should live. Christ was the foundation of the Jewish economy. The whole system of types and symbols was a compacted prophecy of the gospel, a presentation in which were bound up the promises of redemption.",
+    "puborder": 23,
+    "translations": [
+      {
+        "para_id": "13804.28",
+        "lang": "bg",
+        "refcode": "Дa 5.6"
+      },
+      {
+        "para_id": "11590.36",
+        "lang": "ce",
+        "refcode": "ABA 12.2"
+      },
+      {
+        "para_id": "11247.37",
+        "lang": "cs",
+        "refcode": "PNL 11.4"
+      },
+      {
+        "para_id": "813.40",
+        "lang": "de",
+        "refcode": "WA 13.2"
+      },
+      {
+        "para_id": "198.54",
+        "lang": "es",
+        "refcode": "HAp 12.2"
+      },
+      {
+        "para_id": "158.52",
+        "lang": "fr",
+        "refcode": "CP 15.2"
+      },
+      {
+        "para_id": "11938.38",
+        "lang": "hu",
+        "refcode": "AT 9.4"
+      },
+      {
+        "para_id": "12410.39",
+        "lang": "id",
+        "refcode": "KR 12.3"
+      },
+      {
+        "para_id": "882.34",
+        "lang": "it",
+        "refcode": "UVI 9.3"
+      },
+      {
+        "para_id": "11660.101",
+        "lang": "ja",
+        "refcode": "AAJ 5.2"
+      },
+      {
+        "para_id": "12335.40",
+        "lang": "nb",
+        "refcode": "AV 11.3"
+      },
+      {
+        "para_id": "12008.43",
+        "lang": "pl",
+        "refcode": "DA 11.3"
+      },
+      {
+        "para_id": "1806.59",
+        "lang": "pt",
+        "refcode": "AA 15.5"
+      },
+      {
+        "para_id": "1806.58",
+        "lang": "pt",
+        "refcode": "AA 15.4"
+      },
+      {
+        "para_id": "2013.35",
+        "lang": "ro",
+        "refcode": "FA 14.1"
+      },
+      {
+        "para_id": "1785.22",
+        "lang": "ru",
+        "refcode": "ДА 14.1"
+      },
+      {
+        "para_id": "13874.37",
+        "lang": "rw",
+        "refcode": "INI 12.1"
+      },
+      {
+        "para_id": "11182.27",
+        "lang": "sk",
+        "refcode": "SA 11.3"
+      },
+      {
+        "para_id": "11904.38",
+        "lang": "tl",
+        "refcode": "AGA 12.2"
+      },
+      {
+        "para_id": "11875.27",
+        "lang": "uk",
+        "refcode": "ДА 8.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.43",
+    "id_prev": "127.42",
+    "id_next": "127.46",
+    "refcode_1": "AA",
+    "refcode_2": "14",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 14.2",
+    "refcode_long": "The Acts of the Apostles, p. 14.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But the people of Israel lost sight of their high privileges as God&apos;s representatives. They forgot God and failed to fulfill their holy mission. The blessings they received brought no blessing to the world. All their advantages they appropriated for their own glorification. They shut themselves away from the world in order to escape temptation. The restrictions that God had placed upon their association with idolaters as a means of preventing them from conforming to the practices of the heathen, they used to build up a wall of separation between themselves and all other nations. They <span class=\"page-break\" data-page=\"15\"></span> robbed God of the service He required of them, and they robbed their fellow men of religious guidance and a holy example.",
+    "puborder": 24,
+    "translations": [
+      {
+        "para_id": "13804.31",
+        "lang": "bg",
+        "refcode": "Дa 6.1"
+      },
+      {
+        "para_id": "11590.39",
+        "lang": "ce",
+        "refcode": "ABA 13.1"
+      },
+      {
+        "para_id": "11247.39",
+        "lang": "cs",
+        "refcode": "PNL 11.5"
+      },
+      {
+        "para_id": "813.41",
+        "lang": "de",
+        "refcode": "WA 13.3"
+      },
+      {
+        "para_id": "198.56",
+        "lang": "es",
+        "refcode": "HAp 13.1"
+      },
+      {
+        "para_id": "158.53",
+        "lang": "fr",
+        "refcode": "CP 15.3"
+      },
+      {
+        "para_id": "11938.41",
+        "lang": "hu",
+        "refcode": "AT 10.1"
+      },
+      {
+        "para_id": "12410.42",
+        "lang": "id",
+        "refcode": "KR 13.1"
+      },
+      {
+        "para_id": "882.37",
+        "lang": "it",
+        "refcode": "UVI 10.1"
+      },
+      {
+        "para_id": "11660.104",
+        "lang": "ja",
+        "refcode": "AAJ 6.1"
+      },
+      {
+        "para_id": "12335.41",
+        "lang": "nb",
+        "refcode": "AV 11.4"
+      },
+      {
+        "para_id": "12008.44",
+        "lang": "pl",
+        "refcode": "DA 11.4"
+      },
+      {
+        "para_id": "12008.46",
+        "lang": "pl",
+        "refcode": "DA 12.1"
+      },
+      {
+        "para_id": "1806.60",
+        "lang": "pt",
+        "refcode": "AA 15.6"
+      },
+      {
+        "para_id": "2013.36",
+        "lang": "ro",
+        "refcode": "FA 14.2"
+      },
+      {
+        "para_id": "1785.23",
+        "lang": "ru",
+        "refcode": "ДА 14.2"
+      },
+      {
+        "para_id": "13874.38",
+        "lang": "rw",
+        "refcode": "INI 12.2"
+      },
+      {
+        "para_id": "11182.30",
+        "lang": "sk",
+        "refcode": "SA 12.1"
+      },
+      {
+        "para_id": "11904.41",
+        "lang": "tl",
+        "refcode": "AGA 13.1"
+      },
+      {
+        "para_id": "11875.28",
+        "lang": "uk",
+        "refcode": "ДА 8.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.46",
+    "id_prev": "127.43",
+    "id_next": "127.47",
+    "refcode_1": "AA",
+    "refcode_2": "15",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 15.1",
+    "refcode_long": "The Acts of the Apostles, p. 15.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Priests and rulers became fixed in a rut of ceremonialism. They were satisfied with a legal religion, and it was impossible for them to give to others the living truths of heaven. They thought their own righteousness all-sufficient, and did not desire that a new element should be brought into their religion. The good will of God to men they did not accept as something apart from themselves, but connected it with their own merit because of their good works. The faith that works by love and purifies the soul could find no place for union with the religion of the Pharisees, made up of ceremonies and the injunctions of men.",
+    "puborder": 25,
+    "translations": [
+      {
+        "para_id": "13804.32",
+        "lang": "bg",
+        "refcode": "Дa 6.2"
+      },
+      {
+        "para_id": "11590.40",
+        "lang": "ce",
+        "refcode": "ABA 13.2"
+      },
+      {
+        "para_id": "11247.42",
+        "lang": "cs",
+        "refcode": "PNL 12.1"
+      },
+      {
+        "para_id": "813.44",
+        "lang": "de",
+        "refcode": "WA 14.1"
+      },
+      {
+        "para_id": "198.57",
+        "lang": "es",
+        "refcode": "HAp 13.2"
+      },
+      {
+        "para_id": "158.54",
+        "lang": "fr",
+        "refcode": "CP 15.4"
+      },
+      {
+        "para_id": "11938.42",
+        "lang": "hu",
+        "refcode": "AT 10.2"
+      },
+      {
+        "para_id": "12410.43",
+        "lang": "id",
+        "refcode": "KR 13.2"
+      },
+      {
+        "para_id": "882.38",
+        "lang": "it",
+        "refcode": "UVI 10.2"
+      },
+      {
+        "para_id": "11660.105",
+        "lang": "ja",
+        "refcode": "AAJ 6.2"
+      },
+      {
+        "para_id": "12335.44",
+        "lang": "nb",
+        "refcode": "AV 12.1"
+      },
+      {
+        "para_id": "12008.47",
+        "lang": "pl",
+        "refcode": "DA 12.2"
+      },
+      {
+        "para_id": "1806.64",
+        "lang": "pt",
+        "refcode": "AA 16.2"
+      },
+      {
+        "para_id": "2013.39",
+        "lang": "ro",
+        "refcode": "FA 15.1"
+      },
+      {
+        "para_id": "1785.26",
+        "lang": "ru",
+        "refcode": "ДА 15.1"
+      },
+      {
+        "para_id": "13874.39",
+        "lang": "rw",
+        "refcode": "INI 12.3"
+      },
+      {
+        "para_id": "11182.31",
+        "lang": "sk",
+        "refcode": "SA 12.2"
+      },
+      {
+        "para_id": "11904.42",
+        "lang": "tl",
+        "refcode": "AGA 13.2"
+      },
+      {
+        "para_id": "11875.29",
+        "lang": "uk",
+        "refcode": "ДА 8.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.47",
+    "id_prev": "127.46",
+    "id_next": "127.48",
+    "refcode_1": "AA",
+    "refcode_2": "15",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 15.2",
+    "refcode_long": "The Acts of the Apostles, p. 15.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Of Israel God declared: &ldquo;I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto Me?&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Jeremiah 2:21\" data-link=\"1965.38746\">Jeremiah 2:21</span>. &ldquo;Israel is an empty vine, he bringeth forth fruit unto himself.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Hosea 10:1\" data-link=\"1965.45355\">Hosea 10:1</span>. &ldquo;And now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt Me and My vineyard. What could have been done more to My vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?",
+    "puborder": 26,
+    "translations": [
+      {
+        "para_id": "13804.33",
+        "lang": "bg",
+        "refcode": "Дa 6.3"
+      },
+      {
+        "para_id": "11590.43",
+        "lang": "ce",
+        "refcode": "ABA 14.1"
+      },
+      {
+        "para_id": "11247.43",
+        "lang": "cs",
+        "refcode": "PNL 12.2"
+      },
+      {
+        "para_id": "813.45",
+        "lang": "de",
+        "refcode": "WA 14.2"
+      },
+      {
+        "para_id": "198.58",
+        "lang": "es",
+        "refcode": "HAp 13.3"
+      },
+      {
+        "para_id": "158.57",
+        "lang": "fr",
+        "refcode": "CP 16.1"
+      },
+      {
+        "para_id": "11938.43",
+        "lang": "hu",
+        "refcode": "AT 10.3"
+      },
+      {
+        "para_id": "12410.45",
+        "lang": "id",
+        "refcode": "KR 14.1"
+      },
+      {
+        "para_id": "882.39",
+        "lang": "it",
+        "refcode": "UVI 10.3"
+      },
+      {
+        "para_id": "11660.108",
+        "lang": "ja",
+        "refcode": "AAJ 7.1"
+      },
+      {
+        "para_id": "12335.45",
+        "lang": "nb",
+        "refcode": "AV 12.2"
+      },
+      {
+        "para_id": "12008.48",
+        "lang": "pl",
+        "refcode": "DA 12.3"
+      },
+      {
+        "para_id": "1806.66",
+        "lang": "pt",
+        "refcode": "AA 17"
+      },
+      {
+        "para_id": "2013.40",
+        "lang": "ro",
+        "refcode": "FA 15.2"
+      },
+      {
+        "para_id": "1785.27",
+        "lang": "ru",
+        "refcode": "ДА 15.2"
+      },
+      {
+        "para_id": "13874.40",
+        "lang": "rw",
+        "refcode": "INI 12.4"
+      },
+      {
+        "para_id": "11182.32",
+        "lang": "sk",
+        "refcode": "SA 12.3"
+      },
+      {
+        "para_id": "11904.43",
+        "lang": "tl",
+        "refcode": "AGA 13.3"
+      },
+      {
+        "para_id": "11875.32",
+        "lang": "uk",
+        "refcode": "ДА 9.1"
+      },
+      {
+        "para_id": "11875.33",
+        "lang": "uk",
+        "refcode": "ДА 9.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.48",
+    "id_prev": "127.47",
+    "id_next": "127.51",
+    "refcode_1": "AA",
+    "refcode_2": "15",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 15.3",
+    "refcode_long": "The Acts of the Apostles, p. 15.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;And now go to; I will tell you what I will do to My vineyard: I will take away the hedge thereof, and it shall be eaten up; and break down the wall thereof, and it shall be trodden down: and I will lay it waste: it shall not be pruned, nor digged; but there shall come up briers and <span class=\"page-break\" data-page=\"16\"></span> thorns: I will also command the clouds that they rain no rain upon it. For the vineyard of the Lord of hosts is the house of Israel, and the men of Judah His pleasant plant: and He looked for judgment, but behold oppression; for righteousness, but behold a cry.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 5:3\" data-link=\"1965.36194\">Isaiah 5:3-7</span>. &ldquo;The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Ezekiel 34:4\" data-link=\"1965.43499\">Ezekiel 34:4</span>.",
+    "puborder": 27,
+    "translations": [
+      {
+        "para_id": "13804.33",
+        "lang": "bg",
+        "refcode": "Дa 6.3"
+      },
+      {
+        "para_id": "11590.44",
+        "lang": "ce",
+        "refcode": "ABA 14.2"
+      },
+      {
+        "para_id": "11247.44",
+        "lang": "cs",
+        "refcode": "PNL 12.3"
+      },
+      {
+        "para_id": "813.45",
+        "lang": "de",
+        "refcode": "WA 14.2"
+      },
+      {
+        "para_id": "198.59",
+        "lang": "es",
+        "refcode": "HAp 13.4"
+      },
+      {
+        "para_id": "158.58",
+        "lang": "fr",
+        "refcode": "CP 16.2"
+      },
+      {
+        "para_id": "11938.43",
+        "lang": "hu",
+        "refcode": "AT 10.3"
+      },
+      {
+        "para_id": "12410.46",
+        "lang": "id",
+        "refcode": "KR 14.2"
+      },
+      {
+        "para_id": "882.40",
+        "lang": "it",
+        "refcode": "UVI 10.4"
+      },
+      {
+        "para_id": "11660.109",
+        "lang": "ja",
+        "refcode": "AAJ 7.2"
+      },
+      {
+        "para_id": "12335.45",
+        "lang": "nb",
+        "refcode": "AV 12.2"
+      },
+      {
+        "para_id": "12008.48",
+        "lang": "pl",
+        "refcode": "DA 12.3"
+      },
+      {
+        "para_id": "1806.66",
+        "lang": "pt",
+        "refcode": "AA 17"
+      },
+      {
+        "para_id": "2013.41",
+        "lang": "ro",
+        "refcode": "FA 15.3"
+      },
+      {
+        "para_id": "1785.27",
+        "lang": "ru",
+        "refcode": "ДА 15.2"
+      },
+      {
+        "para_id": "13874.40",
+        "lang": "rw",
+        "refcode": "INI 12.4"
+      },
+      {
+        "para_id": "11182.32",
+        "lang": "sk",
+        "refcode": "SA 12.3"
+      },
+      {
+        "para_id": "11904.44",
+        "lang": "tl",
+        "refcode": "AGA 13.4"
+      },
+      {
+        "para_id": "11875.34",
+        "lang": "uk",
+        "refcode": "ДА 9.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.51",
+    "id_prev": "127.48",
+    "id_next": "127.53",
+    "refcode_1": "AA",
+    "refcode_2": "16",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 16.1",
+    "refcode_long": "The Acts of the Apostles, p. 16.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Jewish leaders thought themselves too wise to need instruction, too righteous to need salvation, too highly honored to need the honor that comes from Christ. The Saviour turned from them to entrust to others the privileges they had abused and the work they had slighted. God&apos;s glory must be revealed, His word established. Christ&apos;s kingdom must be set up in the world. The salvation of God must be made known in the cities of the wilderness; and the disciples were called to do the work that the Jewish leaders had failed to do.",
+    "puborder": 28,
+    "translations": [
+      {
+        "para_id": "13804.34",
+        "lang": "bg",
+        "refcode": "Дa 6.4"
+      },
+      {
+        "para_id": "11590.45",
+        "lang": "ce",
+        "refcode": "ABA 14.3"
+      },
+      {
+        "para_id": "11247.45",
+        "lang": "cs",
+        "refcode": "PNL 12.4"
+      },
+      {
+        "para_id": "813.48",
+        "lang": "de",
+        "refcode": "WA 15.1"
+      },
+      {
+        "para_id": "198.62",
+        "lang": "es",
+        "refcode": "HAp 14.1"
+      },
+      {
+        "para_id": "158.61",
+        "lang": "fr",
+        "refcode": "CP 17.1"
+      },
+      {
+        "para_id": "11938.46",
+        "lang": "hu",
+        "refcode": "AT 11.1"
+      },
+      {
+        "para_id": "12410.47",
+        "lang": "id",
+        "refcode": "KR 14.3"
+      },
+      {
+        "para_id": "882.41",
+        "lang": "it",
+        "refcode": "UVI 10.5"
+      },
+      {
+        "para_id": "11660.111",
+        "lang": "ja",
+        "refcode": "AAJ 8.1"
+      },
+      {
+        "para_id": "12335.46",
+        "lang": "nb",
+        "refcode": "AV 12.3"
+      },
+      {
+        "para_id": "12008.49",
+        "lang": "pl",
+        "refcode": "DA 12.4"
+      },
+      {
+        "para_id": "1806.67",
+        "lang": "pt",
+        "refcode": "AA 17.1"
+      },
+      {
+        "para_id": "2013.44",
+        "lang": "ro",
+        "refcode": "FA 16.1"
+      },
+      {
+        "para_id": "1785.30",
+        "lang": "ru",
+        "refcode": "ДА 16.1"
+      },
+      {
+        "para_id": "13874.43",
+        "lang": "rw",
+        "refcode": "INI 13.1"
+      },
+      {
+        "para_id": "11182.34",
+        "lang": "sk",
+        "refcode": "SA 13.1"
+      },
+      {
+        "para_id": "11904.47",
+        "lang": "tl",
+        "refcode": "AGA 14.1"
+      },
+      {
+        "para_id": "11875.35",
+        "lang": "uk",
+        "refcode": "ДА 9.4"
+      }
+    ]
+  }
+]

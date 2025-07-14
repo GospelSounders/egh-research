@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.91",
+    "id_prev": "21.88",
+    "id_next": "21.92",
+    "refcode_1": "CSW",
+    "refcode_2": "24",
+    "refcode_3": "",
+    "refcode_4": "14",
+    "refcode_short": "CSW 24",
+    "refcode_long": "Counsels on Sabbath School Work, p. 24 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Substitute Bible for Fiction",
+    "puborder": 56,
+    "translations": [
+      {
+        "para_id": "11629.65",
+        "lang": "da",
+        "refcode": "RSSA 24"
+      },
+      {
+        "para_id": "799.105",
+        "lang": "de",
+        "refcode": "RSs 25"
+      },
+      {
+        "para_id": "1711.109",
+        "lang": "es",
+        "refcode": "COES 25"
+      },
+      {
+        "para_id": "1917.97",
+        "lang": "pt",
+        "refcode": "CES38 9"
+      },
+      {
+        "para_id": "1724.120",
+        "lang": "pt",
+        "refcode": "CES 24"
+      },
+      {
+        "para_id": "2719.93",
+        "lang": "ro",
+        "refcode": "SSS 24"
+      },
+      {
+        "para_id": "1873.89",
+        "lang": "ru",
+        "refcode": "ССШ 24"
+      }
+    ]
+  },
+  {
+    "para_id": "21.92",
+    "id_prev": "21.91",
+    "id_next": "21.93",
+    "refcode_1": "CSW",
+    "refcode_2": "24",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 24.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 24.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Both old and young neglect the Bible. They do not make it their study, the rule of their life. Especially are the young guilty of this neglect. Most of them find time to read other books, but the book that points out the way to eternal life is not daily studied. Idle stories are attentively read, while the Bible is neglected. This book is our guide to a higher, holier life. The youth would pronounce it the most interesting book they ever read had not their imagination been perverted by the reading of fictitious stories.&mdash;<span class=\"egwlink egwlink_book\" title=\"CT 139.1\" data-link=\"23.656\"><em>Counsels to Parents</em>, Teachers, and Students, 139</span>.",
+    "puborder": 57,
+    "translations": [
+      {
+        "para_id": "11629.66",
+        "lang": "da",
+        "refcode": "RSSA 24.1"
+      },
+      {
+        "para_id": "799.106",
+        "lang": "de",
+        "refcode": "RSs 25.2"
+      },
+      {
+        "para_id": "1711.110",
+        "lang": "es",
+        "refcode": "COES 25.2"
+      },
+      {
+        "para_id": "1917.98",
+        "lang": "pt",
+        "refcode": "CES38 9.5"
+      },
+      {
+        "para_id": "1724.121",
+        "lang": "pt",
+        "refcode": "CES 24.1"
+      },
+      {
+        "para_id": "2719.94",
+        "lang": "ro",
+        "refcode": "SSS 24.1"
+      },
+      {
+        "para_id": "1873.90",
+        "lang": "ru",
+        "refcode": "ССШ 24.1"
+      }
+    ]
+  }
+]

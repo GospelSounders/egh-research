@@ -1,0 +1,1955 @@
+[
+  {
+    "para_id": "128.2405",
+    "id_prev": "128.2403",
+    "id_next": "128.2406",
+    "refcode_1": "AH",
+    "refcode_2": "512",
+    "refcode_3": "",
+    "refcode_4": "82",
+    "refcode_short": "AH 512",
+    "refcode_long": "The Adventist Home, p. 512 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 82&mdash;How the Christian Chooses His Recreation",
+    "puborder": 1605,
+    "translations": [
+      {
+        "para_id": "13839.1979",
+        "lang": "bg",
+        "refcode": "ХД 222"
+      },
+      {
+        "para_id": "177.2413",
+        "lang": "es",
+        "refcode": "HC 465"
+      },
+      {
+        "para_id": "193.2379",
+        "lang": "fr",
+        "refcode": "FC 497"
+      },
+      {
+        "para_id": "12869.3017",
+        "lang": "id",
+        "refcode": "MKB 490"
+      },
+      {
+        "para_id": "891.1568",
+        "lang": "it",
+        "refcode": "FC 207"
+      },
+      {
+        "para_id": "12178.2023",
+        "lang": "pl",
+        "refcode": "ChD 320"
+      },
+      {
+        "para_id": "1955.3077",
+        "lang": "pt",
+        "refcode": "LA 512"
+      },
+      {
+        "para_id": "2026.2401",
+        "lang": "ro",
+        "refcode": "CA 512"
+      },
+      {
+        "para_id": "1803.2337",
+        "lang": "ru",
+        "refcode": "ХД 512"
+      },
+      {
+        "para_id": "12131.2171",
+        "lang": "uk",
+        "refcode": "ХР 413"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2406",
+    "id_prev": "128.2405",
+    "id_next": "128.2407",
+    "refcode_1": "AH",
+    "refcode_2": "512",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 512.1",
+    "refcode_long": "The Adventist Home, p. 512.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Christian Recreation Versus Worldly Amusement</strong>&mdash;There is a distinction between recreation and amusement. Recreation, when true to its name, re-creation, tends to strengthen and build up. Calling us aside from our ordinary cares and occupations, it affords refreshment for mind and body and thus enables us to return with new vigor to the earnest work of life.",
+    "puborder": 1606,
+    "translations": [
+      {
+        "para_id": "13839.1980",
+        "lang": "bg",
+        "refcode": "ХД 222.4"
+      },
+      {
+        "para_id": "177.2414",
+        "lang": "es",
+        "refcode": "HC 465.1"
+      },
+      {
+        "para_id": "193.2380",
+        "lang": "fr",
+        "refcode": "FC 497.1"
+      },
+      {
+        "para_id": "12869.3019",
+        "lang": "id",
+        "refcode": "MKB 490.1"
+      },
+      {
+        "para_id": "891.1569",
+        "lang": "it",
+        "refcode": "FC 207"
+      },
+      {
+        "para_id": "891.1570",
+        "lang": "it",
+        "refcode": "FC 207.4"
+      },
+      {
+        "para_id": "12178.2024",
+        "lang": "pl",
+        "refcode": "ChD 320.4"
+      },
+      {
+        "para_id": "1955.3078",
+        "lang": "pt",
+        "refcode": "LA 512"
+      },
+      {
+        "para_id": "1955.3079",
+        "lang": "pt",
+        "refcode": "LA 512.1"
+      },
+      {
+        "para_id": "2026.2402",
+        "lang": "ro",
+        "refcode": "CA 512.1"
+      },
+      {
+        "para_id": "1803.2338",
+        "lang": "ru",
+        "refcode": "ХД 512.1"
+      },
+      {
+        "para_id": "12131.2172",
+        "lang": "uk",
+        "refcode": "ХР 413.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2407",
+    "id_prev": "128.2406",
+    "id_next": "128.2408",
+    "refcode_1": "AH",
+    "refcode_2": "512",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 512.2",
+    "refcode_long": "The Adventist Home, p. 512.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Amusement, on the other hand, is sought for the sake of pleasure and is often carried to excess; it absorbs the energies that are required for useful work and thus proves a hindrance to life&apos;s true success.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ed 207.1\" data-link=\"29.1089\">Education, 207</span>.</span></a></sup>",
+    "puborder": 1607,
+    "translations": [
+      {
+        "para_id": "13839.1981",
+        "lang": "bg",
+        "refcode": "ХД 222.5"
+      },
+      {
+        "para_id": "177.2414",
+        "lang": "es",
+        "refcode": "HC 465.1"
+      },
+      {
+        "para_id": "193.2380",
+        "lang": "fr",
+        "refcode": "FC 497.1"
+      },
+      {
+        "para_id": "12869.3020",
+        "lang": "id",
+        "refcode": "MKB 490.2"
+      },
+      {
+        "para_id": "891.1570",
+        "lang": "it",
+        "refcode": "FC 207.4"
+      },
+      {
+        "para_id": "12178.2026",
+        "lang": "pl",
+        "refcode": "ChD 321.1"
+      },
+      {
+        "para_id": "1955.3080",
+        "lang": "pt",
+        "refcode": "LA 512.2"
+      },
+      {
+        "para_id": "2026.2403",
+        "lang": "ro",
+        "refcode": "CA 512.2"
+      },
+      {
+        "para_id": "1803.2339",
+        "lang": "ru",
+        "refcode": "ХД 512.2"
+      },
+      {
+        "para_id": "12131.2173",
+        "lang": "uk",
+        "refcode": "ХР 413.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2408",
+    "id_prev": "128.2407",
+    "id_next": "128.2409",
+    "refcode_1": "AH",
+    "refcode_2": "512",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 512.3",
+    "refcode_long": "The Adventist Home, p. 512.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Between the associations of the followers of Christ for Christian recreation and worldly gatherings for pleasure and amusement will exist a marked contrast. Instead of prayer and the mentioning of Christ and sacred things will be heard from the lips of worldlings the silly laugh and the trifling conversation. Their idea is to have a general high time. Their amusements commence in folly and end in vanity.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 5-25-1886\" data-link=\"821.7302\">The Review and Herald, May 25, 1886</span>.</span></a></sup>",
+    "puborder": 1608,
+    "translations": [
+      {
+        "para_id": "13839.1982",
+        "lang": "bg",
+        "refcode": "ХД 222.6"
+      },
+      {
+        "para_id": "177.2415",
+        "lang": "es",
+        "refcode": "HC 465.2"
+      },
+      {
+        "para_id": "193.2381",
+        "lang": "fr",
+        "refcode": "FC 497.2"
+      },
+      {
+        "para_id": "12869.3021",
+        "lang": "id",
+        "refcode": "MKB 490.3"
+      },
+      {
+        "para_id": "12178.2027",
+        "lang": "pl",
+        "refcode": "ChD 321.2"
+      },
+      {
+        "para_id": "1955.3081",
+        "lang": "pt",
+        "refcode": "LA 512.3"
+      },
+      {
+        "para_id": "2026.2404",
+        "lang": "ro",
+        "refcode": "CA 512.3"
+      },
+      {
+        "para_id": "1803.2340",
+        "lang": "ru",
+        "refcode": "ХД 512.3"
+      },
+      {
+        "para_id": "12131.2173",
+        "lang": "uk",
+        "refcode": "ХР 413.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2409",
+    "id_prev": "128.2408",
+    "id_next": "128.2411",
+    "refcode_1": "AH",
+    "refcode_2": "512",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 512.4",
+    "refcode_long": "The Adventist Home, p. 512.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There is great need of temperance in amusements, as in every other pursuit. And the character of these amusements should be carefully and thoroughly considered. Every youth should ask himself, What influence will these amusements have on physical, mental, and moral health? Will my mind become so infatuated as to forget God? Shall I cease to have His glory before me?<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 333.1\" data-link=\"23.1629\">Counsels to Teachers, Parents, and Students, 333, 334</span>.</span></a></sup>",
+    "puborder": 1609,
+    "translations": [
+      {
+        "para_id": "13839.1983",
+        "lang": "bg",
+        "refcode": "ХД 222.7"
+      },
+      {
+        "para_id": "177.2416",
+        "lang": "es",
+        "refcode": "HC 465.3"
+      },
+      {
+        "para_id": "193.2382",
+        "lang": "fr",
+        "refcode": "FC 497.3"
+      },
+      {
+        "para_id": "12869.3024",
+        "lang": "id",
+        "refcode": "MKB 491.1"
+      },
+      {
+        "para_id": "12178.2028",
+        "lang": "pl",
+        "refcode": "ChD 321.3"
+      },
+      {
+        "para_id": "1955.3082",
+        "lang": "pt",
+        "refcode": "LA 512.4"
+      },
+      {
+        "para_id": "2026.2405",
+        "lang": "ro",
+        "refcode": "CA 512.4"
+      },
+      {
+        "para_id": "1803.2547",
+        "lang": "ru",
+        "refcode": "ХД 512.4"
+      },
+      {
+        "para_id": "12131.2174",
+        "lang": "uk",
+        "refcode": "ХР 413.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2411",
+    "id_prev": "128.2409",
+    "id_next": "128.2412",
+    "refcode_1": "AH",
+    "refcode_2": "513",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 513.1",
+    "refcode_long": "The Adventist Home, p. 513.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Rule by Which Lawful Pleasures May Be Recognized</strong>&mdash;Let us never lose sight of the fact that Jesus is a wellspring of joy. He does not delight in the misery of human beings, but loves to see them happy.",
+    "puborder": 1610,
+    "translations": [
+      {
+        "para_id": "13839.1984",
+        "lang": "bg",
+        "refcode": "ХД 222.8"
+      },
+      {
+        "para_id": "177.2418",
+        "lang": "es",
+        "refcode": "HC 466.1"
+      },
+      {
+        "para_id": "193.2383",
+        "lang": "fr",
+        "refcode": "FC 497.4"
+      },
+      {
+        "para_id": "12869.3026",
+        "lang": "id",
+        "refcode": "MKB 491.2"
+      },
+      {
+        "para_id": "891.1572",
+        "lang": "it",
+        "refcode": "FC 207.5"
+      },
+      {
+        "para_id": "891.1571",
+        "lang": "it",
+        "refcode": "FC 207"
+      },
+      {
+        "para_id": "12178.2029",
+        "lang": "pl",
+        "refcode": "ChD 321.4"
+      },
+      {
+        "para_id": "1955.3085",
+        "lang": "pt",
+        "refcode": "LA 513.1"
+      },
+      {
+        "para_id": "1955.3084",
+        "lang": "pt",
+        "refcode": "LA 513"
+      },
+      {
+        "para_id": "2026.2407",
+        "lang": "ro",
+        "refcode": "CA 513.1"
+      },
+      {
+        "para_id": "1803.2342",
+        "lang": "ru",
+        "refcode": "ХД 513.1"
+      },
+      {
+        "para_id": "12131.2175",
+        "lang": "uk",
+        "refcode": "ХР 413.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2412",
+    "id_prev": "128.2411",
+    "id_next": "128.2413",
+    "refcode_1": "AH",
+    "refcode_2": "513",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 513.2",
+    "refcode_long": "The Adventist Home, p. 513.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Christians have many sources of happiness at their command, and they may tell with unerring accuracy what pleasures are lawful and right. They may enjoy such recreations as will not dissipate the mind or debase the soul, such as will not disappoint and leave a sad after-influence to destroy self-respect or bar the way to usefulness. If they can take Jesus with them and maintain a prayerful spirit, they are perfectly safe.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 8-19-1884\" data-link=\"821.5723\">The Review and Herald, August 19, 1884</span>.</span></a></sup>",
+    "puborder": 1611,
+    "translations": [
+      {
+        "para_id": "13839.1986",
+        "lang": "bg",
+        "refcode": "ХД 223.1"
+      },
+      {
+        "para_id": "177.2419",
+        "lang": "es",
+        "refcode": "HC 466.2"
+      },
+      {
+        "para_id": "193.2385",
+        "lang": "fr",
+        "refcode": "FC 498.1"
+      },
+      {
+        "para_id": "12869.3027",
+        "lang": "id",
+        "refcode": "MKB 491.3"
+      },
+      {
+        "para_id": "891.1572",
+        "lang": "it",
+        "refcode": "FC 207.5"
+      },
+      {
+        "para_id": "12178.2030",
+        "lang": "pl",
+        "refcode": "ChD 321.5"
+      },
+      {
+        "para_id": "1955.3086",
+        "lang": "pt",
+        "refcode": "LA 513.2"
+      },
+      {
+        "para_id": "2026.2408",
+        "lang": "ro",
+        "refcode": "CA 513.2"
+      },
+      {
+        "para_id": "1803.2342",
+        "lang": "ru",
+        "refcode": "ХД 513.1"
+      },
+      {
+        "para_id": "12131.2176",
+        "lang": "uk",
+        "refcode": "ХР 413.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2413",
+    "id_prev": "128.2412",
+    "id_next": "128.2414",
+    "refcode_1": "AH",
+    "refcode_2": "513",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 513.3",
+    "refcode_long": "The Adventist Home, p. 513.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Any amusement in which you can engage asking the blessing of God upon it in faith will not be dangerous. But any amusement which disqualifies you for secret prayer, for devotion at the altar of prayer, or for taking part in the prayer meeting is not safe, but dangerous.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 337.1\" data-link=\"23.1648\">Counsels to Teachers, Parents, and Students, 337</span>.</span></a></sup>",
+    "puborder": 1612,
+    "translations": [
+      {
+        "para_id": "13839.1987",
+        "lang": "bg",
+        "refcode": "ХД 223.2"
+      },
+      {
+        "para_id": "177.2420",
+        "lang": "es",
+        "refcode": "HC 466.3"
+      },
+      {
+        "para_id": "193.2386",
+        "lang": "fr",
+        "refcode": "FC 498.2"
+      },
+      {
+        "para_id": "12869.3028",
+        "lang": "id",
+        "refcode": "MKB 491.4"
+      },
+      {
+        "para_id": "891.1575",
+        "lang": "it",
+        "refcode": "FC 208.1"
+      },
+      {
+        "para_id": "12178.2030",
+        "lang": "pl",
+        "refcode": "ChD 321.5"
+      },
+      {
+        "para_id": "1955.3087",
+        "lang": "pt",
+        "refcode": "LA 513.3"
+      },
+      {
+        "para_id": "2026.2409",
+        "lang": "ro",
+        "refcode": "CA 513.3"
+      },
+      {
+        "para_id": "1803.2343",
+        "lang": "ru",
+        "refcode": "ХД 513.2"
+      },
+      {
+        "para_id": "12131.2176",
+        "lang": "uk",
+        "refcode": "ХР 413.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2414",
+    "id_prev": "128.2413",
+    "id_next": "128.2415",
+    "refcode_1": "AH",
+    "refcode_2": "513",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 513.4",
+    "refcode_long": "The Adventist Home, p. 513.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Amusements That Unfit for Ordinary Duties</strong>&mdash;We are of that class who believe that it is our privilege every day of our lives to glorify God upon the earth, that we are not to live in this world merely for our own amusement, merely to please ourselves. We are here to benefit humanity and to be a blessing to society; and if we let our minds run in that low channel that many who are seeking only vanity and folly permit their minds to run in, how can we be a benefit to our race and generation? How can we be a blessing to society around us? We cannot innocently indulge in any amusement which will unfit us for the more faithful discharge of ordinary duties.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 336.2\" data-link=\"23.1644\">Ibid., 336</span>.</span></a></sup>",
+    "puborder": 1613,
+    "translations": [
+      {
+        "para_id": "13839.1988",
+        "lang": "bg",
+        "refcode": "ХД 223.3"
+      },
+      {
+        "para_id": "177.2421",
+        "lang": "es",
+        "refcode": "HC 466.4"
+      },
+      {
+        "para_id": "193.2387",
+        "lang": "fr",
+        "refcode": "FC 498.3"
+      },
+      {
+        "para_id": "12869.3030",
+        "lang": "id",
+        "refcode": "MKB 491.5"
+      },
+      {
+        "para_id": "891.1576",
+        "lang": "it",
+        "refcode": "FC 208"
+      },
+      {
+        "para_id": "891.1577",
+        "lang": "it",
+        "refcode": "FC 208.2"
+      },
+      {
+        "para_id": "12178.2031",
+        "lang": "pl",
+        "refcode": "ChD 321.6"
+      },
+      {
+        "para_id": "1955.3089",
+        "lang": "pt",
+        "refcode": "LA 513.4"
+      },
+      {
+        "para_id": "1955.3088",
+        "lang": "pt",
+        "refcode": "LA 513"
+      },
+      {
+        "para_id": "2026.2410",
+        "lang": "ro",
+        "refcode": "CA 513.4"
+      },
+      {
+        "para_id": "1803.2344",
+        "lang": "ru",
+        "refcode": "ХД 513.3"
+      },
+      {
+        "para_id": "12131.2179",
+        "lang": "uk",
+        "refcode": "ХР 414.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2415",
+    "id_prev": "128.2414",
+    "id_next": "128.2418",
+    "refcode_1": "AH",
+    "refcode_2": "513",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 513.5",
+    "refcode_long": "The Adventist Home, p. 513.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The welfare of the soul should not be endangered by the gratification of any selfish desire, and we should shun any amusement which so fascinates the mind that the ordinary duties of life seem tame and uninteresting. <span class=\"page-break\" data-page=\"514\"></span> By indulgence in such pleasure the mind becomes confirmed in a wrong direction, and Satan so perverts the thoughts that wrong is made to appear as right. Then restraint and submission to parents, such as Christ rendered to His parents, seem unbearable.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"YI 7-27-1893.5\" data-link=\"469.1137\">The Youth&apos;s Instructor, July 27, 1893</span>.</span></a></sup>",
+    "puborder": 1614,
+    "translations": [
+      {
+        "para_id": "13839.1989",
+        "lang": "bg",
+        "refcode": "ХД 223.4"
+      },
+      {
+        "para_id": "177.2422",
+        "lang": "es",
+        "refcode": "HC 466.5"
+      },
+      {
+        "para_id": "193.2388",
+        "lang": "fr",
+        "refcode": "FC 498.4"
+      },
+      {
+        "para_id": "12869.3033",
+        "lang": "id",
+        "refcode": "MKB 492.1"
+      },
+      {
+        "para_id": "891.1578",
+        "lang": "it",
+        "refcode": "FC 208.3"
+      },
+      {
+        "para_id": "12178.2034",
+        "lang": "pl",
+        "refcode": "ChD 322.1"
+      },
+      {
+        "para_id": "1955.3090",
+        "lang": "pt",
+        "refcode": "LA 513.5"
+      },
+      {
+        "para_id": "2026.2411",
+        "lang": "ro",
+        "refcode": "CA 513.5"
+      },
+      {
+        "para_id": "1803.2345",
+        "lang": "ru",
+        "refcode": "ХД 513.4"
+      },
+      {
+        "para_id": "12131.2180",
+        "lang": "uk",
+        "refcode": "ХР 414.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2418",
+    "id_prev": "128.2415",
+    "id_next": "128.2419",
+    "refcode_1": "AH",
+    "refcode_2": "514",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 514.1",
+    "refcode_long": "The Adventist Home, p. 514.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Objectionable Social Gatherings Depicted</strong>&mdash;There are many things which are right in themselves, but which, perverted by Satan, prove a snare to the unwary.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 144, 1906\" data-link=\"14071.8398001\">Letter 144, 1906</span>.</span></a></sup>",
+    "puborder": 1615,
+    "translations": [
+      {
+        "para_id": "13839.1990",
+        "lang": "bg",
+        "refcode": "ХД 223.5"
+      },
+      {
+        "para_id": "177.2425",
+        "lang": "es",
+        "refcode": "HC 467.1"
+      },
+      {
+        "para_id": "193.2390",
+        "lang": "fr",
+        "refcode": "FC 499.1"
+      },
+      {
+        "para_id": "12869.3035",
+        "lang": "id",
+        "refcode": "MKB 492.2"
+      },
+      {
+        "para_id": "12178.2035",
+        "lang": "pl",
+        "refcode": "ChD 322.2"
+      },
+      {
+        "para_id": "1955.3093",
+        "lang": "pt",
+        "refcode": "LA 514"
+      },
+      {
+        "para_id": "1955.3094",
+        "lang": "pt",
+        "refcode": "LA 514.1"
+      },
+      {
+        "para_id": "2026.2414",
+        "lang": "ro",
+        "refcode": "CA 514.1"
+      },
+      {
+        "para_id": "1803.2348",
+        "lang": "ru",
+        "refcode": "ХД 514.1"
+      },
+      {
+        "para_id": "12131.2181",
+        "lang": "uk",
+        "refcode": "ХР 414.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2419",
+    "id_prev": "128.2418",
+    "id_next": "128.2420",
+    "refcode_1": "AH",
+    "refcode_2": "514",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 514.2",
+    "refcode_long": "The Adventist Home, p. 514.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As ordinarily conducted, parties of pleasure ... are a hindrance to real growth, either of mind or of character. Frivolous associations, habits of extravagance, of pleasure seeking, and too often of dissipation are formed that shape the whole life for evil. In place of such amusements parents and teachers can do much to supply diversions wholesome and life giving.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ed 211.1\" data-link=\"29.1109\">Education, 211</span>.</span></a></sup>",
+    "puborder": 1616,
+    "translations": [
+      {
+        "para_id": "13839.1991",
+        "lang": "bg",
+        "refcode": "ХД 223.6"
+      },
+      {
+        "para_id": "177.2426",
+        "lang": "es",
+        "refcode": "HC 467.2"
+      },
+      {
+        "para_id": "193.2391",
+        "lang": "fr",
+        "refcode": "FC 499.2"
+      },
+      {
+        "para_id": "12869.3036",
+        "lang": "id",
+        "refcode": "MKB 492.3"
+      },
+      {
+        "para_id": "12178.2035",
+        "lang": "pl",
+        "refcode": "ChD 322.2"
+      },
+      {
+        "para_id": "1955.3095",
+        "lang": "pt",
+        "refcode": "LA 514.2"
+      },
+      {
+        "para_id": "2026.2415",
+        "lang": "ro",
+        "refcode": "CA 514.2"
+      },
+      {
+        "para_id": "1803.2349",
+        "lang": "ru",
+        "refcode": "ХД 514.2"
+      },
+      {
+        "para_id": "12131.2181",
+        "lang": "uk",
+        "refcode": "ХР 414.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2420",
+    "id_prev": "128.2419",
+    "id_next": "128.2421",
+    "refcode_1": "AH",
+    "refcode_2": "514",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 514.3",
+    "refcode_long": "The Adventist Home, p. 514.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There has been a class of social gatherings in&mdash;&mdash;, ... parties of pleasure that have been a disgrace to our institutions and to the church. They encourage pride of dress, pride of appearance, self-gratification, hilarity, and trifling. Satan is entertained as an honored guest, and he takes possession of those who patronize these gatherings.",
+    "puborder": 1617,
+    "translations": [
+      {
+        "para_id": "13839.1992",
+        "lang": "bg",
+        "refcode": "ХД 223.7"
+      },
+      {
+        "para_id": "177.2427",
+        "lang": "es",
+        "refcode": "HC 467.3"
+      },
+      {
+        "para_id": "193.2392",
+        "lang": "fr",
+        "refcode": "FC 499.3"
+      },
+      {
+        "para_id": "12869.3037",
+        "lang": "id",
+        "refcode": "MKB 492.4"
+      },
+      {
+        "para_id": "12178.2036",
+        "lang": "pl",
+        "refcode": "ChD 322.3"
+      },
+      {
+        "para_id": "1955.3096",
+        "lang": "pt",
+        "refcode": "LA 514.3"
+      },
+      {
+        "para_id": "2026.2416",
+        "lang": "ro",
+        "refcode": "CA 514.3"
+      },
+      {
+        "para_id": "1803.2350",
+        "lang": "ru",
+        "refcode": "ХД 514.3"
+      },
+      {
+        "para_id": "12131.2182",
+        "lang": "uk",
+        "refcode": "ХР 414.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2421",
+    "id_prev": "128.2420",
+    "id_next": "128.2424",
+    "refcode_1": "AH",
+    "refcode_2": "514",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 514.4",
+    "refcode_long": "The Adventist Home, p. 514.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "A view of one such company was presented to me, where were assembled those who profess to believe the truth. One was seated at the instrument of music, and such songs were poured forth as made the watching angels weep. There was mirth, there was coarse laughter, there was abundance of enthusiasm and a kind of inspiration; but the joy was such as Satan only is able to create. This is an enthusiasm and infatuation of which all who love God will be ashamed. It prepares the participants for unholy thought and action. I have reason to <span class=\"page-break\" data-page=\"515\"></span> think that some who were engaged in that scene heartily repented of the shameful performance.",
+    "puborder": 1618,
+    "translations": [
+      {
+        "para_id": "13839.1993",
+        "lang": "bg",
+        "refcode": "ХД 223.8"
+      },
+      {
+        "para_id": "177.2428",
+        "lang": "es",
+        "refcode": "HC 467.4"
+      },
+      {
+        "para_id": "193.2393",
+        "lang": "fr",
+        "refcode": "FC 499.4"
+      },
+      {
+        "para_id": "12869.3038",
+        "lang": "id",
+        "refcode": "MKB 492.5"
+      },
+      {
+        "para_id": "12178.2037",
+        "lang": "pl",
+        "refcode": "ChD 322.4"
+      },
+      {
+        "para_id": "1955.3097",
+        "lang": "pt",
+        "refcode": "LA 514.4"
+      },
+      {
+        "para_id": "2026.2417",
+        "lang": "ro",
+        "refcode": "CA 514.4"
+      },
+      {
+        "para_id": "1803.2351",
+        "lang": "ru",
+        "refcode": "ХД 514.4"
+      },
+      {
+        "para_id": "12131.2185",
+        "lang": "uk",
+        "refcode": "ХР 415.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2424",
+    "id_prev": "128.2421",
+    "id_next": "128.2425",
+    "refcode_1": "AH",
+    "refcode_2": "515",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 515.1",
+    "refcode_long": "The Adventist Home, p. 515.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Many such gatherings have been presented to me. I have seen the gaiety, the display in dress, the personal adornment. All want to be thought brilliant, and give themselves up to hilarity, foolish jesting, cheap, coarse flattery, and uproarious laughter. The eyes sparkle, the cheek is flushed, conscience sleeps. With eating and drinking and merrymaking, they do their best to forget God. The scene of pleasure is their paradise. And Heaven is looking on, seeing and hearing all.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 339.1\" data-link=\"23.1659\">Counsels to Teachers, Parents, and Students, 339, 340</span>.</span></a></sup>",
+    "puborder": 1619,
+    "translations": [
+      {
+        "para_id": "13839.1996",
+        "lang": "bg",
+        "refcode": "ХД 224.1"
+      },
+      {
+        "para_id": "177.2429",
+        "lang": "es",
+        "refcode": "HC 467.5"
+      },
+      {
+        "para_id": "193.2394",
+        "lang": "fr",
+        "refcode": "FC 499.5"
+      },
+      {
+        "para_id": "12869.3041",
+        "lang": "id",
+        "refcode": "MKB 493.1"
+      },
+      {
+        "para_id": "12178.2040",
+        "lang": "pl",
+        "refcode": "ChD 323.1"
+      },
+      {
+        "para_id": "1955.3099",
+        "lang": "pt",
+        "refcode": "LA 515.1"
+      },
+      {
+        "para_id": "2026.2420",
+        "lang": "ro",
+        "refcode": "CA 515.1"
+      },
+      {
+        "para_id": "1803.2354",
+        "lang": "ru",
+        "refcode": "ХД 515.1"
+      },
+      {
+        "para_id": "12131.2186",
+        "lang": "uk",
+        "refcode": "ХР 415.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2425",
+    "id_prev": "128.2424",
+    "id_next": "128.2426",
+    "refcode_1": "AH",
+    "refcode_2": "515",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 515.2",
+    "refcode_long": "The Adventist Home, p. 515.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Gatherings for amusement confuse faith and make the motive mixed and uncertain. The Lord accepts no divided heart. He wants the whole man.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 345.1\" data-link=\"23.1689\">Ibid., 345</span>.</span></a></sup>",
+    "puborder": 1620,
+    "translations": [
+      {
+        "para_id": "13839.1997",
+        "lang": "bg",
+        "refcode": "ХД 224.2"
+      },
+      {
+        "para_id": "177.2432",
+        "lang": "es",
+        "refcode": "HC 468.1"
+      },
+      {
+        "para_id": "193.2396",
+        "lang": "fr",
+        "refcode": "FC 500.1"
+      },
+      {
+        "para_id": "12869.3042",
+        "lang": "id",
+        "refcode": "MKB 493.2"
+      },
+      {
+        "para_id": "12178.2041",
+        "lang": "pl",
+        "refcode": "ChD 323.2"
+      },
+      {
+        "para_id": "1955.3100",
+        "lang": "pt",
+        "refcode": "LA 515.2"
+      },
+      {
+        "para_id": "2026.2421",
+        "lang": "ro",
+        "refcode": "CA 515.2"
+      },
+      {
+        "para_id": "1803.2355",
+        "lang": "ru",
+        "refcode": "ХД 515.2"
+      },
+      {
+        "para_id": "12131.2187",
+        "lang": "uk",
+        "refcode": "ХР 415.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2426",
+    "id_prev": "128.2425",
+    "id_next": "128.2427",
+    "refcode_1": "AH",
+    "refcode_2": "515",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 515.3",
+    "refcode_long": "The Adventist Home, p. 515.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Few Popular Amusements Are Safe</strong>&mdash;Many of the amusements popular in the world today, even with those who claim to be Christians, tend to the same end as did those of the heathen. There are indeed few among them that Satan does not turn to account in destroying souls. Through the drama he has worked for ages to excite passion and glorify vice. The opera, with its fascinating display and bewildering music, the masquerade, the dance, the card table, Satan employs to break down the barriers of principle and open the door to sensual indulgence. In every gathering for pleasure where pride is fostered or appetite indulged, where one is led to forget God and lose sight of eternal interests, there Satan is binding his chains about the soul.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 459.1\" data-link=\"84.2116\">Patriarchs and Prophets, 459, 460</span>.</span></a></sup>",
+    "puborder": 1621,
+    "translations": [
+      {
+        "para_id": "13839.1998",
+        "lang": "bg",
+        "refcode": "ХД 224.3"
+      },
+      {
+        "para_id": "177.2433",
+        "lang": "es",
+        "refcode": "HC 468.2"
+      },
+      {
+        "para_id": "193.2397",
+        "lang": "fr",
+        "refcode": "FC 500.2"
+      },
+      {
+        "para_id": "12869.3044",
+        "lang": "id",
+        "refcode": "MKB 493.3"
+      },
+      {
+        "para_id": "12178.2042",
+        "lang": "pl",
+        "refcode": "ChD 323.3"
+      },
+      {
+        "para_id": "1955.3102",
+        "lang": "pt",
+        "refcode": "LA 515.3"
+      },
+      {
+        "para_id": "1955.3101",
+        "lang": "pt",
+        "refcode": "LA 515"
+      },
+      {
+        "para_id": "2026.2422",
+        "lang": "ro",
+        "refcode": "CA 515.3"
+      },
+      {
+        "para_id": "1803.2356",
+        "lang": "ru",
+        "refcode": "ХД 515.3"
+      },
+      {
+        "para_id": "12131.2188",
+        "lang": "uk",
+        "refcode": "ХР 415.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2427",
+    "id_prev": "128.2426",
+    "id_next": "128.2430",
+    "refcode_1": "AH",
+    "refcode_2": "515",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 515.4",
+    "refcode_long": "The Adventist Home, p. 515.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The true Christian will not desire to enter any place of amusement or engage in any diversion upon which he cannot ask the blessing of God. He will not be found at the theater, the billiard hall, or the bowling saloon. He will not unite with the gay waltzers or indulge in any <span class=\"page-break\" data-page=\"516\"></span> other bewitching pleasure that will banish Christ from the mind.",
+    "puborder": 1622,
+    "translations": [
+      {
+        "para_id": "13839.1999",
+        "lang": "bg",
+        "refcode": "ХД 224.4"
+      },
+      {
+        "para_id": "177.2434",
+        "lang": "es",
+        "refcode": "HC 468.3"
+      },
+      {
+        "para_id": "193.2398",
+        "lang": "fr",
+        "refcode": "FC 500.3"
+      },
+      {
+        "para_id": "12869.3047",
+        "lang": "id",
+        "refcode": "MKB 494.1"
+      },
+      {
+        "para_id": "12178.2043",
+        "lang": "pl",
+        "refcode": "ChD 323.4"
+      },
+      {
+        "para_id": "1955.3103",
+        "lang": "pt",
+        "refcode": "LA 515.4"
+      },
+      {
+        "para_id": "2026.2423",
+        "lang": "ro",
+        "refcode": "CA 515.4"
+      },
+      {
+        "para_id": "1803.2548",
+        "lang": "ru",
+        "refcode": "ХД 515.4"
+      },
+      {
+        "para_id": "12131.2190",
+        "lang": "uk",
+        "refcode": "ХР 416.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2430",
+    "id_prev": "128.2427",
+    "id_next": "128.2431",
+    "refcode_1": "AH",
+    "refcode_2": "516",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 516.1",
+    "refcode_long": "The Adventist Home, p. 516.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To those who plead for these diversions we answer, We cannot indulge in them in the name of Jesus of Nazareth. The blessing of God would not be invoked upon the hour spent at the theater or in the dance. No Christian would wish to meet death in such a place. No one would wish to be found there when Christ shall come.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 2-28-1882\" data-link=\"821.4219\">The Review and Herald, February 28, 1882</span>.</span></a></sup>",
+    "puborder": 1623,
+    "translations": [
+      {
+        "para_id": "13839.2000",
+        "lang": "bg",
+        "refcode": "ХД 224.5"
+      },
+      {
+        "para_id": "177.2435",
+        "lang": "es",
+        "refcode": "HC 468.4"
+      },
+      {
+        "para_id": "193.2399",
+        "lang": "fr",
+        "refcode": "FC 500.4"
+      },
+      {
+        "para_id": "12869.3048",
+        "lang": "id",
+        "refcode": "MKB 494.2"
+      },
+      {
+        "para_id": "12178.2044",
+        "lang": "pl",
+        "refcode": "ChD 323.5"
+      },
+      {
+        "para_id": "1955.3105",
+        "lang": "pt",
+        "refcode": "LA 516.1"
+      },
+      {
+        "para_id": "2026.2426",
+        "lang": "ro",
+        "refcode": "CA 516.1"
+      },
+      {
+        "para_id": "1803.2359",
+        "lang": "ru",
+        "refcode": "ХД 516.1"
+      },
+      {
+        "para_id": "12131.2191",
+        "lang": "uk",
+        "refcode": "ХР 416.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2431",
+    "id_prev": "128.2430",
+    "id_next": "128.2432",
+    "refcode_1": "AH",
+    "refcode_2": "516",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 516.2",
+    "refcode_long": "The Adventist Home, p. 516.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Theater the Hotbed of Immorality</strong>&mdash;Among the most dangerous resorts for pleasure is the theater. Instead of being a school for morality and virtue, as is so often claimed, it is the very hotbed of immorality. Vicious habits and sinful propensities are strengthened and confirmed by these entertainments. Low songs, lewd gestures, expressions, and attitudes deprave the imagination and debase the morals. Every youth who habitually attends such exhibitions will be corrupted in principle. There is no influence in our land more powerful to poison the imagination, to destroy religious impressions, and to blunt the relish for the tranquil pleasures and sober realities of life than theatrical amusements. The love for these scenes increases with every indulgence as the desire for intoxicating drink strengthens with its use. The only safe course is to shun the theater, the circus, and every other questionable place of amusement.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">14<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 334.1\" data-link=\"23.1634\">Counsels to Teachers, Parents, and Students, 334, 335</span>.</span></a></sup>",
+    "puborder": 1624,
+    "translations": [
+      {
+        "para_id": "13839.2001",
+        "lang": "bg",
+        "refcode": "ХД 224.6"
+      },
+      {
+        "para_id": "177.2438",
+        "lang": "es",
+        "refcode": "HC 469.1"
+      },
+      {
+        "para_id": "193.2400",
+        "lang": "fr",
+        "refcode": "FC 500.5"
+      },
+      {
+        "para_id": "12869.3050",
+        "lang": "id",
+        "refcode": "MKB 494.3"
+      },
+      {
+        "para_id": "1955.3107",
+        "lang": "pt",
+        "refcode": "LA 516"
+      },
+      {
+        "para_id": "1955.3108",
+        "lang": "pt",
+        "refcode": "LA 516.3"
+      },
+      {
+        "para_id": "2026.2427",
+        "lang": "ro",
+        "refcode": "CA 516.2"
+      },
+      {
+        "para_id": "1803.2360",
+        "lang": "ru",
+        "refcode": "ХД 516.2"
+      },
+      {
+        "para_id": "12131.2192",
+        "lang": "uk",
+        "refcode": "ХР 416.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2432",
+    "id_prev": "128.2431",
+    "id_next": "128.2435",
+    "refcode_1": "AH",
+    "refcode_2": "516",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 516.3",
+    "refcode_long": "The Adventist Home, p. 516.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Dancing&mdash;a School of Depravity</strong>&mdash;In many religious families dancing and card playing are made a parlor pastime. It is urged that these are quiet home amusements, which may be safely enjoyed under the parental eye. But a love for these exciting pleasures is thus cultivated, and that which was considered harmless <span class=\"page-break\" data-page=\"517\"></span> at home will not long be regarded dangerous abroad. It is yet to be ascertained that there is any good to be obtained from these amusements. They do not give vigor to the body nor rest to the mind. They do not implant in the soul one virtuous or holy sentiment. On the contrary, they destroy all relish for serious thought and for religious services. It is true that there is a wide contrast between the better class of select parties and the promiscuous and degraded assemblies of the low dance house. Yet all are steps in the path of dissipation.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">15<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 2-28-1882\" data-link=\"821.4219\">The Review and Herald, February 28, 1882</span>.</span></a></sup>",
+    "puborder": 1625,
+    "translations": [
+      {
+        "para_id": "13839.2003",
+        "lang": "bg",
+        "refcode": "ХД 225.1"
+      },
+      {
+        "para_id": "177.2439",
+        "lang": "es",
+        "refcode": "HC 469.2"
+      },
+      {
+        "para_id": "193.2403",
+        "lang": "fr",
+        "refcode": "FC 501.1"
+      },
+      {
+        "para_id": "12869.3052",
+        "lang": "id",
+        "refcode": "MKB 494.4"
+      },
+      {
+        "para_id": "12178.2046",
+        "lang": "pl",
+        "refcode": "ChD 324.1"
+      },
+      {
+        "para_id": "1955.3109",
+        "lang": "pt",
+        "refcode": "LA 516"
+      },
+      {
+        "para_id": "1955.3110",
+        "lang": "pt",
+        "refcode": "LA 516.4"
+      },
+      {
+        "para_id": "2026.2428",
+        "lang": "ro",
+        "refcode": "CA 516.3"
+      },
+      {
+        "para_id": "1803.2361",
+        "lang": "ru",
+        "refcode": "ХД 516.3"
+      },
+      {
+        "para_id": "12131.2193",
+        "lang": "uk",
+        "refcode": "ХР 416.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2435",
+    "id_prev": "128.2432",
+    "id_next": "128.2436",
+    "refcode_1": "AH",
+    "refcode_2": "517",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 517.1",
+    "refcode_long": "The Adventist Home, p. 517.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>David&apos;s Dancing Not a Precedent</strong>&mdash;David&apos;s dancing in reverent joy before God has been cited by pleasure lovers in justification of the fashionable modern dance, but there is no ground for such an argument. In our day dancing is associated with folly and midnight reveling. Health and morals are sacrificed to pleasure. By the frequenters of the ballroom God is not an object of thought and reverence; prayer or the song of praise would be felt to be out of place in their assemblies. This test should be decisive. Amusements that have a tendency to weaken the love for sacred things and lessen our joy in the service of God are not to be sought by Christians. The music and dancing in joyful praise to God at the removal of the ark had not the faintest resemblance to the dissipation of modern dancing. The one tended to the remembrance of God and exalted His holy name. The other is a device of Satan to cause men to forget God and to dishonor Him.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">16<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 707.1\" data-link=\"84.3327\">Patriarchs and Prophets, 707</span>.</span></a></sup>",
+    "puborder": 1626,
+    "translations": [
+      {
+        "para_id": "13839.2004",
+        "lang": "bg",
+        "refcode": "ХД 225.2"
+      },
+      {
+        "para_id": "177.2441",
+        "lang": "es",
+        "refcode": "HC 470.1"
+      },
+      {
+        "para_id": "193.2404",
+        "lang": "fr",
+        "refcode": "FC 501.2"
+      },
+      {
+        "para_id": "12869.3056",
+        "lang": "id",
+        "refcode": "MKB 495.1"
+      },
+      {
+        "para_id": "12178.2047",
+        "lang": "pl",
+        "refcode": "ChD 324.2"
+      },
+      {
+        "para_id": "1955.3114",
+        "lang": "pt",
+        "refcode": "LA 517.1"
+      },
+      {
+        "para_id": "1955.3113",
+        "lang": "pt",
+        "refcode": "LA 517"
+      },
+      {
+        "para_id": "2026.2431",
+        "lang": "ro",
+        "refcode": "CA 517.1"
+      },
+      {
+        "para_id": "1803.2364",
+        "lang": "ru",
+        "refcode": "ХД 517.1"
+      },
+      {
+        "para_id": "12131.2196",
+        "lang": "uk",
+        "refcode": "ХР 417.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2436",
+    "id_prev": "128.2435",
+    "id_next": "128.2439",
+    "refcode_1": "AH",
+    "refcode_2": "517",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 517.2",
+    "refcode_long": "The Adventist Home, p. 517.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Card Playing&mdash;a Prelude to Crime</strong>&mdash;Card playing should be prohibited. The associations and tendencies are dangerous. The prince of the powers of darkness presides in the gaming room and wherever there is card <span class=\"page-break\" data-page=\"518\"></span> playing. Evil angels are familiar guests in these places. There is nothing in such amusements beneficial to soul or body. There is nothing to strengthen the intellect, nothing to store it with valuable ideas for future use. The conversation is upon trivial and degrading subjects.... Expertness in handling cards will soon lead to a desire to put this knowledge and tact to some use for personal benefit. A small sum is staked, and then a larger, until a thirst for gaming is acquired, which leads to certain ruin. How many has this pernicious amusement led to every sinful practice, to poverty, to prison, to murder, and to the gallows! And yet many parents do not see the terrible gulf of ruin that is yawning for our youth.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">17<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 652.1\" data-link=\"114.3234\">Testimonies for the Church 4:652</span>.</span></a></sup>",
+    "puborder": 1627,
+    "translations": [
+      {
+        "para_id": "13839.2005",
+        "lang": "bg",
+        "refcode": "ХД 225.3"
+      },
+      {
+        "para_id": "177.2442",
+        "lang": "es",
+        "refcode": "HC 470.2"
+      },
+      {
+        "para_id": "193.2407",
+        "lang": "fr",
+        "refcode": "FC 502.1"
+      },
+      {
+        "para_id": "12869.3058",
+        "lang": "id",
+        "refcode": "MKB 495.2"
+      },
+      {
+        "para_id": "12178.2048",
+        "lang": "pl",
+        "refcode": "ChD 324.3"
+      },
+      {
+        "para_id": "1955.3115",
+        "lang": "pt",
+        "refcode": "LA 517"
+      },
+      {
+        "para_id": "1955.3116",
+        "lang": "pt",
+        "refcode": "LA 517.2"
+      },
+      {
+        "para_id": "2026.2432",
+        "lang": "ro",
+        "refcode": "CA 517.2"
+      },
+      {
+        "para_id": "1803.2365",
+        "lang": "ru",
+        "refcode": "ХД 517.2"
+      },
+      {
+        "para_id": "12131.2197",
+        "lang": "uk",
+        "refcode": "ХР 417.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2439",
+    "id_prev": "128.2436",
+    "id_next": "128.2441",
+    "refcode_1": "AH",
+    "refcode_2": "518",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 518.1",
+    "refcode_long": "The Adventist Home, p. 518.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Fear of Being Singular</strong>&mdash;Professed Christians who are superficial in character and religious experience are used by the tempter as his decoys. This class are always ready for the gatherings for pleasure or sport, and their influence attracts others. Young men and women who have tried to be Bible Christians are persuaded to join the party, and they are drawn into the ring. They do not prayerfully consult the divine standard to learn what Christ has said in regard to the fruit to be borne on the Christian tree. They do not discern that these entertainments are really Satan&apos;s banquet, prepared to keep souls from accepting the call to the marriage supper of the Lamb and preventing them from receiving the white robe of character, which is the righteousness of Christ. They become confused as to what it is right for them as Christians to do. They do not want to be thought singular, and naturally incline to follow the example of others. Thus they come under the influence of those who have never had the divine touch on heart or mind.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">18<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 340.1\" data-link=\"23.1663\">Counsels to Teachers, Parents, and Students, 340, 341</span>.</span></a></sup>",
+    "puborder": 1628,
+    "translations": [
+      {
+        "para_id": "13839.2006",
+        "lang": "bg",
+        "refcode": "ХД 225.4"
+      },
+      {
+        "para_id": "177.2445",
+        "lang": "es",
+        "refcode": "HC 471.1"
+      },
+      {
+        "para_id": "193.2408",
+        "lang": "fr",
+        "refcode": "FC 502.2"
+      },
+      {
+        "para_id": "12869.3062",
+        "lang": "id",
+        "refcode": "MKB 496.1"
+      },
+      {
+        "para_id": "891.1579",
+        "lang": "it",
+        "refcode": "FC 208"
+      },
+      {
+        "para_id": "891.1580",
+        "lang": "it",
+        "refcode": "FC 208.4"
+      },
+      {
+        "para_id": "12178.2051",
+        "lang": "pl",
+        "refcode": "ChD 325.1"
+      },
+      {
+        "para_id": "1955.3119",
+        "lang": "pt",
+        "refcode": "LA 518"
+      },
+      {
+        "para_id": "1955.3120",
+        "lang": "pt",
+        "refcode": "LA 518.1"
+      },
+      {
+        "para_id": "2026.2435",
+        "lang": "ro",
+        "refcode": "CA 518.1"
+      },
+      {
+        "para_id": "1803.2368",
+        "lang": "ru",
+        "refcode": "ХД 518.1"
+      },
+      {
+        "para_id": "12131.2198",
+        "lang": "uk",
+        "refcode": "ХР 417.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2441",
+    "id_prev": "128.2439",
+    "id_next": "128.2442",
+    "refcode_1": "AH",
+    "refcode_2": "519",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 519.1",
+    "refcode_long": "The Adventist Home, p. 519.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Avoid the First Step Toward Indulgence</strong>&mdash;You may see no real danger in taking the first step in frivolity and pleasure seeking and think that when you desire to change your course, you will be able to do right as easily as before you yielded yourselves to do wrong. But this is a mistake. By the choice of evil companions many have been led step by step from the path of virtue into depths of disobedience and dissipation to which at one time they would have thought it impossible for them to sink.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">19<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 224.1\" data-link=\"23.1073\">Ibid., 224</span>.</span></a></sup>",
+    "puborder": 1629,
+    "translations": [
+      {
+        "para_id": "13839.2009",
+        "lang": "bg",
+        "refcode": "ХД 226.1"
+      },
+      {
+        "para_id": "177.2446",
+        "lang": "es",
+        "refcode": "HC 471.2"
+      },
+      {
+        "para_id": "193.2411",
+        "lang": "fr",
+        "refcode": "FC 503.1"
+      },
+      {
+        "para_id": "12869.3064",
+        "lang": "id",
+        "refcode": "MKB 496.2"
+      },
+      {
+        "para_id": "891.1584",
+        "lang": "it",
+        "refcode": "FC 209.1"
+      },
+      {
+        "para_id": "891.1583",
+        "lang": "it",
+        "refcode": "FC 209"
+      },
+      {
+        "para_id": "12178.2052",
+        "lang": "pl",
+        "refcode": "ChD 325.2"
+      },
+      {
+        "para_id": "1955.3122",
+        "lang": "pt",
+        "refcode": "LA 519"
+      },
+      {
+        "para_id": "1955.3123",
+        "lang": "pt",
+        "refcode": "LA 519.1"
+      },
+      {
+        "para_id": "2026.2437",
+        "lang": "ro",
+        "refcode": "CA 519.1"
+      },
+      {
+        "para_id": "1803.2370",
+        "lang": "ru",
+        "refcode": "ХД 519.1"
+      },
+      {
+        "para_id": "12131.2201",
+        "lang": "uk",
+        "refcode": "ХР 418.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2442",
+    "id_prev": "128.2441",
+    "id_next": "128.2443",
+    "refcode_1": "AH",
+    "refcode_2": "519",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 519.2",
+    "refcode_long": "The Adventist Home, p. 519.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Clear Declaration of Christian Principles</strong>&mdash;If you truly belong to Christ, you will have opportunities for witnessing for Him. You will be invited to attend places of amusement, and then it will be that you will have an opportunity to testify to your Lord. If you are true to Christ then, you will not try to form excuses for your nonattendance, but will plainly and modestly declare that you are a child of God, and your principles would not allow you to be in a place, even for one occasion, where you could not invite the presence of your Lord.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">20<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"YI 5-4-1893.5\" data-link=\"469.1023\">The Youth&apos;s Instructor, May 4, 1893</span>.</span></a></sup>",
+    "puborder": 1630,
+    "translations": [
+      {
+        "para_id": "13839.2010",
+        "lang": "bg",
+        "refcode": "ХД 226.2"
+      },
+      {
+        "para_id": "177.2447",
+        "lang": "es",
+        "refcode": "HC 471.3"
+      },
+      {
+        "para_id": "193.2412",
+        "lang": "fr",
+        "refcode": "FC 503.2"
+      },
+      {
+        "para_id": "12869.3068",
+        "lang": "id",
+        "refcode": "MKB 497.1"
+      },
+      {
+        "para_id": "891.1586",
+        "lang": "it",
+        "refcode": "FC 209.2"
+      },
+      {
+        "para_id": "891.1585",
+        "lang": "it",
+        "refcode": "FC 209"
+      },
+      {
+        "para_id": "12178.2053",
+        "lang": "pl",
+        "refcode": "ChD 325.3"
+      },
+      {
+        "para_id": "1955.3125",
+        "lang": "pt",
+        "refcode": "LA 519.2"
+      },
+      {
+        "para_id": "1955.3124",
+        "lang": "pt",
+        "refcode": "LA 519"
+      },
+      {
+        "para_id": "2026.2438",
+        "lang": "ro",
+        "refcode": "CA 519.2"
+      },
+      {
+        "para_id": "1803.2371",
+        "lang": "ru",
+        "refcode": "ХД 519.2"
+      },
+      {
+        "para_id": "12131.2202",
+        "lang": "uk",
+        "refcode": "ХР 418.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2443",
+    "id_prev": "128.2442",
+    "id_next": "128.2444",
+    "refcode_1": "AH",
+    "refcode_2": "519",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 519.3",
+    "refcode_long": "The Adventist Home, p. 519.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is God&apos;s purpose to manifest through His people the principles of His kingdom. That in life and character they may reveal these principles, He desires to separate them from the customs, habits, and practices of the world....",
+    "puborder": 1631,
+    "translations": [
+      {
+        "para_id": "13839.2011",
+        "lang": "bg",
+        "refcode": "ХД 226.3"
+      },
+      {
+        "para_id": "177.2450",
+        "lang": "es",
+        "refcode": "HC 472.1"
+      },
+      {
+        "para_id": "193.2413",
+        "lang": "fr",
+        "refcode": "FC 503.3"
+      },
+      {
+        "para_id": "12869.3069",
+        "lang": "id",
+        "refcode": "MKB 497.2"
+      },
+      {
+        "para_id": "891.1587",
+        "lang": "it",
+        "refcode": "FC 209.3"
+      },
+      {
+        "para_id": "12178.2053",
+        "lang": "pl",
+        "refcode": "ChD 325.3"
+      },
+      {
+        "para_id": "1955.3126",
+        "lang": "pt",
+        "refcode": "LA 519.3"
+      },
+      {
+        "para_id": "2026.2439",
+        "lang": "ro",
+        "refcode": "CA 519.3"
+      },
+      {
+        "para_id": "1803.2372",
+        "lang": "ru",
+        "refcode": "ХД 519.3"
+      },
+      {
+        "para_id": "12131.2203",
+        "lang": "uk",
+        "refcode": "ХР 418.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2444",
+    "id_prev": "128.2443",
+    "id_next": "128.2445",
+    "refcode_1": "AH",
+    "refcode_2": "519",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 519.4",
+    "refcode_long": "The Adventist Home, p. 519.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Wonderful scenes are opening before us; and at this time a living testimony is to be borne in the lives of God&apos;s professed people so that the world may see that in this age, when evil reigns on every side, there is yet a people who are laying aside their will and are seeking to do God&apos;s will&mdash;a people in whose hearts and lives God&apos;s law is written.",
+    "puborder": 1632,
+    "translations": [
+      {
+        "para_id": "13839.2012",
+        "lang": "bg",
+        "refcode": "ХД 226.4"
+      },
+      {
+        "para_id": "177.2451",
+        "lang": "es",
+        "refcode": "HC 472.2"
+      },
+      {
+        "para_id": "193.2414",
+        "lang": "fr",
+        "refcode": "FC 503.4"
+      },
+      {
+        "para_id": "12869.3070",
+        "lang": "id",
+        "refcode": "MKB 497.3"
+      },
+      {
+        "para_id": "891.1588",
+        "lang": "it",
+        "refcode": "FC 209.4"
+      },
+      {
+        "para_id": "12178.2056",
+        "lang": "pl",
+        "refcode": "ChD 326.1"
+      },
+      {
+        "para_id": "1955.3127",
+        "lang": "pt",
+        "refcode": "LA 519.4"
+      },
+      {
+        "para_id": "2026.2440",
+        "lang": "ro",
+        "refcode": "CA 519.4"
+      },
+      {
+        "para_id": "1803.2373",
+        "lang": "ru",
+        "refcode": "ХД 519.4"
+      },
+      {
+        "para_id": "12131.2204",
+        "lang": "uk",
+        "refcode": "ХР 418.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2445",
+    "id_prev": "128.2444",
+    "id_next": "128.2449",
+    "refcode_1": "AH",
+    "refcode_2": "519",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 519.5",
+    "refcode_long": "The Adventist Home, p. 519.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God expects those who bear the name of Christ to represent Him. Their thoughts are to be pure, their words <span class=\"page-break\" data-page=\"520\"></span> noble and uplifting. The religion of Christ is to be interwoven with all that they do and say.... God desires His people to show by their lives the advantage of Christianity over worldliness, to show that they are working on a high, holy plane.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">21<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 321.1\" data-link=\"23.1564\">Counsels to Teachers, Parents, and Students, 321-324</span>.</span></a></sup>",
+    "puborder": 1633,
+    "translations": [
+      {
+        "para_id": "13839.2013",
+        "lang": "bg",
+        "refcode": "ХД 226.5"
+      },
+      {
+        "para_id": "177.2451",
+        "lang": "es",
+        "refcode": "HC 472.2"
+      },
+      {
+        "para_id": "193.2416",
+        "lang": "fr",
+        "refcode": "FC 504.1"
+      },
+      {
+        "para_id": "12869.3071",
+        "lang": "id",
+        "refcode": "MKB 497.4"
+      },
+      {
+        "para_id": "891.1589",
+        "lang": "it",
+        "refcode": "FC 209.5"
+      },
+      {
+        "para_id": "12178.2057",
+        "lang": "pl",
+        "refcode": "ChD 326.2"
+      },
+      {
+        "para_id": "1955.3128",
+        "lang": "pt",
+        "refcode": "LA 519.5"
+      },
+      {
+        "para_id": "2026.2441",
+        "lang": "ro",
+        "refcode": "CA 519.5"
+      },
+      {
+        "para_id": "1803.2374",
+        "lang": "ru",
+        "refcode": "ХД 519.5"
+      },
+      {
+        "para_id": "12131.2204",
+        "lang": "uk",
+        "refcode": "ХР 418.4"
+      }
+    ]
+  }
+]

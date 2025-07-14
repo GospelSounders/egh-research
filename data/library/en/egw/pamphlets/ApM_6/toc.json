@@ -1,0 +1,28 @@
+[
+  {
+    "para_id": "6.2",
+    "level": 0,
+    "title": "An Appeal to Mothers",
+    "refcode_short": "ApM i",
+    "dup": null,
+    "mp3": "/mp3/6/0000_eng_f_introductory_remarks_6_2.mp3#duration=169&size=1237732",
+    "puborder": 1
+  },
+  {
+    "para_id": "6.5",
+    "level": 1,
+    "title": "Introductory Remarks",
+    "refcode_short": "ApM iii",
+    "dup": "6.2",
+    "puborder": 3
+  },
+  {
+    "para_id": "6.14",
+    "level": 1,
+    "title": "Appeal to Mothers Relative to the Great Cause of the Physical, Mental and Moral Ruin of Many of the Children of Our Time",
+    "refcode_short": "ApM 5",
+    "dup": null,
+    "mp3": "/mp3/6/0001_eng_f_appeal_to_mothers_relative_to_the_great_cause_of_the_physical_mental_and_moral_6_14.mp3#duration=2844&size=17290589",
+    "puborder": 9
+  }
+]

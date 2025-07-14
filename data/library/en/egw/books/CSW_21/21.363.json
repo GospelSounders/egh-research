@@ -1,0 +1,163 @@
+[
+  {
+    "para_id": "21.363",
+    "id_prev": "21.362",
+    "id_next": "21.364",
+    "refcode_1": "CSW",
+    "refcode_2": "80",
+    "refcode_3": "",
+    "refcode_4": "52",
+    "refcode_short": "CSW 80",
+    "refcode_long": "Counsels on Sabbath School Work, p. 80 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Power of Christlike Tenderness",
+    "puborder": 227,
+    "translations": [
+      {
+        "para_id": "11629.336",
+        "lang": "da",
+        "refcode": "RSSA 80"
+      },
+      {
+        "para_id": "799.353",
+        "lang": "de",
+        "refcode": "RSs 69"
+      },
+      {
+        "para_id": "1711.397",
+        "lang": "es",
+        "refcode": "COES 89"
+      },
+      {
+        "para_id": "1724.395",
+        "lang": "pt",
+        "refcode": "CES 80"
+      },
+      {
+        "para_id": "1917.425",
+        "lang": "pt",
+        "refcode": "CES38 41"
+      },
+      {
+        "para_id": "2719.373",
+        "lang": "ro",
+        "refcode": "SSS 80"
+      },
+      {
+        "para_id": "1873.359",
+        "lang": "ru",
+        "refcode": "ССШ 80"
+      }
+    ]
+  },
+  {
+    "para_id": "21.364",
+    "id_prev": "21.363",
+    "id_next": "21.367",
+    "refcode_1": "CSW",
+    "refcode_2": "80",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 80.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 80.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Lord Jesus Christ has infinite tenderness for those whom He has purchased at the cost of His own sufferings in the flesh, that they should not perish <span class=\"page-break\" data-page=\"81\"></span> with the devil and his angels, but that He may claim them as His chosen ones. They are the claims of His love, of His own property; and He looks upon them with unutterable affection, and the fragrance of His own righteousness He gives to His loved ones who believe in Him. It requires tact and wisdom and human love and sanctified affection for the precious lambs of the flock, to lead them to see and appreciate their privilege of yielding themselves up to the tender guidance of the faithful shepherds. The children of God will exercise the gentleness of Jesus Christ.",
+    "puborder": 228,
+    "translations": [
+      {
+        "para_id": "11629.337",
+        "lang": "da",
+        "refcode": "RSSA 80.2"
+      },
+      {
+        "para_id": "799.354",
+        "lang": "de",
+        "refcode": "RSs 69.1"
+      },
+      {
+        "para_id": "1711.398",
+        "lang": "es",
+        "refcode": "COES 89.1"
+      },
+      {
+        "para_id": "1917.426",
+        "lang": "pt",
+        "refcode": "CES38 41.1"
+      },
+      {
+        "para_id": "1724.396",
+        "lang": "pt",
+        "refcode": "CES 80.2"
+      },
+      {
+        "para_id": "1917.428",
+        "lang": "pt",
+        "refcode": "CES38 41.2"
+      },
+      {
+        "para_id": "2719.374",
+        "lang": "ro",
+        "refcode": "SSS 80.2"
+      },
+      {
+        "para_id": "1873.360",
+        "lang": "ru",
+        "refcode": "ССШ 80.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.367",
+    "id_prev": "21.364",
+    "id_next": "21.368",
+    "refcode_1": "CSW",
+    "refcode_2": "81",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 81.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 81.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The teacher may bind these children to his or her heart by the love of Christ abiding in the soul temple as a sweet fragrance, a savor of life unto life. The teachers may, through the grace of Christ imparted to them, be the living human agency&mdash;be laborers together with God&mdash;to enlighten, lift up, encourage, and help to purify the soul from its moral defilement; and the image of God shall be revealed in the soul of the child, and the character become transformed by the grace of Christ.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 87.1\" data-link=\"121.345\"><em>Testimonies on Sabbath-School Work</em>, 87</span>.",
+    "puborder": 229,
+    "translations": [
+      {
+        "para_id": "11629.340",
+        "lang": "da",
+        "refcode": "RSSA 81.1"
+      },
+      {
+        "para_id": "799.355",
+        "lang": "de",
+        "refcode": "RSs 69.2"
+      },
+      {
+        "para_id": "1711.399",
+        "lang": "es",
+        "refcode": "COES 89.2"
+      },
+      {
+        "para_id": "1917.429",
+        "lang": "pt",
+        "refcode": "CES38 41.3"
+      },
+      {
+        "para_id": "1724.399",
+        "lang": "pt",
+        "refcode": "CES 81.1"
+      },
+      {
+        "para_id": "2719.377",
+        "lang": "ro",
+        "refcode": "SSS 81.1"
+      },
+      {
+        "para_id": "1873.363",
+        "lang": "ru",
+        "refcode": "ССШ 81.1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.614",
+    "id_prev": "21.613",
+    "id_next": "21.615",
+    "refcode_1": "CSW",
+    "refcode_2": "133",
+    "refcode_3": "",
+    "refcode_4": "95",
+    "refcode_short": "CSW 133",
+    "refcode_long": "Counsels on Sabbath School Work, p. 133 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Extension of the Work",
+    "puborder": 384,
+    "translations": [
+      {
+        "para_id": "11629.588",
+        "lang": "da",
+        "refcode": "RSSA 133"
+      },
+      {
+        "para_id": "799.583",
+        "lang": "de",
+        "refcode": "RSs 111"
+      },
+      {
+        "para_id": "1711.661",
+        "lang": "es",
+        "refcode": "COES 150"
+      },
+      {
+        "para_id": "1724.652",
+        "lang": "pt",
+        "refcode": "CES 133"
+      },
+      {
+        "para_id": "1917.722",
+        "lang": "pt",
+        "refcode": "CES38 69"
+      },
+      {
+        "para_id": "2719.631",
+        "lang": "ro",
+        "refcode": "SSS 133"
+      },
+      {
+        "para_id": "1873.609",
+        "lang": "ru",
+        "refcode": "ССШ 133"
+      }
+    ]
+  },
+  {
+    "para_id": "21.615",
+    "id_prev": "21.614",
+    "id_next": "21.616",
+    "refcode_1": "CSW",
+    "refcode_2": "133",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 133.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 133.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God&apos;s people have a mighty work before them, a work that must continually rise to greater prominence. Our efforts in missionary lines must become far more extensive. A more decided work than has been done must be done prior to the second appearing of our Lord Jesus Christ. God&apos;s people are not to cease their labors until they shall encircle the world.&mdash;<span class=\"egwlink egwlink_book\" title=\"6T 23.1\" data-link=\"118.112\"><em>Testimonies for the Church</em> 6:23, 24</span>.",
+    "puborder": 385,
+    "translations": [
+      {
+        "para_id": "11629.589",
+        "lang": "da",
+        "refcode": "RSSA 133.2"
+      },
+      {
+        "para_id": "799.584",
+        "lang": "de",
+        "refcode": "RSs 111.1"
+      },
+      {
+        "para_id": "1711.662",
+        "lang": "es",
+        "refcode": "COES 150.1"
+      },
+      {
+        "para_id": "1724.653",
+        "lang": "pt",
+        "refcode": "CES 133.2"
+      },
+      {
+        "para_id": "1917.723",
+        "lang": "pt",
+        "refcode": "CES38 69.3"
+      },
+      {
+        "para_id": "2719.632",
+        "lang": "ro",
+        "refcode": "SSS 133.2"
+      },
+      {
+        "para_id": "1873.610",
+        "lang": "ru",
+        "refcode": "ССШ 133.2"
+      }
+    ]
+  }
+]

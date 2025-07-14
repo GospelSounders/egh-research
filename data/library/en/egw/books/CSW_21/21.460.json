@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.460",
+    "id_prev": "21.458",
+    "id_next": "21.461",
+    "refcode_1": "CSW",
+    "refcode_2": "102",
+    "refcode_3": "",
+    "refcode_4": "66",
+    "refcode_short": "CSW 102",
+    "refcode_long": "Counsels on Sabbath School Work, p. 102 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Tolerance for Others",
+    "puborder": 286,
+    "translations": [
+      {
+        "para_id": "11629.434",
+        "lang": "da",
+        "refcode": "RSSA 102"
+      },
+      {
+        "para_id": "799.442",
+        "lang": "de",
+        "refcode": "RSs 86"
+      },
+      {
+        "para_id": "1711.498",
+        "lang": "es",
+        "refcode": "COES 113"
+      },
+      {
+        "para_id": "1724.495",
+        "lang": "pt",
+        "refcode": "CES 102"
+      },
+      {
+        "para_id": "1917.541",
+        "lang": "pt",
+        "refcode": "CES38 52"
+      },
+      {
+        "para_id": "2719.473",
+        "lang": "ro",
+        "refcode": "SSS 102"
+      },
+      {
+        "para_id": "1873.456",
+        "lang": "ru",
+        "refcode": "ССШ 102"
+      }
+    ]
+  },
+  {
+    "para_id": "21.461",
+    "id_prev": "21.460",
+    "id_next": "21.462",
+    "refcode_1": "CSW",
+    "refcode_2": "102",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 102.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 102.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Every association of life calls for the exercise of self-control, forbearance, and sympathy. We differ so widely in disposition, habits, education, that our ways of looking at things vary. We judge differently. Our understanding of truth, our ideas in regard to the conduct of life, are not in all respects the same. There are no two whose experience is alike in every particular. The trials of one are not the trials of another. The duties that one finds light, are to another most difficult and perplexing.",
+    "puborder": 287,
+    "translations": [
+      {
+        "para_id": "11629.435",
+        "lang": "da",
+        "refcode": "RSSA 102.1"
+      },
+      {
+        "para_id": "799.443",
+        "lang": "de",
+        "refcode": "RSs 86.1"
+      },
+      {
+        "para_id": "1711.499",
+        "lang": "es",
+        "refcode": "COES 113.2"
+      },
+      {
+        "para_id": "1917.542",
+        "lang": "pt",
+        "refcode": "CES38 52.1"
+      },
+      {
+        "para_id": "1724.496",
+        "lang": "pt",
+        "refcode": "CES 102.1"
+      },
+      {
+        "para_id": "2719.474",
+        "lang": "ro",
+        "refcode": "SSS 102.1"
+      },
+      {
+        "para_id": "1873.457",
+        "lang": "ru",
+        "refcode": "ССШ 102.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.462",
+    "id_prev": "21.461",
+    "id_next": "21.463",
+    "refcode_1": "CSW",
+    "refcode_2": "102",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 102.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 102.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "So frail, so ignorant, so liable to misconception is human nature, that each should be careful in the estimate he places upon another. We little know the bearing of our acts upon the experience of others. What we do or say may seem to us of little moment, when, could our eyes be opened, we should see that upon it depended the most important results for good or for evil.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 117.1\" data-link=\"121.484\"><em>Testimonies on Sabbath-School Work</em>, 117</span>.",
+    "puborder": 288,
+    "translations": [
+      {
+        "para_id": "11629.436",
+        "lang": "da",
+        "refcode": "RSSA 102.2"
+      },
+      {
+        "para_id": "799.444",
+        "lang": "de",
+        "refcode": "RSs 86.2"
+      },
+      {
+        "para_id": "1711.501",
+        "lang": "es",
+        "refcode": "COES 114.1"
+      },
+      {
+        "para_id": "1724.497",
+        "lang": "pt",
+        "refcode": "CES 102.2"
+      },
+      {
+        "para_id": "1917.543",
+        "lang": "pt",
+        "refcode": "CES38 52.2"
+      },
+      {
+        "para_id": "2719.475",
+        "lang": "ro",
+        "refcode": "SSS 102.2"
+      },
+      {
+        "para_id": "1873.458",
+        "lang": "ru",
+        "refcode": "ССШ 102.2"
+      }
+    ]
+  }
+]

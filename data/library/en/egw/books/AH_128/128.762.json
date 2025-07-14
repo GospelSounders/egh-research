@@ -1,0 +1,901 @@
+[
+  {
+    "para_id": "128.762",
+    "id_prev": "128.758",
+    "id_next": "128.763",
+    "refcode_1": "AH",
+    "refcode_2": "172",
+    "refcode_3": "",
+    "refcode_4": "26",
+    "refcode_short": "AH 172",
+    "refcode_long": "The Adventist Home, p. 172 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 26&mdash;Parents&rsquo; Legacy to Children",
+    "puborder": 494,
+    "translations": [
+      {
+        "para_id": "13839.611",
+        "lang": "bg",
+        "refcode": "ХД 71"
+      },
+      {
+        "para_id": "792.273",
+        "lang": "de",
+        "refcode": "GFH 45"
+      },
+      {
+        "para_id": "177.789",
+        "lang": "es",
+        "refcode": "HC 153"
+      },
+      {
+        "para_id": "193.749",
+        "lang": "fr",
+        "refcode": "FC 164"
+      },
+      {
+        "para_id": "12869.902",
+        "lang": "id",
+        "refcode": "MKB 162"
+      },
+      {
+        "para_id": "891.455",
+        "lang": "it",
+        "refcode": "FC 67"
+      },
+      {
+        "para_id": "12178.624",
+        "lang": "pl",
+        "refcode": "ChD 104"
+      },
+      {
+        "para_id": "1955.993",
+        "lang": "pt",
+        "refcode": "LA 172"
+      },
+      {
+        "para_id": "2026.754",
+        "lang": "ro",
+        "refcode": "CA 172"
+      },
+      {
+        "para_id": "1803.725",
+        "lang": "ru",
+        "refcode": "ХД 172"
+      },
+      {
+        "para_id": "12131.673",
+        "lang": "uk",
+        "refcode": "ХР 136"
+      }
+    ]
+  },
+  {
+    "para_id": "128.763",
+    "id_prev": "128.762",
+    "id_next": "128.764",
+    "refcode_1": "AH",
+    "refcode_2": "172",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 172.1",
+    "refcode_long": "The Adventist Home, p. 172.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Law of Heredity</strong>&mdash;The physical and mental condition of the parents is perpetuated in their offspring. This is a matter that is not duly considered. Wherever the habits of the parents are contrary to physical law, the injury done to themselves will be repeated in the future generations....",
+    "puborder": 495,
+    "translations": [
+      {
+        "para_id": "13839.612",
+        "lang": "bg",
+        "refcode": "ХД 71.5"
+      },
+      {
+        "para_id": "792.274",
+        "lang": "de",
+        "refcode": "GFH 45"
+      },
+      {
+        "para_id": "792.275",
+        "lang": "de",
+        "refcode": "GFH 45.1"
+      },
+      {
+        "para_id": "177.790",
+        "lang": "es",
+        "refcode": "HC 153.1"
+      },
+      {
+        "para_id": "193.750",
+        "lang": "fr",
+        "refcode": "FC 164.1"
+      },
+      {
+        "para_id": "12869.904",
+        "lang": "id",
+        "refcode": "MKB 162.1"
+      },
+      {
+        "para_id": "891.457",
+        "lang": "it",
+        "refcode": "FC 67.3"
+      },
+      {
+        "para_id": "891.456",
+        "lang": "it",
+        "refcode": "FC 67"
+      },
+      {
+        "para_id": "12178.625",
+        "lang": "pl",
+        "refcode": "ChD 104.3"
+      },
+      {
+        "para_id": "1955.994",
+        "lang": "pt",
+        "refcode": "LA 172"
+      },
+      {
+        "para_id": "1955.995",
+        "lang": "pt",
+        "refcode": "LA 172.1"
+      },
+      {
+        "para_id": "2026.755",
+        "lang": "ro",
+        "refcode": "CA 172.1"
+      },
+      {
+        "para_id": "1803.726",
+        "lang": "ru",
+        "refcode": "ХД 172.1"
+      },
+      {
+        "para_id": "12131.674",
+        "lang": "uk",
+        "refcode": "ХР 136.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.764",
+    "id_prev": "128.763",
+    "id_next": "128.765",
+    "refcode_1": "AH",
+    "refcode_2": "172",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 172.2",
+    "refcode_long": "The Adventist Home, p. 172.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "By physical, mental, and moral culture all may become co-workers with Christ. Very much depends upon the parents. It lies with them whether they shall bring into the world children who will prove a blessing or a curse.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 3, 1897\" data-link=\"14062.7060001\">Manuscript 3, 1897</span>.</span></a></sup>",
+    "puborder": 496,
+    "translations": [
+      {
+        "para_id": "13839.612",
+        "lang": "bg",
+        "refcode": "ХД 71.5"
+      },
+      {
+        "para_id": "792.276",
+        "lang": "de",
+        "refcode": "GFH 45.2"
+      },
+      {
+        "para_id": "177.791",
+        "lang": "es",
+        "refcode": "HC 153.2"
+      },
+      {
+        "para_id": "193.751",
+        "lang": "fr",
+        "refcode": "FC 164.2"
+      },
+      {
+        "para_id": "12869.905",
+        "lang": "id",
+        "refcode": "MKB 162.2"
+      },
+      {
+        "para_id": "891.457",
+        "lang": "it",
+        "refcode": "FC 67.3"
+      },
+      {
+        "para_id": "12178.626",
+        "lang": "pl",
+        "refcode": "ChD 104.4"
+      },
+      {
+        "para_id": "1955.996",
+        "lang": "pt",
+        "refcode": "LA 172.2"
+      },
+      {
+        "para_id": "2026.756",
+        "lang": "ro",
+        "refcode": "CA 172.2"
+      },
+      {
+        "para_id": "1803.727",
+        "lang": "ru",
+        "refcode": "ХД 172.2"
+      },
+      {
+        "para_id": "12131.674",
+        "lang": "uk",
+        "refcode": "ХР 136.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.765",
+    "id_prev": "128.764",
+    "id_next": "128.766",
+    "refcode_1": "AH",
+    "refcode_2": "172",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 172.3",
+    "refcode_long": "The Adventist Home, p. 172.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The nobler the aims, the higher the mental and spiritual endowments, and the better developed the physical powers of the parents, the better will be the life equipment they give their children. In cultivating that which is best in themselves, parents are exerting an influence to mold society and to uplift future generations.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 371.1\" data-link=\"135.1866\">The Ministry of Healing, 371</span>.</span></a></sup>",
+    "puborder": 497,
+    "translations": [
+      {
+        "para_id": "13839.615",
+        "lang": "bg",
+        "refcode": "ХД 72.1"
+      },
+      {
+        "para_id": "792.277",
+        "lang": "de",
+        "refcode": "GFH 45.3"
+      },
+      {
+        "para_id": "177.792",
+        "lang": "es",
+        "refcode": "HC 153.3"
+      },
+      {
+        "para_id": "193.752",
+        "lang": "fr",
+        "refcode": "FC 164.3"
+      },
+      {
+        "para_id": "12869.906",
+        "lang": "id",
+        "refcode": "MKB 162.3"
+      },
+      {
+        "para_id": "891.460",
+        "lang": "it",
+        "refcode": "FC 68.1"
+      },
+      {
+        "para_id": "12178.627",
+        "lang": "pl",
+        "refcode": "ChD 104.5"
+      },
+      {
+        "para_id": "1955.997",
+        "lang": "pt",
+        "refcode": "LA 172.3"
+      },
+      {
+        "para_id": "2026.757",
+        "lang": "ro",
+        "refcode": "CA 172.3"
+      },
+      {
+        "para_id": "1803.728",
+        "lang": "ru",
+        "refcode": "ХД 172.3"
+      },
+      {
+        "para_id": "12131.675",
+        "lang": "uk",
+        "refcode": "ХР 136.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.766",
+    "id_prev": "128.765",
+    "id_next": "128.769",
+    "refcode_1": "AH",
+    "refcode_2": "172",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 172.4",
+    "refcode_long": "The Adventist Home, p. 172.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Many Parents Are Lamentably Ignorant</strong>&mdash;Those who have charge of God&apos;s property in the souls and bodies of the children formed in His image should erect barriers against the sensual indulgence of this age which is ruining the physical and moral health of thousands. If the many crimes of this time were traced to their true cause, it would be seen that they are chargeable to the ignorance of fathers and mothers who are indifferent on this subject. Health and life itself is being sacrificed to this lamentable ignorance. Parents, if you fail to give your children the education that God makes it your duty to give them, both by precept and example, you must answer to your God <span class=\"page-break\" data-page=\"173\"></span> for the results. These results will not be confined merely to your children. They will reach through generations. Just as the one thistle permitted to grow in the field produces a harvest of its kind, the sins resulting from your neglect will work to ruin all who come within the sphere of their influence.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 58, 1899\" data-link=\"14064.6901001\">Manuscript 58, 1899</span>.</span></a></sup>",
+    "puborder": 498,
+    "translations": [
+      {
+        "para_id": "13839.616",
+        "lang": "bg",
+        "refcode": "ХД 72.2"
+      },
+      {
+        "para_id": "792.279",
+        "lang": "de",
+        "refcode": "GFH 45.4"
+      },
+      {
+        "para_id": "792.281",
+        "lang": "de",
+        "refcode": "GFH 46.1"
+      },
+      {
+        "para_id": "792.278",
+        "lang": "de",
+        "refcode": "GFH 45"
+      },
+      {
+        "para_id": "177.793",
+        "lang": "es",
+        "refcode": "HC 153.4"
+      },
+      {
+        "para_id": "193.753",
+        "lang": "fr",
+        "refcode": "FC 164.4"
+      },
+      {
+        "para_id": "12869.910",
+        "lang": "id",
+        "refcode": "MKB 163.1"
+      },
+      {
+        "para_id": "891.462",
+        "lang": "it",
+        "refcode": "FC 68.2"
+      },
+      {
+        "para_id": "891.461",
+        "lang": "it",
+        "refcode": "FC 68"
+      },
+      {
+        "para_id": "12178.630",
+        "lang": "pl",
+        "refcode": "ChD 105.1"
+      },
+      {
+        "para_id": "1955.999",
+        "lang": "pt",
+        "refcode": "LA 172.4"
+      },
+      {
+        "para_id": "1955.998",
+        "lang": "pt",
+        "refcode": "LA 172"
+      },
+      {
+        "para_id": "2026.758",
+        "lang": "ro",
+        "refcode": "CA 172.4"
+      },
+      {
+        "para_id": "1803.729",
+        "lang": "ru",
+        "refcode": "ХД 172.4"
+      },
+      {
+        "para_id": "12131.676",
+        "lang": "uk",
+        "refcode": "ХР 136.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.769",
+    "id_prev": "128.766",
+    "id_next": "128.770",
+    "refcode_1": "AH",
+    "refcode_2": "173",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 173.1",
+    "refcode_long": "The Adventist Home, p. 173.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Evils of Intemperance Are Perpetuated</strong>&mdash;Luxurious living and the use of wine corrupt the blood, inflame the passions, and produce diseases of every kind. But the evil does not end here. Parents leave maladies as a legacy to their children. As a rule, every intemperate man who rears children transmits his inclinations and evil tendencies to his offspring; he gives them disease from his own inflamed and corrupted blood. Licentiousness, disease, and imbecility are transmitted as an inheritance of woe from father to son and from generation to generation, and this brings anguish and suffering into the world and is no less than a repetition of the fall of man....",
+    "puborder": 499,
+    "translations": [
+      {
+        "para_id": "13839.617",
+        "lang": "bg",
+        "refcode": "ХД 72.3"
+      },
+      {
+        "para_id": "177.796",
+        "lang": "es",
+        "refcode": "HC 154.1"
+      },
+      {
+        "para_id": "193.756",
+        "lang": "fr",
+        "refcode": "FC 165.1"
+      },
+      {
+        "para_id": "12869.912",
+        "lang": "id",
+        "refcode": "MKB 163.2"
+      },
+      {
+        "para_id": "12178.631",
+        "lang": "pl",
+        "refcode": "ChD 105.2"
+      },
+      {
+        "para_id": "1955.1003",
+        "lang": "pt",
+        "refcode": "LA 173.1"
+      },
+      {
+        "para_id": "1955.1002",
+        "lang": "pt",
+        "refcode": "LA 173"
+      },
+      {
+        "para_id": "2026.761",
+        "lang": "ro",
+        "refcode": "CA 173.1"
+      },
+      {
+        "para_id": "1803.732",
+        "lang": "ru",
+        "refcode": "ХД 173.1"
+      },
+      {
+        "para_id": "12131.677",
+        "lang": "uk",
+        "refcode": "ХР 136.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.770",
+    "id_prev": "128.769",
+    "id_next": "128.771",
+    "refcode_1": "AH",
+    "refcode_2": "173",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 173.2",
+    "refcode_long": "The Adventist Home, p. 173.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "And yet with scarcely a thought or care, men and women of the present generation indulge intemperance by surfeiting and drunkenness and thereby leave, as a legacy for the next generation, disease, enfeebled intellects, and polluted morals.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 30.1\" data-link=\"114.145\">Testimonies for the Church 4:30, 31</span>.</span></a></sup>",
+    "puborder": 500,
+    "translations": [
+      {
+        "para_id": "13839.617",
+        "lang": "bg",
+        "refcode": "ХД 72.3"
+      },
+      {
+        "para_id": "177.797",
+        "lang": "es",
+        "refcode": "HC 154.2"
+      },
+      {
+        "para_id": "193.757",
+        "lang": "fr",
+        "refcode": "FC 165.2"
+      },
+      {
+        "para_id": "12869.913",
+        "lang": "id",
+        "refcode": "MKB 163.3"
+      },
+      {
+        "para_id": "12178.632",
+        "lang": "pl",
+        "refcode": "ChD 105.3"
+      },
+      {
+        "para_id": "1955.1004",
+        "lang": "pt",
+        "refcode": "LA 173.2"
+      },
+      {
+        "para_id": "2026.762",
+        "lang": "ro",
+        "refcode": "CA 173.2"
+      },
+      {
+        "para_id": "1803.733",
+        "lang": "ru",
+        "refcode": "ХД 173.2"
+      },
+      {
+        "para_id": "12131.677",
+        "lang": "uk",
+        "refcode": "ХР 136.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.771",
+    "id_prev": "128.770",
+    "id_next": "128.773",
+    "refcode_1": "AH",
+    "refcode_2": "173",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 173.3",
+    "refcode_long": "The Adventist Home, p. 173.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>There Is Reason for Double Understanding and Patience</strong>&mdash;Fathers and mothers may study their own character in their children. They may often read humiliating lessons as they see their own imperfections reproduced in their sons and daughters. While seeking to repress and correct in their children hereditary tendencies to evil, parents should call to their aid double patience, perseverance, and love.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 8-30-1881\" data-link=\"821.3914\">The Review and Herald, August 30, 1881</span>.</span></a></sup>",
+    "puborder": 501,
+    "translations": [
+      {
+        "para_id": "13839.618",
+        "lang": "bg",
+        "refcode": "ХД 72.4"
+      },
+      {
+        "para_id": "792.283",
+        "lang": "de",
+        "refcode": "GFH 46.2"
+      },
+      {
+        "para_id": "792.282",
+        "lang": "de",
+        "refcode": "GFH 46"
+      },
+      {
+        "para_id": "177.798",
+        "lang": "es",
+        "refcode": "HC 154.3"
+      },
+      {
+        "para_id": "193.758",
+        "lang": "fr",
+        "refcode": "FC 165.3"
+      },
+      {
+        "para_id": "12869.917",
+        "lang": "id",
+        "refcode": "MKB 164.1"
+      },
+      {
+        "para_id": "891.463",
+        "lang": "it",
+        "refcode": "FC 68"
+      },
+      {
+        "para_id": "891.464",
+        "lang": "it",
+        "refcode": "FC 68.3"
+      },
+      {
+        "para_id": "12178.633",
+        "lang": "pl",
+        "refcode": "ChD 105.4"
+      },
+      {
+        "para_id": "1955.1006",
+        "lang": "pt",
+        "refcode": "LA 173.3"
+      },
+      {
+        "para_id": "1955.1005",
+        "lang": "pt",
+        "refcode": "LA 173"
+      },
+      {
+        "para_id": "2026.763",
+        "lang": "ro",
+        "refcode": "CA 173.3"
+      },
+      {
+        "para_id": "1803.2520",
+        "lang": "ru",
+        "refcode": "ХД 173.3"
+      },
+      {
+        "para_id": "12131.680",
+        "lang": "uk",
+        "refcode": "ХР 137.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.773",
+    "id_prev": "128.771",
+    "id_next": "128.774",
+    "refcode_1": "AH",
+    "refcode_2": "174",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 174.1",
+    "refcode_long": "The Adventist Home, p. 174.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When a child reveals the wrong traits which it has inherited from its parents, shall they storm over this reproduction of their own defects? No, no! Let parents keep a careful watch over themselves, guarding against all coarseness and roughness, lest these defects be seen once more in their children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 9-25-1901\" data-link=\"820.17601\">The Signs of the Times, September 25, 1901</span>.</span></a></sup>",
+    "puborder": 502,
+    "translations": [
+      {
+        "para_id": "13839.619",
+        "lang": "bg",
+        "refcode": "ХД 72.5"
+      },
+      {
+        "para_id": "792.284",
+        "lang": "de",
+        "refcode": "GFH 46.3"
+      },
+      {
+        "para_id": "177.800",
+        "lang": "es",
+        "refcode": "HC 155.1"
+      },
+      {
+        "para_id": "193.759",
+        "lang": "fr",
+        "refcode": "FC 165.4"
+      },
+      {
+        "para_id": "12869.918",
+        "lang": "id",
+        "refcode": "MKB 164.2"
+      },
+      {
+        "para_id": "891.465",
+        "lang": "it",
+        "refcode": "FC 68.4"
+      },
+      {
+        "para_id": "12178.636",
+        "lang": "pl",
+        "refcode": "ChD 106.1"
+      },
+      {
+        "para_id": "1955.1007",
+        "lang": "pt",
+        "refcode": "LA 173.4"
+      },
+      {
+        "para_id": "2026.765",
+        "lang": "ro",
+        "refcode": "CA 174.1"
+      },
+      {
+        "para_id": "1803.735",
+        "lang": "ru",
+        "refcode": "ХД 174.1"
+      },
+      {
+        "para_id": "12131.681",
+        "lang": "uk",
+        "refcode": "ХР 137.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.774",
+    "id_prev": "128.773",
+    "id_next": "128.775",
+    "refcode_1": "AH",
+    "refcode_2": "174",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 174.2",
+    "refcode_long": "The Adventist Home, p. 174.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Manifest the meekness and gentleness of Christ in dealing with the wayward little ones. Always bear in mind that they have received their perversity as an inheritance from the father or mother. Then bear with the children who have inherited your own trait of character.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 142, 1898\" data-link=\"14063.5269001\">Manuscript 142, 1898</span>.</span></a></sup>",
+    "puborder": 503,
+    "translations": [
+      {
+        "para_id": "13839.620",
+        "lang": "bg",
+        "refcode": "ХД 72.6"
+      },
+      {
+        "para_id": "792.285",
+        "lang": "de",
+        "refcode": "GFH 46.4"
+      },
+      {
+        "para_id": "177.801",
+        "lang": "es",
+        "refcode": "HC 155.2"
+      },
+      {
+        "para_id": "193.760",
+        "lang": "fr",
+        "refcode": "FC 165.5"
+      },
+      {
+        "para_id": "12869.919",
+        "lang": "id",
+        "refcode": "MKB 164.3"
+      },
+      {
+        "para_id": "891.466",
+        "lang": "it",
+        "refcode": "FC 68.5"
+      },
+      {
+        "para_id": "12178.637",
+        "lang": "pl",
+        "refcode": "ChD 106.2"
+      },
+      {
+        "para_id": "1955.1010",
+        "lang": "pt",
+        "refcode": "LA 174.1"
+      },
+      {
+        "para_id": "2026.766",
+        "lang": "ro",
+        "refcode": "CA 174.2"
+      },
+      {
+        "para_id": "1803.736",
+        "lang": "ru",
+        "refcode": "ХД 174.2"
+      },
+      {
+        "para_id": "12131.682",
+        "lang": "uk",
+        "refcode": "ХР 137.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.775",
+    "id_prev": "128.774",
+    "id_next": "128.776",
+    "refcode_1": "AH",
+    "refcode_2": "174",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 174.3",
+    "refcode_long": "The Adventist Home, p. 174.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Parents must trust implicitly in the power of Christ to transform the tendencies to wrong which have been transmitted to their children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 79, 1901\" data-link=\"14066.9221001\">Manuscript 79, 1901</span>.</span></a></sup>",
+    "puborder": 504,
+    "translations": [
+      {
+        "para_id": "13839.622",
+        "lang": "bg",
+        "refcode": "ХД 73.1"
+      },
+      {
+        "para_id": "792.286",
+        "lang": "de",
+        "refcode": "GFH 46.5"
+      },
+      {
+        "para_id": "177.802",
+        "lang": "es",
+        "refcode": "HC 155.3"
+      },
+      {
+        "para_id": "193.763",
+        "lang": "fr",
+        "refcode": "FC 166.1"
+      },
+      {
+        "para_id": "12869.920",
+        "lang": "id",
+        "refcode": "MKB 164.4"
+      },
+      {
+        "para_id": "891.468",
+        "lang": "it",
+        "refcode": "FC 69.1"
+      },
+      {
+        "para_id": "12178.638",
+        "lang": "pl",
+        "refcode": "ChD 106.3"
+      },
+      {
+        "para_id": "1955.1011",
+        "lang": "pt",
+        "refcode": "LA 174.2"
+      },
+      {
+        "para_id": "2026.767",
+        "lang": "ro",
+        "refcode": "CA 174.3"
+      },
+      {
+        "para_id": "1803.737",
+        "lang": "ru",
+        "refcode": "ХД 174.3"
+      },
+      {
+        "para_id": "12131.683",
+        "lang": "uk",
+        "refcode": "ХР 137.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.776",
+    "id_prev": "128.775",
+    "id_next": "128.779",
+    "refcode_1": "AH",
+    "refcode_2": "174",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 174.4",
+    "refcode_long": "The Adventist Home, p. 174.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Have patience, fathers and mothers. Often your past neglect will make your work hard. But God will give you strength if you will trust in Him. Deal wisely and tenderly with your children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 80, 1901\" data-link=\"14066.10549001\">Manuscript 80, 1901</span>.</span></a></sup>",
+    "puborder": 505,
+    "translations": [
+      {
+        "para_id": "13839.623",
+        "lang": "bg",
+        "refcode": "ХД 73.2"
+      },
+      {
+        "para_id": "792.287",
+        "lang": "de",
+        "refcode": "GFH 46.6"
+      },
+      {
+        "para_id": "177.803",
+        "lang": "es",
+        "refcode": "HC 155.4"
+      },
+      {
+        "para_id": "193.764",
+        "lang": "fr",
+        "refcode": "FC 166.2"
+      },
+      {
+        "para_id": "12869.921",
+        "lang": "id",
+        "refcode": "MKB 164.5"
+      },
+      {
+        "para_id": "891.469",
+        "lang": "it",
+        "refcode": "FC 69.2"
+      },
+      {
+        "para_id": "12178.639",
+        "lang": "pl",
+        "refcode": "ChD 106.4"
+      },
+      {
+        "para_id": "1955.1012",
+        "lang": "pt",
+        "refcode": "LA 174.3"
+      },
+      {
+        "para_id": "2026.768",
+        "lang": "ro",
+        "refcode": "CA 174.4"
+      },
+      {
+        "para_id": "1803.738",
+        "lang": "ru",
+        "refcode": "ХД 174.4"
+      },
+      {
+        "para_id": "12131.684",
+        "lang": "uk",
+        "refcode": "ХР 137.5"
+      }
+    ]
+  }
+]

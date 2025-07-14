@@ -1,0 +1,1709 @@
+[
+  {
+    "para_id": "128.413",
+    "id_prev": "128.410",
+    "id_next": "128.415",
+    "refcode_1": "AH",
+    "refcode_2": "97",
+    "refcode_3": "",
+    "refcode_4": "5",
+    "refcode_short": "AH 97",
+    "refcode_long": "The Adventist Home, p. 97 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 5&mdash;From the Marriage Altar",
+    "puborder": 264,
+    "translations": [
+      {
+        "para_id": "13839.326",
+        "lang": "bg",
+        "refcode": "ХД 39"
+      },
+      {
+        "para_id": "177.447",
+        "lang": "es",
+        "refcode": "HC 84"
+      },
+      {
+        "para_id": "193.407",
+        "lang": "fr",
+        "refcode": "FC 93"
+      },
+      {
+        "para_id": "12869.467",
+        "lang": "id",
+        "refcode": "MKB 91"
+      },
+      {
+        "para_id": "891.229",
+        "lang": "it",
+        "refcode": "FC 38"
+      },
+      {
+        "para_id": "12178.351",
+        "lang": "pl",
+        "refcode": "ChD 59"
+      },
+      {
+        "para_id": "1955.554",
+        "lang": "pt",
+        "refcode": "LA 99"
+      },
+      {
+        "para_id": "2026.406",
+        "lang": "ro",
+        "refcode": "CA 99"
+      },
+      {
+        "para_id": "1803.379",
+        "lang": "ru",
+        "refcode": "ХД 98"
+      },
+      {
+        "para_id": "12131.366",
+        "lang": "uk",
+        "refcode": "ХР 77"
+      }
+    ]
+  },
+  {
+    "para_id": "128.415",
+    "id_prev": "128.413",
+    "id_next": "128.416",
+    "refcode_1": "AH",
+    "refcode_2": "99",
+    "refcode_3": "",
+    "refcode_4": "15",
+    "refcode_short": "AH 99",
+    "refcode_long": "The Adventist Home, p. 99 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 15&mdash;Solemn Promises",
+    "puborder": 265,
+    "translations": [
+      {
+        "para_id": "13839.327",
+        "lang": "bg",
+        "refcode": "ХД 39"
+      },
+      {
+        "para_id": "177.448",
+        "lang": "es",
+        "refcode": "HC 84"
+      },
+      {
+        "para_id": "193.410",
+        "lang": "fr",
+        "refcode": "FC 95"
+      },
+      {
+        "para_id": "12869.469",
+        "lang": "id",
+        "refcode": "MKB 92"
+      },
+      {
+        "para_id": "891.230",
+        "lang": "it",
+        "refcode": "FC 38"
+      },
+      {
+        "para_id": "12178.352",
+        "lang": "pl",
+        "refcode": "ChD 59"
+      },
+      {
+        "para_id": "1955.555",
+        "lang": "pt",
+        "refcode": "LA 99"
+      },
+      {
+        "para_id": "2026.407",
+        "lang": "ro",
+        "refcode": "CA 99"
+      },
+      {
+        "para_id": "1803.381",
+        "lang": "ru",
+        "refcode": "ХД 99"
+      },
+      {
+        "para_id": "12131.368",
+        "lang": "uk",
+        "refcode": "ХР 78"
+      }
+    ]
+  },
+  {
+    "para_id": "128.416",
+    "id_prev": "128.415",
+    "id_next": "128.417",
+    "refcode_1": "AH",
+    "refcode_2": "99",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 99.1",
+    "refcode_long": "The Adventist Home, p. 99.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God&apos;s Purpose for the Husband and Wife</strong>&mdash;God made from the man a woman, to be a companion and helpmeet for him, to be one with him, to cheer, encourage, and bless him, he in his turn to be her strong helper. All who enter into matrimonial relations with a holy purpose&mdash;the husband to obtain the pure affections of a woman&apos;s heart, the wife to soften and improve her husband&apos;s character and give it completeness&mdash;fulfill God&apos;s purpose for them.",
+    "puborder": 266,
+    "translations": [
+      {
+        "para_id": "13839.328",
+        "lang": "bg",
+        "refcode": "ХД 39.1"
+      },
+      {
+        "para_id": "177.449",
+        "lang": "es",
+        "refcode": "HC 84.1"
+      },
+      {
+        "para_id": "193.411",
+        "lang": "fr",
+        "refcode": "FC 95.1"
+      },
+      {
+        "para_id": "12869.471",
+        "lang": "id",
+        "refcode": "MKB 92.1"
+      },
+      {
+        "para_id": "12178.353",
+        "lang": "pl",
+        "refcode": "ChD 59.1"
+      },
+      {
+        "para_id": "1955.557",
+        "lang": "pt",
+        "refcode": "LA 99.1"
+      },
+      {
+        "para_id": "1955.556",
+        "lang": "pt",
+        "refcode": "LA 99"
+      },
+      {
+        "para_id": "2026.408",
+        "lang": "ro",
+        "refcode": "CA 99.1"
+      },
+      {
+        "para_id": "1803.382",
+        "lang": "ru",
+        "refcode": "ХД 99.1"
+      },
+      {
+        "para_id": "12131.369",
+        "lang": "uk",
+        "refcode": "ХР 78.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.417",
+    "id_prev": "128.416",
+    "id_next": "128.418",
+    "refcode_1": "AH",
+    "refcode_2": "99",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 99.2",
+    "refcode_long": "The Adventist Home, p. 99.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Christ came not to destroy this institution, but to restore it to its original sanctity and elevation. He came to restore the moral image of God in man, and He began His work by sanctioning the marriage relation.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 16, 1899\" data-link=\"14064.4734001\">Manuscript 16, 1899</span>.</span></a></sup>",
+    "puborder": 267,
+    "translations": [
+      {
+        "para_id": "13839.329",
+        "lang": "bg",
+        "refcode": "ХД 39.2"
+      },
+      {
+        "para_id": "177.450",
+        "lang": "es",
+        "refcode": "HC 84.2"
+      },
+      {
+        "para_id": "193.412",
+        "lang": "fr",
+        "refcode": "FC 95.2"
+      },
+      {
+        "para_id": "12869.472",
+        "lang": "id",
+        "refcode": "MKB 92.2"
+      },
+      {
+        "para_id": "12178.354",
+        "lang": "pl",
+        "refcode": "ChD 59.2"
+      },
+      {
+        "para_id": "1955.558",
+        "lang": "pt",
+        "refcode": "LA 99.2"
+      },
+      {
+        "para_id": "2026.409",
+        "lang": "ro",
+        "refcode": "CA 99.2"
+      },
+      {
+        "para_id": "1803.383",
+        "lang": "ru",
+        "refcode": "ХД 99.2"
+      },
+      {
+        "para_id": "12131.370",
+        "lang": "uk",
+        "refcode": "ХР 78.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.418",
+    "id_prev": "128.417",
+    "id_next": "128.419",
+    "refcode_1": "AH",
+    "refcode_2": "99",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 99.3",
+    "refcode_long": "The Adventist Home, p. 99.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "He who gave Eve to Adam as a helpmeet performed His first miracle at a marriage festival. In the festal hall where friends and kindred rejoiced together, Christ began His public ministry. Thus He sanctioned marriage, recognizing it as an institution that He Himself had established. He ordained that men and women should be united in holy wedlock, to rear families whose members, crowned with honor, should be recognized as members of the family above.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 356.1\" data-link=\"135.1793\">The Ministry of Healing, 356</span>.</span></a></sup>",
+    "puborder": 268,
+    "translations": [
+      {
+        "para_id": "13839.330",
+        "lang": "bg",
+        "refcode": "ХД 39.3"
+      },
+      {
+        "para_id": "177.451",
+        "lang": "es",
+        "refcode": "HC 84.3"
+      },
+      {
+        "para_id": "193.413",
+        "lang": "fr",
+        "refcode": "FC 95.3"
+      },
+      {
+        "para_id": "12869.475",
+        "lang": "id",
+        "refcode": "MKB 93.1"
+      },
+      {
+        "para_id": "12178.355",
+        "lang": "pl",
+        "refcode": "ChD 59.3"
+      },
+      {
+        "para_id": "1955.559",
+        "lang": "pt",
+        "refcode": "LA 99.3"
+      },
+      {
+        "para_id": "2026.410",
+        "lang": "ro",
+        "refcode": "CA 99.3"
+      },
+      {
+        "para_id": "1803.384",
+        "lang": "ru",
+        "refcode": "ХД 99.3"
+      },
+      {
+        "para_id": "12131.371",
+        "lang": "uk",
+        "refcode": "ХР 78.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.419",
+    "id_prev": "128.418",
+    "id_next": "128.421",
+    "refcode_1": "AH",
+    "refcode_2": "99",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 99.4",
+    "refcode_long": "The Adventist Home, p. 99.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Jesus Wants Happy Marriages</strong>&mdash;The divine love emanating from Christ never destroys human love, but includes it. By it human love is refined and purified, elevated and ennobled. Human love can never bear its precious fruit until it is united with the divine nature and trained to grow heavenward. Jesus wants to see happy marriages, happy firesides.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"BEcho 9-4-1899\" data-link=\"459.1493\">The Bible Echo, September 4, 1899</span>.</span></a></sup>",
+    "puborder": 269,
+    "translations": [
+      {
+        "para_id": "13839.331",
+        "lang": "bg",
+        "refcode": "ХД 39.4"
+      },
+      {
+        "para_id": "177.452",
+        "lang": "es",
+        "refcode": "HC 84.4"
+      },
+      {
+        "para_id": "193.414",
+        "lang": "fr",
+        "refcode": "FC 95.4"
+      },
+      {
+        "para_id": "12869.477",
+        "lang": "id",
+        "refcode": "MKB 93.2"
+      },
+      {
+        "para_id": "12178.356",
+        "lang": "pl",
+        "refcode": "ChD 59.4"
+      },
+      {
+        "para_id": "1955.560",
+        "lang": "pt",
+        "refcode": "LA 99"
+      },
+      {
+        "para_id": "1955.561",
+        "lang": "pt",
+        "refcode": "LA 99.4"
+      },
+      {
+        "para_id": "2026.411",
+        "lang": "ro",
+        "refcode": "CA 99.4"
+      },
+      {
+        "para_id": "1803.385",
+        "lang": "ru",
+        "refcode": "ХД 99.4"
+      },
+      {
+        "para_id": "12131.372",
+        "lang": "uk",
+        "refcode": "ХР 78.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.421",
+    "id_prev": "128.419",
+    "id_next": "128.422",
+    "refcode_1": "AH",
+    "refcode_2": "100",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 100.1",
+    "refcode_long": "The Adventist Home, p. 100.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Like every other one of God&apos;s good gifts entrusted to the keeping of humanity, marriage has been perverted by sin; but it is the purpose of the gospel to restore its purity and beauty....",
+    "puborder": 270,
+    "translations": [
+      {
+        "para_id": "13839.332",
+        "lang": "bg",
+        "refcode": "ХД 39.5"
+      },
+      {
+        "para_id": "177.455",
+        "lang": "es",
+        "refcode": "HC 85.1"
+      },
+      {
+        "para_id": "193.417",
+        "lang": "fr",
+        "refcode": "FC 96.1"
+      },
+      {
+        "para_id": "12869.478",
+        "lang": "id",
+        "refcode": "MKB 93.3"
+      },
+      {
+        "para_id": "12178.358",
+        "lang": "pl",
+        "refcode": "ChD 60.1"
+      },
+      {
+        "para_id": "1955.563",
+        "lang": "pt",
+        "refcode": "LA 100.1"
+      },
+      {
+        "para_id": "2026.413",
+        "lang": "ro",
+        "refcode": "CA 100.1"
+      },
+      {
+        "para_id": "1803.387",
+        "lang": "ru",
+        "refcode": "ХД 100.1"
+      },
+      {
+        "para_id": "12131.373",
+        "lang": "uk",
+        "refcode": "ХР 78.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.422",
+    "id_prev": "128.421",
+    "id_next": "128.423",
+    "refcode_1": "AH",
+    "refcode_2": "100",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 100.2",
+    "refcode_long": "The Adventist Home, p. 100.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The grace of Christ, and this alone, can make this institution what God designed it should be&mdash;an agent for the blessing and uplifting of humanity. And thus the families of earth, in their unity and peace and love, may represent the family of heaven.",
+    "puborder": 271,
+    "translations": [
+      {
+        "para_id": "13839.333",
+        "lang": "bg",
+        "refcode": "ХД 39.6"
+      },
+      {
+        "para_id": "177.456",
+        "lang": "es",
+        "refcode": "HC 85.2"
+      },
+      {
+        "para_id": "193.418",
+        "lang": "fr",
+        "refcode": "FC 96.2"
+      },
+      {
+        "para_id": "12869.478",
+        "lang": "id",
+        "refcode": "MKB 93.3"
+      },
+      {
+        "para_id": "12178.359",
+        "lang": "pl",
+        "refcode": "ChD 60.2"
+      },
+      {
+        "para_id": "1955.564",
+        "lang": "pt",
+        "refcode": "LA 100.2"
+      },
+      {
+        "para_id": "2026.413",
+        "lang": "ro",
+        "refcode": "CA 100.1"
+      },
+      {
+        "para_id": "1803.388",
+        "lang": "ru",
+        "refcode": "ХД 100.2"
+      },
+      {
+        "para_id": "12131.374",
+        "lang": "uk",
+        "refcode": "ХР 78.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.423",
+    "id_prev": "128.422",
+    "id_next": "128.424",
+    "refcode_1": "AH",
+    "refcode_2": "100",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 100.3",
+    "refcode_long": "The Adventist Home, p. 100.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The condition of society presents a sad comment upon Heaven&apos;s ideal of this sacred relation. Yet even for those who have found bitterness and disappointment where they had hoped for companionship and joy, the gospel of Christ offers a solace.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 12-10-1908\" data-link=\"821.29522\">The Review and Herald, December 10, 1908</span>.</span></a></sup>",
+    "puborder": 272,
+    "translations": [
+      {
+        "para_id": "13839.334",
+        "lang": "bg",
+        "refcode": "ХД 39.7"
+      },
+      {
+        "para_id": "177.457",
+        "lang": "es",
+        "refcode": "HC 85.3"
+      },
+      {
+        "para_id": "193.419",
+        "lang": "fr",
+        "refcode": "FC 96.3"
+      },
+      {
+        "para_id": "12869.478",
+        "lang": "id",
+        "refcode": "MKB 93.3"
+      },
+      {
+        "para_id": "12178.359",
+        "lang": "pl",
+        "refcode": "ChD 60.2"
+      },
+      {
+        "para_id": "1955.565",
+        "lang": "pt",
+        "refcode": "LA 100.3"
+      },
+      {
+        "para_id": "2026.414",
+        "lang": "ro",
+        "refcode": "CA 100.3"
+      },
+      {
+        "para_id": "1803.389",
+        "lang": "ru",
+        "refcode": "ХД 100.3"
+      },
+      {
+        "para_id": "12131.374",
+        "lang": "uk",
+        "refcode": "ХР 78.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.424",
+    "id_prev": "128.423",
+    "id_next": "128.425",
+    "refcode_1": "AH",
+    "refcode_2": "100",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 100.4",
+    "refcode_long": "The Adventist Home, p. 100.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Joyous Occasion</strong>&mdash;The Scriptures state that both Jesus and His disciples were called to this marriage feast [at Cana]. Christ has given Christians no sanction to say when invited to a marriage, We ought not to be present on so joyous an occasion. By attending this feast Christ taught that He would have us rejoice with those who do rejoice in the observance of His statutes. He never discouraged the innocent festivities of mankind when carried on in accordance with the laws of Heaven. A gathering that Christ honored by His presence, it is right that His followers should attend. After attending this feast, Christ attended many others, sanctifying them by His presence and instruction.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 16, 1899\" data-link=\"14064.4734001\">Manuscript 16, 1899</span>.</span></a></sup>",
+    "puborder": 273,
+    "translations": [
+      {
+        "para_id": "13839.335",
+        "lang": "bg",
+        "refcode": "ХД 39.8"
+      },
+      {
+        "para_id": "177.458",
+        "lang": "es",
+        "refcode": "HC 85.4"
+      },
+      {
+        "para_id": "193.420",
+        "lang": "fr",
+        "refcode": "FC 96.4"
+      },
+      {
+        "para_id": "12869.480",
+        "lang": "id",
+        "refcode": "MKB 93.4"
+      },
+      {
+        "para_id": "12178.360",
+        "lang": "pl",
+        "refcode": "ChD 60.3"
+      },
+      {
+        "para_id": "1955.567",
+        "lang": "pt",
+        "refcode": "LA 100.4"
+      },
+      {
+        "para_id": "1955.566",
+        "lang": "pt",
+        "refcode": "LA 100"
+      },
+      {
+        "para_id": "2026.415",
+        "lang": "ro",
+        "refcode": "CA 100.4"
+      },
+      {
+        "para_id": "1803.390",
+        "lang": "ru",
+        "refcode": "ХД 100.4"
+      },
+      {
+        "para_id": "12131.377",
+        "lang": "uk",
+        "refcode": "ХР 79.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.425",
+    "id_prev": "128.424",
+    "id_next": "128.428",
+    "refcode_1": "AH",
+    "refcode_2": "100",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 100.5",
+    "refcode_long": "The Adventist Home, p. 100.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Display, Extravagance, and Hilarity Are Inappropriate At Weddings</strong>&mdash;Marriage ceremonies are made matters of display, extravagance, and self-indulgence. But if the contracting parties are agreed in religious belief and practice, and everything is consistent, and the <span class=\"page-break\" data-page=\"101\"></span> ceremony be conducted without display and extravagance, marriage at this time need not be displeasing to God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 9-25-1888\" data-link=\"821.9198\">The Review and Herald, September 25, 1888</span>.</span></a></sup>",
+    "puborder": 274,
+    "translations": [
+      {
+        "para_id": "13839.336",
+        "lang": "bg",
+        "refcode": "ХД 39.9"
+      },
+      {
+        "para_id": "177.459",
+        "lang": "es",
+        "refcode": "HC 85.5"
+      },
+      {
+        "para_id": "193.421",
+        "lang": "fr",
+        "refcode": "FC 96.5"
+      },
+      {
+        "para_id": "12869.484",
+        "lang": "id",
+        "refcode": "MKB 94.1"
+      },
+      {
+        "para_id": "891.232",
+        "lang": "it",
+        "refcode": "FC 38.1"
+      },
+      {
+        "para_id": "891.231",
+        "lang": "it",
+        "refcode": "FC 38"
+      },
+      {
+        "para_id": "12178.361",
+        "lang": "pl",
+        "refcode": "ChD 60.4"
+      },
+      {
+        "para_id": "1955.569",
+        "lang": "pt",
+        "refcode": "LA 100.5"
+      },
+      {
+        "para_id": "1955.568",
+        "lang": "pt",
+        "refcode": "LA 100"
+      },
+      {
+        "para_id": "2026.416",
+        "lang": "ro",
+        "refcode": "CA 100.5"
+      },
+      {
+        "para_id": "1803.391",
+        "lang": "ru",
+        "refcode": "ХД 100.5"
+      },
+      {
+        "para_id": "12131.378",
+        "lang": "uk",
+        "refcode": "ХР 79.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.428",
+    "id_prev": "128.425",
+    "id_next": "128.429",
+    "refcode_1": "AH",
+    "refcode_2": "101",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 101.1",
+    "refcode_long": "The Adventist Home, p. 101.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There is no reason why we should make great parade or display, even if the parties were perfectly suited to each other.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 515.1\" data-link=\"114.2537\">Testimonies for the Church 4:515</span>.</span></a></sup>",
+    "puborder": 275,
+    "translations": [
+      {
+        "para_id": "13839.339",
+        "lang": "bg",
+        "refcode": "ХД 40.1"
+      },
+      {
+        "para_id": "177.462",
+        "lang": "es",
+        "refcode": "HC 86.1"
+      },
+      {
+        "para_id": "193.423",
+        "lang": "fr",
+        "refcode": "FC 97.1"
+      },
+      {
+        "para_id": "12869.485",
+        "lang": "id",
+        "refcode": "MKB 94.2"
+      },
+      {
+        "para_id": "891.233",
+        "lang": "it",
+        "refcode": "FC 38.2"
+      },
+      {
+        "para_id": "12178.362",
+        "lang": "pl",
+        "refcode": "ChD 60.5"
+      },
+      {
+        "para_id": "1955.571",
+        "lang": "pt",
+        "refcode": "LA 101.1"
+      },
+      {
+        "para_id": "2026.419",
+        "lang": "ro",
+        "refcode": "CA 101.1"
+      },
+      {
+        "para_id": "1803.394",
+        "lang": "ru",
+        "refcode": "ХД 101.1"
+      },
+      {
+        "para_id": "12131.378",
+        "lang": "uk",
+        "refcode": "ХР 79.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.429",
+    "id_prev": "128.428",
+    "id_next": "128.430",
+    "refcode_1": "AH",
+    "refcode_2": "101",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 101.2",
+    "refcode_long": "The Adventist Home, p. 101.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It has always seemed so very inappropriate to me to see the marriage ordinance associated with hilarity and glee and a pretense of something. No. It is an ordinance ordained of God, to be looked upon with the greatest solemnity. As the family relation is formed here below, it is to give a demonstration of what they shall be, the family in heaven above. The glory of God is ever to be made first.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 170, 1905\" data-link=\"14070.10337001\">Manuscript 170, 1905</span>.</span></a></sup>",
+    "puborder": 276,
+    "translations": [
+      {
+        "para_id": "13839.340",
+        "lang": "bg",
+        "refcode": "ХД 40.2"
+      },
+      {
+        "para_id": "177.463",
+        "lang": "es",
+        "refcode": "HC 86.2"
+      },
+      {
+        "para_id": "193.424",
+        "lang": "fr",
+        "refcode": "FC 97.2"
+      },
+      {
+        "para_id": "12869.486",
+        "lang": "id",
+        "refcode": "MKB 94.3"
+      },
+      {
+        "para_id": "891.234",
+        "lang": "it",
+        "refcode": "FC 38.3"
+      },
+      {
+        "para_id": "12178.363",
+        "lang": "pl",
+        "refcode": "ChD 60.6"
+      },
+      {
+        "para_id": "1955.572",
+        "lang": "pt",
+        "refcode": "LA 101.2"
+      },
+      {
+        "para_id": "2026.420",
+        "lang": "ro",
+        "refcode": "CA 101.2"
+      },
+      {
+        "para_id": "1803.395",
+        "lang": "ru",
+        "refcode": "ХД 101.2"
+      },
+      {
+        "para_id": "12131.379",
+        "lang": "uk",
+        "refcode": "ХР 79.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.430",
+    "id_prev": "128.429",
+    "id_next": "128.431",
+    "refcode_1": "AH",
+    "refcode_2": "101",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 101.3",
+    "refcode_long": "The Adventist Home, p. 101.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Wedding in Mrs. White&apos;s Home</strong>&mdash;About 11 a.m. Tuesday our large dining room was prepared for the wedding ceremony. Brother B officiated in the service, and it passed off nicely. The request was made ... that Sister White should offer prayer after the marriage ceremony. The Lord gave me special freedom. My heart was softened and subdued by the Spirit of God. On this occasion there were no light jests or foolish sayings: everything was solemn and sacred in connection with this marriage. Everything was of an elevating character and deeply impressive. The Lord sanctified this marriage, and these two now unite their interests to work in the mission field, to seek and to save them that are lost. God will bless them in their work if they walk humbly with Him, leaning wholly upon His promises.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 23, 1894\" data-link=\"14059.6868001\">Manuscript 23, 1894</span>.</span></a></sup>",
+    "puborder": 277,
+    "translations": [
+      {
+        "para_id": "13839.341",
+        "lang": "bg",
+        "refcode": "ХД 40.3"
+      },
+      {
+        "para_id": "177.464",
+        "lang": "es",
+        "refcode": "HC 86.3"
+      },
+      {
+        "para_id": "193.425",
+        "lang": "fr",
+        "refcode": "FC 97.3"
+      },
+      {
+        "para_id": "12869.488",
+        "lang": "id",
+        "refcode": "MKB 94.4"
+      },
+      {
+        "para_id": "12178.366",
+        "lang": "pl",
+        "refcode": "ChD 61.1"
+      },
+      {
+        "para_id": "1955.574",
+        "lang": "pt",
+        "refcode": "LA 101.3"
+      },
+      {
+        "para_id": "1955.573",
+        "lang": "pt",
+        "refcode": "LA 101"
+      },
+      {
+        "para_id": "2026.421",
+        "lang": "ro",
+        "refcode": "CA 101.3"
+      },
+      {
+        "para_id": "1803.396",
+        "lang": "ru",
+        "refcode": "ХД 101.3"
+      },
+      {
+        "para_id": "12131.380",
+        "lang": "uk",
+        "refcode": "ХР 79.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.431",
+    "id_prev": "128.430",
+    "id_next": "128.434",
+    "refcode_1": "AH",
+    "refcode_2": "101",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 101.4",
+    "refcode_long": "The Adventist Home, p. 101.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Blending of Two Lives</strong> <span class=\"non-egw-note\">[Note: Remarks by Mrs. E. G. White on the occasion of a wedding ceremony at Sanitarium California, in 1905.</span>]&mdash;This is an important period in the history of the ones who have stood before <span class=\"page-break\" data-page=\"102\"></span> you to unite their interests, their sympathies, their love, their labor, with each other in the ministry of the saving of souls. In the marriage relation there is a very important step taken&mdash;the blending of two lives into one.... It is in accord with the will of God that man and wife should be linked together in His work, to carry it forward in a wholeness and a holiness. They can do this.",
+    "puborder": 278,
+    "translations": [
+      {
+        "para_id": "13839.342",
+        "lang": "bg",
+        "refcode": "ХД 40.4"
+      },
+      {
+        "para_id": "177.465",
+        "lang": "es",
+        "refcode": "HC 86.4"
+      },
+      {
+        "para_id": "193.426",
+        "lang": "fr",
+        "refcode": "FC 97.4"
+      },
+      {
+        "para_id": "12869.492",
+        "lang": "id",
+        "refcode": "MKB 95.1"
+      },
+      {
+        "para_id": "891.236",
+        "lang": "it",
+        "refcode": "FC 38.4"
+      },
+      {
+        "para_id": "891.235",
+        "lang": "it",
+        "refcode": "FC 38"
+      },
+      {
+        "para_id": "12178.367",
+        "lang": "pl",
+        "refcode": "ChD 61.2"
+      },
+      {
+        "para_id": "1955.575",
+        "lang": "pt",
+        "refcode": "LA 101"
+      },
+      {
+        "para_id": "1955.576",
+        "lang": "pt",
+        "refcode": "LA 101.4"
+      },
+      {
+        "para_id": "2026.422",
+        "lang": "ro",
+        "refcode": "CA 101.4"
+      },
+      {
+        "para_id": "1803.397",
+        "lang": "ru",
+        "refcode": "ХД 101.4"
+      },
+      {
+        "para_id": "12131.383",
+        "lang": "uk",
+        "refcode": "ХР 80.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.434",
+    "id_prev": "128.431",
+    "id_next": "128.435",
+    "refcode_1": "AH",
+    "refcode_2": "102",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 102.1",
+    "refcode_long": "The Adventist Home, p. 102.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The blessing of God in the home where this union shall exist is as the sunshine of heaven, because it is the Lord&apos;s ordained will that man and wife should be linked together in holy bonds of union, under Jesus Christ, with Him to control, and His spirit to guide....",
+    "puborder": 279,
+    "translations": [
+      {
+        "para_id": "13839.343",
+        "lang": "bg",
+        "refcode": "ХД 40.5"
+      },
+      {
+        "para_id": "177.468",
+        "lang": "es",
+        "refcode": "HC 87.1"
+      },
+      {
+        "para_id": "193.427",
+        "lang": "fr",
+        "refcode": "FC 97.5"
+      },
+      {
+        "para_id": "12869.493",
+        "lang": "id",
+        "refcode": "MKB 95.2"
+      },
+      {
+        "para_id": "891.236",
+        "lang": "it",
+        "refcode": "FC 38.4"
+      },
+      {
+        "para_id": "12178.369",
+        "lang": "pl",
+        "refcode": "ChD 61.4"
+      },
+      {
+        "para_id": "1955.579",
+        "lang": "pt",
+        "refcode": "LA 102.1"
+      },
+      {
+        "para_id": "2026.425",
+        "lang": "ro",
+        "refcode": "CA 102.1"
+      },
+      {
+        "para_id": "1803.401",
+        "lang": "ru",
+        "refcode": "ХД 102.2"
+      },
+      {
+        "para_id": "12131.385",
+        "lang": "uk",
+        "refcode": "ХР 80.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.435",
+    "id_prev": "128.434",
+    "id_next": "128.436",
+    "refcode_1": "AH",
+    "refcode_2": "102",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 102.2",
+    "refcode_long": "The Adventist Home, p. 102.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God wants the home to be the happiest place on earth, the very symbol of the home in heaven. Bearing the marriage responsibilities in the home, linking their interests with Jesus Christ, leaning upon His arm and His assurance, husband and wife may share a happiness in this union that angels of God commend.",
+    "puborder": 280,
+    "translations": [
+      {
+        "para_id": "13839.344",
+        "lang": "bg",
+        "refcode": "ХД 40.6"
+      },
+      {
+        "para_id": "177.469",
+        "lang": "es",
+        "refcode": "HC 87.2"
+      },
+      {
+        "para_id": "193.430",
+        "lang": "fr",
+        "refcode": "FC 98.1"
+      },
+      {
+        "para_id": "12869.494",
+        "lang": "id",
+        "refcode": "MKB 95.3"
+      },
+      {
+        "para_id": "891.237",
+        "lang": "it",
+        "refcode": "FC 38.5"
+      },
+      {
+        "para_id": "12178.370",
+        "lang": "pl",
+        "refcode": "ChD 61.5"
+      },
+      {
+        "para_id": "1955.580",
+        "lang": "pt",
+        "refcode": "LA 102.2"
+      },
+      {
+        "para_id": "2026.426",
+        "lang": "ro",
+        "refcode": "CA 102.2"
+      },
+      {
+        "para_id": "1803.402",
+        "lang": "ru",
+        "refcode": "ХД 102.3"
+      },
+      {
+        "para_id": "12131.386",
+        "lang": "uk",
+        "refcode": "ХР 80.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.436",
+    "id_prev": "128.435",
+    "id_next": "128.437",
+    "refcode_1": "AH",
+    "refcode_2": "102",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 102.3",
+    "refcode_long": "The Adventist Home, p. 102.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Marriage does not lessen their usefulness, but strengthens it. They may make that married life a ministry to win souls to Christ; and I know whereof I speak, because for thirty-six years my husband and I were united, and we went everywhere that the Lord said Go. In this matter we know that we have the commendation of God in the marriage relation. Therefore it is a solemn ordinance....",
+    "puborder": 281,
+    "translations": [
+      {
+        "para_id": "13839.345",
+        "lang": "bg",
+        "refcode": "ХД 40.7"
+      },
+      {
+        "para_id": "177.470",
+        "lang": "es",
+        "refcode": "HC 87.3"
+      },
+      {
+        "para_id": "193.431",
+        "lang": "fr",
+        "refcode": "FC 98.2"
+      },
+      {
+        "para_id": "12869.495",
+        "lang": "id",
+        "refcode": "MKB 95.4"
+      },
+      {
+        "para_id": "891.238",
+        "lang": "it",
+        "refcode": "FC 38.6"
+      },
+      {
+        "para_id": "12178.371",
+        "lang": "pl",
+        "refcode": "ChD 61.6"
+      },
+      {
+        "para_id": "1955.581",
+        "lang": "pt",
+        "refcode": "LA 102.3"
+      },
+      {
+        "para_id": "2026.427",
+        "lang": "ro",
+        "refcode": "CA 102.3"
+      },
+      {
+        "para_id": "1803.403",
+        "lang": "ru",
+        "refcode": "ХД 102.4"
+      },
+      {
+        "para_id": "12131.387",
+        "lang": "uk",
+        "refcode": "ХР 80.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.437",
+    "id_prev": "128.436",
+    "id_next": "128.438",
+    "refcode_1": "AH",
+    "refcode_2": "102",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 102.4",
+    "refcode_long": "The Adventist Home, p. 102.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "And now I can at this time take by the hand this our brother; ... and we take by the hand you, his wife, and urge you to carry on the work of God unitedly. I would say, Make God your counselor. Blend, blend together.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 170, 1905\" data-link=\"14070.10337001\">Manuscript 170, 1905</span>.</span></a></sup>",
+    "puborder": 282,
+    "translations": [
+      {
+        "para_id": "13839.346",
+        "lang": "bg",
+        "refcode": "ХД 40.8"
+      },
+      {
+        "para_id": "177.471",
+        "lang": "es",
+        "refcode": "HC 87.4"
+      },
+      {
+        "para_id": "193.432",
+        "lang": "fr",
+        "refcode": "FC 98.3"
+      },
+      {
+        "para_id": "12869.496",
+        "lang": "id",
+        "refcode": "MKB 95.5"
+      },
+      {
+        "para_id": "12178.374",
+        "lang": "pl",
+        "refcode": "ChD 62.1"
+      },
+      {
+        "para_id": "1955.582",
+        "lang": "pt",
+        "refcode": "LA 102.4"
+      },
+      {
+        "para_id": "2026.428",
+        "lang": "ro",
+        "refcode": "CA 102.4"
+      },
+      {
+        "para_id": "1803.404",
+        "lang": "ru",
+        "refcode": "ХД 102.5"
+      },
+      {
+        "para_id": "12131.388",
+        "lang": "uk",
+        "refcode": "ХР 80.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.438",
+    "id_prev": "128.437",
+    "id_next": "128.441",
+    "refcode_1": "AH",
+    "refcode_2": "102",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 102.5",
+    "refcode_long": "The Adventist Home, p. 102.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Counsel to a Newly Wedded Pair</strong>&mdash;My Dear Brother and Sister: You have united in a lifelong <span class=\"page-break\" data-page=\"103\"></span> covenant. Your education in married life has begun. The first year of married life is a year of experience, a year in which husband and wife learn each other&apos;s different traits of character, as a child learns lessons in school. In this, the first year of your married life, let there be no chapters that will mar your future happiness....",
+    "puborder": 283,
+    "translations": [
+      {
+        "para_id": "13839.347",
+        "lang": "bg",
+        "refcode": "ХД 40.9"
+      },
+      {
+        "para_id": "177.472",
+        "lang": "es",
+        "refcode": "HC 87.5"
+      },
+      {
+        "para_id": "193.433",
+        "lang": "fr",
+        "refcode": "FC 98.4"
+      },
+      {
+        "para_id": "12869.498",
+        "lang": "id",
+        "refcode": "MKB 95.6"
+      },
+      {
+        "para_id": "12178.375",
+        "lang": "pl",
+        "refcode": "ChD 62.2"
+      },
+      {
+        "para_id": "1955.583",
+        "lang": "pt",
+        "refcode": "LA 102"
+      },
+      {
+        "para_id": "1955.584",
+        "lang": "pt",
+        "refcode": "LA 102.5"
+      },
+      {
+        "para_id": "2026.429",
+        "lang": "ro",
+        "refcode": "CA 102.5"
+      },
+      {
+        "para_id": "1803.405",
+        "lang": "ru",
+        "refcode": "ХД 102.6"
+      },
+      {
+        "para_id": "12131.390",
+        "lang": "uk",
+        "refcode": "ХР 81.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.441",
+    "id_prev": "128.438",
+    "id_next": "128.442",
+    "refcode_1": "AH",
+    "refcode_2": "103",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 103.1",
+    "refcode_long": "The Adventist Home, p. 103.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "My brother, your wife&apos;s time and strength and happiness are now bound up with yours. Your influence over her may be a savor of life unto life or of death unto death. Be very careful not to spoil her life.",
+    "puborder": 284,
+    "translations": [
+      {
+        "para_id": "13839.350",
+        "lang": "bg",
+        "refcode": "ХД 41.1"
+      },
+      {
+        "para_id": "177.474",
+        "lang": "es",
+        "refcode": "HC 88.1"
+      },
+      {
+        "para_id": "193.434",
+        "lang": "fr",
+        "refcode": "FC 98.5"
+      },
+      {
+        "para_id": "12869.501",
+        "lang": "id",
+        "refcode": "MKB 96.1"
+      },
+      {
+        "para_id": "12178.376",
+        "lang": "pl",
+        "refcode": "ChD 62.3"
+      },
+      {
+        "para_id": "1955.587",
+        "lang": "pt",
+        "refcode": "LA 103.1"
+      },
+      {
+        "para_id": "2026.432",
+        "lang": "ro",
+        "refcode": "CA 103.1"
+      },
+      {
+        "para_id": "1803.408",
+        "lang": "ru",
+        "refcode": "ХД 103.1"
+      },
+      {
+        "para_id": "12131.391",
+        "lang": "uk",
+        "refcode": "ХР 81.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.442",
+    "id_prev": "128.441",
+    "id_next": "128.443",
+    "refcode_1": "AH",
+    "refcode_2": "103",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 103.2",
+    "refcode_long": "The Adventist Home, p. 103.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "My sister, you are now to learn your first practical lessons in regard to the responsibilities of married life. Be sure to learn these lessons faithfully day by day.... Guard constantly against giving way to selfishness.",
+    "puborder": 285,
+    "translations": [
+      {
+        "para_id": "13839.351",
+        "lang": "bg",
+        "refcode": "ХД 41.2"
+      },
+      {
+        "para_id": "177.475",
+        "lang": "es",
+        "refcode": "HC 88.2"
+      },
+      {
+        "para_id": "193.435",
+        "lang": "fr",
+        "refcode": "FC 98.6"
+      },
+      {
+        "para_id": "12869.502",
+        "lang": "id",
+        "refcode": "MKB 96.2"
+      },
+      {
+        "para_id": "12178.377",
+        "lang": "pl",
+        "refcode": "ChD 62.4"
+      },
+      {
+        "para_id": "1955.588",
+        "lang": "pt",
+        "refcode": "LA 103.2"
+      },
+      {
+        "para_id": "2026.433",
+        "lang": "ro",
+        "refcode": "CA 103.2"
+      },
+      {
+        "para_id": "1803.409",
+        "lang": "ru",
+        "refcode": "ХД 103.2"
+      },
+      {
+        "para_id": "12131.392",
+        "lang": "uk",
+        "refcode": "ХР 81.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.443",
+    "id_prev": "128.442",
+    "id_next": "128.444",
+    "refcode_1": "AH",
+    "refcode_2": "103",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 103.3",
+    "refcode_long": "The Adventist Home, p. 103.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In your life union your affections are to be tributary to each other&apos;s happiness. Each is to minister to the happiness of the other. This is the will of God concerning you. But while you are to blend as one, neither of you is to lose his or her individuality in the other. God is the owner of your individuality. Of Him you are to ask: What is right? What is wrong? How may I best fulfill the purpose of my creation?<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"7T 45.1\" data-link=\"117.240\">Testimonies for the Church 7:45</span>.</span></a></sup>",
+    "puborder": 286,
+    "translations": [
+      {
+        "para_id": "13839.352",
+        "lang": "bg",
+        "refcode": "ХД 41.3"
+      },
+      {
+        "para_id": "177.476",
+        "lang": "es",
+        "refcode": "HC 88.3"
+      },
+      {
+        "para_id": "193.437",
+        "lang": "fr",
+        "refcode": "FC 99.1"
+      },
+      {
+        "para_id": "12869.503",
+        "lang": "id",
+        "refcode": "MKB 96.3"
+      },
+      {
+        "para_id": "12178.378",
+        "lang": "pl",
+        "refcode": "ChD 62.5"
+      },
+      {
+        "para_id": "1955.589",
+        "lang": "pt",
+        "refcode": "LA 103.3"
+      },
+      {
+        "para_id": "2026.434",
+        "lang": "ro",
+        "refcode": "CA 103.3"
+      },
+      {
+        "para_id": "1803.410",
+        "lang": "ru",
+        "refcode": "ХД 103.3"
+      },
+      {
+        "para_id": "12131.393",
+        "lang": "uk",
+        "refcode": "ХР 81.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.444",
+    "id_prev": "128.443",
+    "id_next": "128.445",
+    "refcode_1": "AH",
+    "refcode_2": "103",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 103.4",
+    "refcode_long": "The Adventist Home, p. 103.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Pledge Before Heavenly Witnesses</strong>&mdash;God has ordained that there should be perfect love and harmony between those who enter into the marriage relation. Let bride and bridegroom, in the presence of the heavenly universe, pledge themselves to love each other as God has ordained they should.... The wife is to respect and reverence her husband, and the husband is to love and cherish his wife.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"BEcho 9-4-1899\" data-link=\"459.1493\">The Bible Echo, September 4, 1899</span>.</span></a></sup>",
+    "puborder": 287,
+    "translations": [
+      {
+        "para_id": "13839.353",
+        "lang": "bg",
+        "refcode": "ХД 41.4"
+      },
+      {
+        "para_id": "177.477",
+        "lang": "es",
+        "refcode": "HC 88.4"
+      },
+      {
+        "para_id": "193.438",
+        "lang": "fr",
+        "refcode": "FC 99.2"
+      },
+      {
+        "para_id": "12869.505",
+        "lang": "id",
+        "refcode": "MKB 96.4"
+      },
+      {
+        "para_id": "12178.379",
+        "lang": "pl",
+        "refcode": "ChD 62.6"
+      },
+      {
+        "para_id": "1955.590",
+        "lang": "pt",
+        "refcode": "LA 103"
+      },
+      {
+        "para_id": "1955.591",
+        "lang": "pt",
+        "refcode": "LA 103.4"
+      },
+      {
+        "para_id": "2026.435",
+        "lang": "ro",
+        "refcode": "CA 103.4"
+      },
+      {
+        "para_id": "1803.411",
+        "lang": "ru",
+        "refcode": "ХД 103.4"
+      },
+      {
+        "para_id": "12131.394",
+        "lang": "uk",
+        "refcode": "ХР 81.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.445",
+    "id_prev": "128.444",
+    "id_next": "128.447",
+    "refcode_1": "AH",
+    "refcode_2": "103",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 103.5",
+    "refcode_long": "The Adventist Home, p. 103.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Men and women, at the beginning of married life, should reconsecrate themselves to God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 70, 1903\" data-link=\"14068.10663001\">Manuscript 70, 1903</span>.</span></a></sup>",
+    "puborder": 288,
+    "translations": [
+      {
+        "para_id": "13839.354",
+        "lang": "bg",
+        "refcode": "ХД 41.5"
+      },
+      {
+        "para_id": "177.478",
+        "lang": "es",
+        "refcode": "HC 88.5"
+      },
+      {
+        "para_id": "193.439",
+        "lang": "fr",
+        "refcode": "FC 99.3"
+      },
+      {
+        "para_id": "12869.506",
+        "lang": "id",
+        "refcode": "MKB 96.5"
+      },
+      {
+        "para_id": "12178.382",
+        "lang": "pl",
+        "refcode": "ChD 63.1"
+      },
+      {
+        "para_id": "1955.592",
+        "lang": "pt",
+        "refcode": "LA 103.5"
+      },
+      {
+        "para_id": "2026.436",
+        "lang": "ro",
+        "refcode": "CA 103.5"
+      },
+      {
+        "para_id": "1803.412",
+        "lang": "ru",
+        "refcode": "ХД 103.5"
+      },
+      {
+        "para_id": "12131.395",
+        "lang": "uk",
+        "refcode": "ХР 81.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.447",
+    "id_prev": "128.445",
+    "id_next": "128.449",
+    "refcode_1": "AH",
+    "refcode_2": "104",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 104.1",
+    "refcode_long": "The Adventist Home, p. 104.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Be as true as steel to your marriage vows, refusing, in thought, word, or deed, to spoil your record as a man who fears God and obeys His commandments.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">14<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 231, 1903\" data-link=\"14068.10595001\">Letter 231, 1903</span>.</span></a></sup>",
+    "puborder": 289,
+    "translations": [
+      {
+        "para_id": "13839.355",
+        "lang": "bg",
+        "refcode": "ХД 41.6"
+      },
+      {
+        "para_id": "177.479",
+        "lang": "es",
+        "refcode": "HC 88.6"
+      },
+      {
+        "para_id": "193.440",
+        "lang": "fr",
+        "refcode": "FC 99.4"
+      },
+      {
+        "para_id": "12869.507",
+        "lang": "id",
+        "refcode": "MKB 96.6"
+      },
+      {
+        "para_id": "12178.383",
+        "lang": "pl",
+        "refcode": "ChD 63.2"
+      },
+      {
+        "para_id": "1955.594",
+        "lang": "pt",
+        "refcode": "LA 104.1"
+      },
+      {
+        "para_id": "2026.438",
+        "lang": "ro",
+        "refcode": "CA 104.1"
+      },
+      {
+        "para_id": "1803.2518",
+        "lang": "ru",
+        "refcode": "ХД 103.6"
+      },
+      {
+        "para_id": "12131.395",
+        "lang": "uk",
+        "refcode": "ХР 81.6"
+      }
+    ]
+  }
+]

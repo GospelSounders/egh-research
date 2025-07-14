@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.624",
+    "id_prev": "21.622",
+    "id_next": "21.625",
+    "refcode_1": "CSW",
+    "refcode_2": "135",
+    "refcode_3": "",
+    "refcode_4": "98",
+    "refcode_short": "CSW 135",
+    "refcode_long": "Counsels on Sabbath School Work, p. 135 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Praying and Giving for Missions",
+    "puborder": 391,
+    "translations": [
+      {
+        "para_id": "11629.599",
+        "lang": "da",
+        "refcode": "RSSA 135"
+      },
+      {
+        "para_id": "799.592",
+        "lang": "de",
+        "refcode": "RSs 112"
+      },
+      {
+        "para_id": "1711.670",
+        "lang": "es",
+        "refcode": "COES 151"
+      },
+      {
+        "para_id": "1724.662",
+        "lang": "pt",
+        "refcode": "CES 135"
+      },
+      {
+        "para_id": "1917.733",
+        "lang": "pt",
+        "refcode": "CES38 70"
+      },
+      {
+        "para_id": "2719.641",
+        "lang": "ro",
+        "refcode": "SSS 135"
+      },
+      {
+        "para_id": "1873.619",
+        "lang": "ru",
+        "refcode": "ССШ 135"
+      }
+    ]
+  },
+  {
+    "para_id": "21.625",
+    "id_prev": "21.624",
+    "id_next": "21.626",
+    "refcode_1": "CSW",
+    "refcode_2": "135",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 135.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 135.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Brethren and sisters, will you today pledge yourselves before God to pray for these workers who have been chosen to go to other lands? Will you pledge yourselves not only to pray for them, but to sustain them with your tithes and offerings? Will you pledge yourselves to practice strict self-denial in order that you may have more to give for the advancement of the work in the &ldquo;regions beyond&rdquo;? We feel moved by the Spirit of God to ask you to pledge yourselves before Him to lay by something weekly for the support of our missionaries. God will help and bless you in doing this.&mdash;<span class=\"egwlink egwlink_book\" title=\"RH 11-11-1902\" data-link=\"821.22246\"><em>The Review and Herald</em>, November 11, 1902</span>.",
+    "puborder": 392,
+    "translations": [
+      {
+        "para_id": "11629.600",
+        "lang": "da",
+        "refcode": "RSSA 135.1"
+      },
+      {
+        "para_id": "799.593",
+        "lang": "de",
+        "refcode": "RSs 112.2"
+      },
+      {
+        "para_id": "1711.671",
+        "lang": "es",
+        "refcode": "COES 151.2"
+      },
+      {
+        "para_id": "1917.734",
+        "lang": "pt",
+        "refcode": "CES38 70.3"
+      },
+      {
+        "para_id": "1724.663",
+        "lang": "pt",
+        "refcode": "CES 135.1"
+      },
+      {
+        "para_id": "2719.642",
+        "lang": "ro",
+        "refcode": "SSS 135.1"
+      },
+      {
+        "para_id": "1873.620",
+        "lang": "ru",
+        "refcode": "ССШ 135.1"
+      }
+    ]
+  }
+]

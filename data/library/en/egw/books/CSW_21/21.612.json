@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.612",
+    "id_prev": "21.609",
+    "id_next": "21.613",
+    "refcode_1": "CSW",
+    "refcode_2": "133",
+    "refcode_3": "",
+    "refcode_4": "94",
+    "refcode_short": "CSW 133",
+    "refcode_long": "Counsels on Sabbath School Work, p. 133 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "When We May Tire of Giving",
+    "puborder": 382,
+    "translations": [
+      {
+        "para_id": "11629.586",
+        "lang": "da",
+        "refcode": "RSSA 133"
+      },
+      {
+        "para_id": "799.579",
+        "lang": "de",
+        "refcode": "RSs 110"
+      },
+      {
+        "para_id": "1711.657",
+        "lang": "es",
+        "refcode": "COES 149"
+      },
+      {
+        "para_id": "1724.650",
+        "lang": "pt",
+        "refcode": "CES 133"
+      },
+      {
+        "para_id": "1917.720",
+        "lang": "pt",
+        "refcode": "CES38 69"
+      },
+      {
+        "para_id": "2719.629",
+        "lang": "ro",
+        "refcode": "SSS 133"
+      },
+      {
+        "para_id": "1873.607",
+        "lang": "ru",
+        "refcode": "ССШ 133"
+      }
+    ]
+  },
+  {
+    "para_id": "21.613",
+    "id_prev": "21.612",
+    "id_next": "21.614",
+    "refcode_1": "CSW",
+    "refcode_2": "133",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 133.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 133.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Well, says one, the calls keep coming to give to the cause. I am weary of giving. Are you? Then let me ask, Are you weary of receiving from God&apos;s beneficent hand? Not until He ceases to bless you will you cease to be under bonds to return to Him the portion He claims. He blesses you that it may be in your power to bless others. When you are weary of receiving, then you may say, I am weary of so many calls to give.&mdash;<span class=\"egwlink egwlink_book\" title=\"5T 150.1\" data-link=\"113.748\"><em>Testimonies for the Church</em> 5:150</span>.",
+    "puborder": 383,
+    "translations": [
+      {
+        "para_id": "11629.587",
+        "lang": "da",
+        "refcode": "RSSA 133.1"
+      },
+      {
+        "para_id": "799.580",
+        "lang": "de",
+        "refcode": "RSs 110.2"
+      },
+      {
+        "para_id": "1711.658",
+        "lang": "es",
+        "refcode": "COES 149.2"
+      },
+      {
+        "para_id": "1917.721",
+        "lang": "pt",
+        "refcode": "CES38 69.2"
+      },
+      {
+        "para_id": "1724.651",
+        "lang": "pt",
+        "refcode": "CES 133.1"
+      },
+      {
+        "para_id": "2719.630",
+        "lang": "ro",
+        "refcode": "SSS 133.1"
+      },
+      {
+        "para_id": "1873.608",
+        "lang": "ru",
+        "refcode": "ССШ 133.1"
+      }
+    ]
+  }
+]

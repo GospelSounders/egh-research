@@ -1,0 +1,541 @@
+[
+  {
+    "para_id": "127.5",
+    "level": 0,
+    "title": "The Acts of the Apostles",
+    "refcode_short": "AA iv",
+    "dup": null,
+    "puborder": 1
+  },
+  {
+    "para_id": "127.7",
+    "level": 1,
+    "title": "Preface",
+    "refcode_short": "AA v",
+    "dup": "127.5",
+    "mp3": "/mp3/127/0002_eng_m_preface_127_7.mp3#duration=220&size=1872733",
+    "puborder": 2
+  },
+  {
+    "para_id": "127.22",
+    "level": 1,
+    "title": "Chapter 1—God's Purpose for His Church",
+    "refcode_short": "AA 9",
+    "dup": null,
+    "mp3": "/mp3/127/0004_eng_m_chapter_1_god_s_purpose_for_his_church_127_22.mp3#duration=773&size=6301029",
+    "puborder": 11
+  },
+  {
+    "para_id": "127.53",
+    "level": 1,
+    "title": "Chapter 2—The Training of the Twelve",
+    "refcode_short": "AA 17",
+    "dup": null,
+    "mp3": "/mp3/127/0005_eng_m_chapter_2_the_training_of_the_twelve_127_53.mp3#duration=722&size=5889173",
+    "puborder": 29
+  },
+  {
+    "para_id": "127.86",
+    "level": 1,
+    "title": "Chapter 3—The Great Commission",
+    "refcode_short": "AA 25",
+    "dup": null,
+    "mp3": "/mp3/127/0006_eng_m_chapter_3_the_great_commission_127_86.mp3#duration=934&size=7585304",
+    "puborder": 48
+  },
+  {
+    "para_id": "127.128",
+    "level": 1,
+    "title": "Chapter 4—Pentecost",
+    "refcode_short": "AA 35",
+    "dup": null,
+    "mp3": "/mp3/127/0007_eng_m_chapter_4_pentecost_127_128.mp3#duration=1165&size=9431451",
+    "puborder": 72
+  },
+  {
+    "para_id": "127.180",
+    "level": 1,
+    "title": "Chapter 5—The Gift of the Spirit",
+    "refcode_short": "AA 47",
+    "dup": null,
+    "mp3": "/mp3/127/0008_eng_m_chapter_5_the_gift_of_the_spirit_127_180.mp3#duration=978&size=7938390",
+    "puborder": 105
+  },
+  {
+    "para_id": "127.222",
+    "level": 1,
+    "title": "Chapter 6—At the Temple Gate",
+    "refcode_short": "AA 57",
+    "dup": null,
+    "mp3": "/mp3/127/0009_eng_m_chapter_6_at_the_temple_gate_127_222.mp3#duration=1223&size=9897719",
+    "puborder": 131
+  },
+  {
+    "para_id": "127.281",
+    "level": 1,
+    "title": "Chapter 7—A Warning Against Hypocrisy",
+    "refcode_short": "AA 70",
+    "dup": null,
+    "mp3": "/mp3/127/0010_eng_m_chapter_7_a_warning_against_hypocrisy_127_281.mp3#duration=656&size=5359726",
+    "puborder": 169
+  },
+  {
+    "para_id": "127.312",
+    "level": 1,
+    "title": "Chapter 8—Before the Sanhedrin",
+    "refcode_short": "AA 77",
+    "dup": null,
+    "mp3": "/mp3/127/0011_eng_m_chapter_8_before_the_sanhedrin_127_312.mp3#duration=919&size=7465053",
+    "puborder": 189
+  },
+  {
+    "para_id": "127.355",
+    "level": 1,
+    "title": "Chapter 9—The Seven Deacons",
+    "refcode_short": "AA 87",
+    "dup": null,
+    "mp3": "/mp3/127/0012_eng_m_chapter_9_the_seven_deacons_127_355.mp3#duration=937&size=7613541",
+    "puborder": 215
+  },
+  {
+    "para_id": "127.396",
+    "level": 1,
+    "title": "Chapter 10—The First Christian Martyr",
+    "refcode_short": "AA 97",
+    "dup": null,
+    "mp3": "/mp3/127/0013_eng_m_chapter_10_the_first_christian_martyr_127_396.mp3#duration=516&size=4238364",
+    "puborder": 239
+  },
+  {
+    "para_id": "127.422",
+    "level": 1,
+    "title": "Chapter 11—The Gospel in Samaria",
+    "refcode_short": "AA 103",
+    "dup": null,
+    "mp3": "/mp3/127/0014_eng_m_chapter_11_the_gospel_in_samaria_127_422.mp3#duration=831&size=6760841",
+    "puborder": 255
+  },
+  {
+    "para_id": "127.463",
+    "level": 1,
+    "title": "Chapter 12—From Persecutor to Disciple",
+    "refcode_short": "AA 112",
+    "dup": null,
+    "mp3": "/mp3/127/0015_eng_m_chapter_12_from_persecutor_to_disciple_127_463.mp3#duration=1075&size=8716854",
+    "puborder": 282
+  },
+  {
+    "para_id": "127.516",
+    "level": 1,
+    "title": "Chapter 13—Days of Preparation",
+    "refcode_short": "AA 123",
+    "dup": null,
+    "mp3": "/mp3/127/0016_eng_m_chapter_13_days_of_preparation_127_516.mp3#duration=769&size=6268457",
+    "puborder": 317
+  },
+  {
+    "para_id": "127.551",
+    "level": 1,
+    "title": "Chapter 14—A Seeker for Truth",
+    "refcode_short": "AA 131",
+    "dup": null,
+    "mp3": "/mp3/127/0017_eng_m_chapter_14_a_seeker_for_truth_127_551.mp3#duration=1048&size=8495703",
+    "puborder": 339
+  },
+  {
+    "para_id": "127.614",
+    "level": 1,
+    "title": "Chapter 15—Delivered From Prison",
+    "refcode_short": "AA 143",
+    "dup": null,
+    "mp3": "/mp3/127/0018_eng_m_chapter_15_delivered_from_prison_127_614.mp3#duration=1114&size=9024189",
+    "puborder": 382
+  },
+  {
+    "para_id": "127.672",
+    "level": 1,
+    "title": "Chapter 16—The Gospel Message in Antioch",
+    "refcode_short": "AA 155",
+    "dup": null,
+    "mp3": "/mp3/127/0019_eng_m_chapter_16_the_gospel_message_in_antioch_127_672.mp3#duration=1026&size=8323855",
+    "puborder": 420
+  },
+  {
+    "para_id": "127.719",
+    "level": 1,
+    "title": "Chapter 17—Heralds of the Gospel",
+    "refcode_short": "AA 166",
+    "dup": null,
+    "mp3": "/mp3/127/0020_eng_m_chapter_17_heralds_of_the_gospel_127_719.mp3#duration=1016&size=8242209",
+    "puborder": 448
+  },
+  {
+    "para_id": "127.772",
+    "level": 1,
+    "title": "Chapter 18—Preaching Among the Heathen",
+    "refcode_short": "AA 177",
+    "dup": null,
+    "mp3": "/mp3/127/0021_eng_m_chapter_18_preaching_among_the_heathen_127_772.mp3#duration=937&size=7610631",
+    "puborder": 482
+  },
+  {
+    "para_id": "127.824",
+    "level": 1,
+    "title": "Chapter 19—Jew and Gentile",
+    "refcode_short": "AA 188",
+    "dup": null,
+    "mp3": "/mp3/127/0022_eng_m_chapter_19_jew_and_gentile_127_824.mp3#duration=1242&size=10048136",
+    "puborder": 515
+  },
+  {
+    "para_id": "127.882",
+    "level": 1,
+    "title": "Chapter 20—Exalting the Cross",
+    "refcode_short": "AA 201",
+    "dup": null,
+    "mp3": "/mp3/127/0023_eng_m_chapter_20_exalting_the_cross_127_882.mp3#duration=933&size=7577369",
+    "puborder": 552
+  },
+  {
+    "para_id": "127.926",
+    "level": 1,
+    "title": "Chapter 21—In the Regions Beyond",
+    "refcode_short": "AA 211",
+    "dup": null,
+    "mp3": "/mp3/127/0024_eng_m_chapter_21_in_the_regions_beyond_127_926.mp3#duration=863&size=7019328",
+    "puborder": 580
+  },
+  {
+    "para_id": "127.972",
+    "level": 1,
+    "title": "Chapter 22—Thessalonica",
+    "refcode_short": "AA 221",
+    "dup": null,
+    "mp3": "/mp3/127/0025_eng_m_chapter_22_thessalonica_127_972.mp3#duration=979&size=7945600",
+    "puborder": 611
+  },
+  {
+    "para_id": "127.1020",
+    "level": 1,
+    "title": "Chapter 23—Berea and Athens",
+    "refcode_short": "AA 231",
+    "dup": null,
+    "mp3": "/mp3/127/0026_eng_m_chapter_23_berea_and_athens_127_1020.mp3#duration=1118&size=9058468",
+    "puborder": 643
+  },
+  {
+    "para_id": "127.1076",
+    "level": 1,
+    "title": "Chapter 24—Corinth",
+    "refcode_short": "AA 243",
+    "dup": null,
+    "mp3": "/mp3/127/0027_eng_m_chapter_24_corinth_127_1076.mp3#duration=1102&size=8926811",
+    "puborder": 679
+  },
+  {
+    "para_id": "127.1124",
+    "level": 1,
+    "title": "Chapter 25—The Thessalonian Letters",
+    "refcode_short": "AA 255",
+    "dup": null,
+    "mp3": "/mp3/127/0028_eng_m_chapter_25_the_thessalonian_letters_127_1124.mp3#duration=1250&size=10111047",
+    "puborder": 711
+  },
+  {
+    "para_id": "127.1187",
+    "level": 1,
+    "title": "Chapter 26—Apollos at Corinth",
+    "refcode_short": "AA 269",
+    "dup": null,
+    "mp3": "/mp3/127/0029_eng_m_chapter_26_apollos_at_corinth_127_1187.mp3#duration=1185&size=9594512",
+    "puborder": 750
+  },
+  {
+    "para_id": "127.1240",
+    "level": 1,
+    "title": "Chapter 27—Ephesus",
+    "refcode_short": "AA 281",
+    "dup": null,
+    "mp3": "/mp3/127/0030_eng_m_chapter_27_ephesus_127_1240.mp3#duration=964&size=7823458",
+    "puborder": 782
+  },
+  {
+    "para_id": "127.1286",
+    "level": 1,
+    "title": "Chapter 28—Days of Toil and Trial",
+    "refcode_short": "AA 291",
+    "dup": null,
+    "mp3": "/mp3/127/0031_eng_m_chapter_28_days_of_toil_and_trial_127_1286.mp3#duration=600&size=4911778",
+    "puborder": 811
+  },
+  {
+    "para_id": "127.1318",
+    "level": 1,
+    "title": "Chapter 29—A Message of Warning and Entreaty",
+    "refcode_short": "AA 298",
+    "dup": null,
+    "mp3": "/mp3/127/0032_eng_m_chapter_29_a_message_of_warning_and_entreaty_127_1318.mp3#duration=974&size=7902169",
+    "puborder": 832
+  },
+  {
+    "para_id": "127.1365",
+    "level": 1,
+    "title": "Chapter 30—Called to Reach a Higher Standard",
+    "refcode_short": "AA 309",
+    "dup": null,
+    "mp3": "/mp3/127/0033_eng_m_chapter_30_called_to_reach_a_higher_standard_127_1365.mp3#duration=1355&size=10958319",
+    "puborder": 859
+  },
+  {
+    "para_id": "127.1427",
+    "level": 1,
+    "title": "Chapter 31—The Message Heeded",
+    "refcode_short": "AA 323",
+    "dup": null,
+    "mp3": "/mp3/127/0034_eng_m_chapter_31_the_message_heeded_127_1427.mp3#duration=1119&size=9065902",
+    "puborder": 895
+  },
+  {
+    "para_id": "127.1476",
+    "level": 1,
+    "title": "Chapter 32—A Liberal Church",
+    "refcode_short": "AA 335",
+    "dup": null,
+    "mp3": "/mp3/127/0035_eng_m_chapter_32_a_liberal_church_127_1476.mp3#duration=1055&size=8555731",
+    "puborder": 925
+  },
+  {
+    "para_id": "127.1525",
+    "level": 1,
+    "title": "Chapter 33—Laboring Under Difficulties",
+    "refcode_short": "AA 346",
+    "dup": null,
+    "mp3": "/mp3/127/0036_eng_m_chapter_33_laboring_under_difficulties_127_1525.mp3#duration=1175&size=9517198",
+    "puborder": 954
+  },
+  {
+    "para_id": "127.1582",
+    "level": 1,
+    "title": "Chapter 34—A Consecrated Ministry",
+    "refcode_short": "AA 359",
+    "dup": null,
+    "mp3": "/mp3/127/0037_eng_m_chapter_34_a_consecrated_ministry_127_1582.mp3#duration=1255&size=10156303",
+    "puborder": 986
+  },
+  {
+    "para_id": "127.1638",
+    "level": 1,
+    "title": "Chapter 35—Salvation to the Jews",
+    "refcode_short": "AA 372",
+    "dup": null,
+    "mp3": "/mp3/127/0038_eng_m_chapter_35_salvation_to_the_jews_127_1638.mp3#duration=985&size=7992854",
+    "puborder": 1019
+  },
+  {
+    "para_id": "127.1682",
+    "level": 1,
+    "title": "Chapter 36—Apostasy in Galatia",
+    "refcode_short": "AA 383",
+    "dup": null,
+    "mp3": "/mp3/127/0039_eng_m_chapter_36_apostasy_in_galatia_127_1682.mp3#duration=542&size=4446436",
+    "puborder": 1046
+  },
+  {
+    "para_id": "127.1709",
+    "level": 1,
+    "title": "Chapter 37—Paul's Last Journey to Jerusalem",
+    "refcode_short": "AA 389",
+    "dup": null,
+    "mp3": "/mp3/127/0040_eng_m_chapter_37_paul_s_last_journey_to_jerusalem_127_1709.mp3#duration=923&size=7497992",
+    "puborder": 1064
+  },
+  {
+    "para_id": "127.1757",
+    "level": 1,
+    "title": "Chapter 38—Paul a Prisoner",
+    "refcode_short": "AA 399",
+    "dup": null,
+    "mp3": "/mp3/127/0041_eng_m_chapter_38_paul_a_prisoner_127_1757.mp3#duration=1820&size=14678192",
+    "puborder": 1095
+  },
+  {
+    "para_id": "127.1849",
+    "level": 1,
+    "title": "Chapter 39—The Trial at Caesarea",
+    "refcode_short": "AA 419",
+    "dup": null,
+    "mp3": "/mp3/127/0042_eng_m_chapter_39_the_trial_at_caesarea_127_1849.mp3#duration=834&size=6785270",
+    "puborder": 1153
+  },
+  {
+    "para_id": "127.1890",
+    "level": 1,
+    "title": "Chapter 40—Paul Appeals to Caesar",
+    "refcode_short": "AA 428",
+    "dup": null,
+    "mp3": "/mp3/127/0043_eng_m_chapter_40_paul_appeals_to_caesar_127_1890.mp3#duration=392&size=3250567",
+    "puborder": 1178
+  },
+  {
+    "para_id": "127.1909",
+    "level": 1,
+    "title": "Chapter 41—“Almost Thou Persuadest Me”",
+    "refcode_short": "AA 433",
+    "dup": null,
+    "mp3": "/mp3/127/0044_eng_m_chapter_41_almost_thou_persuadest_me_127_1909.mp3#duration=549&size=4504538",
+    "puborder": 1190
+  },
+  {
+    "para_id": "127.1939",
+    "level": 1,
+    "title": "Chapter 42—The Voyage and Shipwreck",
+    "refcode_short": "AA 439",
+    "dup": null,
+    "mp3": "/mp3/127/0045_eng_m_chapter_42_the_voyage_and_shipwreck_127_1939.mp3#duration=710&size=5790271",
+    "puborder": 1212
+  },
+  {
+    "para_id": "127.1976",
+    "level": 1,
+    "title": "Chapter 43—In Rome",
+    "refcode_short": "AA 447",
+    "dup": null,
+    "mp3": "/mp3/127/0046_eng_m_chapter_43_in_rome_127_1976.mp3#duration=1273&size=10300416",
+    "puborder": 1236
+  },
+  {
+    "para_id": "127.2039",
+    "level": 1,
+    "title": "Chapter 44—Caesar's Household",
+    "refcode_short": "AA 461",
+    "dup": null,
+    "mp3": "/mp3/127/0047_eng_m_chapter_44_caesar_s_household_127_2039.mp3#duration=717&size=5845913",
+    "puborder": 1276
+  },
+  {
+    "para_id": "127.2074",
+    "level": 1,
+    "title": "Chapter 45—Written From Rome",
+    "refcode_short": "AA 469",
+    "dup": null,
+    "mp3": "/mp3/127/0048_eng_m_chapter_45_written_from_rome_127_2074.mp3#duration=1584&size=12783203",
+    "puborder": 1297
+  },
+  {
+    "para_id": "127.2144",
+    "level": 1,
+    "title": "Chapter 46—At Liberty",
+    "refcode_short": "AA 485",
+    "dup": null,
+    "mp3": "/mp3/127/0049_eng_m_chapter_46_at_liberty_127_2144.mp3#duration=306&size=2562544",
+    "puborder": 1339
+  },
+  {
+    "para_id": "127.2162",
+    "level": 1,
+    "title": "Chapter 47—The Final Arrest",
+    "refcode_short": "AA 489",
+    "dup": null,
+    "mp3": "/mp3/127/0050_eng_m_chapter_47_the_final_arrest_127_2162.mp3#duration=216&size=1840167",
+    "puborder": 1350
+  },
+  {
+    "para_id": "127.2174",
+    "level": 1,
+    "title": "Chapter 48—Paul Before Nero",
+    "refcode_short": "AA 492",
+    "dup": null,
+    "mp3": "/mp3/127/0051_eng_m_chapter_48_paul_before_nero_127_2174.mp3#duration=547&size=4489592",
+    "puborder": 1358
+  },
+  {
+    "para_id": "127.2201",
+    "level": 1,
+    "title": "Chapter 49—Paul's Last Letter",
+    "refcode_short": "AA 498",
+    "dup": null,
+    "mp3": "/mp3/127/0052_eng_m_chapter_49_paul_s_last_letter_127_2201.mp3#duration=1021&size=8282647",
+    "puborder": 1374
+  },
+  {
+    "para_id": "127.2250",
+    "level": 1,
+    "title": "Chapter 50—Condemned to Die",
+    "refcode_short": "AA 509",
+    "dup": null,
+    "mp3": "/mp3/127/0053_eng_m_chapter_50_condemned_to_die_127_2250.mp3#duration=455&size=3756819",
+    "puborder": 1404
+  },
+  {
+    "para_id": "127.2269",
+    "level": 1,
+    "title": "Chapter 51—A Faithful Under-Shepherd",
+    "refcode_short": "AA 514",
+    "dup": null,
+    "mp3": "/mp3/127/0054_eng_m_chapter_51_a_faithful_under_shepherd_127_2269.mp3#duration=1456&size=11761042",
+    "puborder": 1414
+  },
+  {
+    "para_id": "127.2335",
+    "level": 1,
+    "title": "Chapter 52—Steadfast Unto the End",
+    "refcode_short": "AA 529",
+    "dup": null,
+    "mp3": "/mp3/127/0055_eng_m_chapter_52_steadfast_unto_the_end_127_2335.mp3#duration=906&size=7359388",
+    "puborder": 1455
+  },
+  {
+    "para_id": "127.2377",
+    "level": 1,
+    "title": "Chapter 53—John the Beloved",
+    "refcode_short": "AA 539",
+    "dup": null,
+    "mp3": "/mp3/127/0056_eng_m_chapter_53_john_the_beloved_127_2377.mp3#duration=697&size=5688867",
+    "puborder": 1481
+  },
+  {
+    "para_id": "127.2409",
+    "level": 1,
+    "title": "Chapter 54—A Faithful Witness",
+    "refcode_short": "AA 546",
+    "dup": null,
+    "mp3": "/mp3/127/0057_eng_m_chapter_54_a_faithful_witness_127_2409.mp3#duration=1002&size=8132499",
+    "puborder": 1500
+  },
+  {
+    "para_id": "127.2454",
+    "level": 1,
+    "title": "Chapter 55—Transformed by Grace",
+    "refcode_short": "AA 557",
+    "dup": null,
+    "mp3": "/mp3/127/0058_eng_m_chapter_55_transformed_by_grace_127_2454.mp3#duration=1083&size=8779611",
+    "puborder": 1528
+  },
+  {
+    "para_id": "127.2496",
+    "level": 1,
+    "title": "Chapter 56—Patmos",
+    "refcode_short": "AA 568",
+    "dup": null,
+    "mp3": "/mp3/127/0059_eng_m_chapter_56_patmos_127_2496.mp3#duration=887&size=7211205",
+    "puborder": 1554
+  },
+  {
+    "para_id": "127.2541",
+    "level": 1,
+    "title": "Chapter 57—The Revelation",
+    "refcode_short": "AA 578",
+    "dup": null,
+    "mp3": "/mp3/127/0060_eng_m_chapter_57_the_revelation_127_2541.mp3#duration=1522&size=12293979",
+    "puborder": 1580
+  },
+  {
+    "para_id": "127.2611",
+    "level": 1,
+    "title": "Chapter 58—The Church Triumphant",
+    "refcode_short": "AA 593",
+    "dup": null,
+    "mp3": "/mp3/127/0061_eng_m_chapter_58_the_church_triumphant_127_2611.mp3#duration=1029&size=8348746",
+    "puborder": 1622
+  }
+]

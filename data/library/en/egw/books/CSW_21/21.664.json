@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.664",
+    "id_prev": "21.661",
+    "id_next": "21.665",
+    "refcode_1": "CSW",
+    "refcode_2": "142",
+    "refcode_3": "",
+    "refcode_4": "109",
+    "refcode_short": "CSW 142",
+    "refcode_long": "Counsels on Sabbath School Work, p. 142 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Revenue of Small Gifts",
+    "puborder": 418,
+    "translations": [
+      {
+        "para_id": "11629.638",
+        "lang": "da",
+        "refcode": "RSSA 142"
+      },
+      {
+        "para_id": "799.627",
+        "lang": "de",
+        "refcode": "RSs 117"
+      },
+      {
+        "para_id": "1711.710",
+        "lang": "es",
+        "refcode": "COES 159"
+      },
+      {
+        "para_id": "1917.780",
+        "lang": "pt",
+        "refcode": "CES38 74"
+      },
+      {
+        "para_id": "1724.702",
+        "lang": "pt",
+        "refcode": "CES 142"
+      },
+      {
+        "para_id": "2719.681",
+        "lang": "ro",
+        "refcode": "SSS 142"
+      },
+      {
+        "para_id": "1873.659",
+        "lang": "ru",
+        "refcode": "ССШ 142"
+      }
+    ]
+  },
+  {
+    "para_id": "21.665",
+    "id_prev": "21.664",
+    "id_next": "21.667",
+    "refcode_1": "CSW",
+    "refcode_2": "142",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 142.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 142.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Parents have not taught their children the precepts of the law as God has commanded them. They have educated them in selfish habits. They have taught them to regard their birthdays and holidays as occasions when they expect to receive gifts, and to follow the habits and customs of the world. These occasions, which should serve to increase the knowledge of God and to awaken thankfulness of heart for His mercy and love in preserving their lives for another year, are turned into occasions for self-pleasing, for the gratification and glorification of the children. They have been kept by the power of God through every moment of their life, and yet parents do not teach their children to think of this, and to express thanksgiving for His mercy toward them. If children and youth had been properly instructed in this age of the world, what honor, what praise and thanksgiving, would flow from their lips to God! What a revenue of small gifts would be brought from the hands of the little ones to be put into His treasury as thank offerings! God would be remembered instead of forgotten.&mdash;<span class=\"egwlink egwlink_book\" title=\"RH 11-13-1894\" data-link=\"821.13873\"><em>The Review and Herald</em>, November 13, 1894</span>.",
+    "puborder": 419,
+    "translations": [
+      {
+        "para_id": "11629.639",
+        "lang": "da",
+        "refcode": "RSSA 142.1"
+      },
+      {
+        "para_id": "799.628",
+        "lang": "de",
+        "refcode": "RSs 117.3"
+      },
+      {
+        "para_id": "1711.711",
+        "lang": "es",
+        "refcode": "COES 159.2"
+      },
+      {
+        "para_id": "1724.703",
+        "lang": "pt",
+        "refcode": "CES 142.1"
+      },
+      {
+        "para_id": "1917.781",
+        "lang": "pt",
+        "refcode": "CES38 74.6"
+      },
+      {
+        "para_id": "2719.682",
+        "lang": "ro",
+        "refcode": "SSS 142.1"
+      },
+      {
+        "para_id": "1873.660",
+        "lang": "ru",
+        "refcode": "ССШ 142.1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.632",
+    "id_prev": "21.631",
+    "id_next": "21.633",
+    "refcode_1": "CSW",
+    "refcode_2": "136",
+    "refcode_3": "",
+    "refcode_4": "101",
+    "refcode_short": "CSW 136",
+    "refcode_long": "Counsels on Sabbath School Work, p. 136 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "God Honors Faithful Stewards",
+    "puborder": 398,
+    "translations": [
+      {
+        "para_id": "11629.607",
+        "lang": "da",
+        "refcode": "RSSA 136"
+      },
+      {
+        "para_id": "799.601",
+        "lang": "de",
+        "refcode": "RSs 113"
+      },
+      {
+        "para_id": "1711.680",
+        "lang": "es",
+        "refcode": "COES 153"
+      },
+      {
+        "para_id": "1917.743",
+        "lang": "pt",
+        "refcode": "CES38 71"
+      },
+      {
+        "para_id": "1724.670",
+        "lang": "pt",
+        "refcode": "CES 136"
+      },
+      {
+        "para_id": "2719.649",
+        "lang": "ro",
+        "refcode": "SSS 136"
+      },
+      {
+        "para_id": "1873.627",
+        "lang": "ru",
+        "refcode": "ССШ 136"
+      }
+    ]
+  },
+  {
+    "para_id": "21.633",
+    "id_prev": "21.632",
+    "id_next": "21.636",
+    "refcode_1": "CSW",
+    "refcode_2": "136",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 136.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 136.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God has made men His stewards. The property which He has placed in their hands is the means that He has provided for the spread of the gospel. To those who prove themselves faithful stewards He will commit greater trusts. Saith the Lord, &ldquo;Them that honor Me I will honor.&rdquo; &ldquo;God loveth a cheerful giver,&rdquo; and when His people, with grateful hearts, bring their gifts and offerings to Him, &ldquo;not grudgingly, or of necessity,&rdquo; His blessing will attend them, as He has promised. &ldquo;Bring ye all the tithes into the <span class=\"page-break\" data-page=\"137\"></span> storehouse, that there may be meat in Mine house, and prove Me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.&rdquo;&mdash;<span class=\"egwlink egwlink_book\" title=\"PP 529.1\" data-link=\"84.2458\"><em>Patriarchs and Prophets</em>, 529</span>.",
+    "puborder": 399,
+    "translations": [
+      {
+        "para_id": "11629.608",
+        "lang": "da",
+        "refcode": "RSSA 136.2"
+      },
+      {
+        "para_id": "799.602",
+        "lang": "de",
+        "refcode": "RSs 113.2"
+      },
+      {
+        "para_id": "1711.681",
+        "lang": "es",
+        "refcode": "COES 153.2"
+      },
+      {
+        "para_id": "1917.744",
+        "lang": "pt",
+        "refcode": "CES38 71.2"
+      },
+      {
+        "para_id": "1724.671",
+        "lang": "pt",
+        "refcode": "CES 136.2"
+      },
+      {
+        "para_id": "2719.650",
+        "lang": "ro",
+        "refcode": "SSS 136.2"
+      },
+      {
+        "para_id": "1873.628",
+        "lang": "ru",
+        "refcode": "ССШ 136.2"
+      }
+    ]
+  }
+]

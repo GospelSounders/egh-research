@@ -24,8 +24,8 @@ export default function APIDocsPage() {
             <h3 className="text-xl font-semibold mb-3 text-blue-800 dark:text-blue-200">Docker (Recommended)</h3>
             <pre className="bg-gray-800 text-green-400 p-4 rounded text-sm overflow-x-auto">
 {`# Pull and run
-docker pull ghcr.io/surgbc/egh-research-server:latest
-docker run -p 3000:3000 ghcr.io/surgbc/egh-research-server:latest
+docker pull ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
+docker run -p 3000:3000 ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
 
 # Test the API
 curl http://localhost:3000/health`}
@@ -36,8 +36,8 @@ curl http://localhost:3000/health`}
             <h3 className="text-xl font-semibold mb-3 text-green-800 dark:text-green-200">Local Development</h3>
             <pre className="bg-gray-800 text-green-400 p-4 rounded text-sm overflow-x-auto">
 {`# Clone and build
-git clone https://github.com/surgbc/egh-research.git
-cd egh-research
+git clone https://github.com/GospelSounders/egw-writings-mcp.git
+cd egw-writings-mcp
 pnpm install && pnpm build
 
 # Start server
@@ -444,7 +444,7 @@ pdf_job = pdf_response.json()`}
             <h3 className="text-xl font-semibold mb-3">Production Deployment</h3>
             <pre className="bg-gray-900 text-green-400 p-4 rounded text-sm overflow-x-auto">
 {`# Pull latest image
-docker pull ghcr.io/surgbc/egh-research-server:latest
+docker pull ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
 
 # Run with persistent storage
 docker run -d \\
@@ -452,7 +452,7 @@ docker run -d \\
   -p 3000:3000 \\
   -v egh-data:/app/apps/local-server/data \\
   --restart unless-stopped \\
-  ghcr.io/surgbc/egh-research-server:latest`}
+  ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest`}
             </pre>
           </div>
           
@@ -460,7 +460,7 @@ docker run -d \\
             <h3 className="text-xl font-semibold mb-3">Docker Compose</h3>
             <pre className="bg-gray-900 text-green-400 p-4 rounded text-sm overflow-x-auto">
 {`# Download compose file
-curl -O https://raw.githubusercontent.com/surgbc/egh-research/main/apps/local-server/docker-compose.yml
+curl -O https://raw.githubusercontent.com/GospelSounders/egw-writings-mcp/master/apps/local-server/docker-compose.yml
 
 # Start services
 docker-compose up -d
@@ -479,9 +479,9 @@ docker-compose logs -f`}
             Questions or need help? Check out our resources:
           </p>
           <div className="flex justify-center space-x-6 text-blue-600 dark:text-blue-400">
-            <a href="https://github.com/surgbc/egh-research" className="hover:underline">GitHub Repository</a>
-            <a href="https://github.com/surgbc/egh-research/issues" className="hover:underline">Report Issues</a>
-            <a href="https://github.com/surgbc/egh-research/discussions" className="hover:underline">Discussions</a>
+            <a href="https://github.com/GospelSounders/egw-writings-mcp" className="hover:underline">GitHub Repository</a>
+            <a href="https://github.com/GospelSounders/egw-writings-mcp/issues" className="hover:underline">Report Issues</a>
+            <a href="https://github.com/GospelSounders/egw-writings-mcp/discussions" className="hover:underline">Discussions</a>
           </div>
         </div>
       </section>

@@ -1,0 +1,524 @@
+[
+  {
+    "para_id": "127.5",
+    "id_prev": null,
+    "id_next": "127.7",
+    "refcode_1": "AA",
+    "refcode_2": "iv",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "AA iv",
+    "refcode_long": "The Acts of the Apostles, p. iv (Ellen Gould White)",
+    "element_type": "h1",
+    "element_subtype": "",
+    "content": "The Acts of the Apostles",
+    "puborder": 1,
+    "translations": [
+      {
+        "para_id": "11247.5",
+        "lang": "cs",
+        "refcode": "PNL 5"
+      },
+      {
+        "para_id": "813.2645",
+        "lang": "de",
+        "refcode": "WA 1"
+      },
+      {
+        "para_id": "198.2",
+        "lang": "es",
+        "refcode": "HAp 1"
+      },
+      {
+        "para_id": "158.3",
+        "lang": "fr",
+        "refcode": "CP 1"
+      },
+      {
+        "para_id": "12410.2",
+        "lang": "id",
+        "refcode": "KR 0"
+      },
+      {
+        "para_id": "882.4",
+        "lang": "it",
+        "refcode": "UVI 2"
+      },
+      {
+        "para_id": "12335.2",
+        "lang": "nb",
+        "refcode": "AV 0"
+      },
+      {
+        "para_id": "12008.4",
+        "lang": "pl",
+        "refcode": "DA 3"
+      },
+      {
+        "para_id": "1806.2",
+        "lang": "pt",
+        "refcode": "AA 1"
+      },
+      {
+        "para_id": "2013.2",
+        "lang": "ro",
+        "refcode": "FA 6"
+      },
+      {
+        "para_id": "1785.2",
+        "lang": "ru",
+        "refcode": "ДА 9"
+      },
+      {
+        "para_id": "11182.1",
+        "lang": "sk",
+        "refcode": "SA 7"
+      },
+      {
+        "para_id": "11904.2",
+        "lang": "tl",
+        "refcode": "AGA i"
+      },
+      {
+        "para_id": "11875.2",
+        "lang": "uk",
+        "refcode": "ДА 1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.7",
+    "id_prev": "127.5",
+    "id_next": "127.8",
+    "refcode_1": "AA",
+    "refcode_2": "v",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "AA v",
+    "refcode_long": "The Acts of the Apostles, p. v (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Preface",
+    "puborder": 2,
+    "translations": [
+      {
+        "para_id": "813.10",
+        "lang": "de",
+        "refcode": "WA 5"
+      },
+      {
+        "para_id": "198.18",
+        "lang": "es",
+        "refcode": "HAp 5"
+      },
+      {
+        "para_id": "158.10",
+        "lang": "fr",
+        "refcode": "CP 3"
+      },
+      {
+        "para_id": "12410.8",
+        "lang": "id",
+        "refcode": "KR 5"
+      },
+      {
+        "para_id": "882.7",
+        "lang": "it",
+        "refcode": "UVI 5"
+      },
+      {
+        "para_id": "12008.18",
+        "lang": "pl",
+        "refcode": "DA 5"
+      },
+      {
+        "para_id": "2013.4",
+        "lang": "ro",
+        "refcode": "FA 7"
+      },
+      {
+        "para_id": "11182.2",
+        "lang": "sk",
+        "refcode": "SA 7"
+      },
+      {
+        "para_id": "11904.7",
+        "lang": "tl",
+        "refcode": "AGA v"
+      }
+    ]
+  },
+  {
+    "para_id": "127.8",
+    "id_prev": "127.7",
+    "id_next": "127.9",
+    "refcode_1": "AA",
+    "refcode_2": "v",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA v.1",
+    "refcode_long": "The Acts of the Apostles, p. v.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-preface\">The fifth book of the New Testament has been known from ancient times as The Acts of the Apostles; but this title cannot be found in the book itself. One of the earliest manuscripts, the Codex Sinaiticus, gives as the title the simple word Acts, with no mention of the apostles. There is a reason for this. Acts was intended to be more than a brief history of the service rendered by the twelve disciples, much more than the principal events in the lifework of its four leading characters, Peter, James, John, and Paul.</span>",
+    "puborder": 3,
+    "translations": [
+      {
+        "para_id": "13804.8",
+        "lang": "bg",
+        "refcode": "Дa 3.1"
+      },
+      {
+        "para_id": "11590.8",
+        "lang": "ce",
+        "refcode": "ABA v.1"
+      },
+      {
+        "para_id": "813.11",
+        "lang": "de",
+        "refcode": "WA 5.1"
+      },
+      {
+        "para_id": "12410.9",
+        "lang": "id",
+        "refcode": "KR 5.1"
+      },
+      {
+        "para_id": "12008.19",
+        "lang": "pl",
+        "refcode": "DA 5.1"
+      },
+      {
+        "para_id": "2013.5",
+        "lang": "ro",
+        "refcode": "FA 7.1"
+      },
+      {
+        "para_id": "13874.8",
+        "lang": "rw",
+        "refcode": "INI 5.1"
+      },
+      {
+        "para_id": "11182.3",
+        "lang": "sk",
+        "refcode": "SA 7.1"
+      },
+      {
+        "para_id": "11904.8",
+        "lang": "tl",
+        "refcode": "AGA v.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.9",
+    "id_prev": "127.8",
+    "id_next": "127.10",
+    "refcode_1": "AA",
+    "refcode_2": "v",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA v.2",
+    "refcode_long": "The Acts of the Apostles, p. v.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-preface\">The book of the Acts was written by &ldquo;the beloved physician,&rdquo; Luke, a Gentile convert, for the whole church, Jews and Gentiles alike. While it covers a period of a little more than three decades, it is filled with important lessons for the church in every age. In the book of the Acts God clearly indicates that the Christian today shall experience the presence of the same Spirit who came with power at Pentecost and fanned the gospel message into a flame. The acts of the Holy Spirit through Peter and Paul, John and James, and others, can be repeated in the modern disciple.</span>",
+    "puborder": 4,
+    "translations": [
+      {
+        "para_id": "13804.9",
+        "lang": "bg",
+        "refcode": "Дa 3.2"
+      },
+      {
+        "para_id": "11590.9",
+        "lang": "ce",
+        "refcode": "ABA v.2"
+      },
+      {
+        "para_id": "813.12",
+        "lang": "de",
+        "refcode": "WA 5.2"
+      },
+      {
+        "para_id": "12410.10",
+        "lang": "id",
+        "refcode": "KR 5.2"
+      },
+      {
+        "para_id": "12008.20",
+        "lang": "pl",
+        "refcode": "DA 5.2"
+      },
+      {
+        "para_id": "2013.6",
+        "lang": "ro",
+        "refcode": "FA 7.2"
+      },
+      {
+        "para_id": "13874.9",
+        "lang": "rw",
+        "refcode": "INI 5.2"
+      },
+      {
+        "para_id": "11182.4",
+        "lang": "sk",
+        "refcode": "SA 7.2"
+      },
+      {
+        "para_id": "11904.9",
+        "lang": "tl",
+        "refcode": "AGA v.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.10",
+    "id_prev": "127.9",
+    "id_next": "127.13",
+    "refcode_1": "AA",
+    "refcode_2": "v",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA v.3",
+    "refcode_long": "The Acts of the Apostles, p. v.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-preface\">The abruptness with which the book of Acts closes is not accidental; it deliberately suggests that the thrilling narrative is unfinished, and that the acts of God through the Spirit are to have their sequel throughout the Christian dispensation&mdash;each successive generation adding a chapter full of beauty and power to the one that preceded it. The acts recorded in this remarkable book are in the truest</span> <span class=\"page-break\" data-page=\"vi\"></span> <span class=\"non-egw-preface\">sense the acts of the Spirit, for in apostolic times it was the Holy Ghost who appeared as the counselor and helper of the Christian leaders. At Pentecost the praying disciples were filled with the Spirit and preached the gospel with power. The seven men chosen as deacons were &ldquo;full of the Holy Ghost and wisdom.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 6:3\" data-link=\"1965.55279\">Acts 6:3</span>. It was the Holy Spirit who led in the ordination of Saul (<span class=\"egwlink egwlink_bible\" title=\"Acts 9:17\" data-link=\"1965.55540\">Acts 9:17</span>); in the acceptance of Gentiles into church fellowship (<span class=\"egwlink egwlink_bible\" title=\"Acts 10:44\" data-link=\"1965.55681\">Acts 10:44-47</span>); in the separation of Barnabas and Saul for missionary work (<span class=\"egwlink egwlink_bible\" title=\"Acts 13:2\" data-link=\"1965.55806\">Acts 13:2-4</span>); in the Council of Jerusalem (<span class=\"egwlink egwlink_bible\" title=\"Acts 15:28\" data-link=\"1965.56020\">Acts 15:28</span>); and in Paul&apos;s missionary journeys (<span class=\"egwlink egwlink_bible\" title=\"Acts 16:6\" data-link=\"1965.56059\">Acts 16:6, 7</span>). Another time when the church suffered intensely at the hands of Roman and Jewish persecutors, it was the Spirit who sustained the believers and kept them from error.</span>",
+    "puborder": 5,
+    "translations": [
+      {
+        "para_id": "13804.10",
+        "lang": "bg",
+        "refcode": "Дa 3.3"
+      },
+      {
+        "para_id": "11590.10",
+        "lang": "ce",
+        "refcode": "ABA v.3"
+      },
+      {
+        "para_id": "813.13",
+        "lang": "de",
+        "refcode": "WA 5.3"
+      },
+      {
+        "para_id": "12410.11",
+        "lang": "id",
+        "refcode": "KR 5.3"
+      },
+      {
+        "para_id": "12008.21",
+        "lang": "pl",
+        "refcode": "DA 5.3"
+      },
+      {
+        "para_id": "2013.7",
+        "lang": "ro",
+        "refcode": "FA 7.3"
+      },
+      {
+        "para_id": "13874.11",
+        "lang": "rw",
+        "refcode": "INI 5.4"
+      },
+      {
+        "para_id": "13874.10",
+        "lang": "rw",
+        "refcode": "INI 5.3"
+      },
+      {
+        "para_id": "11182.5",
+        "lang": "sk",
+        "refcode": "SA 7.3"
+      },
+      {
+        "para_id": "11904.10",
+        "lang": "tl",
+        "refcode": "AGA v.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.13",
+    "id_prev": "127.10",
+    "id_next": "127.14",
+    "refcode_1": "AA",
+    "refcode_2": "vi",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA vi.1",
+    "refcode_long": "The Acts of the Apostles, p. vi.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-preface\"><em>The Acts of the Apostles</em> was one of the last books written by Ellen G. White. It was published a few years before her death. It is one of the most illuminating volumes that came from her prolific pen. The average reader will find in it light for Christian witnessing. The message of the book is up to date, and its relevancy is reflected in the effort of the author to show that the church will soon witness a bestowal of spiritual power exceeding that of Pentecost. The work of the gospel is not to close with a lesser display of the Holy Spirit&apos;s power than marked its beginning.</span>",
+    "puborder": 6,
+    "translations": [
+      {
+        "para_id": "13804.12",
+        "lang": "bg",
+        "refcode": "Дa 3.5"
+      },
+      {
+        "para_id": "11590.13",
+        "lang": "ce",
+        "refcode": "ABA vi.1"
+      },
+      {
+        "para_id": "813.16",
+        "lang": "de",
+        "refcode": "WA 6.1"
+      },
+      {
+        "para_id": "12410.14",
+        "lang": "id",
+        "refcode": "KR 6.1"
+      },
+      {
+        "para_id": "12008.24",
+        "lang": "pl",
+        "refcode": "DA 6.1"
+      },
+      {
+        "para_id": "2013.9",
+        "lang": "ro",
+        "refcode": "FA 8.1"
+      },
+      {
+        "para_id": "13874.14",
+        "lang": "rw",
+        "refcode": "INI 6.1"
+      },
+      {
+        "para_id": "11182.7",
+        "lang": "sk",
+        "refcode": "SA 8.1"
+      },
+      {
+        "para_id": "11904.13",
+        "lang": "tl",
+        "refcode": "AGA vi.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.14",
+    "id_prev": "127.13",
+    "id_next": "127.15",
+    "refcode_1": "AA",
+    "refcode_2": "vi",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA vi.2",
+    "refcode_long": "The Acts of the Apostles, p. vi.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-preface\">That the reader might participate in this re-enactment of the glorious scenes of the early church and at the same time be preserved from the subtle counterfeits of the enemy of souls is the prayer and earnest wish of</span>",
+    "puborder": 7,
+    "translations": [
+      {
+        "para_id": "13804.13",
+        "lang": "bg",
+        "refcode": "Дa 3.6"
+      },
+      {
+        "para_id": "11590.14",
+        "lang": "ce",
+        "refcode": "ABA vi.2"
+      },
+      {
+        "para_id": "813.17",
+        "lang": "de",
+        "refcode": "WA 6.2"
+      },
+      {
+        "para_id": "12410.15",
+        "lang": "id",
+        "refcode": "KR 6.2"
+      },
+      {
+        "para_id": "12008.25",
+        "lang": "pl",
+        "refcode": "DA 6.2"
+      },
+      {
+        "para_id": "2013.10",
+        "lang": "ro",
+        "refcode": "FA 8.2"
+      },
+      {
+        "para_id": "13874.14",
+        "lang": "rw",
+        "refcode": "INI 6.1"
+      },
+      {
+        "para_id": "11182.8",
+        "lang": "sk",
+        "refcode": "SA 8.2"
+      },
+      {
+        "para_id": "11904.14",
+        "lang": "tl",
+        "refcode": "AGA vi.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.15",
+    "id_prev": "127.14",
+    "id_next": "127.2699",
+    "refcode_1": "AA",
+    "refcode_2": "vi",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "signatureline",
+    "content": "<span class=\"non-egw-preface\">The Publishers</span>",
+    "puborder": 8,
+    "translations": [
+      {
+        "para_id": "813.18",
+        "lang": "de",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "12410.16",
+        "lang": "id",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "12008.26",
+        "lang": "pl",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "2013.13",
+        "lang": "ro",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11182.8",
+        "lang": "sk",
+        "refcode": "SA 8.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2699",
+    "id_prev": "127.15",
+    "id_next": "127.22",
+    "refcode_1": "AA",
+    "refcode_2": "vi",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA vi.3",
+    "refcode_long": "The Acts of the Apostles, p. vi.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<br />\n<br />\n<span class=\"non-egw-preface\"><span class=\"egw-no-link\" title=\"AA-SG 2.1\">Acts of the Apostles Study Guide</span>. A complete chapter by chapter guide with questions to aid in your reading and understanding of the book.</span>",
+    "puborder": 9,
+    "translations": []
+  }
+]

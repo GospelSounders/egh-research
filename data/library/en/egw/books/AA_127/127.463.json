@@ -1,0 +1,3867 @@
+[
+  {
+    "para_id": "127.463",
+    "id_prev": "127.461",
+    "id_next": "127.2660",
+    "refcode_1": "AA",
+    "refcode_2": "112",
+    "refcode_3": "",
+    "refcode_4": "12",
+    "refcode_short": "AA 112",
+    "refcode_long": "The Acts of the Apostles, p. 112 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 12&mdash;From Persecutor to Disciple",
+    "puborder": 282,
+    "translations": [
+      {
+        "para_id": "13804.341",
+        "lang": "bg",
+        "refcode": "Дa 43"
+      },
+      {
+        "para_id": "11590.444",
+        "lang": "ce",
+        "refcode": "ABA 97"
+      },
+      {
+        "para_id": "11247.416",
+        "lang": "cs",
+        "refcode": "PNL 64"
+      },
+      {
+        "para_id": "813.460",
+        "lang": "de",
+        "refcode": "WA 115"
+      },
+      {
+        "para_id": "198.447",
+        "lang": "es",
+        "refcode": "HAp 92"
+      },
+      {
+        "para_id": "158.434",
+        "lang": "fr",
+        "refcode": "CP 99"
+      },
+      {
+        "para_id": "11938.400",
+        "lang": "hu",
+        "refcode": "AT 76"
+      },
+      {
+        "para_id": "12410.428",
+        "lang": "id",
+        "refcode": "KR 95"
+      },
+      {
+        "para_id": "882.399",
+        "lang": "it",
+        "refcode": "UVI 71"
+      },
+      {
+        "para_id": "11660.545",
+        "lang": "ja",
+        "refcode": "AAJ 117"
+      },
+      {
+        "para_id": "12335.382",
+        "lang": "nb",
+        "refcode": "AV 66"
+      },
+      {
+        "para_id": "12008.363",
+        "lang": "pl",
+        "refcode": "DA 63"
+      },
+      {
+        "para_id": "1806.393",
+        "lang": "pt",
+        "refcode": "AA 64.1"
+      },
+      {
+        "para_id": "2013.452",
+        "lang": "ro",
+        "refcode": "FA 112"
+      },
+      {
+        "para_id": "1785.434",
+        "lang": "ru",
+        "refcode": "ДА 112"
+      },
+      {
+        "para_id": "13874.389",
+        "lang": "rw",
+        "refcode": "INI 74"
+      },
+      {
+        "para_id": "11182.377",
+        "lang": "sk",
+        "refcode": "SA 71"
+      },
+      {
+        "para_id": "11904.421",
+        "lang": "tl",
+        "refcode": "AGA 86"
+      },
+      {
+        "para_id": "11875.396",
+        "lang": "uk",
+        "refcode": "ДА 75"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2660",
+    "id_prev": "127.463",
+    "id_next": "127.464",
+    "refcode_1": "AA",
+    "refcode_2": "112",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "bibletext",
+    "content": "<span class=\"non-egw-comment\">This chapter is based on <span class=\"egwlink egwlink_bible\" title=\"Acts 9:1\" data-link=\"1965.55508\">Acts 9:1-18</span>.</span>",
+    "puborder": 283,
+    "translations": [
+      {
+        "para_id": "813.461",
+        "lang": "de",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "198.447",
+        "lang": "es",
+        "refcode": "HAp 92"
+      },
+      {
+        "para_id": "158.435",
+        "lang": "fr",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11938.401",
+        "lang": "hu",
+        "refcode": "AT 76"
+      },
+      {
+        "para_id": "11660.546",
+        "lang": "ja",
+        "refcode": "AAJ 117.1"
+      },
+      {
+        "para_id": "1806.2147",
+        "lang": "pt",
+        "refcode": "AA 307.5"
+      },
+      {
+        "para_id": "2013.2645",
+        "lang": "ro",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "1785.2599",
+        "lang": "ru",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "13874.390",
+        "lang": "rw",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11875.397",
+        "lang": "uk",
+        "refcode": "The Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "para_id": "127.464",
+    "id_prev": "127.2660",
+    "id_next": "127.465",
+    "refcode_1": "AA",
+    "refcode_2": "112",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 112.1",
+    "refcode_long": "The Acts of the Apostles, p. 112.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Prominent among the Jewish leaders who became thoroughly aroused by the success attending the proclamation of the gospel, was Saul of Tarsus. A Roman citizen by birth, Saul was nevertheless a Jew by descent and had been educated in Jerusalem by the most eminent of the rabbis. &ldquo;Of the stock of Israel, of the tribe of Benjamin,&rdquo; Saul was &ldquo;a Hebrew of the Hebrews; as touching the law, a Pharisee; concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Philippians 3:5\" data-link=\"1965.60011\">Philippians 3:5, 6</span>. He was regarded by the rabbis as a young man of great promise, and high hopes were cherished concerning him as an able and zealous defender of the ancient faith. His elevation to membership in the Sanhedrin council placed him in a position of power.",
+    "puborder": 284,
+    "translations": [
+      {
+        "para_id": "13804.342",
+        "lang": "bg",
+        "refcode": "Дa 43.1"
+      },
+      {
+        "para_id": "11590.445",
+        "lang": "ce",
+        "refcode": "ABA 97.1"
+      },
+      {
+        "para_id": "11247.417",
+        "lang": "cs",
+        "refcode": "PNL 64.1"
+      },
+      {
+        "para_id": "813.462",
+        "lang": "de",
+        "refcode": "WA 115.1"
+      },
+      {
+        "para_id": "198.448",
+        "lang": "es",
+        "refcode": "HAp 92.1"
+      },
+      {
+        "para_id": "158.436",
+        "lang": "fr",
+        "refcode": "CP 99.1"
+      },
+      {
+        "para_id": "11938.402",
+        "lang": "hu",
+        "refcode": "AT 76.1"
+      },
+      {
+        "para_id": "12410.429",
+        "lang": "id",
+        "refcode": "KR 95.1"
+      },
+      {
+        "para_id": "882.400",
+        "lang": "it",
+        "refcode": "UVI 71.1"
+      },
+      {
+        "para_id": "11660.547",
+        "lang": "ja",
+        "refcode": "AAJ 117.2"
+      },
+      {
+        "para_id": "12335.383",
+        "lang": "nb",
+        "refcode": "AV 66.1"
+      },
+      {
+        "para_id": "12008.364",
+        "lang": "pl",
+        "refcode": "DA 63.1"
+      },
+      {
+        "para_id": "1806.394",
+        "lang": "pt",
+        "refcode": "AA 64.2"
+      },
+      {
+        "para_id": "2013.453",
+        "lang": "ro",
+        "refcode": "FA 112.1"
+      },
+      {
+        "para_id": "1785.435",
+        "lang": "ru",
+        "refcode": "ДА 112.1"
+      },
+      {
+        "para_id": "13874.391",
+        "lang": "rw",
+        "refcode": "INI 74.1"
+      },
+      {
+        "para_id": "11182.378",
+        "lang": "sk",
+        "refcode": "SA 71.1"
+      },
+      {
+        "para_id": "11904.422",
+        "lang": "tl",
+        "refcode": "AGA 86.1"
+      },
+      {
+        "para_id": "11875.398",
+        "lang": "uk",
+        "refcode": "ДА 75.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.465",
+    "id_prev": "127.464",
+    "id_next": "127.468",
+    "refcode_1": "AA",
+    "refcode_2": "112",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 112.2",
+    "refcode_long": "The Acts of the Apostles, p. 112.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Saul had taken a prominent part in the trial and conviction of Stephen, and the striking evidences of God&apos;s presence with the martyr had led Saul to doubt the righteousness <span class=\"page-break\" data-page=\"113\"></span> of the cause he had espoused against the followers of Jesus. His mind was deeply stirred. In his perplexity he appealed to those in whose wisdom and judgment he had full confidence. The arguments of the priests and rulers finally convinced him that Stephen was a blasphemer, that the Christ whom the martyred disciple had preached was an impostor, and that those ministering in holy office must be right.",
+    "puborder": 285,
+    "translations": [
+      {
+        "para_id": "13804.343",
+        "lang": "bg",
+        "refcode": "Дa 43.2"
+      },
+      {
+        "para_id": "11590.446",
+        "lang": "ce",
+        "refcode": "ABA 97.2"
+      },
+      {
+        "para_id": "11247.418",
+        "lang": "cs",
+        "refcode": "PNL 64.2"
+      },
+      {
+        "para_id": "813.463",
+        "lang": "de",
+        "refcode": "WA 115.2"
+      },
+      {
+        "para_id": "198.449",
+        "lang": "es",
+        "refcode": "HAp 92.2"
+      },
+      {
+        "para_id": "158.437",
+        "lang": "fr",
+        "refcode": "CP 99.2"
+      },
+      {
+        "para_id": "11938.403",
+        "lang": "hu",
+        "refcode": "AT 76.2"
+      },
+      {
+        "para_id": "12410.430",
+        "lang": "id",
+        "refcode": "KR 95.2"
+      },
+      {
+        "para_id": "882.401",
+        "lang": "it",
+        "refcode": "UVI 71.2"
+      },
+      {
+        "para_id": "11660.548",
+        "lang": "ja",
+        "refcode": "AAJ 117.3"
+      },
+      {
+        "para_id": "12335.384",
+        "lang": "nb",
+        "refcode": "AV 66.2"
+      },
+      {
+        "para_id": "12008.365",
+        "lang": "pl",
+        "refcode": "DA 63.2"
+      },
+      {
+        "para_id": "1806.395",
+        "lang": "pt",
+        "refcode": "AA 64.3"
+      },
+      {
+        "para_id": "2013.454",
+        "lang": "ro",
+        "refcode": "FA 112.2"
+      },
+      {
+        "para_id": "1785.436",
+        "lang": "ru",
+        "refcode": "ДА 112.2"
+      },
+      {
+        "para_id": "13874.392",
+        "lang": "rw",
+        "refcode": "INI 74.2"
+      },
+      {
+        "para_id": "11182.379",
+        "lang": "sk",
+        "refcode": "SA 71.2"
+      },
+      {
+        "para_id": "11904.423",
+        "lang": "tl",
+        "refcode": "AGA 86.2"
+      },
+      {
+        "para_id": "11875.399",
+        "lang": "uk",
+        "refcode": "ДА 75.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.468",
+    "id_prev": "127.465",
+    "id_next": "127.469",
+    "refcode_1": "AA",
+    "refcode_2": "113",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 113.1",
+    "refcode_long": "The Acts of the Apostles, p. 113.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Not without severe trial did Saul come to this conclusion. But in the end his education and prejudices, his respect for his former teachers, and his pride of popularity braced him to rebel against the voice of conscience and the grace of God. And having fully decided that the priests and scribes were right, Saul became very bitter in his opposition to the doctrines taught by the disciples of Jesus. His activity in causing holy men and women to be dragged before tribunals, where some were condemned to imprisonment and some even to death, solely because of their faith in Jesus, brought sadness and gloom to the newly organized church, and caused many to seek safety in flight.",
+    "puborder": 286,
+    "translations": [
+      {
+        "para_id": "13804.344",
+        "lang": "bg",
+        "refcode": "Дa 43.3"
+      },
+      {
+        "para_id": "11590.447",
+        "lang": "ce",
+        "refcode": "ABA 97.3"
+      },
+      {
+        "para_id": "11247.419",
+        "lang": "cs",
+        "refcode": "PNL 64.3"
+      },
+      {
+        "para_id": "813.466",
+        "lang": "de",
+        "refcode": "WA 116.1"
+      },
+      {
+        "para_id": "198.450",
+        "lang": "es",
+        "refcode": "HAp 92.3"
+      },
+      {
+        "para_id": "158.440",
+        "lang": "fr",
+        "refcode": "CP 100.1"
+      },
+      {
+        "para_id": "11938.404",
+        "lang": "hu",
+        "refcode": "AT 76.3"
+      },
+      {
+        "para_id": "12410.433",
+        "lang": "id",
+        "refcode": "KR 96.1"
+      },
+      {
+        "para_id": "882.402",
+        "lang": "it",
+        "refcode": "UVI 71.3"
+      },
+      {
+        "para_id": "11660.551",
+        "lang": "ja",
+        "refcode": "AAJ 118.1"
+      },
+      {
+        "para_id": "12335.385",
+        "lang": "nb",
+        "refcode": "AV 66.3"
+      },
+      {
+        "para_id": "12008.366",
+        "lang": "pl",
+        "refcode": "DA 63.3"
+      },
+      {
+        "para_id": "1806.396",
+        "lang": "pt",
+        "refcode": "AA 64.4"
+      },
+      {
+        "para_id": "2013.457",
+        "lang": "ro",
+        "refcode": "FA 113.1"
+      },
+      {
+        "para_id": "1785.439",
+        "lang": "ru",
+        "refcode": "ДА 113.1"
+      },
+      {
+        "para_id": "13874.393",
+        "lang": "rw",
+        "refcode": "INI 74.3"
+      },
+      {
+        "para_id": "11182.380",
+        "lang": "sk",
+        "refcode": "SA 71.3"
+      },
+      {
+        "para_id": "11904.424",
+        "lang": "tl",
+        "refcode": "AGA 86.3"
+      },
+      {
+        "para_id": "11875.400",
+        "lang": "uk",
+        "refcode": "ДА 75.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.469",
+    "id_prev": "127.468",
+    "id_next": "127.470",
+    "refcode_1": "AA",
+    "refcode_2": "113",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 113.2",
+    "refcode_long": "The Acts of the Apostles, p. 113.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those who were driven from Jerusalem by this persecution &ldquo;went everywhere preaching the word.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 8:4\" data-link=\"1965.55433\">Acts 8:4</span>. Among the cities to which they went was Damascus, where the new faith gained many converts.",
+    "puborder": 287,
+    "translations": [
+      {
+        "para_id": "13804.345",
+        "lang": "bg",
+        "refcode": "Дa 43.4"
+      },
+      {
+        "para_id": "11590.450",
+        "lang": "ce",
+        "refcode": "ABA 98.1"
+      },
+      {
+        "para_id": "11247.420",
+        "lang": "cs",
+        "refcode": "PNL 64.4"
+      },
+      {
+        "para_id": "813.467",
+        "lang": "de",
+        "refcode": "WA 116.2"
+      },
+      {
+        "para_id": "198.453",
+        "lang": "es",
+        "refcode": "HAp 93.1"
+      },
+      {
+        "para_id": "158.441",
+        "lang": "fr",
+        "refcode": "CP 100.2"
+      },
+      {
+        "para_id": "11938.406",
+        "lang": "hu",
+        "refcode": "AT 77.1"
+      },
+      {
+        "para_id": "12410.434",
+        "lang": "id",
+        "refcode": "KR 96.2"
+      },
+      {
+        "para_id": "882.403",
+        "lang": "it",
+        "refcode": "UVI 71.4"
+      },
+      {
+        "para_id": "11660.552",
+        "lang": "ja",
+        "refcode": "AAJ 118.2"
+      },
+      {
+        "para_id": "12335.386",
+        "lang": "nb",
+        "refcode": "AV 66.4"
+      },
+      {
+        "para_id": "12008.368",
+        "lang": "pl",
+        "refcode": "DA 64.1"
+      },
+      {
+        "para_id": "1806.397",
+        "lang": "pt",
+        "refcode": "AA 64.5"
+      },
+      {
+        "para_id": "2013.458",
+        "lang": "ro",
+        "refcode": "FA 113.2"
+      },
+      {
+        "para_id": "1785.440",
+        "lang": "ru",
+        "refcode": "ДА 113.2"
+      },
+      {
+        "para_id": "13874.394",
+        "lang": "rw",
+        "refcode": "INI 74.4"
+      },
+      {
+        "para_id": "11182.381",
+        "lang": "sk",
+        "refcode": "SA 71.4"
+      },
+      {
+        "para_id": "11904.427",
+        "lang": "tl",
+        "refcode": "AGA 87.1"
+      },
+      {
+        "para_id": "11875.403",
+        "lang": "uk",
+        "refcode": "ДА 76.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.470",
+    "id_prev": "127.469",
+    "id_next": "127.473",
+    "refcode_1": "AA",
+    "refcode_2": "113",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 113.3",
+    "refcode_long": "The Acts of the Apostles, p. 113.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The priests and rulers had hoped that by vigilant effort and stern persecution the heresy might be suppressed. Now they felt that they must carry forward in other places the decided measures taken in Jerusalem against the new teaching. <span class=\"page-break\" data-page=\"114\"></span> For the special work that they desired to have done at Damascus, Saul offered his services. &ldquo;Breathing out threatenings and slaughter against the disciples of the Lord,&rdquo; he &ldquo;went unto the high priest, and desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem.&rdquo; Thus &ldquo;with authority and commission from the chief priests&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"Acts 26:12\" data-link=\"1965.56761\">Acts 26:12</span>), Saul of Tarsus, in the strength and vigor of manhood, and fired with mistaken zeal, set out on that memorable journey, the strange occurrences of which were to change the whole current of his life.",
+    "puborder": 288,
+    "translations": [
+      {
+        "para_id": "13804.346",
+        "lang": "bg",
+        "refcode": "Дa 43.5"
+      },
+      {
+        "para_id": "11590.451",
+        "lang": "ce",
+        "refcode": "ABA 98.2"
+      },
+      {
+        "para_id": "11247.424",
+        "lang": "cs",
+        "refcode": "PNL 65.1"
+      },
+      {
+        "para_id": "813.468",
+        "lang": "de",
+        "refcode": "WA 116.3"
+      },
+      {
+        "para_id": "198.454",
+        "lang": "es",
+        "refcode": "HAp 93.2"
+      },
+      {
+        "para_id": "158.442",
+        "lang": "fr",
+        "refcode": "CP 100.3"
+      },
+      {
+        "para_id": "11938.407",
+        "lang": "hu",
+        "refcode": "AT 77.2"
+      },
+      {
+        "para_id": "12410.435",
+        "lang": "id",
+        "refcode": "KR 96.3"
+      },
+      {
+        "para_id": "882.406",
+        "lang": "it",
+        "refcode": "UVI 72.1"
+      },
+      {
+        "para_id": "11660.553",
+        "lang": "ja",
+        "refcode": "AAJ 118.3"
+      },
+      {
+        "para_id": "12335.387",
+        "lang": "nb",
+        "refcode": "AV 66.5"
+      },
+      {
+        "para_id": "12008.369",
+        "lang": "pl",
+        "refcode": "DA 64.2"
+      },
+      {
+        "para_id": "1806.399",
+        "lang": "pt",
+        "refcode": "AA 64.7"
+      },
+      {
+        "para_id": "2013.459",
+        "lang": "ro",
+        "refcode": "FA 113.3"
+      },
+      {
+        "para_id": "1785.441",
+        "lang": "ru",
+        "refcode": "ДА 113.3"
+      },
+      {
+        "para_id": "13874.394",
+        "lang": "rw",
+        "refcode": "INI 74.4"
+      },
+      {
+        "para_id": "11182.382",
+        "lang": "sk",
+        "refcode": "SA 71.5"
+      },
+      {
+        "para_id": "11904.428",
+        "lang": "tl",
+        "refcode": "AGA 87.2"
+      },
+      {
+        "para_id": "11875.404",
+        "lang": "uk",
+        "refcode": "ДА 76.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.473",
+    "id_prev": "127.470",
+    "id_next": "127.474",
+    "refcode_1": "AA",
+    "refcode_2": "114",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 114.1",
+    "refcode_long": "The Acts of the Apostles, p. 114.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "On the last day of the journey, &ldquo;at midday,&rdquo; as the weary travelers neared Damascus, they came within full view of broad stretches of fertile lands, beautiful gardens, and fruitful orchards, watered by cool streams from the surrounding mountains. After the long journey over desolate wastes such scenes were refreshing indeed. While Saul, with his companions, gazed with admiration on the fruitful plain and the fair city below, &ldquo;suddenly,&rdquo; as he afterward declared, there shone &ldquo;round about me and them which journeyed with me&rdquo; &ldquo;a light from heaven, above the brightness of the sun&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"Acts 26:13\" data-link=\"1965.56763\">Acts 26:13</span>), too glorious for mortal eyes to bear. Blinded and bewildered, Saul fell prostrate to the ground.",
+    "puborder": 289,
+    "translations": [
+      {
+        "para_id": "13804.347",
+        "lang": "bg",
+        "refcode": "Дa 43.6"
+      },
+      {
+        "para_id": "11590.452",
+        "lang": "ce",
+        "refcode": "ABA 98.3"
+      },
+      {
+        "para_id": "11247.425",
+        "lang": "cs",
+        "refcode": "PNL 65.2"
+      },
+      {
+        "para_id": "813.471",
+        "lang": "de",
+        "refcode": "WA 117.1"
+      },
+      {
+        "para_id": "198.455",
+        "lang": "es",
+        "refcode": "HAp 93.3"
+      },
+      {
+        "para_id": "158.445",
+        "lang": "fr",
+        "refcode": "CP 101.1"
+      },
+      {
+        "para_id": "11938.408",
+        "lang": "hu",
+        "refcode": "AT 77.3"
+      },
+      {
+        "para_id": "12410.438",
+        "lang": "id",
+        "refcode": "KR 97.1"
+      },
+      {
+        "para_id": "882.407",
+        "lang": "it",
+        "refcode": "UVI 72.2"
+      },
+      {
+        "para_id": "11660.556",
+        "lang": "ja",
+        "refcode": "AAJ 119.1"
+      },
+      {
+        "para_id": "12335.390",
+        "lang": "nb",
+        "refcode": "AV 67.1"
+      },
+      {
+        "para_id": "12008.370",
+        "lang": "pl",
+        "refcode": "DA 64.3"
+      },
+      {
+        "para_id": "1806.399",
+        "lang": "pt",
+        "refcode": "AA 64.7"
+      },
+      {
+        "para_id": "2013.462",
+        "lang": "ro",
+        "refcode": "FA 114.1"
+      },
+      {
+        "para_id": "1785.444",
+        "lang": "ru",
+        "refcode": "ДА 114.1"
+      },
+      {
+        "para_id": "13874.397",
+        "lang": "rw",
+        "refcode": "INI 75.1"
+      },
+      {
+        "para_id": "11182.385",
+        "lang": "sk",
+        "refcode": "SA 72.1"
+      },
+      {
+        "para_id": "11904.429",
+        "lang": "tl",
+        "refcode": "AGA 87.3"
+      },
+      {
+        "para_id": "11875.406",
+        "lang": "uk",
+        "refcode": "ДА 76.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.474",
+    "id_prev": "127.473",
+    "id_next": "127.476",
+    "refcode_1": "AA",
+    "refcode_2": "114",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 114.2",
+    "refcode_long": "The Acts of the Apostles, p. 114.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "While the light continued to shine round about them, Saul heard, &ldquo;a voice speaking ... in the Hebrew tongue&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"Acts 26:14\" data-link=\"1965.56765\">Acts 26:14</span>), &ldquo;saying unto him, Saul, Saul, why persecutest thou Me? And he said, Who art Thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.&rdquo;",
+    "puborder": 290,
+    "translations": [
+      {
+        "para_id": "13804.350",
+        "lang": "bg",
+        "refcode": "Дa 44.1"
+      },
+      {
+        "para_id": "11590.455",
+        "lang": "ce",
+        "refcode": "ABA 99.1"
+      },
+      {
+        "para_id": "11247.426",
+        "lang": "cs",
+        "refcode": "PNL 65.3"
+      },
+      {
+        "para_id": "813.472",
+        "lang": "de",
+        "refcode": "WA 117.2"
+      },
+      {
+        "para_id": "198.458",
+        "lang": "es",
+        "refcode": "HAp 94.1"
+      },
+      {
+        "para_id": "158.446",
+        "lang": "fr",
+        "refcode": "CP 101.2"
+      },
+      {
+        "para_id": "11938.409",
+        "lang": "hu",
+        "refcode": "AT 77.4"
+      },
+      {
+        "para_id": "12410.439",
+        "lang": "id",
+        "refcode": "KR 97.2"
+      },
+      {
+        "para_id": "882.408",
+        "lang": "it",
+        "refcode": "UVI 72.3"
+      },
+      {
+        "para_id": "11660.557",
+        "lang": "ja",
+        "refcode": "AAJ 119.2"
+      },
+      {
+        "para_id": "12335.391",
+        "lang": "nb",
+        "refcode": "AV 67.2"
+      },
+      {
+        "para_id": "12008.371",
+        "lang": "pl",
+        "refcode": "DA 64.4"
+      },
+      {
+        "para_id": "1806.399",
+        "lang": "pt",
+        "refcode": "AA 64.7"
+      },
+      {
+        "para_id": "2013.463",
+        "lang": "ro",
+        "refcode": "FA 114.2"
+      },
+      {
+        "para_id": "1785.445",
+        "lang": "ru",
+        "refcode": "ДА 114.2"
+      },
+      {
+        "para_id": "13874.398",
+        "lang": "rw",
+        "refcode": "INI 75.2"
+      },
+      {
+        "para_id": "11182.386",
+        "lang": "sk",
+        "refcode": "SA 72.2"
+      },
+      {
+        "para_id": "11904.430",
+        "lang": "tl",
+        "refcode": "AGA 87.4"
+      },
+      {
+        "para_id": "11875.408",
+        "lang": "uk",
+        "refcode": "ДА 77.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.476",
+    "id_prev": "127.474",
+    "id_next": "127.477",
+    "refcode_1": "AA",
+    "refcode_2": "115",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 115.1",
+    "refcode_long": "The Acts of the Apostles, p. 115.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Filled with fear, and almost blinded by the intensity of the light, the companions of Saul heard a voice, but saw no man. But Saul understood the words that were spoken, and to him was clearly revealed the One who spoke&mdash;even the Son of God. In the glorious Being who stood before him he saw the Crucified One. Upon the soul of the stricken Jew the image of the Saviour&apos;s countenance was imprinted forever. The words spoken struck home to his heart with appalling force. Into the darkened chambers of his mind there poured a flood of light, revealing the ignorance and error of his former life and his present need of the enlightenment of the Holy Spirit.",
+    "puborder": 291,
+    "translations": [
+      {
+        "para_id": "13804.351",
+        "lang": "bg",
+        "refcode": "Дa 44.2"
+      },
+      {
+        "para_id": "11590.456",
+        "lang": "ce",
+        "refcode": "ABA 99.2"
+      },
+      {
+        "para_id": "11247.427",
+        "lang": "cs",
+        "refcode": "PNL 65.4"
+      },
+      {
+        "para_id": "813.473",
+        "lang": "de",
+        "refcode": "WA 117.3"
+      },
+      {
+        "para_id": "198.459",
+        "lang": "es",
+        "refcode": "HAp 94.2"
+      },
+      {
+        "para_id": "158.447",
+        "lang": "fr",
+        "refcode": "CP 101.3"
+      },
+      {
+        "para_id": "11938.410",
+        "lang": "hu",
+        "refcode": "AT 77.5"
+      },
+      {
+        "para_id": "12410.440",
+        "lang": "id",
+        "refcode": "KR 97.3"
+      },
+      {
+        "para_id": "882.409",
+        "lang": "it",
+        "refcode": "UVI 72.4"
+      },
+      {
+        "para_id": "11660.559",
+        "lang": "ja",
+        "refcode": "AAJ 120.1"
+      },
+      {
+        "para_id": "12335.392",
+        "lang": "nb",
+        "refcode": "AV 67.3"
+      },
+      {
+        "para_id": "12008.372",
+        "lang": "pl",
+        "refcode": "DA 64.5"
+      },
+      {
+        "para_id": "2013.465",
+        "lang": "ro",
+        "refcode": "FA 115.1"
+      },
+      {
+        "para_id": "1785.447",
+        "lang": "ru",
+        "refcode": "ДА 115.1"
+      },
+      {
+        "para_id": "13874.399",
+        "lang": "rw",
+        "refcode": "INI 75.3"
+      },
+      {
+        "para_id": "11182.387",
+        "lang": "sk",
+        "refcode": "SA 72.3"
+      },
+      {
+        "para_id": "11904.433",
+        "lang": "tl",
+        "refcode": "AGA 88.1"
+      },
+      {
+        "para_id": "11875.409",
+        "lang": "uk",
+        "refcode": "ДА 77.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.477",
+    "id_prev": "127.476",
+    "id_next": "127.478",
+    "refcode_1": "AA",
+    "refcode_2": "115",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 115.2",
+    "refcode_long": "The Acts of the Apostles, p. 115.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Saul now saw that in persecuting the followers of Jesus he had in reality been doing the work of Satan. He saw that his convictions of right and of his own duty had been based largely on his implicit confidence in the priests and rulers. He had believed them when they told him that the story of the resurrection was an artful fabrication of the disciples. Now that Jesus Himself stood revealed, Saul was convinced of the truthfulness of the claims made by the disciples.",
+    "puborder": 292,
+    "translations": [
+      {
+        "para_id": "13804.352",
+        "lang": "bg",
+        "refcode": "Дa 44.3"
+      },
+      {
+        "para_id": "11590.457",
+        "lang": "ce",
+        "refcode": "ABA 99.3"
+      },
+      {
+        "para_id": "11247.430",
+        "lang": "cs",
+        "refcode": "PNL 66.1"
+      },
+      {
+        "para_id": "813.475",
+        "lang": "de",
+        "refcode": "WA 118.1"
+      },
+      {
+        "para_id": "198.460",
+        "lang": "es",
+        "refcode": "HAp 94.3"
+      },
+      {
+        "para_id": "158.448",
+        "lang": "fr",
+        "refcode": "CP 101.4"
+      },
+      {
+        "para_id": "11938.413",
+        "lang": "hu",
+        "refcode": "AT 78.1"
+      },
+      {
+        "para_id": "12410.441",
+        "lang": "id",
+        "refcode": "KR 97.4"
+      },
+      {
+        "para_id": "882.410",
+        "lang": "it",
+        "refcode": "UVI 72.5"
+      },
+      {
+        "para_id": "11660.560",
+        "lang": "ja",
+        "refcode": "AAJ 120.2"
+      },
+      {
+        "para_id": "12335.393",
+        "lang": "nb",
+        "refcode": "AV 67.4"
+      },
+      {
+        "para_id": "12008.373",
+        "lang": "pl",
+        "refcode": "DA 64.6"
+      },
+      {
+        "para_id": "1806.402",
+        "lang": "pt",
+        "refcode": "AA 65.1"
+      },
+      {
+        "para_id": "2013.466",
+        "lang": "ro",
+        "refcode": "FA 115.2"
+      },
+      {
+        "para_id": "1785.448",
+        "lang": "ru",
+        "refcode": "ДА 115.2"
+      },
+      {
+        "para_id": "13874.400",
+        "lang": "rw",
+        "refcode": "INI 75.4"
+      },
+      {
+        "para_id": "11182.388",
+        "lang": "sk",
+        "refcode": "SA 72.4"
+      },
+      {
+        "para_id": "11904.434",
+        "lang": "tl",
+        "refcode": "AGA 88.2"
+      },
+      {
+        "para_id": "11875.410",
+        "lang": "uk",
+        "refcode": "ДА 77.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.478",
+    "id_prev": "127.477",
+    "id_next": "127.481",
+    "refcode_1": "AA",
+    "refcode_2": "115",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 115.3",
+    "refcode_long": "The Acts of the Apostles, p. 115.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In that hour of heavenly illumination Saul&apos;s mind acted with remarkable rapidity. The prophetic records of Holy Writ were opened to his understanding. He saw that the rejection of Jesus by the Jews, His crucifixion, resurrection, and ascension, had been foretold by the prophets and proved Him to be the promised Messiah. Stephen&apos;s sermon at the time of his martyrdom was brought forcibly to Saul&apos;s mind, and he realized that the martyr had indeed beheld &ldquo;the glory of God&rdquo; when he said, &ldquo;Behold, I see the heavens <span class=\"page-break\" data-page=\"116\"></span> opened, and the Son of man standing on the right hand of God.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 7:55\" data-link=\"1965.55414\">Acts 7:55, 56</span>. The priests had pronounced these words blasphemy, but Saul now knew them to be truth.",
+    "puborder": 293,
+    "translations": [
+      {
+        "para_id": "13804.353",
+        "lang": "bg",
+        "refcode": "Дa 44.4"
+      },
+      {
+        "para_id": "11590.458",
+        "lang": "ce",
+        "refcode": "ABA 99.4"
+      },
+      {
+        "para_id": "11247.431",
+        "lang": "cs",
+        "refcode": "PNL 66.2"
+      },
+      {
+        "para_id": "813.476",
+        "lang": "de",
+        "refcode": "WA 118.2"
+      },
+      {
+        "para_id": "198.461",
+        "lang": "es",
+        "refcode": "HAp 94.4"
+      },
+      {
+        "para_id": "158.451",
+        "lang": "fr",
+        "refcode": "CP 102.1"
+      },
+      {
+        "para_id": "11938.414",
+        "lang": "hu",
+        "refcode": "AT 78.2"
+      },
+      {
+        "para_id": "12410.444",
+        "lang": "id",
+        "refcode": "KR 98.1"
+      },
+      {
+        "para_id": "882.413",
+        "lang": "it",
+        "refcode": "UVI 73.1"
+      },
+      {
+        "para_id": "11660.561",
+        "lang": "ja",
+        "refcode": "AAJ 120.3"
+      },
+      {
+        "para_id": "12335.396",
+        "lang": "nb",
+        "refcode": "AV 68.1"
+      },
+      {
+        "para_id": "12008.376",
+        "lang": "pl",
+        "refcode": "DA 65.1"
+      },
+      {
+        "para_id": "1806.405",
+        "lang": "pt",
+        "refcode": "AA 65.4"
+      },
+      {
+        "para_id": "2013.467",
+        "lang": "ro",
+        "refcode": "FA 115.3"
+      },
+      {
+        "para_id": "1785.449",
+        "lang": "ru",
+        "refcode": "ДА 115.3"
+      },
+      {
+        "para_id": "13874.402",
+        "lang": "rw",
+        "refcode": "INI 76.1"
+      },
+      {
+        "para_id": "11182.391",
+        "lang": "sk",
+        "refcode": "SA 73.1"
+      },
+      {
+        "para_id": "11904.435",
+        "lang": "tl",
+        "refcode": "AGA 88.3"
+      },
+      {
+        "para_id": "11875.411",
+        "lang": "uk",
+        "refcode": "ДА 77.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.481",
+    "id_prev": "127.478",
+    "id_next": "127.482",
+    "refcode_1": "AA",
+    "refcode_2": "116",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 116.1",
+    "refcode_long": "The Acts of the Apostles, p. 116.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "What a revelation was all this to the persecutor! Now Saul knew for a certainty that the promised Messiah had come to this earth as Jesus of Nazareth and that He had been rejected and crucified by those whom He came to save. He knew also that the Saviour had risen in triumph from the tomb and had ascended into the heavens. In that moment of divine revelation Saul remembered with terror that Stephen, who had borne witness of a crucified and risen Saviour, had been sacrificed by his consent, and that later, through his instrumentality, many other worthy followers of Jesus had met their death by cruel persecution.",
+    "puborder": 294,
+    "translations": [
+      {
+        "para_id": "13804.354",
+        "lang": "bg",
+        "refcode": "Дa 44.5"
+      },
+      {
+        "para_id": "11590.461",
+        "lang": "ce",
+        "refcode": "ABA 100.1"
+      },
+      {
+        "para_id": "11247.432",
+        "lang": "cs",
+        "refcode": "PNL 66.3"
+      },
+      {
+        "para_id": "813.477",
+        "lang": "de",
+        "refcode": "WA 118.3"
+      },
+      {
+        "para_id": "198.464",
+        "lang": "es",
+        "refcode": "HAp 95.1"
+      },
+      {
+        "para_id": "158.452",
+        "lang": "fr",
+        "refcode": "CP 102.2"
+      },
+      {
+        "para_id": "11938.415",
+        "lang": "hu",
+        "refcode": "AT 78.3"
+      },
+      {
+        "para_id": "12410.445",
+        "lang": "id",
+        "refcode": "KR 98.2"
+      },
+      {
+        "para_id": "882.414",
+        "lang": "it",
+        "refcode": "UVI 73.2"
+      },
+      {
+        "para_id": "11660.564",
+        "lang": "ja",
+        "refcode": "AAJ 121.1"
+      },
+      {
+        "para_id": "12335.397",
+        "lang": "nb",
+        "refcode": "AV 68.2"
+      },
+      {
+        "para_id": "12008.377",
+        "lang": "pl",
+        "refcode": "DA 65.2"
+      },
+      {
+        "para_id": "1806.406",
+        "lang": "pt",
+        "refcode": "AA 65.5"
+      },
+      {
+        "para_id": "2013.470",
+        "lang": "ro",
+        "refcode": "FA 116.1"
+      },
+      {
+        "para_id": "1785.452",
+        "lang": "ru",
+        "refcode": "ДА 116.1"
+      },
+      {
+        "para_id": "13874.403",
+        "lang": "rw",
+        "refcode": "INI 76.2"
+      },
+      {
+        "para_id": "11182.392",
+        "lang": "sk",
+        "refcode": "SA 73.2"
+      },
+      {
+        "para_id": "11904.436",
+        "lang": "tl",
+        "refcode": "AGA 88.4"
+      },
+      {
+        "para_id": "11875.412",
+        "lang": "uk",
+        "refcode": "ДА 77.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.482",
+    "id_prev": "127.481",
+    "id_next": "127.483",
+    "refcode_1": "AA",
+    "refcode_2": "116",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 116.2",
+    "refcode_long": "The Acts of the Apostles, p. 116.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Saviour had spoken to Saul through Stephen, whose clear reasoning could not be controverted. The learned Jew had seen the face of the martyr reflecting the light of Christ&apos;s glory&mdash;appearing as if &ldquo;it had been the face of an angel.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 6:15\" data-link=\"1965.55303\">Acts 6:15</span>. He had witnessed Stephen&apos;s forbearance toward his enemies and his forgiveness of them. He had also witnessed the fortitude and cheerful resignation of many whom he had caused to be tormented and afflicted. He had seen some yield up even their lives with rejoicing for the sake of their faith.",
+    "puborder": 295,
+    "translations": [
+      {
+        "para_id": "13804.355",
+        "lang": "bg",
+        "refcode": "Дa 44.6"
+      },
+      {
+        "para_id": "11590.462",
+        "lang": "ce",
+        "refcode": "ABA 100.2"
+      },
+      {
+        "para_id": "11247.433",
+        "lang": "cs",
+        "refcode": "PNL 66.4"
+      },
+      {
+        "para_id": "813.480",
+        "lang": "de",
+        "refcode": "WA 119.1"
+      },
+      {
+        "para_id": "198.465",
+        "lang": "es",
+        "refcode": "HAp 95.2"
+      },
+      {
+        "para_id": "158.453",
+        "lang": "fr",
+        "refcode": "CP 102.3"
+      },
+      {
+        "para_id": "11938.416",
+        "lang": "hu",
+        "refcode": "AT 78.4"
+      },
+      {
+        "para_id": "12410.446",
+        "lang": "id",
+        "refcode": "KR 98.3"
+      },
+      {
+        "para_id": "882.415",
+        "lang": "it",
+        "refcode": "UVI 73.3"
+      },
+      {
+        "para_id": "11660.565",
+        "lang": "ja",
+        "refcode": "AAJ 121.2"
+      },
+      {
+        "para_id": "12335.398",
+        "lang": "nb",
+        "refcode": "AV 68.3"
+      },
+      {
+        "para_id": "12008.378",
+        "lang": "pl",
+        "refcode": "DA 65.3"
+      },
+      {
+        "para_id": "1806.407",
+        "lang": "pt",
+        "refcode": "AA 65.6"
+      },
+      {
+        "para_id": "2013.471",
+        "lang": "ro",
+        "refcode": "FA 116.2"
+      },
+      {
+        "para_id": "1785.453",
+        "lang": "ru",
+        "refcode": "ДА 116.2"
+      },
+      {
+        "para_id": "13874.404",
+        "lang": "rw",
+        "refcode": "INI 76.3"
+      },
+      {
+        "para_id": "11182.393",
+        "lang": "sk",
+        "refcode": "SA 73.3"
+      },
+      {
+        "para_id": "11904.439",
+        "lang": "tl",
+        "refcode": "AGA 89.1"
+      },
+      {
+        "para_id": "11875.415",
+        "lang": "uk",
+        "refcode": "ДА 78.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.483",
+    "id_prev": "127.482",
+    "id_next": "127.486",
+    "refcode_1": "AA",
+    "refcode_2": "116",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 116.3",
+    "refcode_long": "The Acts of the Apostles, p. 116.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "All these things had appealed loudly to Saul and at times had thrust upon his mind an almost overwhelming conviction that Jesus was the promised Messiah. At such times he had struggled for entire nights against this conviction, and always he had ended the matter by avowing his belief <span class=\"page-break\" data-page=\"117\"></span> that Jesus was not the Messiah and that His followers were deluded fanatics.",
+    "puborder": 296,
+    "translations": [
+      {
+        "para_id": "13804.356",
+        "lang": "bg",
+        "refcode": "Дa 44.7"
+      },
+      {
+        "para_id": "11590.463",
+        "lang": "ce",
+        "refcode": "ABA 100.3"
+      },
+      {
+        "para_id": "11247.434",
+        "lang": "cs",
+        "refcode": "PNL 66.5"
+      },
+      {
+        "para_id": "813.481",
+        "lang": "de",
+        "refcode": "WA 119.2"
+      },
+      {
+        "para_id": "198.466",
+        "lang": "es",
+        "refcode": "HAp 95.3"
+      },
+      {
+        "para_id": "158.456",
+        "lang": "fr",
+        "refcode": "CP 103.1"
+      },
+      {
+        "para_id": "11938.418",
+        "lang": "hu",
+        "refcode": "AT 79.1"
+      },
+      {
+        "para_id": "12410.449",
+        "lang": "id",
+        "refcode": "KR 99.1"
+      },
+      {
+        "para_id": "882.416",
+        "lang": "it",
+        "refcode": "UVI 73.4"
+      },
+      {
+        "para_id": "11660.566",
+        "lang": "ja",
+        "refcode": "AAJ 121.3"
+      },
+      {
+        "para_id": "12335.399",
+        "lang": "nb",
+        "refcode": "AV 68.4"
+      },
+      {
+        "para_id": "12008.379",
+        "lang": "pl",
+        "refcode": "DA 65.4"
+      },
+      {
+        "para_id": "1806.407",
+        "lang": "pt",
+        "refcode": "AA 65.6"
+      },
+      {
+        "para_id": "2013.472",
+        "lang": "ro",
+        "refcode": "FA 116.3"
+      },
+      {
+        "para_id": "1785.454",
+        "lang": "ru",
+        "refcode": "ДА 116.3"
+      },
+      {
+        "para_id": "13874.405",
+        "lang": "rw",
+        "refcode": "INI 76.4"
+      },
+      {
+        "para_id": "11182.394",
+        "lang": "sk",
+        "refcode": "SA 73.4"
+      },
+      {
+        "para_id": "11904.440",
+        "lang": "tl",
+        "refcode": "AGA 89.2"
+      },
+      {
+        "para_id": "11875.416",
+        "lang": "uk",
+        "refcode": "ДА 78.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.486",
+    "id_prev": "127.483",
+    "id_next": "127.487",
+    "refcode_1": "AA",
+    "refcode_2": "117",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 117.1",
+    "refcode_long": "The Acts of the Apostles, p. 117.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Now Christ had spoken to Saul with His own voice, saying, &ldquo;Saul, Saul, why persecutest thou Me?&rdquo; And the question, &ldquo;Who art Thou, Lord?&rdquo; was answered by the same voice, &ldquo;I am Jesus whom thou persecutest.&rdquo; Christ here identifies Himself with His people. In persecuting the followers of Jesus, Saul had struck directly against the Lord of heaven. In falsely accusing and testifying against them, he had falsely accused and testified against the Saviour of the world.",
+    "puborder": 297,
+    "translations": [
+      {
+        "para_id": "13804.357",
+        "lang": "bg",
+        "refcode": "Дa 44.8"
+      },
+      {
+        "para_id": "11590.466",
+        "lang": "ce",
+        "refcode": "ABA 101.1"
+      },
+      {
+        "para_id": "11247.435",
+        "lang": "cs",
+        "refcode": "PNL 66.6"
+      },
+      {
+        "para_id": "813.482",
+        "lang": "de",
+        "refcode": "WA 119.3"
+      },
+      {
+        "para_id": "198.467",
+        "lang": "es",
+        "refcode": "HAp 95.4"
+      },
+      {
+        "para_id": "158.456",
+        "lang": "fr",
+        "refcode": "CP 103.1"
+      },
+      {
+        "para_id": "11938.419",
+        "lang": "hu",
+        "refcode": "AT 79.2"
+      },
+      {
+        "para_id": "12410.450",
+        "lang": "id",
+        "refcode": "KR 99.2"
+      },
+      {
+        "para_id": "882.417",
+        "lang": "it",
+        "refcode": "UVI 73.5"
+      },
+      {
+        "para_id": "11660.569",
+        "lang": "ja",
+        "refcode": "AAJ 122.1"
+      },
+      {
+        "para_id": "12335.400",
+        "lang": "nb",
+        "refcode": "AV 68.5"
+      },
+      {
+        "para_id": "12008.380",
+        "lang": "pl",
+        "refcode": "DA 65.5"
+      },
+      {
+        "para_id": "1806.407",
+        "lang": "pt",
+        "refcode": "AA 65.6"
+      },
+      {
+        "para_id": "2013.475",
+        "lang": "ro",
+        "refcode": "FA 117.1"
+      },
+      {
+        "para_id": "1785.457",
+        "lang": "ru",
+        "refcode": "ДА 117.1"
+      },
+      {
+        "para_id": "13874.406",
+        "lang": "rw",
+        "refcode": "INI 76.5"
+      },
+      {
+        "para_id": "11182.395",
+        "lang": "sk",
+        "refcode": "SA 73.5"
+      },
+      {
+        "para_id": "11904.441",
+        "lang": "tl",
+        "refcode": "AGA 89.3"
+      },
+      {
+        "para_id": "11875.417",
+        "lang": "uk",
+        "refcode": "ДА 78.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.487",
+    "id_prev": "127.486",
+    "id_next": "127.488",
+    "refcode_1": "AA",
+    "refcode_2": "117",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 117.2",
+    "refcode_long": "The Acts of the Apostles, p. 117.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "No doubt entered the mind of Saul that the One who spoke to him was Jesus of Nazareth, the long-looked-for Messiah, the Consolation and Redeemer of Israel. &ldquo;Trembling and astonished,&rdquo; he inquired, &ldquo;Lord, what wilt Thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.&rdquo;",
+    "puborder": 298,
+    "translations": [
+      {
+        "para_id": "13804.360",
+        "lang": "bg",
+        "refcode": "Дa 45.1"
+      },
+      {
+        "para_id": "11590.467",
+        "lang": "ce",
+        "refcode": "ABA 101.2"
+      },
+      {
+        "para_id": "11247.438",
+        "lang": "cs",
+        "refcode": "PNL 67.1"
+      },
+      {
+        "para_id": "813.483",
+        "lang": "de",
+        "refcode": "WA 119.4"
+      },
+      {
+        "para_id": "198.470",
+        "lang": "es",
+        "refcode": "HAp 96.1"
+      },
+      {
+        "para_id": "158.457",
+        "lang": "fr",
+        "refcode": "CP 103.2"
+      },
+      {
+        "para_id": "11938.420",
+        "lang": "hu",
+        "refcode": "AT 79.3"
+      },
+      {
+        "para_id": "12410.451",
+        "lang": "id",
+        "refcode": "KR 99.3"
+      },
+      {
+        "para_id": "882.420",
+        "lang": "it",
+        "refcode": "UVI 74.1"
+      },
+      {
+        "para_id": "11660.570",
+        "lang": "ja",
+        "refcode": "AAJ 122.2"
+      },
+      {
+        "para_id": "12335.402",
+        "lang": "nb",
+        "refcode": "AV 69.1"
+      },
+      {
+        "para_id": "12008.382",
+        "lang": "pl",
+        "refcode": "DA 66.1"
+      },
+      {
+        "para_id": "1806.410",
+        "lang": "pt",
+        "refcode": "AA 66.1"
+      },
+      {
+        "para_id": "2013.476",
+        "lang": "ro",
+        "refcode": "FA 117.2"
+      },
+      {
+        "para_id": "1785.458",
+        "lang": "ru",
+        "refcode": "ДА 117.2"
+      },
+      {
+        "para_id": "13874.408",
+        "lang": "rw",
+        "refcode": "INI 77.1"
+      },
+      {
+        "para_id": "11182.398",
+        "lang": "sk",
+        "refcode": "SA 74.1"
+      },
+      {
+        "para_id": "11904.442",
+        "lang": "tl",
+        "refcode": "AGA 89.4"
+      },
+      {
+        "para_id": "11875.418",
+        "lang": "uk",
+        "refcode": "ДА 78.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.488",
+    "id_prev": "127.487",
+    "id_next": "127.489",
+    "refcode_1": "AA",
+    "refcode_2": "117",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 117.3",
+    "refcode_long": "The Acts of the Apostles, p. 117.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When the glory was withdrawn, and Saul arose from the ground, he found himself totally deprived of sight. The brightness of Christ&apos;s glory had been too intense for his mortal eyes; and when it was removed, the blackness of night settled upon his vision. He believed that this blindness was a punishment from God for his cruel persecution of the followers of Jesus. In terrible darkness he groped about, and his companions, in fear and amazement, &ldquo;led him by the hand, and brought him into Damascus.&rdquo;",
+    "puborder": 299,
+    "translations": [
+      {
+        "para_id": "13804.361",
+        "lang": "bg",
+        "refcode": "Дa 45.2"
+      },
+      {
+        "para_id": "11590.468",
+        "lang": "ce",
+        "refcode": "ABA 101.3"
+      },
+      {
+        "para_id": "11247.440",
+        "lang": "cs",
+        "refcode": "PNL 67.2"
+      },
+      {
+        "para_id": "813.486",
+        "lang": "de",
+        "refcode": "WA 120.1"
+      },
+      {
+        "para_id": "198.471",
+        "lang": "es",
+        "refcode": "HAp 96.2"
+      },
+      {
+        "para_id": "158.458",
+        "lang": "fr",
+        "refcode": "CP 103.3"
+      },
+      {
+        "para_id": "11938.421",
+        "lang": "hu",
+        "refcode": "AT 79.4"
+      },
+      {
+        "para_id": "12410.452",
+        "lang": "id",
+        "refcode": "KR 99.4"
+      },
+      {
+        "para_id": "882.421",
+        "lang": "it",
+        "refcode": "UVI 74.2"
+      },
+      {
+        "para_id": "11660.571",
+        "lang": "ja",
+        "refcode": "AAJ 122.3"
+      },
+      {
+        "para_id": "12335.403",
+        "lang": "nb",
+        "refcode": "AV 69.2"
+      },
+      {
+        "para_id": "12008.383",
+        "lang": "pl",
+        "refcode": "DA 66.2"
+      },
+      {
+        "para_id": "1806.413",
+        "lang": "pt",
+        "refcode": "AA 66.4"
+      },
+      {
+        "para_id": "2013.477",
+        "lang": "ro",
+        "refcode": "FA 117.3"
+      },
+      {
+        "para_id": "1785.459",
+        "lang": "ru",
+        "refcode": "ДА 117.3"
+      },
+      {
+        "para_id": "13874.409",
+        "lang": "rw",
+        "refcode": "INI 77.2"
+      },
+      {
+        "para_id": "11182.399",
+        "lang": "sk",
+        "refcode": "SA 74.2"
+      },
+      {
+        "para_id": "11904.445",
+        "lang": "tl",
+        "refcode": "AGA 90.1"
+      },
+      {
+        "para_id": "11875.419",
+        "lang": "uk",
+        "refcode": "ДА 78.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.489",
+    "id_prev": "127.488",
+    "id_next": "127.492",
+    "refcode_1": "AA",
+    "refcode_2": "117",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 117.4",
+    "refcode_long": "The Acts of the Apostles, p. 117.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "On the morning of that eventful day, Saul had neared Damascus with feelings of self-satisfaction because of the confidence that had been placed in him by the chief priest. To <span class=\"page-break\" data-page=\"118\"></span> him had been entrusted grave responsibilities. He was commissioned to further the interests of the Jewish religion by checking, if possible, the spread of the new faith in Damascus. He had determined that his mission should be crowned with success and had looked forward with eager anticipation to the experiences that he expected were before him.",
+    "puborder": 300,
+    "translations": [
+      {
+        "para_id": "13804.362",
+        "lang": "bg",
+        "refcode": "Дa 45.3"
+      },
+      {
+        "para_id": "11590.469",
+        "lang": "ce",
+        "refcode": "ABA 101.4"
+      },
+      {
+        "para_id": "11247.441",
+        "lang": "cs",
+        "refcode": "PNL 67.3"
+      },
+      {
+        "para_id": "813.487",
+        "lang": "de",
+        "refcode": "WA 120.2"
+      },
+      {
+        "para_id": "198.472",
+        "lang": "es",
+        "refcode": "HAp 96.3"
+      },
+      {
+        "para_id": "158.460",
+        "lang": "fr",
+        "refcode": "CP 104.1"
+      },
+      {
+        "para_id": "11938.422",
+        "lang": "hu",
+        "refcode": "AT 79.5"
+      },
+      {
+        "para_id": "12410.453",
+        "lang": "id",
+        "refcode": "KR 99.5"
+      },
+      {
+        "para_id": "882.422",
+        "lang": "it",
+        "refcode": "UVI 74.3"
+      },
+      {
+        "para_id": "11660.574",
+        "lang": "ja",
+        "refcode": "AAJ 123.1"
+      },
+      {
+        "para_id": "12335.404",
+        "lang": "nb",
+        "refcode": "AV 69.3"
+      },
+      {
+        "para_id": "12008.384",
+        "lang": "pl",
+        "refcode": "DA 66.3"
+      },
+      {
+        "para_id": "1806.414",
+        "lang": "pt",
+        "refcode": "AA 66.5"
+      },
+      {
+        "para_id": "2013.478",
+        "lang": "ro",
+        "refcode": "FA 117.4"
+      },
+      {
+        "para_id": "1785.460",
+        "lang": "ru",
+        "refcode": "ДА 117.4"
+      },
+      {
+        "para_id": "13874.410",
+        "lang": "rw",
+        "refcode": "INI 77.3"
+      },
+      {
+        "para_id": "11182.400",
+        "lang": "sk",
+        "refcode": "SA 74.3"
+      },
+      {
+        "para_id": "11904.446",
+        "lang": "tl",
+        "refcode": "AGA 90.2"
+      },
+      {
+        "para_id": "11875.422",
+        "lang": "uk",
+        "refcode": "ДА 79.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.492",
+    "id_prev": "127.489",
+    "id_next": "127.493",
+    "refcode_1": "AA",
+    "refcode_2": "118",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 118.1",
+    "refcode_long": "The Acts of the Apostles, p. 118.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But how unlike his anticipations was his entrance into the city! Stricken with blindness, helpless, tortured by remorse, knowing not what further judgment might be in store for him, he sought out the home of the disciple Judas, where, in solitude, he had ample opportunity for reflection and prayer.",
+    "puborder": 301,
+    "translations": [
+      {
+        "para_id": "13804.363",
+        "lang": "bg",
+        "refcode": "Дa 45.4"
+      },
+      {
+        "para_id": "11590.470",
+        "lang": "ce",
+        "refcode": "ABA 101.5"
+      },
+      {
+        "para_id": "11247.442",
+        "lang": "cs",
+        "refcode": "PNL 67.4"
+      },
+      {
+        "para_id": "813.488",
+        "lang": "de",
+        "refcode": "WA 120.3"
+      },
+      {
+        "para_id": "198.473",
+        "lang": "es",
+        "refcode": "HAp 96.4"
+      },
+      {
+        "para_id": "158.461",
+        "lang": "fr",
+        "refcode": "CP 104.2"
+      },
+      {
+        "para_id": "11938.423",
+        "lang": "hu",
+        "refcode": "AT 79.6"
+      },
+      {
+        "para_id": "12410.456",
+        "lang": "id",
+        "refcode": "KR 100.1"
+      },
+      {
+        "para_id": "882.423",
+        "lang": "it",
+        "refcode": "UVI 74.4"
+      },
+      {
+        "para_id": "11660.575",
+        "lang": "ja",
+        "refcode": "AAJ 123.2"
+      },
+      {
+        "para_id": "12335.405",
+        "lang": "nb",
+        "refcode": "AV 69.4"
+      },
+      {
+        "para_id": "12008.385",
+        "lang": "pl",
+        "refcode": "DA 66.4"
+      },
+      {
+        "para_id": "1806.415",
+        "lang": "pt",
+        "refcode": "AA 66.6"
+      },
+      {
+        "para_id": "2013.481",
+        "lang": "ro",
+        "refcode": "FA 118.1"
+      },
+      {
+        "para_id": "1785.463",
+        "lang": "ru",
+        "refcode": "ДА 118.1"
+      },
+      {
+        "para_id": "13874.411",
+        "lang": "rw",
+        "refcode": "INI 77.4"
+      },
+      {
+        "para_id": "11182.401",
+        "lang": "sk",
+        "refcode": "SA 74.4"
+      },
+      {
+        "para_id": "11904.447",
+        "lang": "tl",
+        "refcode": "AGA 90.3"
+      },
+      {
+        "para_id": "11875.423",
+        "lang": "uk",
+        "refcode": "ДА 79.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.493",
+    "id_prev": "127.492",
+    "id_next": "127.494",
+    "refcode_1": "AA",
+    "refcode_2": "118",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 118.2",
+    "refcode_long": "The Acts of the Apostles, p. 118.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "For three days Saul was &ldquo;without sight, and neither did eat nor drink.&rdquo; These days of soul agony were to him as years. Again and again he recalled, with anguish of spirit, the part he had taken in the martyrdom of Stephen. With horror he thought of his guilt in allowing himself to be controlled by the malice and prejudice of the priests and rulers, even when the face of Stephen had been lighted up with the radiance of heaven. In sadness and brokenness of spirit he recounted the many times he had closed his eyes and ears against the most striking evidences and had relentlessly urged on the persecution of the believers in Jesus of Nazareth.",
+    "puborder": 302,
+    "translations": [
+      {
+        "para_id": "13804.364",
+        "lang": "bg",
+        "refcode": "Дa 45.5"
+      },
+      {
+        "para_id": "11590.473",
+        "lang": "ce",
+        "refcode": "ABA 102.1"
+      },
+      {
+        "para_id": "11247.443",
+        "lang": "cs",
+        "refcode": "PNL 67.5"
+      },
+      {
+        "para_id": "813.489",
+        "lang": "de",
+        "refcode": "WA 120.4"
+      },
+      {
+        "para_id": "198.474",
+        "lang": "es",
+        "refcode": "HAp 96.5"
+      },
+      {
+        "para_id": "158.462",
+        "lang": "fr",
+        "refcode": "CP 104.3"
+      },
+      {
+        "para_id": "11938.424",
+        "lang": "hu",
+        "refcode": "AT 79.7"
+      },
+      {
+        "para_id": "12410.457",
+        "lang": "id",
+        "refcode": "KR 100.2"
+      },
+      {
+        "para_id": "882.424",
+        "lang": "it",
+        "refcode": "UVI 74.5"
+      },
+      {
+        "para_id": "11660.576",
+        "lang": "ja",
+        "refcode": "AAJ 123.3"
+      },
+      {
+        "para_id": "12335.406",
+        "lang": "nb",
+        "refcode": "AV 69.5"
+      },
+      {
+        "para_id": "12008.386",
+        "lang": "pl",
+        "refcode": "DA 66.5"
+      },
+      {
+        "para_id": "1806.416",
+        "lang": "pt",
+        "refcode": "AA 66.7"
+      },
+      {
+        "para_id": "2013.482",
+        "lang": "ro",
+        "refcode": "FA 118.2"
+      },
+      {
+        "para_id": "1785.464",
+        "lang": "ru",
+        "refcode": "ДА 118.2"
+      },
+      {
+        "para_id": "13874.412",
+        "lang": "rw",
+        "refcode": "INI 77.5"
+      },
+      {
+        "para_id": "11182.402",
+        "lang": "sk",
+        "refcode": "SA 74.5"
+      },
+      {
+        "para_id": "11904.448",
+        "lang": "tl",
+        "refcode": "AGA 90.4"
+      },
+      {
+        "para_id": "11875.424",
+        "lang": "uk",
+        "refcode": "ДА 79.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.494",
+    "id_prev": "127.493",
+    "id_next": "127.497",
+    "refcode_1": "AA",
+    "refcode_2": "118",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 118.3",
+    "refcode_long": "The Acts of the Apostles, p. 118.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "These days of close self-examination and of heart humiliation were spent in lonely seclusion. The believers, having been given warning of the purpose of Saul in coming to Damascus, feared that he might be acting a part, in order the more readily to deceive them; and they held themselves <span class=\"page-break\" data-page=\"119\"></span> aloof, refusing him their sympathy. He had no desire to appeal to the unconverted Jews, with whom he had planned to unite in persecuting the believers; for he knew that they would not even listen to his story. Thus he seemed to be shut away from all human sympathy. His only hope of help was in a merciful God, and to Him he appealed in brokenness of heart.",
+    "puborder": 303,
+    "translations": [
+      {
+        "para_id": "13804.365",
+        "lang": "bg",
+        "refcode": "Дa 45.6"
+      },
+      {
+        "para_id": "11590.474",
+        "lang": "ce",
+        "refcode": "ABA 102.2"
+      },
+      {
+        "para_id": "11247.444",
+        "lang": "cs",
+        "refcode": "PNL 67.6"
+      },
+      {
+        "para_id": "813.492",
+        "lang": "de",
+        "refcode": "WA 121.1"
+      },
+      {
+        "para_id": "198.477",
+        "lang": "es",
+        "refcode": "HAp 97.1"
+      },
+      {
+        "para_id": "158.463",
+        "lang": "fr",
+        "refcode": "CP 104.4"
+      },
+      {
+        "para_id": "158.462",
+        "lang": "fr",
+        "refcode": "CP 104.3"
+      },
+      {
+        "para_id": "11938.427",
+        "lang": "hu",
+        "refcode": "AT 80.1"
+      },
+      {
+        "para_id": "12410.458",
+        "lang": "id",
+        "refcode": "KR 100.3"
+      },
+      {
+        "para_id": "882.425",
+        "lang": "it",
+        "refcode": "UVI 74.6"
+      },
+      {
+        "para_id": "11660.578",
+        "lang": "ja",
+        "refcode": "AAJ 124.1"
+      },
+      {
+        "para_id": "12335.407",
+        "lang": "nb",
+        "refcode": "AV 69.6"
+      },
+      {
+        "para_id": "12008.387",
+        "lang": "pl",
+        "refcode": "DA 66.6"
+      },
+      {
+        "para_id": "1806.417",
+        "lang": "pt",
+        "refcode": "AA 66.8"
+      },
+      {
+        "para_id": "2013.483",
+        "lang": "ro",
+        "refcode": "FA 118.3"
+      },
+      {
+        "para_id": "1785.465",
+        "lang": "ru",
+        "refcode": "ДА 118.3"
+      },
+      {
+        "para_id": "13874.413",
+        "lang": "rw",
+        "refcode": "INI 77.6"
+      },
+      {
+        "para_id": "11182.403",
+        "lang": "sk",
+        "refcode": "SA 74.6"
+      },
+      {
+        "para_id": "11904.449",
+        "lang": "tl",
+        "refcode": "AGA 90.5"
+      },
+      {
+        "para_id": "11875.425",
+        "lang": "uk",
+        "refcode": "ДА 79.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.497",
+    "id_prev": "127.494",
+    "id_next": "127.498",
+    "refcode_1": "AA",
+    "refcode_2": "119",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 119.1",
+    "refcode_long": "The Acts of the Apostles, p. 119.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "During the long hours when Saul was shut in with God alone, he recalled many of the passages of Scripture referring to the first advent of Christ. Carefully he traced down the prophecies, with a memory sharpened by the conviction that had taken possession of his mind. As he reflected on the meaning of these prophecies he was astonished at his former blindness of understanding and at the blindness of the Jews in general, which had led to the rejection of Jesus as the promised Messiah. To his enlightened vision all now seemed plain. He knew that his former prejudice and unbelief had clouded his spiritual perception and had prevented him from discerning in Jesus of Nazareth the Messiah of prophecy.",
+    "puborder": 304,
+    "translations": [
+      {
+        "para_id": "13804.366",
+        "lang": "bg",
+        "refcode": "Дa 45.7"
+      },
+      {
+        "para_id": "11590.475",
+        "lang": "ce",
+        "refcode": "ABA 102.3"
+      },
+      {
+        "para_id": "11247.447",
+        "lang": "cs",
+        "refcode": "PNL 68.1"
+      },
+      {
+        "para_id": "813.493",
+        "lang": "de",
+        "refcode": "WA 121.2"
+      },
+      {
+        "para_id": "198.478",
+        "lang": "es",
+        "refcode": "HAp 97.2"
+      },
+      {
+        "para_id": "158.465",
+        "lang": "fr",
+        "refcode": "CP 105.1"
+      },
+      {
+        "para_id": "11938.428",
+        "lang": "hu",
+        "refcode": "AT 80.2"
+      },
+      {
+        "para_id": "12410.460",
+        "lang": "id",
+        "refcode": "KR 101.1"
+      },
+      {
+        "para_id": "882.428",
+        "lang": "it",
+        "refcode": "UVI 75.1"
+      },
+      {
+        "para_id": "11660.579",
+        "lang": "ja",
+        "refcode": "AAJ 124.2"
+      },
+      {
+        "para_id": "12335.410",
+        "lang": "nb",
+        "refcode": "AV 70.1"
+      },
+      {
+        "para_id": "12008.389",
+        "lang": "pl",
+        "refcode": "DA 67.1"
+      },
+      {
+        "para_id": "1806.418",
+        "lang": "pt",
+        "refcode": "AA 66.9"
+      },
+      {
+        "para_id": "2013.486",
+        "lang": "ro",
+        "refcode": "FA 119.1"
+      },
+      {
+        "para_id": "1785.468",
+        "lang": "ru",
+        "refcode": "ДА 119.1"
+      },
+      {
+        "para_id": "13874.416",
+        "lang": "rw",
+        "refcode": "INI 78.1"
+      },
+      {
+        "para_id": "11182.406",
+        "lang": "sk",
+        "refcode": "SA 75.1"
+      },
+      {
+        "para_id": "11904.452",
+        "lang": "tl",
+        "refcode": "AGA 91.1"
+      },
+      {
+        "para_id": "11875.427",
+        "lang": "uk",
+        "refcode": "ДА 80.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.498",
+    "id_prev": "127.497",
+    "id_next": "127.501",
+    "refcode_1": "AA",
+    "refcode_2": "119",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 119.2",
+    "refcode_long": "The Acts of the Apostles, p. 119.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As Saul yielded himself fully to the convicting power of the Holy Spirit, he saw the mistakes of his life and recognized the far-reaching claims of the law of God. He who had been a proud Pharisee, confident that he was justified by his good works, now bowed before God with the humility and simplicity of a little child, confessing his own unworthiness and pleading the merits of a crucified and risen Saviour. Saul longed to come into full harmony and communion with the Father and the Son; and in the intensity of his <span class=\"page-break\" data-page=\"120\"></span> desire for pardon and acceptance he offered up fervent supplications to the throne of grace.",
+    "puborder": 305,
+    "translations": [
+      {
+        "para_id": "13804.368",
+        "lang": "bg",
+        "refcode": "Дa 46.1"
+      },
+      {
+        "para_id": "11590.478",
+        "lang": "ce",
+        "refcode": "ABA 103.1"
+      },
+      {
+        "para_id": "11247.449",
+        "lang": "cs",
+        "refcode": "PNL 68.2"
+      },
+      {
+        "para_id": "813.495",
+        "lang": "de",
+        "refcode": "WA 122.1"
+      },
+      {
+        "para_id": "198.479",
+        "lang": "es",
+        "refcode": "HAp 97.3"
+      },
+      {
+        "para_id": "158.466",
+        "lang": "fr",
+        "refcode": "CP 105.2"
+      },
+      {
+        "para_id": "11938.429",
+        "lang": "hu",
+        "refcode": "AT 80.3"
+      },
+      {
+        "para_id": "12410.461",
+        "lang": "id",
+        "refcode": "KR 101.2"
+      },
+      {
+        "para_id": "882.429",
+        "lang": "it",
+        "refcode": "UVI 75.2"
+      },
+      {
+        "para_id": "11660.580",
+        "lang": "ja",
+        "refcode": "AAJ 124.3"
+      },
+      {
+        "para_id": "12335.411",
+        "lang": "nb",
+        "refcode": "AV 70.2"
+      },
+      {
+        "para_id": "12008.390",
+        "lang": "pl",
+        "refcode": "DA 67.2"
+      },
+      {
+        "para_id": "1806.421",
+        "lang": "pt",
+        "refcode": "AA 67.1"
+      },
+      {
+        "para_id": "2013.487",
+        "lang": "ro",
+        "refcode": "FA 119.2"
+      },
+      {
+        "para_id": "1785.469",
+        "lang": "ru",
+        "refcode": "ДА 119.2"
+      },
+      {
+        "para_id": "13874.417",
+        "lang": "rw",
+        "refcode": "INI 78.2"
+      },
+      {
+        "para_id": "11182.407",
+        "lang": "sk",
+        "refcode": "SA 75.2"
+      },
+      {
+        "para_id": "11904.453",
+        "lang": "tl",
+        "refcode": "AGA 91.2"
+      },
+      {
+        "para_id": "11875.428",
+        "lang": "uk",
+        "refcode": "ДА 80.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.501",
+    "id_prev": "127.498",
+    "id_next": "127.502",
+    "refcode_1": "AA",
+    "refcode_2": "120",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 120.1",
+    "refcode_long": "The Acts of the Apostles, p. 120.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The prayers of the penitent Pharisee were not in vain. The inmost thoughts and emotions of his heart were transformed by divine grace; and his nobler faculties were brought into harmony with the eternal purposes of God. Christ and His righteousness became to Saul more than the whole world.",
+    "puborder": 306,
+    "translations": [
+      {
+        "para_id": "13804.369",
+        "lang": "bg",
+        "refcode": "Дa 46.2"
+      },
+      {
+        "para_id": "11590.479",
+        "lang": "ce",
+        "refcode": "ABA 103.2"
+      },
+      {
+        "para_id": "11247.450",
+        "lang": "cs",
+        "refcode": "PNL 68.3"
+      },
+      {
+        "para_id": "813.496",
+        "lang": "de",
+        "refcode": "WA 122.2"
+      },
+      {
+        "para_id": "198.482",
+        "lang": "es",
+        "refcode": "HAp 98.1"
+      },
+      {
+        "para_id": "158.466",
+        "lang": "fr",
+        "refcode": "CP 105.2"
+      },
+      {
+        "para_id": "11938.430",
+        "lang": "hu",
+        "refcode": "AT 80.4"
+      },
+      {
+        "para_id": "12410.462",
+        "lang": "id",
+        "refcode": "KR 101.3"
+      },
+      {
+        "para_id": "882.430",
+        "lang": "it",
+        "refcode": "UVI 75.3"
+      },
+      {
+        "para_id": "11660.583",
+        "lang": "ja",
+        "refcode": "AAJ 125.1"
+      },
+      {
+        "para_id": "12335.412",
+        "lang": "nb",
+        "refcode": "AV 70.3"
+      },
+      {
+        "para_id": "12008.391",
+        "lang": "pl",
+        "refcode": "DA 67.3"
+      },
+      {
+        "para_id": "1806.423",
+        "lang": "pt",
+        "refcode": "AA 68"
+      },
+      {
+        "para_id": "2013.490",
+        "lang": "ro",
+        "refcode": "FA 120.1"
+      },
+      {
+        "para_id": "1785.472",
+        "lang": "ru",
+        "refcode": "ДА 120.1"
+      },
+      {
+        "para_id": "13874.418",
+        "lang": "rw",
+        "refcode": "INI 78.3"
+      },
+      {
+        "para_id": "11182.408",
+        "lang": "sk",
+        "refcode": "SA 75.3"
+      },
+      {
+        "para_id": "11904.454",
+        "lang": "tl",
+        "refcode": "AGA 91.3"
+      },
+      {
+        "para_id": "11875.429",
+        "lang": "uk",
+        "refcode": "ДА 80.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.502",
+    "id_prev": "127.501",
+    "id_next": "127.503",
+    "refcode_1": "AA",
+    "refcode_2": "120",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 120.2",
+    "refcode_long": "The Acts of the Apostles, p. 120.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The conversion of Saul is a striking evidence of the miraculous power of the Holy Spirit to convict men of sin. He had verily believed that Jesus of Nazareth had disregarded the law of God and had taught His disciples that it was of no effect. But after his conversion, Saul recognized Jesus as the one who had come into the world for the express purpose of vindicating His Father&apos;s law. He was convinced that Jesus was the originator of the entire Jewish system of sacrifices. He saw that at the crucifixion type had met antitype, that Jesus had fulfilled the Old Testament prophecies concerning the Redeemer of Israel.",
+    "puborder": 307,
+    "translations": [
+      {
+        "para_id": "13804.370",
+        "lang": "bg",
+        "refcode": "Дa 46.3"
+      },
+      {
+        "para_id": "11590.480",
+        "lang": "ce",
+        "refcode": "ABA 103.3"
+      },
+      {
+        "para_id": "11247.451",
+        "lang": "cs",
+        "refcode": "PNL 68.4"
+      },
+      {
+        "para_id": "813.497",
+        "lang": "de",
+        "refcode": "WA 122.3"
+      },
+      {
+        "para_id": "198.483",
+        "lang": "es",
+        "refcode": "HAp 98.2"
+      },
+      {
+        "para_id": "158.467",
+        "lang": "fr",
+        "refcode": "CP 105.3"
+      },
+      {
+        "para_id": "11938.432",
+        "lang": "hu",
+        "refcode": "AT 81.1"
+      },
+      {
+        "para_id": "12410.463",
+        "lang": "id",
+        "refcode": "KR 101.4"
+      },
+      {
+        "para_id": "882.431",
+        "lang": "it",
+        "refcode": "UVI 75.4"
+      },
+      {
+        "para_id": "11660.584",
+        "lang": "ja",
+        "refcode": "AAJ 125.2"
+      },
+      {
+        "para_id": "12335.413",
+        "lang": "nb",
+        "refcode": "AV 70.4"
+      },
+      {
+        "para_id": "12008.392",
+        "lang": "pl",
+        "refcode": "DA 67.4"
+      },
+      {
+        "para_id": "1806.423",
+        "lang": "pt",
+        "refcode": "AA 68"
+      },
+      {
+        "para_id": "2013.491",
+        "lang": "ro",
+        "refcode": "FA 120.2"
+      },
+      {
+        "para_id": "1785.473",
+        "lang": "ru",
+        "refcode": "ДА 120.2"
+      },
+      {
+        "para_id": "13874.419",
+        "lang": "rw",
+        "refcode": "INI 78.4"
+      },
+      {
+        "para_id": "11182.409",
+        "lang": "sk",
+        "refcode": "SA 75.4"
+      },
+      {
+        "para_id": "11904.455",
+        "lang": "tl",
+        "refcode": "AGA 91.4"
+      },
+      {
+        "para_id": "11875.430",
+        "lang": "uk",
+        "refcode": "ДА 80.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.503",
+    "id_prev": "127.502",
+    "id_next": "127.505",
+    "refcode_1": "AA",
+    "refcode_2": "120",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 120.3",
+    "refcode_long": "The Acts of the Apostles, p. 120.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the record of the conversion of Saul important principles are given us, which we should ever bear in mind. Saul was brought directly into the presence of Christ. He was one whom Christ intended for a most important work, one who was to be a &ldquo;chosen vessel&rdquo; unto Him; yet the Lord did not at once tell him of the work that had been assigned him. He arrested him in his course and convicted him of sin; but when Saul asked, &ldquo;What wilt Thou have me to do?&rdquo; the Saviour placed the inquiring Jew in connection with His church, there to obtain a knowledge of God&apos;s will concerning him.",
+    "puborder": 308,
+    "translations": [
+      {
+        "para_id": "13804.371",
+        "lang": "bg",
+        "refcode": "Дa 46.4"
+      },
+      {
+        "para_id": "11590.481",
+        "lang": "ce",
+        "refcode": "ABA 103.4"
+      },
+      {
+        "para_id": "11247.452",
+        "lang": "cs",
+        "refcode": "PNL 68.5"
+      },
+      {
+        "para_id": "813.498",
+        "lang": "de",
+        "refcode": "WA 122.4"
+      },
+      {
+        "para_id": "198.484",
+        "lang": "es",
+        "refcode": "HAp 98.3"
+      },
+      {
+        "para_id": "158.470",
+        "lang": "fr",
+        "refcode": "CP 106.1"
+      },
+      {
+        "para_id": "11938.433",
+        "lang": "hu",
+        "refcode": "AT 81.2"
+      },
+      {
+        "para_id": "12410.466",
+        "lang": "id",
+        "refcode": "KR 102.1"
+      },
+      {
+        "para_id": "882.432",
+        "lang": "it",
+        "refcode": "UVI 75.5"
+      },
+      {
+        "para_id": "11660.585",
+        "lang": "ja",
+        "refcode": "AAJ 125.3"
+      },
+      {
+        "para_id": "12335.414",
+        "lang": "nb",
+        "refcode": "AV 70.5"
+      },
+      {
+        "para_id": "12008.393",
+        "lang": "pl",
+        "refcode": "DA 67.5"
+      },
+      {
+        "para_id": "1806.424",
+        "lang": "pt",
+        "refcode": "AA 68.1"
+      },
+      {
+        "para_id": "2013.492",
+        "lang": "ro",
+        "refcode": "FA 120.3"
+      },
+      {
+        "para_id": "1785.474",
+        "lang": "ru",
+        "refcode": "ДА 120.3"
+      },
+      {
+        "para_id": "13874.422",
+        "lang": "rw",
+        "refcode": "INI 79.1"
+      },
+      {
+        "para_id": "11182.410",
+        "lang": "sk",
+        "refcode": "SA 75.5"
+      },
+      {
+        "para_id": "11904.458",
+        "lang": "tl",
+        "refcode": "AGA 92.1"
+      },
+      {
+        "para_id": "11875.431",
+        "lang": "uk",
+        "refcode": "ДА 80.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.505",
+    "id_prev": "127.503",
+    "id_next": "127.506",
+    "refcode_1": "AA",
+    "refcode_2": "121",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 121.1",
+    "refcode_long": "The Acts of the Apostles, p. 121.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The marvelous light that illumined the darkness of Saul was the work of the Lord; but there was also a work that was to be done for him by the disciples. Christ had performed the work of revelation and conviction; and now the penitent was in a condition to learn from those whom God had ordained to teach His truth.",
+    "puborder": 309,
+    "translations": [
+      {
+        "para_id": "13804.372",
+        "lang": "bg",
+        "refcode": "Дa 46.5"
+      },
+      {
+        "para_id": "11590.484",
+        "lang": "ce",
+        "refcode": "ABA 104.1"
+      },
+      {
+        "para_id": "11247.454",
+        "lang": "cs",
+        "refcode": "PNL 68.6"
+      },
+      {
+        "para_id": "813.501",
+        "lang": "de",
+        "refcode": "WA 123.1"
+      },
+      {
+        "para_id": "198.485",
+        "lang": "es",
+        "refcode": "HAp 98.4"
+      },
+      {
+        "para_id": "158.471",
+        "lang": "fr",
+        "refcode": "CP 106.2"
+      },
+      {
+        "para_id": "11938.434",
+        "lang": "hu",
+        "refcode": "AT 81.3"
+      },
+      {
+        "para_id": "12410.467",
+        "lang": "id",
+        "refcode": "KR 102.2"
+      },
+      {
+        "para_id": "882.435",
+        "lang": "it",
+        "refcode": "UVI 76.1"
+      },
+      {
+        "para_id": "11660.588",
+        "lang": "ja",
+        "refcode": "AAJ 126.1"
+      },
+      {
+        "para_id": "12335.417",
+        "lang": "nb",
+        "refcode": "AV 71.1"
+      },
+      {
+        "para_id": "12008.394",
+        "lang": "pl",
+        "refcode": "DA 67.6"
+      },
+      {
+        "para_id": "1806.425",
+        "lang": "pt",
+        "refcode": "AA 68.2"
+      },
+      {
+        "para_id": "2013.494",
+        "lang": "ro",
+        "refcode": "FA 121.1"
+      },
+      {
+        "para_id": "1785.476",
+        "lang": "ru",
+        "refcode": "ДА 121.1"
+      },
+      {
+        "para_id": "13874.423",
+        "lang": "rw",
+        "refcode": "INI 79.2"
+      },
+      {
+        "para_id": "11182.413",
+        "lang": "sk",
+        "refcode": "SA 76.1"
+      },
+      {
+        "para_id": "11904.459",
+        "lang": "tl",
+        "refcode": "AGA 92.2"
+      },
+      {
+        "para_id": "11875.434",
+        "lang": "uk",
+        "refcode": "ДА 81.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.506",
+    "id_prev": "127.505",
+    "id_next": "127.507",
+    "refcode_1": "AA",
+    "refcode_2": "121",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 121.2",
+    "refcode_long": "The Acts of the Apostles, p. 121.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "While Saul in solitude at the house of Judas continued in prayer and supplication, the Lord appeared in vision to &ldquo;a certain disciple at Damascus, named Ananias,&rdquo; telling him that Saul of Tarsus was praying and in need of help. &ldquo;Arise, and go into the street which is called Straight,&rdquo; the heavenly messenger said, &ldquo;and inquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth, and hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight.&rdquo;",
+    "puborder": 310,
+    "translations": [
+      {
+        "para_id": "13804.373",
+        "lang": "bg",
+        "refcode": "Дa 46.6"
+      },
+      {
+        "para_id": "11590.485",
+        "lang": "ce",
+        "refcode": "ABA 104.2"
+      },
+      {
+        "para_id": "11247.457",
+        "lang": "cs",
+        "refcode": "PNL 69.1"
+      },
+      {
+        "para_id": "813.502",
+        "lang": "de",
+        "refcode": "WA 123.2"
+      },
+      {
+        "para_id": "198.488",
+        "lang": "es",
+        "refcode": "HAp 99.1"
+      },
+      {
+        "para_id": "158.472",
+        "lang": "fr",
+        "refcode": "CP 106.3"
+      },
+      {
+        "para_id": "11938.435",
+        "lang": "hu",
+        "refcode": "AT 81.4"
+      },
+      {
+        "para_id": "12410.468",
+        "lang": "id",
+        "refcode": "KR 102.3"
+      },
+      {
+        "para_id": "882.436",
+        "lang": "it",
+        "refcode": "UVI 76.2"
+      },
+      {
+        "para_id": "11660.589",
+        "lang": "ja",
+        "refcode": "AAJ 126.2"
+      },
+      {
+        "para_id": "12335.418",
+        "lang": "nb",
+        "refcode": "AV 71.2"
+      },
+      {
+        "para_id": "12008.397",
+        "lang": "pl",
+        "refcode": "DA 68.1"
+      },
+      {
+        "para_id": "1806.427",
+        "lang": "pt",
+        "refcode": "AA 68.4"
+      },
+      {
+        "para_id": "2013.495",
+        "lang": "ro",
+        "refcode": "FA 121.2"
+      },
+      {
+        "para_id": "1785.477",
+        "lang": "ru",
+        "refcode": "ДА 121.2"
+      },
+      {
+        "para_id": "13874.424",
+        "lang": "rw",
+        "refcode": "INI 79.3"
+      },
+      {
+        "para_id": "11182.414",
+        "lang": "sk",
+        "refcode": "SA 76.2"
+      },
+      {
+        "para_id": "11904.460",
+        "lang": "tl",
+        "refcode": "AGA 92.3"
+      },
+      {
+        "para_id": "11875.435",
+        "lang": "uk",
+        "refcode": "ДА 81.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.507",
+    "id_prev": "127.506",
+    "id_next": "127.508",
+    "refcode_1": "AA",
+    "refcode_2": "121",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 121.3",
+    "refcode_long": "The Acts of the Apostles, p. 121.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Ananias could scarcely credit the words of the angel; for the reports of Saul&apos;s bitter persecution of the saints at Jerusalem had spread far and wide. He presumed to expostulate: &ldquo;Lord, I have heard by many of this man, how much evil he hath done to Thy saints at Jerusalem: and here he hath authority from the chief priests to bind all that call on Thy name.&rdquo; But the command was imperative: &ldquo;Go thy way: for he is a chosen vessel unto Me, to bear My name before the Gentiles, and kings, and the children of Israel.&rdquo;",
+    "puborder": 311,
+    "translations": [
+      {
+        "para_id": "13804.374",
+        "lang": "bg",
+        "refcode": "Дa 46.7"
+      },
+      {
+        "para_id": "11590.486",
+        "lang": "ce",
+        "refcode": "ABA 104.3"
+      },
+      {
+        "para_id": "11247.458",
+        "lang": "cs",
+        "refcode": "PNL 69.2"
+      },
+      {
+        "para_id": "813.503",
+        "lang": "de",
+        "refcode": "WA 123.3"
+      },
+      {
+        "para_id": "198.489",
+        "lang": "es",
+        "refcode": "HAp 99.2"
+      },
+      {
+        "para_id": "158.473",
+        "lang": "fr",
+        "refcode": "CP 106.4"
+      },
+      {
+        "para_id": "11938.436",
+        "lang": "hu",
+        "refcode": "AT 81.5"
+      },
+      {
+        "para_id": "12410.469",
+        "lang": "id",
+        "refcode": "KR 102.4"
+      },
+      {
+        "para_id": "882.437",
+        "lang": "it",
+        "refcode": "UVI 76.3"
+      },
+      {
+        "para_id": "11660.590",
+        "lang": "ja",
+        "refcode": "AAJ 126.3"
+      },
+      {
+        "para_id": "12335.419",
+        "lang": "nb",
+        "refcode": "AV 71.3"
+      },
+      {
+        "para_id": "12008.398",
+        "lang": "pl",
+        "refcode": "DA 68.2"
+      },
+      {
+        "para_id": "1806.428",
+        "lang": "pt",
+        "refcode": "AA 68.5"
+      },
+      {
+        "para_id": "2013.496",
+        "lang": "ro",
+        "refcode": "FA 121.3"
+      },
+      {
+        "para_id": "1785.478",
+        "lang": "ru",
+        "refcode": "ДА 121.3"
+      },
+      {
+        "para_id": "13874.425",
+        "lang": "rw",
+        "refcode": "INI 79.4"
+      },
+      {
+        "para_id": "11182.415",
+        "lang": "sk",
+        "refcode": "SA 76.3"
+      },
+      {
+        "para_id": "11904.461",
+        "lang": "tl",
+        "refcode": "AGA 92.4"
+      },
+      {
+        "para_id": "11875.436",
+        "lang": "uk",
+        "refcode": "ДА 81.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.508",
+    "id_prev": "127.507",
+    "id_next": "127.511",
+    "refcode_1": "AA",
+    "refcode_2": "121",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 121.4",
+    "refcode_long": "The Acts of the Apostles, p. 121.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Obedient to the direction of the angel, Ananias sought out the man who had but recently breathed out threatenings against all who believed on the name of Jesus; and putting his hands on the head of the penitent sufferer, he said, &ldquo;Brother Saul, the Lord, even Jesus, that appeared unto thee <span class=\"page-break\" data-page=\"122\"></span> in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost.",
+    "puborder": 312,
+    "translations": [
+      {
+        "para_id": "13804.375",
+        "lang": "bg",
+        "refcode": "Дa 46.8"
+      },
+      {
+        "para_id": "11590.487",
+        "lang": "ce",
+        "refcode": "ABA 104.4"
+      },
+      {
+        "para_id": "11247.459",
+        "lang": "cs",
+        "refcode": "PNL 69.3"
+      },
+      {
+        "para_id": "813.505",
+        "lang": "de",
+        "refcode": "WA 124.1"
+      },
+      {
+        "para_id": "198.490",
+        "lang": "es",
+        "refcode": "HAp 99.3"
+      },
+      {
+        "para_id": "158.476",
+        "lang": "fr",
+        "refcode": "CP 107.1"
+      },
+      {
+        "para_id": "11938.439",
+        "lang": "hu",
+        "refcode": "AT 82.1"
+      },
+      {
+        "para_id": "12410.472",
+        "lang": "id",
+        "refcode": "KR 103.1"
+      },
+      {
+        "para_id": "882.438",
+        "lang": "it",
+        "refcode": "UVI 76.4"
+      },
+      {
+        "para_id": "11660.593",
+        "lang": "ja",
+        "refcode": "AAJ 128.1"
+      },
+      {
+        "para_id": "12335.420",
+        "lang": "nb",
+        "refcode": "AV 71.4"
+      },
+      {
+        "para_id": "12008.399",
+        "lang": "pl",
+        "refcode": "DA 68.3"
+      },
+      {
+        "para_id": "1806.429",
+        "lang": "pt",
+        "refcode": "AA 68.6"
+      },
+      {
+        "para_id": "2013.497",
+        "lang": "ro",
+        "refcode": "FA 121.4"
+      },
+      {
+        "para_id": "1785.479",
+        "lang": "ru",
+        "refcode": "ДА 121.4"
+      },
+      {
+        "para_id": "13874.426",
+        "lang": "rw",
+        "refcode": "INI 79.5"
+      },
+      {
+        "para_id": "11182.416",
+        "lang": "sk",
+        "refcode": "SA 76.4"
+      },
+      {
+        "para_id": "11904.464",
+        "lang": "tl",
+        "refcode": "AGA 93.1"
+      },
+      {
+        "para_id": "11875.437",
+        "lang": "uk",
+        "refcode": "ДА 81.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.511",
+    "id_prev": "127.508",
+    "id_next": "127.512",
+    "refcode_1": "AA",
+    "refcode_2": "122",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 122.1",
+    "refcode_long": "The Acts of the Apostles, p. 122.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized.&rdquo;",
+    "puborder": 313,
+    "translations": [
+      {
+        "para_id": "13804.376",
+        "lang": "bg",
+        "refcode": "Дa 46.9"
+      },
+      {
+        "para_id": "11590.490",
+        "lang": "ce",
+        "refcode": "ABA 105.1"
+      },
+      {
+        "para_id": "11247.460",
+        "lang": "cs",
+        "refcode": "PNL 69.4"
+      },
+      {
+        "para_id": "813.505",
+        "lang": "de",
+        "refcode": "WA 124.1"
+      },
+      {
+        "para_id": "198.491",
+        "lang": "es",
+        "refcode": "HAp 99.4"
+      },
+      {
+        "para_id": "158.476",
+        "lang": "fr",
+        "refcode": "CP 107.1"
+      },
+      {
+        "para_id": "11938.440",
+        "lang": "hu",
+        "refcode": "AT 82.2"
+      },
+      {
+        "para_id": "12410.473",
+        "lang": "id",
+        "refcode": "KR 103.2"
+      },
+      {
+        "para_id": "882.439",
+        "lang": "it",
+        "refcode": "UVI 76.5"
+      },
+      {
+        "para_id": "11660.594",
+        "lang": "ja",
+        "refcode": "AAJ 128.2"
+      },
+      {
+        "para_id": "12335.421",
+        "lang": "nb",
+        "refcode": "AV 71.5"
+      },
+      {
+        "para_id": "12008.399",
+        "lang": "pl",
+        "refcode": "DA 68.3"
+      },
+      {
+        "para_id": "1806.429",
+        "lang": "pt",
+        "refcode": "AA 68.6"
+      },
+      {
+        "para_id": "2013.500",
+        "lang": "ro",
+        "refcode": "FA 122.1"
+      },
+      {
+        "para_id": "1785.482",
+        "lang": "ru",
+        "refcode": "ДА 122.1"
+      },
+      {
+        "para_id": "13874.426",
+        "lang": "rw",
+        "refcode": "INI 79.5"
+      },
+      {
+        "para_id": "11182.416",
+        "lang": "sk",
+        "refcode": "SA 76.4"
+      },
+      {
+        "para_id": "11904.465",
+        "lang": "tl",
+        "refcode": "AGA 93.2"
+      },
+      {
+        "para_id": "11875.437",
+        "lang": "uk",
+        "refcode": "ДА 81.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.512",
+    "id_prev": "127.511",
+    "id_next": "127.513",
+    "refcode_1": "AA",
+    "refcode_2": "122",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 122.2",
+    "refcode_long": "The Acts of the Apostles, p. 122.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Thus Jesus gave sanction to the authority of His organized church and placed Saul in connection with His appointed agencies on earth. Christ had now a church as His representative on earth, and to it belonged the work of directing the repentant sinner in the way of life.",
+    "puborder": 314,
+    "translations": [
+      {
+        "para_id": "13804.378",
+        "lang": "bg",
+        "refcode": "Дa 47.1"
+      },
+      {
+        "para_id": "11590.491",
+        "lang": "ce",
+        "refcode": "ABA 105.2"
+      },
+      {
+        "para_id": "11247.461",
+        "lang": "cs",
+        "refcode": "PNL 69.5"
+      },
+      {
+        "para_id": "813.506",
+        "lang": "de",
+        "refcode": "WA 124.2"
+      },
+      {
+        "para_id": "198.492",
+        "lang": "es",
+        "refcode": "HAp 99.5"
+      },
+      {
+        "para_id": "158.477",
+        "lang": "fr",
+        "refcode": "CP 107.2"
+      },
+      {
+        "para_id": "11938.441",
+        "lang": "hu",
+        "refcode": "AT 82.3"
+      },
+      {
+        "para_id": "12410.474",
+        "lang": "id",
+        "refcode": "KR 103.3"
+      },
+      {
+        "para_id": "882.440",
+        "lang": "it",
+        "refcode": "UVI 76.6"
+      },
+      {
+        "para_id": "11660.595",
+        "lang": "ja",
+        "refcode": "AAJ 128.3"
+      },
+      {
+        "para_id": "12335.422",
+        "lang": "nb",
+        "refcode": "AV 71.6"
+      },
+      {
+        "para_id": "12008.400",
+        "lang": "pl",
+        "refcode": "DA 68.4"
+      },
+      {
+        "para_id": "1806.429",
+        "lang": "pt",
+        "refcode": "AA 68.6"
+      },
+      {
+        "para_id": "2013.501",
+        "lang": "ro",
+        "refcode": "FA 122.2"
+      },
+      {
+        "para_id": "1785.483",
+        "lang": "ru",
+        "refcode": "ДА 122.2"
+      },
+      {
+        "para_id": "11182.417",
+        "lang": "sk",
+        "refcode": "SA 76.5"
+      },
+      {
+        "para_id": "11904.466",
+        "lang": "tl",
+        "refcode": "AGA 93.3"
+      },
+      {
+        "para_id": "11875.438",
+        "lang": "uk",
+        "refcode": "ДА 81.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.513",
+    "id_prev": "127.512",
+    "id_next": "127.514",
+    "refcode_1": "AA",
+    "refcode_2": "122",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 122.3",
+    "refcode_long": "The Acts of the Apostles, p. 122.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Many have an idea that they are responsible to Christ alone for their light and experience, independent of His recognized followers on earth. Jesus is the friend of sinners, and His heart is touched with their woe. He has all power, both in heaven and on earth; but He respects the means that He has ordained for the enlightenment and salvation of men; He directs sinners to the church, which He has made a channel of light to the world.",
+    "puborder": 315,
+    "translations": [
+      {
+        "para_id": "13804.379",
+        "lang": "bg",
+        "refcode": "Дa 47.2"
+      },
+      {
+        "para_id": "11590.492",
+        "lang": "ce",
+        "refcode": "ABA 105.3"
+      },
+      {
+        "para_id": "11247.462",
+        "lang": "cs",
+        "refcode": "PNL 69.6"
+      },
+      {
+        "para_id": "813.507",
+        "lang": "de",
+        "refcode": "WA 124.3"
+      },
+      {
+        "para_id": "198.495",
+        "lang": "es",
+        "refcode": "HAp 100.1"
+      },
+      {
+        "para_id": "158.478",
+        "lang": "fr",
+        "refcode": "CP 107.3"
+      },
+      {
+        "para_id": "11938.442",
+        "lang": "hu",
+        "refcode": "AT 82.4"
+      },
+      {
+        "para_id": "12410.475",
+        "lang": "id",
+        "refcode": "KR 103.4"
+      },
+      {
+        "para_id": "882.441",
+        "lang": "it",
+        "refcode": "UVI 76.7"
+      },
+      {
+        "para_id": "11660.596",
+        "lang": "ja",
+        "refcode": "AAJ 128.4"
+      },
+      {
+        "para_id": "12335.423",
+        "lang": "nb",
+        "refcode": "AV 71.7"
+      },
+      {
+        "para_id": "1806.429",
+        "lang": "pt",
+        "refcode": "AA 68.6"
+      },
+      {
+        "para_id": "2013.502",
+        "lang": "ro",
+        "refcode": "FA 122.3"
+      },
+      {
+        "para_id": "1785.484",
+        "lang": "ru",
+        "refcode": "ДА 122.3"
+      },
+      {
+        "para_id": "13874.429",
+        "lang": "rw",
+        "refcode": "INI 80.1"
+      },
+      {
+        "para_id": "11182.417",
+        "lang": "sk",
+        "refcode": "SA 76.5"
+      },
+      {
+        "para_id": "11904.467",
+        "lang": "tl",
+        "refcode": "AGA 93.4"
+      },
+      {
+        "para_id": "11875.440",
+        "lang": "uk",
+        "refcode": "ДА 82.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.514",
+    "id_prev": "127.513",
+    "id_next": "127.516",
+    "refcode_1": "AA",
+    "refcode_2": "122",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 122.4",
+    "refcode_long": "The Acts of the Apostles, p. 122.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When, in the midst of his blind error and prejudice, Saul was given a revelation of the Christ whom he was persecuting, he was placed in direct communication with the church, which is the light of the world. In this case Ananias represents Christ, and also represents Christ&apos;s ministers upon the earth, who are appointed to act in His stead. In Christ&apos;s stead Ananias touches the eyes of Saul, that they may receive sight. In Christ&apos;s stead he places his hands upon him, and, as he prays in Christ&apos;s name, Saul receives the Holy Ghost. All is done in the name and by the authority of Christ. Christ is the fountain; the church is the channel of communication.",
+    "puborder": 316,
+    "translations": [
+      {
+        "para_id": "13804.380",
+        "lang": "bg",
+        "refcode": "Дa 47.3"
+      },
+      {
+        "para_id": "11590.493",
+        "lang": "ce",
+        "refcode": "ABA 105.4"
+      },
+      {
+        "para_id": "11247.463",
+        "lang": "cs",
+        "refcode": "PNL 69.7"
+      },
+      {
+        "para_id": "813.508",
+        "lang": "de",
+        "refcode": "WA 124.4"
+      },
+      {
+        "para_id": "198.496",
+        "lang": "es",
+        "refcode": "HAp 100.2"
+      },
+      {
+        "para_id": "158.479",
+        "lang": "fr",
+        "refcode": "CP 107.4"
+      },
+      {
+        "para_id": "11938.443",
+        "lang": "hu",
+        "refcode": "AT 82.5"
+      },
+      {
+        "para_id": "12410.476",
+        "lang": "id",
+        "refcode": "KR 103.5"
+      },
+      {
+        "para_id": "882.444",
+        "lang": "it",
+        "refcode": "UVI 77.1"
+      },
+      {
+        "para_id": "11660.597",
+        "lang": "ja",
+        "refcode": "AAJ 128.5"
+      },
+      {
+        "para_id": "12335.426",
+        "lang": "nb",
+        "refcode": "AV 72.1"
+      },
+      {
+        "para_id": "12008.401",
+        "lang": "pl",
+        "refcode": "DA 68.5"
+      },
+      {
+        "para_id": "1806.432",
+        "lang": "pt",
+        "refcode": "AA 69.1"
+      },
+      {
+        "para_id": "2013.503",
+        "lang": "ro",
+        "refcode": "FA 122.4"
+      },
+      {
+        "para_id": "1785.485",
+        "lang": "ru",
+        "refcode": "ДА 122.4"
+      },
+      {
+        "para_id": "13874.430",
+        "lang": "rw",
+        "refcode": "INI 80.2"
+      },
+      {
+        "para_id": "11182.420",
+        "lang": "sk",
+        "refcode": "SA 77.1"
+      },
+      {
+        "para_id": "11904.468",
+        "lang": "tl",
+        "refcode": "AGA 93.5"
+      },
+      {
+        "para_id": "11875.441",
+        "lang": "uk",
+        "refcode": "ДА 82.2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.252",
+    "id_prev": "21.251",
+    "id_next": "21.253",
+    "refcode_1": "CSW",
+    "refcode_2": "56",
+    "refcode_3": "",
+    "refcode_4": "33",
+    "refcode_short": "CSW 56",
+    "refcode_long": "Counsels on Sabbath School Work, p. 56 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Parents to Help Children",
+    "puborder": 155,
+    "translations": [
+      {
+        "para_id": "11629.225",
+        "lang": "da",
+        "refcode": "RSSA 56"
+      },
+      {
+        "para_id": "799.247",
+        "lang": "de",
+        "refcode": "RSs 49"
+      },
+      {
+        "para_id": "1711.273",
+        "lang": "es",
+        "refcode": "COES 61"
+      },
+      {
+        "para_id": "1724.280",
+        "lang": "pt",
+        "refcode": "CES 56"
+      },
+      {
+        "para_id": "1917.292",
+        "lang": "pt",
+        "refcode": "CES38 28"
+      },
+      {
+        "para_id": "2719.262",
+        "lang": "ro",
+        "refcode": "SSS 56"
+      },
+      {
+        "para_id": "1873.249",
+        "lang": "ru",
+        "refcode": "ССШ 56"
+      }
+    ]
+  },
+  {
+    "para_id": "21.253",
+    "id_prev": "21.252",
+    "id_next": "21.254",
+    "refcode_1": "CSW",
+    "refcode_2": "56",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 56.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 56.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Parents should feel it a sacred duty to instruct their children in the statutes and requirements of God as well as in the prophecies. They should educate their children at home, and should themselves be interested in the Sabbath school lessons. By studying with the children they show that they attach importance to the truth brought out in the lessons, and help to create a taste for Bible knowledge.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 111.1\" data-link=\"121.450\"><em>Testimonies on Sabbath-School Work</em>, 111</span>.",
+    "puborder": 156,
+    "translations": [
+      {
+        "para_id": "11629.226",
+        "lang": "da",
+        "refcode": "RSSA 56.2"
+      },
+      {
+        "para_id": "799.248",
+        "lang": "de",
+        "refcode": "RSs 49.3"
+      },
+      {
+        "para_id": "1711.274",
+        "lang": "es",
+        "refcode": "COES 61.1"
+      },
+      {
+        "para_id": "1724.281",
+        "lang": "pt",
+        "refcode": "CES 56.2"
+      },
+      {
+        "para_id": "1917.293",
+        "lang": "pt",
+        "refcode": "CES38 28.2"
+      },
+      {
+        "para_id": "2719.263",
+        "lang": "ro",
+        "refcode": "SSS 56.2"
+      },
+      {
+        "para_id": "1873.250",
+        "lang": "ru",
+        "refcode": "ССШ 56.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.254",
+    "id_prev": "21.253",
+    "id_next": "21.256",
+    "refcode_1": "CSW",
+    "refcode_2": "56",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 56.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 56.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Let parents do their part, not only helping the children in their study, but becoming familiar with the lessons themselves. The Bible is our textbook. Parents, teachers, and scholars need to become better acquainted with the precious truths contained in both the Old and the New Testaments.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 14.1\" data-link=\"121.44\"><em>Testimonies on Sabbath-School Work</em>, 14</span>.",
+    "puborder": 157,
+    "translations": [
+      {
+        "para_id": "11629.227",
+        "lang": "da",
+        "refcode": "RSSA 56.3"
+      },
+      {
+        "para_id": "799.251",
+        "lang": "de",
+        "refcode": "RSs 50.1"
+      },
+      {
+        "para_id": "1711.275",
+        "lang": "es",
+        "refcode": "COES 61.2"
+      },
+      {
+        "para_id": "1917.294",
+        "lang": "pt",
+        "refcode": "CES38 28.3"
+      },
+      {
+        "para_id": "1724.282",
+        "lang": "pt",
+        "refcode": "CES 56.3"
+      },
+      {
+        "para_id": "2719.264",
+        "lang": "ro",
+        "refcode": "SSS 56.3"
+      },
+      {
+        "para_id": "1873.251",
+        "lang": "ru",
+        "refcode": "ССШ 56.3"
+      }
+    ]
+  }
+]

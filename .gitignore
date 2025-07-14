@@ -81,3 +81,6 @@ package-lock.json
 
 # Turbo
 .turbo/
+
+# TODO and planning files
+todo/

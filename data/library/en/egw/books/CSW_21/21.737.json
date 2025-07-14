@@ -1,0 +1,111 @@
+[
+  {
+    "para_id": "21.737",
+    "id_prev": "21.736",
+    "id_next": "21.738",
+    "refcode_1": "CSW",
+    "refcode_2": "159",
+    "refcode_3": "",
+    "refcode_4": "124",
+    "refcode_short": "CSW 159",
+    "refcode_long": "Counsels on Sabbath School Work, p. 159 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Successful Cooperation",
+    "puborder": 465,
+    "translations": [
+      {
+        "para_id": "11629.715",
+        "lang": "da",
+        "refcode": "RSSA 159"
+      },
+      {
+        "para_id": "799.695",
+        "lang": "de",
+        "refcode": "RSs 130"
+      },
+      {
+        "para_id": "1711.794",
+        "lang": "es",
+        "refcode": "COES 178"
+      },
+      {
+        "para_id": "1917.868",
+        "lang": "pt",
+        "refcode": "CES38 83"
+      },
+      {
+        "para_id": "1724.779",
+        "lang": "pt",
+        "refcode": "CES 159"
+      },
+      {
+        "para_id": "2719.755",
+        "lang": "ro",
+        "refcode": "SSS 159"
+      },
+      {
+        "para_id": "1873.731",
+        "lang": "ru",
+        "refcode": "ССШ 159"
+      }
+    ]
+  },
+  {
+    "para_id": "21.738",
+    "id_prev": "21.737",
+    "id_next": "21.741",
+    "refcode_1": "CSW",
+    "refcode_2": "159",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 159.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 159.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Our Sabbath school workers need to be especially imbued with the Spirit of Christ. They cannot be coworkers with Christ unless they have Him abiding in their hearts by faith.... The children need a more decided effort in regard to religious culture. The leading workers and the teachers should labor for perfect harmony. There should be cooperation on the part of parents, children, and teachers. Let every worker labor for wisdom and tact, that he may put forth that well-directed effort which God requires. We are to cultivate tact and sharp discernment, to be quick to see opportunities to do good, and to seize <span class=\"page-break\" data-page=\"160\"></span> these opportunities and make the most of them.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 20.1\" data-link=\"121.70\"><em>Testimonies on Sabbath-School Work</em>, 20</span>.",
+    "puborder": 466,
+    "translations": [
+      {
+        "para_id": "11629.716",
+        "lang": "da",
+        "refcode": "RSSA 159.2"
+      },
+      {
+        "para_id": "799.696",
+        "lang": "de",
+        "refcode": "RSs 130.1"
+      },
+      {
+        "para_id": "1711.795",
+        "lang": "es",
+        "refcode": "COES 178.2"
+      },
+      {
+        "para_id": "1724.780",
+        "lang": "pt",
+        "refcode": "CES 159.2"
+      },
+      {
+        "para_id": "1917.871",
+        "lang": "pt",
+        "refcode": "CES38 83.3"
+      },
+      {
+        "para_id": "1917.869",
+        "lang": "pt",
+        "refcode": "CES38 83.2"
+      },
+      {
+        "para_id": "2719.756",
+        "lang": "ro",
+        "refcode": "SSS 159.2"
+      },
+      {
+        "para_id": "1873.732",
+        "lang": "ru",
+        "refcode": "ССШ 159.2"
+      }
+    ]
+  }
+]

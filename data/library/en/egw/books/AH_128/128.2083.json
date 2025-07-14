@@ -1,0 +1,1774 @@
+[
+  {
+    "para_id": "128.2083",
+    "id_prev": "128.2080",
+    "id_next": "128.2084",
+    "refcode_1": "AH",
+    "refcode_2": "445",
+    "refcode_3": "",
+    "refcode_4": "72",
+    "refcode_short": "AH 445",
+    "refcode_long": "The Adventist Home, p. 445 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 72&mdash;Hospitality",
+    "puborder": 1392,
+    "translations": [
+      {
+        "para_id": "13839.1719",
+        "lang": "bg",
+        "refcode": "ХД 192"
+      },
+      {
+        "para_id": "177.2103",
+        "lang": "es",
+        "refcode": "HC 405"
+      },
+      {
+        "para_id": "193.2063",
+        "lang": "fr",
+        "refcode": "FC 431"
+      },
+      {
+        "para_id": "12869.2608",
+        "lang": "id",
+        "refcode": "MKB 425"
+      },
+      {
+        "para_id": "891.1365",
+        "lang": "it",
+        "refcode": "FC 182"
+      },
+      {
+        "para_id": "12178.1792",
+        "lang": "pl",
+        "refcode": "ChD 284"
+      },
+      {
+        "para_id": "1955.2674",
+        "lang": "pt",
+        "refcode": "LA 445"
+      },
+      {
+        "para_id": "2026.2076",
+        "lang": "ro",
+        "refcode": "CA 445"
+      },
+      {
+        "para_id": "1803.2019",
+        "lang": "ru",
+        "refcode": "ХД 445"
+      },
+      {
+        "para_id": "12131.1880",
+        "lang": "uk",
+        "refcode": "ХР 358"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2084",
+    "id_prev": "128.2083",
+    "id_next": "128.2085",
+    "refcode_1": "AH",
+    "refcode_2": "445",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 445.1",
+    "refcode_long": "The Adventist Home, p. 445.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Angels May Be Entertained Today</strong>&mdash;The Bible lays much stress upon the practice of hospitality. Not only does it enjoin hospitality as a duty, but it presents many beautiful pictures of the exercise of this grace and the blessings which it brings. Foremost among these is the experience of Abraham....",
+    "puborder": 1393,
+    "translations": [
+      {
+        "para_id": "13839.1720",
+        "lang": "bg",
+        "refcode": "ХД 192.5"
+      },
+      {
+        "para_id": "177.2104",
+        "lang": "es",
+        "refcode": "HC 405.1"
+      },
+      {
+        "para_id": "193.2064",
+        "lang": "fr",
+        "refcode": "FC 431.1"
+      },
+      {
+        "para_id": "12869.2610",
+        "lang": "id",
+        "refcode": "MKB 425.1"
+      },
+      {
+        "para_id": "891.1366",
+        "lang": "it",
+        "refcode": "FC 182"
+      },
+      {
+        "para_id": "891.1367",
+        "lang": "it",
+        "refcode": "FC 182.1"
+      },
+      {
+        "para_id": "12178.1793",
+        "lang": "pl",
+        "refcode": "ChD 284.1"
+      },
+      {
+        "para_id": "1955.2675",
+        "lang": "pt",
+        "refcode": "LA 445"
+      },
+      {
+        "para_id": "1955.2676",
+        "lang": "pt",
+        "refcode": "LA 445.1"
+      },
+      {
+        "para_id": "2026.2077",
+        "lang": "ro",
+        "refcode": "CA 445.1"
+      },
+      {
+        "para_id": "1803.2020",
+        "lang": "ru",
+        "refcode": "ХД 445.1"
+      },
+      {
+        "para_id": "12131.1881",
+        "lang": "uk",
+        "refcode": "ХР 358.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2085",
+    "id_prev": "128.2084",
+    "id_next": "128.2086",
+    "refcode_1": "AH",
+    "refcode_2": "445",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 445.2",
+    "refcode_long": "The Adventist Home, p. 445.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "These acts of courtesy God thought of sufficient importance to record in His word; and more than a thousand years later they were referred to by an inspired apostle: &ldquo;Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.&rdquo;",
+    "puborder": 1394,
+    "translations": [
+      {
+        "para_id": "13839.1721",
+        "lang": "bg",
+        "refcode": "ХД 192.6"
+      },
+      {
+        "para_id": "177.2105",
+        "lang": "es",
+        "refcode": "HC 405.2"
+      },
+      {
+        "para_id": "193.2065",
+        "lang": "fr",
+        "refcode": "FC 431.2"
+      },
+      {
+        "para_id": "12869.2611",
+        "lang": "id",
+        "refcode": "MKB 425.2"
+      },
+      {
+        "para_id": "891.1367",
+        "lang": "it",
+        "refcode": "FC 182.1"
+      },
+      {
+        "para_id": "12178.1794",
+        "lang": "pl",
+        "refcode": "ChD 284.2"
+      },
+      {
+        "para_id": "1955.2677",
+        "lang": "pt",
+        "refcode": "LA 445.2"
+      },
+      {
+        "para_id": "2026.2078",
+        "lang": "ro",
+        "refcode": "CA 445.2"
+      },
+      {
+        "para_id": "1803.2021",
+        "lang": "ru",
+        "refcode": "ХД 445.2"
+      },
+      {
+        "para_id": "12131.1882",
+        "lang": "uk",
+        "refcode": "ХР 358.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2086",
+    "id_prev": "128.2085",
+    "id_next": "128.2087",
+    "refcode_1": "AH",
+    "refcode_2": "445",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 445.3",
+    "refcode_long": "The Adventist Home, p. 445.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The privilege granted Abraham and Lot is not denied to us. By showing hospitality to God&apos;s children we, too, may receive His angels into our dwellings. Even in our day angels in human form enter the homes of men and are entertained by them. And Christians who live in the light of God&apos;s countenance are always accompanied by unseen angels, and these holy beings leave behind them a blessing in our homes.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"6T 341.1\" data-link=\"118.1847\">Testimonies for the Church 6:341, 342</span>.</span></a></sup>",
+    "puborder": 1395,
+    "translations": [
+      {
+        "para_id": "13839.1722",
+        "lang": "bg",
+        "refcode": "ХД 192.7"
+      },
+      {
+        "para_id": "177.2106",
+        "lang": "es",
+        "refcode": "HC 405.3"
+      },
+      {
+        "para_id": "193.2066",
+        "lang": "fr",
+        "refcode": "FC 431.3"
+      },
+      {
+        "para_id": "12869.2613",
+        "lang": "id",
+        "refcode": "MKB 426.1"
+      },
+      {
+        "para_id": "891.1368",
+        "lang": "it",
+        "refcode": "FC 182.2"
+      },
+      {
+        "para_id": "12178.1795",
+        "lang": "pl",
+        "refcode": "ChD 284.3"
+      },
+      {
+        "para_id": "1955.2678",
+        "lang": "pt",
+        "refcode": "LA 445.3"
+      },
+      {
+        "para_id": "2026.2079",
+        "lang": "ro",
+        "refcode": "CA 445.3"
+      },
+      {
+        "para_id": "1803.2022",
+        "lang": "ru",
+        "refcode": "ХД 445.3"
+      },
+      {
+        "para_id": "12131.1883",
+        "lang": "uk",
+        "refcode": "ХР 358.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2087",
+    "id_prev": "128.2086",
+    "id_next": "128.2088",
+    "refcode_1": "AH",
+    "refcode_2": "445",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 445.4",
+    "refcode_long": "The Adventist Home, p. 445.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Neglected Opportunities and Privileges</strong>&mdash;&ldquo;A lover of hospitality&rdquo; is among the specifications given by the Holy Spirit as marking one who is to bear responsibility in the church. And to the whole church is given the injunction: &ldquo;Use hospitality one to another without grudging. As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.&rdquo;",
+    "puborder": 1396,
+    "translations": [
+      {
+        "para_id": "13839.1724",
+        "lang": "bg",
+        "refcode": "ХД 193.1"
+      },
+      {
+        "para_id": "177.2107",
+        "lang": "es",
+        "refcode": "HC 405.4"
+      },
+      {
+        "para_id": "193.2067",
+        "lang": "fr",
+        "refcode": "FC 431.4"
+      },
+      {
+        "para_id": "12869.2615",
+        "lang": "id",
+        "refcode": "MKB 426.2"
+      },
+      {
+        "para_id": "891.1369",
+        "lang": "it",
+        "refcode": "FC 182"
+      },
+      {
+        "para_id": "891.1370",
+        "lang": "it",
+        "refcode": "FC 182.3"
+      },
+      {
+        "para_id": "12178.1796",
+        "lang": "pl",
+        "refcode": "ChD 284.4"
+      },
+      {
+        "para_id": "1955.2680",
+        "lang": "pt",
+        "refcode": "LA 445.4"
+      },
+      {
+        "para_id": "1955.2679",
+        "lang": "pt",
+        "refcode": "LA 445"
+      },
+      {
+        "para_id": "2026.2080",
+        "lang": "ro",
+        "refcode": "CA 445.4"
+      },
+      {
+        "para_id": "1803.2023",
+        "lang": "ru",
+        "refcode": "ХД 445.4"
+      },
+      {
+        "para_id": "12131.1884",
+        "lang": "uk",
+        "refcode": "ХР 358.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2088",
+    "id_prev": "128.2087",
+    "id_next": "128.2091",
+    "refcode_1": "AH",
+    "refcode_2": "445",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 445.5",
+    "refcode_long": "The Adventist Home, p. 445.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "These admonitions have been strangely neglected. Even among those who profess to be Christians true <span class=\"page-break\" data-page=\"446\"></span> hospitality is little exercised. Among our own people the opportunity of showing hospitality is not regarded as it should be, as a privilege and blessing. There is altogether too little sociability, too little of a disposition to make room for two or three more at the family board without embarrassment or parade.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"6T 342.1\" data-link=\"118.1851\">Ibid., 6:342, 343</span>.</span></a></sup>",
+    "puborder": 1397,
+    "translations": [
+      {
+        "para_id": "13839.1725",
+        "lang": "bg",
+        "refcode": "ХД 193.2"
+      },
+      {
+        "para_id": "177.2108",
+        "lang": "es",
+        "refcode": "HC 405.5"
+      },
+      {
+        "para_id": "193.2068",
+        "lang": "fr",
+        "refcode": "FC 431.5"
+      },
+      {
+        "para_id": "12869.2616",
+        "lang": "id",
+        "refcode": "MKB 426.3"
+      },
+      {
+        "para_id": "891.1371",
+        "lang": "it",
+        "refcode": "FC 182.4"
+      },
+      {
+        "para_id": "12178.1797",
+        "lang": "pl",
+        "refcode": "ChD 284.5"
+      },
+      {
+        "para_id": "1955.2681",
+        "lang": "pt",
+        "refcode": "LA 445.5"
+      },
+      {
+        "para_id": "2026.2081",
+        "lang": "ro",
+        "refcode": "CA 445.5"
+      },
+      {
+        "para_id": "1803.2024",
+        "lang": "ru",
+        "refcode": "ХД 445.5"
+      },
+      {
+        "para_id": "12131.1885",
+        "lang": "uk",
+        "refcode": "ХР 358.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2091",
+    "id_prev": "128.2088",
+    "id_next": "128.2092",
+    "refcode_1": "AH",
+    "refcode_2": "446",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 446.1",
+    "refcode_long": "The Adventist Home, p. 446.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Inadequate Excuses</strong>&mdash;I have heard many excuse themselves from inviting to their homes and hearts the saints of God: &ldquo;Why, I have nothing prepared; I have nothing cooked; they must go to some other place.&rdquo; And at that place there may be some other excuse invented for not receiving those who need hospitality, and the feelings of the visitors are deeply grieved, and they leave with unpleasant impressions in regard to the hospitality of these professed brethren and sisters. If you have no bread, sister, imitate the case brought to view in the Bible. Go to your neighbor and say: &ldquo;Friend, lend me three loaves; for a friend of mine in his journey is come to me, and I have nothing to set before him.&rdquo;",
+    "puborder": 1398,
+    "translations": [
+      {
+        "para_id": "13839.1726",
+        "lang": "bg",
+        "refcode": "ХД 193.3"
+      },
+      {
+        "para_id": "177.2111",
+        "lang": "es",
+        "refcode": "HC 406.1"
+      },
+      {
+        "para_id": "193.2071",
+        "lang": "fr",
+        "refcode": "FC 432.1"
+      },
+      {
+        "para_id": "12869.2618",
+        "lang": "id",
+        "refcode": "MKB 426.4"
+      },
+      {
+        "para_id": "12178.1800",
+        "lang": "pl",
+        "refcode": "ChD 285.1"
+      },
+      {
+        "para_id": "1955.2684",
+        "lang": "pt",
+        "refcode": "LA 446"
+      },
+      {
+        "para_id": "1955.2685",
+        "lang": "pt",
+        "refcode": "LA 446.1"
+      },
+      {
+        "para_id": "2026.2084",
+        "lang": "ro",
+        "refcode": "CA 446.1"
+      },
+      {
+        "para_id": "1803.2027",
+        "lang": "ru",
+        "refcode": "ХД 446.1"
+      },
+      {
+        "para_id": "12131.1887",
+        "lang": "uk",
+        "refcode": "ХР 359.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2092",
+    "id_prev": "128.2091",
+    "id_next": "128.2093",
+    "refcode_1": "AH",
+    "refcode_2": "446",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 446.2",
+    "refcode_long": "The Adventist Home, p. 446.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "We have not an example of this lack of bread ever being made an excuse to refuse entrance to an applicant. When Elijah came to the widow of Sarepta, she shared her morsel with the prophet of God, and he wrought a miracle and caused that in that act of making a home for his servant and sharing her morsel with him, she herself was sustained, and her life and that of her son preserved. Thus will it prove in the case of many, if they do this cheerfully, for the glory of God.",
+    "puborder": 1399,
+    "translations": [
+      {
+        "para_id": "13839.1727",
+        "lang": "bg",
+        "refcode": "ХД 193.4"
+      },
+      {
+        "para_id": "177.2112",
+        "lang": "es",
+        "refcode": "HC 406.2"
+      },
+      {
+        "para_id": "193.2072",
+        "lang": "fr",
+        "refcode": "FC 432.2"
+      },
+      {
+        "para_id": "12869.2621",
+        "lang": "id",
+        "refcode": "MKB 427.1"
+      },
+      {
+        "para_id": "12178.1801",
+        "lang": "pl",
+        "refcode": "ChD 285.2"
+      },
+      {
+        "para_id": "1955.2686",
+        "lang": "pt",
+        "refcode": "LA 446.2"
+      },
+      {
+        "para_id": "2026.2085",
+        "lang": "ro",
+        "refcode": "CA 446.2"
+      },
+      {
+        "para_id": "1803.2028",
+        "lang": "ru",
+        "refcode": "ХД 446.2"
+      },
+      {
+        "para_id": "12131.1888",
+        "lang": "uk",
+        "refcode": "ХР 359.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2093",
+    "id_prev": "128.2092",
+    "id_next": "128.2096",
+    "refcode_1": "AH",
+    "refcode_2": "446",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 446.3",
+    "refcode_long": "The Adventist Home, p. 446.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Some plead their poor health&mdash;they would love to do if they had strength. Such have so long shut themselves up to themselves and thought so much of their own poor feelings and talked so much of their sufferings, trials, and afflictions that it is their present truth. They can think of <span class=\"page-break\" data-page=\"447\"></span> no one but self, however much others may be in need of sympathy and assistance. You who are suffering with poor health, there is a remedy for you. If thou clothe the naked and bring the poor that are cast out to thy house and deal thy bread to the hungry, &ldquo;then shall thy light break forth as the morning, and thine health shall spring forth speedily.&rdquo; Doing good is an excellent remedy for disease. Those who engage in the work are invited to call upon God, and He has pledged Himself to answer them. Their soul shall be satisfied in drought, and they shall be like a watered garden, whose waters fail not.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 28.1\" data-link=\"120.120\">Ibid., 2:28, 29</span>.</span></a></sup>",
+    "puborder": 1400,
+    "translations": [
+      {
+        "para_id": "13839.1728",
+        "lang": "bg",
+        "refcode": "ХД 193.5"
+      },
+      {
+        "para_id": "177.2113",
+        "lang": "es",
+        "refcode": "HC 406.3"
+      },
+      {
+        "para_id": "193.2073",
+        "lang": "fr",
+        "refcode": "FC 432.3"
+      },
+      {
+        "para_id": "12869.2622",
+        "lang": "id",
+        "refcode": "MKB 427.2"
+      },
+      {
+        "para_id": "12178.1802",
+        "lang": "pl",
+        "refcode": "ChD 285.3"
+      },
+      {
+        "para_id": "1955.2687",
+        "lang": "pt",
+        "refcode": "LA 446.3"
+      },
+      {
+        "para_id": "2026.2086",
+        "lang": "ro",
+        "refcode": "CA 446.3"
+      },
+      {
+        "para_id": "1803.2029",
+        "lang": "ru",
+        "refcode": "ХД 446.3"
+      },
+      {
+        "para_id": "12131.1889",
+        "lang": "uk",
+        "refcode": "ХР 359.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2096",
+    "id_prev": "128.2093",
+    "id_next": "128.2097",
+    "refcode_1": "AH",
+    "refcode_2": "447",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 447.1",
+    "refcode_long": "The Adventist Home, p. 447.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Blessings Lost by Selfish Exclusiveness</strong>&mdash;God is displeased with the selfish interest so often manifested for &ldquo;me and my family.&rdquo; Every family that cherishes this spirit needs to be converted by the pure principles exemplified in the life of Christ. Those who shut themselves up within themselves, who are unwilling to drawn upon to entertain visitors, lose many blessings.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"6T 344.1\" data-link=\"118.1863\">Ibid., 6:344</span>.</span></a></sup>",
+    "puborder": 1401,
+    "translations": [
+      {
+        "para_id": "13839.1729",
+        "lang": "bg",
+        "refcode": "ХД 193.6"
+      },
+      {
+        "para_id": "177.2116",
+        "lang": "es",
+        "refcode": "HC 407.1"
+      },
+      {
+        "para_id": "193.2076",
+        "lang": "fr",
+        "refcode": "FC 433.1"
+      },
+      {
+        "para_id": "12869.2624",
+        "lang": "id",
+        "refcode": "MKB 427.3"
+      },
+      {
+        "para_id": "12178.1804",
+        "lang": "pl",
+        "refcode": "ChD 286.1"
+      },
+      {
+        "para_id": "1955.2690",
+        "lang": "pt",
+        "refcode": "LA 447"
+      },
+      {
+        "para_id": "1955.2691",
+        "lang": "pt",
+        "refcode": "LA 447.1"
+      },
+      {
+        "para_id": "2026.2089",
+        "lang": "ro",
+        "refcode": "CA 447.1"
+      },
+      {
+        "para_id": "1803.2032",
+        "lang": "ru",
+        "refcode": "ХД 447.1"
+      },
+      {
+        "para_id": "12131.1890",
+        "lang": "uk",
+        "refcode": "ХР 359.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2097",
+    "id_prev": "128.2096",
+    "id_next": "128.2098",
+    "refcode_1": "AH",
+    "refcode_2": "447",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 447.2",
+    "refcode_long": "The Adventist Home, p. 447.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Angels are waiting to see if we embrace opportunities within our reach of doing good&mdash;waiting to see if we will bless others, that they in their turn may bless us. The Lord Himself has made us to differ&mdash;some poor, some rich, some afflicted&mdash;that all may have an opportunity to develop character. The poor are purposely permitted to be thus of God, that we may be tested and proved and develop what is in our hearts.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 28.1\" data-link=\"120.120\">Ibid., 2:28</span>.</span></a></sup>",
+    "puborder": 1402,
+    "translations": [
+      {
+        "para_id": "13839.1730",
+        "lang": "bg",
+        "refcode": "ХД 193.7"
+      },
+      {
+        "para_id": "177.2117",
+        "lang": "es",
+        "refcode": "HC 407.2"
+      },
+      {
+        "para_id": "193.2077",
+        "lang": "fr",
+        "refcode": "FC 433.2"
+      },
+      {
+        "para_id": "12869.2626",
+        "lang": "id",
+        "refcode": "MKB 428.1"
+      },
+      {
+        "para_id": "12178.1805",
+        "lang": "pl",
+        "refcode": "ChD 286.2"
+      },
+      {
+        "para_id": "1955.2692",
+        "lang": "pt",
+        "refcode": "LA 447.2"
+      },
+      {
+        "para_id": "2026.2090",
+        "lang": "ro",
+        "refcode": "CA 447.2"
+      },
+      {
+        "para_id": "1803.2033",
+        "lang": "ru",
+        "refcode": "ХД 447.2"
+      },
+      {
+        "para_id": "12131.1893",
+        "lang": "uk",
+        "refcode": "ХР 360.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2098",
+    "id_prev": "128.2097",
+    "id_next": "128.2099",
+    "refcode_1": "AH",
+    "refcode_2": "447",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 447.3",
+    "refcode_long": "The Adventist Home, p. 447.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When the spirit of hospitality dies, the heart becomes palsied with selfishness.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 41, 1903\" data-link=\"14068.9843001\">Manuscript 41, 1903</span>.</span></a></sup>",
+    "puborder": 1403,
+    "translations": [
+      {
+        "para_id": "13839.1733",
+        "lang": "bg",
+        "refcode": "ХД 194.1"
+      },
+      {
+        "para_id": "177.2118",
+        "lang": "es",
+        "refcode": "HC 407.3"
+      },
+      {
+        "para_id": "193.2078",
+        "lang": "fr",
+        "refcode": "FC 433.3"
+      },
+      {
+        "para_id": "12869.2627",
+        "lang": "id",
+        "refcode": "MKB 428.2"
+      },
+      {
+        "para_id": "12178.1806",
+        "lang": "pl",
+        "refcode": "ChD 286.3"
+      },
+      {
+        "para_id": "1955.2693",
+        "lang": "pt",
+        "refcode": "LA 447.3"
+      },
+      {
+        "para_id": "2026.2091",
+        "lang": "ro",
+        "refcode": "CA 447.3"
+      },
+      {
+        "para_id": "1803.2034",
+        "lang": "ru",
+        "refcode": "ХД 447.3"
+      },
+      {
+        "para_id": "12131.1894",
+        "lang": "uk",
+        "refcode": "ХР 360.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2099",
+    "id_prev": "128.2098",
+    "id_next": "128.2102",
+    "refcode_1": "AH",
+    "refcode_2": "447",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 447.4",
+    "refcode_long": "The Adventist Home, p. 447.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>To Whom Should Hospitality Be Extended?</strong>&mdash;Our social entertainments should not be governed by the dictates of worldly custom, but by the Spirit of Christ and the teaching of His word. The Israelites, in all their <span class=\"page-break\" data-page=\"448\"></span> festivities, included the poor, the stranger, and the Levite, who was both the assistant of the priest in the sanctuary and a religious teacher and missionary. These were regarded as the guests of the people, to share their hospitality on all occasions of social and religious rejoicing, and to be tenderly cared for in sickness or in need. It is such as these whom we should make welcome to our homes. How much such a welcome might do to cheer and encourage the missionary nurse or the teacher, the care-burdened, hard-working mother, or the feeble and aged, so often without a home and struggling with poverty and many discouragements.",
+    "puborder": 1404,
+    "translations": [
+      {
+        "para_id": "13839.1734",
+        "lang": "bg",
+        "refcode": "ХД 194.2"
+      },
+      {
+        "para_id": "177.2119",
+        "lang": "es",
+        "refcode": "HC 407.4"
+      },
+      {
+        "para_id": "193.2079",
+        "lang": "fr",
+        "refcode": "FC 433.4"
+      },
+      {
+        "para_id": "12869.2629",
+        "lang": "id",
+        "refcode": "MKB 428.3"
+      },
+      {
+        "para_id": "891.1373",
+        "lang": "it",
+        "refcode": "FC 182.5"
+      },
+      {
+        "para_id": "891.1372",
+        "lang": "it",
+        "refcode": "FC 182"
+      },
+      {
+        "para_id": "12178.1807",
+        "lang": "pl",
+        "refcode": "ChD 286.4"
+      },
+      {
+        "para_id": "1955.2695",
+        "lang": "pt",
+        "refcode": "LA 447.4"
+      },
+      {
+        "para_id": "1955.2694",
+        "lang": "pt",
+        "refcode": "LA 447"
+      },
+      {
+        "para_id": "2026.2092",
+        "lang": "ro",
+        "refcode": "CA 447.4"
+      },
+      {
+        "para_id": "1803.2035",
+        "lang": "ru",
+        "refcode": "ХД 447.4"
+      },
+      {
+        "para_id": "12131.1895",
+        "lang": "uk",
+        "refcode": "ХР 360.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2102",
+    "id_prev": "128.2099",
+    "id_next": "128.2103",
+    "refcode_1": "AH",
+    "refcode_2": "448",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 448.1",
+    "refcode_long": "The Adventist Home, p. 448.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;When thou makest a dinner or a supper,&rdquo; Christ says, &ldquo;call not thy friends, nor thy brethren, neither thy kinsmen, nor thy rich neighbours; lest they also bid thee again, and a recompence be made thee. But when thou makest a feast, call the poor, the maimed, the lame, the blind: and thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just.&rdquo;",
+    "puborder": 1405,
+    "translations": [
+      {
+        "para_id": "13839.1735",
+        "lang": "bg",
+        "refcode": "ХД 194.3"
+      },
+      {
+        "para_id": "177.2122",
+        "lang": "es",
+        "refcode": "HC 408.1"
+      },
+      {
+        "para_id": "193.2081",
+        "lang": "fr",
+        "refcode": "FC 434.1"
+      },
+      {
+        "para_id": "12869.2630",
+        "lang": "id",
+        "refcode": "MKB 428.4"
+      },
+      {
+        "para_id": "891.1376",
+        "lang": "it",
+        "refcode": "FC 183.1"
+      },
+      {
+        "para_id": "12178.1808",
+        "lang": "pl",
+        "refcode": "ChD 286.5"
+      },
+      {
+        "para_id": "1955.2698",
+        "lang": "pt",
+        "refcode": "LA 448.1"
+      },
+      {
+        "para_id": "2026.2095",
+        "lang": "ro",
+        "refcode": "CA 448.1"
+      },
+      {
+        "para_id": "1803.2038",
+        "lang": "ru",
+        "refcode": "ХД 448.1"
+      },
+      {
+        "para_id": "12131.1896",
+        "lang": "uk",
+        "refcode": "ХР 360.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2103",
+    "id_prev": "128.2102",
+    "id_next": "128.2104",
+    "refcode_1": "AH",
+    "refcode_2": "448",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 448.2",
+    "refcode_long": "The Adventist Home, p. 448.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "These are guests whom it will lay on you no great burden to receive. You will not need to provide for them elaborate or expensive entertainment. You will need to make no effort at display. The warmth of a genial welcome, a place at your fireside, a seat at your home table, the privilege of sharing the blessing of the hour of prayer, would to many of these be like a glimpse of heaven.",
+    "puborder": 1406,
+    "translations": [
+      {
+        "para_id": "13839.1736",
+        "lang": "bg",
+        "refcode": "ХД 194.4"
+      },
+      {
+        "para_id": "177.2123",
+        "lang": "es",
+        "refcode": "HC 408.2"
+      },
+      {
+        "para_id": "193.2082",
+        "lang": "fr",
+        "refcode": "FC 434.2"
+      },
+      {
+        "para_id": "12869.2631",
+        "lang": "id",
+        "refcode": "MKB 428.5"
+      },
+      {
+        "para_id": "891.1377",
+        "lang": "it",
+        "refcode": "FC 183.2"
+      },
+      {
+        "para_id": "891.1376",
+        "lang": "it",
+        "refcode": "FC 183.1"
+      },
+      {
+        "para_id": "12178.1809",
+        "lang": "pl",
+        "refcode": "ChD 286.6"
+      },
+      {
+        "para_id": "1955.2699",
+        "lang": "pt",
+        "refcode": "LA 448.2"
+      },
+      {
+        "para_id": "2026.2097",
+        "lang": "ro",
+        "refcode": "CA 448.2"
+      },
+      {
+        "para_id": "1803.2039",
+        "lang": "ru",
+        "refcode": "ХД 448.2"
+      },
+      {
+        "para_id": "12131.1897",
+        "lang": "uk",
+        "refcode": "ХР 360.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2104",
+    "id_prev": "128.2103",
+    "id_next": "128.2106",
+    "refcode_1": "AH",
+    "refcode_2": "448",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 448.3",
+    "refcode_long": "The Adventist Home, p. 448.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Our sympathies are to overflow the boundaries of self and the enclosure of family walls. There are precious opportunities for those who will make their homes a blessing to others. Social influence is a wonderful power. We can use it, if we will, as a means of helping those about us.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 352.1\" data-link=\"135.1774\">The Ministry of Healing, 352-354</span>.</span></a></sup>",
+    "puborder": 1407,
+    "translations": [
+      {
+        "para_id": "13839.1737",
+        "lang": "bg",
+        "refcode": "ХД 194.5"
+      },
+      {
+        "para_id": "177.2124",
+        "lang": "es",
+        "refcode": "HC 408.3"
+      },
+      {
+        "para_id": "193.2083",
+        "lang": "fr",
+        "refcode": "FC 434.3"
+      },
+      {
+        "para_id": "12869.2634",
+        "lang": "id",
+        "refcode": "MKB 429.1"
+      },
+      {
+        "para_id": "891.1377",
+        "lang": "it",
+        "refcode": "FC 183.2"
+      },
+      {
+        "para_id": "12178.1812",
+        "lang": "pl",
+        "refcode": "ChD 287.1"
+      },
+      {
+        "para_id": "1955.2700",
+        "lang": "pt",
+        "refcode": "LA 448.3"
+      },
+      {
+        "para_id": "2026.2098",
+        "lang": "ro",
+        "refcode": "CA 448.3"
+      },
+      {
+        "para_id": "1803.2040",
+        "lang": "ru",
+        "refcode": "ХД 448.3"
+      },
+      {
+        "para_id": "12131.1899",
+        "lang": "uk",
+        "refcode": "ХР 361.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2106",
+    "id_prev": "128.2104",
+    "id_next": "128.2107",
+    "refcode_1": "AH",
+    "refcode_2": "449",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 449.1",
+    "refcode_long": "The Adventist Home, p. 449.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Refuge for Tempted Youth</strong>&mdash;Our homes should be a place of refuge for the tempted youth. Many there are who stand at the parting of the ways. Every influence, every impression, is determining the choice that shapes their destiny both here and hereafter. Evil invites them. Its resorts are made bright and attractive. They have a welcome for every comer. All about us are youth who have no home and many whose homes have no helpful, uplifting power, and the youth drift into evil. They are going down to ruin within the very shadow of our own doors.",
+    "puborder": 1408,
+    "translations": [
+      {
+        "para_id": "13839.1738",
+        "lang": "bg",
+        "refcode": "ХД 194.6"
+      },
+      {
+        "para_id": "177.2125",
+        "lang": "es",
+        "refcode": "HC 408.4"
+      },
+      {
+        "para_id": "193.2084",
+        "lang": "fr",
+        "refcode": "FC 434.4"
+      },
+      {
+        "para_id": "12869.2636",
+        "lang": "id",
+        "refcode": "MKB 429.2"
+      },
+      {
+        "para_id": "891.1378",
+        "lang": "it",
+        "refcode": "FC 183"
+      },
+      {
+        "para_id": "891.1379",
+        "lang": "it",
+        "refcode": "FC 183.3"
+      },
+      {
+        "para_id": "12178.1813",
+        "lang": "pl",
+        "refcode": "ChD 287.2"
+      },
+      {
+        "para_id": "1955.2702",
+        "lang": "pt",
+        "refcode": "LA 449"
+      },
+      {
+        "para_id": "1955.2703",
+        "lang": "pt",
+        "refcode": "LA 449.1"
+      },
+      {
+        "para_id": "2026.2100",
+        "lang": "ro",
+        "refcode": "CA 449.1"
+      },
+      {
+        "para_id": "1803.2042",
+        "lang": "ru",
+        "refcode": "ХД 449.1"
+      },
+      {
+        "para_id": "12131.1900",
+        "lang": "uk",
+        "refcode": "ХР 361.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2107",
+    "id_prev": "128.2106",
+    "id_next": "128.2108",
+    "refcode_1": "AH",
+    "refcode_2": "449",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 449.2",
+    "refcode_long": "The Adventist Home, p. 449.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "These youth need a hand stretched out to them in sympathy. Kind words simply spoken, little attentions simply bestowed, will sweep away the clouds of temptations which gather over the soul. The true expression of heaven-born sympathy has power to open the door of hearts that need the fragrance of Christlike words and the simple, delicate touch of the spirit of Christ&apos;s love. If we would show an interest in the youth, invite them to our homes, and surround them with cheering, helpful influences, there are many who would gladly turn their steps into the upward path.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 354.1\" data-link=\"135.1783\">Ibid., 354</span>.</span></a></sup>",
+    "puborder": 1409,
+    "translations": [
+      {
+        "para_id": "13839.1739",
+        "lang": "bg",
+        "refcode": "ХД 194.7"
+      },
+      {
+        "para_id": "177.2128",
+        "lang": "es",
+        "refcode": "HC 409.1"
+      },
+      {
+        "para_id": "193.2085",
+        "lang": "fr",
+        "refcode": "FC 434.5"
+      },
+      {
+        "para_id": "12869.2637",
+        "lang": "id",
+        "refcode": "MKB 429.3"
+      },
+      {
+        "para_id": "891.1380",
+        "lang": "it",
+        "refcode": "FC 183.4"
+      },
+      {
+        "para_id": "12178.1814",
+        "lang": "pl",
+        "refcode": "ChD 287.3"
+      },
+      {
+        "para_id": "1955.2704",
+        "lang": "pt",
+        "refcode": "LA 449.2"
+      },
+      {
+        "para_id": "2026.2101",
+        "lang": "ro",
+        "refcode": "CA 449.2"
+      },
+      {
+        "para_id": "1803.2043",
+        "lang": "ru",
+        "refcode": "ХД 449.2"
+      },
+      {
+        "para_id": "12131.1901",
+        "lang": "uk",
+        "refcode": "ХР 361.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2108",
+    "id_prev": "128.2107",
+    "id_next": "128.2111",
+    "refcode_1": "AH",
+    "refcode_2": "449",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 449.3",
+    "refcode_long": "The Adventist Home, p. 449.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Preserve Family Simplicity</strong>&mdash;When visitors come, as they frequently will, they should not be allowed to absorb all the time and attention of the mother; her children&apos;s temporal and spiritual welfare should come first. Time should not be used in preparing rich cakes, pies, and unhealthful viands for the table. These are an extra expense, and many cannot afford it. But the greater evil is in the example. Let the simplicity of the family be preserved. Do not try to give the impression that you can sustain a style of living which is really beyond your means. Do not <span class=\"page-break\" data-page=\"450\"></span> try to appear what you are not, either in your table preparations or in your manners.",
+    "puborder": 1410,
+    "translations": [
+      {
+        "para_id": "13839.1742",
+        "lang": "bg",
+        "refcode": "ХД 195.1"
+      },
+      {
+        "para_id": "177.2129",
+        "lang": "es",
+        "refcode": "HC 409.2"
+      },
+      {
+        "para_id": "193.2088",
+        "lang": "fr",
+        "refcode": "FC 435.1"
+      },
+      {
+        "para_id": "12869.2639",
+        "lang": "id",
+        "refcode": "MKB 429.4"
+      },
+      {
+        "para_id": "891.1383",
+        "lang": "it",
+        "refcode": "FC 184.1"
+      },
+      {
+        "para_id": "891.1382",
+        "lang": "it",
+        "refcode": "FC 184"
+      },
+      {
+        "para_id": "12178.1815",
+        "lang": "pl",
+        "refcode": "ChD 287.4"
+      },
+      {
+        "para_id": "1955.2705",
+        "lang": "pt",
+        "refcode": "LA 449"
+      },
+      {
+        "para_id": "1955.2706",
+        "lang": "pt",
+        "refcode": "LA 449.3"
+      },
+      {
+        "para_id": "2026.2102",
+        "lang": "ro",
+        "refcode": "CA 449.3"
+      },
+      {
+        "para_id": "1803.2044",
+        "lang": "ru",
+        "refcode": "ХД 449.3"
+      },
+      {
+        "para_id": "12131.1902",
+        "lang": "uk",
+        "refcode": "ХР 361.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2111",
+    "id_prev": "128.2108",
+    "id_next": "128.2112",
+    "refcode_1": "AH",
+    "refcode_2": "450",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 450.1",
+    "refcode_long": "The Adventist Home, p. 450.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "While you should treat your visitors kindly and make them feel at home, you should ever remember that you are a teacher to the little ones God has given you. They are watching you, and no course of yours should direct their feet in the wrong way. Be to your visitors just what you are to your family every day&mdash;pleasant, considerate, and courteous. In this way all can be educators, an example of good works. They testify that there is something more essential than to keep the mind on what they shall eat and drink and wherewithal they shall be clothed.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CTBH 143.1\" data-link=\"14.676\">Christian Temperance and Bible Hygiene, 143</span>.</span></a></sup>",
+    "puborder": 1411,
+    "translations": [
+      {
+        "para_id": "13839.1743",
+        "lang": "bg",
+        "refcode": "ХД 195.2"
+      },
+      {
+        "para_id": "177.2130",
+        "lang": "es",
+        "refcode": "HC 409.3"
+      },
+      {
+        "para_id": "193.2089",
+        "lang": "fr",
+        "refcode": "FC 435.2"
+      },
+      {
+        "para_id": "12869.2642",
+        "lang": "id",
+        "refcode": "MKB 430.1"
+      },
+      {
+        "para_id": "891.1384",
+        "lang": "it",
+        "refcode": "FC 184.2"
+      },
+      {
+        "para_id": "12178.1818",
+        "lang": "pl",
+        "refcode": "ChD 288.1"
+      },
+      {
+        "para_id": "1955.2708",
+        "lang": "pt",
+        "refcode": "LA 450.1"
+      },
+      {
+        "para_id": "2026.2105",
+        "lang": "ro",
+        "refcode": "CA 450.1"
+      },
+      {
+        "para_id": "1803.2047",
+        "lang": "ru",
+        "refcode": "ХД 450.1"
+      },
+      {
+        "para_id": "12131.1903",
+        "lang": "uk",
+        "refcode": "ХР 361.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2112",
+    "id_prev": "128.2111",
+    "id_next": "128.2113",
+    "refcode_1": "AH",
+    "refcode_2": "450",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 450.2",
+    "refcode_long": "The Adventist Home, p. 450.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Maintain a Peaceful, Restful Atmosphere</strong>&mdash;We would be much happier and more useful if our home life and social intercourse were governed by the meekness and simplicity of Christ. Instead of toiling for display to excite the admiration or the envy of visitors, we should endeavor to make all around us happy by our cheerfulness, sympathy, and love. Let visitors see that we are striving to conform to the will of Christ. Let them see in us, even though our lot is humble, a spirit of content and gratitude. The very atmosphere of a truly Christian home is that of peace and restfulness. Such an example will not be without effect.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 11-29-1887\" data-link=\"821.8489\">The Review and Herald, November 29, 1887</span>.</span></a></sup>",
+    "puborder": 1412,
+    "translations": [
+      {
+        "para_id": "13839.1744",
+        "lang": "bg",
+        "refcode": "ХД 195.3"
+      },
+      {
+        "para_id": "177.2133",
+        "lang": "es",
+        "refcode": "HC 410.1"
+      },
+      {
+        "para_id": "193.2090",
+        "lang": "fr",
+        "refcode": "FC 435.3"
+      },
+      {
+        "para_id": "12869.2644",
+        "lang": "id",
+        "refcode": "MKB 430.2"
+      },
+      {
+        "para_id": "891.1385",
+        "lang": "it",
+        "refcode": "FC 184"
+      },
+      {
+        "para_id": "891.1386",
+        "lang": "it",
+        "refcode": "FC 184.3"
+      },
+      {
+        "para_id": "12178.1819",
+        "lang": "pl",
+        "refcode": "ChD 288.2"
+      },
+      {
+        "para_id": "1955.2710",
+        "lang": "pt",
+        "refcode": "LA 450.2"
+      },
+      {
+        "para_id": "1955.2709",
+        "lang": "pt",
+        "refcode": "LA 450"
+      },
+      {
+        "para_id": "2026.2106",
+        "lang": "ro",
+        "refcode": "CA 450.2"
+      },
+      {
+        "para_id": "1803.2048",
+        "lang": "ru",
+        "refcode": "ХД 450.2"
+      },
+      {
+        "para_id": "12131.1906",
+        "lang": "uk",
+        "refcode": "ХР 362.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2113",
+    "id_prev": "128.2112",
+    "id_next": "128.2115",
+    "refcode_1": "AH",
+    "refcode_2": "450",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 450.3",
+    "refcode_long": "The Adventist Home, p. 450.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>An Expense Account Is Kept in Heaven</strong>&mdash;Christ keeps an account of every expense incurred in entertaining for His sake. He supplies all that is necessary for this work. Those who for Christ&apos;s sake entertain their brethren, doing their best to make the visit profitable both to their guests and to themselves, are recorded in heaven as worthy of special blessings....",
+    "puborder": 1413,
+    "translations": [
+      {
+        "para_id": "13839.1745",
+        "lang": "bg",
+        "refcode": "ХД 195.4"
+      },
+      {
+        "para_id": "177.2134",
+        "lang": "es",
+        "refcode": "HC 410.2"
+      },
+      {
+        "para_id": "193.2093",
+        "lang": "fr",
+        "refcode": "FC 436.1"
+      },
+      {
+        "para_id": "12869.2647",
+        "lang": "id",
+        "refcode": "MKB 431.1"
+      },
+      {
+        "para_id": "12178.1820",
+        "lang": "pl",
+        "refcode": "ChD 288.3"
+      },
+      {
+        "para_id": "1955.2711",
+        "lang": "pt",
+        "refcode": "LA 450"
+      },
+      {
+        "para_id": "1955.2712",
+        "lang": "pt",
+        "refcode": "LA 450.3"
+      },
+      {
+        "para_id": "2026.2107",
+        "lang": "ro",
+        "refcode": "CA 450.3"
+      },
+      {
+        "para_id": "1803.2049",
+        "lang": "ru",
+        "refcode": "ХД 450.3"
+      },
+      {
+        "para_id": "12131.1907",
+        "lang": "uk",
+        "refcode": "ХР 362.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2115",
+    "id_prev": "128.2113",
+    "id_next": "128.2116",
+    "refcode_1": "AH",
+    "refcode_2": "451",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 451.1",
+    "refcode_long": "The Adventist Home, p. 451.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Christ has given in His own life a lesson of hospitality. When surrounded by the hungry multitude beside the sea, He did not send them unrefreshed to their homes. He said to His disciples: &ldquo;Give ye them to eat.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Matthew 14:16\" data-link=\"1965.48212\">Matthew 14:16</span>. And by an act of creative power He supplied food sufficient to satisfy their need. Yet how simple was the food provided! There were no luxuries. He who had all the resources of heaven at His command could have spread for the people a rich repast. But He supplied only that which would suffice for their need, that which was the daily food of the fisherfolk about the sea.",
+    "puborder": 1414,
+    "translations": [
+      {
+        "para_id": "13839.1746",
+        "lang": "bg",
+        "refcode": "ХД 195.5"
+      },
+      {
+        "para_id": "177.2135",
+        "lang": "es",
+        "refcode": "HC 410.3"
+      },
+      {
+        "para_id": "193.2094",
+        "lang": "fr",
+        "refcode": "FC 436.2"
+      },
+      {
+        "para_id": "12869.2648",
+        "lang": "id",
+        "refcode": "MKB 431.2"
+      },
+      {
+        "para_id": "12178.1821",
+        "lang": "pl",
+        "refcode": "ChD 288.4"
+      },
+      {
+        "para_id": "1955.2713",
+        "lang": "pt",
+        "refcode": "LA 450.4"
+      },
+      {
+        "para_id": "2026.2109",
+        "lang": "ro",
+        "refcode": "CA 451.1"
+      },
+      {
+        "para_id": "1803.2051",
+        "lang": "ru",
+        "refcode": "ХД 451.1"
+      },
+      {
+        "para_id": "12131.1908",
+        "lang": "uk",
+        "refcode": "ХР 362.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2116",
+    "id_prev": "128.2115",
+    "id_next": "128.2117",
+    "refcode_1": "AH",
+    "refcode_2": "451",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 451.2",
+    "refcode_long": "The Adventist Home, p. 451.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "If men were today simple in their habits, living in harmony with nature&apos;s laws, there would be an abundant supply for all the needs of the human family. There would be fewer imaginary wants and more opportunity to work in God&apos;s ways....",
+    "puborder": 1415,
+    "translations": [
+      {
+        "para_id": "13839.1747",
+        "lang": "bg",
+        "refcode": "ХД 195.6"
+      },
+      {
+        "para_id": "177.2137",
+        "lang": "es",
+        "refcode": "HC 411.1"
+      },
+      {
+        "para_id": "193.2095",
+        "lang": "fr",
+        "refcode": "FC 436.3"
+      },
+      {
+        "para_id": "12869.2649",
+        "lang": "id",
+        "refcode": "MKB 431.3"
+      },
+      {
+        "para_id": "12178.1824",
+        "lang": "pl",
+        "refcode": "ChD 289.1"
+      },
+      {
+        "para_id": "1955.2716",
+        "lang": "pt",
+        "refcode": "LA 451.1"
+      },
+      {
+        "para_id": "2026.2110",
+        "lang": "ro",
+        "refcode": "CA 451.2"
+      },
+      {
+        "para_id": "1803.2052",
+        "lang": "ru",
+        "refcode": "ХД 451.2"
+      },
+      {
+        "para_id": "12131.1909",
+        "lang": "uk",
+        "refcode": "ХР 362.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2117",
+    "id_prev": "128.2116",
+    "id_next": "128.2118",
+    "refcode_1": "AH",
+    "refcode_2": "451",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 451.3",
+    "refcode_long": "The Adventist Home, p. 451.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Poverty need not shut us out from showing hospitality. We are to impart what we have. There are those who struggle for a livelihood and who have great difficulty in making their income meet their necessities; but they love Jesus in the person of His saints and are ready to show hospitality to believers and unbelievers, trying to make their visits profitable. At the family board and the family altar the guests are made welcome. The season of prayer makes its impression on those who receive entertainment, and even one visit may mean the saving of a soul from death. For this work the Lord makes a reckoning, saying: &ldquo;I will repay.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"6T 344.1\" data-link=\"118.1863\">Testimonies for the Church 6:344, 345, 347</span>.</span></a></sup>",
+    "puborder": 1416,
+    "translations": [
+      {
+        "para_id": "13839.1750",
+        "lang": "bg",
+        "refcode": "ХД 196.1"
+      },
+      {
+        "para_id": "177.2138",
+        "lang": "es",
+        "refcode": "HC 411.2"
+      },
+      {
+        "para_id": "193.2096",
+        "lang": "fr",
+        "refcode": "FC 436.4"
+      },
+      {
+        "para_id": "12869.2650",
+        "lang": "id",
+        "refcode": "MKB 431.4"
+      },
+      {
+        "para_id": "12178.1825",
+        "lang": "pl",
+        "refcode": "ChD 289.2"
+      },
+      {
+        "para_id": "1955.2717",
+        "lang": "pt",
+        "refcode": "LA 451.2"
+      },
+      {
+        "para_id": "2026.2111",
+        "lang": "ro",
+        "refcode": "CA 451.3"
+      },
+      {
+        "para_id": "1803.2053",
+        "lang": "ru",
+        "refcode": "ХД 451.3"
+      },
+      {
+        "para_id": "12131.1910",
+        "lang": "uk",
+        "refcode": "ХР 362.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2118",
+    "id_prev": "128.2117",
+    "id_next": "128.2123",
+    "refcode_1": "AH",
+    "refcode_2": "451",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 451.4",
+    "refcode_long": "The Adventist Home, p. 451.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Awake to Opportunities</strong>&mdash;Wake up, brethren and sisters. Do not be afraid of good works. &ldquo;Let us not be weary in well doing: for in due season we shall reap, if we faint not.&rdquo; Do not wait to be told your duty. Open your <span class=\"page-break\" data-page=\"452\"></span> eyes and see who are around you; make yourselves acquainted with the helpless, afflicted, and needy. Hide not yourselves from them, and seek not to shut out their needs. Who gives the proofs mentioned in James, of possessing pure religion, untainted with selfishness or corruption? Who are anxious to do all in their power to aid in the great plan of salvation?<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 29.2\" data-link=\"120.124\">Ibid., 2:29</span>.</span></a></sup>",
+    "puborder": 1417,
+    "translations": [
+      {
+        "para_id": "13839.1751",
+        "lang": "bg",
+        "refcode": "ХД 196.2"
+      },
+      {
+        "para_id": "177.2139",
+        "lang": "es",
+        "refcode": "HC 411.3"
+      },
+      {
+        "para_id": "193.2098",
+        "lang": "fr",
+        "refcode": "FC 437.1"
+      },
+      {
+        "para_id": "12869.2652",
+        "lang": "id",
+        "refcode": "MKB 431.5"
+      },
+      {
+        "para_id": "12178.1826",
+        "lang": "pl",
+        "refcode": "ChD 289.3"
+      },
+      {
+        "para_id": "1955.2718",
+        "lang": "pt",
+        "refcode": "LA 451"
+      },
+      {
+        "para_id": "1955.2719",
+        "lang": "pt",
+        "refcode": "LA 451.3"
+      },
+      {
+        "para_id": "2026.2112",
+        "lang": "ro",
+        "refcode": "CA 451.4"
+      },
+      {
+        "para_id": "1803.2054",
+        "lang": "ru",
+        "refcode": "ХД 451.4"
+      },
+      {
+        "para_id": "12131.1913",
+        "lang": "uk",
+        "refcode": "ХР 363.1"
+      }
+    ]
+  }
+]

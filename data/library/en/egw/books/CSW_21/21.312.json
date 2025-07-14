@@ -1,0 +1,470 @@
+[
+  {
+    "para_id": "21.312",
+    "id_prev": "21.309",
+    "id_next": "21.313",
+    "refcode_1": "CSW",
+    "refcode_2": "70",
+    "refcode_3": "",
+    "refcode_4": "41",
+    "refcode_short": "CSW 70",
+    "refcode_long": "Counsels on Sabbath School Work, p. 70 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Strength and Wisdom Promised",
+    "puborder": 193,
+    "translations": [
+      {
+        "para_id": "11629.285",
+        "lang": "da",
+        "refcode": "RSSA 70"
+      },
+      {
+        "para_id": "799.304",
+        "lang": "de",
+        "refcode": "RSs 61"
+      },
+      {
+        "para_id": "1711.340",
+        "lang": "es",
+        "refcode": "COES 77"
+      },
+      {
+        "para_id": "1917.362",
+        "lang": "pt",
+        "refcode": "CES38 34"
+      },
+      {
+        "para_id": "1724.344",
+        "lang": "pt",
+        "refcode": "CES 70"
+      },
+      {
+        "para_id": "2719.321",
+        "lang": "ro",
+        "refcode": "SSS 70"
+      },
+      {
+        "para_id": "1873.308",
+        "lang": "ru",
+        "refcode": "ССШ 70"
+      }
+    ]
+  },
+  {
+    "para_id": "21.313",
+    "id_prev": "21.312",
+    "id_next": "21.314",
+    "refcode_1": "CSW",
+    "refcode_2": "70",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 70.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 70.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Let every true, honest-hearted worker be encouraged to work on, keeping in view the fact that every one will be rewarded as his works have been. Work with an eye single to the glory of God. Do not refuse to bear responsibilities because you have a sense of your weakness and inefficiency. God can give you strength and wisdom if you are consecrated to Him and keep humble. Let none through slothfulness refuse to work; and let none rush ahead, urging his service when it is not wanted.",
+    "puborder": 194,
+    "translations": [
+      {
+        "para_id": "11629.286",
+        "lang": "da",
+        "refcode": "RSSA 70.1"
+      },
+      {
+        "para_id": "799.305",
+        "lang": "de",
+        "refcode": "RSs 61.1"
+      },
+      {
+        "para_id": "1711.341",
+        "lang": "es",
+        "refcode": "COES 77.1"
+      },
+      {
+        "para_id": "1724.345",
+        "lang": "pt",
+        "refcode": "CES 70.1"
+      },
+      {
+        "para_id": "1917.363",
+        "lang": "pt",
+        "refcode": "CES38 34.5"
+      },
+      {
+        "para_id": "2719.322",
+        "lang": "ro",
+        "refcode": "SSS 70.1"
+      },
+      {
+        "para_id": "1873.309",
+        "lang": "ru",
+        "refcode": "ССШ 70.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.314",
+    "id_prev": "21.313",
+    "id_next": "21.315",
+    "refcode_1": "CSW",
+    "refcode_2": "70",
+    "refcode_3": "",
+    "refcode_4": "26",
+    "refcode_short": "CSW 70",
+    "refcode_long": "Counsels on Sabbath School Work, p. 70 (Ellen Gould White)",
+    "element_type": "h5",
+    "element_subtype": "",
+    "content": "Duty to Labor for Others",
+    "puborder": 195,
+    "translations": [
+      {
+        "para_id": "11629.287",
+        "lang": "da",
+        "refcode": "RSSA 70"
+      },
+      {
+        "para_id": "799.306",
+        "lang": "de",
+        "refcode": "RSs 61"
+      },
+      {
+        "para_id": "1711.342",
+        "lang": "es",
+        "refcode": "COES 77"
+      },
+      {
+        "para_id": "1917.365",
+        "lang": "pt",
+        "refcode": "CES38 35"
+      },
+      {
+        "para_id": "1724.346",
+        "lang": "pt",
+        "refcode": "CES 70"
+      },
+      {
+        "para_id": "2719.323",
+        "lang": "ro",
+        "refcode": "SSS 70"
+      },
+      {
+        "para_id": "1873.310",
+        "lang": "ru",
+        "refcode": "ССШ 70"
+      }
+    ]
+  },
+  {
+    "para_id": "21.315",
+    "id_prev": "21.314",
+    "id_next": "21.316",
+    "refcode_1": "CSW",
+    "refcode_2": "70",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 70.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 70.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Let every true worker be grateful to God that he is honored in having an opportunity of working for the Master. Watch for opportunities to do good and improve the talents God has given you, seeking grace daily that you may succeed in doing good.",
+    "puborder": 196,
+    "translations": [
+      {
+        "para_id": "11629.288",
+        "lang": "da",
+        "refcode": "RSSA 70.2"
+      },
+      {
+        "para_id": "799.307",
+        "lang": "de",
+        "refcode": "RSs 61.2"
+      },
+      {
+        "para_id": "1711.343",
+        "lang": "es",
+        "refcode": "COES 77.2"
+      },
+      {
+        "para_id": "1724.347",
+        "lang": "pt",
+        "refcode": "CES 70.2"
+      },
+      {
+        "para_id": "1917.366",
+        "lang": "pt",
+        "refcode": "CES38 35.1"
+      },
+      {
+        "para_id": "2719.324",
+        "lang": "ro",
+        "refcode": "SSS 70.2"
+      },
+      {
+        "para_id": "1873.311",
+        "lang": "ru",
+        "refcode": "ССШ 70.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.316",
+    "id_prev": "21.315",
+    "id_next": "21.319",
+    "refcode_1": "CSW",
+    "refcode_2": "70",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 70.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 70.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The lost opportunities for doing good in the past <span class=\"page-break\" data-page=\"71\"></span> may well humble you to the dust, and lead you to watch carefully lest you should let slip opportunities of being a blessing to others. How many times the hour has come with its work, but the worker was not at his post of duty! Words might have been said to help and strengthen weak souls struggling under temptation, but they were never spoken. Well-directed personal efforts might have been put forth, and have saved a soul from death, and hid a multitude of sins, but there was no one to make the effort. The negligent ones will have to meet their neglect in the day of God. Most precious is the blood of Christ, which cleanses from all sin. A sense of the redeeming love of Christ should lead us to embrace every opportunity of doing good. These moments are exceedingly precious if improved to the glory of God. Those who are in pursuit of earthly riches are watching constantly and sharply their opportunities of gaining their desired object; and workers for Christ should be no less earnest in winning souls to Him. They may be colaborers with Christ if they, by imitating Christ&apos;s example, do good to all brought within the sphere of their influence.",
+    "puborder": 197,
+    "translations": [
+      {
+        "para_id": "11629.289",
+        "lang": "da",
+        "refcode": "RSSA 70.3"
+      },
+      {
+        "para_id": "799.308",
+        "lang": "de",
+        "refcode": "RSs 61.3"
+      },
+      {
+        "para_id": "1711.344",
+        "lang": "es",
+        "refcode": "COES 77.3"
+      },
+      {
+        "para_id": "1917.367",
+        "lang": "pt",
+        "refcode": "CES38 35.2"
+      },
+      {
+        "para_id": "1724.348",
+        "lang": "pt",
+        "refcode": "CES 70.3"
+      },
+      {
+        "para_id": "2719.325",
+        "lang": "ro",
+        "refcode": "SSS 70.3"
+      },
+      {
+        "para_id": "1873.312",
+        "lang": "ru",
+        "refcode": "ССШ 70.3"
+      }
+    ]
+  },
+  {
+    "para_id": "21.319",
+    "id_prev": "21.316",
+    "id_next": "21.321",
+    "refcode_1": "CSW",
+    "refcode_2": "71",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 71.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 71.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "For Christ&apos;s sake let the teachers and the leading workers in your Sabbath school be men and women who love and fear God; men and women who realize the responsibility of their position, as those who are watching for souls and must render an account to God for the influence they exert over those under their charge.",
+    "puborder": 198,
+    "translations": [
+      {
+        "para_id": "11629.292",
+        "lang": "da",
+        "refcode": "RSSA 71.1"
+      },
+      {
+        "para_id": "799.311",
+        "lang": "de",
+        "refcode": "RSs 62.1"
+      },
+      {
+        "para_id": "1711.347",
+        "lang": "es",
+        "refcode": "COES 78.1"
+      },
+      {
+        "para_id": "1917.370",
+        "lang": "pt",
+        "refcode": "CES38 35.4"
+      },
+      {
+        "para_id": "1724.351",
+        "lang": "pt",
+        "refcode": "CES 71.1"
+      },
+      {
+        "para_id": "2719.328",
+        "lang": "ro",
+        "refcode": "SSS 71.1"
+      },
+      {
+        "para_id": "1873.315",
+        "lang": "ru",
+        "refcode": "ССШ 71.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.321",
+    "id_prev": "21.319",
+    "id_next": "21.322",
+    "refcode_1": "CSW",
+    "refcode_2": "72",
+    "refcode_3": "",
+    "refcode_4": "27",
+    "refcode_short": "CSW 72",
+    "refcode_long": "Counsels on Sabbath School Work, p. 72 (Ellen Gould White)",
+    "element_type": "h5",
+    "element_subtype": "",
+    "content": "Faith in God&apos;s Promises",
+    "puborder": 199,
+    "translations": [
+      {
+        "para_id": "11629.294",
+        "lang": "da",
+        "refcode": "RSSA 72"
+      },
+      {
+        "para_id": "799.312",
+        "lang": "de",
+        "refcode": "RSs 62"
+      },
+      {
+        "para_id": "1711.350",
+        "lang": "es",
+        "refcode": "COES 79"
+      },
+      {
+        "para_id": "1724.353",
+        "lang": "pt",
+        "refcode": "CES 72"
+      },
+      {
+        "para_id": "1917.372",
+        "lang": "pt",
+        "refcode": "CES38 35"
+      },
+      {
+        "para_id": "2719.330",
+        "lang": "ro",
+        "refcode": "SSS 72"
+      },
+      {
+        "para_id": "1873.317",
+        "lang": "ru",
+        "refcode": "ССШ 72"
+      }
+    ]
+  },
+  {
+    "para_id": "21.322",
+    "id_prev": "21.321",
+    "id_next": "21.323",
+    "refcode_1": "CSW",
+    "refcode_2": "72",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 72.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 72.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "We must have an increase of faith, else we cannot be renewed in the divine image, and love and obey the requirements of God. Let the prayer go forth from unfeigned lips, &ldquo;Lord, increase my faith; give me divine enlightenment; for without help from Thee I can do nothing.&rdquo; Come in humility and bow before God; open before the Lord your Bibles, containing the divine promises; take your position upon them; make a covenant with God that you will answer His requirements; tell Him you will believe, without any other evidence except the naked promise. This is not presumption; but unless you work with zeal, unless you are earnest and determined, Satan will obtain the advantage, and you will be left in unbelief and darkness.",
+    "puborder": 200,
+    "translations": [
+      {
+        "para_id": "11629.295",
+        "lang": "da",
+        "refcode": "RSSA 72.1"
+      },
+      {
+        "para_id": "799.313",
+        "lang": "de",
+        "refcode": "RSs 62.2"
+      },
+      {
+        "para_id": "1711.351",
+        "lang": "es",
+        "refcode": "COES 79.1"
+      },
+      {
+        "para_id": "1724.354",
+        "lang": "pt",
+        "refcode": "CES 72.1"
+      },
+      {
+        "para_id": "1917.373",
+        "lang": "pt",
+        "refcode": "CES38 35.5"
+      },
+      {
+        "para_id": "2719.331",
+        "lang": "ro",
+        "refcode": "SSS 72.1"
+      },
+      {
+        "para_id": "1873.318",
+        "lang": "ru",
+        "refcode": "ССШ 72.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.323",
+    "id_prev": "21.322",
+    "id_next": "21.325",
+    "refcode_1": "CSW",
+    "refcode_2": "72",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 72.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 72.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The words and promises of God are the only foundation of our faith. Take the word of God as truth, as a living, speaking voice to you, and obey faithfully every requirement. God is faithful, who hath promised. He will work with the efforts of superintendents and teachers. Our blessings are limited by the weakness of our faith. God is not unwilling to bestow; He is a reservoir of power. We must cherish meekness and holiness of heart. We may have rich evidences of His love and mercy daily in our self-denying efforts to do others good. I entreat the workers in our Sabbath schools to put on the whole armor of God, and, as faithful soldiers of Jesus Christ, show their fidelity. God will reward every work that is done to His glory.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 26.1\" data-link=\"121.94\"><em>Testimonies on Sabbath-School Work</em>, 26-29</span>.",
+    "puborder": 201,
+    "translations": [
+      {
+        "para_id": "11629.296",
+        "lang": "da",
+        "refcode": "RSSA 72.2"
+      },
+      {
+        "para_id": "799.314",
+        "lang": "de",
+        "refcode": "RSs 62.3"
+      },
+      {
+        "para_id": "1711.352",
+        "lang": "es",
+        "refcode": "COES 79.2"
+      },
+      {
+        "para_id": "1724.355",
+        "lang": "pt",
+        "refcode": "CES 72.2"
+      },
+      {
+        "para_id": "1917.376",
+        "lang": "pt",
+        "refcode": "CES38 36.1"
+      },
+      {
+        "para_id": "2719.332",
+        "lang": "ro",
+        "refcode": "SSS 72.2"
+      },
+      {
+        "para_id": "1873.319",
+        "lang": "ru",
+        "refcode": "ССШ 72.2"
+      }
+    ]
+  }
+]

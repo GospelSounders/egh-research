@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.35",
+    "id_prev": "21.32",
+    "id_next": "21.36",
+    "refcode_1": "CSW",
+    "refcode_2": "11",
+    "refcode_3": "",
+    "refcode_4": "7",
+    "refcode_short": "CSW 11",
+    "refcode_long": "Counsels on Sabbath School Work, p. 11 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Strength to the Church",
+    "puborder": 22,
+    "translations": [
+      {
+        "para_id": "11629.19",
+        "lang": "da",
+        "refcode": "RSSA 11"
+      },
+      {
+        "para_id": "799.55",
+        "lang": "de",
+        "refcode": "RSs 15"
+      },
+      {
+        "para_id": "1711.49",
+        "lang": "es",
+        "refcode": "COES 11"
+      },
+      {
+        "para_id": "1917.30",
+        "lang": "pt",
+        "refcode": "CES38 3"
+      },
+      {
+        "para_id": "1724.61",
+        "lang": "pt",
+        "refcode": "CES 11"
+      },
+      {
+        "para_id": "2719.34",
+        "lang": "ro",
+        "refcode": "SSS 11"
+      },
+      {
+        "para_id": "1873.33",
+        "lang": "ru",
+        "refcode": "ССШ 11"
+      }
+    ]
+  },
+  {
+    "para_id": "21.36",
+    "id_prev": "21.35",
+    "id_next": "21.37",
+    "refcode_1": "CSW",
+    "refcode_2": "11",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 11.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 11.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There is a broad field in Sabbath school work, that needs to be diligently cultivated, and that is to inspire our youth to give themselves wholly to the Lord, to be used by Him in His cause. There should be zealous, faithful workers in our Sabbath schools, who will watch and discern upon whom the Spirit of God is moving, and cooperate with the angels of God in winning souls for Christ. There are sacred responsibilities entrusted to Sabbath school workers, and the Sabbath school should be the place where, through a living connection with God, men and women, youth and children, may be so fitted up that they shall be a strength and blessing to the church. They should help the church upward and onward, as far as it lies in their ability, going from strength to greater strength.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 92.1\" data-link=\"121.363\"><em>Testimonies on Sabbath-School Work</em>, 92</span>.",
+    "puborder": 23,
+    "translations": [
+      {
+        "para_id": "11629.20",
+        "lang": "da",
+        "refcode": "RSSA 11.1"
+      },
+      {
+        "para_id": "799.56",
+        "lang": "de",
+        "refcode": "RSs 15.3"
+      },
+      {
+        "para_id": "1711.50",
+        "lang": "es",
+        "refcode": "COES 11.1"
+      },
+      {
+        "para_id": "1917.31",
+        "lang": "pt",
+        "refcode": "CES38 3.3"
+      },
+      {
+        "para_id": "1724.62",
+        "lang": "pt",
+        "refcode": "CES 11.1"
+      },
+      {
+        "para_id": "2719.35",
+        "lang": "ro",
+        "refcode": "SSS 11.1"
+      },
+      {
+        "para_id": "1873.34",
+        "lang": "ru",
+        "refcode": "ССШ 11.1"
+      }
+    ]
+  }
+]

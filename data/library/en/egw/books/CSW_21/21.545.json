@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.545",
+    "id_prev": "21.542",
+    "id_next": "21.546",
+    "refcode_1": "CSW",
+    "refcode_2": "118",
+    "refcode_3": "",
+    "refcode_4": "80",
+    "refcode_short": "CSW 118",
+    "refcode_long": "Counsels on Sabbath School Work, p. 118 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Skimming the Surface",
+    "puborder": 341,
+    "translations": [
+      {
+        "para_id": "11629.519",
+        "lang": "da",
+        "refcode": "RSSA 118"
+      },
+      {
+        "para_id": "799.519",
+        "lang": "de",
+        "refcode": "RSs 98"
+      },
+      {
+        "para_id": "1711.582",
+        "lang": "es",
+        "refcode": "COES 131"
+      },
+      {
+        "para_id": "1917.639",
+        "lang": "pt",
+        "refcode": "CES38 61"
+      },
+      {
+        "para_id": "1724.580",
+        "lang": "pt",
+        "refcode": "CES 118"
+      },
+      {
+        "para_id": "2719.561",
+        "lang": "ro",
+        "refcode": "SSS 118"
+      },
+      {
+        "para_id": "1873.540",
+        "lang": "ru",
+        "refcode": "ССШ 118"
+      }
+    ]
+  },
+  {
+    "para_id": "21.546",
+    "id_prev": "21.545",
+    "id_next": "21.547",
+    "refcode_1": "CSW",
+    "refcode_2": "118",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 118.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 118.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Every teacher in the school should feel that he is a missionary for God. He must improve his moments and his ability to obtain a knowledge of the word of God, that he may impart the same to his scholars. Teachers will become disqualified for their position if they are not learners. They need freshness of ideas, fresh, wise plans, life, tact, and spirit in their work. They must be apt to teach.",
+    "puborder": 342,
+    "translations": [
+      {
+        "para_id": "11629.520",
+        "lang": "da",
+        "refcode": "RSSA 118.1"
+      },
+      {
+        "para_id": "799.520",
+        "lang": "de",
+        "refcode": "RSs 98.2"
+      },
+      {
+        "para_id": "1711.583",
+        "lang": "es",
+        "refcode": "COES 131.2"
+      },
+      {
+        "para_id": "1917.640",
+        "lang": "pt",
+        "refcode": "CES38 61.3"
+      },
+      {
+        "para_id": "1724.581",
+        "lang": "pt",
+        "refcode": "CES 118.1"
+      },
+      {
+        "para_id": "2719.562",
+        "lang": "ro",
+        "refcode": "SSS 118.1"
+      },
+      {
+        "para_id": "1873.541",
+        "lang": "ru",
+        "refcode": "ССШ 118.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.547",
+    "id_prev": "21.546",
+    "id_next": "21.550",
+    "refcode_1": "CSW",
+    "refcode_2": "118",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 118.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 118.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The teacher should not confine himself to the repetition of the set words of the lesson, yet he wants to be perfectly familiar with the words as well as the ideas. Every teacher, before he stands at the head of his class, should have his plans distinctly laid out in his mind as to what he wants to do for that day and on that occasion. Reciting a lesson yourself before the class is not teaching it; you want simple words and plainly, clearly stated ideas. Make sure that your scholars understand you. If they cannot comprehend your ideas, then your labor is lost. Do not skim the surface; work deep. The Bible is the rule and guide of the life. Sound doctrine must be brought into actual contact with the minds and hearts of your <span class=\"page-break\" data-page=\"119\"></span> scholars; then it will produce fruit, for sound practice will be seen as the result of your labors.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 24.1\" data-link=\"121.86\"><em>Testimonies on Sabbath-School Work</em>, 24</span>.",
+    "puborder": 343,
+    "translations": [
+      {
+        "para_id": "11629.521",
+        "lang": "da",
+        "refcode": "RSSA 118.2"
+      },
+      {
+        "para_id": "799.521",
+        "lang": "de",
+        "refcode": "RSs 98.3"
+      },
+      {
+        "para_id": "1711.584",
+        "lang": "es",
+        "refcode": "COES 131.3"
+      },
+      {
+        "para_id": "1724.582",
+        "lang": "pt",
+        "refcode": "CES 118.2"
+      },
+      {
+        "para_id": "1917.641",
+        "lang": "pt",
+        "refcode": "CES38 61.4"
+      },
+      {
+        "para_id": "2719.563",
+        "lang": "ro",
+        "refcode": "SSS 118.2"
+      },
+      {
+        "para_id": "1873.542",
+        "lang": "ru",
+        "refcode": "ССШ 118.2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "para_id": "21.368",
+    "id_prev": "21.367",
+    "id_next": "21.369",
+    "refcode_1": "CSW",
+    "refcode_2": "81",
+    "refcode_3": "",
+    "refcode_4": "53",
+    "refcode_short": "CSW 81",
+    "refcode_long": "Counsels on Sabbath School Work, p. 81 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Recruiting Ground for Christian Workers",
+    "puborder": 230,
+    "translations": [
+      {
+        "para_id": "11629.341",
+        "lang": "da",
+        "refcode": "RSSA 81"
+      },
+      {
+        "para_id": "799.356",
+        "lang": "de",
+        "refcode": "RSs 69"
+      },
+      {
+        "para_id": "1711.401",
+        "lang": "es",
+        "refcode": "COES 90"
+      },
+      {
+        "para_id": "1724.400",
+        "lang": "pt",
+        "refcode": "CES 81"
+      },
+      {
+        "para_id": "1917.430",
+        "lang": "pt",
+        "refcode": "CES38 41"
+      },
+      {
+        "para_id": "2719.378",
+        "lang": "ro",
+        "refcode": "SSS 81"
+      },
+      {
+        "para_id": "1873.364",
+        "lang": "ru",
+        "refcode": "ССШ 81"
+      }
+    ]
+  },
+  {
+    "para_id": "21.369",
+    "id_prev": "21.368",
+    "id_next": "21.372",
+    "refcode_1": "CSW",
+    "refcode_2": "81",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 81.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 81.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Christian teachers and students are responsible to God for the gracious privileges they enjoy, for they are to be laborers together with God, bearing a decided testimony to the power of God&apos;s saving grace in the sight of earth and heaven. The efficiency and influence of the workers for God will be in proportion <span class=\"page-break\" data-page=\"82\"></span> to their moral elevation and purity. The true Christian teachers will discern the import of the Sabbath school lesson; for their understanding will be opened to comprehend the gospel. They will let their light shine to those who have taken no interest in the precious rays of truth. The door of the heart must be opened to receive the light shining from the Word. One Christian student who receives the word of God may be the means of blessing his fellow students. He can be a benefit to others if, patiently and kindly and interestingly, he will go over the lesson with those who do not take an interest in the things of God, and will make his instruction simple and definite. This kind of work will require the exercise of wisdom from above, that the worker may approach in an acceptable manner those who most need help, and lead them to Christ, where the wants of the soul may be satisfied....",
+    "puborder": 231,
+    "translations": [
+      {
+        "para_id": "11629.342",
+        "lang": "da",
+        "refcode": "RSSA 81.2"
+      },
+      {
+        "para_id": "799.357",
+        "lang": "de",
+        "refcode": "RSs 69.3"
+      },
+      {
+        "para_id": "1711.402",
+        "lang": "es",
+        "refcode": "COES 90.1"
+      },
+      {
+        "para_id": "1917.431",
+        "lang": "pt",
+        "refcode": "CES38 41.4"
+      },
+      {
+        "para_id": "1724.401",
+        "lang": "pt",
+        "refcode": "CES 81.2"
+      },
+      {
+        "para_id": "2719.379",
+        "lang": "ro",
+        "refcode": "SSS 81.2"
+      },
+      {
+        "para_id": "1873.365",
+        "lang": "ru",
+        "refcode": "ССШ 81.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.372",
+    "id_prev": "21.369",
+    "id_next": "21.375",
+    "refcode_1": "CSW",
+    "refcode_2": "82",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 82.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 82.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When the youth is converted, do not leave him in idleness; give him something to do in the vineyard of the Master. According to his ability, let him be employed; for the Lord has given to every man his work. Let us cooperate with the Lord in every line, and set in operation every means whereby the powers of those connected with the school may be developed for usefulness. The inhabitants of the world are ranging themselves under the banners of the two leaders of earth&apos;s inhabitants. Christ, the Prince of life, and Satan, the prince of darkness, are urging men and women and youth into service. It is the <span class=\"page-break\" data-page=\"83\"></span> work of the Christian teacher and scholar to make earnest efforts that the ranks of Christ may be continually increased, to invite every soul to stand under the bloodstained banner of Prince Immanuel&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 50.1\" data-link=\"121.194\"><em>Testimonies on Sabbath-School Work</em>, 50, 51</span>.",
+    "puborder": 232,
+    "translations": [
+      {
+        "para_id": "11629.345",
+        "lang": "da",
+        "refcode": "RSSA 82.1"
+      },
+      {
+        "para_id": "799.360",
+        "lang": "de",
+        "refcode": "RSs 70.1"
+      },
+      {
+        "para_id": "1711.404",
+        "lang": "es",
+        "refcode": "COES 91.1"
+      },
+      {
+        "para_id": "1917.436",
+        "lang": "pt",
+        "refcode": "CES38 42.1"
+      },
+      {
+        "para_id": "1724.406",
+        "lang": "pt",
+        "refcode": "CES 83.1"
+      },
+      {
+        "para_id": "1724.404",
+        "lang": "pt",
+        "refcode": "CES 82.1"
+      },
+      {
+        "para_id": "1917.438",
+        "lang": "pt",
+        "refcode": "CES38 42.2"
+      },
+      {
+        "para_id": "2719.382",
+        "lang": "ro",
+        "refcode": "SSS 82.1"
+      },
+      {
+        "para_id": "1873.368",
+        "lang": "ru",
+        "refcode": "ССШ 82.1"
+      }
+    ]
+  }
+]

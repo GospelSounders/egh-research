@@ -1,0 +1,3125 @@
+[
+  {
+    "para_id": "127.1476",
+    "id_prev": "127.1474",
+    "id_next": "127.1477",
+    "refcode_1": "AA",
+    "refcode_2": "335",
+    "refcode_3": "",
+    "refcode_4": "32",
+    "refcode_short": "AA 335",
+    "refcode_long": "The Acts of the Apostles, p. 335 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 32&mdash;A Liberal Church",
+    "puborder": 925,
+    "translations": [
+      {
+        "para_id": "13804.1112",
+        "lang": "bg",
+        "refcode": "Дa 130"
+      },
+      {
+        "para_id": "11590.1411",
+        "lang": "ce",
+        "refcode": "ABA 286"
+      },
+      {
+        "para_id": "11247.1347",
+        "lang": "cs",
+        "refcode": "PNL 193"
+      },
+      {
+        "para_id": "813.1475",
+        "lang": "de",
+        "refcode": "WA 335"
+      },
+      {
+        "para_id": "198.1381",
+        "lang": "es",
+        "refcode": "HAp 270"
+      },
+      {
+        "para_id": "158.1406",
+        "lang": "fr",
+        "refcode": "CP 297"
+      },
+      {
+        "para_id": "11938.1280",
+        "lang": "hu",
+        "refcode": "AT 221"
+      },
+      {
+        "para_id": "12410.1376",
+        "lang": "id",
+        "refcode": "KR 282"
+      },
+      {
+        "para_id": "882.1283",
+        "lang": "it",
+        "refcode": "UVI 211"
+      },
+      {
+        "para_id": "12335.1228",
+        "lang": "nb",
+        "refcode": "AV 194"
+      },
+      {
+        "para_id": "12008.1151",
+        "lang": "pl",
+        "refcode": "DA 184"
+      },
+      {
+        "para_id": "1806.1216",
+        "lang": "pt",
+        "refcode": "AA 174.2"
+      },
+      {
+        "para_id": "2013.1464",
+        "lang": "ro",
+        "refcode": "FA 335"
+      },
+      {
+        "para_id": "1785.1439",
+        "lang": "ru",
+        "refcode": "ДА 335"
+      },
+      {
+        "para_id": "13874.1230",
+        "lang": "rw",
+        "refcode": "INI 207"
+      },
+      {
+        "para_id": "11182.1214",
+        "lang": "sk",
+        "refcode": "SA 201"
+      },
+      {
+        "para_id": "11904.1330",
+        "lang": "tl",
+        "refcode": "AGA 254"
+      },
+      {
+        "para_id": "11875.1289",
+        "lang": "uk",
+        "refcode": "ДА 230"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1477",
+    "id_prev": "127.1476",
+    "id_next": "127.1478",
+    "refcode_1": "AA",
+    "refcode_2": "335",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 335.1",
+    "refcode_long": "The Acts of the Apostles, p. 335.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In his first letter to the church at Corinth, Paul gave the believers instruction regarding the general principles underlying the support of God&apos;s work in the earth. Writing of his apostolic labors in their behalf, he inquired:",
+    "puborder": 926,
+    "translations": [
+      {
+        "para_id": "13804.1113",
+        "lang": "bg",
+        "refcode": "Дa 130.2"
+      },
+      {
+        "para_id": "11590.1412",
+        "lang": "ce",
+        "refcode": "ABA 286.1"
+      },
+      {
+        "para_id": "11247.1348",
+        "lang": "cs",
+        "refcode": "PNL 193.1"
+      },
+      {
+        "para_id": "813.1476",
+        "lang": "de",
+        "refcode": "WA 335.1"
+      },
+      {
+        "para_id": "198.1382",
+        "lang": "es",
+        "refcode": "HAp 270.1"
+      },
+      {
+        "para_id": "158.1407",
+        "lang": "fr",
+        "refcode": "CP 297.1"
+      },
+      {
+        "para_id": "11938.1281",
+        "lang": "hu",
+        "refcode": "AT 221.1"
+      },
+      {
+        "para_id": "12410.1377",
+        "lang": "id",
+        "refcode": "KR 282.1"
+      },
+      {
+        "para_id": "882.1284",
+        "lang": "it",
+        "refcode": "UVI 211.1"
+      },
+      {
+        "para_id": "12335.1229",
+        "lang": "nb",
+        "refcode": "AV 194.1"
+      },
+      {
+        "para_id": "12008.1152",
+        "lang": "pl",
+        "refcode": "DA 184.1"
+      },
+      {
+        "para_id": "1806.1217",
+        "lang": "pt",
+        "refcode": "AA 174.3"
+      },
+      {
+        "para_id": "2013.1465",
+        "lang": "ro",
+        "refcode": "FA 335.1"
+      },
+      {
+        "para_id": "1785.1440",
+        "lang": "ru",
+        "refcode": "ДА 335.1"
+      },
+      {
+        "para_id": "13874.1231",
+        "lang": "rw",
+        "refcode": "INI 207.1"
+      },
+      {
+        "para_id": "11182.1215",
+        "lang": "sk",
+        "refcode": "SA 201.1"
+      },
+      {
+        "para_id": "11904.1331",
+        "lang": "tl",
+        "refcode": "AGA 254.1"
+      },
+      {
+        "para_id": "11875.1290",
+        "lang": "uk",
+        "refcode": "ДА 230.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1478",
+    "id_prev": "127.1477",
+    "id_next": "127.1479",
+    "refcode_1": "AA",
+    "refcode_2": "335",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 335.2",
+    "refcode_long": "The Acts of the Apostles, p. 335.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock? Say I these things as a man? or saith not the law the same also? For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen? or saith He it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.",
+    "puborder": 927,
+    "translations": [
+      {
+        "para_id": "13804.1113",
+        "lang": "bg",
+        "refcode": "Дa 130.2"
+      },
+      {
+        "para_id": "11590.1413",
+        "lang": "ce",
+        "refcode": "ABA 286.2"
+      },
+      {
+        "para_id": "11247.1349",
+        "lang": "cs",
+        "refcode": "PNL 193.2"
+      },
+      {
+        "para_id": "813.1477",
+        "lang": "de",
+        "refcode": "WA 335.2"
+      },
+      {
+        "para_id": "198.1383",
+        "lang": "es",
+        "refcode": "HAp 270.2"
+      },
+      {
+        "para_id": "158.1407",
+        "lang": "fr",
+        "refcode": "CP 297.1"
+      },
+      {
+        "para_id": "11938.1282",
+        "lang": "hu",
+        "refcode": "AT 221.2"
+      },
+      {
+        "para_id": "12410.1378",
+        "lang": "id",
+        "refcode": "KR 282.2"
+      },
+      {
+        "para_id": "882.1284",
+        "lang": "it",
+        "refcode": "UVI 211.1"
+      },
+      {
+        "para_id": "12335.1230",
+        "lang": "nb",
+        "refcode": "AV 194.2"
+      },
+      {
+        "para_id": "12008.1152",
+        "lang": "pl",
+        "refcode": "DA 184.1"
+      },
+      {
+        "para_id": "1806.1219",
+        "lang": "pt",
+        "refcode": "AA 175"
+      },
+      {
+        "para_id": "2013.1466",
+        "lang": "ro",
+        "refcode": "FA 335.2"
+      },
+      {
+        "para_id": "1785.1441",
+        "lang": "ru",
+        "refcode": "ДА 335.2"
+      },
+      {
+        "para_id": "13874.1232",
+        "lang": "rw",
+        "refcode": "INI 207.2"
+      },
+      {
+        "para_id": "11182.1216",
+        "lang": "sk",
+        "refcode": "SA 201.2"
+      },
+      {
+        "para_id": "11904.1332",
+        "lang": "tl",
+        "refcode": "AGA 254.2"
+      },
+      {
+        "para_id": "11875.1290",
+        "lang": "uk",
+        "refcode": "ДА 230.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1479",
+    "id_prev": "127.1478",
+    "id_next": "127.1482",
+    "refcode_1": "AA",
+    "refcode_2": "335",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 335.3",
+    "refcode_long": "The Acts of the Apostles, p. 335.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;If we have sown unto you spiritual things,&rdquo; the apostle further inquired, &ldquo;is it a great thing if we shall reap your <span class=\"page-break\" data-page=\"336\"></span> carnal things? If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ. Do ye not know that they which minister about holy things live of the things of the temple? and they which wait at the altar are partakers with the altar? Even so hath the Lord ordained that they which preach the gospel should live of the gospel.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Corinthians 9:7\" data-link=\"1965.58214\">1 Corinthians 9:7-14</span>.",
+    "puborder": 928,
+    "translations": [
+      {
+        "para_id": "13804.1113",
+        "lang": "bg",
+        "refcode": "Дa 130.2"
+      },
+      {
+        "para_id": "11590.1414",
+        "lang": "ce",
+        "refcode": "ABA 286.3"
+      },
+      {
+        "para_id": "11247.1350",
+        "lang": "cs",
+        "refcode": "PNL 193.3"
+      },
+      {
+        "para_id": "813.1478",
+        "lang": "de",
+        "refcode": "WA 335.3"
+      },
+      {
+        "para_id": "198.1384",
+        "lang": "es",
+        "refcode": "HAp 270.3"
+      },
+      {
+        "para_id": "158.1407",
+        "lang": "fr",
+        "refcode": "CP 297.1"
+      },
+      {
+        "para_id": "11938.1283",
+        "lang": "hu",
+        "refcode": "AT 221.3"
+      },
+      {
+        "para_id": "12410.1379",
+        "lang": "id",
+        "refcode": "KR 282.3"
+      },
+      {
+        "para_id": "882.1285",
+        "lang": "it",
+        "refcode": "UVI 211.2"
+      },
+      {
+        "para_id": "12335.1231",
+        "lang": "nb",
+        "refcode": "AV 194.3"
+      },
+      {
+        "para_id": "12008.1152",
+        "lang": "pl",
+        "refcode": "DA 184.1"
+      },
+      {
+        "para_id": "1806.1219",
+        "lang": "pt",
+        "refcode": "AA 175"
+      },
+      {
+        "para_id": "2013.1467",
+        "lang": "ro",
+        "refcode": "FA 335.3"
+      },
+      {
+        "para_id": "1785.1442",
+        "lang": "ru",
+        "refcode": "ДА 335.3"
+      },
+      {
+        "para_id": "13874.1233",
+        "lang": "rw",
+        "refcode": "INI 207.3"
+      },
+      {
+        "para_id": "11182.1217",
+        "lang": "sk",
+        "refcode": "SA 201.3"
+      },
+      {
+        "para_id": "11904.1333",
+        "lang": "tl",
+        "refcode": "AGA 254.3"
+      },
+      {
+        "para_id": "11875.1290",
+        "lang": "uk",
+        "refcode": "ДА 230.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1482",
+    "id_prev": "127.1479",
+    "id_next": "127.1483",
+    "refcode_1": "AA",
+    "refcode_2": "336",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 336.1",
+    "refcode_long": "The Acts of the Apostles, p. 336.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle here referred to the Lord&apos;s plan for the maintenance of the priests who ministered in the temple. Those who were set apart to this holy office were supported by their brethren, to whom they ministered spiritual blessings. &ldquo;Verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Hebrews 7:5\" data-link=\"1965.61339\">Hebrews 7:5</span>. The tribe of Levi was chosen by the Lord for the sacred offices pertaining to the temple and the priesthood. Of the priest it was said, &ldquo;The Lord thy God hath chosen him ... to stand to minister in the name of the Lord.&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"Deuteronomy 18:5\" data-link=\"1965.10957\">Deuteronomy 18:5</span>.) One tenth of all the increase was claimed by the Lord as His own, and to withhold the tithe was regarded by Him as robbery.",
+    "puborder": 929,
+    "translations": [
+      {
+        "para_id": "13804.1114",
+        "lang": "bg",
+        "refcode": "Дa 130.3"
+      },
+      {
+        "para_id": "11590.1415",
+        "lang": "ce",
+        "refcode": "ABA 286.4"
+      },
+      {
+        "para_id": "11247.1352",
+        "lang": "cs",
+        "refcode": "PNL 193.4"
+      },
+      {
+        "para_id": "813.1481",
+        "lang": "de",
+        "refcode": "WA 336.1"
+      },
+      {
+        "para_id": "198.1385",
+        "lang": "es",
+        "refcode": "HAp 270.4"
+      },
+      {
+        "para_id": "158.1411",
+        "lang": "fr",
+        "refcode": "CP 298.2"
+      },
+      {
+        "para_id": "158.1412",
+        "lang": "fr",
+        "refcode": "CP 298.3"
+      },
+      {
+        "para_id": "11938.1284",
+        "lang": "hu",
+        "refcode": "AT 221.4"
+      },
+      {
+        "para_id": "12410.1382",
+        "lang": "id",
+        "refcode": "KR 283.1"
+      },
+      {
+        "para_id": "882.1286",
+        "lang": "it",
+        "refcode": "UVI 211.3"
+      },
+      {
+        "para_id": "12335.1231",
+        "lang": "nb",
+        "refcode": "AV 194.3"
+      },
+      {
+        "para_id": "12008.1153",
+        "lang": "pl",
+        "refcode": "DA 184.2"
+      },
+      {
+        "para_id": "1806.1220",
+        "lang": "pt",
+        "refcode": "AA 175.1"
+      },
+      {
+        "para_id": "2013.1470",
+        "lang": "ro",
+        "refcode": "FA 336.1"
+      },
+      {
+        "para_id": "1785.1445",
+        "lang": "ru",
+        "refcode": "ДА 336.1"
+      },
+      {
+        "para_id": "13874.1234",
+        "lang": "rw",
+        "refcode": "INI 207.4"
+      },
+      {
+        "para_id": "11182.1218",
+        "lang": "sk",
+        "refcode": "SA 201.4"
+      },
+      {
+        "para_id": "11904.1334",
+        "lang": "tl",
+        "refcode": "AGA 254.4"
+      },
+      {
+        "para_id": "11875.1291",
+        "lang": "uk",
+        "refcode": "ДА 230.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1483",
+    "id_prev": "127.1482",
+    "id_next": "127.1484",
+    "refcode_1": "AA",
+    "refcode_2": "336",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 336.2",
+    "refcode_long": "The Acts of the Apostles, p. 336.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It was to this plan for the support of the ministry that Paul referred when he said, &ldquo;Even so hath the Lord ordained that they which preach the gospel should live of the gospel.&rdquo; And later, in writing to Timothy, the apostle said, &ldquo;The laborer is worthy of his reward.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Timothy 5:18\" data-link=\"1965.60743\">1 Timothy 5:18</span>.",
+    "puborder": 930,
+    "translations": [
+      {
+        "para_id": "13804.1115",
+        "lang": "bg",
+        "refcode": "Дa 130.4"
+      },
+      {
+        "para_id": "11590.1418",
+        "lang": "ce",
+        "refcode": "ABA 287.1"
+      },
+      {
+        "para_id": "11247.1353",
+        "lang": "cs",
+        "refcode": "PNL 193.5"
+      },
+      {
+        "para_id": "813.1482",
+        "lang": "de",
+        "refcode": "WA 336.2"
+      },
+      {
+        "para_id": "198.1388",
+        "lang": "es",
+        "refcode": "HAp 271.1"
+      },
+      {
+        "para_id": "158.1413",
+        "lang": "fr",
+        "refcode": "CP 298.4"
+      },
+      {
+        "para_id": "11938.1287",
+        "lang": "hu",
+        "refcode": "AT 222.1"
+      },
+      {
+        "para_id": "12410.1383",
+        "lang": "id",
+        "refcode": "KR 283.2"
+      },
+      {
+        "para_id": "882.1287",
+        "lang": "it",
+        "refcode": "UVI 211.4"
+      },
+      {
+        "para_id": "12335.1232",
+        "lang": "nb",
+        "refcode": "AV 194.4"
+      },
+      {
+        "para_id": "12008.1155",
+        "lang": "pl",
+        "refcode": "DA 185.1"
+      },
+      {
+        "para_id": "1806.1221",
+        "lang": "pt",
+        "refcode": "AA 175.2"
+      },
+      {
+        "para_id": "2013.1471",
+        "lang": "ro",
+        "refcode": "FA 336.2"
+      },
+      {
+        "para_id": "1785.1446",
+        "lang": "ru",
+        "refcode": "ДА 336.2"
+      },
+      {
+        "para_id": "13874.1235",
+        "lang": "rw",
+        "refcode": "INI 207.5"
+      },
+      {
+        "para_id": "11182.1219",
+        "lang": "sk",
+        "refcode": "SA 201.5"
+      },
+      {
+        "para_id": "11904.1337",
+        "lang": "tl",
+        "refcode": "AGA 255.1"
+      },
+      {
+        "para_id": "11875.1294",
+        "lang": "uk",
+        "refcode": "ДА 231.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1484",
+    "id_prev": "127.1483",
+    "id_next": "127.1487",
+    "refcode_1": "AA",
+    "refcode_2": "336",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 336.3",
+    "refcode_long": "The Acts of the Apostles, p. 336.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The payment of the tithe was but a part of God&apos;s plan for <span class=\"page-break\" data-page=\"337\"></span> the support of His service. Numerous gifts and offerings were divinely specified. Under the Jewish system the people were taught to cherish a spirit of liberality both in sustaining the cause of God and in supplying the wants of the needy. For special occasions there were freewill offerings. At the harvest and the vintage, the first fruits of the field&mdash;corn, wine, and oil&mdash;were consecrated as an offering to the Lord. The gleanings and the corners of the field were reserved for the poor. The first fruits of the wool when the sheep were shorn, of the grain when the wheat was threshed, were set apart for God. So also were the first-born of all animals, and a redemption price was paid for the first-born son. The first fruits were to be presented before the Lord at the sanctuary and were then devoted to the use of the priests.",
+    "puborder": 931,
+    "translations": [
+      {
+        "para_id": "13804.1116",
+        "lang": "bg",
+        "refcode": "Дa 130.5"
+      },
+      {
+        "para_id": "11590.1419",
+        "lang": "ce",
+        "refcode": "ABA 287.2"
+      },
+      {
+        "para_id": "11247.1356",
+        "lang": "cs",
+        "refcode": "PNL 194.1"
+      },
+      {
+        "para_id": "813.1483",
+        "lang": "de",
+        "refcode": "WA 336.3"
+      },
+      {
+        "para_id": "198.1389",
+        "lang": "es",
+        "refcode": "HAp 271.2"
+      },
+      {
+        "para_id": "158.1414",
+        "lang": "fr",
+        "refcode": "CP 298.5"
+      },
+      {
+        "para_id": "11938.1288",
+        "lang": "hu",
+        "refcode": "AT 222.2"
+      },
+      {
+        "para_id": "12410.1384",
+        "lang": "id",
+        "refcode": "KR 283.3"
+      },
+      {
+        "para_id": "882.1290",
+        "lang": "it",
+        "refcode": "UVI 212.1"
+      },
+      {
+        "para_id": "12335.1233",
+        "lang": "nb",
+        "refcode": "AV 194.5"
+      },
+      {
+        "para_id": "12008.1156",
+        "lang": "pl",
+        "refcode": "DA 185.2"
+      },
+      {
+        "para_id": "1806.1222",
+        "lang": "pt",
+        "refcode": "AA 175.3"
+      },
+      {
+        "para_id": "2013.1472",
+        "lang": "ro",
+        "refcode": "FA 336.3"
+      },
+      {
+        "para_id": "1785.1448",
+        "lang": "ru",
+        "refcode": "ДА 337.1"
+      },
+      {
+        "para_id": "13874.1237",
+        "lang": "rw",
+        "refcode": "INI 208.1"
+      },
+      {
+        "para_id": "11182.1222",
+        "lang": "sk",
+        "refcode": "SA 202.1"
+      },
+      {
+        "para_id": "11904.1338",
+        "lang": "tl",
+        "refcode": "AGA 255.2"
+      },
+      {
+        "para_id": "11875.1295",
+        "lang": "uk",
+        "refcode": "ДА 231.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1487",
+    "id_prev": "127.1484",
+    "id_next": "127.1488",
+    "refcode_1": "AA",
+    "refcode_2": "337",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 337.1",
+    "refcode_long": "The Acts of the Apostles, p. 337.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "By this system of benevolence the Lord sought to teach Israel that in everything He must be first. Thus they were reminded that God was the proprietor of their fields, their flocks, and their herds; that it was He who sent them the sunshine and the rain that developed and ripened the harvest. Everything that they possessed was His; they were but the stewards of His goods.",
+    "puborder": 932,
+    "translations": [
+      {
+        "para_id": "13804.1119",
+        "lang": "bg",
+        "refcode": "Дa 131.1"
+      },
+      {
+        "para_id": "11590.1420",
+        "lang": "ce",
+        "refcode": "ABA 287.3"
+      },
+      {
+        "para_id": "11247.1357",
+        "lang": "cs",
+        "refcode": "PNL 194.2"
+      },
+      {
+        "para_id": "813.1487",
+        "lang": "de",
+        "refcode": "WA 337.1"
+      },
+      {
+        "para_id": "198.1390",
+        "lang": "es",
+        "refcode": "HAp 271.3"
+      },
+      {
+        "para_id": "158.1418",
+        "lang": "fr",
+        "refcode": "CP 299.1"
+      },
+      {
+        "para_id": "11938.1289",
+        "lang": "hu",
+        "refcode": "AT 222.3"
+      },
+      {
+        "para_id": "12410.1386",
+        "lang": "id",
+        "refcode": "KR 284.1"
+      },
+      {
+        "para_id": "882.1291",
+        "lang": "it",
+        "refcode": "UVI 212.2"
+      },
+      {
+        "para_id": "12335.1236",
+        "lang": "nb",
+        "refcode": "AV 195.1"
+      },
+      {
+        "para_id": "12008.1157",
+        "lang": "pl",
+        "refcode": "DA 185.3"
+      },
+      {
+        "para_id": "1806.1225",
+        "lang": "pt",
+        "refcode": "AA 175.6"
+      },
+      {
+        "para_id": "2013.1475",
+        "lang": "ro",
+        "refcode": "FA 337.1"
+      },
+      {
+        "para_id": "1785.1449",
+        "lang": "ru",
+        "refcode": "ДА 337.2"
+      },
+      {
+        "para_id": "13874.1238",
+        "lang": "rw",
+        "refcode": "INI 208.2"
+      },
+      {
+        "para_id": "11182.1223",
+        "lang": "sk",
+        "refcode": "SA 202.2"
+      },
+      {
+        "para_id": "11904.1339",
+        "lang": "tl",
+        "refcode": "AGA 255.3"
+      },
+      {
+        "para_id": "11875.1296",
+        "lang": "uk",
+        "refcode": "ДА 231.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1488",
+    "id_prev": "127.1487",
+    "id_next": "127.1491",
+    "refcode_1": "AA",
+    "refcode_2": "337",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 337.2",
+    "refcode_long": "The Acts of the Apostles, p. 337.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is not God&apos;s purpose that Christians, whose privileges far exceed those of the Jewish nation, shall give less freely than they gave. &ldquo;Unto whomsoever much is given,&rdquo; the Saviour declared, &ldquo;of him shall be much required.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Luke 12:48\" data-link=\"1965.52044\">Luke 12:48</span>. The liberality required of the Hebrews was largely to benefit their own nation; today the work of God extends <span class=\"page-break\" data-page=\"338\"></span> over all the earth. In the hands of His followers, Christ has placed the treasures of the gospel, and upon them He has laid the responsibility of giving the glad tidings of salvation to the world. Surely our obligations are much greater than were those of ancient Israel.",
+    "puborder": 933,
+    "translations": [
+      {
+        "para_id": "13804.1120",
+        "lang": "bg",
+        "refcode": "Дa 131.2"
+      },
+      {
+        "para_id": "11590.1423",
+        "lang": "ce",
+        "refcode": "ABA 288.1"
+      },
+      {
+        "para_id": "11247.1359",
+        "lang": "cs",
+        "refcode": "PNL 194.3"
+      },
+      {
+        "para_id": "813.1488",
+        "lang": "de",
+        "refcode": "WA 337.2"
+      },
+      {
+        "para_id": "198.1392",
+        "lang": "es",
+        "refcode": "HAp 272.1"
+      },
+      {
+        "para_id": "158.1419",
+        "lang": "fr",
+        "refcode": "CP 299.2"
+      },
+      {
+        "para_id": "158.1420",
+        "lang": "fr",
+        "refcode": "CP 299.3"
+      },
+      {
+        "para_id": "11938.1290",
+        "lang": "hu",
+        "refcode": "AT 222.4"
+      },
+      {
+        "para_id": "12410.1387",
+        "lang": "id",
+        "refcode": "KR 284.2"
+      },
+      {
+        "para_id": "882.1292",
+        "lang": "it",
+        "refcode": "UVI 212.3"
+      },
+      {
+        "para_id": "12335.1237",
+        "lang": "nb",
+        "refcode": "AV 195.2"
+      },
+      {
+        "para_id": "12008.1158",
+        "lang": "pl",
+        "refcode": "DA 185.4"
+      },
+      {
+        "para_id": "1806.1225",
+        "lang": "pt",
+        "refcode": "AA 175.6"
+      },
+      {
+        "para_id": "2013.1476",
+        "lang": "ro",
+        "refcode": "FA 337.2"
+      },
+      {
+        "para_id": "1785.1450",
+        "lang": "ru",
+        "refcode": "ДА 337.3"
+      },
+      {
+        "para_id": "13874.1239",
+        "lang": "rw",
+        "refcode": "INI 208.3"
+      },
+      {
+        "para_id": "11182.1224",
+        "lang": "sk",
+        "refcode": "SA 202.3"
+      },
+      {
+        "para_id": "11904.1340",
+        "lang": "tl",
+        "refcode": "AGA 255.4"
+      },
+      {
+        "para_id": "11875.1297",
+        "lang": "uk",
+        "refcode": "ДА 231.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1491",
+    "id_prev": "127.1488",
+    "id_next": "127.1492",
+    "refcode_1": "AA",
+    "refcode_2": "338",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 338.1",
+    "refcode_long": "The Acts of the Apostles, p. 338.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As God&apos;s work extends, calls for help will come more and more frequently. That these calls may be answered, Christians should heed the command, &ldquo;Bring ye all the tithes into the storehouse, that there may be meat in Mine house.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Malachi 3:10\" data-link=\"1965.47230\">Malachi 3:10</span>. If professing Christians would faithfully bring to God their tithes and offerings, His treasury would be full. There would then be no occasion to resort to fairs, lotteries, or parties of pleasure to secure funds for the support of the gospel.",
+    "puborder": 934,
+    "translations": [
+      {
+        "para_id": "13804.1121",
+        "lang": "bg",
+        "refcode": "Дa 131.3"
+      },
+      {
+        "para_id": "11590.1424",
+        "lang": "ce",
+        "refcode": "ABA 288.2"
+      },
+      {
+        "para_id": "11247.1360",
+        "lang": "cs",
+        "refcode": "PNL 194.4"
+      },
+      {
+        "para_id": "813.1489",
+        "lang": "de",
+        "refcode": "WA 337.3"
+      },
+      {
+        "para_id": "198.1393",
+        "lang": "es",
+        "refcode": "HAp 272.2"
+      },
+      {
+        "para_id": "158.1421",
+        "lang": "fr",
+        "refcode": "CP 299.4"
+      },
+      {
+        "para_id": "11938.1291",
+        "lang": "hu",
+        "refcode": "AT 222.5"
+      },
+      {
+        "para_id": "12410.1388",
+        "lang": "id",
+        "refcode": "KR 284.3"
+      },
+      {
+        "para_id": "882.1293",
+        "lang": "it",
+        "refcode": "UVI 212.4"
+      },
+      {
+        "para_id": "12335.1238",
+        "lang": "nb",
+        "refcode": "AV 195.3"
+      },
+      {
+        "para_id": "12008.1159",
+        "lang": "pl",
+        "refcode": "DA 185.5"
+      },
+      {
+        "para_id": "1806.1225",
+        "lang": "pt",
+        "refcode": "AA 175.6"
+      },
+      {
+        "para_id": "2013.1479",
+        "lang": "ro",
+        "refcode": "FA 338.1"
+      },
+      {
+        "para_id": "1785.1453",
+        "lang": "ru",
+        "refcode": "ДА 338.1"
+      },
+      {
+        "para_id": "13874.1240",
+        "lang": "rw",
+        "refcode": "INI 208.4"
+      },
+      {
+        "para_id": "11182.1225",
+        "lang": "sk",
+        "refcode": "SA 202.4"
+      },
+      {
+        "para_id": "11904.1343",
+        "lang": "tl",
+        "refcode": "AGA 256.1"
+      },
+      {
+        "para_id": "11875.1300",
+        "lang": "uk",
+        "refcode": "ДА 232.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1492",
+    "id_prev": "127.1491",
+    "id_next": "127.1493",
+    "refcode_1": "AA",
+    "refcode_2": "338",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 338.2",
+    "refcode_long": "The Acts of the Apostles, p. 338.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Men are tempted to use their means in self-indulgence, in the gratification of appetite, in personal adornment, or in the embellishment of their homes. For these objects many church members do not hesitate to spend freely and even extravagantly. But when asked to give to the Lord&apos;s treasury, to carry forward His work in the earth, they demur. Perhaps, feeling that they cannot well do otherwise, they dole out a sum far smaller than they often spend for needless indulgence. They manifest no real love for Christ&apos;s service, no earnest interest in the salvation of souls. What marvel that the Christian life of such ones is but a dwarfed, sickly existence!",
+    "puborder": 935,
+    "translations": [
+      {
+        "para_id": "13804.1122",
+        "lang": "bg",
+        "refcode": "Дa 131.4"
+      },
+      {
+        "para_id": "11590.1425",
+        "lang": "ce",
+        "refcode": "ABA 288.3"
+      },
+      {
+        "para_id": "11247.1361",
+        "lang": "cs",
+        "refcode": "PNL 194.5"
+      },
+      {
+        "para_id": "813.1491",
+        "lang": "de",
+        "refcode": "WA 338.1"
+      },
+      {
+        "para_id": "198.1394",
+        "lang": "es",
+        "refcode": "HAp 272.3"
+      },
+      {
+        "para_id": "158.1422",
+        "lang": "fr",
+        "refcode": "CP 299.5"
+      },
+      {
+        "para_id": "11938.1294",
+        "lang": "hu",
+        "refcode": "AT 223.1"
+      },
+      {
+        "para_id": "12410.1389",
+        "lang": "id",
+        "refcode": "KR 284.4"
+      },
+      {
+        "para_id": "882.1294",
+        "lang": "it",
+        "refcode": "UVI 212.5"
+      },
+      {
+        "para_id": "12335.1239",
+        "lang": "nb",
+        "refcode": "AV 195.4"
+      },
+      {
+        "para_id": "12008.1160",
+        "lang": "pl",
+        "refcode": "DA 185.6"
+      },
+      {
+        "para_id": "1806.1228",
+        "lang": "pt",
+        "refcode": "AA 176.1"
+      },
+      {
+        "para_id": "2013.1480",
+        "lang": "ro",
+        "refcode": "FA 338.2"
+      },
+      {
+        "para_id": "1785.1454",
+        "lang": "ru",
+        "refcode": "ДА 338.2"
+      },
+      {
+        "para_id": "13874.1243",
+        "lang": "rw",
+        "refcode": "INI 209.1"
+      },
+      {
+        "para_id": "11182.1226",
+        "lang": "sk",
+        "refcode": "SA 202.5"
+      },
+      {
+        "para_id": "11904.1344",
+        "lang": "tl",
+        "refcode": "AGA 256.2"
+      },
+      {
+        "para_id": "11875.1301",
+        "lang": "uk",
+        "refcode": "ДА 232.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1493",
+    "id_prev": "127.1492",
+    "id_next": "127.1496",
+    "refcode_1": "AA",
+    "refcode_2": "338",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 338.3",
+    "refcode_long": "The Acts of the Apostles, p. 338.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "He whose heart is aglow with the love of Christ will regard it as not only a duty, but a pleasure, to aid in the <span class=\"page-break\" data-page=\"339\"></span> advancement of the highest, holiest work committed to man&mdash;the work of presenting to the world the riches of goodness, mercy, and truth.",
+    "puborder": 936,
+    "translations": [
+      {
+        "para_id": "13804.1123",
+        "lang": "bg",
+        "refcode": "Дa 131.5"
+      },
+      {
+        "para_id": "11590.1428",
+        "lang": "ce",
+        "refcode": "ABA 289.1"
+      },
+      {
+        "para_id": "11247.1364",
+        "lang": "cs",
+        "refcode": "PNL 195.1"
+      },
+      {
+        "para_id": "813.1492",
+        "lang": "de",
+        "refcode": "WA 338.2"
+      },
+      {
+        "para_id": "198.1395",
+        "lang": "es",
+        "refcode": "HAp 272.4"
+      },
+      {
+        "para_id": "158.1425",
+        "lang": "fr",
+        "refcode": "CP 300.1"
+      },
+      {
+        "para_id": "11938.1295",
+        "lang": "hu",
+        "refcode": "AT 223.2"
+      },
+      {
+        "para_id": "12410.1392",
+        "lang": "id",
+        "refcode": "KR 285.1"
+      },
+      {
+        "para_id": "882.1297",
+        "lang": "it",
+        "refcode": "UVI 213.1"
+      },
+      {
+        "para_id": "12335.1242",
+        "lang": "nb",
+        "refcode": "AV 196.1"
+      },
+      {
+        "para_id": "12008.1163",
+        "lang": "pl",
+        "refcode": "DA 186.1"
+      },
+      {
+        "para_id": "1806.1230",
+        "lang": "pt",
+        "refcode": "AA 176.3"
+      },
+      {
+        "para_id": "2013.1481",
+        "lang": "ro",
+        "refcode": "FA 338.3"
+      },
+      {
+        "para_id": "1785.1455",
+        "lang": "ru",
+        "refcode": "ДА 338.3"
+      },
+      {
+        "para_id": "13874.1244",
+        "lang": "rw",
+        "refcode": "INI 209.2"
+      },
+      {
+        "para_id": "11182.1229",
+        "lang": "sk",
+        "refcode": "SA 203.1"
+      },
+      {
+        "para_id": "11904.1345",
+        "lang": "tl",
+        "refcode": "AGA 256.3"
+      },
+      {
+        "para_id": "11875.1302",
+        "lang": "uk",
+        "refcode": "ДА 232.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1496",
+    "id_prev": "127.1493",
+    "id_next": "127.1497",
+    "refcode_1": "AA",
+    "refcode_2": "339",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 339.1",
+    "refcode_long": "The Acts of the Apostles, p. 339.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is the spirit of covetousness which leads men to keep for gratification of self means that rightfully belong to God, and this spirit is as abhorrent to Him now as when through His prophet He sternly rebuked His people, saying, &ldquo;Will a man rob God? Yet ye have robbed Me. But ye say, Wherein have we robbed Thee? In tithes and offerings. Ye are cursed with a curse: for ye have robbed Me, even this whole nation.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Malachi 3:8\" data-link=\"1965.47226\">Malachi 3:8, 9</span>.",
+    "puborder": 937,
+    "translations": [
+      {
+        "para_id": "13804.1124",
+        "lang": "bg",
+        "refcode": "Дa 131.6"
+      },
+      {
+        "para_id": "11590.1429",
+        "lang": "ce",
+        "refcode": "ABA 289.2"
+      },
+      {
+        "para_id": "11247.1365",
+        "lang": "cs",
+        "refcode": "PNL 195.2"
+      },
+      {
+        "para_id": "813.1493",
+        "lang": "de",
+        "refcode": "WA 338.3"
+      },
+      {
+        "para_id": "198.1398",
+        "lang": "es",
+        "refcode": "HAp 273.1"
+      },
+      {
+        "para_id": "158.1426",
+        "lang": "fr",
+        "refcode": "CP 300.2"
+      },
+      {
+        "para_id": "11938.1296",
+        "lang": "hu",
+        "refcode": "AT 223.3"
+      },
+      {
+        "para_id": "12410.1393",
+        "lang": "id",
+        "refcode": "KR 285.2"
+      },
+      {
+        "para_id": "882.1298",
+        "lang": "it",
+        "refcode": "UVI 213.2"
+      },
+      {
+        "para_id": "12335.1243",
+        "lang": "nb",
+        "refcode": "AV 196.2"
+      },
+      {
+        "para_id": "12008.1164",
+        "lang": "pl",
+        "refcode": "DA 186.2"
+      },
+      {
+        "para_id": "1806.1231",
+        "lang": "pt",
+        "refcode": "AA 176.4"
+      },
+      {
+        "para_id": "2013.1484",
+        "lang": "ro",
+        "refcode": "FA 339.1"
+      },
+      {
+        "para_id": "1785.1458",
+        "lang": "ru",
+        "refcode": "ДА 339.1"
+      },
+      {
+        "para_id": "13874.1245",
+        "lang": "rw",
+        "refcode": "INI 209.3"
+      },
+      {
+        "para_id": "11182.1230",
+        "lang": "sk",
+        "refcode": "SA 203.2"
+      },
+      {
+        "para_id": "11904.1346",
+        "lang": "tl",
+        "refcode": "AGA 256.4"
+      },
+      {
+        "para_id": "11875.1303",
+        "lang": "uk",
+        "refcode": "ДА 232.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1497",
+    "id_prev": "127.1496",
+    "id_next": "127.1498",
+    "refcode_1": "AA",
+    "refcode_2": "339",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 339.2",
+    "refcode_long": "The Acts of the Apostles, p. 339.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The spirit of liberality is the spirit of heaven. This spirit finds its highest manifestation in Christ&apos;s sacrifice on the cross. In our behalf the Father gave His only-begotten Son; and Christ, having given up all that He had, then gave Himself, that man might be saved. The cross of Calvary should appeal to the benevolence of every follower of the Saviour. The principle there illustrated is to give, give. &ldquo;He that saith he abideth in Him ought himself also so to walk, even as He walked.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 John 2:6\" data-link=\"1965.62338\">1 John 2:6</span>.",
+    "puborder": 938,
+    "translations": [
+      {
+        "para_id": "13804.1125",
+        "lang": "bg",
+        "refcode": "Дa 131.7"
+      },
+      {
+        "para_id": "11590.1430",
+        "lang": "ce",
+        "refcode": "ABA 289.3"
+      },
+      {
+        "para_id": "11247.1366",
+        "lang": "cs",
+        "refcode": "PNL 195.3"
+      },
+      {
+        "para_id": "813.1494",
+        "lang": "de",
+        "refcode": "WA 338.4"
+      },
+      {
+        "para_id": "198.1399",
+        "lang": "es",
+        "refcode": "HAp 273.2"
+      },
+      {
+        "para_id": "158.1427",
+        "lang": "fr",
+        "refcode": "CP 300.3"
+      },
+      {
+        "para_id": "11938.1297",
+        "lang": "hu",
+        "refcode": "AT 223.4"
+      },
+      {
+        "para_id": "12410.1394",
+        "lang": "id",
+        "refcode": "KR 285.3"
+      },
+      {
+        "para_id": "882.1299",
+        "lang": "it",
+        "refcode": "UVI 213.3"
+      },
+      {
+        "para_id": "12335.1244",
+        "lang": "nb",
+        "refcode": "AV 196.3"
+      },
+      {
+        "para_id": "12008.1165",
+        "lang": "pl",
+        "refcode": "DA 186.3"
+      },
+      {
+        "para_id": "1806.1232",
+        "lang": "pt",
+        "refcode": "AA 176.5"
+      },
+      {
+        "para_id": "2013.1485",
+        "lang": "ro",
+        "refcode": "FA 339.2"
+      },
+      {
+        "para_id": "1785.1459",
+        "lang": "ru",
+        "refcode": "ДА 339.2"
+      },
+      {
+        "para_id": "13874.1246",
+        "lang": "rw",
+        "refcode": "INI 209.4"
+      },
+      {
+        "para_id": "11182.1231",
+        "lang": "sk",
+        "refcode": "SA 203.3"
+      },
+      {
+        "para_id": "11904.1349",
+        "lang": "tl",
+        "refcode": "AGA 257.1"
+      },
+      {
+        "para_id": "11875.1306",
+        "lang": "uk",
+        "refcode": "ДА 233.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1498",
+    "id_prev": "127.1497",
+    "id_next": "127.1499",
+    "refcode_1": "AA",
+    "refcode_2": "339",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 339.3",
+    "refcode_long": "The Acts of the Apostles, p. 339.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "On the other hand, the spirit of selfishness is the spirit of Satan. The principle illustrated in the lives of worldlings is to get, get. Thus they hope to secure happiness and ease, but the fruit of their sowing is misery and death.",
+    "puborder": 939,
+    "translations": [
+      {
+        "para_id": "13804.1127",
+        "lang": "bg",
+        "refcode": "Дa 132.1"
+      },
+      {
+        "para_id": "11590.1431",
+        "lang": "ce",
+        "refcode": "ABA 289.4"
+      },
+      {
+        "para_id": "11247.1367",
+        "lang": "cs",
+        "refcode": "PNL 195.4"
+      },
+      {
+        "para_id": "813.1497",
+        "lang": "de",
+        "refcode": "WA 339.1"
+      },
+      {
+        "para_id": "198.1400",
+        "lang": "es",
+        "refcode": "HAp 273.3"
+      },
+      {
+        "para_id": "158.1429",
+        "lang": "fr",
+        "refcode": "CP 301.1"
+      },
+      {
+        "para_id": "11938.1298",
+        "lang": "hu",
+        "refcode": "AT 223.5"
+      },
+      {
+        "para_id": "12410.1395",
+        "lang": "id",
+        "refcode": "KR 285.4"
+      },
+      {
+        "para_id": "882.1300",
+        "lang": "it",
+        "refcode": "UVI 213.4"
+      },
+      {
+        "para_id": "12335.1245",
+        "lang": "nb",
+        "refcode": "AV 196.4"
+      },
+      {
+        "para_id": "12008.1166",
+        "lang": "pl",
+        "refcode": "DA 186.4"
+      },
+      {
+        "para_id": "1806.1233",
+        "lang": "pt",
+        "refcode": "AA 176.6"
+      },
+      {
+        "para_id": "2013.1486",
+        "lang": "ro",
+        "refcode": "FA 339.3"
+      },
+      {
+        "para_id": "1785.1460",
+        "lang": "ru",
+        "refcode": "ДА 339.3"
+      },
+      {
+        "para_id": "13874.1247",
+        "lang": "rw",
+        "refcode": "INI 209.5"
+      },
+      {
+        "para_id": "11182.1232",
+        "lang": "sk",
+        "refcode": "SA 203.4"
+      },
+      {
+        "para_id": "11904.1350",
+        "lang": "tl",
+        "refcode": "AGA 257.2"
+      },
+      {
+        "para_id": "11875.1307",
+        "lang": "uk",
+        "refcode": "ДА 233.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1499",
+    "id_prev": "127.1498",
+    "id_next": "127.1502",
+    "refcode_1": "AA",
+    "refcode_2": "339",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 339.4",
+    "refcode_long": "The Acts of the Apostles, p. 339.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Not until God ceases to bless His children will they cease to be under bonds to return to Him the portion that He claims. Not only should they render the Lord the portion that belongs to Him, but they should bring also to His <span class=\"page-break\" data-page=\"340\"></span> treasury, as a gratitude offering, a liberal tribute. With joyful hearts they should dedicate to the Creator the first fruits of their bounties&mdash;their choicest possessions, their best and holiest service. Thus they will gain rich blessings. God Himself will make their souls like a watered garden whose waters fail not. And when the last great harvest is gathered in, the sheaves that they are enabled to bring to the Master will be the recompense of their unselfish use of the talents lent them.",
+    "puborder": 940,
+    "translations": [
+      {
+        "para_id": "13804.1128",
+        "lang": "bg",
+        "refcode": "Дa 132.2"
+      },
+      {
+        "para_id": "11590.1432",
+        "lang": "ce",
+        "refcode": "ABA 289.5"
+      },
+      {
+        "para_id": "11247.1368",
+        "lang": "cs",
+        "refcode": "PNL 195.5"
+      },
+      {
+        "para_id": "813.1498",
+        "lang": "de",
+        "refcode": "WA 339.2"
+      },
+      {
+        "para_id": "198.1401",
+        "lang": "es",
+        "refcode": "HAp 273.4"
+      },
+      {
+        "para_id": "158.1430",
+        "lang": "fr",
+        "refcode": "CP 301.2"
+      },
+      {
+        "para_id": "11938.1299",
+        "lang": "hu",
+        "refcode": "AT 223.6"
+      },
+      {
+        "para_id": "12410.1396",
+        "lang": "id",
+        "refcode": "KR 285.5"
+      },
+      {
+        "para_id": "882.1301",
+        "lang": "it",
+        "refcode": "UVI 213.5"
+      },
+      {
+        "para_id": "12335.1245",
+        "lang": "nb",
+        "refcode": "AV 196.4"
+      },
+      {
+        "para_id": "12008.1167",
+        "lang": "pl",
+        "refcode": "DA 186.5"
+      },
+      {
+        "para_id": "1806.1233",
+        "lang": "pt",
+        "refcode": "AA 176.6"
+      },
+      {
+        "para_id": "2013.1487",
+        "lang": "ro",
+        "refcode": "FA 339.4"
+      },
+      {
+        "para_id": "1785.1461",
+        "lang": "ru",
+        "refcode": "ДА 339.4"
+      },
+      {
+        "para_id": "13874.1249",
+        "lang": "rw",
+        "refcode": "INI 210.1"
+      },
+      {
+        "para_id": "11182.1233",
+        "lang": "sk",
+        "refcode": "SA 203.5"
+      },
+      {
+        "para_id": "11904.1351",
+        "lang": "tl",
+        "refcode": "AGA 257.3"
+      },
+      {
+        "para_id": "11875.1308",
+        "lang": "uk",
+        "refcode": "ДА 233.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1502",
+    "id_prev": "127.1499",
+    "id_next": "127.1503",
+    "refcode_1": "AA",
+    "refcode_2": "340",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 340.1",
+    "refcode_long": "The Acts of the Apostles, p. 340.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God&apos;s chosen messengers, who are engaged in aggressive labor, should never be compelled to go a warfare at their own charges, unaided by the sympathetic and hearty support of their brethren. It is the part of church members to deal liberally with those who lay aside their secular employment that they may give themselves to the ministry. When God&apos;s ministers are encouraged, His cause is greatly advanced. But when, through the selfishness of men, their rightful support is withheld, their hands are weakened, and often their usefulness is seriously crippled.",
+    "puborder": 941,
+    "translations": [
+      {
+        "para_id": "13804.1129",
+        "lang": "bg",
+        "refcode": "Дa 132.3"
+      },
+      {
+        "para_id": "11590.1435",
+        "lang": "ce",
+        "refcode": "ABA 290.1"
+      },
+      {
+        "para_id": "11247.1370",
+        "lang": "cs",
+        "refcode": "PNL 195.6"
+      },
+      {
+        "para_id": "813.1499",
+        "lang": "de",
+        "refcode": "WA 339.3"
+      },
+      {
+        "para_id": "198.1404",
+        "lang": "es",
+        "refcode": "HAp 274.1"
+      },
+      {
+        "para_id": "158.1431",
+        "lang": "fr",
+        "refcode": "CP 301.3"
+      },
+      {
+        "para_id": "11938.1302",
+        "lang": "hu",
+        "refcode": "AT 224.1"
+      },
+      {
+        "para_id": "12410.1399",
+        "lang": "id",
+        "refcode": "KR 286.1"
+      },
+      {
+        "para_id": "882.1304",
+        "lang": "it",
+        "refcode": "UVI 214.1"
+      },
+      {
+        "para_id": "12335.1246",
+        "lang": "nb",
+        "refcode": "AV 196.5"
+      },
+      {
+        "para_id": "12008.1168",
+        "lang": "pl",
+        "refcode": "DA 186.6"
+      },
+      {
+        "para_id": "1806.1233",
+        "lang": "pt",
+        "refcode": "AA 176.6"
+      },
+      {
+        "para_id": "2013.1490",
+        "lang": "ro",
+        "refcode": "FA 340.1"
+      },
+      {
+        "para_id": "1785.1464",
+        "lang": "ru",
+        "refcode": "ДА 340.1"
+      },
+      {
+        "para_id": "13874.1250",
+        "lang": "rw",
+        "refcode": "INI 210.2"
+      },
+      {
+        "para_id": "11182.1235",
+        "lang": "sk",
+        "refcode": "SA 204.1"
+      },
+      {
+        "para_id": "11904.1352",
+        "lang": "tl",
+        "refcode": "AGA 257.4"
+      },
+      {
+        "para_id": "11875.1309",
+        "lang": "uk",
+        "refcode": "ДА 233.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1503",
+    "id_prev": "127.1502",
+    "id_next": "127.1506",
+    "refcode_1": "AA",
+    "refcode_2": "340",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 340.2",
+    "refcode_long": "The Acts of the Apostles, p. 340.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The displeasure of God is kindled against those who claim to be His followers, yet allow consecrated workers to suffer for the necessities of life while engaged in active ministry. These selfish ones will be called to render an account, not only for the misuse of their Lord&apos;s money, but for the depression and heartache which their course has brought upon His faithful servants. Those who are called to the work of the ministry, and at the call of duty give up all to engage in God&apos;s service, should receive for their self-sacrificing <span class=\"page-break\" data-page=\"341\"></span> efforts wages sufficient to support themselves and their families.",
+    "puborder": 942,
+    "translations": [
+      {
+        "para_id": "13804.1130",
+        "lang": "bg",
+        "refcode": "Дa 132.4"
+      },
+      {
+        "para_id": "11590.1436",
+        "lang": "ce",
+        "refcode": "ABA 290.2"
+      },
+      {
+        "para_id": "11247.1371",
+        "lang": "cs",
+        "refcode": "PNL 195.7"
+      },
+      {
+        "para_id": "813.1501",
+        "lang": "de",
+        "refcode": "WA 340.1"
+      },
+      {
+        "para_id": "198.1405",
+        "lang": "es",
+        "refcode": "HAp 274.2"
+      },
+      {
+        "para_id": "158.1432",
+        "lang": "fr",
+        "refcode": "CP 301.4"
+      },
+      {
+        "para_id": "11938.1303",
+        "lang": "hu",
+        "refcode": "AT 224.2"
+      },
+      {
+        "para_id": "12410.1400",
+        "lang": "id",
+        "refcode": "KR 286.2"
+      },
+      {
+        "para_id": "882.1305",
+        "lang": "it",
+        "refcode": "UVI 214.2"
+      },
+      {
+        "para_id": "12335.1248",
+        "lang": "nb",
+        "refcode": "AV 197.1"
+      },
+      {
+        "para_id": "12008.1171",
+        "lang": "pl",
+        "refcode": "DA 187.1"
+      },
+      {
+        "para_id": "1806.1236",
+        "lang": "pt",
+        "refcode": "AA 177.1"
+      },
+      {
+        "para_id": "2013.1491",
+        "lang": "ro",
+        "refcode": "FA 340.2"
+      },
+      {
+        "para_id": "1785.1465",
+        "lang": "ru",
+        "refcode": "ДА 340.2"
+      },
+      {
+        "para_id": "13874.1251",
+        "lang": "rw",
+        "refcode": "INI 210.3"
+      },
+      {
+        "para_id": "11182.1236",
+        "lang": "sk",
+        "refcode": "SA 204.2"
+      },
+      {
+        "para_id": "11904.1354",
+        "lang": "tl",
+        "refcode": "AGA 258.1"
+      },
+      {
+        "para_id": "11875.1310",
+        "lang": "uk",
+        "refcode": "ДА 233.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1506",
+    "id_prev": "127.1503",
+    "id_next": "127.1507",
+    "refcode_1": "AA",
+    "refcode_2": "341",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 341.1",
+    "refcode_long": "The Acts of the Apostles, p. 341.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the various departments of secular labor, mental and physical, faithful workmen can earn good wages. Is not the work of disseminating truth, and leading souls to Christ, of more importance than any ordinary business? And are not those who faithfully engage in this work justly entitled to ample remuneration? By our estimate of the relative value of labor for moral and for physical good, we show our appreciation of the heavenly in contrast with the earthly.",
+    "puborder": 943,
+    "translations": [
+      {
+        "para_id": "13804.1131",
+        "lang": "bg",
+        "refcode": "Дa 132.5"
+      },
+      {
+        "para_id": "11590.1437",
+        "lang": "ce",
+        "refcode": "ABA 290.3"
+      },
+      {
+        "para_id": "11247.1374",
+        "lang": "cs",
+        "refcode": "PNL 196.1"
+      },
+      {
+        "para_id": "813.1502",
+        "lang": "de",
+        "refcode": "WA 340.2"
+      },
+      {
+        "para_id": "198.1406",
+        "lang": "es",
+        "refcode": "HAp 274.3"
+      },
+      {
+        "para_id": "158.1435",
+        "lang": "fr",
+        "refcode": "CP 302.1"
+      },
+      {
+        "para_id": "158.1436",
+        "lang": "fr",
+        "refcode": "CP 302.2"
+      },
+      {
+        "para_id": "11938.1304",
+        "lang": "hu",
+        "refcode": "AT 224.3"
+      },
+      {
+        "para_id": "12410.1401",
+        "lang": "id",
+        "refcode": "KR 286.3"
+      },
+      {
+        "para_id": "882.1306",
+        "lang": "it",
+        "refcode": "UVI 214.3"
+      },
+      {
+        "para_id": "12335.1249",
+        "lang": "nb",
+        "refcode": "AV 197.2"
+      },
+      {
+        "para_id": "12008.1172",
+        "lang": "pl",
+        "refcode": "DA 187.2"
+      },
+      {
+        "para_id": "1806.1239",
+        "lang": "pt",
+        "refcode": "AA 177.4"
+      },
+      {
+        "para_id": "2013.1494",
+        "lang": "ro",
+        "refcode": "FA 341.1"
+      },
+      {
+        "para_id": "1785.1467",
+        "lang": "ru",
+        "refcode": "ДА 341.1"
+      },
+      {
+        "para_id": "13874.1252",
+        "lang": "rw",
+        "refcode": "INI 210.4"
+      },
+      {
+        "para_id": "11182.1237",
+        "lang": "sk",
+        "refcode": "SA 204.3"
+      },
+      {
+        "para_id": "11904.1355",
+        "lang": "tl",
+        "refcode": "AGA 258.2"
+      },
+      {
+        "para_id": "11875.1313",
+        "lang": "uk",
+        "refcode": "ДА 234.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1507",
+    "id_prev": "127.1506",
+    "id_next": "127.1508",
+    "refcode_1": "AA",
+    "refcode_2": "341",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 341.2",
+    "refcode_long": "The Acts of the Apostles, p. 341.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "That there may be funds in the treasury for the support of the ministry, and to meet the calls for assistance in missionary enterprises, it is necessary that the people of God give cheerfully and liberally. A solemn responsibility rests upon ministers to keep before the churches the needs of the cause of God and to educate them to be liberal. When this is neglected, and the churches fail to give for the necessities of others, not only does the work of the Lord suffer, but the blessing that should come to believers is withheld.",
+    "puborder": 944,
+    "translations": [
+      {
+        "para_id": "13804.1132",
+        "lang": "bg",
+        "refcode": "Дa 132.6"
+      },
+      {
+        "para_id": "11590.1440",
+        "lang": "ce",
+        "refcode": "ABA 291.1"
+      },
+      {
+        "para_id": "11247.1375",
+        "lang": "cs",
+        "refcode": "PNL 196.2"
+      },
+      {
+        "para_id": "813.1503",
+        "lang": "de",
+        "refcode": "WA 340.3"
+      },
+      {
+        "para_id": "198.1407",
+        "lang": "es",
+        "refcode": "HAp 274.4"
+      },
+      {
+        "para_id": "158.1437",
+        "lang": "fr",
+        "refcode": "CP 302.3"
+      },
+      {
+        "para_id": "11938.1305",
+        "lang": "hu",
+        "refcode": "AT 224.4"
+      },
+      {
+        "para_id": "12410.1404",
+        "lang": "id",
+        "refcode": "KR 287.1"
+      },
+      {
+        "para_id": "882.1307",
+        "lang": "it",
+        "refcode": "UVI 214.4"
+      },
+      {
+        "para_id": "12335.1250",
+        "lang": "nb",
+        "refcode": "AV 197.3"
+      },
+      {
+        "para_id": "12008.1173",
+        "lang": "pl",
+        "refcode": "DA 187.3"
+      },
+      {
+        "para_id": "1806.1240",
+        "lang": "pt",
+        "refcode": "AA 177.5"
+      },
+      {
+        "para_id": "2013.1495",
+        "lang": "ro",
+        "refcode": "FA 341.2"
+      },
+      {
+        "para_id": "1785.1468",
+        "lang": "ru",
+        "refcode": "ДА 341.2"
+      },
+      {
+        "para_id": "13874.1254",
+        "lang": "rw",
+        "refcode": "INI 211.1"
+      },
+      {
+        "para_id": "11182.1238",
+        "lang": "sk",
+        "refcode": "SA 204.4"
+      },
+      {
+        "para_id": "11904.1356",
+        "lang": "tl",
+        "refcode": "AGA 258.3"
+      },
+      {
+        "para_id": "11875.1314",
+        "lang": "uk",
+        "refcode": "ДА 234.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1508",
+    "id_prev": "127.1507",
+    "id_next": "127.1510",
+    "refcode_1": "AA",
+    "refcode_2": "341",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 341.3",
+    "refcode_long": "The Acts of the Apostles, p. 341.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Even the very poor should bring their offerings to God. They are to be sharers of the grace of Christ by denying self to help those whose need is more pressing than their own. The poor man&apos;s gift, the fruit of self-denial, comes up before God as fragrant incense. And every act of self-sacrifice strengthens the spirit of beneficence in the giver&apos;s heart, allying him more closely to the One who was rich, yet for our sakes became poor, that we through His poverty might be rich.",
+    "puborder": 945,
+    "translations": [
+      {
+        "para_id": "13804.1133",
+        "lang": "bg",
+        "refcode": "Дa 132.7"
+      },
+      {
+        "para_id": "11590.1441",
+        "lang": "ce",
+        "refcode": "ABA 291.2"
+      },
+      {
+        "para_id": "11247.1377",
+        "lang": "cs",
+        "refcode": "PNL 196.3"
+      },
+      {
+        "para_id": "813.1505",
+        "lang": "de",
+        "refcode": "WA 341.1"
+      },
+      {
+        "para_id": "198.1410",
+        "lang": "es",
+        "refcode": "HAp 275.1"
+      },
+      {
+        "para_id": "158.1438",
+        "lang": "fr",
+        "refcode": "CP 302.4"
+      },
+      {
+        "para_id": "11938.1308",
+        "lang": "hu",
+        "refcode": "AT 225.1"
+      },
+      {
+        "para_id": "12410.1405",
+        "lang": "id",
+        "refcode": "KR 287.2"
+      },
+      {
+        "para_id": "882.1308",
+        "lang": "it",
+        "refcode": "UVI 214.5"
+      },
+      {
+        "para_id": "12335.1251",
+        "lang": "nb",
+        "refcode": "AV 197.4"
+      },
+      {
+        "para_id": "12008.1174",
+        "lang": "pl",
+        "refcode": "DA 187.4"
+      },
+      {
+        "para_id": "1806.1241",
+        "lang": "pt",
+        "refcode": "AA 177.6"
+      },
+      {
+        "para_id": "2013.1496",
+        "lang": "ro",
+        "refcode": "FA 341.3"
+      },
+      {
+        "para_id": "1785.1469",
+        "lang": "ru",
+        "refcode": "ДА 341.3"
+      },
+      {
+        "para_id": "13874.1255",
+        "lang": "rw",
+        "refcode": "INI 211.2"
+      },
+      {
+        "para_id": "11182.1239",
+        "lang": "sk",
+        "refcode": "SA 204.5"
+      },
+      {
+        "para_id": "11904.1357",
+        "lang": "tl",
+        "refcode": "AGA 258.4"
+      },
+      {
+        "para_id": "11875.1315",
+        "lang": "uk",
+        "refcode": "ДА 234.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1510",
+    "id_prev": "127.1508",
+    "id_next": "127.1511",
+    "refcode_1": "AA",
+    "refcode_2": "342",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 342.1",
+    "refcode_long": "The Acts of the Apostles, p. 342.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The act of the widow who cast two mites&mdash;all that she had&mdash;into the treasury, is placed on record for the encouragement of those who, struggling with poverty, still desire by their gifts to aid the cause of God. Christ called the attention of the disciples to this woman, who had given &ldquo;all her living.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Mark 12:44\" data-link=\"1965.50447\">Mark 12:44</span>. He esteemed her gift of more value than the large offerings of those whose alms did not call for self-denial. From their abundance they had given a small portion. To make her offering, the widow had deprived herself of even the necessities of life, trusting God to supply her needs for the morrow. Of her the Saviour declared, &ldquo;Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Mark 12:43\" data-link=\"1965.50445\">Verse 43</span>. Thus He taught that the value of the gift is estimated not by the amount, but by the proportion that is given and the motive that actuates the giver.",
+    "puborder": 946,
+    "translations": [
+      {
+        "para_id": "13804.1135",
+        "lang": "bg",
+        "refcode": "Дa 133.1"
+      },
+      {
+        "para_id": "11590.1442",
+        "lang": "ce",
+        "refcode": "ABA 291.3"
+      },
+      {
+        "para_id": "11247.1378",
+        "lang": "cs",
+        "refcode": "PNL 196.4"
+      },
+      {
+        "para_id": "813.1506",
+        "lang": "de",
+        "refcode": "WA 341.2"
+      },
+      {
+        "para_id": "198.1411",
+        "lang": "es",
+        "refcode": "HAp 275.2"
+      },
+      {
+        "para_id": "158.1439",
+        "lang": "fr",
+        "refcode": "CP 302.5"
+      },
+      {
+        "para_id": "11938.1309",
+        "lang": "hu",
+        "refcode": "AT 225.2"
+      },
+      {
+        "para_id": "12410.1406",
+        "lang": "id",
+        "refcode": "KR 287.3"
+      },
+      {
+        "para_id": "882.1311",
+        "lang": "it",
+        "refcode": "UVI 215.1"
+      },
+      {
+        "para_id": "12335.1252",
+        "lang": "nb",
+        "refcode": "AV 197.5"
+      },
+      {
+        "para_id": "12008.1175",
+        "lang": "pl",
+        "refcode": "DA 187.5"
+      },
+      {
+        "para_id": "1806.1242",
+        "lang": "pt",
+        "refcode": "AA 177.7"
+      },
+      {
+        "para_id": "2013.1498",
+        "lang": "ro",
+        "refcode": "FA 342.1"
+      },
+      {
+        "para_id": "1785.1471",
+        "lang": "ru",
+        "refcode": "ДА 342.1"
+      },
+      {
+        "para_id": "13874.1256",
+        "lang": "rw",
+        "refcode": "INI 211.3"
+      },
+      {
+        "para_id": "11182.1242",
+        "lang": "sk",
+        "refcode": "SA 205.1"
+      },
+      {
+        "para_id": "11904.1360",
+        "lang": "tl",
+        "refcode": "AGA 259.1"
+      },
+      {
+        "para_id": "11875.1316",
+        "lang": "uk",
+        "refcode": "ДА 234.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1511",
+    "id_prev": "127.1510",
+    "id_next": "127.1514",
+    "refcode_1": "AA",
+    "refcode_2": "342",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 342.2",
+    "refcode_long": "The Acts of the Apostles, p. 342.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle Paul in his ministry among the churches was untiring in his efforts to inspire in the hearts of the new converts a desire to do large things for the cause of God. Often he exhorted them to the exercise of liberality. In speaking to the elders of Ephesus of his former labors among them, he said, &ldquo;I have showed you all things, how that so laboring ye ought to support the weak, and to remember the words of the Lord Jesus, how He said, It is more blessed to give than to receive.&rdquo; &ldquo;He which soweth sparingly,&rdquo; he wrote to the Corinthians, &ldquo;shall reap also sparingly; and he which soweth bountifully shall reap also bountifully. Every man according as he purposeth in his heart, so let him give; <span class=\"page-break\" data-page=\"343\"></span> not grudgingly, or of necessity: for God loveth a cheerful giver.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 20:35\" data-link=\"1965.56407\">Acts 20:35</span>; <span class=\"egwlink egwlink_bible\" title=\"2 Corinthians 9:6\" data-link=\"1965.59061\">2 Corinthians 9:6, 7</span>.",
+    "puborder": 947,
+    "translations": [
+      {
+        "para_id": "13804.1136",
+        "lang": "bg",
+        "refcode": "Дa 133.2"
+      },
+      {
+        "para_id": "11590.1445",
+        "lang": "ce",
+        "refcode": "ABA 292.1"
+      },
+      {
+        "para_id": "11247.1379",
+        "lang": "cs",
+        "refcode": "PNL 196.5"
+      },
+      {
+        "para_id": "813.1507",
+        "lang": "de",
+        "refcode": "WA 341.3"
+      },
+      {
+        "para_id": "198.1412",
+        "lang": "es",
+        "refcode": "HAp 275.3"
+      },
+      {
+        "para_id": "158.1442",
+        "lang": "fr",
+        "refcode": "CP 303.1"
+      },
+      {
+        "para_id": "11938.1310",
+        "lang": "hu",
+        "refcode": "AT 225.3"
+      },
+      {
+        "para_id": "12410.1409",
+        "lang": "id",
+        "refcode": "KR 288.1"
+      },
+      {
+        "para_id": "882.1312",
+        "lang": "it",
+        "refcode": "UVI 215.2"
+      },
+      {
+        "para_id": "12335.1255",
+        "lang": "nb",
+        "refcode": "AV 198.1"
+      },
+      {
+        "para_id": "12008.1177",
+        "lang": "pl",
+        "refcode": "DA 188.1"
+      },
+      {
+        "para_id": "1806.1242",
+        "lang": "pt",
+        "refcode": "AA 177.7"
+      },
+      {
+        "para_id": "2013.1499",
+        "lang": "ro",
+        "refcode": "FA 342.2"
+      },
+      {
+        "para_id": "1785.1472",
+        "lang": "ru",
+        "refcode": "ДА 342.2"
+      },
+      {
+        "para_id": "13874.1257",
+        "lang": "rw",
+        "refcode": "INI 211.4"
+      },
+      {
+        "para_id": "11182.1243",
+        "lang": "sk",
+        "refcode": "SA 205.2"
+      },
+      {
+        "para_id": "11904.1361",
+        "lang": "tl",
+        "refcode": "AGA 259.2"
+      },
+      {
+        "para_id": "11875.1319",
+        "lang": "uk",
+        "refcode": "ДА 235.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1514",
+    "id_prev": "127.1511",
+    "id_next": "127.1515",
+    "refcode_1": "AA",
+    "refcode_2": "343",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 343.1",
+    "refcode_long": "The Acts of the Apostles, p. 343.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Nearly all the Macedonian believers were poor in this world&apos;s goods, but their hearts were overflowing with love for God and His truth, and they gladly gave for the support of the gospel. When general collections were taken up in the Gentile churches for the relief of the Jewish believers, the liberality of the converts in Macedonia was held up as an example to other churches. Writing to the Corinthian believers, the apostle called their attention to &ldquo;the grace of God bestowed on the churches of Macedonia; how that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality. For to their power, ... yea, and beyond their power they were willing of themselves; praying us with much entreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"2 Corinthians 8:1\" data-link=\"1965.59002\">2 Corinthians 8:1-4</span>.",
+    "puborder": 948,
+    "translations": [
+      {
+        "para_id": "13804.1137",
+        "lang": "bg",
+        "refcode": "Дa 133.3"
+      },
+      {
+        "para_id": "11590.1446",
+        "lang": "ce",
+        "refcode": "ABA 292.2"
+      },
+      {
+        "para_id": "11247.1382",
+        "lang": "cs",
+        "refcode": "PNL 197.1"
+      },
+      {
+        "para_id": "813.1510",
+        "lang": "de",
+        "refcode": "WA 342.1"
+      },
+      {
+        "para_id": "198.1415",
+        "lang": "es",
+        "refcode": "HAp 276.1"
+      },
+      {
+        "para_id": "158.1444",
+        "lang": "fr",
+        "refcode": "CP 303.3"
+      },
+      {
+        "para_id": "158.1443",
+        "lang": "fr",
+        "refcode": "CP 303.2"
+      },
+      {
+        "para_id": "11938.1312",
+        "lang": "hu",
+        "refcode": "AT 226.1"
+      },
+      {
+        "para_id": "12410.1410",
+        "lang": "id",
+        "refcode": "KR 288.2"
+      },
+      {
+        "para_id": "882.1313",
+        "lang": "it",
+        "refcode": "UVI 215.3"
+      },
+      {
+        "para_id": "12335.1256",
+        "lang": "nb",
+        "refcode": "AV 198.2"
+      },
+      {
+        "para_id": "12008.1178",
+        "lang": "pl",
+        "refcode": "DA 188.2"
+      },
+      {
+        "para_id": "1806.1246",
+        "lang": "pt",
+        "refcode": "AA 178.2"
+      },
+      {
+        "para_id": "2013.1502",
+        "lang": "ro",
+        "refcode": "FA 343.1"
+      },
+      {
+        "para_id": "1785.1475",
+        "lang": "ru",
+        "refcode": "ДА 343.1"
+      },
+      {
+        "para_id": "13874.1260",
+        "lang": "rw",
+        "refcode": "INI 212.1"
+      },
+      {
+        "para_id": "11182.1244",
+        "lang": "sk",
+        "refcode": "SA 205.3"
+      },
+      {
+        "para_id": "11904.1362",
+        "lang": "tl",
+        "refcode": "AGA 259.3"
+      },
+      {
+        "para_id": "11875.1320",
+        "lang": "uk",
+        "refcode": "ДА 235.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1515",
+    "id_prev": "127.1514",
+    "id_next": "127.1518",
+    "refcode_1": "AA",
+    "refcode_2": "343",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 343.2",
+    "refcode_long": "The Acts of the Apostles, p. 343.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The willingness to sacrifice on the part of the Macedonian believers came as a result of wholehearted consecration. Moved by the Spirit of God, they &ldquo;first gave their own selves to the Lord&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"2 Corinthians 8:5\" data-link=\"1965.59010\">2 Corinthians 8:5</span>), then they were willing to give freely of their means for the support of the gospel. It was not necessary to urge them to give; rather, they rejoiced in the privilege of denying themselves even of necessary things in order to supply the needs of others. When the apostle would have restrained them, they importuned him to accept their offering. In their simplicity and integrity, <span class=\"page-break\" data-page=\"344\"></span> and in their love for the brethren, they gladly denied self, and thus abounded in the fruit of benevolence.",
+    "puborder": 949,
+    "translations": [
+      {
+        "para_id": "13804.1138",
+        "lang": "bg",
+        "refcode": "Дa 133.4"
+      },
+      {
+        "para_id": "11590.1449",
+        "lang": "ce",
+        "refcode": "ABA 293.1"
+      },
+      {
+        "para_id": "11247.1383",
+        "lang": "cs",
+        "refcode": "PNL 197.2"
+      },
+      {
+        "para_id": "813.1511",
+        "lang": "de",
+        "refcode": "WA 342.2"
+      },
+      {
+        "para_id": "198.1416",
+        "lang": "es",
+        "refcode": "HAp 276.2"
+      },
+      {
+        "para_id": "158.1447",
+        "lang": "fr",
+        "refcode": "CP 304.1"
+      },
+      {
+        "para_id": "11938.1313",
+        "lang": "hu",
+        "refcode": "AT 226.2"
+      },
+      {
+        "para_id": "12410.1413",
+        "lang": "id",
+        "refcode": "KR 289.1"
+      },
+      {
+        "para_id": "882.1316",
+        "lang": "it",
+        "refcode": "UVI 216.1"
+      },
+      {
+        "para_id": "12335.1257",
+        "lang": "nb",
+        "refcode": "AV 198.3"
+      },
+      {
+        "para_id": "12008.1179",
+        "lang": "pl",
+        "refcode": "DA 188.3"
+      },
+      {
+        "para_id": "1806.1247",
+        "lang": "pt",
+        "refcode": "AA 178.3"
+      },
+      {
+        "para_id": "2013.1503",
+        "lang": "ro",
+        "refcode": "FA 343.2"
+      },
+      {
+        "para_id": "1785.1476",
+        "lang": "ru",
+        "refcode": "ДА 343.2"
+      },
+      {
+        "para_id": "13874.1261",
+        "lang": "rw",
+        "refcode": "INI 212.2"
+      },
+      {
+        "para_id": "11182.1245",
+        "lang": "sk",
+        "refcode": "SA 205.4"
+      },
+      {
+        "para_id": "11904.1365",
+        "lang": "tl",
+        "refcode": "AGA 260.1"
+      },
+      {
+        "para_id": "11875.1322",
+        "lang": "uk",
+        "refcode": "ДА 236.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1518",
+    "id_prev": "127.1515",
+    "id_next": "127.1519",
+    "refcode_1": "AA",
+    "refcode_2": "344",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 344.1",
+    "refcode_long": "The Acts of the Apostles, p. 344.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When Paul sent Titus to Corinth to strengthen the believers there, he instructed him to build up that church in the grace of giving, and in a personal letter to the believers he also added his own appeal. &ldquo;As ye abound in everything,&rdquo; he pleaded, &ldquo;in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that ye abound in this grace also,&rdquo; &ldquo;Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have. For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not.&rdquo; &ldquo;And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work: ... being enriched in everything to all bountifulness, which causeth through us thanksgiving to God.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"2 Corinthians 8:7\" data-link=\"1965.59014\">2 Corinthians 8:7, 11, 12</span>; <span class=\"egwlink egwlink_bible\" title=\"2 Corinthians 9:8\" data-link=\"1965.59065\">9:8-11</span>.",
+    "puborder": 950,
+    "translations": [
+      {
+        "para_id": "13804.1139",
+        "lang": "bg",
+        "refcode": "Дa 133.5"
+      },
+      {
+        "para_id": "11590.1450",
+        "lang": "ce",
+        "refcode": "ABA 293.2"
+      },
+      {
+        "para_id": "11247.1384",
+        "lang": "cs",
+        "refcode": "PNL 197.3"
+      },
+      {
+        "para_id": "813.1514",
+        "lang": "de",
+        "refcode": "WA 343.1"
+      },
+      {
+        "para_id": "198.1417",
+        "lang": "es",
+        "refcode": "HAp 276.3"
+      },
+      {
+        "para_id": "158.1448",
+        "lang": "fr",
+        "refcode": "CP 304.2"
+      },
+      {
+        "para_id": "11938.1314",
+        "lang": "hu",
+        "refcode": "AT 226.3"
+      },
+      {
+        "para_id": "12410.1414",
+        "lang": "id",
+        "refcode": "KR 289.2"
+      },
+      {
+        "para_id": "882.1317",
+        "lang": "it",
+        "refcode": "UVI 216.2"
+      },
+      {
+        "para_id": "12335.1258",
+        "lang": "nb",
+        "refcode": "AV 198.4"
+      },
+      {
+        "para_id": "12008.1180",
+        "lang": "pl",
+        "refcode": "DA 188.4"
+      },
+      {
+        "para_id": "1806.1248",
+        "lang": "pt",
+        "refcode": "AA 178.4"
+      },
+      {
+        "para_id": "2013.1506",
+        "lang": "ro",
+        "refcode": "FA 344.1"
+      },
+      {
+        "para_id": "1785.1479",
+        "lang": "ru",
+        "refcode": "ДА 344.1"
+      },
+      {
+        "para_id": "13874.1262",
+        "lang": "rw",
+        "refcode": "INI 212.3"
+      },
+      {
+        "para_id": "11182.1248",
+        "lang": "sk",
+        "refcode": "SA 206.1"
+      },
+      {
+        "para_id": "11904.1366",
+        "lang": "tl",
+        "refcode": "AGA 260.2"
+      },
+      {
+        "para_id": "11875.1323",
+        "lang": "uk",
+        "refcode": "ДА 236.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1519",
+    "id_prev": "127.1518",
+    "id_next": "127.1520",
+    "refcode_1": "AA",
+    "refcode_2": "344",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 344.2",
+    "refcode_long": "The Acts of the Apostles, p. 344.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Unselfish liberality threw the early church into a transport of joy; for the believers knew that their efforts were helping to send the gospel message to those in darkness. Their benevolence testified that they had not received the grace of God in vain. What could produce such liberality but the sanctification of the Spirit? In the eyes of believers and unbelievers it was a miracle of grace.",
+    "puborder": 951,
+    "translations": [
+      {
+        "para_id": "13804.1142",
+        "lang": "bg",
+        "refcode": "Дa 134.1"
+      },
+      {
+        "para_id": "11590.1451",
+        "lang": "ce",
+        "refcode": "ABA 293.3"
+      },
+      {
+        "para_id": "11247.1385",
+        "lang": "cs",
+        "refcode": "PNL 197.4"
+      },
+      {
+        "para_id": "813.1515",
+        "lang": "de",
+        "refcode": "WA 343.2"
+      },
+      {
+        "para_id": "198.1420",
+        "lang": "es",
+        "refcode": "HAp 277.1"
+      },
+      {
+        "para_id": "158.1449",
+        "lang": "fr",
+        "refcode": "CP 304.3"
+      },
+      {
+        "para_id": "11938.1317",
+        "lang": "hu",
+        "refcode": "AT 227.1"
+      },
+      {
+        "para_id": "12410.1415",
+        "lang": "id",
+        "refcode": "KR 289.3"
+      },
+      {
+        "para_id": "882.1318",
+        "lang": "it",
+        "refcode": "UVI 216.3"
+      },
+      {
+        "para_id": "12335.1261",
+        "lang": "nb",
+        "refcode": "AV 199.1"
+      },
+      {
+        "para_id": "12008.1183",
+        "lang": "pl",
+        "refcode": "DA 189.1"
+      },
+      {
+        "para_id": "1806.1251",
+        "lang": "pt",
+        "refcode": "AA 179.2"
+      },
+      {
+        "para_id": "2013.1507",
+        "lang": "ro",
+        "refcode": "FA 344.2"
+      },
+      {
+        "para_id": "1785.1480",
+        "lang": "ru",
+        "refcode": "ДА 344.2"
+      },
+      {
+        "para_id": "13874.1265",
+        "lang": "rw",
+        "refcode": "INI 213.1"
+      },
+      {
+        "para_id": "11182.1249",
+        "lang": "sk",
+        "refcode": "SA 206.2"
+      },
+      {
+        "para_id": "11904.1367",
+        "lang": "tl",
+        "refcode": "AGA 260.3"
+      },
+      {
+        "para_id": "11875.1324",
+        "lang": "uk",
+        "refcode": "ДА 236.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1520",
+    "id_prev": "127.1519",
+    "id_next": "127.1523",
+    "refcode_1": "AA",
+    "refcode_2": "344",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 344.3",
+    "refcode_long": "The Acts of the Apostles, p. 344.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Spiritual prosperity is closely bound up with Christian liberality. The followers of Christ should rejoice in the privilege of revealing in their lives the beneficence of their <span class=\"page-break\" data-page=\"345\"></span> Redeemer. As they give to the Lord they have the assurance that their treasure is going before them to the heavenly courts. Would men make their property secure? Let them place it in the hands that bear the marks of the crucifixion. Would they enjoy their substance? Let them use it to bless the needy and suffering. Would they increase their possessions? Let them heed the divine injunction, &ldquo;Honor the Lord with thy substance, and with the first fruits of all thine increase: so shall thy barns be filled with plenty, and thy presses shall burst out with new wine.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Proverbs 3:9\" data-link=\"1965.33582\">Proverbs 3:9, 10</span>. Let them seek to retain their possessions for selfish purposes, and it will be to their eternal loss. But let their treasure be given to God, and from that moment it bears His inscription. It is sealed with His immutability.",
+    "puborder": 952,
+    "translations": [
+      {
+        "para_id": "13804.1143",
+        "lang": "bg",
+        "refcode": "Дa 134.2"
+      },
+      {
+        "para_id": "11590.1454",
+        "lang": "ce",
+        "refcode": "ABA 294.1"
+      },
+      {
+        "para_id": "11247.1388",
+        "lang": "cs",
+        "refcode": "PNL 198.1"
+      },
+      {
+        "para_id": "813.1516",
+        "lang": "de",
+        "refcode": "WA 343.3"
+      },
+      {
+        "para_id": "198.1421",
+        "lang": "es",
+        "refcode": "HAp 277.2"
+      },
+      {
+        "para_id": "158.1452",
+        "lang": "fr",
+        "refcode": "CP 305.1"
+      },
+      {
+        "para_id": "11938.1318",
+        "lang": "hu",
+        "refcode": "AT 227.2"
+      },
+      {
+        "para_id": "12410.1418",
+        "lang": "id",
+        "refcode": "KR 290.1"
+      },
+      {
+        "para_id": "882.1319",
+        "lang": "it",
+        "refcode": "UVI 216.4"
+      },
+      {
+        "para_id": "12335.1262",
+        "lang": "nb",
+        "refcode": "AV 199.2"
+      },
+      {
+        "para_id": "12008.1184",
+        "lang": "pl",
+        "refcode": "DA 189.2"
+      },
+      {
+        "para_id": "1806.1252",
+        "lang": "pt",
+        "refcode": "AA 179.3"
+      },
+      {
+        "para_id": "2013.1508",
+        "lang": "ro",
+        "refcode": "FA 344.3"
+      },
+      {
+        "para_id": "1785.1481",
+        "lang": "ru",
+        "refcode": "ДА 344.3"
+      },
+      {
+        "para_id": "13874.1266",
+        "lang": "rw",
+        "refcode": "INI 213.2"
+      },
+      {
+        "para_id": "11182.1250",
+        "lang": "sk",
+        "refcode": "SA 206.3"
+      },
+      {
+        "para_id": "11904.1370",
+        "lang": "tl",
+        "refcode": "AGA 261.1"
+      },
+      {
+        "para_id": "11875.1325",
+        "lang": "uk",
+        "refcode": "ДА 236.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1523",
+    "id_prev": "127.1520",
+    "id_next": "127.1525",
+    "refcode_1": "AA",
+    "refcode_2": "345",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 345.1",
+    "refcode_long": "The Acts of the Apostles, p. 345.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God declares, &ldquo;Blessed are ye that sow beside all waters.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 32:20\" data-link=\"1965.37295\">Isaiah 32:20</span>. A continual imparting of God&apos;s gifts wherever the cause of God or the needs of humanity demand our aid, does not tend to poverty. &ldquo;There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Proverbs 11:24\" data-link=\"1965.34086\">Proverbs 11:24</span>. The sower multiplies his seed by casting it away. So it is with those who are faithful in distributing God&apos;s gifts. By imparting they increase their blessings. &ldquo;Give, and it shall be given unto you,&rdquo; God has promised; &ldquo;good measure, pressed down, and shaken together, and running over, shall men give into your bosom.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Luke 6:38\" data-link=\"1965.51392\">Luke 6:38</span>.",
+    "puborder": 953,
+    "translations": [
+      {
+        "para_id": "13804.1144",
+        "lang": "bg",
+        "refcode": "Дa 134.3"
+      },
+      {
+        "para_id": "11590.1455",
+        "lang": "ce",
+        "refcode": "ABA 294.2"
+      },
+      {
+        "para_id": "11247.1389",
+        "lang": "cs",
+        "refcode": "PNL 198.2"
+      },
+      {
+        "para_id": "813.1519",
+        "lang": "de",
+        "refcode": "WA 344.1"
+      },
+      {
+        "para_id": "198.1424",
+        "lang": "es",
+        "refcode": "HAp 278.1"
+      },
+      {
+        "para_id": "158.1455",
+        "lang": "fr",
+        "refcode": "CP 305.4"
+      },
+      {
+        "para_id": "11938.1319",
+        "lang": "hu",
+        "refcode": "AT 227.3"
+      },
+      {
+        "para_id": "12410.1419",
+        "lang": "id",
+        "refcode": "KR 290.2"
+      },
+      {
+        "para_id": "882.1322",
+        "lang": "it",
+        "refcode": "UVI 217.1"
+      },
+      {
+        "para_id": "12335.1263",
+        "lang": "nb",
+        "refcode": "AV 199.3"
+      },
+      {
+        "para_id": "12008.1185",
+        "lang": "pl",
+        "refcode": "DA 189.3"
+      },
+      {
+        "para_id": "1806.1253",
+        "lang": "pt",
+        "refcode": "AA 179.4"
+      },
+      {
+        "para_id": "2013.1511",
+        "lang": "ro",
+        "refcode": "FA 345.1"
+      },
+      {
+        "para_id": "1785.1484",
+        "lang": "ru",
+        "refcode": "ДА 345.1"
+      },
+      {
+        "para_id": "13874.1267",
+        "lang": "rw",
+        "refcode": "INI 213.3"
+      },
+      {
+        "para_id": "11182.1251",
+        "lang": "sk",
+        "refcode": "SA 206.4"
+      },
+      {
+        "para_id": "11904.1371",
+        "lang": "tl",
+        "refcode": "AGA 261.2"
+      },
+      {
+        "para_id": "11875.1328",
+        "lang": "uk",
+        "refcode": "ДА 237.1"
+      }
+    ]
+  }
+]

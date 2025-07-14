@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.788",
+    "id_prev": "21.787",
+    "id_next": "21.789",
+    "refcode_1": "CSW",
+    "refcode_2": "169",
+    "refcode_3": "",
+    "refcode_4": "131",
+    "refcode_short": "CSW 169",
+    "refcode_long": "Counsels on Sabbath School Work, p. 169 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Punctuality",
+    "puborder": 497,
+    "translations": [
+      {
+        "para_id": "11629.767",
+        "lang": "da",
+        "refcode": "RSSA 169"
+      },
+      {
+        "para_id": "799.739",
+        "lang": "de",
+        "refcode": "RSs 138"
+      },
+      {
+        "para_id": "1711.848",
+        "lang": "es",
+        "refcode": "COES 190"
+      },
+      {
+        "para_id": "1724.831",
+        "lang": "pt",
+        "refcode": "CES 169"
+      },
+      {
+        "para_id": "1917.930",
+        "lang": "pt",
+        "refcode": "CES38 89"
+      },
+      {
+        "para_id": "2719.807",
+        "lang": "ro",
+        "refcode": "SSS 169"
+      },
+      {
+        "para_id": "1873.782",
+        "lang": "ru",
+        "refcode": "ССШ 169"
+      }
+    ]
+  },
+  {
+    "para_id": "21.789",
+    "id_prev": "21.788",
+    "id_next": "21.792",
+    "refcode_1": "CSW",
+    "refcode_2": "169",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 169.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 169.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is a sad failing with many that they are always behind time on Sabbath morning. They are very <span class=\"page-break\" data-page=\"170\"></span> particular about their own time, they cannot afford to lose an hour of that; but the Lord&apos;s time, the only day out of the seven that the Lord claims as His, and requires us to devote to Him, quite a portion of this is squandered away by sleeping late in the morning. In this they are robbing God. It causes them to be behind in everything; it makes confusion in the family; and finally results in the tardiness of the entire family at Sabbath school, and perhaps at meeting. Now why can we not rise early with the birds, and offer praise and thanksgiving to God? Try it, brethren and sisters. Have your preparations all made the day before, and come promptly to the Sabbath school and meeting, and you will thereby not only benefit others, but you will reap rich blessings for yourselves.&mdash;<span class=\"egwlink egwlink_book\" title=\"YI 3-19-1879\" data-link=\"469.428\">Youth&apos;s Instructor, March 19, 1879</span>.",
+    "puborder": 498,
+    "translations": [
+      {
+        "para_id": "11629.768",
+        "lang": "da",
+        "refcode": "RSSA 169.2"
+      },
+      {
+        "para_id": "799.740",
+        "lang": "de",
+        "refcode": "RSs 138.1"
+      },
+      {
+        "para_id": "1711.849",
+        "lang": "es",
+        "refcode": "COES 190.1"
+      },
+      {
+        "para_id": "1917.931",
+        "lang": "pt",
+        "refcode": "CES38 89.2"
+      },
+      {
+        "para_id": "1724.832",
+        "lang": "pt",
+        "refcode": "CES 169.2"
+      },
+      {
+        "para_id": "2719.808",
+        "lang": "ro",
+        "refcode": "SSS 169.2"
+      },
+      {
+        "para_id": "1873.783",
+        "lang": "ru",
+        "refcode": "ССШ 169.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.792",
+    "id_prev": "21.789",
+    "id_next": "21.793",
+    "refcode_1": "CSW",
+    "refcode_2": "170",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 170.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 170.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Punctuality and decision in the work and cause of God are highly essential.&mdash;<span class=\"egwlink egwlink_book\" title=\"3T 500.1\" data-link=\"119.2356\"><em>Testimonies for the Church</em> 3:500</span>.",
+    "puborder": 499,
+    "translations": [
+      {
+        "para_id": "11629.771",
+        "lang": "da",
+        "refcode": "RSSA 170.1"
+      },
+      {
+        "para_id": "799.741",
+        "lang": "de",
+        "refcode": "RSs 138.2"
+      },
+      {
+        "para_id": "1711.850",
+        "lang": "es",
+        "refcode": "COES 190.2"
+      },
+      {
+        "para_id": "1917.934",
+        "lang": "pt",
+        "refcode": "CES38 89.4"
+      },
+      {
+        "para_id": "1724.835",
+        "lang": "pt",
+        "refcode": "CES 170.1"
+      },
+      {
+        "para_id": "2719.811",
+        "lang": "ro",
+        "refcode": "SSS 170.1"
+      },
+      {
+        "para_id": "1873.786",
+        "lang": "ru",
+        "refcode": "ССШ 170.1"
+      }
+    ]
+  }
+]

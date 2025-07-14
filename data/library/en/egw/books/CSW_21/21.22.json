@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.22",
+    "id_prev": "21.21",
+    "id_next": "21.23",
+    "refcode_1": "CSW",
+    "refcode_2": "9",
+    "refcode_3": "",
+    "refcode_4": "2",
+    "refcode_short": "CSW 9",
+    "refcode_long": "Counsels on Sabbath School Work, p. 9 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Marvelous Power for Good",
+    "puborder": 12,
+    "translations": [
+      {
+        "para_id": "11629.7",
+        "lang": "da",
+        "refcode": "RSSA 9"
+      },
+      {
+        "para_id": "799.44",
+        "lang": "de",
+        "refcode": "RSs 14"
+      },
+      {
+        "para_id": "1711.36",
+        "lang": "es",
+        "refcode": "COES 9"
+      },
+      {
+        "para_id": "1724.48",
+        "lang": "pt",
+        "refcode": "CES 9"
+      },
+      {
+        "para_id": "1917.15",
+        "lang": "pt",
+        "refcode": "CES38 2"
+      },
+      {
+        "para_id": "2719.21",
+        "lang": "ro",
+        "refcode": "SSS 9"
+      },
+      {
+        "para_id": "1873.20",
+        "lang": "ru",
+        "refcode": "ССШ 9"
+      }
+    ]
+  },
+  {
+    "para_id": "21.23",
+    "id_prev": "21.22",
+    "id_next": "21.25",
+    "refcode_1": "CSW",
+    "refcode_2": "9",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 9.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 9.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Our Sabbath schools are nothing less than Bible societies, and in the sacred work of teaching the truths of God&apos;s word, they can accomplish far more than they have hitherto accomplished. The Sabbath school, when rightly managed, possesses marvelous power, and is adapted to doing a great work, but it is not now [<span class=\"non-egw-comment\">Written in 1889</span>] what it may and should be. The influence growing out of Sabbath school work should improve and enlarge the church; but in no case should it ever be allowed to divert from the interests of the church. There is a most precious missionary field in the Sabbath school, and if there are now omens of good, they are only indications and beginnings of what may be done.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 29.1\" data-link=\"121.105\"><em>Testimonies on Sabbath-School Work</em>, 29</span>.",
+    "puborder": 13,
+    "translations": [
+      {
+        "para_id": "11629.8",
+        "lang": "da",
+        "refcode": "RSSA 9.2"
+      },
+      {
+        "para_id": "799.45",
+        "lang": "de",
+        "refcode": "RSs 14.2"
+      },
+      {
+        "para_id": "1711.37",
+        "lang": "es",
+        "refcode": "COES 9.1"
+      },
+      {
+        "para_id": "1724.49",
+        "lang": "pt",
+        "refcode": "CES 9.2"
+      },
+      {
+        "para_id": "1917.16",
+        "lang": "pt",
+        "refcode": "CES38 2.2"
+      },
+      {
+        "para_id": "2719.22",
+        "lang": "ro",
+        "refcode": "SSS 9.2"
+      },
+      {
+        "para_id": "1873.21",
+        "lang": "ru",
+        "refcode": "ССШ 9.2"
+      }
+    ]
+  }
+]

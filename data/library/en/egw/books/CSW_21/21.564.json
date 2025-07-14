@@ -1,0 +1,111 @@
+[
+  {
+    "para_id": "21.564",
+    "id_prev": "21.563",
+    "id_next": "21.565",
+    "refcode_1": "CSW",
+    "refcode_2": "121",
+    "refcode_3": "",
+    "refcode_4": "83",
+    "refcode_short": "CSW 121",
+    "refcode_long": "Counsels on Sabbath School Work, p. 121 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Temptation to Reveal Self",
+    "puborder": 354,
+    "translations": [
+      {
+        "para_id": "11629.537",
+        "lang": "da",
+        "refcode": "RSSA 121"
+      },
+      {
+        "para_id": "799.536",
+        "lang": "de",
+        "refcode": "RSs 101"
+      },
+      {
+        "para_id": "1711.603",
+        "lang": "es",
+        "refcode": "COES 135"
+      },
+      {
+        "para_id": "1724.599",
+        "lang": "pt",
+        "refcode": "CES 121"
+      },
+      {
+        "para_id": "1917.661",
+        "lang": "pt",
+        "refcode": "CES38 63"
+      },
+      {
+        "para_id": "2719.580",
+        "lang": "ro",
+        "refcode": "SSS 121"
+      },
+      {
+        "para_id": "1873.559",
+        "lang": "ru",
+        "refcode": "ССШ 121"
+      }
+    ]
+  },
+  {
+    "para_id": "21.565",
+    "id_prev": "21.564",
+    "id_next": "21.568",
+    "refcode_1": "CSW",
+    "refcode_2": "121",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 121.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 121.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In every grade, in both primary and advanced classes, teachers need to look constantly to the great source of light for wisdom, for grace, and for power to mold the hearts of their scholars, and that they may deal intelligently with the purchase of Christ&apos;s blood. Each teacher should be a humble follower of Him who is meek and lowly in heart. No one should study or work that he may be considered a superior teacher, or a person of unusual ability, but that he <span class=\"page-break\" data-page=\"122\"></span> may lead souls to Christ. There will come temptations to weave self into all that is done, but the work will be marred if this is done, for it will lead to making dry, lengthy remarks that will fail to interest or benefit the minds of the children.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 35.1\" data-link=\"121.129\"><em>Testimonies on Sabbath-School Work</em>, 35</span>.",
+    "puborder": 355,
+    "translations": [
+      {
+        "para_id": "11629.538",
+        "lang": "da",
+        "refcode": "RSSA 121.2"
+      },
+      {
+        "para_id": "799.537",
+        "lang": "de",
+        "refcode": "RSs 101.1"
+      },
+      {
+        "para_id": "1711.604",
+        "lang": "es",
+        "refcode": "COES 135.1"
+      },
+      {
+        "para_id": "1917.664",
+        "lang": "pt",
+        "refcode": "CES38 63.4"
+      },
+      {
+        "para_id": "1917.662",
+        "lang": "pt",
+        "refcode": "CES38 63.3"
+      },
+      {
+        "para_id": "1724.600",
+        "lang": "pt",
+        "refcode": "CES 121.2"
+      },
+      {
+        "para_id": "2719.581",
+        "lang": "ro",
+        "refcode": "SSS 121.2"
+      },
+      {
+        "para_id": "1873.560",
+        "lang": "ru",
+        "refcode": "ССШ 121.2"
+      }
+    ]
+  }
+]

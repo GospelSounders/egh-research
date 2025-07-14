@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.31",
+    "id_prev": "21.30",
+    "id_next": "21.32",
+    "refcode_1": "CSW",
+    "refcode_2": "10",
+    "refcode_3": "",
+    "refcode_4": "6",
+    "refcode_short": "CSW 10",
+    "refcode_long": "Counsels on Sabbath School Work, p. 10 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Converting Power",
+    "puborder": 20,
+    "translations": [
+      {
+        "para_id": "11629.15",
+        "lang": "da",
+        "refcode": "RSSA 10"
+      },
+      {
+        "para_id": "799.53",
+        "lang": "de",
+        "refcode": "RSs 15"
+      },
+      {
+        "para_id": "1711.45",
+        "lang": "es",
+        "refcode": "COES 10"
+      },
+      {
+        "para_id": "1917.26",
+        "lang": "pt",
+        "refcode": "CES38 3"
+      },
+      {
+        "para_id": "1724.57",
+        "lang": "pt",
+        "refcode": "CES 10"
+      },
+      {
+        "para_id": "2719.30",
+        "lang": "ro",
+        "refcode": "SSS 10"
+      },
+      {
+        "para_id": "1873.29",
+        "lang": "ru",
+        "refcode": "ССШ 10"
+      }
+    ]
+  },
+  {
+    "para_id": "21.32",
+    "id_prev": "21.31",
+    "id_next": "21.35",
+    "refcode_1": "CSW",
+    "refcode_2": "10",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "CSW 10.4",
+    "refcode_long": "Counsels on Sabbath School Work, p. 10.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Sabbath school is an important branch of the missionary work, not only because it gives to young and old a knowledge of God&apos;s word, but because it awakens in them a love for its sacred truths, and a <span class=\"page-break\" data-page=\"11\"></span> desire to study them for themselves; above all, it teaches them to regulate their lives by its holy teachings.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 109.1\" data-link=\"121.437\"><em>Testimonies on Sabbath-School Work</em>, 109, 110</span>.",
+    "puborder": 21,
+    "translations": [
+      {
+        "para_id": "11629.16",
+        "lang": "da",
+        "refcode": "RSSA 10.3"
+      },
+      {
+        "para_id": "799.54",
+        "lang": "de",
+        "refcode": "RSs 15.2"
+      },
+      {
+        "para_id": "1711.46",
+        "lang": "es",
+        "refcode": "COES 10.4"
+      },
+      {
+        "para_id": "1917.27",
+        "lang": "pt",
+        "refcode": "CES38 3.1"
+      },
+      {
+        "para_id": "1724.58",
+        "lang": "pt",
+        "refcode": "CES 10.4"
+      },
+      {
+        "para_id": "2719.31",
+        "lang": "ro",
+        "refcode": "SSS 10.4"
+      },
+      {
+        "para_id": "1873.30",
+        "lang": "ru",
+        "refcode": "ССШ 10.4"
+      }
+    ]
+  }
+]

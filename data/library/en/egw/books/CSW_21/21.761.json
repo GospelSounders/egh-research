@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.761",
+    "id_prev": "21.758",
+    "id_next": "21.762",
+    "refcode_1": "CSW",
+    "refcode_2": "164",
+    "refcode_3": "",
+    "refcode_4": "127",
+    "refcode_short": "CSW 164",
+    "refcode_long": "Counsels on Sabbath School Work, p. 164 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Mechanical, but Spiritless",
+    "puborder": 479,
+    "translations": [
+      {
+        "para_id": "11629.739",
+        "lang": "da",
+        "refcode": "RSSA 164"
+      },
+      {
+        "para_id": "799.714",
+        "lang": "de",
+        "refcode": "RSs 133"
+      },
+      {
+        "para_id": "1711.818",
+        "lang": "es",
+        "refcode": "COES 183"
+      },
+      {
+        "para_id": "1724.804",
+        "lang": "pt",
+        "refcode": "CES 164"
+      },
+      {
+        "para_id": "1917.899",
+        "lang": "pt",
+        "refcode": "CES38 86"
+      },
+      {
+        "para_id": "2719.780",
+        "lang": "ro",
+        "refcode": "SSS 164"
+      },
+      {
+        "para_id": "1873.755",
+        "lang": "ru",
+        "refcode": "ССШ 164"
+      }
+    ]
+  },
+  {
+    "para_id": "21.762",
+    "id_prev": "21.761",
+    "id_next": "21.763",
+    "refcode_1": "CSW",
+    "refcode_2": "164",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 164.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 164.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "We must come up to a higher plane of action. Let the Spirit of Jesus vitalize the souls of the workers. Then their plans and methods of labor will be of that character to win souls to Jesus Christ. In our large churches, where there are many children and youth, there is great danger of so managing the Sabbath school that it will become a mere form, mechanical but spiritless. It lacks Jesus.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 14.1\" data-link=\"121.44\"><em>Testimonies on Sabbath-School Work</em>, 14</span>.",
+    "puborder": 480,
+    "translations": [
+      {
+        "para_id": "11629.740",
+        "lang": "da",
+        "refcode": "RSSA 164.1"
+      },
+      {
+        "para_id": "799.715",
+        "lang": "de",
+        "refcode": "RSs 133.2"
+      },
+      {
+        "para_id": "1711.819",
+        "lang": "es",
+        "refcode": "COES 183.2"
+      },
+      {
+        "para_id": "1917.900",
+        "lang": "pt",
+        "refcode": "CES38 86.1"
+      },
+      {
+        "para_id": "1724.805",
+        "lang": "pt",
+        "refcode": "CES 164.1"
+      },
+      {
+        "para_id": "2719.781",
+        "lang": "ro",
+        "refcode": "SSS 164.1"
+      },
+      {
+        "para_id": "1873.756",
+        "lang": "ru",
+        "refcode": "ССШ 164.1"
+      }
+    ]
+  }
+]

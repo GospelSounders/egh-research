@@ -1,0 +1,1102 @@
+[
+  {
+    "para_id": "128.1328",
+    "id_prev": "128.1325",
+    "id_next": "128.1329",
+    "refcode_1": "AH",
+    "refcode_2": "292",
+    "refcode_3": "",
+    "refcode_4": "50",
+    "refcode_short": "AH 292",
+    "refcode_long": "The Adventist Home, p. 292 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 50&mdash;The Honor Due Parents",
+    "puborder": 875,
+    "translations": [
+      {
+        "para_id": "13839.1069",
+        "lang": "bg",
+        "refcode": "ХД 122"
+      },
+      {
+        "para_id": "792.715",
+        "lang": "de",
+        "refcode": "GFH 109"
+      },
+      {
+        "para_id": "177.1356",
+        "lang": "es",
+        "refcode": "HC 264"
+      },
+      {
+        "para_id": "193.1308",
+        "lang": "fr",
+        "refcode": "FC 281"
+      },
+      {
+        "para_id": "12869.1629",
+        "lang": "id",
+        "refcode": "MKB 279"
+      },
+      {
+        "para_id": "891.906",
+        "lang": "it",
+        "refcode": "FC 125"
+      },
+      {
+        "para_id": "12178.1120",
+        "lang": "pl",
+        "refcode": "ChD 181"
+      },
+      {
+        "para_id": "1955.1710",
+        "lang": "pt",
+        "refcode": "LA 292"
+      },
+      {
+        "para_id": "2026.1322",
+        "lang": "ro",
+        "refcode": "CA 292"
+      },
+      {
+        "para_id": "1803.1281",
+        "lang": "ru",
+        "refcode": "ХД 292"
+      },
+      {
+        "para_id": "12131.1192",
+        "lang": "uk",
+        "refcode": "ХР 235"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1329",
+    "id_prev": "128.1328",
+    "id_next": "128.1330",
+    "refcode_1": "AH",
+    "refcode_2": "292",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 292.1",
+    "refcode_long": "The Adventist Home, p. 292.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Child&apos;s Indebtedness to Parents</strong>&mdash;Children should feel that they are indebted to their parents, who have watched over them in infancy and nursed them in sickness. They should realize that their parents have suffered much anxiety on their account. Especially have conscientious, godly parents felt the deepest interest that their children should take a right course. As they have seen faults in their children, how heavy have been their hearts! If the children who caused those hearts to ache could see the effect of their course, they would certainly relent. If they could see their mother&apos;s tears and hear her prayers to God in their behalf, if they could listen to her suppressed and broken sighs, their hearts would feel and they would speedily confess their wrongs and ask to be forgiven.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"1T 395.1\" data-link=\"116.1881\">Testimonies for the Church 1:395, 396</span>.</span></a></sup>",
+    "puborder": 876,
+    "translations": [
+      {
+        "para_id": "13839.1070",
+        "lang": "bg",
+        "refcode": "ХД 122.3"
+      },
+      {
+        "para_id": "792.717",
+        "lang": "de",
+        "refcode": "GFH 109.1"
+      },
+      {
+        "para_id": "792.716",
+        "lang": "de",
+        "refcode": "GFH 109"
+      },
+      {
+        "para_id": "177.1357",
+        "lang": "es",
+        "refcode": "HC 264.1"
+      },
+      {
+        "para_id": "193.1309",
+        "lang": "fr",
+        "refcode": "FC 281.1"
+      },
+      {
+        "para_id": "12869.1631",
+        "lang": "id",
+        "refcode": "MKB 279.1"
+      },
+      {
+        "para_id": "12178.1121",
+        "lang": "pl",
+        "refcode": "ChD 181.4"
+      },
+      {
+        "para_id": "1955.1711",
+        "lang": "pt",
+        "refcode": "LA 292"
+      },
+      {
+        "para_id": "1955.1712",
+        "lang": "pt",
+        "refcode": "LA 292.1"
+      },
+      {
+        "para_id": "2026.1323",
+        "lang": "ro",
+        "refcode": "CA 292.1"
+      },
+      {
+        "para_id": "1803.1282",
+        "lang": "ru",
+        "refcode": "ХД 292.1"
+      },
+      {
+        "para_id": "12131.1193",
+        "lang": "uk",
+        "refcode": "ХР 235.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1330",
+    "id_prev": "128.1329",
+    "id_next": "128.1331",
+    "refcode_1": "AH",
+    "refcode_2": "292",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 292.2",
+    "refcode_long": "The Adventist Home, p. 292.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Children, when they become of age, will prize the parent who labored faithfully, and would not permit them to cherish wrong feelings or indulge in evil habits.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 7-13-1888\" data-link=\"820.8959\">The Signs of the Times, July 13, 1888</span>.</span></a></sup>",
+    "puborder": 877,
+    "translations": [
+      {
+        "para_id": "13839.1071",
+        "lang": "bg",
+        "refcode": "ХД 122.4"
+      },
+      {
+        "para_id": "792.718",
+        "lang": "de",
+        "refcode": "GFH 109.2"
+      },
+      {
+        "para_id": "177.1358",
+        "lang": "es",
+        "refcode": "HC 264.2"
+      },
+      {
+        "para_id": "193.1310",
+        "lang": "fr",
+        "refcode": "FC 281.2"
+      },
+      {
+        "para_id": "12869.1634",
+        "lang": "id",
+        "refcode": "MKB 280.1"
+      },
+      {
+        "para_id": "12178.1124",
+        "lang": "pl",
+        "refcode": "ChD 182.1"
+      },
+      {
+        "para_id": "1955.1713",
+        "lang": "pt",
+        "refcode": "LA 292.2"
+      },
+      {
+        "para_id": "2026.1324",
+        "lang": "ro",
+        "refcode": "CA 292.2"
+      },
+      {
+        "para_id": "1803.1283",
+        "lang": "ru",
+        "refcode": "ХД 292.2"
+      },
+      {
+        "para_id": "12131.1194",
+        "lang": "uk",
+        "refcode": "ХР 235.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1331",
+    "id_prev": "128.1330",
+    "id_next": "128.1334",
+    "refcode_1": "AH",
+    "refcode_2": "292",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 292.3",
+    "refcode_long": "The Adventist Home, p. 292.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Command Binding on All</strong>&mdash;&ldquo;Honor thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.&rdquo; This is the first commandment with promise. It is binding upon childhood and youth, upon the middle-aged and the aged. There is no period in life when children are excused from honoring their parents. This solemn obligation is binding upon every son and daughter and is one of the conditions to their prolonging their lives upon the land which the Lord will give the faithful. This is not a subject unworthy of notice, but a matter of vital importance. The <span class=\"page-break\" data-page=\"293\"></span> promise is upon condition of obedience. If you obey, you shall live long in the land which the Lord your God gives you. If you disobey, you shall not prolong your life in that land.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 80.1\" data-link=\"120.334\">Testimonies for the Church 2:80, 81</span>.</span></a></sup>",
+    "puborder": 878,
+    "translations": [
+      {
+        "para_id": "13839.1072",
+        "lang": "bg",
+        "refcode": "ХД 122.5"
+      },
+      {
+        "para_id": "792.720",
+        "lang": "de",
+        "refcode": "GFH 109.3"
+      },
+      {
+        "para_id": "792.719",
+        "lang": "de",
+        "refcode": "GFH 109"
+      },
+      {
+        "para_id": "177.1359",
+        "lang": "es",
+        "refcode": "HC 264.3"
+      },
+      {
+        "para_id": "193.1311",
+        "lang": "fr",
+        "refcode": "FC 281.3"
+      },
+      {
+        "para_id": "12869.1636",
+        "lang": "id",
+        "refcode": "MKB 280.2"
+      },
+      {
+        "para_id": "891.907",
+        "lang": "it",
+        "refcode": "FC 125"
+      },
+      {
+        "para_id": "891.908",
+        "lang": "it",
+        "refcode": "FC 125.3"
+      },
+      {
+        "para_id": "12178.1125",
+        "lang": "pl",
+        "refcode": "ChD 182.2"
+      },
+      {
+        "para_id": "1955.1715",
+        "lang": "pt",
+        "refcode": "LA 292.3"
+      },
+      {
+        "para_id": "1955.1714",
+        "lang": "pt",
+        "refcode": "LA 292"
+      },
+      {
+        "para_id": "2026.1325",
+        "lang": "ro",
+        "refcode": "CA 292.3"
+      },
+      {
+        "para_id": "1803.1284",
+        "lang": "ru",
+        "refcode": "ХД 292.3"
+      },
+      {
+        "para_id": "12131.1195",
+        "lang": "uk",
+        "refcode": "ХР 235.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1334",
+    "id_prev": "128.1331",
+    "id_next": "128.1335",
+    "refcode_1": "AH",
+    "refcode_2": "293",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 293.1",
+    "refcode_long": "The Adventist Home, p. 293.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Parents are entitled to a degree of love and respect which is due to no other person. God Himself, who has placed upon them a responsibility for the souls committed to their charge, has ordained that during the earlier years of life parents shall stand in the place of God to their children. And he who rejects the rightful authority of his parents is rejecting the authority of God. The fifth commandment requires children not only to yield respect, submission, and obedience to their parents, but also to give them love and tenderness, to lighten their cares, to guard their reputation, and to succor and comfort them in old age.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 308.1\" data-link=\"84.1360\">Patriarchs and Prophets, 308</span>.</span></a></sup>",
+    "puborder": 879,
+    "translations": [
+      {
+        "para_id": "13839.1073",
+        "lang": "bg",
+        "refcode": "ХД 122.6"
+      },
+      {
+        "para_id": "792.721",
+        "lang": "de",
+        "refcode": "GFH 109.4"
+      },
+      {
+        "para_id": "177.1362",
+        "lang": "es",
+        "refcode": "HC 265.1"
+      },
+      {
+        "para_id": "193.1314",
+        "lang": "fr",
+        "refcode": "FC 282.1"
+      },
+      {
+        "para_id": "12869.1637",
+        "lang": "id",
+        "refcode": "MKB 280.3"
+      },
+      {
+        "para_id": "891.909",
+        "lang": "it",
+        "refcode": "FC 125.4"
+      },
+      {
+        "para_id": "12178.1126",
+        "lang": "pl",
+        "refcode": "ChD 182.3"
+      },
+      {
+        "para_id": "1955.1718",
+        "lang": "pt",
+        "refcode": "LA 293.1"
+      },
+      {
+        "para_id": "2026.1328",
+        "lang": "ro",
+        "refcode": "CA 293.1"
+      },
+      {
+        "para_id": "1803.1287",
+        "lang": "ru",
+        "refcode": "ХД 293.1"
+      },
+      {
+        "para_id": "12131.1196",
+        "lang": "uk",
+        "refcode": "ХР 235.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1335",
+    "id_prev": "128.1334",
+    "id_next": "128.1336",
+    "refcode_1": "AH",
+    "refcode_2": "293",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 293.2",
+    "refcode_long": "The Adventist Home, p. 293.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God cannot prosper those who go directly contrary to the plainest duty specified in His word, the duty of children to their parents.... If they disrespect and dishonor their earthly parents, they will not respect and love their Creator.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"3T 232.1\" data-link=\"119.1069\">Testimonies for the Church 3:232</span>.</span></a></sup>",
+    "puborder": 880,
+    "translations": [
+      {
+        "para_id": "13839.1075",
+        "lang": "bg",
+        "refcode": "ХД 123.1"
+      },
+      {
+        "para_id": "177.1363",
+        "lang": "es",
+        "refcode": "HC 265.2"
+      },
+      {
+        "para_id": "193.1315",
+        "lang": "fr",
+        "refcode": "FC 282.2"
+      },
+      {
+        "para_id": "12869.1638",
+        "lang": "id",
+        "refcode": "MKB 280.4"
+      },
+      {
+        "para_id": "891.909",
+        "lang": "it",
+        "refcode": "FC 125.4"
+      },
+      {
+        "para_id": "12178.1127",
+        "lang": "pl",
+        "refcode": "ChD 182.4"
+      },
+      {
+        "para_id": "1955.1719",
+        "lang": "pt",
+        "refcode": "LA 293.2"
+      },
+      {
+        "para_id": "2026.1329",
+        "lang": "ro",
+        "refcode": "CA 293.2"
+      },
+      {
+        "para_id": "1803.1288",
+        "lang": "ru",
+        "refcode": "ХД 293.2"
+      },
+      {
+        "para_id": "12131.1199",
+        "lang": "uk",
+        "refcode": "ХР 236.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1336",
+    "id_prev": "128.1335",
+    "id_next": "128.1337",
+    "refcode_1": "AH",
+    "refcode_2": "293",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 293.3",
+    "refcode_long": "The Adventist Home, p. 293.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When children have unbelieving parents, and their commands contradict the requirements of Christ, then, painful though it may be, they must obey God and trust the consequences with Him.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 11-15-1892\" data-link=\"821.12299\">The Review and Herald, November 15, 1892</span>.</span></a></sup>",
+    "puborder": 881,
+    "translations": [
+      {
+        "para_id": "13839.1076",
+        "lang": "bg",
+        "refcode": "ХД 123.2"
+      },
+      {
+        "para_id": "177.1364",
+        "lang": "es",
+        "refcode": "HC 265.3"
+      },
+      {
+        "para_id": "193.1316",
+        "lang": "fr",
+        "refcode": "FC 282.3"
+      },
+      {
+        "para_id": "12869.1640",
+        "lang": "id",
+        "refcode": "MKB 281.1"
+      },
+      {
+        "para_id": "891.912",
+        "lang": "it",
+        "refcode": "FC 126.1"
+      },
+      {
+        "para_id": "12178.1128",
+        "lang": "pl",
+        "refcode": "ChD 182.5"
+      },
+      {
+        "para_id": "1955.1720",
+        "lang": "pt",
+        "refcode": "LA 293.3"
+      },
+      {
+        "para_id": "2026.1330",
+        "lang": "ro",
+        "refcode": "CA 293.3"
+      },
+      {
+        "para_id": "1803.1289",
+        "lang": "ru",
+        "refcode": "ХД 293.3"
+      },
+      {
+        "para_id": "12131.1200",
+        "lang": "uk",
+        "refcode": "ХР 236.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1337",
+    "id_prev": "128.1336",
+    "id_next": "128.1338",
+    "refcode_1": "AH",
+    "refcode_2": "293",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 293.4",
+    "refcode_long": "The Adventist Home, p. 293.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Many Are Breaking the Fifth Commandment</strong>&mdash;In these last days children are so noted for their disobedience and disrespect that God has especially noticed it, and it constitutes a sign that the end is near. It shows that Satan has almost complete control of the minds of the young. By many, age is no more respected.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"1T 217.1\" data-link=\"116.1085\">Testimonies for the Church 1:217, 218</span>.</span></a></sup>",
+    "puborder": 882,
+    "translations": [
+      {
+        "para_id": "13839.1077",
+        "lang": "bg",
+        "refcode": "ХД 123.3"
+      },
+      {
+        "para_id": "177.1365",
+        "lang": "es",
+        "refcode": "HC 265.4"
+      },
+      {
+        "para_id": "193.1317",
+        "lang": "fr",
+        "refcode": "FC 282.4"
+      },
+      {
+        "para_id": "12869.1642",
+        "lang": "id",
+        "refcode": "MKB 281.2"
+      },
+      {
+        "para_id": "891.914",
+        "lang": "it",
+        "refcode": "FC 126.2"
+      },
+      {
+        "para_id": "891.913",
+        "lang": "it",
+        "refcode": "FC 126"
+      },
+      {
+        "para_id": "12178.1130",
+        "lang": "pl",
+        "refcode": "ChD 183.1"
+      },
+      {
+        "para_id": "1955.1722",
+        "lang": "pt",
+        "refcode": "LA 293.4"
+      },
+      {
+        "para_id": "1955.1721",
+        "lang": "pt",
+        "refcode": "LA 293"
+      },
+      {
+        "para_id": "2026.1331",
+        "lang": "ro",
+        "refcode": "CA 293.4"
+      },
+      {
+        "para_id": "1803.1290",
+        "lang": "ru",
+        "refcode": "ХД 293.4"
+      },
+      {
+        "para_id": "12131.1201",
+        "lang": "uk",
+        "refcode": "ХР 236.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1338",
+    "id_prev": "128.1337",
+    "id_next": "128.1341",
+    "refcode_1": "AH",
+    "refcode_2": "293",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 293.5",
+    "refcode_long": "The Adventist Home, p. 293.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There are many children who profess to know the truth who do not render to their parents the honor and affection <span class=\"page-break\" data-page=\"294\"></span> that are due to them, who manifest but little love to father and mother, and fail to honor them in deferring to their wishes or in seeking to relieve them of anxiety. Many who profess to be Christians do not know what it means to &ldquo;honor thy father and thy mother&rdquo; and consequently will know just as little what it means, &ldquo;that thy days may be long upon the land which the Lord thy God giveth thee.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MYP 331.1\" data-link=\"76.1702\">Messages to Young People, 331</span>.</span></a></sup>",
+    "puborder": 883,
+    "translations": [
+      {
+        "para_id": "13839.1078",
+        "lang": "bg",
+        "refcode": "ХД 123.4"
+      },
+      {
+        "para_id": "177.1366",
+        "lang": "es",
+        "refcode": "HC 265.5"
+      },
+      {
+        "para_id": "193.1318",
+        "lang": "fr",
+        "refcode": "FC 282.5"
+      },
+      {
+        "para_id": "12869.1643",
+        "lang": "id",
+        "refcode": "MKB 281.3"
+      },
+      {
+        "para_id": "891.915",
+        "lang": "it",
+        "refcode": "FC 126.3"
+      },
+      {
+        "para_id": "12178.1131",
+        "lang": "pl",
+        "refcode": "ChD 183.2"
+      },
+      {
+        "para_id": "1955.1723",
+        "lang": "pt",
+        "refcode": "LA 293.5"
+      },
+      {
+        "para_id": "2026.1332",
+        "lang": "ro",
+        "refcode": "CA 293.5"
+      },
+      {
+        "para_id": "1803.1291",
+        "lang": "ru",
+        "refcode": "ХД 293.5"
+      },
+      {
+        "para_id": "12131.1202",
+        "lang": "uk",
+        "refcode": "ХР 236.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1341",
+    "id_prev": "128.1338",
+    "id_next": "128.1342",
+    "refcode_1": "AH",
+    "refcode_2": "294",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 294.1",
+    "refcode_long": "The Adventist Home, p. 294.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In this rebellious age children who have not received right instruction and discipline have but little sense of their obligations to their parents. It is often the case that the more their parents do for them, the more ungrateful they are and the less they respect them. Children who have been petted and waited upon always expect it; and if their expectations are not met, they are disappointed and discouraged. This same disposition will be seen through their whole lives; they will be helpless, leaning upon others for aid, expecting others to favor them and yield to them. And if they are opposed, even after they have grown to manhood and womanhood, they think themselves abused; and thus they worry their way through the world, hardly able to bear their own weight, often murmuring and fretting because everything does not suit them.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"1T 392.1\" data-link=\"116.1869\">Testimonies for the Church 1:392, 393</span>.</span></a></sup>",
+    "puborder": 884,
+    "translations": [
+      {
+        "para_id": "13839.1079",
+        "lang": "bg",
+        "refcode": "ХД 123.5"
+      },
+      {
+        "para_id": "792.725",
+        "lang": "de",
+        "refcode": "GFH 110.1"
+      },
+      {
+        "para_id": "792.722",
+        "lang": "de",
+        "refcode": "GFH 109.5"
+      },
+      {
+        "para_id": "177.1369",
+        "lang": "es",
+        "refcode": "HC 266.1"
+      },
+      {
+        "para_id": "193.1319",
+        "lang": "fr",
+        "refcode": "FC 282.6"
+      },
+      {
+        "para_id": "12869.1644",
+        "lang": "id",
+        "refcode": "MKB 281.4"
+      },
+      {
+        "para_id": "891.916",
+        "lang": "it",
+        "refcode": "FC 126.4"
+      },
+      {
+        "para_id": "12178.1132",
+        "lang": "pl",
+        "refcode": "ChD 183.3"
+      },
+      {
+        "para_id": "1955.1726",
+        "lang": "pt",
+        "refcode": "LA 294.1"
+      },
+      {
+        "para_id": "2026.1335",
+        "lang": "ro",
+        "refcode": "CA 294.1"
+      },
+      {
+        "para_id": "1803.2530",
+        "lang": "ru",
+        "refcode": "ХД 294.1"
+      },
+      {
+        "para_id": "12131.1203",
+        "lang": "uk",
+        "refcode": "ХР 236.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1342",
+    "id_prev": "128.1341",
+    "id_next": "128.1343",
+    "refcode_1": "AH",
+    "refcode_2": "294",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 294.2",
+    "refcode_long": "The Adventist Home, p. 294.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>No Place in Heaven for Ungrateful Children</strong>&mdash;I saw that Satan had blinded the minds of the youth that they could not comprehend the truths of God&apos;s word. Their sensibilities are so blunted that they regard not the injunctions of the holy apostle:",
+    "puborder": 885,
+    "translations": [
+      {
+        "para_id": "13839.1080",
+        "lang": "bg",
+        "refcode": "ХД 123.6"
+      },
+      {
+        "para_id": "177.1370",
+        "lang": "es",
+        "refcode": "HC 266.2"
+      },
+      {
+        "para_id": "193.1322",
+        "lang": "fr",
+        "refcode": "FC 283.1"
+      },
+      {
+        "para_id": "12869.1646",
+        "lang": "id",
+        "refcode": "MKB 281.5"
+      },
+      {
+        "para_id": "891.918",
+        "lang": "it",
+        "refcode": "FC 126.5"
+      },
+      {
+        "para_id": "891.917",
+        "lang": "it",
+        "refcode": "FC 126"
+      },
+      {
+        "para_id": "12178.1133",
+        "lang": "pl",
+        "refcode": "ChD 183.4"
+      },
+      {
+        "para_id": "1955.1727",
+        "lang": "pt",
+        "refcode": "LA 294"
+      },
+      {
+        "para_id": "1955.1728",
+        "lang": "pt",
+        "refcode": "LA 294.2"
+      },
+      {
+        "para_id": "2026.1336",
+        "lang": "ro",
+        "refcode": "CA 294.2"
+      },
+      {
+        "para_id": "1803.1294",
+        "lang": "ru",
+        "refcode": "ХД 294.2"
+      },
+      {
+        "para_id": "12131.1206",
+        "lang": "uk",
+        "refcode": "ХР 237.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1343",
+    "id_prev": "128.1342",
+    "id_next": "128.1346",
+    "refcode_1": "AH",
+    "refcode_2": "294",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 294.3",
+    "refcode_long": "The Adventist Home, p. 294.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Children, obey your parents in the Lord: for this is right. Honour thy father and mother; which is the first commandment with promise; that it may be well with thee, and thou mayest live long on the [new] earth.&rdquo; <span class=\"page-break\" data-page=\"295\"></span> &ldquo;Children, obey your parents in all things: for this is well pleasing unto the Lord.&rdquo; Children who dishonor and disobey their parents, and disregard their advice and instructions, can have no part in the earth made new. The purified new earth will be no place for the rebellious, the disobedient, the ungrateful son or daughter. Unless such learn obedience and submission here, they will never learn it; the peace of the ransomed will not be marred by disobedient, unruly, unsubmissive children. No commandment breaker can inherit the kingdom of heaven.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"1T 497.1\" data-link=\"116.2320\">Ibid., 1:497, 498</span>.</span></a></sup>",
+    "puborder": 886,
+    "translations": [
+      {
+        "para_id": "13839.1081",
+        "lang": "bg",
+        "refcode": "ХД 123.7"
+      },
+      {
+        "para_id": "177.1370",
+        "lang": "es",
+        "refcode": "HC 266.2"
+      },
+      {
+        "para_id": "193.1322",
+        "lang": "fr",
+        "refcode": "FC 283.1"
+      },
+      {
+        "para_id": "12869.1649",
+        "lang": "id",
+        "refcode": "MKB 282.1"
+      },
+      {
+        "para_id": "891.918",
+        "lang": "it",
+        "refcode": "FC 126.5"
+      },
+      {
+        "para_id": "12178.1134",
+        "lang": "pl",
+        "refcode": "ChD 183.5"
+      },
+      {
+        "para_id": "1955.1729",
+        "lang": "pt",
+        "refcode": "LA 294.3"
+      },
+      {
+        "para_id": "2026.1337",
+        "lang": "ro",
+        "refcode": "CA 294.3"
+      },
+      {
+        "para_id": "1803.1294",
+        "lang": "ru",
+        "refcode": "ХД 294.2"
+      },
+      {
+        "para_id": "12131.1206",
+        "lang": "uk",
+        "refcode": "ХР 237.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1346",
+    "id_prev": "128.1343",
+    "id_next": "128.1347",
+    "refcode_1": "AH",
+    "refcode_2": "295",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 295.1",
+    "refcode_long": "The Adventist Home, p. 295.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Love to Be Manifested</strong>&mdash;I have seen children who seemed to have no affection to give to their parents, no expressions of love and endearment, which are due them and which they would appreciate; but they lavish an abundance of affection and caresses to select ones for whom they show preference. Is this as God would have it? No, no. Bring all the rays of sunshine, of love, and of affection into the home circle. Your father and mother will appreciate these little attentions you can give. Your efforts to lighten the burdens, and to repress every word of fretfulness and ingratitude, show that you are not a thoughtless child, and that you do appreciate the care and love that has been bestowed upon you in the years of your helpless infancy and childhood.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"YI 4-21-1886.6\" data-link=\"469.585\">The Youth&apos;s Instructor, April 21, 1886</span>.</span></a></sup>",
+    "puborder": 887,
+    "translations": [
+      {
+        "para_id": "13839.1082",
+        "lang": "bg",
+        "refcode": "ХД 123.8"
+      },
+      {
+        "para_id": "792.726",
+        "lang": "de",
+        "refcode": "GFH 110"
+      },
+      {
+        "para_id": "792.727",
+        "lang": "de",
+        "refcode": "GFH 110.2"
+      },
+      {
+        "para_id": "792.728",
+        "lang": "de",
+        "refcode": "GFH 110.3"
+      },
+      {
+        "para_id": "177.1372",
+        "lang": "es",
+        "refcode": "HC 267.1"
+      },
+      {
+        "para_id": "193.1323",
+        "lang": "fr",
+        "refcode": "FC 283.2"
+      },
+      {
+        "para_id": "12869.1651",
+        "lang": "id",
+        "refcode": "MKB 282.2"
+      },
+      {
+        "para_id": "891.922",
+        "lang": "it",
+        "refcode": "FC 127.1"
+      },
+      {
+        "para_id": "891.921",
+        "lang": "it",
+        "refcode": "FC 127"
+      },
+      {
+        "para_id": "12178.1137",
+        "lang": "pl",
+        "refcode": "ChD 184.1"
+      },
+      {
+        "para_id": "1955.1733",
+        "lang": "pt",
+        "refcode": "LA 295.1"
+      },
+      {
+        "para_id": "1955.1732",
+        "lang": "pt",
+        "refcode": "LA 295"
+      },
+      {
+        "para_id": "2026.1340",
+        "lang": "ro",
+        "refcode": "CA 295.1"
+      },
+      {
+        "para_id": "1803.1297",
+        "lang": "ru",
+        "refcode": "ХД 295.1"
+      },
+      {
+        "para_id": "12131.1208",
+        "lang": "uk",
+        "refcode": "ХР 237.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1347",
+    "id_prev": "128.1346",
+    "id_next": "128.1348",
+    "refcode_1": "AH",
+    "refcode_2": "295",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 295.2",
+    "refcode_long": "The Adventist Home, p. 295.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Children, it is necessary that your mothers love you, or else you would be very unhappy. And is it not also right that children love their parents, and show this love by pleasant looks, pleasant words, and cheerful, hearty cooperation, helping the father out-of-doors and the mother indoors?<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 129, 1898\" data-link=\"14063.5866001\">Manuscript 129, 1898</span>.</span></a></sup>",
+    "puborder": 888,
+    "translations": [
+      {
+        "para_id": "13839.1085",
+        "lang": "bg",
+        "refcode": "ХД 124.1"
+      },
+      {
+        "para_id": "177.1373",
+        "lang": "es",
+        "refcode": "HC 267.2"
+      },
+      {
+        "para_id": "193.1326",
+        "lang": "fr",
+        "refcode": "FC 284.1"
+      },
+      {
+        "para_id": "12869.1652",
+        "lang": "id",
+        "refcode": "MKB 282.3"
+      },
+      {
+        "para_id": "891.923",
+        "lang": "it",
+        "refcode": "FC 127.2"
+      },
+      {
+        "para_id": "12178.1138",
+        "lang": "pl",
+        "refcode": "ChD 184.2"
+      },
+      {
+        "para_id": "1955.1734",
+        "lang": "pt",
+        "refcode": "LA 295.2"
+      },
+      {
+        "para_id": "2026.1341",
+        "lang": "ro",
+        "refcode": "CA 295.2"
+      },
+      {
+        "para_id": "1803.1298",
+        "lang": "ru",
+        "refcode": "ХД 295.2"
+      },
+      {
+        "para_id": "12131.1209",
+        "lang": "uk",
+        "refcode": "ХР 237.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1348",
+    "id_prev": "128.1347",
+    "id_next": "128.1352",
+    "refcode_1": "AH",
+    "refcode_2": "295",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 295.3",
+    "refcode_long": "The Adventist Home, p. 295.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Deeds Considered As Though Done to Jesus</strong>&mdash;If you are truly converted, if you are children of Jesus, you will <span class=\"page-break\" data-page=\"296\"></span> honor your parents; you will not only do what they tell you but will watch for opportunities to help them. In doing this you are working for Jesus. He considers all these care-taking, thoughtful deeds as done to Himself. This is the most important kind of missionary work; and those who are faithful in these little everyday duties are gaining a valuable experience.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"YI 1-30-1884.2\" data-link=\"469.498\">The Youth&apos;s Instructor, January 30, 1884</span>.</span></a></sup>",
+    "puborder": 889,
+    "translations": [
+      {
+        "para_id": "13839.1086",
+        "lang": "bg",
+        "refcode": "ХД 124.2"
+      },
+      {
+        "para_id": "177.1374",
+        "lang": "es",
+        "refcode": "HC 267.3"
+      },
+      {
+        "para_id": "193.1327",
+        "lang": "fr",
+        "refcode": "FC 284.2"
+      },
+      {
+        "para_id": "12869.1654",
+        "lang": "id",
+        "refcode": "MKB 282.4"
+      },
+      {
+        "para_id": "12178.1139",
+        "lang": "pl",
+        "refcode": "ChD 184.3"
+      },
+      {
+        "para_id": "1955.1735",
+        "lang": "pt",
+        "refcode": "LA 295"
+      },
+      {
+        "para_id": "1955.1736",
+        "lang": "pt",
+        "refcode": "LA 295.3"
+      },
+      {
+        "para_id": "2026.1342",
+        "lang": "ro",
+        "refcode": "CA 295.3"
+      },
+      {
+        "para_id": "1803.1299",
+        "lang": "ru",
+        "refcode": "ХД 295.3"
+      },
+      {
+        "para_id": "12131.1210",
+        "lang": "uk",
+        "refcode": "ХР 237.5"
+      }
+    ]
+  }
+]

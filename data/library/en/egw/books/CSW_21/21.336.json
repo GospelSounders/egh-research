@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.336",
+    "id_prev": "21.333",
+    "id_next": "21.337",
+    "refcode_1": "CSW",
+    "refcode_2": "75",
+    "refcode_3": "",
+    "refcode_4": "45",
+    "refcode_short": "CSW 75",
+    "refcode_long": "Counsels on Sabbath School Work, p. 75 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Visiting in Homes",
+    "puborder": 209,
+    "translations": [
+      {
+        "para_id": "11629.309",
+        "lang": "da",
+        "refcode": "RSSA 75"
+      },
+      {
+        "para_id": "799.328",
+        "lang": "de",
+        "refcode": "RSs 65"
+      },
+      {
+        "para_id": "1711.368",
+        "lang": "es",
+        "refcode": "COES 83"
+      },
+      {
+        "para_id": "1917.392",
+        "lang": "pt",
+        "refcode": "CES38 38"
+      },
+      {
+        "para_id": "1724.368",
+        "lang": "pt",
+        "refcode": "CES 75"
+      },
+      {
+        "para_id": "2719.346",
+        "lang": "ro",
+        "refcode": "SSS 75"
+      },
+      {
+        "para_id": "1873.332",
+        "lang": "ru",
+        "refcode": "ССШ 75"
+      }
+    ]
+  },
+  {
+    "para_id": "21.337",
+    "id_prev": "21.336",
+    "id_next": "21.340",
+    "refcode_1": "CSW",
+    "refcode_2": "75",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 75.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 75.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Teachers and workers in every department of the Sabbath school work, I address you in the fear of God, and tell you that unless you have a living connection with God, and are often before Him in earnest prayer, you will not be able to do your work with heavenly <span class=\"page-break\" data-page=\"76\"></span> wisdom, and win souls for Christ. The worker for God must be clothed with humility as with a garment. The Lord will recognize and bless the humble worker who has a teachable spirit, a reverential love for truth and righteousness, wherever such a worker may be. If you are thus, you will show a care for your scholars by making special efforts for their salvation. You will come close to them in loving sympathy, visiting them at their homes, learning their true condition by conversing with them concerning their experience in the things of God, and you will bear them in the arms of your faith to the throne of the Father.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 68.1\" data-link=\"121.273\"><em>Testimonies on Sabbath-School Work</em>, 68, 69</span>.",
+    "puborder": 210,
+    "translations": [
+      {
+        "para_id": "11629.310",
+        "lang": "da",
+        "refcode": "RSSA 75.1"
+      },
+      {
+        "para_id": "799.329",
+        "lang": "de",
+        "refcode": "RSs 65.1"
+      },
+      {
+        "para_id": "1711.369",
+        "lang": "es",
+        "refcode": "COES 83.1"
+      },
+      {
+        "para_id": "1724.369",
+        "lang": "pt",
+        "refcode": "CES 75.1"
+      },
+      {
+        "para_id": "1917.393",
+        "lang": "pt",
+        "refcode": "CES38 38.1"
+      },
+      {
+        "para_id": "2719.347",
+        "lang": "ro",
+        "refcode": "SSS 75.2"
+      },
+      {
+        "para_id": "1873.333",
+        "lang": "ru",
+        "refcode": "ССШ 75.1"
+      }
+    ]
+  }
+]

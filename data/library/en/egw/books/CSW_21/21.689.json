@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.689",
+    "id_prev": "21.688",
+    "id_next": "21.690",
+    "refcode_1": "CSW",
+    "refcode_2": "146",
+    "refcode_3": "",
+    "refcode_4": "118",
+    "refcode_short": "CSW 146",
+    "refcode_long": "Counsels on Sabbath School Work, p. 146 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Every Offering With Its Motive Chronicled",
+    "puborder": 437,
+    "translations": [
+      {
+        "para_id": "11629.665",
+        "lang": "da",
+        "refcode": "RSSA 146"
+      },
+      {
+        "para_id": "799.653",
+        "lang": "de",
+        "refcode": "RSs 121"
+      },
+      {
+        "para_id": "1711.741",
+        "lang": "es",
+        "refcode": "COES 165"
+      },
+      {
+        "para_id": "1724.727",
+        "lang": "pt",
+        "refcode": "CES 146"
+      },
+      {
+        "para_id": "1917.810",
+        "lang": "pt",
+        "refcode": "CES38 77"
+      },
+      {
+        "para_id": "2719.706",
+        "lang": "ro",
+        "refcode": "SSS 146"
+      },
+      {
+        "para_id": "1873.683",
+        "lang": "ru",
+        "refcode": "ССШ 146"
+      }
+    ]
+  },
+  {
+    "para_id": "21.690",
+    "id_prev": "21.689",
+    "id_next": "21.697",
+    "refcode_1": "CSW",
+    "refcode_2": "146",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 146.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 146.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "I was shown that the recording angel makes a faithful record of every offering dedicated to God, and put into the treasury, and also of the final result of the means thus bestowed. The eye of God takes <span class=\"page-break\" data-page=\"147\"></span> cognizance of every farthing devoted to His cause, and of the willingness or reluctance of the giver. The motive in giving is also chronicled. Those self-sacrificing, consecrated ones who render back to God the things that are His, as He requires of them, will be rewarded according to their works. Even though the means thus consecrated be misapplied, so that it does not accomplish the object which the donor had in view,&mdash;the glory of God and the salvation of souls,&mdash;those who made the sacrifice in sincerity of soul, with an eye single to the glory of God, will not lose their reward.&mdash;<span class=\"egwlink egwlink_book\" title=\"2T 518.1\" data-link=\"120.2236\"><em>Testimonies for the Church</em> 2:518, 519</span>.",
+    "puborder": 438,
+    "translations": [
+      {
+        "para_id": "11629.666",
+        "lang": "da",
+        "refcode": "RSSA 146.3"
+      },
+      {
+        "para_id": "799.654",
+        "lang": "de",
+        "refcode": "RSs 121.2"
+      },
+      {
+        "para_id": "1711.742",
+        "lang": "es",
+        "refcode": "COES 165.1"
+      },
+      {
+        "para_id": "1917.811",
+        "lang": "pt",
+        "refcode": "CES38 77.4"
+      },
+      {
+        "para_id": "1724.728",
+        "lang": "pt",
+        "refcode": "CES 146.3"
+      },
+      {
+        "para_id": "2719.707",
+        "lang": "ro",
+        "refcode": "SSS 146.3"
+      },
+      {
+        "para_id": "1873.684",
+        "lang": "ru",
+        "refcode": "ССШ 146.3"
+      }
+    ]
+  }
+]

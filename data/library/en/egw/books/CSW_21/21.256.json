@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.256",
+    "id_prev": "21.254",
+    "id_next": "21.257",
+    "refcode_1": "CSW",
+    "refcode_2": "57",
+    "refcode_3": "",
+    "refcode_4": "34",
+    "refcode_short": "CSW 57",
+    "refcode_long": "Counsels on Sabbath School Work, p. 57 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "More Important Than Day School",
+    "puborder": 158,
+    "translations": [
+      {
+        "para_id": "11629.229",
+        "lang": "da",
+        "refcode": "RSSA 57"
+      },
+      {
+        "para_id": "799.252",
+        "lang": "de",
+        "refcode": "RSs 50"
+      },
+      {
+        "para_id": "1711.276",
+        "lang": "es",
+        "refcode": "COES 61"
+      },
+      {
+        "para_id": "1724.284",
+        "lang": "pt",
+        "refcode": "CES 57"
+      },
+      {
+        "para_id": "1917.296",
+        "lang": "pt",
+        "refcode": "CES38 28"
+      },
+      {
+        "para_id": "2719.266",
+        "lang": "ro",
+        "refcode": "SSS 57"
+      },
+      {
+        "para_id": "1873.253",
+        "lang": "ru",
+        "refcode": "ССШ 57"
+      }
+    ]
+  },
+  {
+    "para_id": "21.257",
+    "id_prev": "21.256",
+    "id_next": "21.258",
+    "refcode_1": "CSW",
+    "refcode_2": "57",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 57.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 57.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Even greater care should be taken by the parents to see that their children have their Scripture lessons, than is taken to see that their day-school lessons are prepared. Their Scripture lessons should be learned more perfectly than their lessons in the common schools. If parents and children see no necessity for this interest, then the children might better remain at home; for the Sabbath school will fail to prove a blessing to them. Parents and children should work in harmony with superintendent and teachers, thus giving evidence that they appreciate the labor put forth for them. Parents should take special interest in the religious education of their children, that they may have a more thorough knowledge of the Scriptures.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 8.1\" data-link=\"121.21\"><em>Testimonies on Sabbath-School Work</em>, 8</span>.",
+    "puborder": 159,
+    "translations": [
+      {
+        "para_id": "11629.230",
+        "lang": "da",
+        "refcode": "RSSA 57.1"
+      },
+      {
+        "para_id": "799.253",
+        "lang": "de",
+        "refcode": "RSs 50.2"
+      },
+      {
+        "para_id": "1711.277",
+        "lang": "es",
+        "refcode": "COES 61.3"
+      },
+      {
+        "para_id": "1917.297",
+        "lang": "pt",
+        "refcode": "CES38 28.4"
+      },
+      {
+        "para_id": "1724.285",
+        "lang": "pt",
+        "refcode": "CES 57.1"
+      },
+      {
+        "para_id": "2719.267",
+        "lang": "ro",
+        "refcode": "SSS 57.1"
+      },
+      {
+        "para_id": "1873.254",
+        "lang": "ru",
+        "refcode": "ССШ 57.1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.687",
+    "id_prev": "21.686",
+    "id_next": "21.688",
+    "refcode_1": "CSW",
+    "refcode_2": "146",
+    "refcode_3": "",
+    "refcode_4": "117",
+    "refcode_short": "CSW 146",
+    "refcode_long": "Counsels on Sabbath School Work, p. 146 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Condition of Prosperity",
+    "puborder": 435,
+    "translations": [
+      {
+        "para_id": "11629.663",
+        "lang": "da",
+        "refcode": "RSSA 146"
+      },
+      {
+        "para_id": "799.651",
+        "lang": "de",
+        "refcode": "RSs 121"
+      },
+      {
+        "para_id": "1711.737",
+        "lang": "es",
+        "refcode": "COES 164"
+      },
+      {
+        "para_id": "1917.808",
+        "lang": "pt",
+        "refcode": "CES38 77"
+      },
+      {
+        "para_id": "1724.725",
+        "lang": "pt",
+        "refcode": "CES 146"
+      },
+      {
+        "para_id": "2719.704",
+        "lang": "ro",
+        "refcode": "SSS 146"
+      },
+      {
+        "para_id": "1873.681",
+        "lang": "ru",
+        "refcode": "ССШ 146"
+      }
+    ]
+  },
+  {
+    "para_id": "21.688",
+    "id_prev": "21.687",
+    "id_next": "21.689",
+    "refcode_1": "CSW",
+    "refcode_2": "146",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 146.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 146.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The contributions required of the Hebrews for religious and charitable purposes amounted to fully one fourth of their income. So heavy a tax upon the resources of the people might be expected to reduce them to poverty; but, on the contrary, the faithful observance of these regulations was one of the conditions of their prosperity. On condition of their obedience, God made them this promise, &ldquo;I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field.... And all nations shall call you blessed: for ye shall be a delightsome land, saith the Lord of hosts.&rdquo;&mdash;<span class=\"egwlink egwlink_book\" title=\"PP 527.1\" data-link=\"84.2448\"><em>Patriarchs and Prophets</em>, 527</span>.",
+    "puborder": 436,
+    "translations": [
+      {
+        "para_id": "11629.664",
+        "lang": "da",
+        "refcode": "RSSA 146.2"
+      },
+      {
+        "para_id": "799.652",
+        "lang": "de",
+        "refcode": "RSs 121.1"
+      },
+      {
+        "para_id": "1711.738",
+        "lang": "es",
+        "refcode": "COES 164.2"
+      },
+      {
+        "para_id": "1724.726",
+        "lang": "pt",
+        "refcode": "CES 146.2"
+      },
+      {
+        "para_id": "1917.809",
+        "lang": "pt",
+        "refcode": "CES38 77.3"
+      },
+      {
+        "para_id": "2719.705",
+        "lang": "ro",
+        "refcode": "SSS 146.2"
+      },
+      {
+        "para_id": "1873.682",
+        "lang": "ru",
+        "refcode": "ССШ 146.2"
+      }
+    ]
+  }
+]

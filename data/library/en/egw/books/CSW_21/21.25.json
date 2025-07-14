@@ -1,0 +1,101 @@
+[
+  {
+    "para_id": "21.25",
+    "id_prev": "21.23",
+    "id_next": "21.26",
+    "refcode_1": "CSW",
+    "refcode_2": "10",
+    "refcode_3": "",
+    "refcode_4": "3",
+    "refcode_short": "CSW 10",
+    "refcode_long": "Counsels on Sabbath School Work, p. 10 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "God&apos;s Instrumentalities",
+    "puborder": 14,
+    "translations": [
+      {
+        "para_id": "799.46",
+        "lang": "de",
+        "refcode": "RSs 14"
+      },
+      {
+        "para_id": "1711.39",
+        "lang": "es",
+        "refcode": "COES 10"
+      },
+      {
+        "para_id": "1917.18",
+        "lang": "pt",
+        "refcode": "CES38 2"
+      },
+      {
+        "para_id": "1724.51",
+        "lang": "pt",
+        "refcode": "CES 10"
+      },
+      {
+        "para_id": "2719.24",
+        "lang": "ro",
+        "refcode": "SSS 10"
+      },
+      {
+        "para_id": "1873.23",
+        "lang": "ru",
+        "refcode": "ССШ 10"
+      }
+    ]
+  },
+  {
+    "para_id": "21.26",
+    "id_prev": "21.25",
+    "id_next": "21.27",
+    "refcode_1": "CSW",
+    "refcode_2": "10",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 10.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 10.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "I feel a deep interest in our Sabbath schools throughout the land, because I believe them to be instrumentalities of God for the education of our youth in the truths of the Bible. Constant efforts should be made by both parents and teachers to interest the youth in matters of eternal importance. The Sabbath school is a missionary field, and very much more of a missionary spirit should be manifested in this important work than has been manifested in the past.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 35.1\" data-link=\"121.129\"><em>Testimonies on Sabbath-School Work</em>, 35</span>.",
+    "puborder": 15,
+    "translations": [
+      {
+        "para_id": "11629.8",
+        "lang": "da",
+        "refcode": "RSSA 9.2"
+      },
+      {
+        "para_id": "799.47",
+        "lang": "de",
+        "refcode": "RSs 14.3"
+      },
+      {
+        "para_id": "1711.40",
+        "lang": "es",
+        "refcode": "COES 10.1"
+      },
+      {
+        "para_id": "1724.52",
+        "lang": "pt",
+        "refcode": "CES 10.1"
+      },
+      {
+        "para_id": "1917.19",
+        "lang": "pt",
+        "refcode": "CES38 2.3"
+      },
+      {
+        "para_id": "2719.25",
+        "lang": "ro",
+        "refcode": "SSS 10.1"
+      },
+      {
+        "para_id": "1873.24",
+        "lang": "ru",
+        "refcode": "ССШ 10.1"
+      }
+    ]
+  }
+]

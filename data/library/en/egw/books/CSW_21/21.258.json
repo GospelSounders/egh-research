@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.258",
+    "id_prev": "21.257",
+    "id_next": "21.259",
+    "refcode_1": "CSW",
+    "refcode_2": "57",
+    "refcode_3": "",
+    "refcode_4": "35",
+    "refcode_short": "CSW 57",
+    "refcode_long": "Counsels on Sabbath School Work, p. 57 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Diligent Study Richly Rewarded",
+    "puborder": 160,
+    "translations": [
+      {
+        "para_id": "11629.231",
+        "lang": "da",
+        "refcode": "RSSA 57"
+      },
+      {
+        "para_id": "799.254",
+        "lang": "de",
+        "refcode": "RSs 50"
+      },
+      {
+        "para_id": "1711.280",
+        "lang": "es",
+        "refcode": "COES 62"
+      },
+      {
+        "para_id": "1917.298",
+        "lang": "pt",
+        "refcode": "CES38 28"
+      },
+      {
+        "para_id": "1724.286",
+        "lang": "pt",
+        "refcode": "CES 57"
+      },
+      {
+        "para_id": "2719.268",
+        "lang": "ro",
+        "refcode": "SSS 57"
+      },
+      {
+        "para_id": "1873.255",
+        "lang": "ru",
+        "refcode": "ССШ 57"
+      }
+    ]
+  },
+  {
+    "para_id": "21.259",
+    "id_prev": "21.258",
+    "id_next": "21.265",
+    "refcode_1": "CSW",
+    "refcode_2": "57",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 57.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 57.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The close application of those Hebrew students [Daniel and his companions] under the training of God was richly rewarded. While they made diligent effort to secure knowledge, the Lord gave them heavenly wisdom. The knowledge they gained was of great service to them when brought into strait places. The Lord God of heaven will not supply the deficiencies that result from mental and spiritual indolence. When the human agents shall exercise their faculties to acquire knowledge, to become deep thinking men; when they, as the greatest witnesses <span class=\"page-break\" data-page=\"58\"></span> for God and the truth, shall have won in the field of investigation of vital doctrines concerning the salvation of the soul, that glory may be given to the God of heaven as supreme, then even judges and kings will be brought to acknowledge, in the courts of justice, in parliaments and councils, that the God who made the heavens and the earth is the only true and living God, the author of Christianity, the author of all truth, who instituted the seventh-day Sabbath when the foundations of the world were laid, when the morning stars sang together, and all the sons of God shouted together for joy.&mdash;<span class=\"egwlink egwlink_book\" title=\"FE 374.1\" data-link=\"32.1492\"><em>Fundamentals of Christian Education</em>, 374, 375</span>.",
+    "puborder": 161,
+    "translations": [
+      {
+        "para_id": "11629.232",
+        "lang": "da",
+        "refcode": "RSSA 57.2"
+      },
+      {
+        "para_id": "799.255",
+        "lang": "de",
+        "refcode": "RSs 50.3"
+      },
+      {
+        "para_id": "1711.281",
+        "lang": "es",
+        "refcode": "COES 62.1"
+      },
+      {
+        "para_id": "1917.299",
+        "lang": "pt",
+        "refcode": "CES38 28.5"
+      },
+      {
+        "para_id": "1724.287",
+        "lang": "pt",
+        "refcode": "CES 57.2"
+      },
+      {
+        "para_id": "2719.269",
+        "lang": "ro",
+        "refcode": "SSS 57.2"
+      },
+      {
+        "para_id": "1873.256",
+        "lang": "ru",
+        "refcode": "ССШ 57.2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "para_id": "21.535",
+    "id_prev": "21.532",
+    "id_next": "21.536",
+    "refcode_1": "CSW",
+    "refcode_2": "116",
+    "refcode_3": "",
+    "refcode_4": "77",
+    "refcode_short": "CSW 116",
+    "refcode_long": "Counsels on Sabbath School Work, p. 116 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Spiritual Indolence",
+    "puborder": 335,
+    "translations": [
+      {
+        "para_id": "11629.509",
+        "lang": "da",
+        "refcode": "RSSA 116"
+      },
+      {
+        "para_id": "799.511",
+        "lang": "de",
+        "refcode": "RSs 97"
+      },
+      {
+        "para_id": "1711.573",
+        "lang": "es",
+        "refcode": "COES 129"
+      },
+      {
+        "para_id": "1724.570",
+        "lang": "pt",
+        "refcode": "CES 116"
+      },
+      {
+        "para_id": "1917.627",
+        "lang": "pt",
+        "refcode": "CES38 60"
+      },
+      {
+        "para_id": "2719.550",
+        "lang": "ro",
+        "refcode": "SSS 116"
+      },
+      {
+        "para_id": "1873.530",
+        "lang": "ru",
+        "refcode": "ССШ 116"
+      }
+    ]
+  },
+  {
+    "para_id": "21.536",
+    "id_prev": "21.535",
+    "id_next": "21.539",
+    "refcode_1": "CSW",
+    "refcode_2": "116",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 116.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 116.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In some Sabbath schools, positions are given to persons who have no aptitude to teach. They have no earnest love for souls. They do not half understand the practical bearings of the truth themselves. How, then, can they lead the children and youth to the living Fountain? Let the teachers themselves drink deep of the water of salvation, and the angels of God will minister to them, and they will know just what course the Lord would have them take to win the precious youth to Jesus. It requires aptitude, a will, perseverance, a spirit such as Jacob had when he wrestled in prayer, and exclaimed, &ldquo;I will not let Thee go, except Thou bless me.&rdquo; When the blessing of God rests upon the teachers, it can but be reflected to those under their charge. Never place the youth under individuals who are spiritually indolent, who <span class=\"page-break\" data-page=\"117\"></span> have no high, elevated, holy aspirations; for the same mind of indifference, pharisaism, of form without the power, will be seen in both teachers and scholars.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 13.1\" data-link=\"121.42\"><em>Testimonies on Sabbath-School Work</em>, 13</span>.",
+    "puborder": 336,
+    "translations": [
+      {
+        "para_id": "11629.510",
+        "lang": "da",
+        "refcode": "RSSA 116.1"
+      },
+      {
+        "para_id": "799.512",
+        "lang": "de",
+        "refcode": "RSs 97.1"
+      },
+      {
+        "para_id": "1711.574",
+        "lang": "es",
+        "refcode": "COES 129.1"
+      },
+      {
+        "para_id": "1917.630",
+        "lang": "pt",
+        "refcode": "CES38 60.4"
+      },
+      {
+        "para_id": "1917.628",
+        "lang": "pt",
+        "refcode": "CES38 60.3"
+      },
+      {
+        "para_id": "1724.571",
+        "lang": "pt",
+        "refcode": "CES 116.1"
+      },
+      {
+        "para_id": "2719.551",
+        "lang": "ro",
+        "refcode": "SSS 116.1"
+      },
+      {
+        "para_id": "1873.531",
+        "lang": "ru",
+        "refcode": "ССШ 116.1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.626",
+    "id_prev": "21.625",
+    "id_next": "21.627",
+    "refcode_1": "CSW",
+    "refcode_2": "135",
+    "refcode_3": "",
+    "refcode_4": "99",
+    "refcode_short": "CSW 135",
+    "refcode_long": "Counsels on Sabbath School Work, p. 135 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Devising Ways and Means",
+    "puborder": 393,
+    "translations": [
+      {
+        "para_id": "11629.601",
+        "lang": "da",
+        "refcode": "RSSA 135"
+      },
+      {
+        "para_id": "799.594",
+        "lang": "de",
+        "refcode": "RSs 112"
+      },
+      {
+        "para_id": "1711.674",
+        "lang": "es",
+        "refcode": "COES 152"
+      },
+      {
+        "para_id": "1724.664",
+        "lang": "pt",
+        "refcode": "CES 135"
+      },
+      {
+        "para_id": "1917.735",
+        "lang": "pt",
+        "refcode": "CES38 70"
+      },
+      {
+        "para_id": "2719.643",
+        "lang": "ro",
+        "refcode": "SSS 135"
+      },
+      {
+        "para_id": "1873.621",
+        "lang": "ru",
+        "refcode": "ССШ 135"
+      }
+    ]
+  },
+  {
+    "para_id": "21.627",
+    "id_prev": "21.626",
+    "id_next": "21.628",
+    "refcode_1": "CSW",
+    "refcode_2": "135",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 135.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 135.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The church of Christ on earth was organized for missionary purposes, and the Lord desires to see the entire church devising ways and means whereby high and low, rich and poor, may hear the message of truth. Not all are called to personal labor in foreign fields, but all can do something by their prayers and their gifts to aid the missionary work.",
+    "puborder": 394,
+    "translations": [
+      {
+        "para_id": "11629.602",
+        "lang": "da",
+        "refcode": "RSSA 135.2"
+      },
+      {
+        "para_id": "799.595",
+        "lang": "de",
+        "refcode": "RSs 112.3"
+      },
+      {
+        "para_id": "1711.675",
+        "lang": "es",
+        "refcode": "COES 152.1"
+      },
+      {
+        "para_id": "1917.736",
+        "lang": "pt",
+        "refcode": "CES38 70.4"
+      },
+      {
+        "para_id": "1724.665",
+        "lang": "pt",
+        "refcode": "CES 135.2"
+      },
+      {
+        "para_id": "2719.644",
+        "lang": "ro",
+        "refcode": "SSS 135.2"
+      },
+      {
+        "para_id": "1873.622",
+        "lang": "ru",
+        "refcode": "ССШ 135.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.628",
+    "id_prev": "21.627",
+    "id_next": "21.630",
+    "refcode_1": "CSW",
+    "refcode_2": "135",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 135.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 135.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "An American businessman, who was an earnest Christian, in conversation with a fellow worker, remarked that he himself worked for Christ twenty-four hours of the day. &ldquo;In all my business relations,&rdquo; he said, &ldquo;I try to represent my Master. As I have opportunity, I try to win others to Him. All day I am working for Christ. And at night, while I sleep, I have a man working for Him in China.&rdquo;&mdash;<span class=\"egwlink egwlink_book\" title=\"6T 29.1\" data-link=\"118.142\"><em>Testimonies for the Church</em> 6:29</span>.",
+    "puborder": 395,
+    "translations": [
+      {
+        "para_id": "11629.603",
+        "lang": "da",
+        "refcode": "RSSA 135.3"
+      },
+      {
+        "para_id": "799.596",
+        "lang": "de",
+        "refcode": "RSs 112.4"
+      },
+      {
+        "para_id": "1711.676",
+        "lang": "es",
+        "refcode": "COES 152.2"
+      },
+      {
+        "para_id": "1917.737",
+        "lang": "pt",
+        "refcode": "CES38 70.5"
+      },
+      {
+        "para_id": "1724.666",
+        "lang": "pt",
+        "refcode": "CES 135.3"
+      },
+      {
+        "para_id": "2719.645",
+        "lang": "ro",
+        "refcode": "SSS 135.3"
+      },
+      {
+        "para_id": "1873.623",
+        "lang": "ru",
+        "refcode": "ССШ 135.3"
+      }
+    ]
+  }
+]

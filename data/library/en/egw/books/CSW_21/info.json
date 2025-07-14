@@ -1,0 +1,42 @@
+{
+  "book_id": 21,
+  "code": "CSW",
+  "lang": "en",
+  "type": "book",
+  "subtype": "",
+  "title": "Counsels on Sabbath School Work",
+  "first_para": "21.4",
+  "author": "Ellen Gould White",
+  "description": "An hour. That’s all the time a Sabbath school leader has to make a lasting impression on minds exposed to many hours of secular indoctrination by the media each week. To help make the most of that hour is the purpose of this book.<br/>The author provides inspired instruction on the qualifications of a teacher, appropriate attitudes, methods of teaching, discipline, gaining respect, encouraging generosity, meeting controversy, and many other practical topics. Rather than merely conveying information, the Spirit-controlled teacher may impart a spark of holy fire, making the Bible come alive so that its principles are reproduced in the life. This book explains how to achieve that result make the Sabbath school a soul-winning agency.<br/>Counsels on Sabbath School Work incorporates the instruction by Ellen G. White recorded in Testimonies on Sabbath School Work as well as added counsel pertaining to this line of activity which has appeared since then in her writings. Sabbath school off",
+  "npages": 186,
+  "isbn": "978-1-61253-022-2",
+  "publisher": "Washington, D.C.: Review and Herald Publishing Association",
+  "pub_year": "1938",
+  "buy_link": "https://www.adventistbookcenter.com/counsels-on-sabbath-school-work.html",
+  "folder_id": 4,
+  "cover": {
+    "small": "/covers/21_s.jpg",
+    "large": "/covers/21_r.jpg"
+  },
+  "files": {
+    "mp3": "/mp3/21/en_CSW.zip",
+    "pdf": "/pdf/en_CSW.pdf",
+    "epub": "/epub/en_CSW.epub",
+    "mobi": "/mobi/en_CSW.mobi"
+  },
+  "permission_required": "public",
+  "sort": 3000023,
+  "is_audiobook": true,
+  "cite": "White, E. G. (1938) Counsels on Sabbath School Work. Washington, D.C.: Review and Herald Publishing Association.",
+  "translated_into": [
+    "da",
+    "de",
+    "es",
+    "fr",
+    "ko",
+    "pt",
+    "ro",
+    "ru",
+    "zh"
+  ]
+}

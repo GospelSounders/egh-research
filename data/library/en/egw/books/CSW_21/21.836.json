@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.836",
+    "id_prev": "21.835",
+    "id_next": "21.837",
+    "refcode_1": "CSW",
+    "refcode_2": "179",
+    "refcode_3": "",
+    "refcode_4": "137",
+    "refcode_short": "CSW 179",
+    "refcode_long": "Counsels on Sabbath School Work, p. 179 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Discipline and Order Essential",
+    "puborder": 527,
+    "translations": [
+      {
+        "para_id": "11629.817",
+        "lang": "da",
+        "refcode": "RSSA 179"
+      },
+      {
+        "para_id": "799.783",
+        "lang": "de",
+        "refcode": "RSs 145"
+      },
+      {
+        "para_id": "1711.899",
+        "lang": "es",
+        "refcode": "COES 201"
+      },
+      {
+        "para_id": "1724.879",
+        "lang": "pt",
+        "refcode": "CES 179"
+      },
+      {
+        "para_id": "1917.986",
+        "lang": "pt",
+        "refcode": "CES38 95"
+      },
+      {
+        "para_id": "2719.855",
+        "lang": "ro",
+        "refcode": "SSS 179"
+      },
+      {
+        "para_id": "1873.830",
+        "lang": "ru",
+        "refcode": "ССШ 179"
+      }
+    ]
+  },
+  {
+    "para_id": "21.837",
+    "id_prev": "21.836",
+    "id_next": "21.838",
+    "refcode_1": "CSW",
+    "refcode_2": "179",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 179.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 179.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There should be discipline and order in our Sabbath schools. Children who attend these schools should prize the privileges they enjoy, and should be required to observe the regulations of the school.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 7.1\" data-link=\"121.17\"><em>Testimonies on Sabbath-School Work</em>, 7, 8</span>.",
+    "puborder": 528,
+    "translations": [
+      {
+        "para_id": "11629.818",
+        "lang": "da",
+        "refcode": "RSSA 179.2"
+      },
+      {
+        "para_id": "799.784",
+        "lang": "de",
+        "refcode": "RSs 145.2"
+      },
+      {
+        "para_id": "1711.900",
+        "lang": "es",
+        "refcode": "COES 201.1"
+      },
+      {
+        "para_id": "1917.987",
+        "lang": "pt",
+        "refcode": "CES38 95.1"
+      },
+      {
+        "para_id": "1724.880",
+        "lang": "pt",
+        "refcode": "CES 179.2"
+      },
+      {
+        "para_id": "2719.856",
+        "lang": "ro",
+        "refcode": "SSS 179.2"
+      },
+      {
+        "para_id": "1873.831",
+        "lang": "ru",
+        "refcode": "ССШ 179.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.838",
+    "id_prev": "21.837",
+    "id_next": "21.841",
+    "refcode_1": "CSW",
+    "refcode_2": "179",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 179.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 179.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "If Christ is abiding in his [the teacher&apos;s] heart by faith, sin appears revolting. While he will have love, kindness, and tenderness for the scholars under his charge, he will feel that as a faithful servant he must discipline and preserve order in his class. If truth is cherished, the love of the Saviour is revealed in <span class=\"page-break\" data-page=\"180\"></span> his words and deportment. The word of God with him is not a dead letter; he will give not only lip service, but heart service.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 25.1\" data-link=\"121.90\"><em>Testimonies on Sabbath-School Work</em>, 25, 26</span>,",
+    "puborder": 529,
+    "translations": [
+      {
+        "para_id": "11629.819",
+        "lang": "da",
+        "refcode": "RSSA 179.3"
+      },
+      {
+        "para_id": "799.785",
+        "lang": "de",
+        "refcode": "RSs 145.3"
+      },
+      {
+        "para_id": "1711.901",
+        "lang": "es",
+        "refcode": "COES 201.2"
+      },
+      {
+        "para_id": "1724.881",
+        "lang": "pt",
+        "refcode": "CES 179.3"
+      },
+      {
+        "para_id": "1917.988",
+        "lang": "pt",
+        "refcode": "CES38 95.2"
+      },
+      {
+        "para_id": "2719.857",
+        "lang": "ro",
+        "refcode": "SSS 179.3"
+      },
+      {
+        "para_id": "1873.832",
+        "lang": "ru",
+        "refcode": "ССШ 179.3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,948 @@
+[
+  {
+    "para_id": "128.563",
+    "id_prev": "128.558",
+    "id_next": "128.565",
+    "refcode_1": "AH",
+    "refcode_2": "129",
+    "refcode_3": "",
+    "refcode_4": "6",
+    "refcode_short": "AH 129",
+    "refcode_long": "The Adventist Home, p. 129 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 6&mdash;The New Home",
+    "puborder": 363,
+    "translations": [
+      {
+        "para_id": "13839.450",
+        "lang": "bg",
+        "refcode": "ХД 53"
+      },
+      {
+        "para_id": "177.593",
+        "lang": "es",
+        "refcode": "HC 114"
+      },
+      {
+        "para_id": "193.555",
+        "lang": "fr",
+        "refcode": "FC 123"
+      },
+      {
+        "para_id": "12869.638",
+        "lang": "id",
+        "refcode": "MKB 120"
+      },
+      {
+        "para_id": "891.308",
+        "lang": "it",
+        "refcode": "FC 50"
+      },
+      {
+        "para_id": "12178.478",
+        "lang": "pl",
+        "refcode": "ChD 80"
+      },
+      {
+        "para_id": "1955.740",
+        "lang": "pt",
+        "refcode": "LA 131"
+      },
+      {
+        "para_id": "2026.555",
+        "lang": "ro",
+        "refcode": "CA 131"
+      },
+      {
+        "para_id": "1803.529",
+        "lang": "ru",
+        "refcode": "ХД 130"
+      },
+      {
+        "para_id": "12131.495",
+        "lang": "uk",
+        "refcode": "ХР 103"
+      }
+    ]
+  },
+  {
+    "para_id": "128.565",
+    "id_prev": "128.563",
+    "id_next": "128.566",
+    "refcode_1": "AH",
+    "refcode_2": "131",
+    "refcode_3": "",
+    "refcode_4": "19",
+    "refcode_short": "AH 131",
+    "refcode_long": "The Adventist Home, p. 131 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 19&mdash;Where Shall the Home Be?",
+    "puborder": 364,
+    "translations": [
+      {
+        "para_id": "13839.451",
+        "lang": "bg",
+        "refcode": "ХД 53"
+      },
+      {
+        "para_id": "177.594",
+        "lang": "es",
+        "refcode": "HC 114"
+      },
+      {
+        "para_id": "193.558",
+        "lang": "fr",
+        "refcode": "FC 125"
+      },
+      {
+        "para_id": "12869.640",
+        "lang": "id",
+        "refcode": "MKB 121"
+      },
+      {
+        "para_id": "891.309",
+        "lang": "it",
+        "refcode": "FC 50"
+      },
+      {
+        "para_id": "12178.479",
+        "lang": "pl",
+        "refcode": "ChD 80"
+      },
+      {
+        "para_id": "1955.741",
+        "lang": "pt",
+        "refcode": "LA 131"
+      },
+      {
+        "para_id": "2026.556",
+        "lang": "ro",
+        "refcode": "CA 131"
+      },
+      {
+        "para_id": "1803.531",
+        "lang": "ru",
+        "refcode": "ХД 131"
+      },
+      {
+        "para_id": "12131.497",
+        "lang": "uk",
+        "refcode": "ХР 104"
+      }
+    ]
+  },
+  {
+    "para_id": "128.566",
+    "id_prev": "128.565",
+    "id_next": "128.567",
+    "refcode_1": "AH",
+    "refcode_2": "131",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 131.1",
+    "refcode_long": "The Adventist Home, p. 131.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Guiding Principles in Choosing the Location</strong>&mdash;In choosing a home, God would have us consider, first of all, the moral and religious influences that will surround us and our families.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 169.1\" data-link=\"84.688\">Patriarchs and Prophets, 169</span>.</span></a></sup>",
+    "puborder": 365,
+    "translations": [
+      {
+        "para_id": "13839.452",
+        "lang": "bg",
+        "refcode": "ХД 53.1"
+      },
+      {
+        "para_id": "177.595",
+        "lang": "es",
+        "refcode": "HC 114.1"
+      },
+      {
+        "para_id": "193.559",
+        "lang": "fr",
+        "refcode": "FC 125.1"
+      },
+      {
+        "para_id": "12869.642",
+        "lang": "id",
+        "refcode": "MKB 121.1"
+      },
+      {
+        "para_id": "891.310",
+        "lang": "it",
+        "refcode": "FC 50"
+      },
+      {
+        "para_id": "891.311",
+        "lang": "it",
+        "refcode": "FC 50.1"
+      },
+      {
+        "para_id": "12178.480",
+        "lang": "pl",
+        "refcode": "ChD 80.1"
+      },
+      {
+        "para_id": "1955.742",
+        "lang": "pt",
+        "refcode": "LA 131"
+      },
+      {
+        "para_id": "1955.743",
+        "lang": "pt",
+        "refcode": "LA 131.1"
+      },
+      {
+        "para_id": "2026.557",
+        "lang": "ro",
+        "refcode": "CA 131.1"
+      },
+      {
+        "para_id": "1803.532",
+        "lang": "ru",
+        "refcode": "ХД 131.1"
+      },
+      {
+        "para_id": "12131.498",
+        "lang": "uk",
+        "refcode": "ХР 104.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.567",
+    "id_prev": "128.566",
+    "id_next": "128.568",
+    "refcode_1": "AH",
+    "refcode_2": "131",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 131.2",
+    "refcode_long": "The Adventist Home, p. 131.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "We should choose the society most favorable to our spiritual advancement, and avail ourselves of every help within our reach; for Satan will oppose many hindrances to make our progress toward heaven as difficult as possible. We may be placed in trying positions, for many cannot have their surroundings what they would; but we should not voluntarily expose ourselves to influences that are unfavorable to the formation of Christian character. When duty calls us to do this, we should be doubly watchful and prayerful, that, through the grace of Christ, we may stand uncorrupted.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MYP 419.1\" data-link=\"76.2150\">Messages to Young People, 419</span>.</span></a></sup>",
+    "puborder": 366,
+    "translations": [
+      {
+        "para_id": "13839.453",
+        "lang": "bg",
+        "refcode": "ХД 53.2"
+      },
+      {
+        "para_id": "177.596",
+        "lang": "es",
+        "refcode": "HC 114.2"
+      },
+      {
+        "para_id": "193.560",
+        "lang": "fr",
+        "refcode": "FC 125.2"
+      },
+      {
+        "para_id": "12869.643",
+        "lang": "id",
+        "refcode": "MKB 121.2"
+      },
+      {
+        "para_id": "891.312",
+        "lang": "it",
+        "refcode": "FC 50.2"
+      },
+      {
+        "para_id": "12178.481",
+        "lang": "pl",
+        "refcode": "ChD 80.2"
+      },
+      {
+        "para_id": "1955.744",
+        "lang": "pt",
+        "refcode": "LA 131.2"
+      },
+      {
+        "para_id": "2026.558",
+        "lang": "ro",
+        "refcode": "CA 131.2"
+      },
+      {
+        "para_id": "1803.533",
+        "lang": "ru",
+        "refcode": "ХД 131.2"
+      },
+      {
+        "para_id": "12131.499",
+        "lang": "uk",
+        "refcode": "ХР 104.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.568",
+    "id_prev": "128.567",
+    "id_next": "128.569",
+    "refcode_1": "AH",
+    "refcode_2": "131",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 131.3",
+    "refcode_long": "The Adventist Home, p. 131.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The gospel ... teaches us to estimate things at their true value, and to give the most effort to the things of greatest worth&mdash;the things that will endure. This lesson is needed by those upon whom rests the responsibility of selecting a home. They should not allow themselves to be diverted from the highest aim....",
+    "puborder": 367,
+    "translations": [
+      {
+        "para_id": "13839.454",
+        "lang": "bg",
+        "refcode": "ХД 53.3"
+      },
+      {
+        "para_id": "177.597",
+        "lang": "es",
+        "refcode": "HC 114.3"
+      },
+      {
+        "para_id": "193.561",
+        "lang": "fr",
+        "refcode": "FC 125.3"
+      },
+      {
+        "para_id": "12869.646",
+        "lang": "id",
+        "refcode": "MKB 122.1"
+      },
+      {
+        "para_id": "891.313",
+        "lang": "it",
+        "refcode": "FC 50.3"
+      },
+      {
+        "para_id": "12178.482",
+        "lang": "pl",
+        "refcode": "ChD 80.3"
+      },
+      {
+        "para_id": "1955.745",
+        "lang": "pt",
+        "refcode": "LA 131.3"
+      },
+      {
+        "para_id": "2026.559",
+        "lang": "ro",
+        "refcode": "CA 131.3"
+      },
+      {
+        "para_id": "1803.534",
+        "lang": "ru",
+        "refcode": "ХД 131.3"
+      },
+      {
+        "para_id": "12131.500",
+        "lang": "uk",
+        "refcode": "ХР 104.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.569",
+    "id_prev": "128.568",
+    "id_next": "128.570",
+    "refcode_1": "AH",
+    "refcode_2": "131",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 131.4",
+    "refcode_long": "The Adventist Home, p. 131.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As the location for a home is sought, let this purpose direct the choice. Be not controlled by the desire for wealth, the dictates of fashion, or the customs of society. Consider what will tend most to simplicity, purity, health, and real worth....",
+    "puborder": 368,
+    "translations": [
+      {
+        "para_id": "13839.455",
+        "lang": "bg",
+        "refcode": "ХД 53.4"
+      },
+      {
+        "para_id": "177.598",
+        "lang": "es",
+        "refcode": "HC 114.4"
+      },
+      {
+        "para_id": "193.562",
+        "lang": "fr",
+        "refcode": "FC 125.4"
+      },
+      {
+        "para_id": "12869.647",
+        "lang": "id",
+        "refcode": "MKB 122.2"
+      },
+      {
+        "para_id": "891.313",
+        "lang": "it",
+        "refcode": "FC 50.3"
+      },
+      {
+        "para_id": "12178.483",
+        "lang": "pl",
+        "refcode": "ChD 80.4"
+      },
+      {
+        "para_id": "1955.746",
+        "lang": "pt",
+        "refcode": "LA 131.4"
+      },
+      {
+        "para_id": "2026.560",
+        "lang": "ro",
+        "refcode": "CA 131.4"
+      },
+      {
+        "para_id": "1803.535",
+        "lang": "ru",
+        "refcode": "ХД 131.4"
+      },
+      {
+        "para_id": "12131.501",
+        "lang": "uk",
+        "refcode": "ХР 104.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.570",
+    "id_prev": "128.569",
+    "id_next": "128.573",
+    "refcode_1": "AH",
+    "refcode_2": "131",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 131.5",
+    "refcode_long": "The Adventist Home, p. 131.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Instead of dwelling where only the works of men can be seen, where the sights and sounds frequently suggest thoughts of evil, where turmoil and confusion bring weariness and disquietude, go where you can look upon <span class=\"page-break\" data-page=\"132\"></span> the works of God. Find rest of spirit in the beauty and quietude and peace of nature. Let the eye rest on the green fields, the groves, and the hills. Look up to the blue sky, unobscured by the city&apos;s dust and smoke, and breathe the invigorating air of heaven.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 363.1\" data-link=\"135.1832\">The Ministry of Healing, 363, 366, 367</span>.</span></a></sup>",
+    "puborder": 369,
+    "translations": [
+      {
+        "para_id": "13839.456",
+        "lang": "bg",
+        "refcode": "ХД 53.5"
+      },
+      {
+        "para_id": "177.601",
+        "lang": "es",
+        "refcode": "HC 115.1"
+      },
+      {
+        "para_id": "193.563",
+        "lang": "fr",
+        "refcode": "FC 125.5"
+      },
+      {
+        "para_id": "12869.648",
+        "lang": "id",
+        "refcode": "MKB 122.3"
+      },
+      {
+        "para_id": "891.313",
+        "lang": "it",
+        "refcode": "FC 50.3"
+      },
+      {
+        "para_id": "12178.484",
+        "lang": "pl",
+        "refcode": "ChD 80.5"
+      },
+      {
+        "para_id": "1955.747",
+        "lang": "pt",
+        "refcode": "LA 131.5"
+      },
+      {
+        "para_id": "2026.561",
+        "lang": "ro",
+        "refcode": "CA 131.5"
+      },
+      {
+        "para_id": "1803.536",
+        "lang": "ru",
+        "refcode": "ХД 131.5"
+      },
+      {
+        "para_id": "12131.502",
+        "lang": "uk",
+        "refcode": "ХР 104.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.573",
+    "id_prev": "128.570",
+    "id_next": "128.574",
+    "refcode_1": "AH",
+    "refcode_2": "132",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 132.1",
+    "refcode_long": "The Adventist Home, p. 132.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The First Home a Model</strong>&mdash;The home of our first parents was to be a pattern for other homes as their children should go forth to occupy the earth. That home, beautified by the hand of God Himself, was not a gorgeous palace. Men, in their pride, delight in magnificent and costly edifices, and glory in the works of their own hands: but God placed Adam in a garden. This was his dwelling. The blue heavens were its dome; the earth, with its delicate flowers and carpet of living green, was its floor; and the leafy branches of the goodly trees were its canopy. Its walls were hung with the most magnificent adornings&mdash;the handiwork of the great Master Artist. In the surroundings of the holy pair was a lesson for all time&mdash;that true happiness is found, not in the indulgence of pride and luxury, but in communion with God through His created works. If men would give less attention to the artificial and would cultivate greater simplicity, they would come far nearer to answering the purpose of God in their creation. Pride and ambition are never satisfied, but those who are truly wise will find substantial and elevating pleasure in the sources of enjoyment that God has placed within the reach of all.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 49.1\" data-link=\"84.143\">Patriarchs and Prophets, 49, 50</span>.</span></a></sup>",
+    "puborder": 370,
+    "translations": [
+      {
+        "para_id": "13839.457",
+        "lang": "bg",
+        "refcode": "ХД 53.6"
+      },
+      {
+        "para_id": "177.602",
+        "lang": "es",
+        "refcode": "HC 115.2"
+      },
+      {
+        "para_id": "177.603",
+        "lang": "es",
+        "refcode": "HC 115.3"
+      },
+      {
+        "para_id": "193.566",
+        "lang": "fr",
+        "refcode": "FC 126.1"
+      },
+      {
+        "para_id": "12869.650",
+        "lang": "id",
+        "refcode": "MKB 122.4"
+      },
+      {
+        "para_id": "891.315",
+        "lang": "it",
+        "refcode": "FC 50.4"
+      },
+      {
+        "para_id": "891.314",
+        "lang": "it",
+        "refcode": "FC 50"
+      },
+      {
+        "para_id": "12178.487",
+        "lang": "pl",
+        "refcode": "ChD 81.1"
+      },
+      {
+        "para_id": "1955.751",
+        "lang": "pt",
+        "refcode": "LA 132.1"
+      },
+      {
+        "para_id": "1955.750",
+        "lang": "pt",
+        "refcode": "LA 132"
+      },
+      {
+        "para_id": "2026.564",
+        "lang": "ro",
+        "refcode": "CA 132.1"
+      },
+      {
+        "para_id": "1803.539",
+        "lang": "ru",
+        "refcode": "ХД 132.1"
+      },
+      {
+        "para_id": "12131.506",
+        "lang": "uk",
+        "refcode": "ХР 105.2"
+      },
+      {
+        "para_id": "12131.505",
+        "lang": "uk",
+        "refcode": "ХР 105.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.574",
+    "id_prev": "128.573",
+    "id_next": "128.577",
+    "refcode_1": "AH",
+    "refcode_2": "132",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 132.2",
+    "refcode_long": "The Adventist Home, p. 132.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God&apos;s Choice of an Earthly Home for His Son</strong>&mdash;Jesus came to this earth to accomplish the greatest work ever accomplished among men. He came as God&apos;s ambassador, to show us how to live so as to secure life&apos;s best results. What were the conditions chosen by the Infinite <span class=\"page-break\" data-page=\"133\"></span> Father for His Son? A secluded home in the Galilean hills; a household sustained by honest, self-respecting labor; a life of simplicity; daily conflict with difficulty and hardship; self-sacrifice, economy, and patient, gladsome service; the hour of study at His mother&apos;s side, with the open scroll of Scripture; the quiet of dawn or twilight in the green valley; the holy ministries of nature; the study of creation and providence; and the soul&apos;s communion with God&mdash;these were the conditions and opportunities of the early life of Jesus.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 365.1\" data-link=\"135.1839\">The Ministry of Healing, 365, 366</span>.</span></a></sup>",
+    "puborder": 371,
+    "translations": [
+      {
+        "para_id": "13839.460",
+        "lang": "bg",
+        "refcode": "ХД 54.1"
+      },
+      {
+        "para_id": "177.606",
+        "lang": "es",
+        "refcode": "HC 116.1"
+      },
+      {
+        "para_id": "193.567",
+        "lang": "fr",
+        "refcode": "FC 126.2"
+      },
+      {
+        "para_id": "12869.654",
+        "lang": "id",
+        "refcode": "MKB 123.1"
+      },
+      {
+        "para_id": "891.318",
+        "lang": "it",
+        "refcode": "FC 51"
+      },
+      {
+        "para_id": "891.319",
+        "lang": "it",
+        "refcode": "FC 51.1"
+      },
+      {
+        "para_id": "12178.488",
+        "lang": "pl",
+        "refcode": "ChD 81.2"
+      },
+      {
+        "para_id": "1955.752",
+        "lang": "pt",
+        "refcode": "LA 132"
+      },
+      {
+        "para_id": "1955.753",
+        "lang": "pt",
+        "refcode": "LA 132.2"
+      },
+      {
+        "para_id": "2026.565",
+        "lang": "ro",
+        "refcode": "CA 132.2"
+      },
+      {
+        "para_id": "1803.540",
+        "lang": "ru",
+        "refcode": "ХД 132.2"
+      },
+      {
+        "para_id": "12131.507",
+        "lang": "uk",
+        "refcode": "ХР 105.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.577",
+    "id_prev": "128.574",
+    "id_next": "128.578",
+    "refcode_1": "AH",
+    "refcode_2": "133",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 133.1",
+    "refcode_long": "The Adventist Home, p. 133.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Rural Homes in the Promised Land</strong>&mdash;In the Promised Land the discipline begun in the wilderness was continued under circumstances favorable to the formation of right habits. The people were not crowded together in cities, but each family had its own landed possession, ensuring to all the health-giving blessings of a natural, unperverted life.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 280.1\" data-link=\"135.1402\">Ibid., 280</span>.</span></a></sup>",
+    "puborder": 372,
+    "translations": [
+      {
+        "para_id": "13839.461",
+        "lang": "bg",
+        "refcode": "ХД 54.2"
+      },
+      {
+        "para_id": "177.607",
+        "lang": "es",
+        "refcode": "HC 116.2"
+      },
+      {
+        "para_id": "193.570",
+        "lang": "fr",
+        "refcode": "FC 127.1"
+      },
+      {
+        "para_id": "12869.656",
+        "lang": "id",
+        "refcode": "MKB 123.2"
+      },
+      {
+        "para_id": "891.320",
+        "lang": "it",
+        "refcode": "FC 51"
+      },
+      {
+        "para_id": "891.321",
+        "lang": "it",
+        "refcode": "FC 51.2"
+      },
+      {
+        "para_id": "12178.489",
+        "lang": "pl",
+        "refcode": "ChD 81.3"
+      },
+      {
+        "para_id": "1955.757",
+        "lang": "pt",
+        "refcode": "LA 133.1"
+      },
+      {
+        "para_id": "1955.756",
+        "lang": "pt",
+        "refcode": "LA 133"
+      },
+      {
+        "para_id": "2026.568",
+        "lang": "ro",
+        "refcode": "CA 133.1"
+      },
+      {
+        "para_id": "1803.543",
+        "lang": "ru",
+        "refcode": "ХД 133.1"
+      },
+      {
+        "para_id": "12131.508",
+        "lang": "uk",
+        "refcode": "ХР 105.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.578",
+    "id_prev": "128.577",
+    "id_next": "128.581",
+    "refcode_1": "AH",
+    "refcode_2": "133",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 133.2",
+    "refcode_long": "The Adventist Home, p. 133.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Effect of Environment on the Character of John</strong>&mdash;John the Baptist, the forerunner of Christ, received his early training from his parents. The greater portion of his life was spent in the wilderness.... It was John&apos;s choice to forego the enjoyments and luxuries of city life for the stern discipline of the wilderness. Here his surroundings were favorable to habits of simplicity and self-denial. Uninterrupted by the clamor of the world, he could here study the lessons of nature, of revelation, and of providence.... From his childhood his mission had been kept before him, and he accepted the holy trust. To him the solitude of the desert was a welcome escape from the society in which suspicion, unbelief, and impurity had become well-nigh all-pervading. He distrusted his own power to withstand temptation and shrank from <span class=\"page-break\" data-page=\"134\"></span> constant contact with sin lest he should lose the sense of its exceeding sinfulness.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"8T 221.1\" data-link=\"112.1268\">Testimonies for the Church 8:221</span>.</span></a></sup>",
+    "puborder": 373,
+    "translations": [
+      {
+        "para_id": "13839.462",
+        "lang": "bg",
+        "refcode": "ХД 54.3"
+      },
+      {
+        "para_id": "177.608",
+        "lang": "es",
+        "refcode": "HC 116.3"
+      },
+      {
+        "para_id": "193.571",
+        "lang": "fr",
+        "refcode": "FC 127.2"
+      },
+      {
+        "para_id": "12869.661",
+        "lang": "id",
+        "refcode": "MKB 124.1"
+      },
+      {
+        "para_id": "12869.658",
+        "lang": "id",
+        "refcode": "MKB 123.3"
+      },
+      {
+        "para_id": "891.322",
+        "lang": "it",
+        "refcode": "FC 51"
+      },
+      {
+        "para_id": "891.323",
+        "lang": "it",
+        "refcode": "FC 51.3"
+      },
+      {
+        "para_id": "12178.492",
+        "lang": "pl",
+        "refcode": "ChD 82.1"
+      },
+      {
+        "para_id": "1955.759",
+        "lang": "pt",
+        "refcode": "LA 133.2"
+      },
+      {
+        "para_id": "1955.758",
+        "lang": "pt",
+        "refcode": "LA 133"
+      },
+      {
+        "para_id": "2026.569",
+        "lang": "ro",
+        "refcode": "CA 133.2"
+      },
+      {
+        "para_id": "1803.544",
+        "lang": "ru",
+        "refcode": "ХД 133.2"
+      },
+      {
+        "para_id": "12131.510",
+        "lang": "uk",
+        "refcode": "ХР 106.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.581",
+    "id_prev": "128.578",
+    "id_next": "128.582",
+    "refcode_1": "AH",
+    "refcode_2": "134",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 134.1",
+    "refcode_long": "The Adventist Home, p. 134.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Other Worthies Reared in Country Homes</strong>&mdash;So with the great majority of the best and noblest men of all ages. Read the history of Abraham, Jacob, and Joseph; of Moses, David, and Elisha. Study the lives of men of later times who have most worthily filled positions of trust and responsibility.",
+    "puborder": 374,
+    "translations": [
+      {
+        "para_id": "13839.463",
+        "lang": "bg",
+        "refcode": "ХД 54.4"
+      },
+      {
+        "para_id": "177.611",
+        "lang": "es",
+        "refcode": "HC 117.1"
+      },
+      {
+        "para_id": "193.572",
+        "lang": "fr",
+        "refcode": "FC 127.3"
+      },
+      {
+        "para_id": "12869.663",
+        "lang": "id",
+        "refcode": "MKB 124.2"
+      },
+      {
+        "para_id": "891.327",
+        "lang": "it",
+        "refcode": "FC 52.1"
+      },
+      {
+        "para_id": "891.326",
+        "lang": "it",
+        "refcode": "FC 52"
+      },
+      {
+        "para_id": "12178.493",
+        "lang": "pl",
+        "refcode": "ChD 82.2"
+      },
+      {
+        "para_id": "1955.762",
+        "lang": "pt",
+        "refcode": "LA 134.1"
+      },
+      {
+        "para_id": "1955.761",
+        "lang": "pt",
+        "refcode": "LA 134"
+      },
+      {
+        "para_id": "2026.572",
+        "lang": "ro",
+        "refcode": "CA 134.1"
+      },
+      {
+        "para_id": "1803.547",
+        "lang": "ru",
+        "refcode": "ХД 134.1"
+      },
+      {
+        "para_id": "12131.511",
+        "lang": "uk",
+        "refcode": "ХР 106.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.582",
+    "id_prev": "128.581",
+    "id_next": "128.584",
+    "refcode_1": "AH",
+    "refcode_2": "134",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 134.2",
+    "refcode_long": "The Adventist Home, p. 134.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "How many of these were reared in country homes. They knew little of luxury. They did not spend their youth in amusement. Many were forced to struggle with poverty and hardship. They early learned to work, and their active life in the open air gave vigor and elasticity to all their faculties. Forced to depend upon their own resources, they learned to combat difficulties and to surmount obstacles, and they gained courage and perseverance. They learned the lessons of self-reliance and self-control. Sheltered in a great degree from evil associations, they were satisfied with natural pleasures and wholesome companionships. They were simple in their tastes and temperate in their habits. They were governed by principle, and they grew up pure and strong and true. When called to their lifework, they brought to it physical and mental power, buoyancy of spirit, ability to plan and execute, and steadfastness in resisting evil that made them a positive power for good in the world.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 366.1\" data-link=\"135.1844\">The Ministry of Healing, 366</span>.</span></a></sup>",
+    "puborder": 375,
+    "translations": [
+      {
+        "para_id": "13839.464",
+        "lang": "bg",
+        "refcode": "ХД 54.5"
+      },
+      {
+        "para_id": "177.612",
+        "lang": "es",
+        "refcode": "HC 117.2"
+      },
+      {
+        "para_id": "193.573",
+        "lang": "fr",
+        "refcode": "FC 127.4"
+      },
+      {
+        "para_id": "12869.664",
+        "lang": "id",
+        "refcode": "MKB 124.3"
+      },
+      {
+        "para_id": "891.328",
+        "lang": "it",
+        "refcode": "FC 52.2"
+      },
+      {
+        "para_id": "12178.494",
+        "lang": "pl",
+        "refcode": "ChD 82.3"
+      },
+      {
+        "para_id": "1955.763",
+        "lang": "pt",
+        "refcode": "LA 134.2"
+      },
+      {
+        "para_id": "2026.573",
+        "lang": "ro",
+        "refcode": "CA 134.2"
+      },
+      {
+        "para_id": "1803.548",
+        "lang": "ru",
+        "refcode": "ХД 134.2"
+      },
+      {
+        "para_id": "12131.512",
+        "lang": "uk",
+        "refcode": "ХР 106.3"
+      }
+    ]
+  }
+]

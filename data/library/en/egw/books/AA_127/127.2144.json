@@ -1,0 +1,1184 @@
+[
+  {
+    "para_id": "127.2144",
+    "id_prev": "127.2142",
+    "id_next": "127.2145",
+    "refcode_1": "AA",
+    "refcode_2": "485",
+    "refcode_3": "",
+    "refcode_4": "46",
+    "refcode_short": "AA 485",
+    "refcode_long": "The Acts of the Apostles, p. 485 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 46&mdash;At Liberty",
+    "puborder": 1339,
+    "translations": [
+      {
+        "para_id": "13804.1605",
+        "lang": "bg",
+        "refcode": "Дa 189"
+      },
+      {
+        "para_id": "11590.2052",
+        "lang": "ce",
+        "refcode": "ABA 414"
+      },
+      {
+        "para_id": "11247.1961",
+        "lang": "cs",
+        "refcode": "PNL 280"
+      },
+      {
+        "para_id": "813.2143",
+        "lang": "de",
+        "refcode": "WA 481"
+      },
+      {
+        "para_id": "198.1991",
+        "lang": "es",
+        "refcode": "HAp 387"
+      },
+      {
+        "para_id": "158.2049",
+        "lang": "fr",
+        "refcode": "CP 431"
+      },
+      {
+        "para_id": "11938.1850",
+        "lang": "hu",
+        "refcode": "AT 319"
+      },
+      {
+        "para_id": "12410.2005",
+        "lang": "id",
+        "refcode": "KR 410"
+      },
+      {
+        "para_id": "882.1859",
+        "lang": "it",
+        "refcode": "UVI 304"
+      },
+      {
+        "para_id": "12335.1776",
+        "lang": "nb",
+        "refcode": "AV 280"
+      },
+      {
+        "para_id": "12008.1671",
+        "lang": "pl",
+        "refcode": "DA 268"
+      },
+      {
+        "para_id": "1806.1749",
+        "lang": "pt",
+        "refcode": "AA 248.6"
+      },
+      {
+        "para_id": "2013.2129",
+        "lang": "ro",
+        "refcode": "FA 485"
+      },
+      {
+        "para_id": "1785.2092",
+        "lang": "ru",
+        "refcode": "ДА 485"
+      },
+      {
+        "para_id": "13874.1785",
+        "lang": "rw",
+        "refcode": "INI 300"
+      },
+      {
+        "para_id": "11182.1761",
+        "lang": "sk",
+        "refcode": "SA 291"
+      },
+      {
+        "para_id": "11904.1930",
+        "lang": "tl",
+        "refcode": "AGA 367"
+      },
+      {
+        "para_id": "11875.1878",
+        "lang": "uk",
+        "refcode": "ДА 333"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2145",
+    "id_prev": "127.2144",
+    "id_next": "127.2146",
+    "refcode_1": "AA",
+    "refcode_2": "485",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 485.1",
+    "refcode_long": "The Acts of the Apostles, p. 485.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "While Paul&apos;s labors in Rome were being blessed to the conversion of many souls and the strengthening and encouragement of the believers, clouds were gathering that threatened not only his own safety, but also the prosperity of the church. On his arrival in Rome he had been placed in charge of the captain of the imperial guards, a man of justice and integrity, by whose clemency he was left comparatively free to pursue the work of the gospel. But before the close of the two years&rsquo; imprisonment, this man was replaced by an official from whom the apostle could expect no special favor.",
+    "puborder": 1340,
+    "translations": [
+      {
+        "para_id": "13804.1606",
+        "lang": "bg",
+        "refcode": "Дa 189.4"
+      },
+      {
+        "para_id": "11590.2053",
+        "lang": "ce",
+        "refcode": "ABA 414.1"
+      },
+      {
+        "para_id": "11247.1962",
+        "lang": "cs",
+        "refcode": "PNL 280.1"
+      },
+      {
+        "para_id": "813.2144",
+        "lang": "de",
+        "refcode": "WA 481.1"
+      },
+      {
+        "para_id": "198.1992",
+        "lang": "es",
+        "refcode": "HAp 387.1"
+      },
+      {
+        "para_id": "158.2050",
+        "lang": "fr",
+        "refcode": "CP 431.1"
+      },
+      {
+        "para_id": "11938.1851",
+        "lang": "hu",
+        "refcode": "AT 319.1"
+      },
+      {
+        "para_id": "12410.2006",
+        "lang": "id",
+        "refcode": "KR 410.1"
+      },
+      {
+        "para_id": "882.1860",
+        "lang": "it",
+        "refcode": "UVI 304.1"
+      },
+      {
+        "para_id": "12335.1777",
+        "lang": "nb",
+        "refcode": "AV 280.1"
+      },
+      {
+        "para_id": "12008.1672",
+        "lang": "pl",
+        "refcode": "DA 268.1"
+      },
+      {
+        "para_id": "1806.1749",
+        "lang": "pt",
+        "refcode": "AA 248.6"
+      },
+      {
+        "para_id": "2013.2130",
+        "lang": "ro",
+        "refcode": "FA 485.1"
+      },
+      {
+        "para_id": "1785.2093",
+        "lang": "ru",
+        "refcode": "ДА 485.1"
+      },
+      {
+        "para_id": "13874.1786",
+        "lang": "rw",
+        "refcode": "INI 300.1"
+      },
+      {
+        "para_id": "11182.1762",
+        "lang": "sk",
+        "refcode": "SA 291.1"
+      },
+      {
+        "para_id": "11904.1931",
+        "lang": "tl",
+        "refcode": "AGA 367.1"
+      },
+      {
+        "para_id": "11875.1879",
+        "lang": "uk",
+        "refcode": "ДА 333.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2146",
+    "id_prev": "127.2145",
+    "id_next": "127.2147",
+    "refcode_1": "AA",
+    "refcode_2": "485",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 485.2",
+    "refcode_long": "The Acts of the Apostles, p. 485.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Jews were now more active than ever in their efforts against Paul, and they found an able helper in the profligate woman whom Nero had made his second wife, and who, being a Jewish proselyte, lent all her influence to aid their murderous designs against the champion of Christianity.",
+    "puborder": 1341,
+    "translations": [
+      {
+        "para_id": "13804.1607",
+        "lang": "bg",
+        "refcode": "Дa 189.5"
+      },
+      {
+        "para_id": "11590.2054",
+        "lang": "ce",
+        "refcode": "ABA 414.2"
+      },
+      {
+        "para_id": "11247.1963",
+        "lang": "cs",
+        "refcode": "PNL 280.2"
+      },
+      {
+        "para_id": "813.2145",
+        "lang": "de",
+        "refcode": "WA 481.2"
+      },
+      {
+        "para_id": "198.1993",
+        "lang": "es",
+        "refcode": "HAp 387.2"
+      },
+      {
+        "para_id": "158.2051",
+        "lang": "fr",
+        "refcode": "CP 431.2"
+      },
+      {
+        "para_id": "11938.1852",
+        "lang": "hu",
+        "refcode": "AT 319.2"
+      },
+      {
+        "para_id": "12410.2007",
+        "lang": "id",
+        "refcode": "KR 410.2"
+      },
+      {
+        "para_id": "882.1861",
+        "lang": "it",
+        "refcode": "UVI 304.2"
+      },
+      {
+        "para_id": "12335.1778",
+        "lang": "nb",
+        "refcode": "AV 280.2"
+      },
+      {
+        "para_id": "12008.1673",
+        "lang": "pl",
+        "refcode": "DA 268.2"
+      },
+      {
+        "para_id": "1806.1749",
+        "lang": "pt",
+        "refcode": "AA 248.6"
+      },
+      {
+        "para_id": "2013.2131",
+        "lang": "ro",
+        "refcode": "FA 485.2"
+      },
+      {
+        "para_id": "1785.2094",
+        "lang": "ru",
+        "refcode": "ДА 485.2"
+      },
+      {
+        "para_id": "13874.1787",
+        "lang": "rw",
+        "refcode": "INI 300.2"
+      },
+      {
+        "para_id": "11182.1762",
+        "lang": "sk",
+        "refcode": "SA 291.1"
+      },
+      {
+        "para_id": "11904.1932",
+        "lang": "tl",
+        "refcode": "AGA 367.2"
+      },
+      {
+        "para_id": "11875.1880",
+        "lang": "uk",
+        "refcode": "ДА 333.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2147",
+    "id_prev": "127.2146",
+    "id_next": "127.2150",
+    "refcode_1": "AA",
+    "refcode_2": "485",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 485.3",
+    "refcode_long": "The Acts of the Apostles, p. 485.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul could hope for little justice from the Caesar to whom he had appealed. Nero was more debased in morals, <span class=\"page-break\" data-page=\"486\"></span> more frivolous in character, and at the same time capable of more atrocious cruelty, than any ruler who had preceded him. The reins of government could not have been entrusted to a more despotic ruler. The first year of his reign had been marked by the poisoning of his young stepbrother, the rightful heir to the throne. From one depth of vice and crime to another, Nero had descended, until he had murdered his own mother, and then his wife. There was no atrocity which he would not perpetrate, no vile act to which he would not stoop. In every noble mind he inspired only abhorrence and contempt.",
+    "puborder": 1342,
+    "translations": [
+      {
+        "para_id": "13804.1608",
+        "lang": "bg",
+        "refcode": "Дa 189.6"
+      },
+      {
+        "para_id": "11590.2055",
+        "lang": "ce",
+        "refcode": "ABA 414.3"
+      },
+      {
+        "para_id": "11247.1964",
+        "lang": "cs",
+        "refcode": "PNL 280.3"
+      },
+      {
+        "para_id": "813.2146",
+        "lang": "de",
+        "refcode": "WA 481.3"
+      },
+      {
+        "para_id": "198.1994",
+        "lang": "es",
+        "refcode": "HAp 387.3"
+      },
+      {
+        "para_id": "158.2052",
+        "lang": "fr",
+        "refcode": "CP 431.3"
+      },
+      {
+        "para_id": "11938.1853",
+        "lang": "hu",
+        "refcode": "AT 319.3"
+      },
+      {
+        "para_id": "12410.2008",
+        "lang": "id",
+        "refcode": "KR 410.3"
+      },
+      {
+        "para_id": "882.1862",
+        "lang": "it",
+        "refcode": "UVI 304.3"
+      },
+      {
+        "para_id": "12335.1779",
+        "lang": "nb",
+        "refcode": "AV 280.3"
+      },
+      {
+        "para_id": "12008.1674",
+        "lang": "pl",
+        "refcode": "DA 268.3"
+      },
+      {
+        "para_id": "1806.1752",
+        "lang": "pt",
+        "refcode": "AA 249.1"
+      },
+      {
+        "para_id": "2013.2132",
+        "lang": "ro",
+        "refcode": "FA 485.3"
+      },
+      {
+        "para_id": "1785.2096",
+        "lang": "ru",
+        "refcode": "ДА 486.1"
+      },
+      {
+        "para_id": "13874.1788",
+        "lang": "rw",
+        "refcode": "INI 300.3"
+      },
+      {
+        "para_id": "11182.1763",
+        "lang": "sk",
+        "refcode": "SA 291.2"
+      },
+      {
+        "para_id": "11904.1933",
+        "lang": "tl",
+        "refcode": "AGA 367.3"
+      },
+      {
+        "para_id": "11875.1881",
+        "lang": "uk",
+        "refcode": "ДА 333.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2150",
+    "id_prev": "127.2147",
+    "id_next": "127.2151",
+    "refcode_1": "AA",
+    "refcode_2": "486",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 486.1",
+    "refcode_long": "The Acts of the Apostles, p. 486.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The details of the iniquity practiced in his court are too degrading, too horrible, for description. His abandoned wickedness created disgust and loathing, even in many who were forced to share his crimes. They were in constant fear as to what enormities he would suggest next. Yet even such crimes as Nero&apos;s did not shake the allegiance of his subjects. He was acknowledged as the absolute ruler of the whole civilized world. More than this, he was made the recipient of divine honors and was worshiped as a god.",
+    "puborder": 1343,
+    "translations": [
+      {
+        "para_id": "13804.1609",
+        "lang": "bg",
+        "refcode": "Дa 189.7"
+      },
+      {
+        "para_id": "11590.2058",
+        "lang": "ce",
+        "refcode": "ABA 415.1"
+      },
+      {
+        "para_id": "11247.1965",
+        "lang": "cs",
+        "refcode": "PNL 280.4"
+      },
+      {
+        "para_id": "813.2149",
+        "lang": "de",
+        "refcode": "WA 482.1"
+      },
+      {
+        "para_id": "198.1996",
+        "lang": "es",
+        "refcode": "HAp 388.1"
+      },
+      {
+        "para_id": "158.2055",
+        "lang": "fr",
+        "refcode": "CP 432.1"
+      },
+      {
+        "para_id": "11938.1854",
+        "lang": "hu",
+        "refcode": "AT 319.4"
+      },
+      {
+        "para_id": "12410.2011",
+        "lang": "id",
+        "refcode": "KR 411.1"
+      },
+      {
+        "para_id": "882.1863",
+        "lang": "it",
+        "refcode": "UVI 304.4"
+      },
+      {
+        "para_id": "12335.1780",
+        "lang": "nb",
+        "refcode": "AV 280.4"
+      },
+      {
+        "para_id": "12008.1675",
+        "lang": "pl",
+        "refcode": "DA 268.4"
+      },
+      {
+        "para_id": "1806.1753",
+        "lang": "pt",
+        "refcode": "AA 249.2"
+      },
+      {
+        "para_id": "2013.2135",
+        "lang": "ro",
+        "refcode": "FA 486.1"
+      },
+      {
+        "para_id": "1785.2097",
+        "lang": "ru",
+        "refcode": "ДА 486.2"
+      },
+      {
+        "para_id": "13874.1789",
+        "lang": "rw",
+        "refcode": "INI 300.4"
+      },
+      {
+        "para_id": "11182.1764",
+        "lang": "sk",
+        "refcode": "SA 291.3"
+      },
+      {
+        "para_id": "11904.1934",
+        "lang": "tl",
+        "refcode": "AGA 367.4"
+      },
+      {
+        "para_id": "11875.1883",
+        "lang": "uk",
+        "refcode": "ДА 334.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2151",
+    "id_prev": "127.2150",
+    "id_next": "127.2152",
+    "refcode_1": "AA",
+    "refcode_2": "486",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 486.2",
+    "refcode_long": "The Acts of the Apostles, p. 486.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "From the viewpoint of human judgment, Paul&apos;s condemnation before such a judge was certain. But the apostle felt that so long as he was loyal to God, he had nothing to fear. The One who in the past had been his protector could shield him still from the malice of the Jews and from the power of Caesar.",
+    "puborder": 1344,
+    "translations": [
+      {
+        "para_id": "13804.1612",
+        "lang": "bg",
+        "refcode": "Дa 190.1"
+      },
+      {
+        "para_id": "11590.2059",
+        "lang": "ce",
+        "refcode": "ABA 415.2"
+      },
+      {
+        "para_id": "11247.1968",
+        "lang": "cs",
+        "refcode": "PNL 281.1"
+      },
+      {
+        "para_id": "813.2150",
+        "lang": "de",
+        "refcode": "WA 482.2"
+      },
+      {
+        "para_id": "198.1997",
+        "lang": "es",
+        "refcode": "HAp 388.2"
+      },
+      {
+        "para_id": "158.2056",
+        "lang": "fr",
+        "refcode": "CP 432.2"
+      },
+      {
+        "para_id": "11938.1856",
+        "lang": "hu",
+        "refcode": "AT 320.1"
+      },
+      {
+        "para_id": "12410.2012",
+        "lang": "id",
+        "refcode": "KR 411.2"
+      },
+      {
+        "para_id": "882.1864",
+        "lang": "it",
+        "refcode": "UVI 304.5"
+      },
+      {
+        "para_id": "12335.1781",
+        "lang": "nb",
+        "refcode": "AV 280.5"
+      },
+      {
+        "para_id": "12008.1677",
+        "lang": "pl",
+        "refcode": "DA 269.1"
+      },
+      {
+        "para_id": "1806.1754",
+        "lang": "pt",
+        "refcode": "AA 249.3"
+      },
+      {
+        "para_id": "2013.2136",
+        "lang": "ro",
+        "refcode": "FA 486.2"
+      },
+      {
+        "para_id": "1785.2098",
+        "lang": "ru",
+        "refcode": "ДА 486.3"
+      },
+      {
+        "para_id": "13874.1790",
+        "lang": "rw",
+        "refcode": "INI 300.5"
+      },
+      {
+        "para_id": "11182.1764",
+        "lang": "sk",
+        "refcode": "SA 291.3"
+      },
+      {
+        "para_id": "11904.1937",
+        "lang": "tl",
+        "refcode": "AGA 368.1"
+      },
+      {
+        "para_id": "11875.1884",
+        "lang": "uk",
+        "refcode": "ДА 334.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2152",
+    "id_prev": "127.2151",
+    "id_next": "127.2155",
+    "refcode_1": "AA",
+    "refcode_2": "486",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 486.3",
+    "refcode_long": "The Acts of the Apostles, p. 486.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "And God did shield His servant. At Paul&apos;s examination the charges against him were not sustained, and, contrary to the general expectation, and with a regard for justice <span class=\"page-break\" data-page=\"487\"></span> wholly at variance with his character, Nero declared the prisoner guiltless. Paul&apos;s bonds were removed; he was again a free man.",
+    "puborder": 1345,
+    "translations": [
+      {
+        "para_id": "13804.1613",
+        "lang": "bg",
+        "refcode": "Дa 190.2"
+      },
+      {
+        "para_id": "11590.2060",
+        "lang": "ce",
+        "refcode": "ABA 415.3"
+      },
+      {
+        "para_id": "11247.1969",
+        "lang": "cs",
+        "refcode": "PNL 281.2"
+      },
+      {
+        "para_id": "813.2151",
+        "lang": "de",
+        "refcode": "WA 482.3"
+      },
+      {
+        "para_id": "198.1998",
+        "lang": "es",
+        "refcode": "HAp 388.3"
+      },
+      {
+        "para_id": "158.2057",
+        "lang": "fr",
+        "refcode": "CP 432.3"
+      },
+      {
+        "para_id": "11938.1857",
+        "lang": "hu",
+        "refcode": "AT 320.2"
+      },
+      {
+        "para_id": "12410.2013",
+        "lang": "id",
+        "refcode": "KR 411.3"
+      },
+      {
+        "para_id": "882.1867",
+        "lang": "it",
+        "refcode": "UVI 305.1"
+      },
+      {
+        "para_id": "12335.1784",
+        "lang": "nb",
+        "refcode": "AV 281.1"
+      },
+      {
+        "para_id": "12008.1678",
+        "lang": "pl",
+        "refcode": "DA 269.2"
+      },
+      {
+        "para_id": "1806.1757",
+        "lang": "pt",
+        "refcode": "AA 249.6"
+      },
+      {
+        "para_id": "2013.2137",
+        "lang": "ro",
+        "refcode": "FA 486.3"
+      },
+      {
+        "para_id": "1785.2099",
+        "lang": "ru",
+        "refcode": "ДА 486.4"
+      },
+      {
+        "para_id": "13874.1792",
+        "lang": "rw",
+        "refcode": "INI 301.1"
+      },
+      {
+        "para_id": "11182.1766",
+        "lang": "sk",
+        "refcode": "SA 292.1"
+      },
+      {
+        "para_id": "11904.1938",
+        "lang": "tl",
+        "refcode": "AGA 368.2"
+      },
+      {
+        "para_id": "11875.1885",
+        "lang": "uk",
+        "refcode": "ДА 334.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2155",
+    "id_prev": "127.2152",
+    "id_next": "127.2156",
+    "refcode_1": "AA",
+    "refcode_2": "487",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 487.1",
+    "refcode_long": "The Acts of the Apostles, p. 487.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Had his trial been longer deferred, or had he from any cause been detained in Rome until the following year, he would doubtless have perished in the persecution which then took place. During Paul&apos;s imprisonment the converts to Christianity had become so numerous as to attract the attention and arouse the enmity of the authorities. The anger of the emperor was especially excited by the conversion of members of his own household, and he soon found a pretext to make the Christians the objects of his merciless cruelty.",
+    "puborder": 1346,
+    "translations": [
+      {
+        "para_id": "13804.1614",
+        "lang": "bg",
+        "refcode": "Дa 190.3"
+      },
+      {
+        "para_id": "11590.2061",
+        "lang": "ce",
+        "refcode": "ABA 415.4"
+      },
+      {
+        "para_id": "11247.1970",
+        "lang": "cs",
+        "refcode": "PNL 281.3"
+      },
+      {
+        "para_id": "813.2153",
+        "lang": "de",
+        "refcode": "WA 483.1"
+      },
+      {
+        "para_id": "198.1999",
+        "lang": "es",
+        "refcode": "HAp 388.4"
+      },
+      {
+        "para_id": "158.2060",
+        "lang": "fr",
+        "refcode": "CP 433.1"
+      },
+      {
+        "para_id": "158.2058",
+        "lang": "fr",
+        "refcode": "CP 432.4"
+      },
+      {
+        "para_id": "11938.1858",
+        "lang": "hu",
+        "refcode": "AT 320.3"
+      },
+      {
+        "para_id": "12410.2014",
+        "lang": "id",
+        "refcode": "KR 411.4"
+      },
+      {
+        "para_id": "882.1868",
+        "lang": "it",
+        "refcode": "UVI 305.2"
+      },
+      {
+        "para_id": "12335.1785",
+        "lang": "nb",
+        "refcode": "AV 281.2"
+      },
+      {
+        "para_id": "12008.1679",
+        "lang": "pl",
+        "refcode": "DA 269.3"
+      },
+      {
+        "para_id": "1806.1757",
+        "lang": "pt",
+        "refcode": "AA 249.6"
+      },
+      {
+        "para_id": "2013.2140",
+        "lang": "ro",
+        "refcode": "FA 487.1"
+      },
+      {
+        "para_id": "1785.2102",
+        "lang": "ru",
+        "refcode": "ДА 487.1"
+      },
+      {
+        "para_id": "13874.1793",
+        "lang": "rw",
+        "refcode": "INI 301.2"
+      },
+      {
+        "para_id": "11182.1767",
+        "lang": "sk",
+        "refcode": "SA 292.2"
+      },
+      {
+        "para_id": "11904.1939",
+        "lang": "tl",
+        "refcode": "AGA 368.3"
+      },
+      {
+        "para_id": "11875.1886",
+        "lang": "uk",
+        "refcode": "ДА 334.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2156",
+    "id_prev": "127.2155",
+    "id_next": "127.2157",
+    "refcode_1": "AA",
+    "refcode_2": "487",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 487.2",
+    "refcode_long": "The Acts of the Apostles, p. 487.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "About this time a terrible fire occurred in Rome by which nearly one half of the city was burned. Nero himself, it was rumored, had caused the flames to be kindled, but to avert suspicion he made a pretense of great generosity by assisting the homeless and destitute. He was, however, accused of the crime. The people were excited and enraged, and in order to clear himself, and also to rid the city of a class whom he feared and hated, Nero turned the accusation upon the Christians. His device succeeded, and thousands of the followers of Christ&mdash;men, women, and children&mdash;were cruelly put to death.",
+    "puborder": 1347,
+    "translations": [
+      {
+        "para_id": "13804.1615",
+        "lang": "bg",
+        "refcode": "Дa 190.4"
+      },
+      {
+        "para_id": "11590.2062",
+        "lang": "ce",
+        "refcode": "ABA 415.5"
+      },
+      {
+        "para_id": "11247.1971",
+        "lang": "cs",
+        "refcode": "PNL 281.4"
+      },
+      {
+        "para_id": "813.2154",
+        "lang": "de",
+        "refcode": "WA 483.2"
+      },
+      {
+        "para_id": "198.2000",
+        "lang": "es",
+        "refcode": "HAp 388.5"
+      },
+      {
+        "para_id": "158.2061",
+        "lang": "fr",
+        "refcode": "CP 433.2"
+      },
+      {
+        "para_id": "11938.1859",
+        "lang": "hu",
+        "refcode": "AT 320.4"
+      },
+      {
+        "para_id": "12410.2015",
+        "lang": "id",
+        "refcode": "KR 411.5"
+      },
+      {
+        "para_id": "882.1869",
+        "lang": "it",
+        "refcode": "UVI 305.3"
+      },
+      {
+        "para_id": "12335.1786",
+        "lang": "nb",
+        "refcode": "AV 281.3"
+      },
+      {
+        "para_id": "12008.1680",
+        "lang": "pl",
+        "refcode": "DA 269.4"
+      },
+      {
+        "para_id": "1806.1757",
+        "lang": "pt",
+        "refcode": "AA 249.6"
+      },
+      {
+        "para_id": "2013.2141",
+        "lang": "ro",
+        "refcode": "FA 487.2"
+      },
+      {
+        "para_id": "1785.2103",
+        "lang": "ru",
+        "refcode": "ДА 487.2"
+      },
+      {
+        "para_id": "13874.1794",
+        "lang": "rw",
+        "refcode": "INI 301.3"
+      },
+      {
+        "para_id": "11182.1768",
+        "lang": "sk",
+        "refcode": "SA 292.3"
+      },
+      {
+        "para_id": "11904.1940",
+        "lang": "tl",
+        "refcode": "AGA 368.4"
+      },
+      {
+        "para_id": "11875.1887",
+        "lang": "uk",
+        "refcode": "ДА 334.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2157",
+    "id_prev": "127.2156",
+    "id_next": "127.2160",
+    "refcode_1": "AA",
+    "refcode_2": "487",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 487.3",
+    "refcode_long": "The Acts of the Apostles, p. 487.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "From this terrible persecution Paul was spared, for soon after his release he had left Rome. This last interval of freedom he diligently improved in laboring among the churches. He sought to establish a firmer union between the Greek and the Eastern churches and to fortify the minds <span class=\"page-break\" data-page=\"488\"></span> of the believers against the false doctrines that were creeping in to corrupt the faith.",
+    "puborder": 1348,
+    "translations": [
+      {
+        "para_id": "13804.1616",
+        "lang": "bg",
+        "refcode": "Дa 190.5"
+      },
+      {
+        "para_id": "11590.2065",
+        "lang": "ce",
+        "refcode": "ABA 416.1"
+      },
+      {
+        "para_id": "11247.1972",
+        "lang": "cs",
+        "refcode": "PNL 281.5"
+      },
+      {
+        "para_id": "813.2155",
+        "lang": "de",
+        "refcode": "WA 483.3"
+      },
+      {
+        "para_id": "198.2003",
+        "lang": "es",
+        "refcode": "HAp 389.1"
+      },
+      {
+        "para_id": "158.2062",
+        "lang": "fr",
+        "refcode": "CP 433.3"
+      },
+      {
+        "para_id": "11938.1860",
+        "lang": "hu",
+        "refcode": "AT 320.5"
+      },
+      {
+        "para_id": "12410.2018",
+        "lang": "id",
+        "refcode": "KR 412.1"
+      },
+      {
+        "para_id": "882.1870",
+        "lang": "it",
+        "refcode": "UVI 305.4"
+      },
+      {
+        "para_id": "12335.1787",
+        "lang": "nb",
+        "refcode": "AV 281.4"
+      },
+      {
+        "para_id": "12008.1681",
+        "lang": "pl",
+        "refcode": "DA 269.5"
+      },
+      {
+        "para_id": "1806.1760",
+        "lang": "pt",
+        "refcode": "AA 250.1"
+      },
+      {
+        "para_id": "2013.2142",
+        "lang": "ro",
+        "refcode": "FA 487.3"
+      },
+      {
+        "para_id": "1785.2104",
+        "lang": "ru",
+        "refcode": "ДА 487.3"
+      },
+      {
+        "para_id": "13874.1795",
+        "lang": "rw",
+        "refcode": "INI 301.4"
+      },
+      {
+        "para_id": "11182.1769",
+        "lang": "sk",
+        "refcode": "SA 292.4"
+      },
+      {
+        "para_id": "11904.1941",
+        "lang": "tl",
+        "refcode": "AGA 368.5"
+      },
+      {
+        "para_id": "11875.1890",
+        "lang": "uk",
+        "refcode": "ДА 335.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2160",
+    "id_prev": "127.2157",
+    "id_next": "127.2162",
+    "refcode_1": "AA",
+    "refcode_2": "488",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 488.1",
+    "refcode_long": "The Acts of the Apostles, p. 488.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The trials and anxieties that Paul had endured had preyed upon his physical powers. The infirmities of age were upon him. He felt that he was now doing his last work, and, as the time of his labor grew shorter, his efforts became more intense. There seemed to be no limit to his zeal. Resolute in purpose, prompt in action, strong in faith, he journeyed from church to church, in many lands, and sought by every means within his power to strengthen the hands of the believers, that they might do faithful work in winning souls to Jesus, and that in the trying times upon which they were even then entering, they might remain steadfast to the gospel, bearing faithful witness for Christ.",
+    "puborder": 1349,
+    "translations": [
+      {
+        "para_id": "13804.1617",
+        "lang": "bg",
+        "refcode": "Дa 190.6"
+      },
+      {
+        "para_id": "11590.2066",
+        "lang": "ce",
+        "refcode": "ABA 416.2"
+      },
+      {
+        "para_id": "11247.1973",
+        "lang": "cs",
+        "refcode": "PNL 281.6"
+      },
+      {
+        "para_id": "813.2156",
+        "lang": "de",
+        "refcode": "WA 483.4"
+      },
+      {
+        "para_id": "198.2004",
+        "lang": "es",
+        "refcode": "HAp 389.2"
+      },
+      {
+        "para_id": "158.2063",
+        "lang": "fr",
+        "refcode": "CP 433.4"
+      },
+      {
+        "para_id": "11938.1861",
+        "lang": "hu",
+        "refcode": "AT 320.6"
+      },
+      {
+        "para_id": "12410.2019",
+        "lang": "id",
+        "refcode": "KR 412.2"
+      },
+      {
+        "para_id": "882.1871",
+        "lang": "it",
+        "refcode": "UVI 305.5"
+      },
+      {
+        "para_id": "12335.1788",
+        "lang": "nb",
+        "refcode": "AV 281.5"
+      },
+      {
+        "para_id": "12008.1682",
+        "lang": "pl",
+        "refcode": "DA 269.6"
+      },
+      {
+        "para_id": "1806.1761",
+        "lang": "pt",
+        "refcode": "AA 250.2"
+      },
+      {
+        "para_id": "2013.2145",
+        "lang": "ro",
+        "refcode": "FA 488.1"
+      },
+      {
+        "para_id": "1785.2107",
+        "lang": "ru",
+        "refcode": "ДА 488.1"
+      },
+      {
+        "para_id": "13874.1796",
+        "lang": "rw",
+        "refcode": "INI 301.5"
+      },
+      {
+        "para_id": "11182.1770",
+        "lang": "sk",
+        "refcode": "SA 292.5"
+      },
+      {
+        "para_id": "11904.1944",
+        "lang": "tl",
+        "refcode": "AGA 369.1"
+      },
+      {
+        "para_id": "11875.1891",
+        "lang": "uk",
+        "refcode": "ДА 335.2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.539",
+    "id_prev": "21.536",
+    "id_next": "21.540",
+    "refcode_1": "CSW",
+    "refcode_2": "117",
+    "refcode_3": "",
+    "refcode_4": "78",
+    "refcode_short": "CSW 117",
+    "refcode_long": "Counsels on Sabbath School Work, p. 117 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Controversy in the Class",
+    "puborder": 337,
+    "translations": [
+      {
+        "para_id": "11629.513",
+        "lang": "da",
+        "refcode": "RSSA 117"
+      },
+      {
+        "para_id": "799.513",
+        "lang": "de",
+        "refcode": "RSs 97"
+      },
+      {
+        "para_id": "1711.577",
+        "lang": "es",
+        "refcode": "COES 130"
+      },
+      {
+        "para_id": "1917.631",
+        "lang": "pt",
+        "refcode": "CES38 60"
+      },
+      {
+        "para_id": "1724.574",
+        "lang": "pt",
+        "refcode": "CES 117"
+      },
+      {
+        "para_id": "2719.554",
+        "lang": "ro",
+        "refcode": "SSS 117"
+      },
+      {
+        "para_id": "1873.534",
+        "lang": "ru",
+        "refcode": "ССШ 117"
+      }
+    ]
+  },
+  {
+    "para_id": "21.540",
+    "id_prev": "21.539",
+    "id_next": "21.541",
+    "refcode_1": "CSW",
+    "refcode_2": "117",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 117.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 117.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Lessons should be taught in the Sabbath school that will shed light into the chambers of heart and mind. And that this may be accomplished, the teachers must be under the influence of the Holy Spirit, that all selfishness may be subdued, that no hasty word may be spoken, no inconsiderate action may be performed, but that the grace of God may be manifested as working with human effort for the salvation of souls. This should be the great end of Sabbath school work. The Sabbath school should not be made a place for controversy; it is not the place to make differences of opinion manifested. Let all this kind of work be kept out of the school, and let harmony be maintained. If ideas are advanced that are questioned by members of the school, let not a combative spirit arise and discussion and controversy follow.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 51.1\" data-link=\"121.197\"><em>Testimonies on Sabbath-School Work</em>, 51, 52</span>.",
+    "puborder": 338,
+    "translations": [
+      {
+        "para_id": "11629.514",
+        "lang": "da",
+        "refcode": "RSSA 117.1"
+      },
+      {
+        "para_id": "799.514",
+        "lang": "de",
+        "refcode": "RSs 97.2"
+      },
+      {
+        "para_id": "1711.578",
+        "lang": "es",
+        "refcode": "COES 130.1"
+      },
+      {
+        "para_id": "1917.632",
+        "lang": "pt",
+        "refcode": "CES38 60.5"
+      },
+      {
+        "para_id": "1724.575",
+        "lang": "pt",
+        "refcode": "CES 117.1"
+      },
+      {
+        "para_id": "2719.555",
+        "lang": "ro",
+        "refcode": "SSS 117.1"
+      },
+      {
+        "para_id": "1873.535",
+        "lang": "ru",
+        "refcode": "ССШ 117.1"
+      }
+    ]
+  }
+]

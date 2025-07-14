@@ -1,0 +1,873 @@
+[
+  {
+    "para_id": "127.2162",
+    "id_prev": "127.2160",
+    "id_next": "127.2163",
+    "refcode_1": "AA",
+    "refcode_2": "489",
+    "refcode_3": "",
+    "refcode_4": "47",
+    "refcode_short": "AA 489",
+    "refcode_long": "The Acts of the Apostles, p. 489 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 47&mdash;The Final Arrest",
+    "puborder": 1350,
+    "translations": [
+      {
+        "para_id": "13804.1618",
+        "lang": "bg",
+        "refcode": "Дa 190"
+      },
+      {
+        "para_id": "11590.2068",
+        "lang": "ce",
+        "refcode": "ABA 417"
+      },
+      {
+        "para_id": "11247.1975",
+        "lang": "cs",
+        "refcode": "PNL 282"
+      },
+      {
+        "para_id": "813.2160",
+        "lang": "de",
+        "refcode": "WA 485"
+      },
+      {
+        "para_id": "198.2006",
+        "lang": "es",
+        "refcode": "HAp 390"
+      },
+      {
+        "para_id": "158.2066",
+        "lang": "fr",
+        "refcode": "CP 435"
+      },
+      {
+        "para_id": "11938.1865",
+        "lang": "hu",
+        "refcode": "AT 322"
+      },
+      {
+        "para_id": "12410.2021",
+        "lang": "id",
+        "refcode": "KR 413"
+      },
+      {
+        "para_id": "882.1873",
+        "lang": "it",
+        "refcode": "UVI 306"
+      },
+      {
+        "para_id": "12335.1790",
+        "lang": "nb",
+        "refcode": "AV 282"
+      },
+      {
+        "para_id": "12008.1684",
+        "lang": "pl",
+        "refcode": "DA 270"
+      },
+      {
+        "para_id": "1806.1764",
+        "lang": "pt",
+        "refcode": "AA 251"
+      },
+      {
+        "para_id": "2013.2147",
+        "lang": "ro",
+        "refcode": "FA 489"
+      },
+      {
+        "para_id": "1785.2109",
+        "lang": "ru",
+        "refcode": "ДА 489"
+      },
+      {
+        "para_id": "13874.1798",
+        "lang": "rw",
+        "refcode": "INI 302"
+      },
+      {
+        "para_id": "11182.1773",
+        "lang": "sk",
+        "refcode": "SA 293"
+      },
+      {
+        "para_id": "11904.1946",
+        "lang": "tl",
+        "refcode": "AGA 370"
+      },
+      {
+        "para_id": "11875.1893",
+        "lang": "uk",
+        "refcode": "ДА 336"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2163",
+    "id_prev": "127.2162",
+    "id_next": "127.2164",
+    "refcode_1": "AA",
+    "refcode_2": "489",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 489.1",
+    "refcode_long": "The Acts of the Apostles, p. 489.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul&apos;s work among the churches after his acquittal at Rome, could not escape the observation of his enemies. Since the beginning of the persecution under Nero the Christians had everywhere been a proscribed sect. After a time the unbelieving Jews conceived the idea of fastening upon Paul the crime of instigating the burning of Rome. Not one of them thought for a moment that he was guilty; but they knew that such a charge, made with the faintest show of plausibility, would seal his doom. Through their efforts, Paul was again arrested, and hurried away to his final imprisonment.",
+    "puborder": 1351,
+    "translations": [
+      {
+        "para_id": "13804.1619",
+        "lang": "bg",
+        "refcode": "Дa 190.7"
+      },
+      {
+        "para_id": "11590.2069",
+        "lang": "ce",
+        "refcode": "ABA 417.1"
+      },
+      {
+        "para_id": "11247.1976",
+        "lang": "cs",
+        "refcode": "PNL 282.1"
+      },
+      {
+        "para_id": "813.2161",
+        "lang": "de",
+        "refcode": "WA 485.1"
+      },
+      {
+        "para_id": "198.2007",
+        "lang": "es",
+        "refcode": "HAp 390.1"
+      },
+      {
+        "para_id": "158.2067",
+        "lang": "fr",
+        "refcode": "CP 435.1"
+      },
+      {
+        "para_id": "11938.1866",
+        "lang": "hu",
+        "refcode": "AT 322.1"
+      },
+      {
+        "para_id": "12410.2022",
+        "lang": "id",
+        "refcode": "KR 413.1"
+      },
+      {
+        "para_id": "882.1874",
+        "lang": "it",
+        "refcode": "UVI 306.1"
+      },
+      {
+        "para_id": "12335.1791",
+        "lang": "nb",
+        "refcode": "AV 282.1"
+      },
+      {
+        "para_id": "12008.1685",
+        "lang": "pl",
+        "refcode": "DA 270.1"
+      },
+      {
+        "para_id": "1806.1764",
+        "lang": "pt",
+        "refcode": "AA 251"
+      },
+      {
+        "para_id": "2013.2148",
+        "lang": "ro",
+        "refcode": "FA 489.1"
+      },
+      {
+        "para_id": "1785.2110",
+        "lang": "ru",
+        "refcode": "ДА 489.1"
+      },
+      {
+        "para_id": "13874.1799",
+        "lang": "rw",
+        "refcode": "INI 302.1"
+      },
+      {
+        "para_id": "11182.1774",
+        "lang": "sk",
+        "refcode": "SA 293.1"
+      },
+      {
+        "para_id": "11904.1947",
+        "lang": "tl",
+        "refcode": "AGA 370.1"
+      },
+      {
+        "para_id": "11875.1894",
+        "lang": "uk",
+        "refcode": "ДА 336.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2164",
+    "id_prev": "127.2163",
+    "id_next": "127.2167",
+    "refcode_1": "AA",
+    "refcode_2": "489",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 489.2",
+    "refcode_long": "The Acts of the Apostles, p. 489.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "On his second voyage to Rome, Paul was accompanied by several of his former companions; others earnestly desired to share his lot, but he refused to permit them thus to imperil their lives. The prospect before him was far less favorable than at the time of his former imprisonment. The persecution under Nero had greatly lessened the number of Christians in Rome. Thousands had been martyred for their <span class=\"page-break\" data-page=\"490\"></span> faith, many had left the city, and those who remained were greatly depressed and intimidated.",
+    "puborder": 1352,
+    "translations": [
+      {
+        "para_id": "13804.1622",
+        "lang": "bg",
+        "refcode": "Дa 191.1"
+      },
+      {
+        "para_id": "11590.2070",
+        "lang": "ce",
+        "refcode": "ABA 417.2"
+      },
+      {
+        "para_id": "11247.1977",
+        "lang": "cs",
+        "refcode": "PNL 282.2"
+      },
+      {
+        "para_id": "813.2162",
+        "lang": "de",
+        "refcode": "WA 485.2"
+      },
+      {
+        "para_id": "198.2008",
+        "lang": "es",
+        "refcode": "HAp 390.2"
+      },
+      {
+        "para_id": "158.2068",
+        "lang": "fr",
+        "refcode": "CP 435.2"
+      },
+      {
+        "para_id": "158.2070",
+        "lang": "fr",
+        "refcode": "CP 436.1"
+      },
+      {
+        "para_id": "11938.1867",
+        "lang": "hu",
+        "refcode": "AT 322.2"
+      },
+      {
+        "para_id": "12410.2023",
+        "lang": "id",
+        "refcode": "KR 413.2"
+      },
+      {
+        "para_id": "882.1875",
+        "lang": "it",
+        "refcode": "UVI 306.2"
+      },
+      {
+        "para_id": "12335.1792",
+        "lang": "nb",
+        "refcode": "AV 282.2"
+      },
+      {
+        "para_id": "12008.1686",
+        "lang": "pl",
+        "refcode": "DA 270.2"
+      },
+      {
+        "para_id": "1806.1765",
+        "lang": "pt",
+        "refcode": "AA 251.1"
+      },
+      {
+        "para_id": "2013.2149",
+        "lang": "ro",
+        "refcode": "FA 489.2"
+      },
+      {
+        "para_id": "1785.2111",
+        "lang": "ru",
+        "refcode": "ДА 489.2"
+      },
+      {
+        "para_id": "13874.1800",
+        "lang": "rw",
+        "refcode": "INI 302.2"
+      },
+      {
+        "para_id": "11182.1775",
+        "lang": "sk",
+        "refcode": "SA 293.2"
+      },
+      {
+        "para_id": "11904.1948",
+        "lang": "tl",
+        "refcode": "AGA 370.2"
+      },
+      {
+        "para_id": "11875.1895",
+        "lang": "uk",
+        "refcode": "ДА 336.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2167",
+    "id_prev": "127.2164",
+    "id_next": "127.2168",
+    "refcode_1": "AA",
+    "refcode_2": "490",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 490.1",
+    "refcode_long": "The Acts of the Apostles, p. 490.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Upon his arrival at Rome, Paul was placed in a gloomy dungeon, there to remain until his course should be finished. Accused of instigating one of the basest and most terrible of crimes against the city and the nation, he was the object of universal execration.",
+    "puborder": 1353,
+    "translations": [
+      {
+        "para_id": "13804.1623",
+        "lang": "bg",
+        "refcode": "Дa 191.2"
+      },
+      {
+        "para_id": "11590.2071",
+        "lang": "ce",
+        "refcode": "ABA 417.3"
+      },
+      {
+        "para_id": "11247.1978",
+        "lang": "cs",
+        "refcode": "PNL 282.3"
+      },
+      {
+        "para_id": "813.2163",
+        "lang": "de",
+        "refcode": "WA 485.3"
+      },
+      {
+        "para_id": "198.2009",
+        "lang": "es",
+        "refcode": "HAp 390.3"
+      },
+      {
+        "para_id": "158.2071",
+        "lang": "fr",
+        "refcode": "CP 436.2"
+      },
+      {
+        "para_id": "11938.1868",
+        "lang": "hu",
+        "refcode": "AT 322.3"
+      },
+      {
+        "para_id": "12410.2024",
+        "lang": "id",
+        "refcode": "KR 413.3"
+      },
+      {
+        "para_id": "882.1876",
+        "lang": "it",
+        "refcode": "UVI 306.3"
+      },
+      {
+        "para_id": "12335.1793",
+        "lang": "nb",
+        "refcode": "AV 282.3"
+      },
+      {
+        "para_id": "12008.1687",
+        "lang": "pl",
+        "refcode": "DA 270.3"
+      },
+      {
+        "para_id": "1806.1766",
+        "lang": "pt",
+        "refcode": "AA 251.2"
+      },
+      {
+        "para_id": "2013.2152",
+        "lang": "ro",
+        "refcode": "FA 490.1"
+      },
+      {
+        "para_id": "1785.2114",
+        "lang": "ru",
+        "refcode": "ДА 490.1"
+      },
+      {
+        "para_id": "13874.1801",
+        "lang": "rw",
+        "refcode": "INI 302.3"
+      },
+      {
+        "para_id": "11182.1776",
+        "lang": "sk",
+        "refcode": "SA 293.3"
+      },
+      {
+        "para_id": "11904.1949",
+        "lang": "tl",
+        "refcode": "AGA 370.3"
+      },
+      {
+        "para_id": "11875.1896",
+        "lang": "uk",
+        "refcode": "ДА 336.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2168",
+    "id_prev": "127.2167",
+    "id_next": "127.2169",
+    "refcode_1": "AA",
+    "refcode_2": "490",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 490.2",
+    "refcode_long": "The Acts of the Apostles, p. 490.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The few friends who had shared the burdens of the apostle, now began to leave him, some by desertion, and others on missions to the various churches. Phygellus and Hermogenes were the first to go. Then Demas, dismayed by the thickening clouds of difficulty and danger, forsook the persecuted apostle. Crescens was sent by Paul to the churches of Galatia, Titus to Dalmatia, Tychicus to Ephesus. Writing to Timothy of this experience, Paul said, &ldquo;Only Luke is with me.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"2 Timothy 4:11\" data-link=\"1965.60949\">2 Timothy 4:11</span>. Never had the apostle needed the ministrations of his brethren as now, enfeebled as he was by age, toil, and infirmities, and confined in the damp, dark vaults of a Roman prison. The services of Luke, the beloved disciple and faithful friend, were a great comfort to Paul and enabled him to communicate with his brethren and the world without.",
+    "puborder": 1354,
+    "translations": [
+      {
+        "para_id": "13804.1624",
+        "lang": "bg",
+        "refcode": "Дa 191.3"
+      },
+      {
+        "para_id": "11590.2072",
+        "lang": "ce",
+        "refcode": "ABA 417.4"
+      },
+      {
+        "para_id": "11247.1979",
+        "lang": "cs",
+        "refcode": "PNL 282.4"
+      },
+      {
+        "para_id": "813.2167",
+        "lang": "de",
+        "refcode": "WA 486.2"
+      },
+      {
+        "para_id": "813.2166",
+        "lang": "de",
+        "refcode": "WA 486.1"
+      },
+      {
+        "para_id": "198.2010",
+        "lang": "es",
+        "refcode": "HAp 390.4"
+      },
+      {
+        "para_id": "158.2072",
+        "lang": "fr",
+        "refcode": "CP 436.3"
+      },
+      {
+        "para_id": "158.2073",
+        "lang": "fr",
+        "refcode": "CP 436.4"
+      },
+      {
+        "para_id": "11938.1869",
+        "lang": "hu",
+        "refcode": "AT 322.4"
+      },
+      {
+        "para_id": "12410.2027",
+        "lang": "id",
+        "refcode": "KR 414.1"
+      },
+      {
+        "para_id": "882.1877",
+        "lang": "it",
+        "refcode": "UVI 306.4"
+      },
+      {
+        "para_id": "12335.1794",
+        "lang": "nb",
+        "refcode": "AV 282.4"
+      },
+      {
+        "para_id": "12008.1688",
+        "lang": "pl",
+        "refcode": "DA 270.4"
+      },
+      {
+        "para_id": "1806.1767",
+        "lang": "pt",
+        "refcode": "AA 251.3"
+      },
+      {
+        "para_id": "2013.2153",
+        "lang": "ro",
+        "refcode": "FA 490.2"
+      },
+      {
+        "para_id": "1785.2115",
+        "lang": "ru",
+        "refcode": "ДА 490.2"
+      },
+      {
+        "para_id": "13874.1802",
+        "lang": "rw",
+        "refcode": "INI 302.4"
+      },
+      {
+        "para_id": "11182.1777",
+        "lang": "sk",
+        "refcode": "SA 293.4"
+      },
+      {
+        "para_id": "11904.1950",
+        "lang": "tl",
+        "refcode": "AGA 370.4"
+      },
+      {
+        "para_id": "11875.1897",
+        "lang": "uk",
+        "refcode": "ДА 336.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2169",
+    "id_prev": "127.2168",
+    "id_next": "127.2171",
+    "refcode_1": "AA",
+    "refcode_2": "490",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 490.3",
+    "refcode_long": "The Acts of the Apostles, p. 490.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In this trying time Paul&apos;s heart was cheered by frequent visits from Onesiphorus. This warmhearted Ephesian did all in his power to lighten the burden of the apostle&apos;s imprisonment. His beloved teacher was in bonds for the truth&apos;s sake, while he himself went free, and he spared himself no effort to make Paul&apos;s lot more bearable.",
+    "puborder": 1355,
+    "translations": [
+      {
+        "para_id": "13804.1625",
+        "lang": "bg",
+        "refcode": "Дa 191.4"
+      },
+      {
+        "para_id": "11590.2075",
+        "lang": "ce",
+        "refcode": "ABA 418.1"
+      },
+      {
+        "para_id": "11247.1982",
+        "lang": "cs",
+        "refcode": "PNL 283.1"
+      },
+      {
+        "para_id": "813.2168",
+        "lang": "de",
+        "refcode": "WA 486.3"
+      },
+      {
+        "para_id": "198.2013",
+        "lang": "es",
+        "refcode": "HAp 391.1"
+      },
+      {
+        "para_id": "158.2074",
+        "lang": "fr",
+        "refcode": "CP 436.5"
+      },
+      {
+        "para_id": "11938.1872",
+        "lang": "hu",
+        "refcode": "AT 323.1"
+      },
+      {
+        "para_id": "12410.2028",
+        "lang": "id",
+        "refcode": "KR 414.2"
+      },
+      {
+        "para_id": "882.1880",
+        "lang": "it",
+        "refcode": "UVI 307.1"
+      },
+      {
+        "para_id": "12335.1795",
+        "lang": "nb",
+        "refcode": "AV 282.5"
+      },
+      {
+        "para_id": "12008.1691",
+        "lang": "pl",
+        "refcode": "DA 271.1"
+      },
+      {
+        "para_id": "1806.1768",
+        "lang": "pt",
+        "refcode": "AA 251.4"
+      },
+      {
+        "para_id": "2013.2154",
+        "lang": "ro",
+        "refcode": "FA 490.3"
+      },
+      {
+        "para_id": "1785.2116",
+        "lang": "ru",
+        "refcode": "ДА 490.3"
+      },
+      {
+        "para_id": "13874.1805",
+        "lang": "rw",
+        "refcode": "INI 303.1"
+      },
+      {
+        "para_id": "11182.1779",
+        "lang": "sk",
+        "refcode": "SA 294.1"
+      },
+      {
+        "para_id": "11904.1953",
+        "lang": "tl",
+        "refcode": "AGA 371.1"
+      },
+      {
+        "para_id": "11875.1900",
+        "lang": "uk",
+        "refcode": "ДА 337.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2171",
+    "id_prev": "127.2169",
+    "id_next": "127.2172",
+    "refcode_1": "AA",
+    "refcode_2": "491",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 491.1",
+    "refcode_long": "The Acts of the Apostles, p. 491.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the last letter that the apostle ever wrote, he speaks thus of this faithful disciple: &ldquo;The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain; but, when he was in Rome, he sought me out very diligently, and found me. The Lord grant unto him that he may find mercy of the Lord in that day.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"2 Timothy 1:16\" data-link=\"1965.60834\">2 Timothy 1:16-18</span>.",
+    "puborder": 1356,
+    "translations": [
+      {
+        "para_id": "13804.1626",
+        "lang": "bg",
+        "refcode": "Дa 191.5"
+      },
+      {
+        "para_id": "11590.2076",
+        "lang": "ce",
+        "refcode": "ABA 418.2"
+      },
+      {
+        "para_id": "11247.1983",
+        "lang": "cs",
+        "refcode": "PNL 283.2"
+      },
+      {
+        "para_id": "813.2169",
+        "lang": "de",
+        "refcode": "WA 486.4"
+      },
+      {
+        "para_id": "198.2014",
+        "lang": "es",
+        "refcode": "HAp 391.2"
+      },
+      {
+        "para_id": "158.2074",
+        "lang": "fr",
+        "refcode": "CP 436.5"
+      },
+      {
+        "para_id": "11938.1873",
+        "lang": "hu",
+        "refcode": "AT 323.2"
+      },
+      {
+        "para_id": "12410.2029",
+        "lang": "id",
+        "refcode": "KR 414.3"
+      },
+      {
+        "para_id": "882.1881",
+        "lang": "it",
+        "refcode": "UVI 307.2"
+      },
+      {
+        "para_id": "12335.1798",
+        "lang": "nb",
+        "refcode": "AV 283.1"
+      },
+      {
+        "para_id": "12008.1692",
+        "lang": "pl",
+        "refcode": "DA 271.2"
+      },
+      {
+        "para_id": "1806.1770",
+        "lang": "pt",
+        "refcode": "AA 251.6"
+      },
+      {
+        "para_id": "2013.2156",
+        "lang": "ro",
+        "refcode": "FA 491.1"
+      },
+      {
+        "para_id": "1785.2118",
+        "lang": "ru",
+        "refcode": "ДА 491.1"
+      },
+      {
+        "para_id": "13874.1806",
+        "lang": "rw",
+        "refcode": "INI 303.2"
+      },
+      {
+        "para_id": "11182.1780",
+        "lang": "sk",
+        "refcode": "SA 294.2"
+      },
+      {
+        "para_id": "11904.1954",
+        "lang": "tl",
+        "refcode": "AGA 371.2"
+      },
+      {
+        "para_id": "11875.1901",
+        "lang": "uk",
+        "refcode": "ДА 337.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2172",
+    "id_prev": "127.2171",
+    "id_next": "127.2174",
+    "refcode_1": "AA",
+    "refcode_2": "491",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 491.2",
+    "refcode_long": "The Acts of the Apostles, p. 491.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The desire for love and sympathy is implanted in the heart by God Himself. Christ, in His hour of agony in Gethsemane, longed for the sympathy of His disciples. And Paul, though apparently indifferent to hardship and suffering, yearned for sympathy and companionship. The visit of Onesiphorus, testifying to his fidelity at a time of loneliness and desertion, brought gladness and cheer to one who had spent his life in service for others.",
+    "puborder": 1357,
+    "translations": [
+      {
+        "para_id": "13804.1627",
+        "lang": "bg",
+        "refcode": "Дa 191.6"
+      },
+      {
+        "para_id": "11590.2077",
+        "lang": "ce",
+        "refcode": "ABA 418.3"
+      },
+      {
+        "para_id": "11247.1984",
+        "lang": "cs",
+        "refcode": "PNL 283.3"
+      },
+      {
+        "para_id": "813.2171",
+        "lang": "de",
+        "refcode": "WA 487.1"
+      },
+      {
+        "para_id": "198.2015",
+        "lang": "es",
+        "refcode": "HAp 391.3"
+      },
+      {
+        "para_id": "158.2077",
+        "lang": "fr",
+        "refcode": "CP 437.1"
+      },
+      {
+        "para_id": "11938.1874",
+        "lang": "hu",
+        "refcode": "AT 323.3"
+      },
+      {
+        "para_id": "12410.2030",
+        "lang": "id",
+        "refcode": "KR 414.4"
+      },
+      {
+        "para_id": "882.1882",
+        "lang": "it",
+        "refcode": "UVI 307.3"
+      },
+      {
+        "para_id": "12335.1799",
+        "lang": "nb",
+        "refcode": "AV 283.2"
+      },
+      {
+        "para_id": "12008.1693",
+        "lang": "pl",
+        "refcode": "DA 271.3"
+      },
+      {
+        "para_id": "1806.1770",
+        "lang": "pt",
+        "refcode": "AA 251.6"
+      },
+      {
+        "para_id": "2013.2157",
+        "lang": "ro",
+        "refcode": "FA 491.2"
+      },
+      {
+        "para_id": "1785.2119",
+        "lang": "ru",
+        "refcode": "ДА 491.2"
+      },
+      {
+        "para_id": "13874.1807",
+        "lang": "rw",
+        "refcode": "INI 303.3"
+      },
+      {
+        "para_id": "11182.1781",
+        "lang": "sk",
+        "refcode": "SA 294.3"
+      },
+      {
+        "para_id": "11904.1955",
+        "lang": "tl",
+        "refcode": "AGA 371.3"
+      },
+      {
+        "para_id": "11875.1902",
+        "lang": "uk",
+        "refcode": "ДА 337.3"
+      }
+    ]
+  }
+]

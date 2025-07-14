@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.27",
+    "id_prev": "21.26",
+    "id_next": "21.28",
+    "refcode_1": "CSW",
+    "refcode_2": "10",
+    "refcode_3": "",
+    "refcode_4": "4",
+    "refcode_short": "CSW 10",
+    "refcode_long": "Counsels on Sabbath School Work, p. 10 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Most Effectual Soul-winning Agency",
+    "puborder": 16,
+    "translations": [
+      {
+        "para_id": "11629.11",
+        "lang": "da",
+        "refcode": "RSSA 10"
+      },
+      {
+        "para_id": "799.48",
+        "lang": "de",
+        "refcode": "RSs 14"
+      },
+      {
+        "para_id": "1711.41",
+        "lang": "es",
+        "refcode": "COES 10"
+      },
+      {
+        "para_id": "1724.53",
+        "lang": "pt",
+        "refcode": "CES 10"
+      },
+      {
+        "para_id": "1917.20",
+        "lang": "pt",
+        "refcode": "CES38 2"
+      },
+      {
+        "para_id": "2719.26",
+        "lang": "ro",
+        "refcode": "SSS 10"
+      },
+      {
+        "para_id": "1873.25",
+        "lang": "ru",
+        "refcode": "ССШ 10"
+      }
+    ]
+  },
+  {
+    "para_id": "21.28",
+    "id_prev": "21.27",
+    "id_next": "21.29",
+    "refcode_1": "CSW",
+    "refcode_2": "10",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 10.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 10.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Sabbath school should be one of the greatest instrumentalities, and the most effectual, in bringing souls to Christ.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 20.1\" data-link=\"121.70\"><em>Testimonies on Sabbath-School Work</em>, 20</span>.",
+    "puborder": 17,
+    "translations": [
+      {
+        "para_id": "11629.12",
+        "lang": "da",
+        "refcode": "RSSA 10.1"
+      },
+      {
+        "para_id": "799.49",
+        "lang": "de",
+        "refcode": "RSs 14.4"
+      },
+      {
+        "para_id": "1711.42",
+        "lang": "es",
+        "refcode": "COES 10.2"
+      },
+      {
+        "para_id": "1724.54",
+        "lang": "pt",
+        "refcode": "CES 10.2"
+      },
+      {
+        "para_id": "1917.21",
+        "lang": "pt",
+        "refcode": "CES38 2.4"
+      },
+      {
+        "para_id": "2719.27",
+        "lang": "ro",
+        "refcode": "SSS 10.2"
+      },
+      {
+        "para_id": "1873.26",
+        "lang": "ru",
+        "refcode": "ССШ 10.2"
+      }
+    ]
+  }
+]

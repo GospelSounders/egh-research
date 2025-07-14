@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.361",
+    "id_prev": "21.358",
+    "id_next": "21.362",
+    "refcode_1": "CSW",
+    "refcode_2": "80",
+    "refcode_3": "",
+    "refcode_4": "51",
+    "refcode_short": "CSW 80",
+    "refcode_long": "Counsels on Sabbath School Work, p. 80 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Children&apos;s Hearts Most Susceptible",
+    "puborder": 225,
+    "translations": [
+      {
+        "para_id": "11629.334",
+        "lang": "da",
+        "refcode": "RSSA 80"
+      },
+      {
+        "para_id": "799.349",
+        "lang": "de",
+        "refcode": "RSs 68"
+      },
+      {
+        "para_id": "1711.393",
+        "lang": "es",
+        "refcode": "COES 88"
+      },
+      {
+        "para_id": "1724.393",
+        "lang": "pt",
+        "refcode": "CES 80"
+      },
+      {
+        "para_id": "1917.421",
+        "lang": "pt",
+        "refcode": "CES38 40"
+      },
+      {
+        "para_id": "2719.371",
+        "lang": "ro",
+        "refcode": "SSS 80"
+      },
+      {
+        "para_id": "1873.357",
+        "lang": "ru",
+        "refcode": "ССШ 80"
+      }
+    ]
+  },
+  {
+    "para_id": "21.362",
+    "id_prev": "21.361",
+    "id_next": "21.363",
+    "refcode_1": "CSW",
+    "refcode_2": "80",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 80.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 80.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Sabbath school teachers have need of walking carefully and prayerfully before God. They must labor as those who must give an account. They are given an opportunity to win souls for Christ, and the longer the youth remain in impenitence, the more confirmed they become in their resistance of the Spirit of God. With increase of years it is probable that there will be a decrease of sensibility to divine things, a diminished susceptibility to the influences of religion. Every day Satan works to fasten them in their habits of disobedience, their spirit of impenitence, and there is less probability that they will become Christians . And what shall be the account finally to be rendered by indifferent teachers? Why does moral diffidence blind the soul of the teacher, and make him reluctant to put forth proper efforts for the conversion of precious souls of youth and children? Why not let the Holy Spirit create an atmosphere about the soul that will drive away moral darkness and bring heavenly light to others?&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 44.1\" data-link=\"121.165\"><em>Testimonies on Sabbath-School Work</em>, 44, 45</span>.",
+    "puborder": 226,
+    "translations": [
+      {
+        "para_id": "11629.335",
+        "lang": "da",
+        "refcode": "RSSA 80.1"
+      },
+      {
+        "para_id": "799.350",
+        "lang": "de",
+        "refcode": "RSs 68.3"
+      },
+      {
+        "para_id": "1711.394",
+        "lang": "es",
+        "refcode": "COES 88.2"
+      },
+      {
+        "para_id": "1917.422",
+        "lang": "pt",
+        "refcode": "CES38 40.5"
+      },
+      {
+        "para_id": "1724.394",
+        "lang": "pt",
+        "refcode": "CES 80.1"
+      },
+      {
+        "para_id": "2719.372",
+        "lang": "ro",
+        "refcode": "SSS 80.1"
+      },
+      {
+        "para_id": "1873.358",
+        "lang": "ru",
+        "refcode": "ССШ 80.1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1171 @@
+[
+  {
+    "para_id": "128.1683",
+    "id_prev": "128.1678",
+    "id_next": "128.1685",
+    "refcode_1": "AH",
+    "refcode_2": "365",
+    "refcode_3": "",
+    "refcode_4": "13",
+    "refcode_short": "AH 365",
+    "refcode_long": "The Adventist Home, p. 365 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 13&mdash;The Use of Money",
+    "puborder": 1113,
+    "translations": [
+      {
+        "para_id": "13839.1364",
+        "lang": "bg",
+        "refcode": "ХД 156"
+      },
+      {
+        "para_id": "177.1704",
+        "lang": "es",
+        "refcode": "HC 332"
+      },
+      {
+        "para_id": "193.1658",
+        "lang": "fr",
+        "refcode": "FC 351"
+      },
+      {
+        "para_id": "12869.2069",
+        "lang": "id",
+        "refcode": "MKB 348"
+      },
+      {
+        "para_id": "891.1116",
+        "lang": "it",
+        "refcode": "FC 152"
+      },
+      {
+        "para_id": "12178.1437",
+        "lang": "pl",
+        "refcode": "ChD 232"
+      },
+      {
+        "para_id": "1955.2155",
+        "lang": "pt",
+        "refcode": "LA 367"
+      },
+      {
+        "para_id": "2026.1678",
+        "lang": "ro",
+        "refcode": "CA 367"
+      },
+      {
+        "para_id": "1803.1631",
+        "lang": "ru",
+        "refcode": "ХД 366"
+      },
+      {
+        "para_id": "12131.1518",
+        "lang": "uk",
+        "refcode": "ХР 295"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1685",
+    "id_prev": "128.1683",
+    "id_next": "128.1686",
+    "refcode_1": "AH",
+    "refcode_2": "367",
+    "refcode_3": "",
+    "refcode_4": "60",
+    "refcode_short": "AH 367",
+    "refcode_long": "The Adventist Home, p. 367 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 60&mdash;Stewards of God",
+    "puborder": 1114,
+    "translations": [
+      {
+        "para_id": "13839.1365",
+        "lang": "bg",
+        "refcode": "ХД 156"
+      },
+      {
+        "para_id": "177.1705",
+        "lang": "es",
+        "refcode": "HC 332"
+      },
+      {
+        "para_id": "193.1661",
+        "lang": "fr",
+        "refcode": "FC 353"
+      },
+      {
+        "para_id": "12869.2071",
+        "lang": "id",
+        "refcode": "MKB 349"
+      },
+      {
+        "para_id": "891.1117",
+        "lang": "it",
+        "refcode": "FC 152"
+      },
+      {
+        "para_id": "12178.1438",
+        "lang": "pl",
+        "refcode": "ChD 232"
+      },
+      {
+        "para_id": "1955.2156",
+        "lang": "pt",
+        "refcode": "LA 367"
+      },
+      {
+        "para_id": "2026.1679",
+        "lang": "ro",
+        "refcode": "CA 367"
+      },
+      {
+        "para_id": "1803.1633",
+        "lang": "ru",
+        "refcode": "ХД 367"
+      },
+      {
+        "para_id": "12131.1520",
+        "lang": "uk",
+        "refcode": "ХР 296"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1686",
+    "id_prev": "128.1685",
+    "id_next": "128.1687",
+    "refcode_1": "AH",
+    "refcode_2": "367",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 367.1",
+    "refcode_long": "The Adventist Home, p. 367.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>We Are to Recognize God&apos;s Ownership</strong>&mdash;That which lies at the foundation of business integrity and of true success is the recognition of God&apos;s ownership. The Creator of all things, He is the original proprietor. We are His stewards. All that we have is a trust from Him, to be used according to His direction.",
+    "puborder": 1115,
+    "translations": [
+      {
+        "para_id": "13839.1366",
+        "lang": "bg",
+        "refcode": "ХД 156.1"
+      },
+      {
+        "para_id": "177.1706",
+        "lang": "es",
+        "refcode": "HC 332.1"
+      },
+      {
+        "para_id": "193.1662",
+        "lang": "fr",
+        "refcode": "FC 353.1"
+      },
+      {
+        "para_id": "12869.2073",
+        "lang": "id",
+        "refcode": "MKB 349.1"
+      },
+      {
+        "para_id": "891.1119",
+        "lang": "it",
+        "refcode": "FC 152.1"
+      },
+      {
+        "para_id": "891.1118",
+        "lang": "it",
+        "refcode": "FC 152"
+      },
+      {
+        "para_id": "12178.1439",
+        "lang": "pl",
+        "refcode": "ChD 232.1"
+      },
+      {
+        "para_id": "1955.2158",
+        "lang": "pt",
+        "refcode": "LA 367.1"
+      },
+      {
+        "para_id": "1955.2157",
+        "lang": "pt",
+        "refcode": "LA 367"
+      },
+      {
+        "para_id": "2026.1680",
+        "lang": "ro",
+        "refcode": "CA 367.1"
+      },
+      {
+        "para_id": "1803.1634",
+        "lang": "ru",
+        "refcode": "ХД 367.1"
+      },
+      {
+        "para_id": "12131.1521",
+        "lang": "uk",
+        "refcode": "ХР 296.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1687",
+    "id_prev": "128.1686",
+    "id_next": "128.1688",
+    "refcode_1": "AH",
+    "refcode_2": "367",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 367.2",
+    "refcode_long": "The Adventist Home, p. 367.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "This is an obligation that rests upon every human being. It has to do with the whole sphere of human activity. Whether we recognize it or not, we are stewards, supplied from God with talents and facilities and placed in the world to do a work appointed by Him.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ed 137.1\" data-link=\"29.670\">Education, 137</span>.</span></a></sup>",
+    "puborder": 1116,
+    "translations": [
+      {
+        "para_id": "13839.1367",
+        "lang": "bg",
+        "refcode": "ХД 156.2"
+      },
+      {
+        "para_id": "177.1707",
+        "lang": "es",
+        "refcode": "HC 332.2"
+      },
+      {
+        "para_id": "193.1663",
+        "lang": "fr",
+        "refcode": "FC 353.2"
+      },
+      {
+        "para_id": "12869.2074",
+        "lang": "id",
+        "refcode": "MKB 349.2"
+      },
+      {
+        "para_id": "891.1120",
+        "lang": "it",
+        "refcode": "FC 152.2"
+      },
+      {
+        "para_id": "12178.1440",
+        "lang": "pl",
+        "refcode": "ChD 232.2"
+      },
+      {
+        "para_id": "1955.2159",
+        "lang": "pt",
+        "refcode": "LA 367.2"
+      },
+      {
+        "para_id": "2026.1681",
+        "lang": "ro",
+        "refcode": "CA 367.2"
+      },
+      {
+        "para_id": "1803.1635",
+        "lang": "ru",
+        "refcode": "ХД 367.2"
+      },
+      {
+        "para_id": "12131.1521",
+        "lang": "uk",
+        "refcode": "ХР 296.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1688",
+    "id_prev": "128.1687",
+    "id_next": "128.1689",
+    "refcode_1": "AH",
+    "refcode_2": "367",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 367.3",
+    "refcode_long": "The Adventist Home, p. 367.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Money is not ours; houses and grounds, pictures and furniture, garments and luxuries, do not belong to us. We are pilgrims, we are strangers. We have only a grant of those things that are necessary for health and life.... Our temporal blessings are given us in trust, to prove whether we can be entrusted with eternal riches. If we endure the proving of God, then we shall receive that purchased possession which is to be our own&mdash;glory, honor, and immortality.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 8, 1889\" data-link=\"14056.4339001\">Letter 8, 1889</span>.</span></a></sup>",
+    "puborder": 1117,
+    "translations": [
+      {
+        "para_id": "13839.1368",
+        "lang": "bg",
+        "refcode": "ХД 156.3"
+      },
+      {
+        "para_id": "177.1708",
+        "lang": "es",
+        "refcode": "HC 332.3"
+      },
+      {
+        "para_id": "193.1664",
+        "lang": "fr",
+        "refcode": "FC 353.3"
+      },
+      {
+        "para_id": "12869.2075",
+        "lang": "id",
+        "refcode": "MKB 349.3"
+      },
+      {
+        "para_id": "891.1121",
+        "lang": "it",
+        "refcode": "FC 152.3"
+      },
+      {
+        "para_id": "12178.1441",
+        "lang": "pl",
+        "refcode": "ChD 232.3"
+      },
+      {
+        "para_id": "1955.2160",
+        "lang": "pt",
+        "refcode": "LA 367.3"
+      },
+      {
+        "para_id": "2026.1682",
+        "lang": "ro",
+        "refcode": "CA 367.3"
+      },
+      {
+        "para_id": "1803.1636",
+        "lang": "ru",
+        "refcode": "ХД 367.3"
+      },
+      {
+        "para_id": "12131.1522",
+        "lang": "uk",
+        "refcode": "ХР 296.2"
+      },
+      {
+        "para_id": "12131.1523",
+        "lang": "uk",
+        "refcode": "ХР 296.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1689",
+    "id_prev": "128.1688",
+    "id_next": "128.1692",
+    "refcode_1": "AH",
+    "refcode_2": "367",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 367.4",
+    "refcode_long": "The Adventist Home, p. 367.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>We Must Give an Account</strong>&mdash;If our own people would only put into the cause of God the money that has been lent them in trust, that portion which they spend in selfish gratification, in idolatry, they would lay up treasure in heaven, and would be doing the very work God requires them to do. But like the rich man in the parable, they live sumptuously. The money God has lent them in trust, to be used to His name&apos;s glory, they spend <span class=\"page-break\" data-page=\"368\"></span> extravagantly. They do not stop to consider their accountability to God. They do not stop to consider that there is to be a reckoning day not far hence, when they must give an account of their stewardship.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 21, 1898\" data-link=\"14063.6909001\">Letter 21, 1898</span>.</span></a></sup>",
+    "puborder": 1118,
+    "translations": [
+      {
+        "para_id": "177.1709",
+        "lang": "es",
+        "refcode": "HC 332.4"
+      },
+      {
+        "para_id": "193.1665",
+        "lang": "fr",
+        "refcode": "FC 353.4"
+      },
+      {
+        "para_id": "12869.2079",
+        "lang": "id",
+        "refcode": "MKB 350.1"
+      },
+      {
+        "para_id": "12178.1442",
+        "lang": "pl",
+        "refcode": "ChD 232.4"
+      },
+      {
+        "para_id": "1955.2162",
+        "lang": "pt",
+        "refcode": "LA 367.4"
+      },
+      {
+        "para_id": "1955.2161",
+        "lang": "pt",
+        "refcode": "LA 367"
+      },
+      {
+        "para_id": "2026.1683",
+        "lang": "ro",
+        "refcode": "CA 367.4"
+      },
+      {
+        "para_id": "1803.1637",
+        "lang": "ru",
+        "refcode": "ХД 367.4"
+      },
+      {
+        "para_id": "12131.1524",
+        "lang": "uk",
+        "refcode": "ХР 296.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1692",
+    "id_prev": "128.1689",
+    "id_next": "128.1693",
+    "refcode_1": "AH",
+    "refcode_2": "368",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 368.1",
+    "refcode_long": "The Adventist Home, p. 368.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "We should ever remember that in the judgment we must meet the record of the way we use God&apos;s money. Much is spent in self-pleasing, self-gratification, that does us no real good, but positive injury. If we realize that God is the giver of all good things, that the money is His, then we shall exercise wisdom in its expenditure, conforming to His holy will. The world, its customs, its fashions, will not be our standard. We shall not have a desire to conform to its practices; we shall not permit our own inclinations to control us.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 8, 1889\" data-link=\"14056.4339001\">Letter 8, 1889</span>.</span></a></sup>",
+    "puborder": 1119,
+    "translations": [
+      {
+        "para_id": "13839.1371",
+        "lang": "bg",
+        "refcode": "ХД 156.5"
+      },
+      {
+        "para_id": "177.1712",
+        "lang": "es",
+        "refcode": "HC 333.1"
+      },
+      {
+        "para_id": "193.1668",
+        "lang": "fr",
+        "refcode": "FC 354.1"
+      },
+      {
+        "para_id": "12869.2080",
+        "lang": "id",
+        "refcode": "MKB 350.2"
+      },
+      {
+        "para_id": "12178.1444",
+        "lang": "pl",
+        "refcode": "ChD 233.1"
+      },
+      {
+        "para_id": "1955.2165",
+        "lang": "pt",
+        "refcode": "LA 368.1"
+      },
+      {
+        "para_id": "2026.1686",
+        "lang": "ro",
+        "refcode": "CA 368.1"
+      },
+      {
+        "para_id": "1803.1640",
+        "lang": "ru",
+        "refcode": "ХД 368.1"
+      },
+      {
+        "para_id": "12131.1525",
+        "lang": "uk",
+        "refcode": "ХР 296.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1693",
+    "id_prev": "128.1692",
+    "id_next": "128.1694",
+    "refcode_1": "AH",
+    "refcode_2": "368",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 368.2",
+    "refcode_long": "The Adventist Home, p. 368.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In our use of money we can make it an agent of spiritual improvement by regarding it as a sacred trust, not to be employed to administer to pride, vanity, appetite, or passion.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 8, 1889\" data-link=\"14056.4339001\">Ibid</span>.</span></a></sup>",
+    "puborder": 1120,
+    "translations": [
+      {
+        "para_id": "13839.1373",
+        "lang": "bg",
+        "refcode": "ХД 157.1"
+      },
+      {
+        "para_id": "177.1713",
+        "lang": "es",
+        "refcode": "HC 333.2"
+      },
+      {
+        "para_id": "193.1669",
+        "lang": "fr",
+        "refcode": "FC 354.2"
+      },
+      {
+        "para_id": "12869.2081",
+        "lang": "id",
+        "refcode": "MKB 350.3"
+      },
+      {
+        "para_id": "12178.1445",
+        "lang": "pl",
+        "refcode": "ChD 233.2"
+      },
+      {
+        "para_id": "1955.2166",
+        "lang": "pt",
+        "refcode": "LA 368.2"
+      },
+      {
+        "para_id": "2026.1687",
+        "lang": "ro",
+        "refcode": "CA 368.2"
+      },
+      {
+        "para_id": "1803.1641",
+        "lang": "ru",
+        "refcode": "ХД 368.2"
+      },
+      {
+        "para_id": "12131.1528",
+        "lang": "uk",
+        "refcode": "ХР 297.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1694",
+    "id_prev": "128.1693",
+    "id_next": "128.1695",
+    "refcode_1": "AH",
+    "refcode_2": "368",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 368.3",
+    "refcode_long": "The Adventist Home, p. 368.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "I was shown that the recording angel makes a faithful record of every offering dedicated to God and put into the treasury and also of the final result of the means thus bestowed. The eye of God takes cognizance of every farthing devoted to His cause and of the willingness or reluctance of the giver. The motive in giving is also chronicled.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 518.1\" data-link=\"120.2236\">Testimonies for the Church 2:518, 519</span>.</span></a></sup>",
+    "puborder": 1121,
+    "translations": [
+      {
+        "para_id": "13839.1374",
+        "lang": "bg",
+        "refcode": "ХД 157.2"
+      },
+      {
+        "para_id": "177.1714",
+        "lang": "es",
+        "refcode": "HC 333.3"
+      },
+      {
+        "para_id": "193.1670",
+        "lang": "fr",
+        "refcode": "FC 354.3"
+      },
+      {
+        "para_id": "12869.2084",
+        "lang": "id",
+        "refcode": "MKB 351.1"
+      },
+      {
+        "para_id": "12178.1446",
+        "lang": "pl",
+        "refcode": "ChD 233.3"
+      },
+      {
+        "para_id": "1955.2167",
+        "lang": "pt",
+        "refcode": "LA 368.3"
+      },
+      {
+        "para_id": "2026.1688",
+        "lang": "ro",
+        "refcode": "CA 368.3"
+      },
+      {
+        "para_id": "1803.1642",
+        "lang": "ru",
+        "refcode": "ХД 368.3"
+      },
+      {
+        "para_id": "12131.1529",
+        "lang": "uk",
+        "refcode": "ХР 297.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1695",
+    "id_prev": "128.1694",
+    "id_next": "128.1698",
+    "refcode_1": "AH",
+    "refcode_2": "368",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 368.4",
+    "refcode_long": "The Adventist Home, p. 368.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Systematic Giving for the Family</strong>&mdash;&ldquo;Let every one of you lay by him in store, as God hath prospered him.&rdquo; Every member of the family, from the oldest down to the youngest, may take part in this work of benevolence.... The plan of systematic benevolence [<span class=\"non-egw-note\">Note: Reference is here made to plans followed early by the church in laying aside weekly the tithes and offerings.&mdash;<em>Compilers</em>.</span>] will prove a safeguard to every family against temptations to spend <span class=\"page-break\" data-page=\"369\"></span> means for needless things, and especially will it prove a blessing to the rich by guarding them from indulging in extravagances.",
+    "puborder": 1122,
+    "translations": [
+      {
+        "para_id": "13839.1375",
+        "lang": "bg",
+        "refcode": "ХД 157.3"
+      },
+      {
+        "para_id": "177.1715",
+        "lang": "es",
+        "refcode": "HC 333.4"
+      },
+      {
+        "para_id": "193.1671",
+        "lang": "fr",
+        "refcode": "FC 354.4"
+      },
+      {
+        "para_id": "12869.2086",
+        "lang": "id",
+        "refcode": "MKB 351.2"
+      },
+      {
+        "para_id": "12178.1447",
+        "lang": "pl",
+        "refcode": "ChD 233.4"
+      },
+      {
+        "para_id": "12178.1448",
+        "lang": "pl",
+        "refcode": "ChD 233.5"
+      },
+      {
+        "para_id": "1955.2169",
+        "lang": "pt",
+        "refcode": "LA 368.4"
+      },
+      {
+        "para_id": "1955.2168",
+        "lang": "pt",
+        "refcode": "LA 368"
+      },
+      {
+        "para_id": "2026.1689",
+        "lang": "ro",
+        "refcode": "CA 368.4"
+      },
+      {
+        "para_id": "1803.1643",
+        "lang": "ru",
+        "refcode": "ХД 368.4"
+      },
+      {
+        "para_id": "12131.1530",
+        "lang": "uk",
+        "refcode": "ХР 297.3"
+      },
+      {
+        "para_id": "12131.1531",
+        "lang": "uk",
+        "refcode": "ХР 297.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1698",
+    "id_prev": "128.1695",
+    "id_next": "128.1699",
+    "refcode_1": "AH",
+    "refcode_2": "369",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 369.1",
+    "refcode_long": "The Adventist Home, p. 369.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Every week the demands of God upon each family are brought to mind by each of its members fully carrying out the plan; and as they have denied themselves some superfluity in order to have means to put into the treasury, lessons of value in self-denial for the glory of God have been impressed upon the heart. Once a week each is brought face to face with the doings of the past week&mdash;the income that he might have had if he had been economical, and the means that he does not have because of indulgence. His conscience is reined up, as it were, before God and either commends or accuses him. He learns that if he retains peace of mind and the favor of God, he must eat and drink and dress to His glory.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"3T 412.1\" data-link=\"119.1920\">Ibid., 3:412</span>.</span></a></sup>",
+    "puborder": 1123,
+    "translations": [
+      {
+        "para_id": "13839.1376",
+        "lang": "bg",
+        "refcode": "ХД 157.4"
+      },
+      {
+        "para_id": "177.1718",
+        "lang": "es",
+        "refcode": "HC 334.1"
+      },
+      {
+        "para_id": "193.1674",
+        "lang": "fr",
+        "refcode": "FC 355.1"
+      },
+      {
+        "para_id": "12869.2087",
+        "lang": "id",
+        "refcode": "MKB 351.3"
+      },
+      {
+        "para_id": "12178.1449",
+        "lang": "pl",
+        "refcode": "ChD 233.6"
+      },
+      {
+        "para_id": "1955.2172",
+        "lang": "pt",
+        "refcode": "LA 369.1"
+      },
+      {
+        "para_id": "2026.1692",
+        "lang": "ro",
+        "refcode": "CA 369.1"
+      },
+      {
+        "para_id": "1803.1646",
+        "lang": "ru",
+        "refcode": "ХД 369.1"
+      },
+      {
+        "para_id": "12131.1532",
+        "lang": "uk",
+        "refcode": "ХР 297.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1699",
+    "id_prev": "128.1698",
+    "id_next": "128.1701",
+    "refcode_1": "AH",
+    "refcode_2": "369",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 369.2",
+    "refcode_long": "The Adventist Home, p. 369.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Make God&apos;s Requirements First</strong>&mdash;God&apos;s requirements come first. We are not doing His will if we consecrate to Him what is left of our income after all our imaginary wants have been supplied. Before any part of our earnings is consumed, we should take out and present to Him that portion which He claims. In the old dispensation an offering of gratitude was kept continually burning upon the altar, thus showing man&apos;s endless obligation to God. If we have prosperity in our secular business, it is because God blesses us. A part of this income is to be devoted to the poor, and a large portion to be applied to the cause of God. When that which God claims is rendered to Him, the remainder will be sanctified and blessed to our own use. But when a man robs God by withholding that which He requires, His curse rests upon the whole.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 477.1\" data-link=\"114.2348\">Ibid., 4:477</span>.</span></a></sup>",
+    "puborder": 1124,
+    "translations": [
+      {
+        "para_id": "13839.1377",
+        "lang": "bg",
+        "refcode": "ХД 157.5"
+      },
+      {
+        "para_id": "177.1719",
+        "lang": "es",
+        "refcode": "HC 334.2"
+      },
+      {
+        "para_id": "193.1675",
+        "lang": "fr",
+        "refcode": "FC 355.2"
+      },
+      {
+        "para_id": "12869.2089",
+        "lang": "id",
+        "refcode": "MKB 351.4"
+      },
+      {
+        "para_id": "891.1124",
+        "lang": "it",
+        "refcode": "FC 152.5"
+      },
+      {
+        "para_id": "891.1123",
+        "lang": "it",
+        "refcode": "FC 152.4"
+      },
+      {
+        "para_id": "891.1122",
+        "lang": "it",
+        "refcode": "FC 152"
+      },
+      {
+        "para_id": "12178.1451",
+        "lang": "pl",
+        "refcode": "ChD 234.1"
+      },
+      {
+        "para_id": "1955.2173",
+        "lang": "pt",
+        "refcode": "LA 369"
+      },
+      {
+        "para_id": "1955.2174",
+        "lang": "pt",
+        "refcode": "LA 369.2"
+      },
+      {
+        "para_id": "2026.1693",
+        "lang": "ro",
+        "refcode": "CA 369.2"
+      },
+      {
+        "para_id": "1803.1647",
+        "lang": "ru",
+        "refcode": "ХД 369.2"
+      },
+      {
+        "para_id": "12131.1534",
+        "lang": "uk",
+        "refcode": "ХР 298.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1701",
+    "id_prev": "128.1699",
+    "id_next": "128.1702",
+    "refcode_1": "AH",
+    "refcode_2": "370",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 370.1",
+    "refcode_long": "The Adventist Home, p. 370.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Remember the Needy Poor</strong>&mdash;If we represent the character of Christ, every particle of selfishness must be expelled from the soul. In carrying forward the work He gave to our hands, it will be necessary for us to give every jot and tittle of our means that we can spare. Poverty and distress in families will come to our knowledge, and afflicted and suffering ones will have to be relieved. We know very little of the human suffering that exists everywhere about us; but as we have opportunity, we should be ready to render immediate assistance to those who are under a severe pressure.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 25, 1894\" data-link=\"14059.5371001\">Manuscript 25, 1894</span>.</span></a></sup>",
+    "puborder": 1125,
+    "translations": [
+      {
+        "para_id": "13839.1378",
+        "lang": "bg",
+        "refcode": "ХД 157.6"
+      },
+      {
+        "para_id": "177.1720",
+        "lang": "es",
+        "refcode": "HC 334.3"
+      },
+      {
+        "para_id": "193.1676",
+        "lang": "fr",
+        "refcode": "FC 355.3"
+      },
+      {
+        "para_id": "12869.2092",
+        "lang": "id",
+        "refcode": "MKB 352.1"
+      },
+      {
+        "para_id": "12178.1452",
+        "lang": "pl",
+        "refcode": "ChD 234.2"
+      },
+      {
+        "para_id": "1955.2177",
+        "lang": "pt",
+        "refcode": "LA 370.1"
+      },
+      {
+        "para_id": "1955.2176",
+        "lang": "pt",
+        "refcode": "LA 370"
+      },
+      {
+        "para_id": "2026.1695",
+        "lang": "ro",
+        "refcode": "CA 370.1"
+      },
+      {
+        "para_id": "1803.1649",
+        "lang": "ru",
+        "refcode": "ХД 370.1"
+      },
+      {
+        "para_id": "12131.1535",
+        "lang": "uk",
+        "refcode": "ХР 298.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1702",
+    "id_prev": "128.1701",
+    "id_next": "128.1703",
+    "refcode_1": "AH",
+    "refcode_2": "370",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 370.2",
+    "refcode_long": "The Adventist Home, p. 370.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The squandering of money in luxuries deprives the poor of the means necessary to supply them with food and clothing. That which is spent for the gratification of pride in dress, in buildings, in furniture, and in decorations would relieve the distress of many wretched, suffering families. God&apos;s stewards are to minister to the needy.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 12-8-1896\" data-link=\"821.15486\">The Review and Herald, December 8, 1896</span>.</span></a></sup>",
+    "puborder": 1126,
+    "translations": [
+      {
+        "para_id": "13839.1380",
+        "lang": "bg",
+        "refcode": "ХД 158.1"
+      },
+      {
+        "para_id": "177.1723",
+        "lang": "es",
+        "refcode": "HC 335.1"
+      },
+      {
+        "para_id": "193.1679",
+        "lang": "fr",
+        "refcode": "FC 356.1"
+      },
+      {
+        "para_id": "12869.2093",
+        "lang": "id",
+        "refcode": "MKB 352.2"
+      },
+      {
+        "para_id": "12178.1453",
+        "lang": "pl",
+        "refcode": "ChD 234.3"
+      },
+      {
+        "para_id": "1955.2178",
+        "lang": "pt",
+        "refcode": "LA 370.2"
+      },
+      {
+        "para_id": "2026.1696",
+        "lang": "ro",
+        "refcode": "CA 370.2"
+      },
+      {
+        "para_id": "1803.1650",
+        "lang": "ru",
+        "refcode": "ХД 370.2"
+      },
+      {
+        "para_id": "12131.1536",
+        "lang": "uk",
+        "refcode": "ХР 298.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1703",
+    "id_prev": "128.1702",
+    "id_next": "128.1704",
+    "refcode_1": "AH",
+    "refcode_2": "370",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 370.3",
+    "refcode_long": "The Adventist Home, p. 370.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God&apos;s Remedy for Selfishness and Covetousness</strong>&mdash;The giving that is the fruit of self-denial is a wonderful help to the giver. It imparts an education that enables us more fully to comprehend the work of Him who went about doing good, relieving the suffering, and supplying the needs of the destitute.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"YI 9-10-1907.5\" data-link=\"469.5612\">The Youth&apos;s Instructor, September 10, 1907</span>.</span></a></sup>",
+    "puborder": 1127,
+    "translations": [
+      {
+        "para_id": "13839.1381",
+        "lang": "bg",
+        "refcode": "ХД 158.2"
+      },
+      {
+        "para_id": "177.1724",
+        "lang": "es",
+        "refcode": "HC 335.2"
+      },
+      {
+        "para_id": "193.1680",
+        "lang": "fr",
+        "refcode": "FC 356.2"
+      },
+      {
+        "para_id": "12869.2095",
+        "lang": "id",
+        "refcode": "MKB 352.3"
+      },
+      {
+        "para_id": "891.1126",
+        "lang": "it",
+        "refcode": "FC 152.6"
+      },
+      {
+        "para_id": "891.1125",
+        "lang": "it",
+        "refcode": "FC 152"
+      },
+      {
+        "para_id": "12178.1454",
+        "lang": "pl",
+        "refcode": "ChD 234.4"
+      },
+      {
+        "para_id": "1955.2180",
+        "lang": "pt",
+        "refcode": "LA 370.3"
+      },
+      {
+        "para_id": "1955.2179",
+        "lang": "pt",
+        "refcode": "LA 370"
+      },
+      {
+        "para_id": "2026.1697",
+        "lang": "ro",
+        "refcode": "CA 370.3"
+      },
+      {
+        "para_id": "1803.1651",
+        "lang": "ru",
+        "refcode": "ХД 370.3"
+      },
+      {
+        "para_id": "12131.1537",
+        "lang": "uk",
+        "refcode": "ХР 298.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1704",
+    "id_prev": "128.1703",
+    "id_next": "128.1707",
+    "refcode_1": "AH",
+    "refcode_2": "370",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 370.4",
+    "refcode_long": "The Adventist Home, p. 370.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Constant, self-denying benevolence is God&apos;s remedy for the cankering sins of selfishness and covetousness. God has arranged systematic benevolence to sustain His cause and relieve the necessities of the suffering and needy. He has ordained that giving should become a habit, that it may counteract the dangerous and deceitful sin of covetousness. Continual giving starves covetousness to death. Systematic benevolence is designed in the order of God to tear away treasures from the covetous as fast <span class=\"page-break\" data-page=\"371\"></span> as they are gained, and to consecrate them to the Lord, to whom they belong....",
+    "puborder": 1128,
+    "translations": [
+      {
+        "para_id": "13839.1382",
+        "lang": "bg",
+        "refcode": "ХД 158.3"
+      },
+      {
+        "para_id": "177.1725",
+        "lang": "es",
+        "refcode": "HC 335.3"
+      },
+      {
+        "para_id": "193.1681",
+        "lang": "fr",
+        "refcode": "FC 356.3"
+      },
+      {
+        "para_id": "12869.2096",
+        "lang": "id",
+        "refcode": "MKB 352.4"
+      },
+      {
+        "para_id": "891.1127",
+        "lang": "it",
+        "refcode": "FC 152.7"
+      },
+      {
+        "para_id": "12178.1456",
+        "lang": "pl",
+        "refcode": "ChD 235.1"
+      },
+      {
+        "para_id": "1955.2181",
+        "lang": "pt",
+        "refcode": "LA 370.4"
+      },
+      {
+        "para_id": "2026.1698",
+        "lang": "ro",
+        "refcode": "CA 370.4"
+      },
+      {
+        "para_id": "1803.1652",
+        "lang": "ru",
+        "refcode": "ХД 370.4"
+      },
+      {
+        "para_id": "12131.1537",
+        "lang": "uk",
+        "refcode": "ХР 298.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1707",
+    "id_prev": "128.1704",
+    "id_next": "128.1709",
+    "refcode_1": "AH",
+    "refcode_2": "371",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 371.1",
+    "refcode_long": "The Adventist Home, p. 371.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The constant practice of God&apos;s plan of systematic benevolence weakens covetousness and strengthens benevolence. If riches increase, men, even those professing godliness, set their hearts upon them; and the more they have, the less they give to the treasury of the Lord. Thus riches make men selfish, and hoarding feeds covetousness; and these evils strengthen by active exercise. God knows our danger and has hedged us about with means to prevent our own ruin. He requires the constant exercise of benevolence, that the force of habit in good works may break the force of habit in an opposite direction.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"3T 548.1\" data-link=\"119.2572\">Testimonies for the Church 3:548</span>.</span></a></sup>",
+    "puborder": 1129,
+    "translations": [
+      {
+        "para_id": "13839.1383",
+        "lang": "bg",
+        "refcode": "ХД 158.4"
+      },
+      {
+        "para_id": "177.1726",
+        "lang": "es",
+        "refcode": "HC 335.4"
+      },
+      {
+        "para_id": "193.1682",
+        "lang": "fr",
+        "refcode": "FC 356.4"
+      },
+      {
+        "para_id": "12869.2099",
+        "lang": "id",
+        "refcode": "MKB 353.1"
+      },
+      {
+        "para_id": "891.1127",
+        "lang": "it",
+        "refcode": "FC 152.7"
+      },
+      {
+        "para_id": "12178.1457",
+        "lang": "pl",
+        "refcode": "ChD 235.2"
+      },
+      {
+        "para_id": "12178.1458",
+        "lang": "pl",
+        "refcode": "ChD 235.3"
+      },
+      {
+        "para_id": "1955.2184",
+        "lang": "pt",
+        "refcode": "LA 371.1"
+      },
+      {
+        "para_id": "2026.1701",
+        "lang": "ro",
+        "refcode": "CA 371.1"
+      },
+      {
+        "para_id": "1803.2537",
+        "lang": "ru",
+        "refcode": "ХД 371.1"
+      },
+      {
+        "para_id": "12131.1541",
+        "lang": "uk",
+        "refcode": "ХР 299.2"
+      },
+      {
+        "para_id": "12131.1540",
+        "lang": "uk",
+        "refcode": "ХР 299.1"
+      }
+    ]
+  }
+]

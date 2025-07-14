@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.250",
+    "id_prev": "21.248",
+    "id_next": "21.251",
+    "refcode_1": "CSW",
+    "refcode_2": "56",
+    "refcode_3": "",
+    "refcode_4": "32",
+    "refcode_short": "CSW 56",
+    "refcode_long": "Counsels on Sabbath School Work, p. 56 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Finding Time for Lesson Study",
+    "puborder": 153,
+    "translations": [
+      {
+        "para_id": "11629.223",
+        "lang": "da",
+        "refcode": "RSSA 56"
+      },
+      {
+        "para_id": "799.245",
+        "lang": "de",
+        "refcode": "RSs 49"
+      },
+      {
+        "para_id": "1711.269",
+        "lang": "es",
+        "refcode": "COES 60"
+      },
+      {
+        "para_id": "1724.278",
+        "lang": "pt",
+        "refcode": "CES 56"
+      },
+      {
+        "para_id": "1917.289",
+        "lang": "pt",
+        "refcode": "CES38 27"
+      },
+      {
+        "para_id": "2719.260",
+        "lang": "ro",
+        "refcode": "SSS 56"
+      },
+      {
+        "para_id": "1873.247",
+        "lang": "ru",
+        "refcode": "ССШ 56"
+      }
+    ]
+  },
+  {
+    "para_id": "21.251",
+    "id_prev": "21.250",
+    "id_next": "21.252",
+    "refcode_1": "CSW",
+    "refcode_2": "56",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 56.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 56.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There are many children who plead a lack of time as a reason why their Sabbath school lessons are not learned; but there are few who could not find time to learn their lessons if they had an interest in them. Some devote time to amusement and sight-seeing; others, to the needless trimming of their dresses for display, thus cultivating pride and vanity. The precious hours thus prodigally spent are God&apos;s time, for which they must render an account to Him. The hours spent in needless ornamentation, or in amusements and idle conversation, will, with every work, be brought into judgment.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 8.1\" data-link=\"121.21\"><em>Testimonies on Sabbath-School Work</em>, 8</span>.",
+    "puborder": 154,
+    "translations": [
+      {
+        "para_id": "11629.224",
+        "lang": "da",
+        "refcode": "RSSA 56.1"
+      },
+      {
+        "para_id": "799.246",
+        "lang": "de",
+        "refcode": "RSs 49.2"
+      },
+      {
+        "para_id": "1711.270",
+        "lang": "es",
+        "refcode": "COES 60.1"
+      },
+      {
+        "para_id": "1917.291",
+        "lang": "pt",
+        "refcode": "CES38 28.1"
+      },
+      {
+        "para_id": "1724.279",
+        "lang": "pt",
+        "refcode": "CES 56.1"
+      },
+      {
+        "para_id": "2719.261",
+        "lang": "ro",
+        "refcode": "SSS 56.1"
+      },
+      {
+        "para_id": "1873.248",
+        "lang": "ru",
+        "refcode": "ССШ 56.1"
+      }
+    ]
+  }
+]

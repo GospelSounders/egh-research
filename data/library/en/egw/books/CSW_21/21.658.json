@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.658",
+    "id_prev": "21.655",
+    "id_next": "21.659",
+    "refcode_1": "CSW",
+    "refcode_2": "141",
+    "refcode_3": "",
+    "refcode_4": "107",
+    "refcode_short": "CSW 141",
+    "refcode_long": "Counsels on Sabbath School Work, p. 141 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Restricting Imaginary Wants",
+    "puborder": 414,
+    "translations": [
+      {
+        "para_id": "11629.632",
+        "lang": "da",
+        "refcode": "RSSA 141"
+      },
+      {
+        "para_id": "799.623",
+        "lang": "de",
+        "refcode": "RSs 117"
+      },
+      {
+        "para_id": "1711.704",
+        "lang": "es",
+        "refcode": "COES 158"
+      },
+      {
+        "para_id": "1724.696",
+        "lang": "pt",
+        "refcode": "CES 141"
+      },
+      {
+        "para_id": "1917.774",
+        "lang": "pt",
+        "refcode": "CES38 74"
+      },
+      {
+        "para_id": "2719.675",
+        "lang": "ro",
+        "refcode": "SSS 141"
+      },
+      {
+        "para_id": "1873.653",
+        "lang": "ru",
+        "refcode": "ССШ 141"
+      }
+    ]
+  },
+  {
+    "para_id": "21.659",
+    "id_prev": "21.658",
+    "id_next": "21.660",
+    "refcode_1": "CSW",
+    "refcode_2": "141",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 141.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 141.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "If men today were simple in their habits, living in harmony with nature&apos;s laws, as did Adam and Eve in the beginning, there would be an abundant supply for the needs of the human family. There would be fewer imaginary wants, and more opportunities to work in God&apos;s ways. But selfishness and the indulgence of unnatural taste, have brought sin and misery into the world, from excess on the one hand, and from want on the other.&mdash;<span class=\"egwlink egwlink_book\" title=\"DA 367.1\" data-link=\"130.1770\"><em>The Desire of Ages</em>, 367</span>.",
+    "puborder": 415,
+    "translations": [
+      {
+        "para_id": "11629.633",
+        "lang": "da",
+        "refcode": "RSSA 141.1"
+      },
+      {
+        "para_id": "799.624",
+        "lang": "de",
+        "refcode": "RSs 117.1"
+      },
+      {
+        "para_id": "1711.705",
+        "lang": "es",
+        "refcode": "COES 158.3"
+      },
+      {
+        "para_id": "1724.697",
+        "lang": "pt",
+        "refcode": "CES 141.1"
+      },
+      {
+        "para_id": "1917.775",
+        "lang": "pt",
+        "refcode": "CES38 74.3"
+      },
+      {
+        "para_id": "2719.676",
+        "lang": "ro",
+        "refcode": "SSS 141.1"
+      },
+      {
+        "para_id": "1873.654",
+        "lang": "ru",
+        "refcode": "ССШ 141.1"
+      }
+    ]
+  }
+]

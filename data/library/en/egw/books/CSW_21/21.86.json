@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.86",
+    "id_prev": "21.83",
+    "id_next": "21.87",
+    "refcode_1": "CSW",
+    "refcode_2": "23",
+    "refcode_3": "",
+    "refcode_4": "13",
+    "refcode_short": "CSW 23",
+    "refcode_long": "Counsels on Sabbath School Work, p. 23 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Written for the Common People",
+    "puborder": 53,
+    "translations": [
+      {
+        "para_id": "11629.60",
+        "lang": "da",
+        "refcode": "RSSA 23"
+      },
+      {
+        "para_id": "799.100",
+        "lang": "de",
+        "refcode": "RSs 24"
+      },
+      {
+        "para_id": "1711.104",
+        "lang": "es",
+        "refcode": "COES 24"
+      },
+      {
+        "para_id": "1724.115",
+        "lang": "pt",
+        "refcode": "CES 23"
+      },
+      {
+        "para_id": "1917.92",
+        "lang": "pt",
+        "refcode": "CES38 9"
+      },
+      {
+        "para_id": "2719.88",
+        "lang": "ro",
+        "refcode": "SSS 23"
+      },
+      {
+        "para_id": "1873.84",
+        "lang": "ru",
+        "refcode": "ССШ 23"
+      }
+    ]
+  },
+  {
+    "para_id": "21.87",
+    "id_prev": "21.86",
+    "id_next": "21.88",
+    "refcode_1": "CSW",
+    "refcode_2": "23",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 23.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 23.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Every child of God should be intelligent in the Scriptures, and able, by tracing the fulfillment of prophecy, to show our position in this world&apos;s history. The Bible was written for the common people as well as for scholars, and is within the comprehension of all. The great truths which underlie man&apos;s duty to his fellow men and to his Maker are clearly revealed; and those who really want the truth need make no mistake. The way is not left in uncertainty, as though we were standing where four roads met, not knowing which one to take. The truth is our guide; it is to us like a pillar of cloud by day and a pillar of fire by night.",
+    "puborder": 54,
+    "translations": [
+      {
+        "para_id": "11629.61",
+        "lang": "da",
+        "refcode": "RSSA 23.1"
+      },
+      {
+        "para_id": "799.101",
+        "lang": "de",
+        "refcode": "RSs 24.3"
+      },
+      {
+        "para_id": "1711.105",
+        "lang": "es",
+        "refcode": "COES 24.1"
+      },
+      {
+        "para_id": "1917.93",
+        "lang": "pt",
+        "refcode": "CES38 9.2"
+      },
+      {
+        "para_id": "1724.116",
+        "lang": "pt",
+        "refcode": "CES 23.1"
+      },
+      {
+        "para_id": "2719.89",
+        "lang": "ro",
+        "refcode": "SSS 23.1"
+      },
+      {
+        "para_id": "1873.85",
+        "lang": "ru",
+        "refcode": "ССШ 23.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.88",
+    "id_prev": "21.87",
+    "id_next": "21.91",
+    "refcode_1": "CSW",
+    "refcode_2": "23",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 23.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 23.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The many contradictory opinions in regard to what the Bible teaches do not arise from any obscurity in the book itself, but from blindness and prejudice on <span class=\"page-break\" data-page=\"24\"></span> the part of interpreters. Men ignore the plain statements of the Bible to follow their own perverted reason. Priding themselves on their intellectual attainments, they overlook the simplicity of truth; they forsake the fountain of living waters to drink of the poisonous stream of error.&mdash;<span class=\"egwlink egwlink_book\" title=\"RH 1-27-1885\" data-link=\"821.6191\"><em>The Review and Herald</em>, January 27, 1885</span>.",
+    "puborder": 55,
+    "translations": [
+      {
+        "para_id": "11629.62",
+        "lang": "da",
+        "refcode": "RSSA 23.2"
+      },
+      {
+        "para_id": "799.104",
+        "lang": "de",
+        "refcode": "RSs 25.1"
+      },
+      {
+        "para_id": "1711.108",
+        "lang": "es",
+        "refcode": "COES 25.1"
+      },
+      {
+        "para_id": "1724.117",
+        "lang": "pt",
+        "refcode": "CES 23.2"
+      },
+      {
+        "para_id": "1917.94",
+        "lang": "pt",
+        "refcode": "CES38 9.3"
+      },
+      {
+        "para_id": "2719.90",
+        "lang": "ro",
+        "refcode": "SSS 23.2"
+      },
+      {
+        "para_id": "1873.86",
+        "lang": "ru",
+        "refcode": "ССШ 23.2"
+      }
+    ]
+  }
+]

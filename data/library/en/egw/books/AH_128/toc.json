@@ -1,0 +1,946 @@
+[
+  {
+    "para_id": "128.5",
+    "level": 0,
+    "title": "The Adventist Home",
+    "refcode_short": "AH 3",
+    "dup": null,
+    "puborder": 1
+  },
+  {
+    "para_id": "128.7",
+    "level": 1,
+    "title": "Foreword",
+    "refcode_short": "AH 5",
+    "dup": "128.5",
+    "mp3": "/mp3/128/0002_eng_m_foreword_128_7.mp3#duration=225&size=1945422",
+    "puborder": 2
+  },
+  {
+    "para_id": "128.36",
+    "level": 1,
+    "title": "Section 1—The Home Beautiful",
+    "refcode_short": "AH 13",
+    "dup": null,
+    "puborder": 16
+  },
+  {
+    "para_id": "128.38",
+    "level": 2,
+    "title": "Chapter 1—Atmosphere of the Home",
+    "refcode_short": "AH 15",
+    "dup": "128.36",
+    "mp3": "/mp3/128/0005_eng_m_chapter_1_atmosphere_of_the_home_128_38.mp3#duration=753&size=6171969",
+    "puborder": 17
+  },
+  {
+    "para_id": "128.71",
+    "level": 2,
+    "title": "Chapter 2—Fundamentals of True Homemaking",
+    "refcode_short": "AH 21",
+    "dup": null,
+    "mp3": "/mp3/128/0006_eng_m_chapter_2_fundamentals_of_true_homemaking_128_71.mp3#duration=608&size=5009018",
+    "puborder": 42
+  },
+  {
+    "para_id": "128.90",
+    "level": 2,
+    "title": "Chapter 3—The Eden Home a Pattern",
+    "refcode_short": "AH 25",
+    "dup": null,
+    "mp3": "/mp3/128/0007_eng_m_chapter_3_the_eden_home_a_pattern_128_90.mp3#duration=541&size=4469822",
+    "puborder": 54
+  },
+  {
+    "para_id": "128.111",
+    "level": 1,
+    "title": "Section 2—A Light in the Community",
+    "refcode_short": "AH 29",
+    "dup": null,
+    "puborder": 67
+  },
+  {
+    "para_id": "128.113",
+    "level": 2,
+    "title": "Chapter 4—Far-Reaching Influence of the Home",
+    "refcode_short": "AH 31",
+    "dup": "128.111",
+    "mp3": "/mp3/128/0009_eng_m_chapter_4_far_reaching_influence_of_the_home_128_113.mp3#duration=562&size=4640353",
+    "puborder": 68
+  },
+  {
+    "para_id": "128.133",
+    "level": 2,
+    "title": "Chapter 5—A Powerful Christian Witness",
+    "refcode_short": "AH 35",
+    "dup": null,
+    "mp3": "/mp3/128/0010_eng_m_chapter_5_a_powerful_christian_witness_128_133.mp3#duration=567&size=4681041",
+    "puborder": 81
+  },
+  {
+    "para_id": "128.162",
+    "level": 1,
+    "title": "Section 3—Choosing the Life Partner",
+    "refcode_short": "AH 41",
+    "dup": null,
+    "puborder": 101
+  },
+  {
+    "para_id": "128.164",
+    "level": 2,
+    "title": "Chapter 6—The Great Decision",
+    "refcode_short": "AH 43",
+    "dup": "128.162",
+    "mp3": "/mp3/128/0012_eng_m_chapter_6_the_great_decision_128_164.mp3#duration=907&size=7405189",
+    "puborder": 102
+  },
+  {
+    "para_id": "128.198",
+    "level": 2,
+    "title": "Chapter 7—True Love or Infatuation",
+    "refcode_short": "AH 50",
+    "dup": null,
+    "mp3": "/mp3/128/0013_eng_m_chapter_7_true_love_or_infatuation_128_198.mp3#duration=621&size=5110360",
+    "puborder": 125
+  },
+  {
+    "para_id": "128.226",
+    "level": 2,
+    "title": "Chapter 8—Common Courtship Practices",
+    "refcode_short": "AH 55",
+    "dup": null,
+    "mp3": "/mp3/128/0014_eng_m_chapter_8_common_courtship_practices_128_226.mp3#duration=734&size=6019956",
+    "puborder": 145
+  },
+  {
+    "para_id": "128.254",
+    "level": 2,
+    "title": "Chapter 9—Forbidden Marriages",
+    "refcode_short": "AH 61",
+    "dup": null,
+    "mp3": "/mp3/128/0015_eng_m_chapter_9_forbidden_marriages_128_254.mp3#duration=1308&size=10608264",
+    "puborder": 163
+  },
+  {
+    "para_id": "128.295",
+    "level": 2,
+    "title": "Chapter 10—When Counsel is Needed",
+    "refcode_short": "AH 70",
+    "dup": null,
+    "mp3": "/mp3/128/0016_eng_m_chapter_10_when_counsel_is_needed_128_295.mp3#duration=728&size=5971183",
+    "puborder": 189
+  },
+  {
+    "para_id": "128.325",
+    "level": 1,
+    "title": "Section 4—Factors that Make for Success or Failure",
+    "refcode_short": "AH 77",
+    "dup": null,
+    "puborder": 207
+  },
+  {
+    "para_id": "128.327",
+    "level": 2,
+    "title": "Chapter 11—Hasty, Immature Marriages",
+    "refcode_short": "AH 79",
+    "dup": "128.325",
+    "mp3": "/mp3/128/0018_eng_m_chapter_11_hasty_immature_marriages_128_327.mp3#duration=437&size=3638706",
+    "puborder": 208
+  },
+  {
+    "para_id": "128.346",
+    "level": 2,
+    "title": "Chapter 12—Compatibility",
+    "refcode_short": "AH 83",
+    "dup": null,
+    "mp3": "/mp3/128/0019_eng_m_chapter_12_compatibility_128_346.mp3#duration=419&size=3498277",
+    "puborder": 221
+  },
+  {
+    "para_id": "128.363",
+    "level": 2,
+    "title": "Chapter 13—Domestic Training",
+    "refcode_short": "AH 87",
+    "dup": null,
+    "mp3": "/mp3/128/0020_eng_m_chapter_13_domestic_training_128_363.mp3#duration=765&size=6265014",
+    "puborder": 232
+  },
+  {
+    "para_id": "128.396",
+    "level": 2,
+    "title": "Chapter 14—True Conversion a Requisite",
+    "refcode_short": "AH 94",
+    "dup": null,
+    "mp3": "/mp3/128/0021_eng_m_chapter_14_true_conversion_a_requisite_128_396.mp3#duration=396&size=3314937",
+    "puborder": 253
+  },
+  {
+    "para_id": "128.413",
+    "level": 1,
+    "title": "Section 5—From the Marriage Altar",
+    "refcode_short": "AH 97",
+    "dup": null,
+    "puborder": 264
+  },
+  {
+    "para_id": "128.415",
+    "level": 2,
+    "title": "Chapter 15—Solemn Promises",
+    "refcode_short": "AH 99",
+    "dup": "128.413",
+    "mp3": "/mp3/128/0023_eng_m_chapter_15_solemn_promises_128_415.mp3#duration=688&size=5651316",
+    "puborder": 265
+  },
+  {
+    "para_id": "128.449",
+    "level": 2,
+    "title": "Chapter 16—A Happy, Successful Partnership",
+    "refcode_short": "AH 105",
+    "dup": null,
+    "mp3": "/mp3/128/0024_eng_m_chapter_16_a_happy_successful_partnership_128_449.mp3#duration=1256&size=10196634",
+    "puborder": 290
+  },
+  {
+    "para_id": "128.492",
+    "level": 2,
+    "title": "Chapter 17—Mutual Obligations",
+    "refcode_short": "AH 114",
+    "dup": null,
+    "mp3": "/mp3/128/0025_eng_m_chapter_17_mutual_obligations_128_492.mp3#duration=985&size=8027293",
+    "puborder": 317
+  },
+  {
+    "para_id": "128.523",
+    "level": 2,
+    "title": "Chapter 18—Marital Duties and Privileges",
+    "refcode_short": "AH 121",
+    "dup": null,
+    "mp3": "/mp3/128/0026_eng_m_chapter_18_marital_duties_and_privileges_128_523.mp3#duration=1021&size=8316735",
+    "puborder": 337
+  },
+  {
+    "para_id": "128.563",
+    "level": 1,
+    "title": "Section 6—The New Home",
+    "refcode_short": "AH 129",
+    "dup": null,
+    "puborder": 363
+  },
+  {
+    "para_id": "128.565",
+    "level": 2,
+    "title": "Chapter 19—Where Shall the Home Be?",
+    "refcode_short": "AH 131",
+    "dup": "128.563",
+    "mp3": "/mp3/128/0028_eng_m_chapter_19_where_shall_the_home_be_128_565.mp3#duration=554&size=4580738",
+    "puborder": 364
+  },
+  {
+    "para_id": "128.584",
+    "level": 2,
+    "title": "Chapter 20—The Family and the City",
+    "refcode_short": "AH 135",
+    "dup": null,
+    "mp3": "/mp3/128/0029_eng_m_chapter_20_the_family_and_the_city_128_584.mp3#duration=638&size=5251819",
+    "puborder": 376
+  },
+  {
+    "para_id": "128.616",
+    "level": 2,
+    "title": "Chapter 21—Advantages of the Country",
+    "refcode_short": "AH 141",
+    "dup": null,
+    "mp3": "/mp3/128/0030_eng_m_chapter_21_advantages_of_the_country_128_616.mp3#duration=844&size=6897859",
+    "puborder": 400
+  },
+  {
+    "para_id": "128.651",
+    "level": 2,
+    "title": "Chapter 22—Building and Furnishing the Home",
+    "refcode_short": "AH 148",
+    "dup": null,
+    "mp3": "/mp3/128/0031_eng_m_chapter_22_building_and_furnishing_the_home_128_651.mp3#duration=1199&size=9735991",
+    "puborder": 422
+  },
+  {
+    "para_id": "128.701",
+    "level": 1,
+    "title": "Section 7—Heritage of the Lord",
+    "refcode_short": "AH 157",
+    "dup": null,
+    "puborder": 454
+  },
+  {
+    "para_id": "128.703",
+    "level": 2,
+    "title": "Chapter 23—Children a Blessing",
+    "refcode_short": "AH 159",
+    "dup": "128.701",
+    "mp3": "/mp3/128/0033_eng_m_chapter_23_children_a_blessing_128_703.mp3#duration=317&size=2680273",
+    "puborder": 455
+  },
+  {
+    "para_id": "128.718",
+    "level": 2,
+    "title": "Chapter 24—Size of the Family",
+    "refcode_short": "AH 162",
+    "dup": null,
+    "mp3": "/mp3/128/0034_eng_m_chapter_24_size_of_the_family_128_718.mp3#duration=583&size=4805893",
+    "puborder": 467
+  },
+  {
+    "para_id": "128.742",
+    "level": 2,
+    "title": "Chapter 25—Caring for Needy Children",
+    "refcode_short": "AH 167",
+    "dup": null,
+    "mp3": "/mp3/128/0035_eng_m_chapter_25_caring_for_needy_children_128_742.mp3#duration=524&size=4337133",
+    "puborder": 483
+  },
+  {
+    "para_id": "128.762",
+    "level": 2,
+    "title": "Chapter 26—Parents’ Legacy to Children",
+    "refcode_short": "AH 172",
+    "dup": null,
+    "mp3": "/mp3/128/0036_eng_m_chapter_26_parents_legacy_to_children_128_762.mp3#duration=337&size=2842069",
+    "puborder": 494
+  },
+  {
+    "para_id": "128.779",
+    "level": 1,
+    "title": "Section 8—The Successful Family",
+    "refcode_short": "AH 175",
+    "dup": null,
+    "puborder": 506
+  },
+  {
+    "para_id": "128.781",
+    "level": 2,
+    "title": "Chapter 27—A Sacred Circle",
+    "refcode_short": "AH 177",
+    "dup": "128.779",
+    "mp3": "/mp3/128/0038_eng_m_chapter_27_a_sacred_circle_128_781.mp3#duration=485&size=4021897",
+    "puborder": 507
+  },
+  {
+    "para_id": "128.803",
+    "level": 2,
+    "title": "Chapter 28—The Child's First School",
+    "refcode_short": "AH 181",
+    "dup": null,
+    "mp3": "/mp3/128/0039_eng_m_chapter_28_the_child_s_first_school_128_803.mp3#duration=719&size=5893340",
+    "puborder": 523
+  },
+  {
+    "para_id": "128.835",
+    "level": 2,
+    "title": "Chapter 29—A Work That Cannot Be Transferred",
+    "refcode_short": "AH 187",
+    "dup": null,
+    "mp3": "/mp3/128/0040_eng_m_chapter_29_a_work_that_cannot_be_transferred_128_835.mp3#duration=355&size=2981491",
+    "puborder": 546
+  },
+  {
+    "para_id": "128.850",
+    "level": 2,
+    "title": "Chapter 30—Family Companionship",
+    "refcode_short": "AH 190",
+    "dup": null,
+    "mp3": "/mp3/128/0041_eng_m_chapter_30_family_companionship_128_850.mp3#duration=562&size=4641940",
+    "puborder": 557
+  },
+  {
+    "para_id": "128.877",
+    "level": 2,
+    "title": "Chapter 31—Security Through Love",
+    "refcode_short": "AH 195",
+    "dup": null,
+    "mp3": "/mp3/128/0042_eng_m_chapter_31_security_through_love_128_877.mp3#duration=655&size=5386536",
+    "puborder": 575
+  },
+  {
+    "para_id": "128.903",
+    "level": 2,
+    "title": "Chapter 32—Preoccupy the Garden of the Heart",
+    "refcode_short": "AH 200",
+    "dup": null,
+    "mp3": "/mp3/128/0043_eng_m_chapter_32_preoccupy_the_garden_of_the_heart_128_903.mp3#duration=420&size=3504033",
+    "puborder": 593
+  },
+  {
+    "para_id": "128.923",
+    "level": 2,
+    "title": "Chapter 33—Promises of Divine Guidance",
+    "refcode_short": "AH 204",
+    "dup": null,
+    "mp3": "/mp3/128/0044_eng_m_chapter_33_promises_of_divine_guidance_128_923.mp3#duration=648&size=5329620",
+    "puborder": 606
+  },
+  {
+    "para_id": "128.951",
+    "level": 1,
+    "title": "Section 9—Father—The House-Band",
+    "refcode_short": "AH 209",
+    "dup": null,
+    "puborder": 624
+  },
+  {
+    "para_id": "128.953",
+    "level": 2,
+    "title": "Chapter 34—Father's Position and Responsibilities",
+    "refcode_short": "AH 211",
+    "dup": "128.951",
+    "mp3": "/mp3/128/0046_eng_m_chapter_34_father_s_position_and_responsibilities_128_953.mp3#duration=669&size=5496271",
+    "puborder": 625
+  },
+  {
+    "para_id": "128.978",
+    "level": 2,
+    "title": "Chapter 35—Sharing the Burdens",
+    "refcode_short": "AH 216",
+    "dup": null,
+    "mp3": "/mp3/128/0047_eng_m_chapter_35_sharing_the_burdens_128_978.mp3#duration=423&size=3527890",
+    "puborder": 641
+  },
+  {
+    "para_id": "128.998",
+    "level": 2,
+    "title": "Chapter 36—A Companion With His Children",
+    "refcode_short": "AH 220",
+    "dup": null,
+    "mp3": "/mp3/128/0048_eng_m_chapter_36_a_companion_with_his_children_128_998.mp3#duration=460&size=3823592",
+    "puborder": 655
+  },
+  {
+    "para_id": "128.1017",
+    "level": 2,
+    "title": "Chapter 37—The Kind of Husband Not To Be",
+    "refcode_short": "AH 224",
+    "dup": null,
+    "mp3": "/mp3/128/0049_eng_m_chapter_37_the_kind_of_husband_not_to_be_128_1017.mp3#duration=655&size=5388150",
+    "puborder": 668
+  },
+  {
+    "para_id": "128.1039",
+    "level": 1,
+    "title": "Section 10—Mother—Queen of the Household",
+    "refcode_short": "AH 229",
+    "dup": null,
+    "puborder": 681
+  },
+  {
+    "para_id": "128.1041",
+    "level": 2,
+    "title": "Chapter 38—Mother's Position and Responsibilities",
+    "refcode_short": "AH 231",
+    "dup": "128.1039",
+    "mp3": "/mp3/128/0051_eng_m_chapter_38_mother_s_position_and_responsibilities_128_1041.mp3#duration=1280&size=10382756",
+    "puborder": 682
+  },
+  {
+    "para_id": "128.1085",
+    "level": 2,
+    "title": "Chapter 39—Influence of the Mother",
+    "refcode_short": "AH 240",
+    "dup": null,
+    "mp3": "/mp3/128/0052_eng_m_chapter_39_influence_of_the_mother_128_1085.mp3#duration=508&size=4206284",
+    "puborder": 712
+  },
+  {
+    "para_id": "128.1103",
+    "level": 2,
+    "title": "Chapter 40—Misconception of the Mother's Work",
+    "refcode_short": "AH 244",
+    "dup": null,
+    "mp3": "/mp3/128/0053_eng_m_chapter_40_misconception_of_the_mother_s_work_128_1103.mp3#duration=476&size=3956564",
+    "puborder": 726
+  },
+  {
+    "para_id": "128.1122",
+    "level": 2,
+    "title": "Chapter 41—Imperfect Patterns of Motherhood",
+    "refcode_short": "AH 248",
+    "dup": null,
+    "mp3": "/mp3/128/0054_eng_m_chapter_41_imperfect_patterns_of_motherhood_128_1122.mp3#duration=385&size=3227024",
+    "puborder": 740
+  },
+  {
+    "para_id": "128.1136",
+    "level": 2,
+    "title": "Chapter 42—Mother's Health and Personal Appearance",
+    "refcode_short": "AH 251",
+    "dup": null,
+    "mp3": "/mp3/128/0055_eng_m_chapter_42_mother_s_health_and_personal_appearance_128_1136.mp3#duration=490&size=4068532",
+    "puborder": 750
+  },
+  {
+    "para_id": "128.1156",
+    "level": 2,
+    "title": "Chapter 43—Prenatal Influences",
+    "refcode_short": "AH 255",
+    "dup": null,
+    "mp3": "/mp3/128/0056_eng_m_chapter_43_prenatal_influences_128_1156.mp3#duration=665&size=5466318",
+    "puborder": 763
+  },
+  {
+    "para_id": "128.1181",
+    "level": 2,
+    "title": "Chapter 44—Care Of Little Children",
+    "refcode_short": "AH 260",
+    "dup": null,
+    "mp3": "/mp3/128/0057_eng_m_chapter_44_care_of_little_children_128_1181.mp3#duration=487&size=4043857",
+    "puborder": 779
+  },
+  {
+    "para_id": "128.1201",
+    "level": 2,
+    "title": "Chapter 45—Mother's First Duty Is To Train Children",
+    "refcode_short": "AH 264",
+    "dup": null,
+    "mp3": "/mp3/128/0058_eng_m_chapter_45_mother_s_first_duty_is_to_train_children_128_1201.mp3#duration=675&size=5548877",
+    "puborder": 792
+  },
+  {
+    "para_id": "128.1231",
+    "level": 2,
+    "title": "Chapter 46—The Stepmother",
+    "refcode_short": "AH 270",
+    "dup": null,
+    "mp3": "/mp3/128/0059_eng_m_chapter_46_the_stepmother_128_1231.mp3#duration=444&size=3692821",
+    "puborder": 812
+  },
+  {
+    "para_id": "128.1245",
+    "level": 2,
+    "title": "Chapter 47—Christ's Encouragement to Mothers",
+    "refcode_short": "AH 273",
+    "dup": null,
+    "mp3": "/mp3/128/0060_eng_m_chapter_47_christ_s_encouragement_to_mothers_128_1245.mp3#duration=466&size=3869090",
+    "puborder": 822
+  },
+  {
+    "para_id": "128.1262",
+    "level": 1,
+    "title": "Section 11—Children—The Junior Partners",
+    "refcode_short": "AH 277",
+    "dup": null,
+    "puborder": 831
+  },
+  {
+    "para_id": "128.1264",
+    "level": 2,
+    "title": "Chapter 48—Heaven's Estimate of Children",
+    "refcode_short": "AH 279",
+    "dup": "128.1262",
+    "mp3": "/mp3/128/0062_eng_m_chapter_48_heaven_s_estimate_of_children_128_1264.mp3#duration=361&size=3029009",
+    "puborder": 832
+  },
+  {
+    "para_id": "128.1278",
+    "level": 2,
+    "title": "Chapter 49—Mother's Helpers",
+    "refcode_short": "AH 282",
+    "dup": null,
+    "mp3": "/mp3/128/0063_eng_m_chapter_49_mother_s_helpers_128_1278.mp3#duration=1111&size=9034655",
+    "puborder": 842
+  },
+  {
+    "para_id": "128.1328",
+    "level": 2,
+    "title": "Chapter 50—The Honor Due Parents",
+    "refcode_short": "AH 292",
+    "dup": null,
+    "mp3": "/mp3/128/0064_eng_m_chapter_50_the_honor_due_parents_128_1328.mp3#duration=567&size=4680089",
+    "puborder": 875
+  },
+  {
+    "para_id": "128.1352",
+    "level": 2,
+    "title": "Chapter 51—Counsel to Children",
+    "refcode_short": "AH 297",
+    "dup": null,
+    "mp3": "/mp3/128/0065_eng_m_chapter_51_counsel_to_children_128_1352.mp3#duration=832&size=6802713",
+    "puborder": 890
+  },
+  {
+    "para_id": "128.1380",
+    "level": 1,
+    "title": "Section 12—Standards of Family Living",
+    "refcode_short": "AH 303",
+    "dup": null,
+    "puborder": 907
+  },
+  {
+    "para_id": "128.1382",
+    "level": 2,
+    "title": "Chapter 52—Home Government",
+    "refcode_short": "AH 305",
+    "dup": "128.1380",
+    "mp3": "/mp3/128/0067_eng_m_chapter_52_home_government_128_1382.mp3#duration=912&size=7438169",
+    "puborder": 908
+  },
+  {
+    "para_id": "128.1419",
+    "level": 2,
+    "title": "Chapter 53—A United Front",
+    "refcode_short": "AH 312",
+    "dup": null,
+    "mp3": "/mp3/128/0068_eng_m_chapter_53_a_united_front_128_1419.mp3#duration=595&size=4902168",
+    "puborder": 933
+  },
+  {
+    "para_id": "128.1445",
+    "level": 2,
+    "title": "Chapter 54—Religion in the Family",
+    "refcode_short": "AH 317",
+    "dup": null,
+    "mp3": "/mp3/128/0069_eng_m_chapter_54_religion_in_the_family_128_1445.mp3#duration=1125&size=9148596",
+    "puborder": 951
+  },
+  {
+    "para_id": "128.1496",
+    "level": 2,
+    "title": "Chapter 55—Moral Standards",
+    "refcode_short": "AH 326",
+    "dup": null,
+    "mp3": "/mp3/128/0070_eng_m_chapter_55_moral_standards_128_1496.mp3#duration=2209&size=17816854",
+    "puborder": 989
+  },
+  {
+    "para_id": "128.1556",
+    "level": 2,
+    "title": "Chapter 56—Divorce",
+    "refcode_short": "AH 340",
+    "dup": null,
+    "mp3": "/mp3/128/0071_eng_m_chapter_56_divorce_128_1556.mp3#duration=1143&size=9287671",
+    "puborder": 1027
+  },
+  {
+    "para_id": "128.1601",
+    "level": 2,
+    "title": "Chapter 57—Attitude Toward an Unbelieving Companion",
+    "refcode_short": "AH 348",
+    "dup": null,
+    "mp3": "/mp3/128/0072_eng_m_chapter_57_attitude_toward_an_unbelieving_companion_128_1601.mp3#duration=664&size=5460646",
+    "puborder": 1059
+  },
+  {
+    "para_id": "128.1622",
+    "level": 2,
+    "title": "Chapter 58—The Minister's Family",
+    "refcode_short": "AH 353",
+    "dup": null,
+    "mp3": "/mp3/128/0073_eng_m_chapter_58_the_minister_s_family_128_1622.mp3#duration=954&size=7774740",
+    "puborder": 1074
+  },
+  {
+    "para_id": "128.1660",
+    "level": 2,
+    "title": "Chapter 59—The Aged Parents",
+    "refcode_short": "AH 360",
+    "dup": null,
+    "mp3": "/mp3/128/0074_eng_m_chapter_59_the_aged_parents_128_1660.mp3#duration=631&size=5195507",
+    "puborder": 1099
+  },
+  {
+    "para_id": "128.1683",
+    "level": 1,
+    "title": "Section 13—The Use of Money",
+    "refcode_short": "AH 365",
+    "dup": null,
+    "puborder": 1113
+  },
+  {
+    "para_id": "128.1685",
+    "level": 2,
+    "title": "Chapter 60—Stewards of God",
+    "refcode_short": "AH 367",
+    "dup": "128.1683",
+    "mp3": "/mp3/128/0076_eng_m_chapter_60_stewards_of_god_128_1685.mp3#duration=640&size=5261615",
+    "puborder": 1114
+  },
+  {
+    "para_id": "128.1709",
+    "level": 2,
+    "title": "Chapter 61—Principles of Family Finance",
+    "refcode_short": "AH 372",
+    "dup": null,
+    "mp3": "/mp3/128/0077_eng_m_chapter_61_principles_of_family_finance_128_1709.mp3#duration=1118&size=9093591",
+    "puborder": 1130
+  },
+  {
+    "para_id": "128.1762",
+    "level": 2,
+    "title": "Chapter 62—Economy to be Practiced",
+    "refcode_short": "AH 381",
+    "dup": null,
+    "mp3": "/mp3/128/0078_eng_m_chapter_62_economy_to_be_practiced_128_1762.mp3#duration=562&size=4643619",
+    "puborder": 1167
+  },
+  {
+    "para_id": "128.1786",
+    "level": 2,
+    "title": "Chapter 63—Instructing Children How to Earn and Use Money",
+    "refcode_short": "AH 386",
+    "dup": null,
+    "mp3": "/mp3/128/0079_eng_m_chapter_63_instructing_children_how_to_earn_and_use_money_128_1786.mp3#duration=561&size=4632566",
+    "puborder": 1184
+  },
+  {
+    "para_id": "128.1810",
+    "level": 2,
+    "title": "Chapter 64—Business Integrity",
+    "refcode_short": "AH 391",
+    "dup": null,
+    "mp3": "/mp3/128/0080_eng_m_chapter_64_business_integrity_128_1810.mp3#duration=473&size=3926796",
+    "puborder": 1201
+  },
+  {
+    "para_id": "128.1840",
+    "level": 2,
+    "title": "Chapter 65—Provision for the Future",
+    "refcode_short": "AH 395",
+    "dup": null,
+    "mp3": "/mp3/128/0081_eng_m_chapter_65_provision_for_the_future_128_1840.mp3#duration=505&size=4188234",
+    "puborder": 1226
+  },
+  {
+    "para_id": "128.1862",
+    "level": 1,
+    "title": "Section 14—Guarding the Avenues of the Soul",
+    "refcode_short": "AH 399",
+    "dup": null,
+    "puborder": 1240
+  },
+  {
+    "para_id": "128.1864",
+    "level": 2,
+    "title": "Chapter 66—The Portals We Must Watch",
+    "refcode_short": "AH 401",
+    "dup": "128.1862",
+    "mp3": "/mp3/128/0083_eng_m_chapter_66_the_portals_we_must_watch_128_1864.mp3#duration=678&size=5566099",
+    "puborder": 1241
+  },
+  {
+    "para_id": "128.1893",
+    "level": 2,
+    "title": "Chapter 67—Enticing Sights and Sounds",
+    "refcode_short": "AH 406",
+    "dup": null,
+    "mp3": "/mp3/128/0084_eng_m_chapter_67_enticing_sights_and_sounds_128_1893.mp3#duration=556&size=4592540",
+    "puborder": 1261
+  },
+  {
+    "para_id": "128.1910",
+    "level": 2,
+    "title": "Chapter 68—Reading and its Influence",
+    "refcode_short": "AH 410",
+    "dup": null,
+    "mp3": "/mp3/128/0085_eng_m_chapter_68_reading_and_its_influence_128_1910.mp3#duration=1142&size=9284325",
+    "puborder": 1272
+  },
+  {
+    "para_id": "128.1955",
+    "level": 1,
+    "title": "Section 15—Graces that Brighten Family Life",
+    "refcode_short": "AH 419",
+    "dup": null,
+    "puborder": 1301
+  },
+  {
+    "para_id": "128.1957",
+    "level": 2,
+    "title": "Chapter 69—Courtesy and Kindness",
+    "refcode_short": "AH 421",
+    "dup": "128.1955",
+    "mp3": "/mp3/128/0087_eng_m_chapter_69_courtesy_and_kindness_128_1957.mp3#duration=1245&size=10107554",
+    "puborder": 1302
+  },
+  {
+    "para_id": "128.2006",
+    "level": 2,
+    "title": "Chapter 70—Cheerfulness",
+    "refcode_short": "AH 430",
+    "dup": null,
+    "mp3": "/mp3/128/0088_eng_m_chapter_70_cheerfulness_128_2006.mp3#duration=495&size=4102728",
+    "puborder": 1337
+  },
+  {
+    "para_id": "128.2024",
+    "level": 2,
+    "title": "Chapter 71—Speech",
+    "refcode_short": "AH 434",
+    "dup": null,
+    "mp3": "/mp3/128/0089_eng_m_chapter_71_speech_128_2024.mp3#duration=1302&size=10565921",
+    "puborder": 1349
+  },
+  {
+    "para_id": "128.2083",
+    "level": 2,
+    "title": "Chapter 72—Hospitality",
+    "refcode_short": "AH 445",
+    "dup": null,
+    "mp3": "/mp3/128/0090_eng_m_chapter_72_hospitality_128_2083.mp3#duration=1027&size=8359635",
+    "puborder": 1392
+  },
+  {
+    "para_id": "128.2123",
+    "level": 1,
+    "title": "Section 16—The Home and its Social Relationships",
+    "refcode_short": "AH 453",
+    "dup": null,
+    "puborder": 1418
+  },
+  {
+    "para_id": "128.2125",
+    "level": 2,
+    "title": "Chapter 73—Our Social Needs",
+    "refcode_short": "AH 455",
+    "dup": "128.2123",
+    "mp3": "/mp3/128/0092_eng_m_chapter_73_our_social_needs_128_2125.mp3#duration=459&size=3820293",
+    "puborder": 1419
+  },
+  {
+    "para_id": "128.2144",
+    "level": 2,
+    "title": "Chapter 74—Safe And Unsafe Associations",
+    "refcode_short": "AH 459",
+    "dup": null,
+    "mp3": "/mp3/128/0093_eng_m_chapter_74_safe_and_unsafe_associations_128_2144.mp3#duration=808&size=6610790",
+    "puborder": 1431
+  },
+  {
+    "para_id": "128.2177",
+    "level": 2,
+    "title": "Chapter 75—Parental Guidance In Social Affairs",
+    "refcode_short": "AH 466",
+    "dup": null,
+    "mp3": "/mp3/128/0094_eng_m_chapter_75_parental_guidance_in_social_affairs_128_2177.mp3#duration=698&size=5726246",
+    "puborder": 1453
+  },
+  {
+    "para_id": "128.2207",
+    "level": 2,
+    "title": "Chapter 76—Holidays And Anniversaries",
+    "refcode_short": "AH 472",
+    "dup": null,
+    "mp3": "/mp3/128/0095_eng_m_chapter_76_holidays_and_anniversaries_128_2207.mp3#duration=520&size=4301932",
+    "puborder": 1472
+  },
+  {
+    "para_id": "128.2236",
+    "level": 2,
+    "title": "Chapter 77—Christmas",
+    "refcode_short": "AH 477",
+    "dup": null,
+    "mp3": "/mp3/128/0096_eng_m_chapter_77_christmas_128_2236.mp3#duration=762&size=6245157",
+    "puborder": 1493
+  },
+  {
+    "para_id": "128.2271",
+    "level": 2,
+    "title": "Chapter 78—The Family a Missionary Center",
+    "refcode_short": "AH 484",
+    "dup": null,
+    "mp3": "/mp3/128/0097_eng_m_chapter_78_the_family_a_missionary_center_128_2271.mp3#duration=836&size=6836938",
+    "puborder": 1517
+  },
+  {
+    "para_id": "128.2305",
+    "level": 1,
+    "title": "Section 17—Relaxation and Recreation",
+    "refcode_short": "AH 491",
+    "dup": null,
+    "puborder": 1537
+  },
+  {
+    "para_id": "128.2307",
+    "level": 2,
+    "title": "Chapter 79—Recreation is Essential",
+    "refcode_short": "AH 493",
+    "dup": "128.2305",
+    "mp3": "/mp3/128/0099_eng_m_chapter_79_recreation_is_essential_128_2307.mp3#duration=568&size=4692362",
+    "puborder": 1538
+  },
+  {
+    "para_id": "128.2330",
+    "level": 2,
+    "title": "Chapter 80—What Shall We Play?",
+    "refcode_short": "AH 498",
+    "dup": null,
+    "mp3": "/mp3/128/0100_eng_m_chapter_80_what_shall_we_play_128_2330.mp3#duration=937&size=7642395",
+    "puborder": 1554
+  },
+  {
+    "para_id": "128.2371",
+    "level": 2,
+    "title": "Chapter 81—Recreation that Yields Enduring Satisfactions",
+    "refcode_short": "AH 506",
+    "dup": null,
+    "mp3": "/mp3/128/0101_eng_m_chapter_81_recreation_that_yields_enduring_satisfactions_128_2371.mp3#duration=699&size=5741293",
+    "puborder": 1582
+  },
+  {
+    "para_id": "128.2405",
+    "level": 2,
+    "title": "Chapter 82—How the Christian Chooses His Recreation",
+    "refcode_short": "AH 512",
+    "dup": null,
+    "mp3": "/mp3/128/0102_eng_m_chapter_82_how_the_christian_chooses_his_recreation_128_2405.mp3#duration=1151&size=9350457",
+    "puborder": 1605
+  },
+  {
+    "para_id": "128.2449",
+    "level": 2,
+    "title": "Chapter 83—The Lure of Pleasure",
+    "refcode_short": "AH 521",
+    "dup": null,
+    "mp3": "/mp3/128/0103_eng_m_chapter_83_the_lure_of_pleasure_128_2449.mp3#duration=619&size=5098774",
+    "puborder": 1634
+  },
+  {
+    "para_id": "128.2473",
+    "level": 2,
+    "title": "Chapter 84—Directing Juvenile Thinking Regarding Recreation",
+    "refcode_short": "AH 526",
+    "dup": null,
+    "mp3": "/mp3/128/0104_eng_m_chapter_84_directing_juvenile_thinking_regarding_recreation_128_2473.mp3#duration=606&size=4990789",
+    "puborder": 1651
+  },
+  {
+    "para_id": "128.2497",
+    "level": 1,
+    "title": "Section 18—Thou Shalt be Recompensed",
+    "refcode_short": "AH 531",
+    "dup": null,
+    "puborder": 1666
+  },
+  {
+    "para_id": "128.2499",
+    "level": 2,
+    "title": "Chapter 85—The Reward Here and Hereafter",
+    "refcode_short": "AH 533",
+    "dup": "128.2497",
+    "mp3": "/mp3/128/0106_eng_m_chapter_85_the_reward_here_and_hereafter_128_2499.mp3#duration=750&size=6142778",
+    "puborder": 1667
+  },
+  {
+    "para_id": "128.2528",
+    "level": 2,
+    "title": "Chapter 86—Life In the Eden Home",
+    "refcode_short": "AH 539",
+    "dup": null,
+    "mp3": "/mp3/128/0107_eng_m_chapter_86_life_in_the_eden_home_128_2528.mp3#duration=986&size=8035974",
+    "puborder": 1689
+  },
+  {
+    "para_id": "128.2561",
+    "level": 2,
+    "title": "Chapter 87—Pen Pictures of the New Earth",
+    "refcode_short": "AH 546",
+    "dup": null,
+    "mp3": "/mp3/128/0108_eng_m_chapter_87_pen_pictures_of_the_new_earth_128_2561.mp3#duration=715&size=5865370",
+    "puborder": 1710
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.139",
+    "id_prev": "21.138",
+    "id_next": "21.140",
+    "refcode_1": "CSW",
+    "refcode_2": "34",
+    "refcode_3": "",
+    "refcode_4": "18",
+    "refcode_short": "CSW 34",
+    "refcode_long": "Counsels on Sabbath School Work, p. 34 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "New Meaning in Familiar Texts",
+    "puborder": 84,
+    "translations": [
+      {
+        "para_id": "11629.113",
+        "lang": "da",
+        "refcode": "RSSA 34"
+      },
+      {
+        "para_id": "799.147",
+        "lang": "de",
+        "refcode": "RSs 33"
+      },
+      {
+        "para_id": "1711.159",
+        "lang": "es",
+        "refcode": "COES 37"
+      },
+      {
+        "para_id": "1917.155",
+        "lang": "pt",
+        "refcode": "CES38 15"
+      },
+      {
+        "para_id": "1724.168",
+        "lang": "pt",
+        "refcode": "CES 34"
+      },
+      {
+        "para_id": "2719.144",
+        "lang": "ro",
+        "refcode": "SSS 34"
+      },
+      {
+        "para_id": "1873.137",
+        "lang": "ru",
+        "refcode": "ССШ 34"
+      }
+    ]
+  },
+  {
+    "para_id": "21.140",
+    "id_prev": "21.139",
+    "id_next": "21.143",
+    "refcode_1": "CSW",
+    "refcode_2": "34",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 34.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 34.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As soon as the seeker for truth opens the Bible to read the utterances of God with reverence, <span class=\"page-break\" data-page=\"35\"></span> possessing an earnest desire to know &ldquo;what saith the Lord,&rdquo; light and grace will be given him, and he will see wondrous things out of God&apos;s law. He will not regard the law of Jehovah as a yoke of bondage, but as the gracious commands of One who is all-wise and full of compassion. He will make haste to fulfill His requirements. Great truths which have been neglected and unappreciated for ages, will be revealed by the Spirit of God, and new meaning will flash out of familiar texts. Every page will be illuminated by the Spirit of truth. The Bible is not sealed but unsealed. The most precious truths are revealed; the living oracles are heard by wondering ears, and the consciences of men are aroused into action.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 30.1\" data-link=\"121.109\"><em>Testimonies on Sabbath-School Work</em>, 30</span>.",
+    "puborder": 85,
+    "translations": [
+      {
+        "para_id": "11629.114",
+        "lang": "da",
+        "refcode": "RSSA 34.3"
+      },
+      {
+        "para_id": "799.148",
+        "lang": "de",
+        "refcode": "RSs 33.3"
+      },
+      {
+        "para_id": "1711.160",
+        "lang": "es",
+        "refcode": "COES 37.1"
+      },
+      {
+        "para_id": "1917.156",
+        "lang": "pt",
+        "refcode": "CES38 15.4"
+      },
+      {
+        "para_id": "1724.169",
+        "lang": "pt",
+        "refcode": "CES 34.3"
+      },
+      {
+        "para_id": "2719.145",
+        "lang": "ro",
+        "refcode": "SSS 34.3"
+      },
+      {
+        "para_id": "1873.138",
+        "lang": "ru",
+        "refcode": "ССШ 34.3"
+      }
+    ]
+  }
+]

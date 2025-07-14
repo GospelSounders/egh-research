@@ -1,0 +1,962 @@
+[
+  {
+    "para_id": "128.1601",
+    "id_prev": "128.1599",
+    "id_next": "128.1602",
+    "refcode_1": "AH",
+    "refcode_2": "348",
+    "refcode_3": "",
+    "refcode_4": "57",
+    "refcode_short": "AH 348",
+    "refcode_long": "The Adventist Home, p. 348 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 57&mdash;Attitude Toward an Unbelieving Companion",
+    "puborder": 1059,
+    "translations": [
+      {
+        "para_id": "13839.1294",
+        "lang": "bg",
+        "refcode": "ХД 147"
+      },
+      {
+        "para_id": "177.1626",
+        "lang": "es",
+        "refcode": "HC 316"
+      },
+      {
+        "para_id": "193.1577",
+        "lang": "fr",
+        "refcode": "FC 334"
+      },
+      {
+        "para_id": "12869.1962",
+        "lang": "id",
+        "refcode": "MKB 331"
+      },
+      {
+        "para_id": "12178.1366",
+        "lang": "pl",
+        "refcode": "ChD 219"
+      },
+      {
+        "para_id": "1955.2050",
+        "lang": "pt",
+        "refcode": "LA 348"
+      },
+      {
+        "para_id": "2026.1595",
+        "lang": "ro",
+        "refcode": "CA 348"
+      },
+      {
+        "para_id": "1803.1551",
+        "lang": "ru",
+        "refcode": "ХД 348"
+      },
+      {
+        "para_id": "12131.1443",
+        "lang": "uk",
+        "refcode": "ХР 280"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1602",
+    "id_prev": "128.1601",
+    "id_next": "128.1603",
+    "refcode_1": "AH",
+    "refcode_2": "348",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 348.1",
+    "refcode_long": "The Adventist Home, p. 348.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "[<span class=\"non-egw-note\">Note: This chapter is largely communications to distressed believers seeking counsel.&mdash;<em>Compilers.</em></span>]",
+    "puborder": 1060,
+    "translations": [
+      {
+        "para_id": "177.1626",
+        "lang": "es",
+        "refcode": "HC 316"
+      },
+      {
+        "para_id": "193.1577",
+        "lang": "fr",
+        "refcode": "FC 334"
+      },
+      {
+        "para_id": "12178.1367",
+        "lang": "pl",
+        "refcode": "ChD 219.3"
+      },
+      {
+        "para_id": "1955.2050",
+        "lang": "pt",
+        "refcode": "LA 348"
+      },
+      {
+        "para_id": "2026.1596",
+        "lang": "ro",
+        "refcode": "CA 348.1"
+      },
+      {
+        "para_id": "1803.2513",
+        "lang": "ru",
+        "refcode": "The Adventist Home"
+      },
+      {
+        "para_id": "12131.1443",
+        "lang": "uk",
+        "refcode": "ХР 280"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1603",
+    "id_prev": "128.1602",
+    "id_next": "128.1604",
+    "refcode_1": "AH",
+    "refcode_2": "348",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 348.2",
+    "refcode_long": "The Adventist Home, p. 348.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Should a Christian Wife Leave an Unbelieving Husband?</strong>&mdash;Letters have come to me from mothers, relating their trials at home and asking my counsel. One of these cases will serve to represent many. The husband and father is not a believer, and everything is made hard for the mother in the training of her children. The husband is a profane man, vulgar and abusive in his language to her, and he teaches the children to disregard her authority. When she is trying to pray with them, he will come in and make all the noise he can and break out into cursing God and heaping vile epithets upon the Bible. She is so discouraged that life is a burden to her. What good can she do? What benefit is it to her children for her to remain at home? She has felt an earnest desire to do some work in the Lord&apos;s vineyard and has thought that it might be best to leave her family rather than to remain while the husband and father is constantly teaching the children to disrespect and disobey her.",
+    "puborder": 1061,
+    "translations": [
+      {
+        "para_id": "13839.1295",
+        "lang": "bg",
+        "refcode": "ХД 147.8"
+      },
+      {
+        "para_id": "177.1627",
+        "lang": "es",
+        "refcode": "HC 316.1"
+      },
+      {
+        "para_id": "193.1578",
+        "lang": "fr",
+        "refcode": "FC 334.1"
+      },
+      {
+        "para_id": "12869.1964",
+        "lang": "id",
+        "refcode": "MKB 331.1"
+      },
+      {
+        "para_id": "12178.1367",
+        "lang": "pl",
+        "refcode": "ChD 219.3"
+      },
+      {
+        "para_id": "1955.2051",
+        "lang": "pt",
+        "refcode": "LA 348"
+      },
+      {
+        "para_id": "1955.2052",
+        "lang": "pt",
+        "refcode": "LA 348.1"
+      },
+      {
+        "para_id": "2026.1597",
+        "lang": "ro",
+        "refcode": "CA 348.2"
+      },
+      {
+        "para_id": "1803.1552",
+        "lang": "ru",
+        "refcode": "ХД 348.1"
+      },
+      {
+        "para_id": "12131.1444",
+        "lang": "uk",
+        "refcode": "ХР 280.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1604",
+    "id_prev": "128.1603",
+    "id_next": "128.1606",
+    "refcode_1": "AH",
+    "refcode_2": "348",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 348.3",
+    "refcode_long": "The Adventist Home, p. 348.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In such cases my advice would be, Mothers, whatever trials you may be called to endure through poverty, through wounds and bruises of the soul, from the harsh, overbearing assumption of the husband and father, do not leave your children; do not give them up to the influence of a godless father. Your work is to counteract the work of the father, who is apparently under the control of Satan.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 28, 1890\" data-link=\"14056.6843001\">Letter 28, 1890</span>.</span></a></sup>",
+    "puborder": 1062,
+    "translations": [
+      {
+        "para_id": "13839.1298",
+        "lang": "bg",
+        "refcode": "ХД 148.1"
+      },
+      {
+        "para_id": "177.1628",
+        "lang": "es",
+        "refcode": "HC 316.2"
+      },
+      {
+        "para_id": "193.1579",
+        "lang": "fr",
+        "refcode": "FC 334.2"
+      },
+      {
+        "para_id": "12869.1967",
+        "lang": "id",
+        "refcode": "MKB 332.1"
+      },
+      {
+        "para_id": "12178.1369",
+        "lang": "pl",
+        "refcode": "ChD 220.1"
+      },
+      {
+        "para_id": "1955.2053",
+        "lang": "pt",
+        "refcode": "LA 348.2"
+      },
+      {
+        "para_id": "2026.1598",
+        "lang": "ro",
+        "refcode": "CA 348.3"
+      },
+      {
+        "para_id": "1803.1553",
+        "lang": "ru",
+        "refcode": "ХД 348.2"
+      },
+      {
+        "para_id": "12131.1445",
+        "lang": "uk",
+        "refcode": "ХР 280.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1606",
+    "id_prev": "128.1604",
+    "id_next": "128.1607",
+    "refcode_1": "AH",
+    "refcode_2": "349",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 349.1",
+    "refcode_long": "The Adventist Home, p. 349.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Give a Living Example of Self-control</strong>&mdash;You have trials, I know, but there is such a thing as showing a spirit of driving rather than of drawing. Your husband needs each day to see a living example of patience and self-control. Make every effort to please him, and yet do not yield up one principle of the truth....",
+    "puborder": 1063,
+    "translations": [
+      {
+        "para_id": "13839.1299",
+        "lang": "bg",
+        "refcode": "ХД 148.2"
+      },
+      {
+        "para_id": "177.1631",
+        "lang": "es",
+        "refcode": "HC 317.1"
+      },
+      {
+        "para_id": "193.1581",
+        "lang": "fr",
+        "refcode": "FC 335.1"
+      },
+      {
+        "para_id": "12869.1969",
+        "lang": "id",
+        "refcode": "MKB 332.2"
+      },
+      {
+        "para_id": "12178.1370",
+        "lang": "pl",
+        "refcode": "ChD 220.2"
+      },
+      {
+        "para_id": "1955.2055",
+        "lang": "pt",
+        "refcode": "LA 349"
+      },
+      {
+        "para_id": "1955.2056",
+        "lang": "pt",
+        "refcode": "LA 349.1"
+      },
+      {
+        "para_id": "2026.1600",
+        "lang": "ro",
+        "refcode": "CA 349.1"
+      },
+      {
+        "para_id": "1803.1555",
+        "lang": "ru",
+        "refcode": "ХД 349.1"
+      },
+      {
+        "para_id": "12131.1446",
+        "lang": "uk",
+        "refcode": "ХР 280.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1607",
+    "id_prev": "128.1606",
+    "id_next": "128.1608",
+    "refcode_1": "AH",
+    "refcode_2": "349",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 349.2",
+    "refcode_long": "The Adventist Home, p. 349.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Christ requires the whole being in His service&mdash;heart, soul, mind, and strength. As you give Him what He asks of you, you will represent Him in character. Let your husband see the Holy Spirit working in you. Be careful and considerate, patient and forbearing. Do not urge the truth upon him. Do your duty as a wife should, and then see if his heart is not touched. Your affections must not be weaned from your husband. Please him in every way possible. Let not your religious faith draw you apart. Conscientiously obey God, and please your husband wherever you can....",
+    "puborder": 1064,
+    "translations": [
+      {
+        "para_id": "13839.1300",
+        "lang": "bg",
+        "refcode": "ХД 148.3"
+      },
+      {
+        "para_id": "177.1632",
+        "lang": "es",
+        "refcode": "HC 317.2"
+      },
+      {
+        "para_id": "193.1582",
+        "lang": "fr",
+        "refcode": "FC 335.2"
+      },
+      {
+        "para_id": "12869.1970",
+        "lang": "id",
+        "refcode": "MKB 332.3"
+      },
+      {
+        "para_id": "12178.1371",
+        "lang": "pl",
+        "refcode": "ChD 220.3"
+      },
+      {
+        "para_id": "1955.2057",
+        "lang": "pt",
+        "refcode": "LA 349.2"
+      },
+      {
+        "para_id": "2026.1601",
+        "lang": "ro",
+        "refcode": "CA 349.2"
+      },
+      {
+        "para_id": "1803.1556",
+        "lang": "ru",
+        "refcode": "ХД 349.2"
+      },
+      {
+        "para_id": "12131.1448",
+        "lang": "uk",
+        "refcode": "ХР 281.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1608",
+    "id_prev": "128.1607",
+    "id_next": "128.1609",
+    "refcode_1": "AH",
+    "refcode_2": "349",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 349.3",
+    "refcode_long": "The Adventist Home, p. 349.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Let all see that you love Jesus and trust in Him. Give your husband and your believing and unbelieving friends evidence that you desire them to see the beauty of truth. But do not show that painful, worrying anxiety which often spoils a good work....",
+    "puborder": 1065,
+    "translations": [
+      {
+        "para_id": "13839.1301",
+        "lang": "bg",
+        "refcode": "ХД 148.4"
+      },
+      {
+        "para_id": "177.1633",
+        "lang": "es",
+        "refcode": "HC 317.3"
+      },
+      {
+        "para_id": "193.1583",
+        "lang": "fr",
+        "refcode": "FC 335.3"
+      },
+      {
+        "para_id": "12869.1971",
+        "lang": "id",
+        "refcode": "MKB 332.4"
+      },
+      {
+        "para_id": "12178.1372",
+        "lang": "pl",
+        "refcode": "ChD 220.4"
+      },
+      {
+        "para_id": "1955.2058",
+        "lang": "pt",
+        "refcode": "LA 349.3"
+      },
+      {
+        "para_id": "2026.1602",
+        "lang": "ro",
+        "refcode": "CA 349.3"
+      },
+      {
+        "para_id": "1803.1557",
+        "lang": "ru",
+        "refcode": "ХД 349.3"
+      },
+      {
+        "para_id": "12131.1449",
+        "lang": "uk",
+        "refcode": "ХР 281.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1609",
+    "id_prev": "128.1608",
+    "id_next": "128.1611",
+    "refcode_1": "AH",
+    "refcode_2": "349",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 349.4",
+    "refcode_long": "The Adventist Home, p. 349.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Never let a word of reproach or faultfinding fall upon the ears of your husband. You sometimes pass through strait places, but do not talk of these trials. Silence is eloquence. Hasty speech will only increase your unhappiness. Be cheerful and happy. Bring all the sunshine possible into your home, and shut out the shadows. Let the bright beams of the Sun of Righteousness shine into the chambers of your soul temple. Then the fragrance of the Christian life will be brought into your family. There will be no dwelling upon disagreeable things, which many times have no truth in them.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 145, 1900\" data-link=\"14065.7646001\">Letter 145, 1900</span>.</span></a></sup>",
+    "puborder": 1066,
+    "translations": [
+      {
+        "para_id": "13839.1302",
+        "lang": "bg",
+        "refcode": "ХД 148.5"
+      },
+      {
+        "para_id": "177.1633",
+        "lang": "es",
+        "refcode": "HC 317.3"
+      },
+      {
+        "para_id": "193.1584",
+        "lang": "fr",
+        "refcode": "FC 335.4"
+      },
+      {
+        "para_id": "12869.1972",
+        "lang": "id",
+        "refcode": "MKB 332.5"
+      },
+      {
+        "para_id": "12178.1373",
+        "lang": "pl",
+        "refcode": "ChD 220.5"
+      },
+      {
+        "para_id": "1955.2059",
+        "lang": "pt",
+        "refcode": "LA 349.4"
+      },
+      {
+        "para_id": "2026.1603",
+        "lang": "ro",
+        "refcode": "CA 349.4"
+      },
+      {
+        "para_id": "1803.1558",
+        "lang": "ru",
+        "refcode": "ХД 349.4"
+      },
+      {
+        "para_id": "12131.1450",
+        "lang": "uk",
+        "refcode": "ХР 281.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1611",
+    "id_prev": "128.1609",
+    "id_next": "128.1612",
+    "refcode_1": "AH",
+    "refcode_2": "350",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 350.1",
+    "refcode_long": "The Adventist Home, p. 350.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Burdened Wife Counseled to Keep Cheerful</strong>&mdash;You now have a double responsibility because your husband has turned his face away from Jesus....",
+    "puborder": 1067,
+    "translations": [
+      {
+        "para_id": "13839.1303",
+        "lang": "bg",
+        "refcode": "ХД 148.6"
+      },
+      {
+        "para_id": "177.1634",
+        "lang": "es",
+        "refcode": "HC 317.4"
+      },
+      {
+        "para_id": "193.1585",
+        "lang": "fr",
+        "refcode": "FC 335.5"
+      },
+      {
+        "para_id": "12869.1976",
+        "lang": "id",
+        "refcode": "MKB 333.1"
+      },
+      {
+        "para_id": "12178.1374",
+        "lang": "pl",
+        "refcode": "ChD 220.6"
+      },
+      {
+        "para_id": "1955.2062",
+        "lang": "pt",
+        "refcode": "LA 350.1"
+      },
+      {
+        "para_id": "1955.2061",
+        "lang": "pt",
+        "refcode": "LA 350"
+      },
+      {
+        "para_id": "2026.1605",
+        "lang": "ro",
+        "refcode": "CA 350.1"
+      },
+      {
+        "para_id": "1803.1560",
+        "lang": "ru",
+        "refcode": "ХД 350.1"
+      },
+      {
+        "para_id": "12131.1451",
+        "lang": "uk",
+        "refcode": "ХР 281.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1612",
+    "id_prev": "128.1611",
+    "id_next": "128.1613",
+    "refcode_1": "AH",
+    "refcode_2": "350",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 350.2",
+    "refcode_long": "The Adventist Home, p. 350.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "I know it must be a great grief for you to stand alone, as far as the doing of the word is concerned. But how knowest thou, O wife, but that your consistent life of faith and obedience may win back your husband to the truth? Let the dear children be brought to Jesus. In simple language speak the words of truth to them. Sing to them pleasant, attractive songs which reveal the love of Christ. Bring your children to Jesus, for He loves little children.",
+    "puborder": 1068,
+    "translations": [
+      {
+        "para_id": "13839.1304",
+        "lang": "bg",
+        "refcode": "ХД 148.7"
+      },
+      {
+        "para_id": "177.1637",
+        "lang": "es",
+        "refcode": "HC 318.1"
+      },
+      {
+        "para_id": "193.1586",
+        "lang": "fr",
+        "refcode": "FC 335.6"
+      },
+      {
+        "para_id": "12869.1977",
+        "lang": "id",
+        "refcode": "MKB 333.2"
+      },
+      {
+        "para_id": "12178.1376",
+        "lang": "pl",
+        "refcode": "ChD 221.1"
+      },
+      {
+        "para_id": "1955.2063",
+        "lang": "pt",
+        "refcode": "LA 350.2"
+      },
+      {
+        "para_id": "2026.1606",
+        "lang": "ro",
+        "refcode": "CA 350.2"
+      },
+      {
+        "para_id": "1803.1561",
+        "lang": "ru",
+        "refcode": "ХД 350.2"
+      },
+      {
+        "para_id": "12131.1452",
+        "lang": "uk",
+        "refcode": "ХР 281.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1613",
+    "id_prev": "128.1612",
+    "id_next": "128.1614",
+    "refcode_1": "AH",
+    "refcode_2": "350",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 350.3",
+    "refcode_long": "The Adventist Home, p. 350.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Keep cheerful. Do not forget that you have a Comforter, the Holy Spirit, which Christ has appointed. You are never alone. If you will listen to the voice that now speaks to you, if you will respond without delay to the knocking at the door of your heart, &ldquo;Come in, Lord Jesus, that I may sup with Thee, and Thee with me,&rdquo; the heavenly Guest will enter. When this element, which is all divine, abides with you, there is peace and rest.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 124, 1897\" data-link=\"14062.7309001\">Letter 124, 1897</span>.</span></a></sup>",
+    "puborder": 1069,
+    "translations": [
+      {
+        "para_id": "13839.1305",
+        "lang": "bg",
+        "refcode": "ХД 148.8"
+      },
+      {
+        "para_id": "177.1638",
+        "lang": "es",
+        "refcode": "HC 318.2"
+      },
+      {
+        "para_id": "193.1589",
+        "lang": "fr",
+        "refcode": "FC 336.1"
+      },
+      {
+        "para_id": "12869.1978",
+        "lang": "id",
+        "refcode": "MKB 333.3"
+      },
+      {
+        "para_id": "12178.1376",
+        "lang": "pl",
+        "refcode": "ChD 221.1"
+      },
+      {
+        "para_id": "1955.2064",
+        "lang": "pt",
+        "refcode": "LA 350.3"
+      },
+      {
+        "para_id": "2026.1607",
+        "lang": "ro",
+        "refcode": "CA 350.3"
+      },
+      {
+        "para_id": "1803.1562",
+        "lang": "ru",
+        "refcode": "ХД 350.3"
+      },
+      {
+        "para_id": "12131.1452",
+        "lang": "uk",
+        "refcode": "ХР 281.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1614",
+    "id_prev": "128.1613",
+    "id_next": "128.1616",
+    "refcode_1": "AH",
+    "refcode_2": "350",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 350.4",
+    "refcode_long": "The Adventist Home, p. 350.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Maintain Christian Principles</strong>&mdash;The household where God is not worshiped is like a ship in the midst of the sea without a pilot or a helm. The tempest beats and breaks upon it, and there is danger that all on board may perish. Regard your life and the lives of your children as precious for Christ&apos;s sake, for you must meet them and your husband before the throne of God. Your steadfast Christian principles must not become weak, but stronger and stronger. However much your husband may be annoyed, however strongly he may oppose you, you must show a consistent, faithful, Christian steadfastness. And then whatever he may say, in heart and judgment he can but respect you, if he has a heart of flesh.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 76, 1896\" data-link=\"14061.6306001\">Letter 76, 1896</span>.</span></a></sup>",
+    "puborder": 1070,
+    "translations": [
+      {
+        "para_id": "13839.1307",
+        "lang": "bg",
+        "refcode": "ХД 149.1"
+      },
+      {
+        "para_id": "177.1639",
+        "lang": "es",
+        "refcode": "HC 318.3"
+      },
+      {
+        "para_id": "193.1590",
+        "lang": "fr",
+        "refcode": "FC 336.2"
+      },
+      {
+        "para_id": "12869.1980",
+        "lang": "id",
+        "refcode": "MKB 333.4"
+      },
+      {
+        "para_id": "12178.1377",
+        "lang": "pl",
+        "refcode": "ChD 221.2"
+      },
+      {
+        "para_id": "1955.2065",
+        "lang": "pt",
+        "refcode": "LA 350"
+      },
+      {
+        "para_id": "1955.2066",
+        "lang": "pt",
+        "refcode": "LA 350.4"
+      },
+      {
+        "para_id": "2026.1608",
+        "lang": "ro",
+        "refcode": "CA 350.4"
+      },
+      {
+        "para_id": "1803.1563",
+        "lang": "ru",
+        "refcode": "ХД 350.4"
+      },
+      {
+        "para_id": "12131.1455",
+        "lang": "uk",
+        "refcode": "ХР 282.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1616",
+    "id_prev": "128.1614",
+    "id_next": "128.1617",
+    "refcode_1": "AH",
+    "refcode_2": "351",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 351.1",
+    "refcode_long": "The Adventist Home, p. 351.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God&apos;s Claims to Come First</strong> [<span class=\"non-egw-note\">Note: Taken from chapter &ldquo;Warnings and Reproofs,&rdquo; in which are found testimonies to a number of members in a certain church. This follows a message addressed to a brother T.&mdash;<em>Compilers.</em></span>]&mdash;I was then shown his daughter-in-law. She is beloved of God, but held in servile bondage, fearing, trembling, desponding, doubting, and very nervous. This sister should not feel that she must yield her will to a godless youth who has less years upon his head than herself. She should remember that her marriage does not destroy her individuality. God has claims upon her higher than any earthly claim. Christ has bought her with His own blood. She is not her own. She fails to put her entire trust in God and submits to yield her convictions, her conscience, to an overbearing, tyrannical man, fired up by Satan whenever his satanic majesty can work effectually through him to intimidate this trembling, shrinking soul. She has so many times been thrown into agitation that her nervous system is shattered, and she is merely a wreck. Is it the will of the Lord that this sister should be in this state and God be robbed of her service? No. Her marriage was a deception of the devil. Yet now she should make the best of it, treat her husband with tenderness, and make him as happy as she can without violating her conscience; for if he remains in his rebellion, this world is all the heaven he will have. But to deprive herself of the privilege of meetings, to gratify an overbearing husband possessing the spirit of the dragon, is not according to God&apos;s will.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 99.1\" data-link=\"120.413\">Testimonies for the Church 2:99, 100</span>.</span></a></sup>",
+    "puborder": 1071,
+    "translations": [
+      {
+        "para_id": "13839.1308",
+        "lang": "bg",
+        "refcode": "ХД 149.2"
+      },
+      {
+        "para_id": "177.1640",
+        "lang": "es",
+        "refcode": "HC 318.4"
+      },
+      {
+        "para_id": "193.1594",
+        "lang": "fr",
+        "refcode": "FC 337.1"
+      },
+      {
+        "para_id": "193.1595",
+        "lang": "fr",
+        "refcode": "FC 337.2"
+      },
+      {
+        "para_id": "193.1591",
+        "lang": "fr",
+        "refcode": "FC 336.3"
+      },
+      {
+        "para_id": "12869.1984",
+        "lang": "id",
+        "refcode": "MKB 334.1"
+      },
+      {
+        "para_id": "12178.1378",
+        "lang": "pl",
+        "refcode": "ChD 221.3"
+      },
+      {
+        "para_id": "1955.2068",
+        "lang": "pt",
+        "refcode": "LA 351"
+      },
+      {
+        "para_id": "1955.2069",
+        "lang": "pt",
+        "refcode": "LA 351.1"
+      },
+      {
+        "para_id": "2026.1610",
+        "lang": "ro",
+        "refcode": "CA 351.1"
+      },
+      {
+        "para_id": "1803.1565",
+        "lang": "ru",
+        "refcode": "ХД 351.1"
+      },
+      {
+        "para_id": "12131.1456",
+        "lang": "uk",
+        "refcode": "ХР 282.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1617",
+    "id_prev": "128.1616",
+    "id_next": "128.1620",
+    "refcode_1": "AH",
+    "refcode_2": "351",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 351.2",
+    "refcode_long": "The Adventist Home, p. 351.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;And another said, I have married a wife, and therefore I cannot come.&rdquo; The sin of this man was not in marrying, but in marrying one who divorced his mind from the higher and more important interests of life. Never should a man allow wife and home to draw his thoughts <span class=\"page-break\" data-page=\"352\"></span> away from Christ or to lead him to refuse to accept the gracious invitations of the gospel.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 24, 1891\" data-link=\"14057.6563001\">Manuscript 24, 1891</span>.</span></a></sup>",
+    "puborder": 1072,
+    "translations": [
+      {
+        "para_id": "13839.1309",
+        "lang": "bg",
+        "refcode": "ХД 149.3"
+      },
+      {
+        "para_id": "177.1643",
+        "lang": "es",
+        "refcode": "HC 319.1"
+      },
+      {
+        "para_id": "193.1596",
+        "lang": "fr",
+        "refcode": "FC 337.3"
+      },
+      {
+        "para_id": "12869.1985",
+        "lang": "id",
+        "refcode": "MKB 334.2"
+      },
+      {
+        "para_id": "12178.1381",
+        "lang": "pl",
+        "refcode": "ChD 222.1"
+      },
+      {
+        "para_id": "1955.2070",
+        "lang": "pt",
+        "refcode": "LA 351.2"
+      },
+      {
+        "para_id": "2026.1611",
+        "lang": "ro",
+        "refcode": "CA 351.2"
+      },
+      {
+        "para_id": "1803.1566",
+        "lang": "ru",
+        "refcode": "ХД 351.2"
+      },
+      {
+        "para_id": "12131.1459",
+        "lang": "uk",
+        "refcode": "ХР 283.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1620",
+    "id_prev": "128.1617",
+    "id_next": "128.1622",
+    "refcode_1": "AH",
+    "refcode_2": "352",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 352.1",
+    "refcode_long": "The Adventist Home, p. 352.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Better Save Part Than Lose All</strong>&mdash;Brother K, you have had many discouragements; but you must be earnest, firm, and decided to do your duty in your family, and take them with you if possible. You should spare no effort to prevail upon them to accompany you on your heavenward journey. But if the mother and the children do not choose to accompany you, but rather seek to draw you away from your duties and religious privileges, you must go forward even if you go alone. You must live in the fear of God. You must improve your opportunities of attending the meetings and gaining all the spiritual strength you can, for you will need it in the days to come. Lot&apos;s property was all consumed. If you should meet with loss, you should not be discouraged; and if you can save only a <em>part</em> of your family, it is much better than to lose all.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 112.1\" data-link=\"114.569\">Testimonies for the Church 4:112, 113</span>.</span></a></sup>",
+    "puborder": 1073,
+    "translations": [
+      {
+        "para_id": "13839.1310",
+        "lang": "bg",
+        "refcode": "ХД 149.4"
+      },
+      {
+        "para_id": "177.1644",
+        "lang": "es",
+        "refcode": "HC 319.2"
+      },
+      {
+        "para_id": "193.1598",
+        "lang": "fr",
+        "refcode": "FC 338.1"
+      },
+      {
+        "para_id": "12869.1989",
+        "lang": "id",
+        "refcode": "MKB 335.1"
+      },
+      {
+        "para_id": "12178.1382",
+        "lang": "pl",
+        "refcode": "ChD 222.2"
+      },
+      {
+        "para_id": "1955.2073",
+        "lang": "pt",
+        "refcode": "LA 352"
+      },
+      {
+        "para_id": "1955.2074",
+        "lang": "pt",
+        "refcode": "LA 352.1"
+      },
+      {
+        "para_id": "2026.1614",
+        "lang": "ro",
+        "refcode": "CA 352.1"
+      },
+      {
+        "para_id": "1803.1569",
+        "lang": "ru",
+        "refcode": "ХД 352.1"
+      },
+      {
+        "para_id": "12131.1460",
+        "lang": "uk",
+        "refcode": "ХР 283.2"
+      }
+    ]
+  }
+]

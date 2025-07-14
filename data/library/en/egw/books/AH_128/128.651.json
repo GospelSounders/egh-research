@@ -1,0 +1,2321 @@
+[
+  {
+    "para_id": "128.651",
+    "id_prev": "128.649",
+    "id_next": "128.652",
+    "refcode_1": "AH",
+    "refcode_2": "148",
+    "refcode_3": "",
+    "refcode_4": "22",
+    "refcode_short": "AH 148",
+    "refcode_long": "The Adventist Home, p. 148 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 22&mdash;Building and Furnishing the Home",
+    "puborder": 422,
+    "translations": [
+      {
+        "para_id": "13839.523",
+        "lang": "bg",
+        "refcode": "ХД 61"
+      },
+      {
+        "para_id": "792.209",
+        "lang": "de",
+        "refcode": "GFH 36"
+      },
+      {
+        "para_id": "177.682",
+        "lang": "es",
+        "refcode": "HC 132"
+      },
+      {
+        "para_id": "193.641",
+        "lang": "fr",
+        "refcode": "FC 141"
+      },
+      {
+        "para_id": "12869.761",
+        "lang": "id",
+        "refcode": "MKB 139"
+      },
+      {
+        "para_id": "891.380",
+        "lang": "it",
+        "refcode": "FC 57"
+      },
+      {
+        "para_id": "12178.530",
+        "lang": "pl",
+        "refcode": "ChD 88"
+      },
+      {
+        "para_id": "1955.857",
+        "lang": "pt",
+        "refcode": "LA 148"
+      },
+      {
+        "para_id": "2026.643",
+        "lang": "ro",
+        "refcode": "CA 148"
+      },
+      {
+        "para_id": "1803.614",
+        "lang": "ru",
+        "refcode": "ХД 148"
+      },
+      {
+        "para_id": "12131.578",
+        "lang": "uk",
+        "refcode": "ХР 118"
+      }
+    ]
+  },
+  {
+    "para_id": "128.652",
+    "id_prev": "128.651",
+    "id_next": "128.653",
+    "refcode_1": "AH",
+    "refcode_2": "148",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 148.1",
+    "refcode_long": "The Adventist Home, p. 148.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Provide Ventilation, Sunlight, and Drainage</strong>&mdash;In the construction of buildings, whether for public purposes or as dwellings, care should be taken to provide for good ventilation and plenty of sunlight. Churches and schoolrooms are often faulty in this respect. Neglect of proper ventilation is responsible for much of the drowsiness and dullness that destroy the effect of many a sermon and make the teacher&apos;s work toilsome and ineffective.",
+    "puborder": 423,
+    "translations": [
+      {
+        "para_id": "13839.524",
+        "lang": "bg",
+        "refcode": "ХД 61.3"
+      },
+      {
+        "para_id": "792.211",
+        "lang": "de",
+        "refcode": "GFH 36.1"
+      },
+      {
+        "para_id": "792.210",
+        "lang": "de",
+        "refcode": "GFH 36"
+      },
+      {
+        "para_id": "177.683",
+        "lang": "es",
+        "refcode": "HC 132.1"
+      },
+      {
+        "para_id": "193.642",
+        "lang": "fr",
+        "refcode": "FC 141.1"
+      },
+      {
+        "para_id": "12869.763",
+        "lang": "id",
+        "refcode": "MKB 139.1"
+      },
+      {
+        "para_id": "891.382",
+        "lang": "it",
+        "refcode": "FC 57.4"
+      },
+      {
+        "para_id": "891.381",
+        "lang": "it",
+        "refcode": "FC 57"
+      },
+      {
+        "para_id": "12178.531",
+        "lang": "pl",
+        "refcode": "ChD 88.3"
+      },
+      {
+        "para_id": "1955.858",
+        "lang": "pt",
+        "refcode": "LA 148"
+      },
+      {
+        "para_id": "1955.859",
+        "lang": "pt",
+        "refcode": "LA 148.1"
+      },
+      {
+        "para_id": "2026.644",
+        "lang": "ro",
+        "refcode": "CA 148.1"
+      },
+      {
+        "para_id": "1803.615",
+        "lang": "ru",
+        "refcode": "ХД 148.1"
+      },
+      {
+        "para_id": "12131.579",
+        "lang": "uk",
+        "refcode": "ХР 118.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.653",
+    "id_prev": "128.652",
+    "id_next": "128.654",
+    "refcode_1": "AH",
+    "refcode_2": "148",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 148.2",
+    "refcode_long": "The Adventist Home, p. 148.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "So far as possible, all buildings intended for human habitation should be placed on high, well-drained ground. This will ensure a dry site.... This matter is often too lightly regarded. Continuous ill health, serious diseases, and many deaths result from the dampness and malaria of low-lying, ill-drained situations.",
+    "puborder": 424,
+    "translations": [
+      {
+        "para_id": "13839.525",
+        "lang": "bg",
+        "refcode": "ХД 61.4"
+      },
+      {
+        "para_id": "792.212",
+        "lang": "de",
+        "refcode": "GFH 36.2"
+      },
+      {
+        "para_id": "177.684",
+        "lang": "es",
+        "refcode": "HC 132.2"
+      },
+      {
+        "para_id": "193.643",
+        "lang": "fr",
+        "refcode": "FC 141.2"
+      },
+      {
+        "para_id": "12869.764",
+        "lang": "id",
+        "refcode": "MKB 139.2"
+      },
+      {
+        "para_id": "891.382",
+        "lang": "it",
+        "refcode": "FC 57.4"
+      },
+      {
+        "para_id": "12178.532",
+        "lang": "pl",
+        "refcode": "ChD 88.4"
+      },
+      {
+        "para_id": "1955.860",
+        "lang": "pt",
+        "refcode": "LA 148.2"
+      },
+      {
+        "para_id": "2026.645",
+        "lang": "ro",
+        "refcode": "CA 148.2"
+      },
+      {
+        "para_id": "1803.616",
+        "lang": "ru",
+        "refcode": "ХД 148.2"
+      },
+      {
+        "para_id": "12131.580",
+        "lang": "uk",
+        "refcode": "ХР 118.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.654",
+    "id_prev": "128.653",
+    "id_next": "128.655",
+    "refcode_1": "AH",
+    "refcode_2": "148",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 148.3",
+    "refcode_long": "The Adventist Home, p. 148.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the building of houses it is especially important to secure thorough ventilation and plenty of sunlight. Let there be a current of air and an abundance of light in every room in the house. Sleeping rooms should be so arranged as to have a free circulation of air day and night. No room is fit to be occupied as a sleeping room unless it can be thrown open daily to the air and sunshine. In most countries bedrooms need to be supplied with conveniences for heating, that they may be thoroughly warmed and dried in cold or wet weather.",
+    "puborder": 425,
+    "translations": [
+      {
+        "para_id": "13839.526",
+        "lang": "bg",
+        "refcode": "ХД 61.5"
+      },
+      {
+        "para_id": "792.213",
+        "lang": "de",
+        "refcode": "GFH 36.3"
+      },
+      {
+        "para_id": "792.214",
+        "lang": "de",
+        "refcode": "GFH 36.4"
+      },
+      {
+        "para_id": "177.685",
+        "lang": "es",
+        "refcode": "HC 132.3"
+      },
+      {
+        "para_id": "193.644",
+        "lang": "fr",
+        "refcode": "FC 141.3"
+      },
+      {
+        "para_id": "12869.767",
+        "lang": "id",
+        "refcode": "MKB 140.1"
+      },
+      {
+        "para_id": "891.385",
+        "lang": "it",
+        "refcode": "FC 58.1"
+      },
+      {
+        "para_id": "12178.535",
+        "lang": "pl",
+        "refcode": "ChD 89.1"
+      },
+      {
+        "para_id": "1955.861",
+        "lang": "pt",
+        "refcode": "LA 148.3"
+      },
+      {
+        "para_id": "2026.646",
+        "lang": "ro",
+        "refcode": "CA 148.3"
+      },
+      {
+        "para_id": "1803.617",
+        "lang": "ru",
+        "refcode": "ХД 148.3"
+      },
+      {
+        "para_id": "12131.581",
+        "lang": "uk",
+        "refcode": "ХР 118.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.655",
+    "id_prev": "128.654",
+    "id_next": "128.658",
+    "refcode_1": "AH",
+    "refcode_2": "148",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 148.4",
+    "refcode_long": "The Adventist Home, p. 148.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The guestchamber should have equal care with the rooms intended for constant use. Like the other bedrooms, it should have air and sunshine and should be provided with some means of heating to dry out the dampness <span class=\"page-break\" data-page=\"149\"></span> that always accumulates in a room not in constant use. Whoever sleeps in a sunless room or occupies a bed that has not been thoroughly dried and aired does so at the risk of health, and often of life....",
+    "puborder": 426,
+    "translations": [
+      {
+        "para_id": "13839.527",
+        "lang": "bg",
+        "refcode": "ХД 61.6"
+      },
+      {
+        "para_id": "177.686",
+        "lang": "es",
+        "refcode": "HC 132.4"
+      },
+      {
+        "para_id": "193.645",
+        "lang": "fr",
+        "refcode": "FC 141.4"
+      },
+      {
+        "para_id": "12869.768",
+        "lang": "id",
+        "refcode": "MKB 140.2"
+      },
+      {
+        "para_id": "891.386",
+        "lang": "it",
+        "refcode": "FC 58.2"
+      },
+      {
+        "para_id": "12178.535",
+        "lang": "pl",
+        "refcode": "ChD 89.1"
+      },
+      {
+        "para_id": "1955.862",
+        "lang": "pt",
+        "refcode": "LA 148.4"
+      },
+      {
+        "para_id": "2026.647",
+        "lang": "ro",
+        "refcode": "CA 148.4"
+      },
+      {
+        "para_id": "1803.618",
+        "lang": "ru",
+        "refcode": "ХД 148.4"
+      },
+      {
+        "para_id": "12131.582",
+        "lang": "uk",
+        "refcode": "ХР 118.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.658",
+    "id_prev": "128.655",
+    "id_next": "128.659",
+    "refcode_1": "AH",
+    "refcode_2": "149",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 149.1",
+    "refcode_long": "The Adventist Home, p. 149.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those who have the aged to provide for should remember that these especially need warm, comfortable rooms. Vigor declines as years advance, leaving less vitality with which to resist unhealthful influences; hence the greater necessity for the aged to have plenty of sunlight and fresh, pure air.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 274.1\" data-link=\"135.1368\">The Ministry of Healing, 274, 275</span>.</span></a></sup>",
+    "puborder": 427,
+    "translations": [
+      {
+        "para_id": "13839.528",
+        "lang": "bg",
+        "refcode": "ХД 61.7"
+      },
+      {
+        "para_id": "177.689",
+        "lang": "es",
+        "refcode": "HC 133.1"
+      },
+      {
+        "para_id": "193.645",
+        "lang": "fr",
+        "refcode": "FC 141.4"
+      },
+      {
+        "para_id": "12869.769",
+        "lang": "id",
+        "refcode": "MKB 140.3"
+      },
+      {
+        "para_id": "891.386",
+        "lang": "it",
+        "refcode": "FC 58.2"
+      },
+      {
+        "para_id": "12178.536",
+        "lang": "pl",
+        "refcode": "ChD 89.2"
+      },
+      {
+        "para_id": "1955.865",
+        "lang": "pt",
+        "refcode": "LA 149.1"
+      },
+      {
+        "para_id": "2026.650",
+        "lang": "ro",
+        "refcode": "CA 149.1"
+      },
+      {
+        "para_id": "1803.621",
+        "lang": "ru",
+        "refcode": "ХД 149.1"
+      },
+      {
+        "para_id": "12131.585",
+        "lang": "uk",
+        "refcode": "ХР 119.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.659",
+    "id_prev": "128.658",
+    "id_next": "128.660",
+    "refcode_1": "AH",
+    "refcode_2": "149",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 149.2",
+    "refcode_long": "The Adventist Home, p. 149.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Avoid Lowlands</strong>&mdash;If we would have our homes the abiding place of health and happiness, we must place them above the miasma and fog of the lowlands and give free entrance to heaven&apos;s life-giving agencies. Dispense with heavy curtains, open the windows and the blinds, allow no vines, however beautiful, to shade the windows, and permit no trees to stand so near the house as to shut out the sunshine. The sunlight may fade the drapery and the carpets and tarnish the picture frames, but it will bring a healthy glow to the cheeks of the children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 275.1\" data-link=\"135.1375\">Ibid., 275</span>.</span></a></sup>",
+    "puborder": 428,
+    "translations": [
+      {
+        "para_id": "13839.530",
+        "lang": "bg",
+        "refcode": "ХД 62.1"
+      },
+      {
+        "para_id": "177.690",
+        "lang": "es",
+        "refcode": "HC 133.2"
+      },
+      {
+        "para_id": "193.648",
+        "lang": "fr",
+        "refcode": "FC 142.1"
+      },
+      {
+        "para_id": "12869.771",
+        "lang": "id",
+        "refcode": "MKB 140.4"
+      },
+      {
+        "para_id": "12178.537",
+        "lang": "pl",
+        "refcode": "ChD 89.3"
+      },
+      {
+        "para_id": "1955.867",
+        "lang": "pt",
+        "refcode": "LA 149.2"
+      },
+      {
+        "para_id": "1955.866",
+        "lang": "pt",
+        "refcode": "LA 149"
+      },
+      {
+        "para_id": "2026.651",
+        "lang": "ro",
+        "refcode": "CA 149.2"
+      },
+      {
+        "para_id": "1803.622",
+        "lang": "ru",
+        "refcode": "ХД 149.2"
+      },
+      {
+        "para_id": "12131.586",
+        "lang": "uk",
+        "refcode": "ХР 119.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.660",
+    "id_prev": "128.659",
+    "id_next": "128.661",
+    "refcode_1": "AH",
+    "refcode_2": "149",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 149.3",
+    "refcode_long": "The Adventist Home, p. 149.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Yard Surrounding the House</strong>&mdash;A yard beautified with scattering trees and some shrubbery, at a proper distance from the house, has a happy influence upon the family, and, if well taken care of, will prove no injury to the health. But shade trees and shrubbery close and dense around a house make it unhealthful, for they prevent the free circulation of air and shut out the rays of the sun. In consequence, a dampness gathers in the house, especially in wet seasons.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CTBH 107.1\" data-link=\"14.513\">Christian Temperance and Bible Hygiene, 107</span>.</span></a></sup>",
+    "puborder": 429,
+    "translations": [
+      {
+        "para_id": "13839.531",
+        "lang": "bg",
+        "refcode": "ХД 62.2"
+      },
+      {
+        "para_id": "792.215",
+        "lang": "de",
+        "refcode": "GFH 36"
+      },
+      {
+        "para_id": "792.216",
+        "lang": "de",
+        "refcode": "GFH 36.5"
+      },
+      {
+        "para_id": "177.691",
+        "lang": "es",
+        "refcode": "HC 133.3"
+      },
+      {
+        "para_id": "193.649",
+        "lang": "fr",
+        "refcode": "FC 142.2"
+      },
+      {
+        "para_id": "12869.775",
+        "lang": "id",
+        "refcode": "MKB 141.1"
+      },
+      {
+        "para_id": "12178.538",
+        "lang": "pl",
+        "refcode": "ChD 89.4"
+      },
+      {
+        "para_id": "1955.868",
+        "lang": "pt",
+        "refcode": "LA 149"
+      },
+      {
+        "para_id": "1955.869",
+        "lang": "pt",
+        "refcode": "LA 149.3"
+      },
+      {
+        "para_id": "2026.652",
+        "lang": "ro",
+        "refcode": "CA 149.3"
+      },
+      {
+        "para_id": "1803.623",
+        "lang": "ru",
+        "refcode": "ХД 149.3"
+      },
+      {
+        "para_id": "12131.587",
+        "lang": "uk",
+        "refcode": "ХР 119.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.661",
+    "id_prev": "128.660",
+    "id_next": "128.664",
+    "refcode_1": "AH",
+    "refcode_2": "149",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 149.4",
+    "refcode_long": "The Adventist Home, p. 149.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Effect of Natural Beauty on the Household</strong>&mdash;God loves the beautiful. He has clothed the earth and <span class=\"page-break\" data-page=\"150\"></span> the heavens with beauty, and with a Father&apos;s joy He watches the delight of His children in the things that He has made. He desires us to surround our homes with the beauty of natural things.",
+    "puborder": 430,
+    "translations": [
+      {
+        "para_id": "13839.532",
+        "lang": "bg",
+        "refcode": "ХД 62.3"
+      },
+      {
+        "para_id": "792.217",
+        "lang": "de",
+        "refcode": "GFH 36"
+      },
+      {
+        "para_id": "792.218",
+        "lang": "de",
+        "refcode": "GFH 36.6"
+      },
+      {
+        "para_id": "177.692",
+        "lang": "es",
+        "refcode": "HC 133.4"
+      },
+      {
+        "para_id": "193.650",
+        "lang": "fr",
+        "refcode": "FC 142.3"
+      },
+      {
+        "para_id": "12869.777",
+        "lang": "id",
+        "refcode": "MKB 141.2"
+      },
+      {
+        "para_id": "891.388",
+        "lang": "it",
+        "refcode": "FC 58.3"
+      },
+      {
+        "para_id": "891.387",
+        "lang": "it",
+        "refcode": "FC 58"
+      },
+      {
+        "para_id": "12178.541",
+        "lang": "pl",
+        "refcode": "ChD 90.1"
+      },
+      {
+        "para_id": "1955.871",
+        "lang": "pt",
+        "refcode": "LA 149.4"
+      },
+      {
+        "para_id": "1955.870",
+        "lang": "pt",
+        "refcode": "LA 149"
+      },
+      {
+        "para_id": "2026.653",
+        "lang": "ro",
+        "refcode": "CA 149.4"
+      },
+      {
+        "para_id": "1803.624",
+        "lang": "ru",
+        "refcode": "ХД 149.4"
+      },
+      {
+        "para_id": "12131.588",
+        "lang": "uk",
+        "refcode": "ХР 119.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.664",
+    "id_prev": "128.661",
+    "id_next": "128.665",
+    "refcode_1": "AH",
+    "refcode_2": "150",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 150.1",
+    "refcode_long": "The Adventist Home, p. 150.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Nearly all dwellers in the country, however poor, could have about their homes a bit of grassy lawn, a few shade trees, flowering shrubbery, or fragrant blossoms. And far more than any artificial adorning will they minister to the happiness of the household. They will bring into the home life a softening, refining influence, strengthening the love of nature and drawing the members of the household nearer to one another and nearer to God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 370.1\" data-link=\"135.1860\">The Ministry of Healing, 370</span>.</span></a></sup>",
+    "puborder": 431,
+    "translations": [
+      {
+        "para_id": "13839.533",
+        "lang": "bg",
+        "refcode": "ХД 62.4"
+      },
+      {
+        "para_id": "792.219",
+        "lang": "de",
+        "refcode": "GFH 36.7"
+      },
+      {
+        "para_id": "177.695",
+        "lang": "es",
+        "refcode": "HC 134.1"
+      },
+      {
+        "para_id": "193.651",
+        "lang": "fr",
+        "refcode": "FC 142.4"
+      },
+      {
+        "para_id": "12869.778",
+        "lang": "id",
+        "refcode": "MKB 141.3"
+      },
+      {
+        "para_id": "891.389",
+        "lang": "it",
+        "refcode": "FC 58.4"
+      },
+      {
+        "para_id": "12178.542",
+        "lang": "pl",
+        "refcode": "ChD 90.2"
+      },
+      {
+        "para_id": "1955.874",
+        "lang": "pt",
+        "refcode": "LA 150.1"
+      },
+      {
+        "para_id": "2026.656",
+        "lang": "ro",
+        "refcode": "CA 150.1"
+      },
+      {
+        "para_id": "1803.627",
+        "lang": "ru",
+        "refcode": "ХД 150.1"
+      },
+      {
+        "para_id": "12131.589",
+        "lang": "uk",
+        "refcode": "ХР 119.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.665",
+    "id_prev": "128.664",
+    "id_next": "128.666",
+    "refcode_1": "AH",
+    "refcode_2": "150",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 150.2",
+    "refcode_long": "The Adventist Home, p. 150.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Let the Home Furnishings Be Simple</strong>&mdash;Our artificial habits deprive us of many blessings and much enjoyment, and unfit us for living the most useful lives. Elaborate and expensive furnishings are a waste not only of money but of that which is a thousandfold more precious. They bring into the home a heavy burden of care and labor and perplexity....",
+    "puborder": 432,
+    "translations": [
+      {
+        "para_id": "13839.534",
+        "lang": "bg",
+        "refcode": "ХД 62.5"
+      },
+      {
+        "para_id": "792.223",
+        "lang": "de",
+        "refcode": "GFH 37.1"
+      },
+      {
+        "para_id": "792.222",
+        "lang": "de",
+        "refcode": "GFH 37"
+      },
+      {
+        "para_id": "177.696",
+        "lang": "es",
+        "refcode": "HC 134.2"
+      },
+      {
+        "para_id": "193.654",
+        "lang": "fr",
+        "refcode": "FC 143.1"
+      },
+      {
+        "para_id": "12869.780",
+        "lang": "id",
+        "refcode": "MKB 141.4"
+      },
+      {
+        "para_id": "891.391",
+        "lang": "it",
+        "refcode": "FC 58.5"
+      },
+      {
+        "para_id": "891.390",
+        "lang": "it",
+        "refcode": "FC 58"
+      },
+      {
+        "para_id": "12178.543",
+        "lang": "pl",
+        "refcode": "ChD 90.3"
+      },
+      {
+        "para_id": "1955.876",
+        "lang": "pt",
+        "refcode": "LA 150.2"
+      },
+      {
+        "para_id": "1955.875",
+        "lang": "pt",
+        "refcode": "LA 150"
+      },
+      {
+        "para_id": "2026.657",
+        "lang": "ro",
+        "refcode": "CA 150.2"
+      },
+      {
+        "para_id": "1803.628",
+        "lang": "ru",
+        "refcode": "ХД 150.2"
+      },
+      {
+        "para_id": "12131.591",
+        "lang": "uk",
+        "refcode": "ХР 120.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.666",
+    "id_prev": "128.665",
+    "id_next": "128.667",
+    "refcode_1": "AH",
+    "refcode_2": "150",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 150.3",
+    "refcode_long": "The Adventist Home, p. 150.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Furnish your home with things plain and simple, things that will bear handling, that can be easily kept clean, and that can be replaced without great expense. By exercising taste, you can make a very simple home attractive and inviting, if love and contentment are there.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 367.1\" data-link=\"135.1849\">Ibid., 367, 370</span>.</span></a></sup>",
+    "puborder": 433,
+    "translations": [
+      {
+        "para_id": "13839.535",
+        "lang": "bg",
+        "refcode": "ХД 62.6"
+      },
+      {
+        "para_id": "792.224",
+        "lang": "de",
+        "refcode": "GFH 37.2"
+      },
+      {
+        "para_id": "177.697",
+        "lang": "es",
+        "refcode": "HC 134.3"
+      },
+      {
+        "para_id": "193.655",
+        "lang": "fr",
+        "refcode": "FC 143.2"
+      },
+      {
+        "para_id": "12869.783",
+        "lang": "id",
+        "refcode": "MKB 142.1"
+      },
+      {
+        "para_id": "891.392",
+        "lang": "it",
+        "refcode": "FC 58.6"
+      },
+      {
+        "para_id": "12178.543",
+        "lang": "pl",
+        "refcode": "ChD 90.3"
+      },
+      {
+        "para_id": "1955.877",
+        "lang": "pt",
+        "refcode": "LA 150.3"
+      },
+      {
+        "para_id": "2026.658",
+        "lang": "ro",
+        "refcode": "CA 150.3"
+      },
+      {
+        "para_id": "1803.629",
+        "lang": "ru",
+        "refcode": "ХД 150.3"
+      },
+      {
+        "para_id": "12131.592",
+        "lang": "uk",
+        "refcode": "ХР 120.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.667",
+    "id_prev": "128.666",
+    "id_next": "128.668",
+    "refcode_1": "AH",
+    "refcode_2": "150",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 150.4",
+    "refcode_long": "The Adventist Home, p. 150.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Happiness is not found in empty show. The more simple the order of a well-regulated household, the happier will that home be.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 8-23-1877\" data-link=\"820.704\">The Signs of the Times, August 23, 1877</span>.</span></a></sup>",
+    "puborder": 434,
+    "translations": [
+      {
+        "para_id": "13839.536",
+        "lang": "bg",
+        "refcode": "ХД 62.7"
+      },
+      {
+        "para_id": "177.698",
+        "lang": "es",
+        "refcode": "HC 134.4"
+      },
+      {
+        "para_id": "193.656",
+        "lang": "fr",
+        "refcode": "FC 143.3"
+      },
+      {
+        "para_id": "12869.784",
+        "lang": "id",
+        "refcode": "MKB 142.2"
+      },
+      {
+        "para_id": "891.395",
+        "lang": "it",
+        "refcode": "FC 59.1"
+      },
+      {
+        "para_id": "12178.544",
+        "lang": "pl",
+        "refcode": "ChD 90.4"
+      },
+      {
+        "para_id": "1955.878",
+        "lang": "pt",
+        "refcode": "LA 150.4"
+      },
+      {
+        "para_id": "2026.659",
+        "lang": "ro",
+        "refcode": "CA 150.4"
+      },
+      {
+        "para_id": "1803.630",
+        "lang": "ru",
+        "refcode": "ХД 150.4"
+      },
+      {
+        "para_id": "12131.593",
+        "lang": "uk",
+        "refcode": "ХР 120.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.668",
+    "id_prev": "128.667",
+    "id_next": "128.671",
+    "refcode_1": "AH",
+    "refcode_2": "150",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 150.5",
+    "refcode_long": "The Adventist Home, p. 150.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Avoid the Spirit of Rivalry</strong>&mdash;Life is a disappointment and a weariness to many persons because of the unnecessary labor with which they burden themselves in meeting the claims of custom. Their minds are continually <span class=\"page-break\" data-page=\"151\"></span> harassed with anxiety as to supplying wants which are the offspring of pride and fashion....",
+    "puborder": 435,
+    "translations": [
+      {
+        "para_id": "13839.537",
+        "lang": "bg",
+        "refcode": "ХД 62.8"
+      },
+      {
+        "para_id": "177.699",
+        "lang": "es",
+        "refcode": "HC 134.5"
+      },
+      {
+        "para_id": "193.657",
+        "lang": "fr",
+        "refcode": "FC 143.4"
+      },
+      {
+        "para_id": "12869.786",
+        "lang": "id",
+        "refcode": "MKB 142.3"
+      },
+      {
+        "para_id": "891.396",
+        "lang": "it",
+        "refcode": "FC 59"
+      },
+      {
+        "para_id": "891.397",
+        "lang": "it",
+        "refcode": "FC 59.2"
+      },
+      {
+        "para_id": "12178.545",
+        "lang": "pl",
+        "refcode": "ChD 90.5"
+      },
+      {
+        "para_id": "1955.879",
+        "lang": "pt",
+        "refcode": "LA 150"
+      },
+      {
+        "para_id": "1955.880",
+        "lang": "pt",
+        "refcode": "LA 150.5"
+      },
+      {
+        "para_id": "2026.660",
+        "lang": "ro",
+        "refcode": "CA 150.5"
+      },
+      {
+        "para_id": "1803.631",
+        "lang": "ru",
+        "refcode": "ХД 150.5"
+      },
+      {
+        "para_id": "12131.594",
+        "lang": "uk",
+        "refcode": "ХР 120.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.671",
+    "id_prev": "128.668",
+    "id_next": "128.672",
+    "refcode_1": "AH",
+    "refcode_2": "151",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 151.1",
+    "refcode_long": "The Adventist Home, p. 151.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The expense, the care, and labor lavished on that which, if not positively injurious, is unnecessary would go far toward advancing the cause of God if applied to a worthier object. People crave what are called the luxuries of life, and sacrifice health, strength, and means to obtain them. A lamentable spirit of rivalry is manifested among persons of the same class as to who shall make the greatest display in matters of dress and of household expenditure. The sweet word &ldquo;Home&rdquo; is perverted to mean &ldquo;something with four walls, filled with elegant furniture and adornments,&rdquo; while its inmates are on a continual strain to meet the requirements of custom in the different departments of life.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 8-23-1877\" data-link=\"820.704\">The Signs of the Times, August 23, 1877</span>.</span></a></sup>",
+    "puborder": 436,
+    "translations": [
+      {
+        "para_id": "13839.539",
+        "lang": "bg",
+        "refcode": "ХД 63.1"
+      },
+      {
+        "para_id": "177.700",
+        "lang": "es",
+        "refcode": "HC 134.6"
+      },
+      {
+        "para_id": "193.658",
+        "lang": "fr",
+        "refcode": "FC 143.5"
+      },
+      {
+        "para_id": "12869.787",
+        "lang": "id",
+        "refcode": "MKB 142.4"
+      },
+      {
+        "para_id": "891.397",
+        "lang": "it",
+        "refcode": "FC 59.2"
+      },
+      {
+        "para_id": "12178.546",
+        "lang": "pl",
+        "refcode": "ChD 90.6"
+      },
+      {
+        "para_id": "1955.882",
+        "lang": "pt",
+        "refcode": "LA 151.1"
+      },
+      {
+        "para_id": "2026.663",
+        "lang": "ro",
+        "refcode": "CA 151.1"
+      },
+      {
+        "para_id": "1803.634",
+        "lang": "ru",
+        "refcode": "ХД 151.1"
+      },
+      {
+        "para_id": "12131.594",
+        "lang": "uk",
+        "refcode": "ХР 120.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.672",
+    "id_prev": "128.671",
+    "id_next": "128.673",
+    "refcode_1": "AH",
+    "refcode_2": "151",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 151.2",
+    "refcode_long": "The Adventist Home, p. 151.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Many are unhappy in their home life because they are trying so hard to keep up appearances. They expend large sums of money and labor unremittingly that they may make a display and gain the praise of their associates&mdash;those who really care nothing for them or their prosperity. One article after another is considered indispensable to the household appointments, until many expensive additions are made that, while they please the eye and gratify pride and ambition, do not in the least increase the comfort of the family. And yet these things have taxed the strength and patience, and consumed valuable time which should have been given to the service of the Lord.",
+    "puborder": 437,
+    "translations": [
+      {
+        "para_id": "13839.540",
+        "lang": "bg",
+        "refcode": "ХД 63.2"
+      },
+      {
+        "para_id": "177.703",
+        "lang": "es",
+        "refcode": "HC 135.1"
+      },
+      {
+        "para_id": "193.660",
+        "lang": "fr",
+        "refcode": "FC 144.1"
+      },
+      {
+        "para_id": "12869.788",
+        "lang": "id",
+        "refcode": "MKB 142.5"
+      },
+      {
+        "para_id": "891.398",
+        "lang": "it",
+        "refcode": "FC 59.3"
+      },
+      {
+        "para_id": "12178.549",
+        "lang": "pl",
+        "refcode": "ChD 91.1"
+      },
+      {
+        "para_id": "1955.883",
+        "lang": "pt",
+        "refcode": "LA 151.2"
+      },
+      {
+        "para_id": "2026.664",
+        "lang": "ro",
+        "refcode": "CA 151.2"
+      },
+      {
+        "para_id": "1803.635",
+        "lang": "ru",
+        "refcode": "ХД 151.2"
+      },
+      {
+        "para_id": "12131.595",
+        "lang": "uk",
+        "refcode": "ХР 120.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.673",
+    "id_prev": "128.672",
+    "id_next": "128.676",
+    "refcode_1": "AH",
+    "refcode_2": "151",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 151.3",
+    "refcode_long": "The Adventist Home, p. 151.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The precious grace of God is made secondary to matters of no real importance; and many, while collecting material for enjoyment, lose the capacity for happiness. They find that their possessions fail to give the satisfaction they had hoped to derive from them. This endless round of labor, this unceasing anxiety to embellish the <span class=\"page-break\" data-page=\"152\"></span> home for visitors and strangers to admire, never pays for the time and means thus expended. It is placing upon the neck a yoke of bondage grievous to be borne.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 10-2-1884\" data-link=\"820.6292\">The Signs of the Times, October 2, 1884</span>.</span></a></sup>",
+    "puborder": 438,
+    "translations": [
+      {
+        "para_id": "13839.541",
+        "lang": "bg",
+        "refcode": "ХД 63.3"
+      },
+      {
+        "para_id": "177.704",
+        "lang": "es",
+        "refcode": "HC 135.2"
+      },
+      {
+        "para_id": "193.661",
+        "lang": "fr",
+        "refcode": "FC 144.2"
+      },
+      {
+        "para_id": "12869.791",
+        "lang": "id",
+        "refcode": "MKB 143.1"
+      },
+      {
+        "para_id": "891.399",
+        "lang": "it",
+        "refcode": "FC 59.4"
+      },
+      {
+        "para_id": "12178.550",
+        "lang": "pl",
+        "refcode": "ChD 91.2"
+      },
+      {
+        "para_id": "1955.884",
+        "lang": "pt",
+        "refcode": "LA 151.3"
+      },
+      {
+        "para_id": "2026.665",
+        "lang": "ro",
+        "refcode": "CA 151.3"
+      },
+      {
+        "para_id": "1803.636",
+        "lang": "ru",
+        "refcode": "ХД 151.3"
+      },
+      {
+        "para_id": "12131.598",
+        "lang": "uk",
+        "refcode": "ХР 121.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.676",
+    "id_prev": "128.673",
+    "id_next": "128.677",
+    "refcode_1": "AH",
+    "refcode_2": "152",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 152.1",
+    "refcode_long": "The Adventist Home, p. 152.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Two Visits are Contrasted</strong>&mdash;In some families there is too much done. Neatness and order are essential to comfort, but these virtues should not be carried to such an extreme as to make life a period of unceasing drudgery and to render the inmates of the home miserable. In the houses of some whom we highly esteem, there is a stiff precision about the arrangement of the furniture and belongings that is quite as disagreeable as a lack of order would be. The painful propriety which invests the whole house makes it impossible to find there that rest which one expects in the true home.",
+    "puborder": 439,
+    "translations": [
+      {
+        "para_id": "13839.542",
+        "lang": "bg",
+        "refcode": "ХД 63.4"
+      },
+      {
+        "para_id": "792.226",
+        "lang": "de",
+        "refcode": "GFH 37.3"
+      },
+      {
+        "para_id": "177.705",
+        "lang": "es",
+        "refcode": "HC 135.3"
+      },
+      {
+        "para_id": "193.662",
+        "lang": "fr",
+        "refcode": "FC 144.3"
+      },
+      {
+        "para_id": "12869.793",
+        "lang": "id",
+        "refcode": "MKB 143.2"
+      },
+      {
+        "para_id": "12178.551",
+        "lang": "pl",
+        "refcode": "ChD 91.3"
+      },
+      {
+        "para_id": "1955.888",
+        "lang": "pt",
+        "refcode": "LA 152.1"
+      },
+      {
+        "para_id": "1955.887",
+        "lang": "pt",
+        "refcode": "LA 152"
+      },
+      {
+        "para_id": "2026.668",
+        "lang": "ro",
+        "refcode": "CA 152.1"
+      },
+      {
+        "para_id": "1803.639",
+        "lang": "ru",
+        "refcode": "ХД 152.1"
+      },
+      {
+        "para_id": "12131.599",
+        "lang": "uk",
+        "refcode": "ХР 121.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.677",
+    "id_prev": "128.676",
+    "id_next": "128.678",
+    "refcode_1": "AH",
+    "refcode_2": "152",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 152.2",
+    "refcode_long": "The Adventist Home, p. 152.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is not pleasant, when making a brief visit to dear friends, to see the broom and the duster in constant requisition, and the time which you had anticipated enjoying with your friends in social converse spent by them in a general tidying up and peering into corners in search of a concealed speck of dust or a cobweb. Although this may be done out of respect to your presence in the house, yet you feel a painful conviction that your company is of less consequence to your friends than their ideas of excessive neatness.",
+    "puborder": 440,
+    "translations": [
+      {
+        "para_id": "13839.543",
+        "lang": "bg",
+        "refcode": "ХД 63.5"
+      },
+      {
+        "para_id": "177.708",
+        "lang": "es",
+        "refcode": "HC 136.1"
+      },
+      {
+        "para_id": "193.663",
+        "lang": "fr",
+        "refcode": "FC 144.4"
+      },
+      {
+        "para_id": "12869.794",
+        "lang": "id",
+        "refcode": "MKB 143.3"
+      },
+      {
+        "para_id": "12178.553",
+        "lang": "pl",
+        "refcode": "ChD 92.1"
+      },
+      {
+        "para_id": "1955.889",
+        "lang": "pt",
+        "refcode": "LA 152.2"
+      },
+      {
+        "para_id": "2026.669",
+        "lang": "ro",
+        "refcode": "CA 152.2"
+      },
+      {
+        "para_id": "1803.640",
+        "lang": "ru",
+        "refcode": "ХД 152.2"
+      },
+      {
+        "para_id": "12131.600",
+        "lang": "uk",
+        "refcode": "ХР 121.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.678",
+    "id_prev": "128.677",
+    "id_next": "128.681",
+    "refcode_1": "AH",
+    "refcode_2": "152",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 152.3",
+    "refcode_long": "The Adventist Home, p. 152.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In direct contrast to such homes was one that we visited during the last summer [1876]. Here the few hours of our stay were not spent in useless labor or in doing that which could be done as well at some other time, but were occupied in a pleasant and profitable manner, restful alike to mind and body. The house was a model of comfort, although not extravagantly furnished. The rooms were all well lighted and ventilated, ... which is of more real value than the most costly adornments. <span class=\"page-break\" data-page=\"153\"></span> The parlors were not furnished with that precision which is so tiresome to the eye, but there was a pleasing variety in the articles of furniture.",
+    "puborder": 441,
+    "translations": [
+      {
+        "para_id": "13839.544",
+        "lang": "bg",
+        "refcode": "ХД 63.6"
+      },
+      {
+        "para_id": "177.709",
+        "lang": "es",
+        "refcode": "HC 136.2"
+      },
+      {
+        "para_id": "193.666",
+        "lang": "fr",
+        "refcode": "FC 145.1"
+      },
+      {
+        "para_id": "12869.795",
+        "lang": "id",
+        "refcode": "MKB 143.4"
+      },
+      {
+        "para_id": "12178.554",
+        "lang": "pl",
+        "refcode": "ChD 92.2"
+      },
+      {
+        "para_id": "1955.890",
+        "lang": "pt",
+        "refcode": "LA 152.3"
+      },
+      {
+        "para_id": "2026.670",
+        "lang": "ro",
+        "refcode": "CA 152.3"
+      },
+      {
+        "para_id": "1803.641",
+        "lang": "ru",
+        "refcode": "ХД 152.3"
+      },
+      {
+        "para_id": "12131.601",
+        "lang": "uk",
+        "refcode": "ХР 121.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.681",
+    "id_prev": "128.678",
+    "id_next": "128.682",
+    "refcode_1": "AH",
+    "refcode_2": "153",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 153.1",
+    "refcode_long": "The Adventist Home, p. 153.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The chairs were mostly rockers or easy chairs, not all of the same fashion, but adapted to the comfort of the different members of the family. There were low, cushioned rocking chairs and high, straight-backed ones; wide, capacious lounging chairs and snug, little ones; there were also comfortable sofas; and all seemed to say, Try me, rest in me. There were tables strewn with books and papers. All was neat and attractive, but without that precise arrangement that seems to warn all beholders not to touch anything for fear of getting it out of place.",
+    "puborder": 442,
+    "translations": [
+      {
+        "para_id": "13839.547",
+        "lang": "bg",
+        "refcode": "ХД 64.1"
+      },
+      {
+        "para_id": "177.710",
+        "lang": "es",
+        "refcode": "HC 136.3"
+      },
+      {
+        "para_id": "193.667",
+        "lang": "fr",
+        "refcode": "FC 145.2"
+      },
+      {
+        "para_id": "12869.798",
+        "lang": "id",
+        "refcode": "MKB 144.1"
+      },
+      {
+        "para_id": "12178.555",
+        "lang": "pl",
+        "refcode": "ChD 92.3"
+      },
+      {
+        "para_id": "1955.892",
+        "lang": "pt",
+        "refcode": "LA 153.1"
+      },
+      {
+        "para_id": "2026.673",
+        "lang": "ro",
+        "refcode": "CA 153.1"
+      },
+      {
+        "para_id": "1803.644",
+        "lang": "ru",
+        "refcode": "ХД 153.1"
+      },
+      {
+        "para_id": "12131.604",
+        "lang": "uk",
+        "refcode": "ХР 122.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.682",
+    "id_prev": "128.681",
+    "id_next": "128.683",
+    "refcode_1": "AH",
+    "refcode_2": "153",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 153.2",
+    "refcode_long": "The Adventist Home, p. 153.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The proprietors of this pleasant home were in such circumstances that they might have furnished and embellished their residence expensively, but they had wisely chosen comfort rather than display. There was nothing in the house considered too good for general use, and the curtains and blinds were not kept closed to keep the carpets from fading and the furniture from tarnishing. The God-given sunlight and air had free ingress, with the fragrance of the flowers in the garden. The family were, of course, in keeping with the home; they were cheerful and entertaining, doing everything needful for our comfort, without oppressing us with so much attention as to make us fear that we were causing extra trouble. We felt that here was a place of rest. This was a home in the fullest sense of the word.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 8-23-1877\" data-link=\"820.704\">The Signs of the Times, August 23, 1877</span>.</span></a></sup>",
+    "puborder": 443,
+    "translations": [
+      {
+        "para_id": "13839.548",
+        "lang": "bg",
+        "refcode": "ХД 64.2"
+      },
+      {
+        "para_id": "177.713",
+        "lang": "es",
+        "refcode": "HC 137.1"
+      },
+      {
+        "para_id": "193.668",
+        "lang": "fr",
+        "refcode": "FC 145.3"
+      },
+      {
+        "para_id": "12869.798",
+        "lang": "id",
+        "refcode": "MKB 144.1"
+      },
+      {
+        "para_id": "12178.556",
+        "lang": "pl",
+        "refcode": "ChD 92.4"
+      },
+      {
+        "para_id": "1955.893",
+        "lang": "pt",
+        "refcode": "LA 153.2"
+      },
+      {
+        "para_id": "2026.674",
+        "lang": "ro",
+        "refcode": "CA 153.2"
+      },
+      {
+        "para_id": "1803.645",
+        "lang": "ru",
+        "refcode": "ХД 153.2"
+      },
+      {
+        "para_id": "12131.605",
+        "lang": "uk",
+        "refcode": "ХР 122.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.683",
+    "id_prev": "128.682",
+    "id_next": "128.686",
+    "refcode_1": "AH",
+    "refcode_2": "153",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 153.3",
+    "refcode_long": "The Adventist Home, p. 153.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Principle Used in Decorating</strong>&mdash;The rigid precision which we have mentioned as being a disagreeable feature of so many homes is not in accordance with the great plan of nature. God has not caused the flowers of the fields to grow in regular beds, with set borders, but <span class=\"page-break\" data-page=\"154\"></span> He has scattered them like gems over the greensward, and they beautify the earth with their variety of form and color. The trees of the forest are not in regular order. It is restful to eye and mind to range over the scenes of nature, over forest, hill, and valley, plain and river, enjoying the endless diversity of form and color, and the beauty with which trees, shrubs, and flowers are grouped in nature&apos;s garden, making it a picture of loveliness. Childhood, youth, and age can alike find rest and gratification there.",
+    "puborder": 444,
+    "translations": [
+      {
+        "para_id": "13839.549",
+        "lang": "bg",
+        "refcode": "ХД 64.3"
+      },
+      {
+        "para_id": "792.228",
+        "lang": "de",
+        "refcode": "GFH 38"
+      },
+      {
+        "para_id": "792.229",
+        "lang": "de",
+        "refcode": "GFH 38.1"
+      },
+      {
+        "para_id": "177.714",
+        "lang": "es",
+        "refcode": "HC 137.2"
+      },
+      {
+        "para_id": "193.671",
+        "lang": "fr",
+        "refcode": "FC 146.1"
+      },
+      {
+        "para_id": "12869.800",
+        "lang": "id",
+        "refcode": "MKB 144.2"
+      },
+      {
+        "para_id": "891.403",
+        "lang": "it",
+        "refcode": "FC 60.1"
+      },
+      {
+        "para_id": "891.402",
+        "lang": "it",
+        "refcode": "FC 60"
+      },
+      {
+        "para_id": "12178.559",
+        "lang": "pl",
+        "refcode": "ChD 93.1"
+      },
+      {
+        "para_id": "1955.895",
+        "lang": "pt",
+        "refcode": "LA 153.3"
+      },
+      {
+        "para_id": "1955.894",
+        "lang": "pt",
+        "refcode": "LA 153"
+      },
+      {
+        "para_id": "2026.675",
+        "lang": "ro",
+        "refcode": "CA 153.3"
+      },
+      {
+        "para_id": "1803.646",
+        "lang": "ru",
+        "refcode": "ХД 153.3"
+      },
+      {
+        "para_id": "12131.606",
+        "lang": "uk",
+        "refcode": "ХР 122.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.686",
+    "id_prev": "128.683",
+    "id_next": "128.687",
+    "refcode_1": "AH",
+    "refcode_2": "154",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 154.1",
+    "refcode_long": "The Adventist Home, p. 154.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "This law of variety can be in a measure carried out in the home. There should be a proper harmony of colors and a general fitness of things in the furnishings of a house; but it is not necessary to good taste that every article of furniture in a room should be of the same pattern in design, material, or upholstery; but, on the contrary, it is more pleasing to the eye that there should be a harmonious variety.",
+    "puborder": 445,
+    "translations": [
+      {
+        "para_id": "13839.550",
+        "lang": "bg",
+        "refcode": "ХД 64.4"
+      },
+      {
+        "para_id": "792.230",
+        "lang": "de",
+        "refcode": "GFH 38.2"
+      },
+      {
+        "para_id": "177.716",
+        "lang": "es",
+        "refcode": "HC 138.1"
+      },
+      {
+        "para_id": "193.673",
+        "lang": "fr",
+        "refcode": "FC 146.3"
+      },
+      {
+        "para_id": "12869.803",
+        "lang": "id",
+        "refcode": "MKB 145.1"
+      },
+      {
+        "para_id": "891.404",
+        "lang": "it",
+        "refcode": "FC 60.2"
+      },
+      {
+        "para_id": "12178.560",
+        "lang": "pl",
+        "refcode": "ChD 93.2"
+      },
+      {
+        "para_id": "1955.898",
+        "lang": "pt",
+        "refcode": "LA 154.1"
+      },
+      {
+        "para_id": "2026.678",
+        "lang": "ro",
+        "refcode": "CA 154.1"
+      },
+      {
+        "para_id": "1803.649",
+        "lang": "ru",
+        "refcode": "ХД 154.1"
+      },
+      {
+        "para_id": "12131.608",
+        "lang": "uk",
+        "refcode": "ХР 123.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.687",
+    "id_prev": "128.686",
+    "id_next": "128.688",
+    "refcode_1": "AH",
+    "refcode_2": "154",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 154.2",
+    "refcode_long": "The Adventist Home, p. 154.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But whether the home be humble or elegant, its appointments costly or the reverse, there will be no happiness within its walls unless the spirit of its inmates is in harmony with the divine will. Contentment should reign within the household.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 8-23-1877\" data-link=\"820.704\">The Signs of the Times, August 23, 1877</span>.</span></a></sup>",
+    "puborder": 446,
+    "translations": [
+      {
+        "para_id": "13839.551",
+        "lang": "bg",
+        "refcode": "ХД 64.5"
+      },
+      {
+        "para_id": "177.717",
+        "lang": "es",
+        "refcode": "HC 138.2"
+      },
+      {
+        "para_id": "193.674",
+        "lang": "fr",
+        "refcode": "FC 146.4"
+      },
+      {
+        "para_id": "12869.804",
+        "lang": "id",
+        "refcode": "MKB 145.2"
+      },
+      {
+        "para_id": "891.405",
+        "lang": "it",
+        "refcode": "FC 60.3"
+      },
+      {
+        "para_id": "12178.561",
+        "lang": "pl",
+        "refcode": "ChD 93.3"
+      },
+      {
+        "para_id": "1955.899",
+        "lang": "pt",
+        "refcode": "LA 154.2"
+      },
+      {
+        "para_id": "2026.679",
+        "lang": "ro",
+        "refcode": "CA 154.2"
+      },
+      {
+        "para_id": "1803.650",
+        "lang": "ru",
+        "refcode": "ХД 154.2"
+      },
+      {
+        "para_id": "12131.609",
+        "lang": "uk",
+        "refcode": "ХР 123.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.688",
+    "id_prev": "128.687",
+    "id_next": "128.689",
+    "refcode_1": "AH",
+    "refcode_2": "154",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 154.3",
+    "refcode_long": "The Adventist Home, p. 154.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The very best part of the house, the sunniest and most inviting rooms, and the most comfortable furniture should be in a daily use by those who really live in the house. This will make home attractive to the inmates and also to that class of friends who really care for us, whom we could benefit, and by whom we could be benefited.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 10-2-1884\" data-link=\"820.6292\">The Signs of the Times, October 2, 1884</span>.</span></a></sup>",
+    "puborder": 447,
+    "translations": [
+      {
+        "para_id": "13839.552",
+        "lang": "bg",
+        "refcode": "ХД 64.6"
+      },
+      {
+        "para_id": "792.231",
+        "lang": "de",
+        "refcode": "GFH 38.3"
+      },
+      {
+        "para_id": "177.718",
+        "lang": "es",
+        "refcode": "HC 138.3"
+      },
+      {
+        "para_id": "193.675",
+        "lang": "fr",
+        "refcode": "FC 146.5"
+      },
+      {
+        "para_id": "12869.805",
+        "lang": "id",
+        "refcode": "MKB 145.3"
+      },
+      {
+        "para_id": "891.406",
+        "lang": "it",
+        "refcode": "FC 60.4"
+      },
+      {
+        "para_id": "12178.562",
+        "lang": "pl",
+        "refcode": "ChD 93.4"
+      },
+      {
+        "para_id": "1955.900",
+        "lang": "pt",
+        "refcode": "LA 154.3"
+      },
+      {
+        "para_id": "2026.680",
+        "lang": "ro",
+        "refcode": "CA 154.3"
+      },
+      {
+        "para_id": "1803.651",
+        "lang": "ru",
+        "refcode": "ХД 154.3"
+      },
+      {
+        "para_id": "12131.610",
+        "lang": "uk",
+        "refcode": "ХР 123.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.689",
+    "id_prev": "128.688",
+    "id_next": "128.692",
+    "refcode_1": "AH",
+    "refcode_2": "154",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 154.4",
+    "refcode_long": "The Adventist Home, p. 154.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Consider the Children&apos;s Comfort and Welfare</strong>&mdash;It does not require costly surroundings and expensive furniture to make children contented and happy in their <span class=\"page-break\" data-page=\"155\"></span> homes, but it is necessary that the parents give them tender love and careful attention.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 10-2-1884\" data-link=\"820.6292\">The Signs of the Times, October 2, 1884</span>.</span></a></sup>",
+    "puborder": 448,
+    "translations": [
+      {
+        "para_id": "13839.555",
+        "lang": "bg",
+        "refcode": "ХД 65.1"
+      },
+      {
+        "para_id": "792.233",
+        "lang": "de",
+        "refcode": "GFH 38"
+      },
+      {
+        "para_id": "792.234",
+        "lang": "de",
+        "refcode": "GFH 38.5"
+      },
+      {
+        "para_id": "177.719",
+        "lang": "es",
+        "refcode": "HC 138.4"
+      },
+      {
+        "para_id": "193.677",
+        "lang": "fr",
+        "refcode": "FC 147.1"
+      },
+      {
+        "para_id": "12869.807",
+        "lang": "id",
+        "refcode": "MKB 145.4"
+      },
+      {
+        "para_id": "891.408",
+        "lang": "it",
+        "refcode": "FC 60.5"
+      },
+      {
+        "para_id": "891.407",
+        "lang": "it",
+        "refcode": "FC 60"
+      },
+      {
+        "para_id": "12178.563",
+        "lang": "pl",
+        "refcode": "ChD 93.5"
+      },
+      {
+        "para_id": "1955.901",
+        "lang": "pt",
+        "refcode": "LA 154"
+      },
+      {
+        "para_id": "1955.902",
+        "lang": "pt",
+        "refcode": "LA 154.4"
+      },
+      {
+        "para_id": "2026.681",
+        "lang": "ro",
+        "refcode": "CA 154.4"
+      },
+      {
+        "para_id": "1803.652",
+        "lang": "ru",
+        "refcode": "ХД 154.4"
+      },
+      {
+        "para_id": "12131.611",
+        "lang": "uk",
+        "refcode": "ХР 123.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.692",
+    "id_prev": "128.689",
+    "id_next": "128.693",
+    "refcode_1": "AH",
+    "refcode_2": "155",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 155.1",
+    "refcode_long": "The Adventist Home, p. 155.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Four walls and costly furniture, velvet carpets, elegant mirrors, and fine pictures do not make a &ldquo;home&rdquo; if sympathy and love are wanting. That sacred word does not belong to the glittering mansion where the joys of domestic life are unknown....",
+    "puborder": 449,
+    "translations": [
+      {
+        "para_id": "13839.556",
+        "lang": "bg",
+        "refcode": "ХД 65.2"
+      },
+      {
+        "para_id": "177.720",
+        "lang": "es",
+        "refcode": "HC 138.5"
+      },
+      {
+        "para_id": "193.678",
+        "lang": "fr",
+        "refcode": "FC 147.2"
+      },
+      {
+        "para_id": "12869.808",
+        "lang": "id",
+        "refcode": "MKB 145.5"
+      },
+      {
+        "para_id": "891.409",
+        "lang": "it",
+        "refcode": "FC 60.6"
+      },
+      {
+        "para_id": "12178.565",
+        "lang": "pl",
+        "refcode": "ChD 94.1"
+      },
+      {
+        "para_id": "1955.904",
+        "lang": "pt",
+        "refcode": "LA 155.1"
+      },
+      {
+        "para_id": "2026.684",
+        "lang": "ro",
+        "refcode": "CA 155.1"
+      },
+      {
+        "para_id": "1803.655",
+        "lang": "ru",
+        "refcode": "ХД 155.1"
+      },
+      {
+        "para_id": "12131.612",
+        "lang": "uk",
+        "refcode": "ХР 123.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.693",
+    "id_prev": "128.692",
+    "id_next": "128.694",
+    "refcode_1": "AH",
+    "refcode_2": "155",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 155.2",
+    "refcode_long": "The Adventist Home, p. 155.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In fact the comfort and welfare of the children are the last things thought of in such a home. They are neglected by the mother, whose whole time is devoted to keeping up appearances and meeting the claims of fashionable society. Their minds are untrained; they acquire bad habits and become restless and dissatisfied. Finding no pleasure in their own homes, but only uncomfortable restrictions, they break away from the family circle as soon as possible. They launch out into the great world with little reluctance, unrestrained by home influence and the tender counsel of the hearthstone.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 10-2-1884\" data-link=\"820.6292\">The Signs of the Times, October 2, 1884</span>.</span></a></sup>",
+    "puborder": 450,
+    "translations": [
+      {
+        "para_id": "13839.557",
+        "lang": "bg",
+        "refcode": "ХД 65.3"
+      },
+      {
+        "para_id": "177.721",
+        "lang": "es",
+        "refcode": "HC 138.6"
+      },
+      {
+        "para_id": "193.679",
+        "lang": "fr",
+        "refcode": "FC 147.3"
+      },
+      {
+        "para_id": "12869.811",
+        "lang": "id",
+        "refcode": "MKB 146.1"
+      },
+      {
+        "para_id": "891.409",
+        "lang": "it",
+        "refcode": "FC 60.6"
+      },
+      {
+        "para_id": "12178.566",
+        "lang": "pl",
+        "refcode": "ChD 94.2"
+      },
+      {
+        "para_id": "1955.905",
+        "lang": "pt",
+        "refcode": "LA 155.2"
+      },
+      {
+        "para_id": "2026.685",
+        "lang": "ro",
+        "refcode": "CA 155.2"
+      },
+      {
+        "para_id": "1803.656",
+        "lang": "ru",
+        "refcode": "ХД 155.2"
+      },
+      {
+        "para_id": "12131.613",
+        "lang": "uk",
+        "refcode": "ХР 123.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.694",
+    "id_prev": "128.693",
+    "id_next": "128.695",
+    "refcode_1": "AH",
+    "refcode_2": "155",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 155.3",
+    "refcode_long": "The Adventist Home, p. 155.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Don&apos;t say to them as I have heard many mothers say, &ldquo;There is no room for you here in the parlor. Don&apos;t sit on that sofa that is covered with satin damask. We don&apos;t want you to sit down on that sofa.&rdquo; And when they go into another room, &ldquo;We don&apos;t want your noise here.&rdquo; And they go into the kitchen, and the cook says, &ldquo;I cannot be bothered with you here. Go out from here with your noise; you pester me so, and bother me.&rdquo; Where do they go to receive their education? Into the street.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">14<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 43a, 1894\" data-link=\"14059.6871001\">Manuscript 43a, 1894</span>.</span></a></sup>",
+    "puborder": 451,
+    "translations": [
+      {
+        "para_id": "13839.558",
+        "lang": "bg",
+        "refcode": "ХД 65.4"
+      },
+      {
+        "para_id": "792.236",
+        "lang": "de",
+        "refcode": "GFH 39.1"
+      },
+      {
+        "para_id": "177.724",
+        "lang": "es",
+        "refcode": "HC 139.1"
+      },
+      {
+        "para_id": "193.680",
+        "lang": "fr",
+        "refcode": "FC 147.4"
+      },
+      {
+        "para_id": "12869.812",
+        "lang": "id",
+        "refcode": "MKB 146.2"
+      },
+      {
+        "para_id": "891.412",
+        "lang": "it",
+        "refcode": "FC 61.1"
+      },
+      {
+        "para_id": "12178.567",
+        "lang": "pl",
+        "refcode": "ChD 94.3"
+      },
+      {
+        "para_id": "1955.906",
+        "lang": "pt",
+        "refcode": "LA 155.3"
+      },
+      {
+        "para_id": "2026.686",
+        "lang": "ro",
+        "refcode": "CA 155.3"
+      },
+      {
+        "para_id": "1803.657",
+        "lang": "ru",
+        "refcode": "ХД 155.3"
+      },
+      {
+        "para_id": "12131.614",
+        "lang": "uk",
+        "refcode": "ХР 123.7"
+      }
+    ]
+  },
+  {
+    "para_id": "128.695",
+    "id_prev": "128.694",
+    "id_next": "128.698",
+    "refcode_1": "AH",
+    "refcode_2": "155",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 155.4",
+    "refcode_long": "The Adventist Home, p. 155.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Kindness and Love More Precious Than Luxury</strong>&mdash;Too many cares and burdens are brought into our families, and too little of natural simplicity and peace and happiness is cherished. There should be less care for what the outside world will say, and more thoughtful attention to the members of the family circle. There <span class=\"page-break\" data-page=\"156\"></span> should be less display and affectation of worldly politeness, and much more tenderness and love, cheerfulness and Christian courtesy among the members of the household. Many need to learn how to make home attractive, a place of enjoyment. Thankful hearts and kind looks are more valuable than wealth and luxury, and contentment with simple things will make home happy if love be there.",
+    "puborder": 452,
+    "translations": [
+      {
+        "para_id": "13839.559",
+        "lang": "bg",
+        "refcode": "ХД 65.5"
+      },
+      {
+        "para_id": "792.237",
+        "lang": "de",
+        "refcode": "GFH 39"
+      },
+      {
+        "para_id": "792.238",
+        "lang": "de",
+        "refcode": "GFH 39.2"
+      },
+      {
+        "para_id": "177.725",
+        "lang": "es",
+        "refcode": "HC 139.2"
+      },
+      {
+        "para_id": "193.681",
+        "lang": "fr",
+        "refcode": "FC 147.5"
+      },
+      {
+        "para_id": "12869.814",
+        "lang": "id",
+        "refcode": "MKB 146.3"
+      },
+      {
+        "para_id": "891.413",
+        "lang": "it",
+        "refcode": "FC 61"
+      },
+      {
+        "para_id": "891.414",
+        "lang": "it",
+        "refcode": "FC 61.2"
+      },
+      {
+        "para_id": "12178.568",
+        "lang": "pl",
+        "refcode": "ChD 94.4"
+      },
+      {
+        "para_id": "1955.907",
+        "lang": "pt",
+        "refcode": "LA 155"
+      },
+      {
+        "para_id": "1955.908",
+        "lang": "pt",
+        "refcode": "LA 155.4"
+      },
+      {
+        "para_id": "2026.687",
+        "lang": "ro",
+        "refcode": "CA 155.4"
+      },
+      {
+        "para_id": "1803.658",
+        "lang": "ru",
+        "refcode": "ХД 155.4"
+      },
+      {
+        "para_id": "12131.617",
+        "lang": "uk",
+        "refcode": "ХР 124.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.698",
+    "id_prev": "128.695",
+    "id_next": "128.701",
+    "refcode_1": "AH",
+    "refcode_2": "156",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 156.1",
+    "refcode_long": "The Adventist Home, p. 156.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Jesus, our Redeemer, walked the earth with the dignity of a king; yet He was meek and lowly of heart. He was a light and blessing in every home because He carried cheerfulness, hope, and courage with Him. Oh, that we could be satisfied with less heart longings, less striving for things difficult to obtain wherewith to beautify our homes, while that which God values above jewels, the meek and quiet spirit, is not cherished. The grace of simplicity, meekness, and true affection would make a paradise of the humblest home. It is better to endure cheerfully every inconvenience than to part with peace and contentment.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">15<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 621.1\" data-link=\"114.3078\">Testimonies for the Church 4:621, 622</span>.</span></a></sup>",
+    "puborder": 453,
+    "translations": [
+      {
+        "para_id": "13839.560",
+        "lang": "bg",
+        "refcode": "ХД 65.6"
+      },
+      {
+        "para_id": "792.239",
+        "lang": "de",
+        "refcode": "GFH 39.3"
+      },
+      {
+        "para_id": "177.726",
+        "lang": "es",
+        "refcode": "HC 139.3"
+      },
+      {
+        "para_id": "193.684",
+        "lang": "fr",
+        "refcode": "FC 148.1"
+      },
+      {
+        "para_id": "12869.815",
+        "lang": "id",
+        "refcode": "MKB 146.4"
+      },
+      {
+        "para_id": "891.415",
+        "lang": "it",
+        "refcode": "FC 61.3"
+      },
+      {
+        "para_id": "12178.569",
+        "lang": "pl",
+        "refcode": "ChD 94.5"
+      },
+      {
+        "para_id": "1955.911",
+        "lang": "pt",
+        "refcode": "LA 156.1"
+      },
+      {
+        "para_id": "2026.690",
+        "lang": "ro",
+        "refcode": "CA 156.1"
+      },
+      {
+        "para_id": "1803.661",
+        "lang": "ru",
+        "refcode": "ХД 156.1"
+      },
+      {
+        "para_id": "12131.618",
+        "lang": "uk",
+        "refcode": "ХР 124.2"
+      }
+    ]
+  }
+]

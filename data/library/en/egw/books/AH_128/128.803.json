@@ -1,0 +1,1668 @@
+[
+  {
+    "para_id": "128.803",
+    "id_prev": "128.801",
+    "id_next": "128.804",
+    "refcode_1": "AH",
+    "refcode_2": "181",
+    "refcode_3": "",
+    "refcode_4": "28",
+    "refcode_short": "AH 181",
+    "refcode_long": "The Adventist Home, p. 181 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 28&mdash;The Child&apos;s First School",
+    "puborder": 523,
+    "translations": [
+      {
+        "para_id": "13839.642",
+        "lang": "bg",
+        "refcode": "ХД 74"
+      },
+      {
+        "para_id": "792.313",
+        "lang": "de",
+        "refcode": "GFH 50"
+      },
+      {
+        "para_id": "177.830",
+        "lang": "es",
+        "refcode": "HC 160"
+      },
+      {
+        "para_id": "193.792",
+        "lang": "fr",
+        "refcode": "FC 173"
+      },
+      {
+        "para_id": "12869.954",
+        "lang": "id",
+        "refcode": "MKB 170"
+      },
+      {
+        "para_id": "891.488",
+        "lang": "it",
+        "refcode": "FC 73"
+      },
+      {
+        "para_id": "12178.659",
+        "lang": "pl",
+        "refcode": "ChD 109"
+      },
+      {
+        "para_id": "1955.1046",
+        "lang": "pt",
+        "refcode": "LA 181"
+      },
+      {
+        "para_id": "2026.795",
+        "lang": "ro",
+        "refcode": "CA 181"
+      },
+      {
+        "para_id": "1803.765",
+        "lang": "ru",
+        "refcode": "ХД 181"
+      },
+      {
+        "para_id": "12131.705",
+        "lang": "uk",
+        "refcode": "ХР 143"
+      }
+    ]
+  },
+  {
+    "para_id": "128.804",
+    "id_prev": "128.803",
+    "id_next": "128.805",
+    "refcode_1": "AH",
+    "refcode_2": "181",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 181.1",
+    "refcode_long": "The Adventist Home, p. 181.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God&apos;s Original Plan for Education</strong>&mdash;The system of education established in Eden centered in the family. Adam was &ldquo;the son of God&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"Luke 3:38\" data-link=\"1965.51147\">Luke 3:38</span>), and it was from their Father that the children of the Highest received instruction. Theirs, in the truest sense, was a family school.",
+    "puborder": 524,
+    "translations": [
+      {
+        "para_id": "13839.643",
+        "lang": "bg",
+        "refcode": "ХД 74.10"
+      },
+      {
+        "para_id": "177.831",
+        "lang": "es",
+        "refcode": "HC 160.1"
+      },
+      {
+        "para_id": "193.793",
+        "lang": "fr",
+        "refcode": "FC 173.1"
+      },
+      {
+        "para_id": "12869.956",
+        "lang": "id",
+        "refcode": "MKB 170.1"
+      },
+      {
+        "para_id": "891.489",
+        "lang": "it",
+        "refcode": "FC 73"
+      },
+      {
+        "para_id": "891.490",
+        "lang": "it",
+        "refcode": "FC 73.5"
+      },
+      {
+        "para_id": "12178.660",
+        "lang": "pl",
+        "refcode": "ChD 109.6"
+      },
+      {
+        "para_id": "1955.1047",
+        "lang": "pt",
+        "refcode": "LA 181"
+      },
+      {
+        "para_id": "1955.1048",
+        "lang": "pt",
+        "refcode": "LA 181.1"
+      },
+      {
+        "para_id": "2026.796",
+        "lang": "ro",
+        "refcode": "CA 181.1"
+      },
+      {
+        "para_id": "1803.766",
+        "lang": "ru",
+        "refcode": "ХД 181.1"
+      },
+      {
+        "para_id": "12131.706",
+        "lang": "uk",
+        "refcode": "ХР 143.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.805",
+    "id_prev": "128.804",
+    "id_next": "128.806",
+    "refcode_1": "AH",
+    "refcode_2": "181",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 181.2",
+    "refcode_long": "The Adventist Home, p. 181.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the divine plan of education as adapted to man&apos;s condition after the fall, Christ stands as the representative of the Father, the connecting link between God and man; He is the great teacher of mankind. And He ordained that men and women should be His representatives. The family was the school, and the parents were the teachers.",
+    "puborder": 525,
+    "translations": [
+      {
+        "para_id": "13839.644",
+        "lang": "bg",
+        "refcode": "ХД 74.11"
+      },
+      {
+        "para_id": "177.832",
+        "lang": "es",
+        "refcode": "HC 160.2"
+      },
+      {
+        "para_id": "193.794",
+        "lang": "fr",
+        "refcode": "FC 173.2"
+      },
+      {
+        "para_id": "12869.957",
+        "lang": "id",
+        "refcode": "MKB 170.2"
+      },
+      {
+        "para_id": "891.491",
+        "lang": "it",
+        "refcode": "FC 73.6"
+      },
+      {
+        "para_id": "12178.663",
+        "lang": "pl",
+        "refcode": "ChD 110.1"
+      },
+      {
+        "para_id": "1955.1049",
+        "lang": "pt",
+        "refcode": "LA 181.2"
+      },
+      {
+        "para_id": "2026.797",
+        "lang": "ro",
+        "refcode": "CA 181.2"
+      },
+      {
+        "para_id": "1803.767",
+        "lang": "ru",
+        "refcode": "ХД 181.2"
+      },
+      {
+        "para_id": "12131.707",
+        "lang": "uk",
+        "refcode": "ХР 143.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.806",
+    "id_prev": "128.805",
+    "id_next": "128.808",
+    "refcode_1": "AH",
+    "refcode_2": "181",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 181.3",
+    "refcode_long": "The Adventist Home, p. 181.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The education centering in the family was that which prevailed in the days of the patriarchs. For the schools thus established, God provided the conditions most favorable for the development of character. The people who were under His direction still pursued the plan of life that He had appointed in the beginning. Those who departed from God built for themselves cities, and, congregating in them, gloried in the splendor, the luxury, and the vice that make the cities of today the world&apos;s pride and its curse. But the men who held fast God&apos;s principles of life dwelt among the fields and hills. They were tillers of the soil and keepers of flocks and herds; and in this free, independent life, with its opportunities for labor and study and meditation, they learned of God and taught their children of His works and ways. This was the method of education that God desired to establish in Israel.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ed 33.1\" data-link=\"29.119\">Education, 33, 34</span>.</span></a></sup>",
+    "puborder": 526,
+    "translations": [
+      {
+        "para_id": "13839.647",
+        "lang": "bg",
+        "refcode": "ХД 75.1"
+      },
+      {
+        "para_id": "177.833",
+        "lang": "es",
+        "refcode": "HC 160.3"
+      },
+      {
+        "para_id": "193.795",
+        "lang": "fr",
+        "refcode": "FC 173.3"
+      },
+      {
+        "para_id": "12869.958",
+        "lang": "id",
+        "refcode": "MKB 170.3"
+      },
+      {
+        "para_id": "891.494",
+        "lang": "it",
+        "refcode": "FC 74.1"
+      },
+      {
+        "para_id": "12178.664",
+        "lang": "pl",
+        "refcode": "ChD 110.2"
+      },
+      {
+        "para_id": "1955.1050",
+        "lang": "pt",
+        "refcode": "LA 181.3"
+      },
+      {
+        "para_id": "2026.798",
+        "lang": "ro",
+        "refcode": "CA 181.3"
+      },
+      {
+        "para_id": "1803.768",
+        "lang": "ru",
+        "refcode": "ХД 181.3"
+      },
+      {
+        "para_id": "12131.708",
+        "lang": "uk",
+        "refcode": "ХР 143.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.808",
+    "id_prev": "128.806",
+    "id_next": "128.809",
+    "refcode_1": "AH",
+    "refcode_2": "182",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 182.1",
+    "refcode_long": "The Adventist Home, p. 182.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In ordinary life the family was both a school and a church, the parents being the instructors in secular and in religious lines.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ed 41.5\" data-link=\"29.165\">Ibid., 41</span>.</span></a></sup>",
+    "puborder": 527,
+    "translations": [
+      {
+        "para_id": "13839.648",
+        "lang": "bg",
+        "refcode": "ХД 75.2"
+      },
+      {
+        "para_id": "177.835",
+        "lang": "es",
+        "refcode": "HC 161.1"
+      },
+      {
+        "para_id": "193.797",
+        "lang": "fr",
+        "refcode": "FC 174.1"
+      },
+      {
+        "para_id": "12869.961",
+        "lang": "id",
+        "refcode": "MKB 171.1"
+      },
+      {
+        "para_id": "891.495",
+        "lang": "it",
+        "refcode": "FC 74.2"
+      },
+      {
+        "para_id": "12178.665",
+        "lang": "pl",
+        "refcode": "ChD 110.3"
+      },
+      {
+        "para_id": "1955.1052",
+        "lang": "pt",
+        "refcode": "LA 182.1"
+      },
+      {
+        "para_id": "2026.800",
+        "lang": "ro",
+        "refcode": "CA 182.1"
+      },
+      {
+        "para_id": "1803.770",
+        "lang": "ru",
+        "refcode": "ХД 182.1"
+      },
+      {
+        "para_id": "12131.709",
+        "lang": "uk",
+        "refcode": "ХР 143.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.809",
+    "id_prev": "128.808",
+    "id_next": "128.810",
+    "refcode_1": "AH",
+    "refcode_2": "182",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 182.2",
+    "refcode_long": "The Adventist Home, p. 182.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Family Circle a School</strong>&mdash;In His wisdom the Lord has decreed that the family shall be the greatest of all educational agencies. It is in the home that the education of the child is to begin. Here is his first school. Here, with his parents as instructors, he is to learn the lessons that are to guide him throughout life&mdash;lessons of respect, obedience, reverence, self-control. The educational influences of the home are a decided power for good or for evil. They are in many respects silent and gradual, but if exerted on the right side, they become a far-reaching power for truth and righteousness. If the child is not instructed aright here, Satan will educate him through agencies of his choosing. How important, then, is the school in the home!<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 107.1\" data-link=\"23.490\">Counsels to Teachers, Parents, and Students, 107</span>.</span></a></sup>",
+    "puborder": 528,
+    "translations": [
+      {
+        "para_id": "13839.649",
+        "lang": "bg",
+        "refcode": "ХД 75.3"
+      },
+      {
+        "para_id": "792.315",
+        "lang": "de",
+        "refcode": "GFH 50.1"
+      },
+      {
+        "para_id": "792.314",
+        "lang": "de",
+        "refcode": "GFH 50"
+      },
+      {
+        "para_id": "177.836",
+        "lang": "es",
+        "refcode": "HC 161.2"
+      },
+      {
+        "para_id": "193.798",
+        "lang": "fr",
+        "refcode": "FC 174.2"
+      },
+      {
+        "para_id": "12869.963",
+        "lang": "id",
+        "refcode": "MKB 171.2"
+      },
+      {
+        "para_id": "12178.666",
+        "lang": "pl",
+        "refcode": "ChD 110.4"
+      },
+      {
+        "para_id": "1955.1053",
+        "lang": "pt",
+        "refcode": "LA 182"
+      },
+      {
+        "para_id": "1955.1054",
+        "lang": "pt",
+        "refcode": "LA 182.2"
+      },
+      {
+        "para_id": "2026.801",
+        "lang": "ro",
+        "refcode": "CA 182.2"
+      },
+      {
+        "para_id": "1803.771",
+        "lang": "ru",
+        "refcode": "ХД 182.2"
+      },
+      {
+        "para_id": "12131.710",
+        "lang": "uk",
+        "refcode": "ХР 143.5"
+      },
+      {
+        "para_id": "12131.711",
+        "lang": "uk",
+        "refcode": "ХР 143.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.810",
+    "id_prev": "128.809",
+    "id_next": "128.811",
+    "refcode_1": "AH",
+    "refcode_2": "182",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 182.3",
+    "refcode_long": "The Adventist Home, p. 182.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Look upon the family circle as a training school, where you are preparing your children for the performance of their duties at home, in society, and in the church.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 9-10-1894\" data-link=\"820.12414\">The Signs of the Times, September 10, 1894</span>.</span></a></sup>",
+    "puborder": 529,
+    "translations": [
+      {
+        "para_id": "13839.650",
+        "lang": "bg",
+        "refcode": "ХД 75.4"
+      },
+      {
+        "para_id": "792.316",
+        "lang": "de",
+        "refcode": "GFH 50.2"
+      },
+      {
+        "para_id": "177.837",
+        "lang": "es",
+        "refcode": "HC 161.3"
+      },
+      {
+        "para_id": "193.799",
+        "lang": "fr",
+        "refcode": "FC 174.3"
+      },
+      {
+        "para_id": "12869.964",
+        "lang": "id",
+        "refcode": "MKB 171.3"
+      },
+      {
+        "para_id": "12178.668",
+        "lang": "pl",
+        "refcode": "ChD 111.1"
+      },
+      {
+        "para_id": "1955.1055",
+        "lang": "pt",
+        "refcode": "LA 182.3"
+      },
+      {
+        "para_id": "2026.802",
+        "lang": "ro",
+        "refcode": "CA 182.3"
+      },
+      {
+        "para_id": "1803.772",
+        "lang": "ru",
+        "refcode": "ХД 182.3"
+      },
+      {
+        "para_id": "12131.714",
+        "lang": "uk",
+        "refcode": "ХР 144.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.811",
+    "id_prev": "128.810",
+    "id_next": "128.812",
+    "refcode_1": "AH",
+    "refcode_2": "182",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 182.4",
+    "refcode_long": "The Adventist Home, p. 182.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Home Education First in Importance</strong>&mdash;It is a sad fact, almost universally admitted and deplored, that the home education and training of the youth of today have been neglected.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 8-30-1881\" data-link=\"821.3914\">The Review and Herald, August 30, 1881</span>.</span></a></sup>",
+    "puborder": 530,
+    "translations": [
+      {
+        "para_id": "13839.651",
+        "lang": "bg",
+        "refcode": "ХД 75.5"
+      },
+      {
+        "para_id": "177.838",
+        "lang": "es",
+        "refcode": "HC 161.4"
+      },
+      {
+        "para_id": "193.800",
+        "lang": "fr",
+        "refcode": "FC 174.4"
+      },
+      {
+        "para_id": "12869.966",
+        "lang": "id",
+        "refcode": "MKB 171.4"
+      },
+      {
+        "para_id": "891.497",
+        "lang": "it",
+        "refcode": "FC 74.3"
+      },
+      {
+        "para_id": "891.496",
+        "lang": "it",
+        "refcode": "FC 74"
+      },
+      {
+        "para_id": "12178.669",
+        "lang": "pl",
+        "refcode": "ChD 111.2"
+      },
+      {
+        "para_id": "1955.1057",
+        "lang": "pt",
+        "refcode": "LA 182.4"
+      },
+      {
+        "para_id": "1955.1056",
+        "lang": "pt",
+        "refcode": "LA 182"
+      },
+      {
+        "para_id": "2026.803",
+        "lang": "ro",
+        "refcode": "CA 182.4"
+      },
+      {
+        "para_id": "1803.773",
+        "lang": "ru",
+        "refcode": "ХД 182.4"
+      },
+      {
+        "para_id": "12131.715",
+        "lang": "uk",
+        "refcode": "ХР 144.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.812",
+    "id_prev": "128.811",
+    "id_next": "128.813",
+    "refcode_1": "AH",
+    "refcode_2": "182",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 182.5",
+    "refcode_long": "The Adventist Home, p. 182.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There is no more important field of effort than that committed to the founders and guardians of the home. No work entrusted to human beings involves greater or more far-reaching results than does the work of fathers and mothers.",
+    "puborder": 531,
+    "translations": [
+      {
+        "para_id": "13839.652",
+        "lang": "bg",
+        "refcode": "ХД 75.6"
+      },
+      {
+        "para_id": "792.316",
+        "lang": "de",
+        "refcode": "GFH 50.2"
+      },
+      {
+        "para_id": "177.839",
+        "lang": "es",
+        "refcode": "HC 161.5"
+      },
+      {
+        "para_id": "193.801",
+        "lang": "fr",
+        "refcode": "FC 174.5"
+      },
+      {
+        "para_id": "12869.969",
+        "lang": "id",
+        "refcode": "MKB 172.1"
+      },
+      {
+        "para_id": "891.497",
+        "lang": "it",
+        "refcode": "FC 74.3"
+      },
+      {
+        "para_id": "891.498",
+        "lang": "it",
+        "refcode": "FC 74.4"
+      },
+      {
+        "para_id": "12178.670",
+        "lang": "pl",
+        "refcode": "ChD 111.3"
+      },
+      {
+        "para_id": "1955.1058",
+        "lang": "pt",
+        "refcode": "LA 182.5"
+      },
+      {
+        "para_id": "2026.804",
+        "lang": "ro",
+        "refcode": "CA 182.5"
+      },
+      {
+        "para_id": "1803.774",
+        "lang": "ru",
+        "refcode": "ХД 182.5"
+      },
+      {
+        "para_id": "12131.716",
+        "lang": "uk",
+        "refcode": "ХР 144.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.813",
+    "id_prev": "128.812",
+    "id_next": "128.816",
+    "refcode_1": "AH",
+    "refcode_2": "182",
+    "refcode_3": "6",
+    "refcode_4": "",
+    "refcode_short": "AH 182.6",
+    "refcode_long": "The Adventist Home, p. 182.6 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is by the youth and children of today that the future of society is to be determined, and what these youth and children shall be depends upon the home. To the lack of <span class=\"page-break\" data-page=\"183\"></span> right home training may be traced the larger share of the disease and misery and crime that curse humanity. If the home life were pure and true, if the children who went forth from its care were prepared to meet life&apos;s responsibilities and dangers, what a change would be seen in the world!<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 351.1\" data-link=\"135.1768\">The Ministry of Healing, 351</span>.</span></a></sup>",
+    "puborder": 532,
+    "translations": [
+      {
+        "para_id": "13839.653",
+        "lang": "bg",
+        "refcode": "ХД 75.7"
+      },
+      {
+        "para_id": "13839.654",
+        "lang": "bg",
+        "refcode": "ХД 75.8"
+      },
+      {
+        "para_id": "792.317",
+        "lang": "de",
+        "refcode": "GFH 50.3"
+      },
+      {
+        "para_id": "177.840",
+        "lang": "es",
+        "refcode": "HC 161.6"
+      },
+      {
+        "para_id": "193.802",
+        "lang": "fr",
+        "refcode": "FC 174.6"
+      },
+      {
+        "para_id": "12869.970",
+        "lang": "id",
+        "refcode": "MKB 172.2"
+      },
+      {
+        "para_id": "891.499",
+        "lang": "it",
+        "refcode": "FC 74.5"
+      },
+      {
+        "para_id": "891.498",
+        "lang": "it",
+        "refcode": "FC 74.4"
+      },
+      {
+        "para_id": "12178.671",
+        "lang": "pl",
+        "refcode": "ChD 111.4"
+      },
+      {
+        "para_id": "1955.1059",
+        "lang": "pt",
+        "refcode": "LA 182.6"
+      },
+      {
+        "para_id": "2026.805",
+        "lang": "ro",
+        "refcode": "CA 182.6"
+      },
+      {
+        "para_id": "1803.775",
+        "lang": "ru",
+        "refcode": "ХД 182.6"
+      },
+      {
+        "para_id": "12131.717",
+        "lang": "uk",
+        "refcode": "ХР 144.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.816",
+    "id_prev": "128.813",
+    "id_next": "128.817",
+    "refcode_1": "AH",
+    "refcode_2": "183",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 183.1",
+    "refcode_long": "The Adventist Home, p. 183.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>All Else to Be Secondary</strong>&mdash;Every child brought into the world is the property of Jesus Christ, and should be educated by precept and example to love and obey God; but by far the largest number of parents have neglected their God-given work, by failing to educate and train their children, from the first dawning of reason, to know and love Christ. By painstaking effort parents are to watch the opening, receptive mind and make everything in the home life secondary to the positive duty enjoined upon them by God&mdash;to train their children in the nurture and admonition of the Lord.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 12b, 1896\" data-link=\"14061.4914001\">Manuscript 12b, 1896</span>.</span></a></sup>",
+    "puborder": 533,
+    "translations": [
+      {
+        "para_id": "13839.655",
+        "lang": "bg",
+        "refcode": "ХД 75.9"
+      },
+      {
+        "para_id": "792.319",
+        "lang": "de",
+        "refcode": "GFH 50.4"
+      },
+      {
+        "para_id": "792.318",
+        "lang": "de",
+        "refcode": "GFH 50"
+      },
+      {
+        "para_id": "177.843",
+        "lang": "es",
+        "refcode": "HC 162.1"
+      },
+      {
+        "para_id": "193.804",
+        "lang": "fr",
+        "refcode": "FC 175.1"
+      },
+      {
+        "para_id": "12869.972",
+        "lang": "id",
+        "refcode": "MKB 172.3"
+      },
+      {
+        "para_id": "891.500",
+        "lang": "it",
+        "refcode": "FC 74"
+      },
+      {
+        "para_id": "891.501",
+        "lang": "it",
+        "refcode": "FC 74.6"
+      },
+      {
+        "para_id": "12178.672",
+        "lang": "pl",
+        "refcode": "ChD 111.5"
+      },
+      {
+        "para_id": "1955.1063",
+        "lang": "pt",
+        "refcode": "LA 183.1"
+      },
+      {
+        "para_id": "1955.1062",
+        "lang": "pt",
+        "refcode": "LA 183"
+      },
+      {
+        "para_id": "2026.808",
+        "lang": "ro",
+        "refcode": "CA 183.1"
+      },
+      {
+        "para_id": "1803.778",
+        "lang": "ru",
+        "refcode": "ХД 183.1"
+      },
+      {
+        "para_id": "12131.719",
+        "lang": "uk",
+        "refcode": "ХР 144.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.817",
+    "id_prev": "128.816",
+    "id_next": "128.818",
+    "refcode_1": "AH",
+    "refcode_2": "183",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 183.2",
+    "refcode_long": "The Adventist Home, p. 183.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Parents should not permit business cares, worldly customs and maxims, and fashion to have a controlling power over them, so that they neglect their children in babyhood and fail to give their children proper instruction as they increase in years.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 9-17-1894\" data-link=\"820.12433\">The Signs of the Times, September 17, 1894</span>.</span></a></sup>",
+    "puborder": 534,
+    "translations": [
+      {
+        "para_id": "13839.658",
+        "lang": "bg",
+        "refcode": "ХД 76.1"
+      },
+      {
+        "para_id": "792.322",
+        "lang": "de",
+        "refcode": "GFH 51.1"
+      },
+      {
+        "para_id": "177.844",
+        "lang": "es",
+        "refcode": "HC 162.2"
+      },
+      {
+        "para_id": "193.805",
+        "lang": "fr",
+        "refcode": "FC 175.2"
+      },
+      {
+        "para_id": "12869.973",
+        "lang": "id",
+        "refcode": "MKB 172.4"
+      },
+      {
+        "para_id": "891.504",
+        "lang": "it",
+        "refcode": "FC 75.1"
+      },
+      {
+        "para_id": "12178.673",
+        "lang": "pl",
+        "refcode": "ChD 111.6"
+      },
+      {
+        "para_id": "1955.1064",
+        "lang": "pt",
+        "refcode": "LA 183.2"
+      },
+      {
+        "para_id": "2026.809",
+        "lang": "ro",
+        "refcode": "CA 183.2"
+      },
+      {
+        "para_id": "1803.779",
+        "lang": "ru",
+        "refcode": "ХД 183.2"
+      },
+      {
+        "para_id": "12131.720",
+        "lang": "uk",
+        "refcode": "ХР 144.7"
+      }
+    ]
+  },
+  {
+    "para_id": "128.818",
+    "id_prev": "128.817",
+    "id_next": "128.821",
+    "refcode_1": "AH",
+    "refcode_2": "183",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 183.3",
+    "refcode_long": "The Adventist Home, p. 183.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "One great reason why there is so much evil in the world today is that parents occupy their minds with other things than that which is all-important&mdash;how to adapt themselves to the work of patiently and kindly teaching their children the way of the Lord. If the curtain could be drawn aside, we should see that many, many children who have gone astray have been lost to good influences through this neglect. Parents, can you afford to have it so in your experience? You should have no work so important that it will prevent you from giving to your children <span class=\"page-break\" data-page=\"184\"></span> all the time that is necessary to make them understand what it means to obey and trust the Lord fully....",
+    "puborder": 535,
+    "translations": [
+      {
+        "para_id": "13839.659",
+        "lang": "bg",
+        "refcode": "ХД 76.2"
+      },
+      {
+        "para_id": "792.323",
+        "lang": "de",
+        "refcode": "GFH 51.2"
+      },
+      {
+        "para_id": "177.845",
+        "lang": "es",
+        "refcode": "HC 162.3"
+      },
+      {
+        "para_id": "193.806",
+        "lang": "fr",
+        "refcode": "FC 175.3"
+      },
+      {
+        "para_id": "12869.974",
+        "lang": "id",
+        "refcode": "MKB 172.5"
+      },
+      {
+        "para_id": "891.505",
+        "lang": "it",
+        "refcode": "FC 75.2"
+      },
+      {
+        "para_id": "12178.674",
+        "lang": "pl",
+        "refcode": "ChD 111.7"
+      },
+      {
+        "para_id": "1955.1065",
+        "lang": "pt",
+        "refcode": "LA 183.3"
+      },
+      {
+        "para_id": "2026.810",
+        "lang": "ro",
+        "refcode": "CA 183.3"
+      },
+      {
+        "para_id": "1803.780",
+        "lang": "ru",
+        "refcode": "ХД 183.3"
+      },
+      {
+        "para_id": "12131.722",
+        "lang": "uk",
+        "refcode": "ХР 145.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.821",
+    "id_prev": "128.818",
+    "id_next": "128.822",
+    "refcode_1": "AH",
+    "refcode_2": "184",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 184.1",
+    "refcode_long": "The Adventist Home, p. 184.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "And what will you reap as a reward of your effort? You will find your children right by your side, willing to take hold and co-operate with you in the lines that you suggest. You will find your work made easy.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 53, 1912\" data-link=\"14075.10797001\">Manuscript 53, 1912</span>.</span></a></sup>",
+    "puborder": 536,
+    "translations": [
+      {
+        "para_id": "13839.660",
+        "lang": "bg",
+        "refcode": "ХД 76.3"
+      },
+      {
+        "para_id": "792.324",
+        "lang": "de",
+        "refcode": "GFH 51.3"
+      },
+      {
+        "para_id": "177.846",
+        "lang": "es",
+        "refcode": "HC 162.4"
+      },
+      {
+        "para_id": "193.807",
+        "lang": "fr",
+        "refcode": "FC 175.4"
+      },
+      {
+        "para_id": "12869.977",
+        "lang": "id",
+        "refcode": "MKB 173.1"
+      },
+      {
+        "para_id": "891.505",
+        "lang": "it",
+        "refcode": "FC 75.2"
+      },
+      {
+        "para_id": "12178.677",
+        "lang": "pl",
+        "refcode": "ChD 112.1"
+      },
+      {
+        "para_id": "1955.1067",
+        "lang": "pt",
+        "refcode": "LA 184.1"
+      },
+      {
+        "para_id": "2026.813",
+        "lang": "ro",
+        "refcode": "CA 184.1"
+      },
+      {
+        "para_id": "1803.783",
+        "lang": "ru",
+        "refcode": "ХД 184.1"
+      },
+      {
+        "para_id": "12131.723",
+        "lang": "uk",
+        "refcode": "ХР 145.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.822",
+    "id_prev": "128.821",
+    "id_next": "128.823",
+    "refcode_1": "AH",
+    "refcode_2": "184",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 184.2",
+    "refcode_long": "The Adventist Home, p. 184.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God&apos;s Teaching Agents in the Home School</strong>&mdash;Parents should in a special sense regard themselves as agents of God to instruct their children, as did Abraham, to keep the way of the Lord. They need to search the Scriptures diligently, to know what is the way of the Lord, that they may teach it to their household. Micah says, &ldquo;What doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?&rdquo; [<span class=\"egwlink egwlink_bible\" title=\"Micah 6:8\" data-link=\"1965.46247\">Micah 6:8</span>.] In order to be teachers, parents must be learners, gathering light constantly from the oracles of God and by precept and example bringing this precious light into the education of their children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CTBH 145.1\" data-link=\"14.683\">Christian Temperance and Bible Hygiene, 145</span>.</span></a></sup>",
+    "puborder": 537,
+    "translations": [
+      {
+        "para_id": "13839.661",
+        "lang": "bg",
+        "refcode": "ХД 76.4"
+      },
+      {
+        "para_id": "177.848",
+        "lang": "es",
+        "refcode": "HC 163.1"
+      },
+      {
+        "para_id": "193.808",
+        "lang": "fr",
+        "refcode": "FC 175.5"
+      },
+      {
+        "para_id": "12869.979",
+        "lang": "id",
+        "refcode": "MKB 173.2"
+      },
+      {
+        "para_id": "891.507",
+        "lang": "it",
+        "refcode": "FC 75.3"
+      },
+      {
+        "para_id": "891.506",
+        "lang": "it",
+        "refcode": "FC 75"
+      },
+      {
+        "para_id": "12178.678",
+        "lang": "pl",
+        "refcode": "ChD 112.2"
+      },
+      {
+        "para_id": "1955.1068",
+        "lang": "pt",
+        "refcode": "LA 184"
+      },
+      {
+        "para_id": "1955.1069",
+        "lang": "pt",
+        "refcode": "LA 184.2"
+      },
+      {
+        "para_id": "2026.814",
+        "lang": "ro",
+        "refcode": "CA 184.2"
+      },
+      {
+        "para_id": "1803.784",
+        "lang": "ru",
+        "refcode": "ХД 184.2"
+      },
+      {
+        "para_id": "12131.724",
+        "lang": "uk",
+        "refcode": "ХР 145.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.823",
+    "id_prev": "128.822",
+    "id_next": "128.824",
+    "refcode_1": "AH",
+    "refcode_2": "184",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 184.3",
+    "refcode_long": "The Adventist Home, p. 184.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "From the light that God has given me, I know that the husband and the wife are to be in the home minister, physician, nurse, and teacher, binding their children to themselves and to God, training them to avoid every habit that will in any way militate against God&apos;s work in the body, and teaching them to care for every part of the living organism.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 100, 1902\" data-link=\"14067.10098001\">Manuscript 100, 1902</span>.</span></a></sup>",
+    "puborder": 538,
+    "translations": [
+      {
+        "para_id": "13839.662",
+        "lang": "bg",
+        "refcode": "ХД 76.5"
+      },
+      {
+        "para_id": "177.849",
+        "lang": "es",
+        "refcode": "HC 163.2"
+      },
+      {
+        "para_id": "193.811",
+        "lang": "fr",
+        "refcode": "FC 176.1"
+      },
+      {
+        "para_id": "12869.980",
+        "lang": "id",
+        "refcode": "MKB 173.3"
+      },
+      {
+        "para_id": "891.508",
+        "lang": "it",
+        "refcode": "FC 75.4"
+      },
+      {
+        "para_id": "12178.679",
+        "lang": "pl",
+        "refcode": "ChD 112.3"
+      },
+      {
+        "para_id": "1955.1070",
+        "lang": "pt",
+        "refcode": "LA 184.3"
+      },
+      {
+        "para_id": "2026.815",
+        "lang": "ro",
+        "refcode": "CA 184.3"
+      },
+      {
+        "para_id": "1803.785",
+        "lang": "ru",
+        "refcode": "ХД 184.3"
+      },
+      {
+        "para_id": "12131.725",
+        "lang": "uk",
+        "refcode": "ХР 145.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.824",
+    "id_prev": "128.823",
+    "id_next": "128.827",
+    "refcode_1": "AH",
+    "refcode_2": "184",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 184.4",
+    "refcode_long": "The Adventist Home, p. 184.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The mother must ever stand pre-eminent in this work of training the children; while grave and important duties rest upon the father, the mother, by almost constant association with her children, especially during their tender years, must always be their special instructor and companion. She should take great care to cultivate neatness and order in her children, to direct them in forming correct habits and tastes; she should train them to be <span class=\"page-break\" data-page=\"185\"></span> industrious, self-reliant, and helpful to others; to live and act and labor as though always in the sight of God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"nol-ink\" title=\"PHJ 1-1-1890\">Pacific Health Journal, January, 1890</span> (<span class=\"egwlink egwlink_book\" title=\"HR 11-1-1878\" data-link=\"504.1460\">The Health Reformer, November, 1878</span>).</span></a></sup>",
+    "puborder": 539,
+    "translations": [
+      {
+        "para_id": "13839.663",
+        "lang": "bg",
+        "refcode": "ХД 76.6"
+      },
+      {
+        "para_id": "792.325",
+        "lang": "de",
+        "refcode": "GFH 51.4"
+      },
+      {
+        "para_id": "177.850",
+        "lang": "es",
+        "refcode": "HC 163.3"
+      },
+      {
+        "para_id": "193.812",
+        "lang": "fr",
+        "refcode": "FC 176.2"
+      },
+      {
+        "para_id": "12869.981",
+        "lang": "id",
+        "refcode": "MKB 173.4"
+      },
+      {
+        "para_id": "891.508",
+        "lang": "it",
+        "refcode": "FC 75.4"
+      },
+      {
+        "para_id": "12178.680",
+        "lang": "pl",
+        "refcode": "ChD 112.4"
+      },
+      {
+        "para_id": "1955.1071",
+        "lang": "pt",
+        "refcode": "LA 184.4"
+      },
+      {
+        "para_id": "2026.816",
+        "lang": "ro",
+        "refcode": "CA 184.4"
+      },
+      {
+        "para_id": "1803.786",
+        "lang": "ru",
+        "refcode": "ХД 184.4"
+      },
+      {
+        "para_id": "12131.725",
+        "lang": "uk",
+        "refcode": "ХР 145.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.827",
+    "id_prev": "128.824",
+    "id_next": "128.828",
+    "refcode_1": "AH",
+    "refcode_2": "185",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 185.1",
+    "refcode_long": "The Adventist Home, p. 185.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The elder sisters can exert a strong influence upon the younger members of the family. The younger, witnessing the example of the older, will be led more by the principle of imitation than by oft-repeated precepts. The eldest daughter should ever feel it a Christian duty devolving upon her to aid the mother in bearing her many toilsome burdens.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"3T 337.1\" data-link=\"119.1555\">Testimonies for the Church 3:337</span>.</span></a></sup>",
+    "puborder": 540,
+    "translations": [
+      {
+        "para_id": "13839.664",
+        "lang": "bg",
+        "refcode": "ХД 76.7"
+      },
+      {
+        "para_id": "177.851",
+        "lang": "es",
+        "refcode": "HC 163.4"
+      },
+      {
+        "para_id": "193.813",
+        "lang": "fr",
+        "refcode": "FC 176.3"
+      },
+      {
+        "para_id": "12869.984",
+        "lang": "id",
+        "refcode": "MKB 174.1"
+      },
+      {
+        "para_id": "891.508",
+        "lang": "it",
+        "refcode": "FC 75.4"
+      },
+      {
+        "para_id": "12178.682",
+        "lang": "pl",
+        "refcode": "ChD 113.1"
+      },
+      {
+        "para_id": "1955.1073",
+        "lang": "pt",
+        "refcode": "LA 185.1"
+      },
+      {
+        "para_id": "2026.819",
+        "lang": "ro",
+        "refcode": "CA 185.1"
+      },
+      {
+        "para_id": "1803.789",
+        "lang": "ru",
+        "refcode": "ХД 185.1"
+      },
+      {
+        "para_id": "12131.728",
+        "lang": "uk",
+        "refcode": "ХР 146.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.828",
+    "id_prev": "128.827",
+    "id_next": "128.829",
+    "refcode_1": "AH",
+    "refcode_2": "185",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 185.2",
+    "refcode_long": "The Adventist Home, p. 185.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Parents should be much at home. By precept and example they should teach their children the love and the fear of God; teach them to be intelligent, social, affectionate; to cultivate habits of industry, economy, and self-denial. By giving their children love, sympathy, and encouragement at home, parents may provide for them a safe and welcome retreat from many of the world&apos;s temptations.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">14<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"FE 65.1\" data-link=\"32.253\">Fundamentals of Christian Education, 65</span>.</span></a></sup>",
+    "puborder": 541,
+    "translations": [
+      {
+        "para_id": "13839.665",
+        "lang": "bg",
+        "refcode": "ХД 76.8"
+      },
+      {
+        "para_id": "792.328",
+        "lang": "de",
+        "refcode": "GFH 52.1"
+      },
+      {
+        "para_id": "177.853",
+        "lang": "es",
+        "refcode": "HC 164.1"
+      },
+      {
+        "para_id": "193.814",
+        "lang": "fr",
+        "refcode": "FC 176.4"
+      },
+      {
+        "para_id": "12869.985",
+        "lang": "id",
+        "refcode": "MKB 174.2"
+      },
+      {
+        "para_id": "891.511",
+        "lang": "it",
+        "refcode": "FC 76.1"
+      },
+      {
+        "para_id": "12178.683",
+        "lang": "pl",
+        "refcode": "ChD 113.2"
+      },
+      {
+        "para_id": "1955.1074",
+        "lang": "pt",
+        "refcode": "LA 185.2"
+      },
+      {
+        "para_id": "2026.820",
+        "lang": "ro",
+        "refcode": "CA 185.2"
+      },
+      {
+        "para_id": "1803.790",
+        "lang": "ru",
+        "refcode": "ХД 185.2"
+      },
+      {
+        "para_id": "12131.729",
+        "lang": "uk",
+        "refcode": "ХР 146.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.829",
+    "id_prev": "128.828",
+    "id_next": "128.830",
+    "refcode_1": "AH",
+    "refcode_2": "185",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 185.3",
+    "refcode_long": "The Adventist Home, p. 185.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Preparation for the Church School</strong>&mdash;It is in the home school that our boys and girls are to be prepared to attend the church school. Parents should constantly keep this in mind and, as teachers in the home, should consecrate every power of the being to God, that they may fulfill their high and holy mission. Diligent, faithful instruction in the home is the best preparation that children can receive for school life.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">15<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 150.1\" data-link=\"23.710\">Counsels to Teachers, Parents, and Students, 150</span>.</span></a></sup>",
+    "puborder": 542,
+    "translations": [
+      {
+        "para_id": "13839.668",
+        "lang": "bg",
+        "refcode": "ХД 77.1"
+      },
+      {
+        "para_id": "177.854",
+        "lang": "es",
+        "refcode": "HC 164.2"
+      },
+      {
+        "para_id": "193.817",
+        "lang": "fr",
+        "refcode": "FC 177.1"
+      },
+      {
+        "para_id": "12869.987",
+        "lang": "id",
+        "refcode": "MKB 174.3"
+      },
+      {
+        "para_id": "12178.684",
+        "lang": "pl",
+        "refcode": "ChD 113.3"
+      },
+      {
+        "para_id": "1955.1075",
+        "lang": "pt",
+        "refcode": "LA 185"
+      },
+      {
+        "para_id": "1955.1076",
+        "lang": "pt",
+        "refcode": "LA 185.3"
+      },
+      {
+        "para_id": "2026.821",
+        "lang": "ro",
+        "refcode": "CA 185.3"
+      },
+      {
+        "para_id": "1803.791",
+        "lang": "ru",
+        "refcode": "ХД 185.3"
+      },
+      {
+        "para_id": "12131.730",
+        "lang": "uk",
+        "refcode": "ХР 146.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.830",
+    "id_prev": "128.829",
+    "id_next": "128.832",
+    "refcode_1": "AH",
+    "refcode_2": "185",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 185.4",
+    "refcode_long": "The Adventist Home, p. 185.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God&apos;s Injunctions to Be Paramount</strong>&mdash;We have Bible rules for the guidance of all, both parents and children, a high and holy standard from which there can be no swerving. God&apos;s injunctions must be paramount. Let the father and mother of the family spread out God&apos;s word before Him, the searcher of hearts, and ask in sincerity, &ldquo;What hath God said?&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">16<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 9-15-1891\" data-link=\"821.11491\">The Review and Herald, September 15, 1891</span>.</span></a></sup>",
+    "puborder": 543,
+    "translations": [
+      {
+        "para_id": "13839.669",
+        "lang": "bg",
+        "refcode": "ХД 77.2"
+      },
+      {
+        "para_id": "792.329",
+        "lang": "de",
+        "refcode": "GFH 52"
+      },
+      {
+        "para_id": "792.330",
+        "lang": "de",
+        "refcode": "GFH 52.2"
+      },
+      {
+        "para_id": "177.855",
+        "lang": "es",
+        "refcode": "HC 164.3"
+      },
+      {
+        "para_id": "193.818",
+        "lang": "fr",
+        "refcode": "FC 177.2"
+      },
+      {
+        "para_id": "12869.989",
+        "lang": "id",
+        "refcode": "MKB 174.4"
+      },
+      {
+        "para_id": "12178.685",
+        "lang": "pl",
+        "refcode": "ChD 113.4"
+      },
+      {
+        "para_id": "1955.1078",
+        "lang": "pt",
+        "refcode": "LA 185.4"
+      },
+      {
+        "para_id": "1955.1077",
+        "lang": "pt",
+        "refcode": "LA 185"
+      },
+      {
+        "para_id": "2026.822",
+        "lang": "ro",
+        "refcode": "CA 185.4"
+      },
+      {
+        "para_id": "1803.2521",
+        "lang": "ru",
+        "refcode": "ХД 185.4"
+      },
+      {
+        "para_id": "12131.731",
+        "lang": "uk",
+        "refcode": "ХР 146.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.832",
+    "id_prev": "128.830",
+    "id_next": "128.833",
+    "refcode_1": "AH",
+    "refcode_2": "186",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 186.1",
+    "refcode_long": "The Adventist Home, p. 186.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Teach your children to love truth because it is truth, and because they are to be sanctified through the truth and fitted to stand in the grand review that shall erelong determine whether they are qualified to enter into higher work and become members of the royal family, children of the heavenly King.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">17<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 9-10-1894\" data-link=\"820.12414\">The Signs of the Times, September 10, 1894</span>.</span></a></sup>",
+    "puborder": 544,
+    "translations": [
+      {
+        "para_id": "13839.670",
+        "lang": "bg",
+        "refcode": "ХД 77.3"
+      },
+      {
+        "para_id": "177.856",
+        "lang": "es",
+        "refcode": "HC 164.4"
+      },
+      {
+        "para_id": "193.819",
+        "lang": "fr",
+        "refcode": "FC 177.3"
+      },
+      {
+        "para_id": "12869.990",
+        "lang": "id",
+        "refcode": "MKB 174.5"
+      },
+      {
+        "para_id": "12178.686",
+        "lang": "pl",
+        "refcode": "ChD 113.5"
+      },
+      {
+        "para_id": "1955.1079",
+        "lang": "pt",
+        "refcode": "LA 185.5"
+      },
+      {
+        "para_id": "2026.824",
+        "lang": "ro",
+        "refcode": "CA 186.1"
+      },
+      {
+        "para_id": "1803.793",
+        "lang": "ru",
+        "refcode": "ХД 186.1"
+      },
+      {
+        "para_id": "12131.732",
+        "lang": "uk",
+        "refcode": "ХР 146.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.833",
+    "id_prev": "128.832",
+    "id_next": "128.835",
+    "refcode_1": "AH",
+    "refcode_2": "186",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 186.2",
+    "refcode_long": "The Adventist Home, p. 186.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Prepare for the Coming Conflict</strong>&mdash;Satan is marshaling his hosts; and are we individually prepared for the fearful conflict that is just before us? Are we preparing our children for the great crisis? Are we preparing ourselves and our households to understand the position of our adversaries and their modes of warfare? Are our children forming habits of decision, that they may be firm and unyielding in every matter of principle and duty? I pray that we all may understand the signs of the times, and that we may so prepare ourselves and our children that in the time of conflict God may be our refuge and defense.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">18<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 4-23-1889\" data-link=\"821.9642\">The Review and Herald, April 23, 1889</span>.</span></a></sup>",
+    "puborder": 545,
+    "translations": [
+      {
+        "para_id": "13839.671",
+        "lang": "bg",
+        "refcode": "ХД 77.4"
+      },
+      {
+        "para_id": "177.857",
+        "lang": "es",
+        "refcode": "HC 164.5"
+      },
+      {
+        "para_id": "193.820",
+        "lang": "fr",
+        "refcode": "FC 177.4"
+      },
+      {
+        "para_id": "12869.994",
+        "lang": "id",
+        "refcode": "MKB 175.1"
+      },
+      {
+        "para_id": "12178.687",
+        "lang": "pl",
+        "refcode": "ChD 113.6"
+      },
+      {
+        "para_id": "1955.1083",
+        "lang": "pt",
+        "refcode": "LA 186.1"
+      },
+      {
+        "para_id": "1955.1082",
+        "lang": "pt",
+        "refcode": "LA 186"
+      },
+      {
+        "para_id": "2026.825",
+        "lang": "ro",
+        "refcode": "CA 186.2"
+      },
+      {
+        "para_id": "1803.794",
+        "lang": "ru",
+        "refcode": "ХД 186.2"
+      },
+      {
+        "para_id": "12131.733",
+        "lang": "uk",
+        "refcode": "ХР 146.6"
+      }
+    ]
+  }
+]

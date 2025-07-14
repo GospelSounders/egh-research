@@ -1,0 +1,2545 @@
+[
+  {
+    "para_id": "127.1939",
+    "id_prev": "127.1937",
+    "id_next": "127.2686",
+    "refcode_1": "AA",
+    "refcode_2": "439",
+    "refcode_3": "",
+    "refcode_4": "42",
+    "refcode_short": "AA 439",
+    "refcode_long": "The Acts of the Apostles, p. 439 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 42&mdash;The Voyage and Shipwreck",
+    "puborder": 1212,
+    "translations": [
+      {
+        "para_id": "13804.1447",
+        "lang": "bg",
+        "refcode": "Дa 171"
+      },
+      {
+        "para_id": "11590.1854",
+        "lang": "ce",
+        "refcode": "ABA 374"
+      },
+      {
+        "para_id": "11247.1770",
+        "lang": "cs",
+        "refcode": "PNL 253"
+      },
+      {
+        "para_id": "813.1934",
+        "lang": "de",
+        "refcode": "WA 433"
+      },
+      {
+        "para_id": "198.1804",
+        "lang": "es",
+        "refcode": "HAp 351"
+      },
+      {
+        "para_id": "158.1850",
+        "lang": "fr",
+        "refcode": "CP 389"
+      },
+      {
+        "para_id": "11938.1672",
+        "lang": "hu",
+        "refcode": "AT 289"
+      },
+      {
+        "para_id": "12410.1809",
+        "lang": "id",
+        "refcode": "KR 370"
+      },
+      {
+        "para_id": "882.1680",
+        "lang": "it",
+        "refcode": "UVI 275"
+      },
+      {
+        "para_id": "12335.1606",
+        "lang": "nb",
+        "refcode": "AV 253"
+      },
+      {
+        "para_id": "12008.1510",
+        "lang": "pl",
+        "refcode": "DA 243"
+      },
+      {
+        "para_id": "1806.1585",
+        "lang": "pt",
+        "refcode": "AA 226.5"
+      },
+      {
+        "para_id": "2013.1924",
+        "lang": "ro",
+        "refcode": "FA 439"
+      },
+      {
+        "para_id": "1785.1890",
+        "lang": "ru",
+        "refcode": "ДА 439"
+      },
+      {
+        "para_id": "13874.1609",
+        "lang": "rw",
+        "refcode": "INI 271"
+      },
+      {
+        "para_id": "11182.1594",
+        "lang": "sk",
+        "refcode": "SA 263"
+      },
+      {
+        "para_id": "11904.1747",
+        "lang": "tl",
+        "refcode": "AGA 332"
+      },
+      {
+        "para_id": "11875.1698",
+        "lang": "uk",
+        "refcode": "ДА 300"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2686",
+    "id_prev": "127.1939",
+    "id_next": "127.1940",
+    "refcode_1": "AA",
+    "refcode_2": "439",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "bibletext",
+    "content": "<span class=\"non-egw-comment\">This chapter is based on <span class=\"egwlink egwlink_bible\" title=\"Acts 27:1\" data-link=\"1965.56804\">Acts 27</span>; <span class=\"egwlink egwlink_bible\" title=\"Acts 28:1\" data-link=\"1965.56893\">28:1-10</span>.</span>",
+    "puborder": 1213,
+    "translations": [
+      {
+        "para_id": "813.1935",
+        "lang": "de",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "198.1804",
+        "lang": "es",
+        "refcode": "HAp 351"
+      },
+      {
+        "para_id": "158.1851",
+        "lang": "fr",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11938.1673",
+        "lang": "hu",
+        "refcode": "AT 289"
+      },
+      {
+        "para_id": "1806.2172",
+        "lang": "pt",
+        "refcode": "AA 310.8"
+      },
+      {
+        "para_id": "2013.2672",
+        "lang": "ro",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "1785.2626",
+        "lang": "ru",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "13874.1610",
+        "lang": "rw",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11875.1699",
+        "lang": "uk",
+        "refcode": "The Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1940",
+    "id_prev": "127.2686",
+    "id_next": "127.1941",
+    "refcode_1": "AA",
+    "refcode_2": "439",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 439.1",
+    "refcode_long": "The Acts of the Apostles, p. 439.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "At last Paul was on his way to Rome. &ldquo;When it was determined,&rdquo; Luke writes, &ldquo;that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus&rsquo; band. And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; one Aristarchus, a Macedonian of Thessalonica, being with us.&rdquo;",
+    "puborder": 1214,
+    "translations": [
+      {
+        "para_id": "13804.1448",
+        "lang": "bg",
+        "refcode": "Дa 171.1"
+      },
+      {
+        "para_id": "11590.1855",
+        "lang": "ce",
+        "refcode": "ABA 374.1"
+      },
+      {
+        "para_id": "11247.1771",
+        "lang": "cs",
+        "refcode": "PNL 253.1"
+      },
+      {
+        "para_id": "813.1936",
+        "lang": "de",
+        "refcode": "WA 433.1"
+      },
+      {
+        "para_id": "198.1805",
+        "lang": "es",
+        "refcode": "HAp 351.1"
+      },
+      {
+        "para_id": "158.1852",
+        "lang": "fr",
+        "refcode": "CP 389.1"
+      },
+      {
+        "para_id": "11938.1674",
+        "lang": "hu",
+        "refcode": "AT 289.1"
+      },
+      {
+        "para_id": "12410.1810",
+        "lang": "id",
+        "refcode": "KR 370.1"
+      },
+      {
+        "para_id": "882.1681",
+        "lang": "it",
+        "refcode": "UVI 275.1"
+      },
+      {
+        "para_id": "12335.1607",
+        "lang": "nb",
+        "refcode": "AV 253.1"
+      },
+      {
+        "para_id": "12008.1511",
+        "lang": "pl",
+        "refcode": "DA 243.1"
+      },
+      {
+        "para_id": "1806.1586",
+        "lang": "pt",
+        "refcode": "AA 226.6"
+      },
+      {
+        "para_id": "2013.1925",
+        "lang": "ro",
+        "refcode": "FA 439.1"
+      },
+      {
+        "para_id": "1785.1891",
+        "lang": "ru",
+        "refcode": "ДА 439.1"
+      },
+      {
+        "para_id": "13874.1611",
+        "lang": "rw",
+        "refcode": "INI 271.1"
+      },
+      {
+        "para_id": "11182.1595",
+        "lang": "sk",
+        "refcode": "SA 263.1"
+      },
+      {
+        "para_id": "11904.1748",
+        "lang": "tl",
+        "refcode": "AGA 332.1"
+      },
+      {
+        "para_id": "11875.1700",
+        "lang": "uk",
+        "refcode": "ДА 300.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1941",
+    "id_prev": "127.1940",
+    "id_next": "127.1942",
+    "refcode_1": "AA",
+    "refcode_2": "439",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 439.2",
+    "refcode_long": "The Acts of the Apostles, p. 439.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the first century of the Christian Era traveling by sea was attended with peculiar hardship and peril. Mariners directed their course largely by the position of the sun and stars; and when these did not appear, and there were indications of storm, the owners of vessels were fearful of venturing into the open sea. During a portion of the year, safe navigation was almost impossible.",
+    "puborder": 1215,
+    "translations": [
+      {
+        "para_id": "13804.1449",
+        "lang": "bg",
+        "refcode": "Дa 171.2"
+      },
+      {
+        "para_id": "11590.1856",
+        "lang": "ce",
+        "refcode": "ABA 374.2"
+      },
+      {
+        "para_id": "11247.1772",
+        "lang": "cs",
+        "refcode": "PNL 253.2"
+      },
+      {
+        "para_id": "813.1937",
+        "lang": "de",
+        "refcode": "WA 433.2"
+      },
+      {
+        "para_id": "198.1806",
+        "lang": "es",
+        "refcode": "HAp 351.2"
+      },
+      {
+        "para_id": "158.1853",
+        "lang": "fr",
+        "refcode": "CP 389.2"
+      },
+      {
+        "para_id": "11938.1675",
+        "lang": "hu",
+        "refcode": "AT 289.2"
+      },
+      {
+        "para_id": "12410.1811",
+        "lang": "id",
+        "refcode": "KR 370.2"
+      },
+      {
+        "para_id": "882.1682",
+        "lang": "it",
+        "refcode": "UVI 275.2"
+      },
+      {
+        "para_id": "12335.1608",
+        "lang": "nb",
+        "refcode": "AV 253.2"
+      },
+      {
+        "para_id": "12008.1512",
+        "lang": "pl",
+        "refcode": "DA 243.2"
+      },
+      {
+        "para_id": "1806.1586",
+        "lang": "pt",
+        "refcode": "AA 226.6"
+      },
+      {
+        "para_id": "2013.1926",
+        "lang": "ro",
+        "refcode": "FA 439.2"
+      },
+      {
+        "para_id": "1785.1892",
+        "lang": "ru",
+        "refcode": "ДА 439.2"
+      },
+      {
+        "para_id": "13874.1612",
+        "lang": "rw",
+        "refcode": "INI 271.2"
+      },
+      {
+        "para_id": "11182.1596",
+        "lang": "sk",
+        "refcode": "SA 263.2"
+      },
+      {
+        "para_id": "11904.1749",
+        "lang": "tl",
+        "refcode": "AGA 332.2"
+      },
+      {
+        "para_id": "11875.1701",
+        "lang": "uk",
+        "refcode": "ДА 300.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1942",
+    "id_prev": "127.1941",
+    "id_next": "127.1945",
+    "refcode_1": "AA",
+    "refcode_2": "439",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 439.3",
+    "refcode_long": "The Acts of the Apostles, p. 439.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle Paul was now called upon to endure the trying experiences that would fall to his lot as a prisoner in chains during the long and tedious voyage to Italy. One <span class=\"page-break\" data-page=\"440\"></span> circumstance greatly lightened the hardship of his lot&mdash;he was permitted the companionship of Luke and Aristarchus. In his letter to the Colossians he afterward referred to the latter as his &ldquo;fellow prisoner&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"Colossians 4:10\" data-link=\"1965.60269\">Colossians 4:10</span>); but it was from choice that Aristarchus shared Paul&apos;s bondage, that he might minister to him in his afflictions.",
+    "puborder": 1216,
+    "translations": [
+      {
+        "para_id": "13804.1450",
+        "lang": "bg",
+        "refcode": "Дa 171.3"
+      },
+      {
+        "para_id": "11590.1857",
+        "lang": "ce",
+        "refcode": "ABA 374.3"
+      },
+      {
+        "para_id": "11247.1773",
+        "lang": "cs",
+        "refcode": "PNL 253.3"
+      },
+      {
+        "para_id": "813.1938",
+        "lang": "de",
+        "refcode": "WA 433.3"
+      },
+      {
+        "para_id": "198.1807",
+        "lang": "es",
+        "refcode": "HAp 351.3"
+      },
+      {
+        "para_id": "158.1853",
+        "lang": "fr",
+        "refcode": "CP 389.2"
+      },
+      {
+        "para_id": "158.1855",
+        "lang": "fr",
+        "refcode": "CP 390.1"
+      },
+      {
+        "para_id": "11938.1676",
+        "lang": "hu",
+        "refcode": "AT 289.3"
+      },
+      {
+        "para_id": "12410.1812",
+        "lang": "id",
+        "refcode": "KR 370.3"
+      },
+      {
+        "para_id": "882.1683",
+        "lang": "it",
+        "refcode": "UVI 275.3"
+      },
+      {
+        "para_id": "12335.1609",
+        "lang": "nb",
+        "refcode": "AV 253.3"
+      },
+      {
+        "para_id": "12008.1513",
+        "lang": "pl",
+        "refcode": "DA 243.3"
+      },
+      {
+        "para_id": "1806.1586",
+        "lang": "pt",
+        "refcode": "AA 226.6"
+      },
+      {
+        "para_id": "2013.1927",
+        "lang": "ro",
+        "refcode": "FA 439.3"
+      },
+      {
+        "para_id": "1785.1893",
+        "lang": "ru",
+        "refcode": "ДА 439.3"
+      },
+      {
+        "para_id": "13874.1614",
+        "lang": "rw",
+        "refcode": "INI 271.4"
+      },
+      {
+        "para_id": "13874.1613",
+        "lang": "rw",
+        "refcode": "INI 271.3"
+      },
+      {
+        "para_id": "11182.1597",
+        "lang": "sk",
+        "refcode": "SA 263.3"
+      },
+      {
+        "para_id": "11904.1750",
+        "lang": "tl",
+        "refcode": "AGA 332.3"
+      },
+      {
+        "para_id": "11875.1702",
+        "lang": "uk",
+        "refcode": "ДА 300.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1945",
+    "id_prev": "127.1942",
+    "id_next": "127.1946",
+    "refcode_1": "AA",
+    "refcode_2": "440",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 440.1",
+    "refcode_long": "The Acts of the Apostles, p. 440.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The voyage began prosperously. The following day they cast anchor in the harbor of Sidon. Here Julius, the centurion, &ldquo;courteously entreated Paul,&rdquo; and being informed that there were Christians in the place, &ldquo;gave him liberty to go unto his friends to refresh himself.&rdquo; This permission was greatly appreciated by the apostle, who was in feeble health.",
+    "puborder": 1217,
+    "translations": [
+      {
+        "para_id": "13804.1451",
+        "lang": "bg",
+        "refcode": "Дa 171.4"
+      },
+      {
+        "para_id": "11590.1858",
+        "lang": "ce",
+        "refcode": "ABA 374.4"
+      },
+      {
+        "para_id": "11247.1774",
+        "lang": "cs",
+        "refcode": "PNL 253.4"
+      },
+      {
+        "para_id": "813.1941",
+        "lang": "de",
+        "refcode": "WA 434.1"
+      },
+      {
+        "para_id": "198.1808",
+        "lang": "es",
+        "refcode": "HAp 351.4"
+      },
+      {
+        "para_id": "158.1856",
+        "lang": "fr",
+        "refcode": "CP 390.2"
+      },
+      {
+        "para_id": "11938.1677",
+        "lang": "hu",
+        "refcode": "AT 289.4"
+      },
+      {
+        "para_id": "12410.1815",
+        "lang": "id",
+        "refcode": "KR 371.1"
+      },
+      {
+        "para_id": "882.1684",
+        "lang": "it",
+        "refcode": "UVI 275.4"
+      },
+      {
+        "para_id": "12335.1610",
+        "lang": "nb",
+        "refcode": "AV 253.4"
+      },
+      {
+        "para_id": "12008.1514",
+        "lang": "pl",
+        "refcode": "DA 243.4"
+      },
+      {
+        "para_id": "1806.1589",
+        "lang": "pt",
+        "refcode": "AA 227.1"
+      },
+      {
+        "para_id": "2013.1930",
+        "lang": "ro",
+        "refcode": "FA 440.1"
+      },
+      {
+        "para_id": "1785.1896",
+        "lang": "ru",
+        "refcode": "ДА 440.1"
+      },
+      {
+        "para_id": "13874.1615",
+        "lang": "rw",
+        "refcode": "INI 271.5"
+      },
+      {
+        "para_id": "11182.1598",
+        "lang": "sk",
+        "refcode": "SA 263.4"
+      },
+      {
+        "para_id": "11904.1751",
+        "lang": "tl",
+        "refcode": "AGA 332.4"
+      },
+      {
+        "para_id": "11875.1704",
+        "lang": "uk",
+        "refcode": "ДА 301.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1946",
+    "id_prev": "127.1945",
+    "id_next": "127.1947",
+    "refcode_1": "AA",
+    "refcode_2": "440",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 440.2",
+    "refcode_long": "The Acts of the Apostles, p. 440.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Upon leaving Sidon, the ship encountered contrary winds; and being driven from a direct course, its progress was slow. At Myra, in the province of Lycia, the centurion found a large Alexandrian ship, bound for the coast of Italy, and to this he immediately transferred his prisoners. But the winds were still contrary, and the ship&apos;s progress was difficult. Luke writes, &ldquo;When we had sailed slowly many days, and scarce were come over against Cnidus, the wind not suffering us, we sailed under Crete, over against Salmone; and, hardly passing it, came unto a place which is called the Fair Havens.&rdquo;",
+    "puborder": 1218,
+    "translations": [
+      {
+        "para_id": "13804.1452",
+        "lang": "bg",
+        "refcode": "Дa 171.5"
+      },
+      {
+        "para_id": "11590.1861",
+        "lang": "ce",
+        "refcode": "ABA 375.1"
+      },
+      {
+        "para_id": "11247.1776",
+        "lang": "cs",
+        "refcode": "PNL 253.5"
+      },
+      {
+        "para_id": "813.1942",
+        "lang": "de",
+        "refcode": "WA 434.2"
+      },
+      {
+        "para_id": "198.1810",
+        "lang": "es",
+        "refcode": "HAp 352.1"
+      },
+      {
+        "para_id": "158.1857",
+        "lang": "fr",
+        "refcode": "CP 390.3"
+      },
+      {
+        "para_id": "11938.1678",
+        "lang": "hu",
+        "refcode": "AT 289.5"
+      },
+      {
+        "para_id": "12410.1816",
+        "lang": "id",
+        "refcode": "KR 371.2"
+      },
+      {
+        "para_id": "882.1685",
+        "lang": "it",
+        "refcode": "UVI 275.5"
+      },
+      {
+        "para_id": "12335.1611",
+        "lang": "nb",
+        "refcode": "AV 253.5"
+      },
+      {
+        "para_id": "12008.1515",
+        "lang": "pl",
+        "refcode": "DA 243.5"
+      },
+      {
+        "para_id": "1806.1590",
+        "lang": "pt",
+        "refcode": "AA 227.2"
+      },
+      {
+        "para_id": "2013.1931",
+        "lang": "ro",
+        "refcode": "FA 440.2"
+      },
+      {
+        "para_id": "1785.1897",
+        "lang": "ru",
+        "refcode": "ДА 440.2"
+      },
+      {
+        "para_id": "13874.1616",
+        "lang": "rw",
+        "refcode": "INI 271.6"
+      },
+      {
+        "para_id": "11182.1599",
+        "lang": "sk",
+        "refcode": "SA 263.5"
+      },
+      {
+        "para_id": "11904.1752",
+        "lang": "tl",
+        "refcode": "AGA 332.5"
+      },
+      {
+        "para_id": "11875.1705",
+        "lang": "uk",
+        "refcode": "ДА 301.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1947",
+    "id_prev": "127.1946",
+    "id_next": "127.1950",
+    "refcode_1": "AA",
+    "refcode_2": "440",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 440.3",
+    "refcode_long": "The Acts of the Apostles, p. 440.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "At Fair Havens they were compelled to remain for some time, waiting for favoring winds. Winter was approaching rapidly; &ldquo;sailing was now dangerous;&rdquo; and those in charge of the vessel had to give up hope of reaching their destination before the season for travel by sea should be <span class=\"page-break\" data-page=\"441\"></span> closed for the year. The only question now to be decided was, whether to remain at Fair Havens, or attempt to reach a more favorable place in which to winter.",
+    "puborder": 1219,
+    "translations": [
+      {
+        "para_id": "13804.1453",
+        "lang": "bg",
+        "refcode": "Дa 171.6"
+      },
+      {
+        "para_id": "11590.1862",
+        "lang": "ce",
+        "refcode": "ABA 375.2"
+      },
+      {
+        "para_id": "11247.1779",
+        "lang": "cs",
+        "refcode": "PNL 254.1"
+      },
+      {
+        "para_id": "813.1943",
+        "lang": "de",
+        "refcode": "WA 434.3"
+      },
+      {
+        "para_id": "198.1811",
+        "lang": "es",
+        "refcode": "HAp 352.2"
+      },
+      {
+        "para_id": "158.1858",
+        "lang": "fr",
+        "refcode": "CP 390.4"
+      },
+      {
+        "para_id": "11938.1681",
+        "lang": "hu",
+        "refcode": "AT 290.1"
+      },
+      {
+        "para_id": "12410.1817",
+        "lang": "id",
+        "refcode": "KR 371.3"
+      },
+      {
+        "para_id": "882.1688",
+        "lang": "it",
+        "refcode": "UVI 276.1"
+      },
+      {
+        "para_id": "12335.1612",
+        "lang": "nb",
+        "refcode": "AV 253.6"
+      },
+      {
+        "para_id": "12008.1518",
+        "lang": "pl",
+        "refcode": "DA 244.1"
+      },
+      {
+        "para_id": "1806.1592",
+        "lang": "pt",
+        "refcode": "AA 227.4"
+      },
+      {
+        "para_id": "2013.1932",
+        "lang": "ro",
+        "refcode": "FA 440.3"
+      },
+      {
+        "para_id": "1785.1898",
+        "lang": "ru",
+        "refcode": "ДА 440.3"
+      },
+      {
+        "para_id": "13874.1618",
+        "lang": "rw",
+        "refcode": "INI 272.1"
+      },
+      {
+        "para_id": "11182.1601",
+        "lang": "sk",
+        "refcode": "SA 264.1"
+      },
+      {
+        "para_id": "11904.1755",
+        "lang": "tl",
+        "refcode": "AGA 333.1"
+      },
+      {
+        "para_id": "11875.1706",
+        "lang": "uk",
+        "refcode": "ДА 301.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1950",
+    "id_prev": "127.1947",
+    "id_next": "127.1951",
+    "refcode_1": "AA",
+    "refcode_2": "441",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 441.1",
+    "refcode_long": "The Acts of the Apostles, p. 441.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "This question was earnestly discussed, and was finally referred by the centurion to Paul, who had won the respect of both sailors and soldiers. The apostle unhesitatingly advised remaining where they were. &ldquo;I perceive,&rdquo; he said, &ldquo;that this voyage will be with hurt and much damage, not only of the lading and ship, but also of our lives.&rdquo; But &ldquo;the master and the owner of the ship,&rdquo; and the majority of passengers and crew, were unwilling to accept this counsel. Because the haven in which they had anchored &ldquo;was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lieth toward the southwest and northwest.&rdquo;",
+    "puborder": 1220,
+    "translations": [
+      {
+        "para_id": "13804.1454",
+        "lang": "bg",
+        "refcode": "Дa 171.7"
+      },
+      {
+        "para_id": "11590.1863",
+        "lang": "ce",
+        "refcode": "ABA 375.3"
+      },
+      {
+        "para_id": "11247.1780",
+        "lang": "cs",
+        "refcode": "PNL 254.2"
+      },
+      {
+        "para_id": "813.1944",
+        "lang": "de",
+        "refcode": "WA 434.4"
+      },
+      {
+        "para_id": "198.1812",
+        "lang": "es",
+        "refcode": "HAp 352.3"
+      },
+      {
+        "para_id": "158.1858",
+        "lang": "fr",
+        "refcode": "CP 390.4"
+      },
+      {
+        "para_id": "11938.1682",
+        "lang": "hu",
+        "refcode": "AT 290.2"
+      },
+      {
+        "para_id": "12410.1818",
+        "lang": "id",
+        "refcode": "KR 371.4"
+      },
+      {
+        "para_id": "882.1689",
+        "lang": "it",
+        "refcode": "UVI 276.2"
+      },
+      {
+        "para_id": "12335.1615",
+        "lang": "nb",
+        "refcode": "AV 254.1"
+      },
+      {
+        "para_id": "12008.1519",
+        "lang": "pl",
+        "refcode": "DA 244.2"
+      },
+      {
+        "para_id": "1806.1593",
+        "lang": "pt",
+        "refcode": "AA 227.5"
+      },
+      {
+        "para_id": "2013.1935",
+        "lang": "ro",
+        "refcode": "FA 441.1"
+      },
+      {
+        "para_id": "1785.1901",
+        "lang": "ru",
+        "refcode": "ДА 441.1"
+      },
+      {
+        "para_id": "13874.1619",
+        "lang": "rw",
+        "refcode": "INI 272.2"
+      },
+      {
+        "para_id": "11182.1602",
+        "lang": "sk",
+        "refcode": "SA 264.2"
+      },
+      {
+        "para_id": "11904.1756",
+        "lang": "tl",
+        "refcode": "AGA 333.2"
+      },
+      {
+        "para_id": "11875.1707",
+        "lang": "uk",
+        "refcode": "ДА 301.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1951",
+    "id_prev": "127.1950",
+    "id_next": "127.1952",
+    "refcode_1": "AA",
+    "refcode_2": "441",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 441.2",
+    "refcode_long": "The Acts of the Apostles, p. 441.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The centurion decided to follow the judgment of the majority. Accordingly, &ldquo;when the south wind blew softly,&rdquo; they set sail from Fair Havens, in the hope that they would soon reach the desired harbor. &ldquo;But not long after there arose ... a tempestuous wind;&rdquo; &ldquo;the ship was caught, and could not bear up into the wind.&rdquo;",
+    "puborder": 1221,
+    "translations": [
+      {
+        "para_id": "13804.1455",
+        "lang": "bg",
+        "refcode": "Дa 171.8"
+      },
+      {
+        "para_id": "11590.1864",
+        "lang": "ce",
+        "refcode": "ABA 375.4"
+      },
+      {
+        "para_id": "11247.1781",
+        "lang": "cs",
+        "refcode": "PNL 254.3"
+      },
+      {
+        "para_id": "813.1947",
+        "lang": "de",
+        "refcode": "WA 435.1"
+      },
+      {
+        "para_id": "198.1813",
+        "lang": "es",
+        "refcode": "HAp 352.4"
+      },
+      {
+        "para_id": "158.1861",
+        "lang": "fr",
+        "refcode": "CP 391.1"
+      },
+      {
+        "para_id": "11938.1683",
+        "lang": "hu",
+        "refcode": "AT 290.3"
+      },
+      {
+        "para_id": "12410.1821",
+        "lang": "id",
+        "refcode": "KR 372.1"
+      },
+      {
+        "para_id": "882.1690",
+        "lang": "it",
+        "refcode": "UVI 276.3"
+      },
+      {
+        "para_id": "12335.1616",
+        "lang": "nb",
+        "refcode": "AV 254.2"
+      },
+      {
+        "para_id": "12008.1520",
+        "lang": "pl",
+        "refcode": "DA 244.3"
+      },
+      {
+        "para_id": "1806.1594",
+        "lang": "pt",
+        "refcode": "AA 227.6"
+      },
+      {
+        "para_id": "2013.1936",
+        "lang": "ro",
+        "refcode": "FA 441.2"
+      },
+      {
+        "para_id": "1785.1902",
+        "lang": "ru",
+        "refcode": "ДА 441.2"
+      },
+      {
+        "para_id": "13874.1620",
+        "lang": "rw",
+        "refcode": "INI 272.3"
+      },
+      {
+        "para_id": "11182.1603",
+        "lang": "sk",
+        "refcode": "SA 264.3"
+      },
+      {
+        "para_id": "11904.1757",
+        "lang": "tl",
+        "refcode": "AGA 333.3"
+      },
+      {
+        "para_id": "11875.1708",
+        "lang": "uk",
+        "refcode": "ДА 301.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1952",
+    "id_prev": "127.1951",
+    "id_next": "127.1955",
+    "refcode_1": "AA",
+    "refcode_2": "441",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 441.3",
+    "refcode_long": "The Acts of the Apostles, p. 441.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Driven by the tempest, the vessel neared the small island of Clauda, and while under its shelter the sailors made ready for the worst. The lifeboat, their only means of escape in case the ship should founder, was in tow and liable to be dashed in pieces any moment. Their first work was to hoist this boat on board. All possible precautions were then <span class=\"page-break\" data-page=\"442\"></span> taken to strengthen the ship and prepare it to withstand the tempest. The scant protection afforded by the little island did not avail them long, and soon they were again exposed to the full violence of the storm.",
+    "puborder": 1222,
+    "translations": [
+      {
+        "para_id": "13804.1458",
+        "lang": "bg",
+        "refcode": "Дa 172.1"
+      },
+      {
+        "para_id": "11590.1867",
+        "lang": "ce",
+        "refcode": "ABA 376.1"
+      },
+      {
+        "para_id": "11247.1782",
+        "lang": "cs",
+        "refcode": "PNL 254.4"
+      },
+      {
+        "para_id": "813.1948",
+        "lang": "de",
+        "refcode": "WA 435.2"
+      },
+      {
+        "para_id": "198.1815",
+        "lang": "es",
+        "refcode": "HAp 353.1"
+      },
+      {
+        "para_id": "158.1862",
+        "lang": "fr",
+        "refcode": "CP 391.2"
+      },
+      {
+        "para_id": "158.1861",
+        "lang": "fr",
+        "refcode": "CP 391.1"
+      },
+      {
+        "para_id": "11938.1684",
+        "lang": "hu",
+        "refcode": "AT 290.4"
+      },
+      {
+        "para_id": "12410.1822",
+        "lang": "id",
+        "refcode": "KR 372.2"
+      },
+      {
+        "para_id": "882.1691",
+        "lang": "it",
+        "refcode": "UVI 276.4"
+      },
+      {
+        "para_id": "12335.1617",
+        "lang": "nb",
+        "refcode": "AV 254.3"
+      },
+      {
+        "para_id": "12008.1521",
+        "lang": "pl",
+        "refcode": "DA 244.4"
+      },
+      {
+        "para_id": "1806.1595",
+        "lang": "pt",
+        "refcode": "AA 227.7"
+      },
+      {
+        "para_id": "2013.1937",
+        "lang": "ro",
+        "refcode": "FA 441.3"
+      },
+      {
+        "para_id": "1785.1903",
+        "lang": "ru",
+        "refcode": "ДА 441.3"
+      },
+      {
+        "para_id": "13874.1621",
+        "lang": "rw",
+        "refcode": "INI 272.4"
+      },
+      {
+        "para_id": "11182.1604",
+        "lang": "sk",
+        "refcode": "SA 264.4"
+      },
+      {
+        "para_id": "11904.1758",
+        "lang": "tl",
+        "refcode": "AGA 333.4"
+      },
+      {
+        "para_id": "11875.1711",
+        "lang": "uk",
+        "refcode": "ДА 302.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1955",
+    "id_prev": "127.1952",
+    "id_next": "127.1956",
+    "refcode_1": "AA",
+    "refcode_2": "442",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 442.1",
+    "refcode_long": "The Acts of the Apostles, p. 442.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "All night the tempest raged, and notwithstanding the precautions that had been taken, the vessel leaked. &ldquo;The next day they lightened the ship.&rdquo; Night came again, but the wind did not abate. The storm-beaten ship, with its shattered mast and rent sails, was tossed hither and thither by the fury of the gale. Every moment it seemed that the groaning timbers must give way as the vessel reeled and quivered under the tempest&apos;s shock. The leak increased rapidly, and passengers and crew worked continually at the pumps. There was not a moment&apos;s rest for any on board. &ldquo;The third day,&rdquo; writes Luke, &ldquo;we cast out with our own hands the tackling of the ship. And when neither sun nor stars in many days appeared, and no small tempest lay on us, all hope that we should be saved was then taken away.&rdquo;",
+    "puborder": 1223,
+    "translations": [
+      {
+        "para_id": "13804.1459",
+        "lang": "bg",
+        "refcode": "Дa 172.2"
+      },
+      {
+        "para_id": "11590.1868",
+        "lang": "ce",
+        "refcode": "ABA 376.2"
+      },
+      {
+        "para_id": "11247.1783",
+        "lang": "cs",
+        "refcode": "PNL 254.5"
+      },
+      {
+        "para_id": "813.1949",
+        "lang": "de",
+        "refcode": "WA 435.3"
+      },
+      {
+        "para_id": "198.1816",
+        "lang": "es",
+        "refcode": "HAp 353.2"
+      },
+      {
+        "para_id": "158.1862",
+        "lang": "fr",
+        "refcode": "CP 391.2"
+      },
+      {
+        "para_id": "11938.1685",
+        "lang": "hu",
+        "refcode": "AT 290.5"
+      },
+      {
+        "para_id": "12410.1823",
+        "lang": "id",
+        "refcode": "KR 372.3"
+      },
+      {
+        "para_id": "882.1692",
+        "lang": "it",
+        "refcode": "UVI 276.5"
+      },
+      {
+        "para_id": "12335.1618",
+        "lang": "nb",
+        "refcode": "AV 254.4"
+      },
+      {
+        "para_id": "12008.1522",
+        "lang": "pl",
+        "refcode": "DA 244.5"
+      },
+      {
+        "para_id": "1806.1597",
+        "lang": "pt",
+        "refcode": "AA 228"
+      },
+      {
+        "para_id": "2013.1940",
+        "lang": "ro",
+        "refcode": "FA 442.1"
+      },
+      {
+        "para_id": "1785.1906",
+        "lang": "ru",
+        "refcode": "ДА 442.1"
+      },
+      {
+        "para_id": "13874.1622",
+        "lang": "rw",
+        "refcode": "INI 272.5"
+      },
+      {
+        "para_id": "11182.1604",
+        "lang": "sk",
+        "refcode": "SA 264.4"
+      },
+      {
+        "para_id": "11904.1761",
+        "lang": "tl",
+        "refcode": "AGA 334.1"
+      },
+      {
+        "para_id": "11875.1713",
+        "lang": "uk",
+        "refcode": "ДА 302.3"
+      },
+      {
+        "para_id": "11875.1712",
+        "lang": "uk",
+        "refcode": "ДА 302.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1956",
+    "id_prev": "127.1955",
+    "id_next": "127.1958",
+    "refcode_1": "AA",
+    "refcode_2": "442",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 442.2",
+    "refcode_long": "The Acts of the Apostles, p. 442.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "For fourteen days they drifted under a sunless and starless heaven. The apostle, though himself suffering physically, had words of hope for the darkest hour, a helping hand in every emergency. He grasped by faith the arm of Infinite Power, and his heart was stayed upon God. He had no fears for himself; he knew that God would preserve him to witness at Rome for the truth of Christ. But his heart yearned with pity for the poor souls around him, sinful, degraded, and unprepared to die. As he earnestly pleaded with God to spare their lives, it was revealed to him that his prayer was granted.",
+    "puborder": 1224,
+    "translations": [
+      {
+        "para_id": "13804.1460",
+        "lang": "bg",
+        "refcode": "Дa 172.3"
+      },
+      {
+        "para_id": "11590.1869",
+        "lang": "ce",
+        "refcode": "ABA 376.3"
+      },
+      {
+        "para_id": "11247.1786",
+        "lang": "cs",
+        "refcode": "PNL 255.1"
+      },
+      {
+        "para_id": "813.1952",
+        "lang": "de",
+        "refcode": "WA 436.1"
+      },
+      {
+        "para_id": "198.1817",
+        "lang": "es",
+        "refcode": "HAp 353.3"
+      },
+      {
+        "para_id": "158.1864",
+        "lang": "fr",
+        "refcode": "CP 392.1"
+      },
+      {
+        "para_id": "11938.1688",
+        "lang": "hu",
+        "refcode": "AT 291.1"
+      },
+      {
+        "para_id": "12410.1826",
+        "lang": "id",
+        "refcode": "KR 373.1"
+      },
+      {
+        "para_id": "882.1695",
+        "lang": "it",
+        "refcode": "UVI 277.1"
+      },
+      {
+        "para_id": "12335.1619",
+        "lang": "nb",
+        "refcode": "AV 254.5"
+      },
+      {
+        "para_id": "12008.1525",
+        "lang": "pl",
+        "refcode": "DA 245.1"
+      },
+      {
+        "para_id": "1806.1599",
+        "lang": "pt",
+        "refcode": "AA 228.2"
+      },
+      {
+        "para_id": "2013.1941",
+        "lang": "ro",
+        "refcode": "FA 442.2"
+      },
+      {
+        "para_id": "1785.1907",
+        "lang": "ru",
+        "refcode": "ДА 442.2"
+      },
+      {
+        "para_id": "13874.1625",
+        "lang": "rw",
+        "refcode": "INI 273.1"
+      },
+      {
+        "para_id": "11182.1607",
+        "lang": "sk",
+        "refcode": "SA 265.1"
+      },
+      {
+        "para_id": "11904.1762",
+        "lang": "tl",
+        "refcode": "AGA 334.2"
+      },
+      {
+        "para_id": "11875.1714",
+        "lang": "uk",
+        "refcode": "ДА 302.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1958",
+    "id_prev": "127.1956",
+    "id_next": "127.1959",
+    "refcode_1": "AA",
+    "refcode_2": "443",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 443.1",
+    "refcode_long": "The Acts of the Apostles, p. 443.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Taking advantage of a lull in the tempest, Paul stood forth on the deck and, lifting up his voice, said: &ldquo;Sirs, ye should have hearkened unto me, and not have loosed from Crete, and to have gained this harm and loss. And now I exhort you to be of good cheer: for there shall be no loss of any man&apos;s life among you, but of the ship. For there stood by me this night the angel of God, whose I am, and whom I serve, saying, Fear not, Paul; thou must be brought before Caesar: and, lo, God hath given thee all them that sail with thee. Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me. Howbeit we must be cast upon a certain island.&rdquo;",
+    "puborder": 1225,
+    "translations": [
+      {
+        "para_id": "13804.1461",
+        "lang": "bg",
+        "refcode": "Дa 172.4"
+      },
+      {
+        "para_id": "11590.1872",
+        "lang": "ce",
+        "refcode": "ABA 377.1"
+      },
+      {
+        "para_id": "11247.1787",
+        "lang": "cs",
+        "refcode": "PNL 255.2"
+      },
+      {
+        "para_id": "813.1953",
+        "lang": "de",
+        "refcode": "WA 436.2"
+      },
+      {
+        "para_id": "198.1820",
+        "lang": "es",
+        "refcode": "HAp 354.1"
+      },
+      {
+        "para_id": "158.1865",
+        "lang": "fr",
+        "refcode": "CP 392.2"
+      },
+      {
+        "para_id": "11938.1689",
+        "lang": "hu",
+        "refcode": "AT 291.2"
+      },
+      {
+        "para_id": "12410.1827",
+        "lang": "id",
+        "refcode": "KR 373.2"
+      },
+      {
+        "para_id": "882.1696",
+        "lang": "it",
+        "refcode": "UVI 277.2"
+      },
+      {
+        "para_id": "12335.1622",
+        "lang": "nb",
+        "refcode": "AV 255.1"
+      },
+      {
+        "para_id": "12008.1526",
+        "lang": "pl",
+        "refcode": "DA 245.2"
+      },
+      {
+        "para_id": "1806.1600",
+        "lang": "pt",
+        "refcode": "AA 228.3"
+      },
+      {
+        "para_id": "2013.1943",
+        "lang": "ro",
+        "refcode": "FA 443.1"
+      },
+      {
+        "para_id": "1785.1909",
+        "lang": "ru",
+        "refcode": "ДА 443.1"
+      },
+      {
+        "para_id": "13874.1626",
+        "lang": "rw",
+        "refcode": "INI 273.2"
+      },
+      {
+        "para_id": "11182.1608",
+        "lang": "sk",
+        "refcode": "SA 265.2"
+      },
+      {
+        "para_id": "11904.1763",
+        "lang": "tl",
+        "refcode": "AGA 334.3"
+      },
+      {
+        "para_id": "11875.1715",
+        "lang": "uk",
+        "refcode": "ДА 302.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1959",
+    "id_prev": "127.1958",
+    "id_next": "127.1960",
+    "refcode_1": "AA",
+    "refcode_2": "443",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 443.2",
+    "refcode_long": "The Acts of the Apostles, p. 443.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "At these words, hope revived. Passengers and crew roused from their apathy. There was much yet to be done, and every effort within their power must be put forth to avert destruction.",
+    "puborder": 1226,
+    "translations": [
+      {
+        "para_id": "13804.1462",
+        "lang": "bg",
+        "refcode": "Дa 172.5"
+      },
+      {
+        "para_id": "11590.1873",
+        "lang": "ce",
+        "refcode": "ABA 377.2"
+      },
+      {
+        "para_id": "11247.1790",
+        "lang": "cs",
+        "refcode": "PNL 256.1"
+      },
+      {
+        "para_id": "813.1954",
+        "lang": "de",
+        "refcode": "WA 436.3"
+      },
+      {
+        "para_id": "198.1821",
+        "lang": "es",
+        "refcode": "HAp 354.2"
+      },
+      {
+        "para_id": "158.1866",
+        "lang": "fr",
+        "refcode": "CP 392.3"
+      },
+      {
+        "para_id": "11938.1690",
+        "lang": "hu",
+        "refcode": "AT 291.3"
+      },
+      {
+        "para_id": "12410.1828",
+        "lang": "id",
+        "refcode": "KR 373.3"
+      },
+      {
+        "para_id": "882.1697",
+        "lang": "it",
+        "refcode": "UVI 277.3"
+      },
+      {
+        "para_id": "12335.1623",
+        "lang": "nb",
+        "refcode": "AV 255.2"
+      },
+      {
+        "para_id": "12008.1527",
+        "lang": "pl",
+        "refcode": "DA 245.3"
+      },
+      {
+        "para_id": "1806.1601",
+        "lang": "pt",
+        "refcode": "AA 228.4"
+      },
+      {
+        "para_id": "2013.1944",
+        "lang": "ro",
+        "refcode": "FA 443.2"
+      },
+      {
+        "para_id": "1785.1910",
+        "lang": "ru",
+        "refcode": "ДА 443.2"
+      },
+      {
+        "para_id": "13874.1627",
+        "lang": "rw",
+        "refcode": "INI 273.3"
+      },
+      {
+        "para_id": "11182.1609",
+        "lang": "sk",
+        "refcode": "SA 265.3"
+      },
+      {
+        "para_id": "11904.1766",
+        "lang": "tl",
+        "refcode": "AGA 335.1"
+      },
+      {
+        "para_id": "11875.1718",
+        "lang": "uk",
+        "refcode": "ДА 303.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1960",
+    "id_prev": "127.1959",
+    "id_next": "127.1961",
+    "refcode_1": "AA",
+    "refcode_2": "443",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 443.3",
+    "refcode_long": "The Acts of the Apostles, p. 443.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It was on the fourteenth night of tossing on the black, heaving billows, that &ldquo;about midnight&rdquo; the sailors, hearing the sound of breakers, &ldquo;deemed that they drew near to some country; and sounded, and found it twenty fathoms: and when they had gone a little further, they sounded again, and found it fifteen fathoms. Then fearing,&rdquo; Luke writes, &ldquo;lest we should have fallen upon rocks, they cast four anchors out of the stern, and wished for the day.&rdquo;",
+    "puborder": 1227,
+    "translations": [
+      {
+        "para_id": "13804.1463",
+        "lang": "bg",
+        "refcode": "Дa 172.6"
+      },
+      {
+        "para_id": "11590.1874",
+        "lang": "ce",
+        "refcode": "ABA 377.3"
+      },
+      {
+        "para_id": "11247.1791",
+        "lang": "cs",
+        "refcode": "PNL 256.2"
+      },
+      {
+        "para_id": "813.1957",
+        "lang": "de",
+        "refcode": "WA 437.1"
+      },
+      {
+        "para_id": "198.1822",
+        "lang": "es",
+        "refcode": "HAp 354.3"
+      },
+      {
+        "para_id": "158.1867",
+        "lang": "fr",
+        "refcode": "CP 392.4"
+      },
+      {
+        "para_id": "11938.1691",
+        "lang": "hu",
+        "refcode": "AT 291.4"
+      },
+      {
+        "para_id": "12410.1831",
+        "lang": "id",
+        "refcode": "KR 374.1"
+      },
+      {
+        "para_id": "882.1698",
+        "lang": "it",
+        "refcode": "UVI 277.4"
+      },
+      {
+        "para_id": "12335.1624",
+        "lang": "nb",
+        "refcode": "AV 255.3"
+      },
+      {
+        "para_id": "12008.1528",
+        "lang": "pl",
+        "refcode": "DA 245.4"
+      },
+      {
+        "para_id": "1806.1602",
+        "lang": "pt",
+        "refcode": "AA 228.5"
+      },
+      {
+        "para_id": "2013.1945",
+        "lang": "ro",
+        "refcode": "FA 443.3"
+      },
+      {
+        "para_id": "1785.1911",
+        "lang": "ru",
+        "refcode": "ДА 443.3"
+      },
+      {
+        "para_id": "13874.1628",
+        "lang": "rw",
+        "refcode": "INI 273.4"
+      },
+      {
+        "para_id": "11182.1610",
+        "lang": "sk",
+        "refcode": "SA 265.4"
+      },
+      {
+        "para_id": "11904.1767",
+        "lang": "tl",
+        "refcode": "AGA 335.2"
+      },
+      {
+        "para_id": "11875.1719",
+        "lang": "uk",
+        "refcode": "ДА 303.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1961",
+    "id_prev": "127.1960",
+    "id_next": "127.1964",
+    "refcode_1": "AA",
+    "refcode_2": "443",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 443.4",
+    "refcode_long": "The Acts of the Apostles, p. 443.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "At break of day the outlines of the stormy coast were dimly visible, but no familiar landmarks could be seen. So gloomy was the outlook that the heathen sailors, losing all courage, &ldquo;were about to flee out of the ship,&rdquo; and feigning to make preparations for casting &ldquo;anchors out of the <span class=\"page-break\" data-page=\"444\"></span> foreship,&rdquo; they had already let down the lifeboat, when Paul, perceiving their base design, said to the centurion and the soldiers, &ldquo;Except these abide in the ship, ye cannot be saved.&rdquo; The soldiers immediately &ldquo;cut off the ropes of the boat, and let her fall off&rdquo; into the sea.",
+    "puborder": 1228,
+    "translations": [
+      {
+        "para_id": "13804.1464",
+        "lang": "bg",
+        "refcode": "Дa 172.7"
+      },
+      {
+        "para_id": "11590.1875",
+        "lang": "ce",
+        "refcode": "ABA 377.4"
+      },
+      {
+        "para_id": "11247.1793",
+        "lang": "cs",
+        "refcode": "PNL 256.3"
+      },
+      {
+        "para_id": "813.1958",
+        "lang": "de",
+        "refcode": "WA 437.2"
+      },
+      {
+        "para_id": "198.1823",
+        "lang": "es",
+        "refcode": "HAp 354.4"
+      },
+      {
+        "para_id": "158.1869",
+        "lang": "fr",
+        "refcode": "CP 393.1"
+      },
+      {
+        "para_id": "11938.1694",
+        "lang": "hu",
+        "refcode": "AT 292.1"
+      },
+      {
+        "para_id": "12410.1832",
+        "lang": "id",
+        "refcode": "KR 374.2"
+      },
+      {
+        "para_id": "882.1699",
+        "lang": "it",
+        "refcode": "UVI 277.5"
+      },
+      {
+        "para_id": "12335.1625",
+        "lang": "nb",
+        "refcode": "AV 255.4"
+      },
+      {
+        "para_id": "12008.1529",
+        "lang": "pl",
+        "refcode": "DA 245.5"
+      },
+      {
+        "para_id": "1806.1603",
+        "lang": "pt",
+        "refcode": "AA 228.6"
+      },
+      {
+        "para_id": "2013.1946",
+        "lang": "ro",
+        "refcode": "FA 443.4"
+      },
+      {
+        "para_id": "1785.1912",
+        "lang": "ru",
+        "refcode": "ДА 443.4"
+      },
+      {
+        "para_id": "13874.1631",
+        "lang": "rw",
+        "refcode": "INI 274.1"
+      },
+      {
+        "para_id": "11182.1611",
+        "lang": "sk",
+        "refcode": "SA 265.5"
+      },
+      {
+        "para_id": "11904.1768",
+        "lang": "tl",
+        "refcode": "AGA 335.3"
+      },
+      {
+        "para_id": "11875.1720",
+        "lang": "uk",
+        "refcode": "ДА 303.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1964",
+    "id_prev": "127.1961",
+    "id_next": "127.1965",
+    "refcode_1": "AA",
+    "refcode_2": "444",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 444.1",
+    "refcode_long": "The Acts of the Apostles, p. 444.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The most critical hour was still before them. Again the apostle spoke words of encouragement, and entreated all, both sailors and passengers, to take some food, saying, &ldquo;This day is the fourteenth day that ye have tarried and continued fasting, having taken nothing. Wherefore I pray you to take some meat: for this is for your health: for there shall not a hair fall from the head of any of you.&rdquo;",
+    "puborder": 1229,
+    "translations": [
+      {
+        "para_id": "13804.1467",
+        "lang": "bg",
+        "refcode": "Дa 173.1"
+      },
+      {
+        "para_id": "11590.1878",
+        "lang": "ce",
+        "refcode": "ABA 378.1"
+      },
+      {
+        "para_id": "11247.1794",
+        "lang": "cs",
+        "refcode": "PNL 256.4"
+      },
+      {
+        "para_id": "813.1959",
+        "lang": "de",
+        "refcode": "WA 437.3"
+      },
+      {
+        "para_id": "198.1824",
+        "lang": "es",
+        "refcode": "HAp 354.5"
+      },
+      {
+        "para_id": "158.1870",
+        "lang": "fr",
+        "refcode": "CP 393.2"
+      },
+      {
+        "para_id": "11938.1695",
+        "lang": "hu",
+        "refcode": "AT 292.2"
+      },
+      {
+        "para_id": "12410.1833",
+        "lang": "id",
+        "refcode": "KR 374.3"
+      },
+      {
+        "para_id": "882.1702",
+        "lang": "it",
+        "refcode": "UVI 278.1"
+      },
+      {
+        "para_id": "12335.1626",
+        "lang": "nb",
+        "refcode": "AV 255.5"
+      },
+      {
+        "para_id": "12008.1530",
+        "lang": "pl",
+        "refcode": "DA 245.6"
+      },
+      {
+        "para_id": "1806.1605",
+        "lang": "pt",
+        "refcode": "AA 229.1"
+      },
+      {
+        "para_id": "2013.1949",
+        "lang": "ro",
+        "refcode": "FA 444.1"
+      },
+      {
+        "para_id": "1785.1915",
+        "lang": "ru",
+        "refcode": "ДА 444.2"
+      },
+      {
+        "para_id": "13874.1632",
+        "lang": "rw",
+        "refcode": "INI 274.2"
+      },
+      {
+        "para_id": "11182.1614",
+        "lang": "sk",
+        "refcode": "SA 266.1"
+      },
+      {
+        "para_id": "11904.1769",
+        "lang": "tl",
+        "refcode": "AGA 335.4"
+      },
+      {
+        "para_id": "11875.1721",
+        "lang": "uk",
+        "refcode": "ДА 303.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1965",
+    "id_prev": "127.1964",
+    "id_next": "127.1966",
+    "refcode_1": "AA",
+    "refcode_2": "444",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 444.2",
+    "refcode_long": "The Acts of the Apostles, p. 444.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;When he had thus spoken, he took bread, and gave thanks to God in presence of them all: and when he had broken it, he began to eat.&rdquo; Then that worn and discouraged company of two hundred and seventy-five souls, who but for Paul would have become desperate, joined with the apostle in partaking of food. &ldquo;And when they had eaten enough, they lightened the ship, and cast out the wheat into the sea.&rdquo;",
+    "puborder": 1230,
+    "translations": [
+      {
+        "para_id": "13804.1468",
+        "lang": "bg",
+        "refcode": "Дa 173.2"
+      },
+      {
+        "para_id": "11590.1879",
+        "lang": "ce",
+        "refcode": "ABA 378.2"
+      },
+      {
+        "para_id": "11247.1795",
+        "lang": "cs",
+        "refcode": "PNL 256.5"
+      },
+      {
+        "para_id": "813.1960",
+        "lang": "de",
+        "refcode": "WA 437.4"
+      },
+      {
+        "para_id": "198.1827",
+        "lang": "es",
+        "refcode": "HAp 355.1"
+      },
+      {
+        "para_id": "158.1871",
+        "lang": "fr",
+        "refcode": "CP 393.3"
+      },
+      {
+        "para_id": "11938.1696",
+        "lang": "hu",
+        "refcode": "AT 292.3"
+      },
+      {
+        "para_id": "12410.1834",
+        "lang": "id",
+        "refcode": "KR 374.4"
+      },
+      {
+        "para_id": "882.1703",
+        "lang": "it",
+        "refcode": "UVI 278.2"
+      },
+      {
+        "para_id": "12335.1627",
+        "lang": "nb",
+        "refcode": "AV 255.6"
+      },
+      {
+        "para_id": "12008.1533",
+        "lang": "pl",
+        "refcode": "DA 246.1"
+      },
+      {
+        "para_id": "1806.1607",
+        "lang": "pt",
+        "refcode": "AA 229.3"
+      },
+      {
+        "para_id": "2013.1950",
+        "lang": "ro",
+        "refcode": "FA 444.2"
+      },
+      {
+        "para_id": "1785.1916",
+        "lang": "ru",
+        "refcode": "ДА 444.3"
+      },
+      {
+        "para_id": "13874.1633",
+        "lang": "rw",
+        "refcode": "INI 274.3"
+      },
+      {
+        "para_id": "11182.1615",
+        "lang": "sk",
+        "refcode": "SA 266.2"
+      },
+      {
+        "para_id": "11904.1770",
+        "lang": "tl",
+        "refcode": "AGA 335.5"
+      },
+      {
+        "para_id": "11875.1722",
+        "lang": "uk",
+        "refcode": "ДА 303.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1966",
+    "id_prev": "127.1965",
+    "id_next": "127.1969",
+    "refcode_1": "AA",
+    "refcode_2": "444",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 444.3",
+    "refcode_long": "The Acts of the Apostles, p. 444.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Daylight had now fully come, but they could see nothing by which to determine their whereabouts. However, &ldquo;they discovered a certain creek with a shore, into the which they were minded, if it were possible, to thrust in the ship. And when they had taken up the anchors, they committed themselves unto the sea, and loosed the rudder bands, and hoisted up the mainsail to the wind, and made toward shore. And falling into a place where two seas met, they ran the ship aground; and the fore part stuck fast, and remained unmovable, <span class=\"page-break\" data-page=\"445\"></span> but the hinder part was broken with the violence of the waves.&rdquo;",
+    "puborder": 1231,
+    "translations": [
+      {
+        "para_id": "13804.1469",
+        "lang": "bg",
+        "refcode": "Дa 173.3"
+      },
+      {
+        "para_id": "11590.1880",
+        "lang": "ce",
+        "refcode": "ABA 378.3"
+      },
+      {
+        "para_id": "11247.1796",
+        "lang": "cs",
+        "refcode": "PNL 256.6"
+      },
+      {
+        "para_id": "813.1962",
+        "lang": "de",
+        "refcode": "WA 438.1"
+      },
+      {
+        "para_id": "198.1828",
+        "lang": "es",
+        "refcode": "HAp 355.2"
+      },
+      {
+        "para_id": "158.1872",
+        "lang": "fr",
+        "refcode": "CP 393.4"
+      },
+      {
+        "para_id": "11938.1697",
+        "lang": "hu",
+        "refcode": "AT 292.4"
+      },
+      {
+        "para_id": "12410.1837",
+        "lang": "id",
+        "refcode": "KR 375.1"
+      },
+      {
+        "para_id": "882.1704",
+        "lang": "it",
+        "refcode": "UVI 278.3"
+      },
+      {
+        "para_id": "12335.1629",
+        "lang": "nb",
+        "refcode": "AV 256.1"
+      },
+      {
+        "para_id": "12008.1534",
+        "lang": "pl",
+        "refcode": "DA 246.2"
+      },
+      {
+        "para_id": "1806.1608",
+        "lang": "pt",
+        "refcode": "AA 229.4"
+      },
+      {
+        "para_id": "2013.1951",
+        "lang": "ro",
+        "refcode": "FA 444.3"
+      },
+      {
+        "para_id": "1785.1917",
+        "lang": "ru",
+        "refcode": "ДА 444.4"
+      },
+      {
+        "para_id": "13874.1634",
+        "lang": "rw",
+        "refcode": "INI 274.4"
+      },
+      {
+        "para_id": "11182.1616",
+        "lang": "sk",
+        "refcode": "SA 266.3"
+      },
+      {
+        "para_id": "11904.1773",
+        "lang": "tl",
+        "refcode": "AGA 336.1"
+      },
+      {
+        "para_id": "11875.1724",
+        "lang": "uk",
+        "refcode": "ДА 304.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1969",
+    "id_prev": "127.1966",
+    "id_next": "127.1970",
+    "refcode_1": "AA",
+    "refcode_2": "445",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 445.1",
+    "refcode_long": "The Acts of the Apostles, p. 445.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul and the other prisoners were now threatened by a fate more terrible than shipwreck. The soldiers saw that while endeavoring to reach land it would be impossible for them to keep their prisoners in charge. Every man would have all he could do to save himself. Yet if any of the prisoners were missing, the lives of those who were responsible for them would be forfeited. Hence the soldiers desired to put all the prisoners to death. The Roman law sanctioned this cruel policy, and the plan would have been executed at once, but for him to whom all alike were under deep obligation. Julius the centurion knew that Paul had been instrumental in saving the lives of all on board, and, moreover, convinced that the Lord was with him, he feared to do him harm. He therefore &ldquo;commanded that they which could swim should cast themselves first into the sea, and get to land: and the rest, some on boards, and some on broken pieces of the ship. And so it came to pass, that they escaped all safe to land.&rdquo; When the roll was called, not one was missing.",
+    "puborder": 1232,
+    "translations": [
+      {
+        "para_id": "13804.1470",
+        "lang": "bg",
+        "refcode": "Дa 173.4"
+      },
+      {
+        "para_id": "11590.1880",
+        "lang": "ce",
+        "refcode": "ABA 378.3"
+      },
+      {
+        "para_id": "11247.1797",
+        "lang": "cs",
+        "refcode": "PNL 256.7"
+      },
+      {
+        "para_id": "813.1963",
+        "lang": "de",
+        "refcode": "WA 438.2"
+      },
+      {
+        "para_id": "198.1829",
+        "lang": "es",
+        "refcode": "HAp 355.3"
+      },
+      {
+        "para_id": "158.1874",
+        "lang": "fr",
+        "refcode": "CP 394.1"
+      },
+      {
+        "para_id": "11938.1698",
+        "lang": "hu",
+        "refcode": "AT 292.5"
+      },
+      {
+        "para_id": "12410.1838",
+        "lang": "id",
+        "refcode": "KR 375.2"
+      },
+      {
+        "para_id": "882.1705",
+        "lang": "it",
+        "refcode": "UVI 278.4"
+      },
+      {
+        "para_id": "12335.1630",
+        "lang": "nb",
+        "refcode": "AV 256.2"
+      },
+      {
+        "para_id": "12008.1535",
+        "lang": "pl",
+        "refcode": "DA 246.3"
+      },
+      {
+        "para_id": "1806.1609",
+        "lang": "pt",
+        "refcode": "AA 229.5"
+      },
+      {
+        "para_id": "2013.1954",
+        "lang": "ro",
+        "refcode": "FA 445.1"
+      },
+      {
+        "para_id": "1785.1919",
+        "lang": "ru",
+        "refcode": "ДА 445.1"
+      },
+      {
+        "para_id": "13874.1635",
+        "lang": "rw",
+        "refcode": "INI 274.5"
+      },
+      {
+        "para_id": "11182.1617",
+        "lang": "sk",
+        "refcode": "SA 266.4"
+      },
+      {
+        "para_id": "11904.1774",
+        "lang": "tl",
+        "refcode": "AGA 336.2"
+      },
+      {
+        "para_id": "11875.1725",
+        "lang": "uk",
+        "refcode": "ДА 304.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1970",
+    "id_prev": "127.1969",
+    "id_next": "127.1973",
+    "refcode_1": "AA",
+    "refcode_2": "445",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 445.2",
+    "refcode_long": "The Acts of the Apostles, p. 445.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The shipwrecked crew were kindly received by the barbarous people of Melita. &ldquo;They kindled a fire,&rdquo; Luke writes, &ldquo;and received us everyone, because of the present rain, and because of the cold.&rdquo; Paul was among those who were active in ministering to the comfort of others. Having gathered &ldquo;a bundle of sticks,&rdquo; he &ldquo;laid them on the fire,&rdquo; when a viper came forth &ldquo;out of the heat, and fastened on his hand.&rdquo; The bystanders were horror-stricken; and seeing <span class=\"page-break\" data-page=\"446\"></span> by his chain that Paul was a prisoner, they said to one another, &ldquo;No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.&rdquo; But Paul shook off the creature into the fire and felt no harm. Knowing its venomous nature, the people looked for him to fall down at any moment in terrible agony. &ldquo;But after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god.&rdquo;",
+    "puborder": 1233,
+    "translations": [
+      {
+        "para_id": "13804.1471",
+        "lang": "bg",
+        "refcode": "Дa 173.5"
+      },
+      {
+        "para_id": "11590.1883",
+        "lang": "ce",
+        "refcode": "ABA 379.1"
+      },
+      {
+        "para_id": "11247.1801",
+        "lang": "cs",
+        "refcode": "PNL 257.1"
+      },
+      {
+        "para_id": "813.1964",
+        "lang": "de",
+        "refcode": "WA 438.3"
+      },
+      {
+        "para_id": "198.1832",
+        "lang": "es",
+        "refcode": "HAp 356.1"
+      },
+      {
+        "para_id": "158.1875",
+        "lang": "fr",
+        "refcode": "CP 394.2"
+      },
+      {
+        "para_id": "11938.1701",
+        "lang": "hu",
+        "refcode": "AT 293.1"
+      },
+      {
+        "para_id": "12410.1839",
+        "lang": "id",
+        "refcode": "KR 375.3"
+      },
+      {
+        "para_id": "882.1708",
+        "lang": "it",
+        "refcode": "UVI 279.1"
+      },
+      {
+        "para_id": "12335.1631",
+        "lang": "nb",
+        "refcode": "AV 256.3"
+      },
+      {
+        "para_id": "12008.1536",
+        "lang": "pl",
+        "refcode": "DA 246.4"
+      },
+      {
+        "para_id": "1806.1610",
+        "lang": "pt",
+        "refcode": "AA 229.6"
+      },
+      {
+        "para_id": "2013.1955",
+        "lang": "ro",
+        "refcode": "FA 445.2"
+      },
+      {
+        "para_id": "1785.1920",
+        "lang": "ru",
+        "refcode": "ДА 445.2"
+      },
+      {
+        "para_id": "13874.1638",
+        "lang": "rw",
+        "refcode": "INI 275.1"
+      },
+      {
+        "para_id": "11182.1618",
+        "lang": "sk",
+        "refcode": "SA 266.5"
+      },
+      {
+        "para_id": "11904.1775",
+        "lang": "tl",
+        "refcode": "AGA 336.3"
+      },
+      {
+        "para_id": "11875.1726",
+        "lang": "uk",
+        "refcode": "ДА 304.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1973",
+    "id_prev": "127.1970",
+    "id_next": "127.1974",
+    "refcode_1": "AA",
+    "refcode_2": "446",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 446.1",
+    "refcode_long": "The Acts of the Apostles, p. 446.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "During the three months that the ship&apos;s company remained at Melita, Paul and his fellow laborers improved many opportunities to preach the gospel. In a remarkable manner the Lord wrought through them. For Paul&apos;s sake the entire shipwrecked company were treated with great kindness; all their wants were supplied, and upon leaving Melita they were liberally provided with everything needful for their voyage. The chief incidents of their stay are thus briefly related by Luke:",
+    "puborder": 1234,
+    "translations": [
+      {
+        "para_id": "13804.1472",
+        "lang": "bg",
+        "refcode": "Дa 173.6"
+      },
+      {
+        "para_id": "11590.1884",
+        "lang": "ce",
+        "refcode": "ABA 379.2"
+      },
+      {
+        "para_id": "11247.1802",
+        "lang": "cs",
+        "refcode": "PNL 257.2"
+      },
+      {
+        "para_id": "813.1967",
+        "lang": "de",
+        "refcode": "WA 439.1"
+      },
+      {
+        "para_id": "198.1833",
+        "lang": "es",
+        "refcode": "HAp 356.2"
+      },
+      {
+        "para_id": "158.1876",
+        "lang": "fr",
+        "refcode": "CP 394.3"
+      },
+      {
+        "para_id": "11938.1702",
+        "lang": "hu",
+        "refcode": "AT 293.2"
+      },
+      {
+        "para_id": "12410.1842",
+        "lang": "id",
+        "refcode": "KR 376.1"
+      },
+      {
+        "para_id": "882.1709",
+        "lang": "it",
+        "refcode": "UVI 279.2"
+      },
+      {
+        "para_id": "12335.1632",
+        "lang": "nb",
+        "refcode": "AV 256.4"
+      },
+      {
+        "para_id": "12008.1539",
+        "lang": "pl",
+        "refcode": "DA 247.1"
+      },
+      {
+        "para_id": "1806.1610",
+        "lang": "pt",
+        "refcode": "AA 229.6"
+      },
+      {
+        "para_id": "2013.1958",
+        "lang": "ro",
+        "refcode": "FA 446.1"
+      },
+      {
+        "para_id": "1785.1923",
+        "lang": "ru",
+        "refcode": "ДА 446.1"
+      },
+      {
+        "para_id": "13874.1639",
+        "lang": "rw",
+        "refcode": "INI 275.2"
+      },
+      {
+        "para_id": "11182.1621",
+        "lang": "sk",
+        "refcode": "SA 267.1"
+      },
+      {
+        "para_id": "11904.1775",
+        "lang": "tl",
+        "refcode": "AGA 336.3"
+      },
+      {
+        "para_id": "11875.1728",
+        "lang": "uk",
+        "refcode": "ДА 305.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1974",
+    "id_prev": "127.1973",
+    "id_next": "127.1976",
+    "refcode_1": "AA",
+    "refcode_2": "446",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 446.2",
+    "refcode_long": "The Acts of the Apostles, p. 446.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;In the same quarters were possessions of the chief man of the island, whose name was Publius; who received us, and lodged us three days courteously. And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to whom Paul entered in, and prayed, and laid his hands on him, and healed him. So when this was done, others also, which had diseases in the island, came, and were healed: who also honored us with many honors; and when we departed, they laded us with such things as were necessary.&rdquo;",
+    "puborder": 1235,
+    "translations": [
+      {
+        "para_id": "13804.1472",
+        "lang": "bg",
+        "refcode": "Дa 173.6"
+      },
+      {
+        "para_id": "11590.1889",
+        "lang": "ce",
+        "refcode": "ABA 381"
+      },
+      {
+        "para_id": "11247.1803",
+        "lang": "cs",
+        "refcode": "PNL 257.3"
+      },
+      {
+        "para_id": "813.1968",
+        "lang": "de",
+        "refcode": "WA 439.2"
+      },
+      {
+        "para_id": "198.1834",
+        "lang": "es",
+        "refcode": "HAp 356.3"
+      },
+      {
+        "para_id": "158.1879",
+        "lang": "fr",
+        "refcode": "CP 395.1"
+      },
+      {
+        "para_id": "11938.1703",
+        "lang": "hu",
+        "refcode": "AT 293.3"
+      },
+      {
+        "para_id": "12410.1843",
+        "lang": "id",
+        "refcode": "KR 376.2"
+      },
+      {
+        "para_id": "882.1710",
+        "lang": "it",
+        "refcode": "UVI 279.3"
+      },
+      {
+        "para_id": "12335.1634",
+        "lang": "nb",
+        "refcode": "AV 257.1"
+      },
+      {
+        "para_id": "12008.1540",
+        "lang": "pl",
+        "refcode": "DA 247.2"
+      },
+      {
+        "para_id": "1806.1613",
+        "lang": "pt",
+        "refcode": "AA 230.1"
+      },
+      {
+        "para_id": "2013.1959",
+        "lang": "ro",
+        "refcode": "FA 446.2"
+      },
+      {
+        "para_id": "1785.1924",
+        "lang": "ru",
+        "refcode": "ДА 446.2"
+      },
+      {
+        "para_id": "13874.1640",
+        "lang": "rw",
+        "refcode": "INI 275.3"
+      },
+      {
+        "para_id": "11182.1622",
+        "lang": "sk",
+        "refcode": "SA 267.2"
+      },
+      {
+        "para_id": "11904.1778",
+        "lang": "tl",
+        "refcode": "AGA 337.1"
+      },
+      {
+        "para_id": "11875.1729",
+        "lang": "uk",
+        "refcode": "ДА 305.2"
+      }
+    ]
+  }
+]

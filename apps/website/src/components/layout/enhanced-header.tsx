@@ -124,7 +124,7 @@ export function EnhancedHeader() {
                 <BookOpenIcon className="h-5 w-5 text-white" />
               </div>
               <span className="text-xl font-serif font-bold text-gray-900">
-                EGW Writings
+                EGH Research
               </span>
             </Link>
           </div>

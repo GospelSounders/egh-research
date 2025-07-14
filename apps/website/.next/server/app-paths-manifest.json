@@ -1,6 +1,3 @@
 {
-  "/books/page": "app/books/page.js",
-  "/api/egw/books/categories/route": "app/api/egw/books/categories/route.js",
-  "/api/egw/books/route": "app/api/egw/books/route.js",
-  "/api/books/[bookId]/content-db/route": "app/api/books/[bookId]/content-db/route.js"
+  "/books/page": "app/books/page.js"
 }

@@ -1,0 +1,4126 @@
+[
+  {
+    "para_id": "127.824",
+    "id_prev": "127.822",
+    "id_next": "127.2667",
+    "refcode_1": "AA",
+    "refcode_2": "188",
+    "refcode_3": "",
+    "refcode_4": "19",
+    "refcode_short": "AA 188",
+    "refcode_long": "The Acts of the Apostles, p. 188 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 19&mdash;Jew and Gentile",
+    "puborder": 515,
+    "translations": [
+      {
+        "para_id": "13804.617",
+        "lang": "bg",
+        "refcode": "Дa 72"
+      },
+      {
+        "para_id": "11590.786",
+        "lang": "ce",
+        "refcode": "ABA 161"
+      },
+      {
+        "para_id": "11247.746",
+        "lang": "cs",
+        "refcode": "PNL 109"
+      },
+      {
+        "para_id": "813.813",
+        "lang": "de",
+        "refcode": "WA 187"
+      },
+      {
+        "para_id": "198.781",
+        "lang": "es",
+        "refcode": "HAp 153"
+      },
+      {
+        "para_id": "158.768",
+        "lang": "fr",
+        "refcode": "CP 167"
+      },
+      {
+        "para_id": "11938.713",
+        "lang": "hu",
+        "refcode": "AT 125"
+      },
+      {
+        "para_id": "12410.763",
+        "lang": "id",
+        "refcode": "KR 159"
+      },
+      {
+        "para_id": "882.712",
+        "lang": "it",
+        "refcode": "UVI 118"
+      },
+      {
+        "para_id": "11660.923",
+        "lang": "ja",
+        "refcode": "AAJ 203"
+      },
+      {
+        "para_id": "12335.684",
+        "lang": "nb",
+        "refcode": "AV 110"
+      },
+      {
+        "para_id": "12008.644",
+        "lang": "pl",
+        "refcode": "DA 104"
+      },
+      {
+        "para_id": "1806.685",
+        "lang": "pt",
+        "refcode": "AA 102"
+      },
+      {
+        "para_id": "2013.812",
+        "lang": "ro",
+        "refcode": "FA 188"
+      },
+      {
+        "para_id": "1785.790",
+        "lang": "ru",
+        "refcode": "ДА 188"
+      },
+      {
+        "para_id": "13874.689",
+        "lang": "rw",
+        "refcode": "INI 119"
+      },
+      {
+        "para_id": "11182.672",
+        "lang": "sk",
+        "refcode": "SA 115"
+      },
+      {
+        "para_id": "11904.738",
+        "lang": "tl",
+        "refcode": "AGA 143"
+      },
+      {
+        "para_id": "11875.710",
+        "lang": "uk",
+        "refcode": "ДА 129"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2667",
+    "id_prev": "127.824",
+    "id_next": "127.825",
+    "refcode_1": "AA",
+    "refcode_2": "188",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "bibletext",
+    "content": "<span class=\"non-egw-comment\">This chapter is based on <span class=\"egwlink egwlink_bible\" title=\"Acts 15:1\" data-link=\"1965.55966\">Acts 15:1-35</span>.</span>",
+    "puborder": 516,
+    "translations": [
+      {
+        "para_id": "813.814",
+        "lang": "de",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "198.781",
+        "lang": "es",
+        "refcode": "HAp 153"
+      },
+      {
+        "para_id": "158.769",
+        "lang": "fr",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11938.714",
+        "lang": "hu",
+        "refcode": "AT 125"
+      },
+      {
+        "para_id": "11660.924",
+        "lang": "ja",
+        "refcode": "AAJ 203.1"
+      },
+      {
+        "para_id": "1806.2154",
+        "lang": "pt",
+        "refcode": "AA 308.5"
+      },
+      {
+        "para_id": "2013.2652",
+        "lang": "ro",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "1785.2606",
+        "lang": "ru",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "13874.690",
+        "lang": "rw",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11875.711",
+        "lang": "uk",
+        "refcode": "The Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "para_id": "127.825",
+    "id_prev": "127.2667",
+    "id_next": "127.826",
+    "refcode_1": "AA",
+    "refcode_2": "188",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 188.1",
+    "refcode_long": "The Acts of the Apostles, p. 188.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "On reaching Antioch in Syria, from which place they had been sent forth on their mission, Paul and Barnabas took advantage of an early opportunity to assemble the believers and rehearse &ldquo;all that God had done with them, and how He had opened the door of faith unto the Gentiles.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 14:27\" data-link=\"1965.55961\">Acts 14:27</span>. The church at Antioch was a large and growing one. A center of missionary activity, it was one of the most important of the groups of Christian believers. Its membership was made up of many classes of people from among both Jews and Gentiles.",
+    "puborder": 517,
+    "translations": [
+      {
+        "para_id": "13804.618",
+        "lang": "bg",
+        "refcode": "Дa 72.4"
+      },
+      {
+        "para_id": "11590.787",
+        "lang": "ce",
+        "refcode": "ABA 161.1"
+      },
+      {
+        "para_id": "11247.747",
+        "lang": "cs",
+        "refcode": "PNL 109.1"
+      },
+      {
+        "para_id": "813.815",
+        "lang": "de",
+        "refcode": "WA 187.1"
+      },
+      {
+        "para_id": "198.782",
+        "lang": "es",
+        "refcode": "HAp 153.1"
+      },
+      {
+        "para_id": "158.770",
+        "lang": "fr",
+        "refcode": "CP 167.1"
+      },
+      {
+        "para_id": "11938.715",
+        "lang": "hu",
+        "refcode": "AT 125.1"
+      },
+      {
+        "para_id": "12410.764",
+        "lang": "id",
+        "refcode": "KR 159.1"
+      },
+      {
+        "para_id": "882.713",
+        "lang": "it",
+        "refcode": "UVI 118.1"
+      },
+      {
+        "para_id": "11660.925",
+        "lang": "ja",
+        "refcode": "AAJ 203.2"
+      },
+      {
+        "para_id": "12335.685",
+        "lang": "nb",
+        "refcode": "AV 110.1"
+      },
+      {
+        "para_id": "12008.645",
+        "lang": "pl",
+        "refcode": "DA 104.1"
+      },
+      {
+        "para_id": "1806.685",
+        "lang": "pt",
+        "refcode": "AA 102"
+      },
+      {
+        "para_id": "2013.813",
+        "lang": "ro",
+        "refcode": "FA 188.1"
+      },
+      {
+        "para_id": "1785.791",
+        "lang": "ru",
+        "refcode": "ДА 188.1"
+      },
+      {
+        "para_id": "13874.691",
+        "lang": "rw",
+        "refcode": "INI 119.1"
+      },
+      {
+        "para_id": "11182.674",
+        "lang": "sk",
+        "refcode": "SA 115.2"
+      },
+      {
+        "para_id": "11182.673",
+        "lang": "sk",
+        "refcode": "SA 115.1"
+      },
+      {
+        "para_id": "11904.739",
+        "lang": "tl",
+        "refcode": "AGA 143.1"
+      },
+      {
+        "para_id": "11875.712",
+        "lang": "uk",
+        "refcode": "ДА 129.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.826",
+    "id_prev": "127.825",
+    "id_next": "127.829",
+    "refcode_1": "AA",
+    "refcode_2": "188",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 188.2",
+    "refcode_long": "The Acts of the Apostles, p. 188.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "While the apostles united with the ministers and lay members at Antioch in an earnest effort to win many souls to Christ, certain Jewish believers from Judea &ldquo;of the sect of the Pharisees&rdquo; succeeded in introducing a question that soon led to wide-spread controversy in the church and brought consternation to the believing Gentiles. With great assurance these Judaizing teachers asserted that in order <span class=\"page-break\" data-page=\"189\"></span> to be saved, one must be circumcised and must keep the entire ceremonial law.",
+    "puborder": 518,
+    "translations": [
+      {
+        "para_id": "13804.619",
+        "lang": "bg",
+        "refcode": "Дa 72.5"
+      },
+      {
+        "para_id": "11590.788",
+        "lang": "ce",
+        "refcode": "ABA 161.2"
+      },
+      {
+        "para_id": "11247.749",
+        "lang": "cs",
+        "refcode": "PNL 109.2"
+      },
+      {
+        "para_id": "813.816",
+        "lang": "de",
+        "refcode": "WA 187.2"
+      },
+      {
+        "para_id": "198.783",
+        "lang": "es",
+        "refcode": "HAp 153.2"
+      },
+      {
+        "para_id": "158.771",
+        "lang": "fr",
+        "refcode": "CP 167.2"
+      },
+      {
+        "para_id": "158.773",
+        "lang": "fr",
+        "refcode": "CP 168.1"
+      },
+      {
+        "para_id": "11938.716",
+        "lang": "hu",
+        "refcode": "AT 125.2"
+      },
+      {
+        "para_id": "12410.765",
+        "lang": "id",
+        "refcode": "KR 159.2"
+      },
+      {
+        "para_id": "882.714",
+        "lang": "it",
+        "refcode": "UVI 118.2"
+      },
+      {
+        "para_id": "11660.926",
+        "lang": "ja",
+        "refcode": "AAJ 203.3"
+      },
+      {
+        "para_id": "12335.686",
+        "lang": "nb",
+        "refcode": "AV 110.2"
+      },
+      {
+        "para_id": "12008.646",
+        "lang": "pl",
+        "refcode": "DA 104.2"
+      },
+      {
+        "para_id": "1806.686",
+        "lang": "pt",
+        "refcode": "AA 102.1"
+      },
+      {
+        "para_id": "2013.814",
+        "lang": "ro",
+        "refcode": "FA 188.2"
+      },
+      {
+        "para_id": "1785.792",
+        "lang": "ru",
+        "refcode": "ДА 188.2"
+      },
+      {
+        "para_id": "13874.692",
+        "lang": "rw",
+        "refcode": "INI 119.2"
+      },
+      {
+        "para_id": "11182.675",
+        "lang": "sk",
+        "refcode": "SA 115.3"
+      },
+      {
+        "para_id": "11904.740",
+        "lang": "tl",
+        "refcode": "AGA 143.2"
+      },
+      {
+        "para_id": "11875.714",
+        "lang": "uk",
+        "refcode": "ДА 129.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.829",
+    "id_prev": "127.826",
+    "id_next": "127.830",
+    "refcode_1": "AA",
+    "refcode_2": "189",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 189.1",
+    "refcode_long": "The Acts of the Apostles, p. 189.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul and Barnabas met this false doctrine with promptness and opposed the introduction of the subject to the Gentiles. On the other hand, many of the believing Jews of Antioch favored the position of the brethren recently come from Judea.",
+    "puborder": 519,
+    "translations": [
+      {
+        "para_id": "13804.620",
+        "lang": "bg",
+        "refcode": "Дa 72.6"
+      },
+      {
+        "para_id": "11590.789",
+        "lang": "ce",
+        "refcode": "ABA 161.3"
+      },
+      {
+        "para_id": "11247.750",
+        "lang": "cs",
+        "refcode": "PNL 109.3"
+      },
+      {
+        "para_id": "813.817",
+        "lang": "de",
+        "refcode": "WA 187.3"
+      },
+      {
+        "para_id": "198.784",
+        "lang": "es",
+        "refcode": "HAp 153.3"
+      },
+      {
+        "para_id": "158.774",
+        "lang": "fr",
+        "refcode": "CP 168.2"
+      },
+      {
+        "para_id": "11938.717",
+        "lang": "hu",
+        "refcode": "AT 125.3"
+      },
+      {
+        "para_id": "12410.766",
+        "lang": "id",
+        "refcode": "KR 159.3"
+      },
+      {
+        "para_id": "882.715",
+        "lang": "it",
+        "refcode": "UVI 118.3"
+      },
+      {
+        "para_id": "11660.929",
+        "lang": "ja",
+        "refcode": "AAJ 204.1"
+      },
+      {
+        "para_id": "12335.687",
+        "lang": "nb",
+        "refcode": "AV 110.3"
+      },
+      {
+        "para_id": "12008.647",
+        "lang": "pl",
+        "refcode": "DA 104.3"
+      },
+      {
+        "para_id": "1806.687",
+        "lang": "pt",
+        "refcode": "AA 102.2"
+      },
+      {
+        "para_id": "2013.817",
+        "lang": "ro",
+        "refcode": "FA 189.1"
+      },
+      {
+        "para_id": "1785.795",
+        "lang": "ru",
+        "refcode": "ДА 189.1"
+      },
+      {
+        "para_id": "13874.693",
+        "lang": "rw",
+        "refcode": "INI 119.3"
+      },
+      {
+        "para_id": "11182.676",
+        "lang": "sk",
+        "refcode": "SA 115.4"
+      },
+      {
+        "para_id": "11904.741",
+        "lang": "tl",
+        "refcode": "AGA 143.3"
+      },
+      {
+        "para_id": "11875.715",
+        "lang": "uk",
+        "refcode": "ДА 129.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.830",
+    "id_prev": "127.829",
+    "id_next": "127.831",
+    "refcode_1": "AA",
+    "refcode_2": "189",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 189.2",
+    "refcode_long": "The Acts of the Apostles, p. 189.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Jewish converts generally were not inclined to move as rapidly as the providence of God opened the way. From the result of the apostles&rsquo; labors among the Gentiles it was evident that the converts among the latter people would far exceed the Jewish converts in number. The Jews feared that if the restrictions and ceremonies of their law were not made obligatory upon the Gentiles as a condition of church fellowship, the national peculiarities of the Jews, which had hitherto kept them distinct from all other people, would finally disappear from among those who received the gospel message.",
+    "puborder": 520,
+    "translations": [
+      {
+        "para_id": "13804.621",
+        "lang": "bg",
+        "refcode": "Дa 72.7"
+      },
+      {
+        "para_id": "11590.790",
+        "lang": "ce",
+        "refcode": "ABA 161.4"
+      },
+      {
+        "para_id": "11247.751",
+        "lang": "cs",
+        "refcode": "PNL 109.4"
+      },
+      {
+        "para_id": "813.820",
+        "lang": "de",
+        "refcode": "WA 188.1"
+      },
+      {
+        "para_id": "198.785",
+        "lang": "es",
+        "refcode": "HAp 153.4"
+      },
+      {
+        "para_id": "158.775",
+        "lang": "fr",
+        "refcode": "CP 168.3"
+      },
+      {
+        "para_id": "11938.718",
+        "lang": "hu",
+        "refcode": "AT 125.4"
+      },
+      {
+        "para_id": "12410.769",
+        "lang": "id",
+        "refcode": "KR 160.1"
+      },
+      {
+        "para_id": "882.716",
+        "lang": "it",
+        "refcode": "UVI 118.4"
+      },
+      {
+        "para_id": "11660.930",
+        "lang": "ja",
+        "refcode": "AAJ 204.2"
+      },
+      {
+        "para_id": "12335.688",
+        "lang": "nb",
+        "refcode": "AV 110.4"
+      },
+      {
+        "para_id": "12008.648",
+        "lang": "pl",
+        "refcode": "DA 104.4"
+      },
+      {
+        "para_id": "1806.688",
+        "lang": "pt",
+        "refcode": "AA 102.3"
+      },
+      {
+        "para_id": "2013.818",
+        "lang": "ro",
+        "refcode": "FA 189.2"
+      },
+      {
+        "para_id": "1785.796",
+        "lang": "ru",
+        "refcode": "ДА 189.2"
+      },
+      {
+        "para_id": "13874.694",
+        "lang": "rw",
+        "refcode": "INI 119.4"
+      },
+      {
+        "para_id": "11182.677",
+        "lang": "sk",
+        "refcode": "SA 115.5"
+      },
+      {
+        "para_id": "11904.742",
+        "lang": "tl",
+        "refcode": "AGA 143.4"
+      },
+      {
+        "para_id": "11875.716",
+        "lang": "uk",
+        "refcode": "ДА 129.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.831",
+    "id_prev": "127.830",
+    "id_next": "127.833",
+    "refcode_1": "AA",
+    "refcode_2": "189",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 189.3",
+    "refcode_long": "The Acts of the Apostles, p. 189.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Jews had always prided themselves upon their divinely appointed services, and many of those who had been converted to the faith of Christ still felt that since God had once clearly outlined the Hebrew manner of worship, it was improbable that He would ever authorize a change in any of its specifications. They insisted that the Jewish laws and ceremonies should be incorporated into the rites of the Christian religion. They were slow to discern that all the sacrificial offerings had but prefigured the death of the Son of God, in which type met antitype, and after which the rites and ceremonies of the Mosaic dispensation were no longer binding.",
+    "puborder": 521,
+    "translations": [
+      {
+        "para_id": "13804.624",
+        "lang": "bg",
+        "refcode": "Дa 73.1"
+      },
+      {
+        "para_id": "11590.793",
+        "lang": "ce",
+        "refcode": "ABA 162.1"
+      },
+      {
+        "para_id": "11247.752",
+        "lang": "cs",
+        "refcode": "PNL 109.5"
+      },
+      {
+        "para_id": "813.821",
+        "lang": "de",
+        "refcode": "WA 188.2"
+      },
+      {
+        "para_id": "198.788",
+        "lang": "es",
+        "refcode": "HAp 154.1"
+      },
+      {
+        "para_id": "158.776",
+        "lang": "fr",
+        "refcode": "CP 168.4"
+      },
+      {
+        "para_id": "11938.719",
+        "lang": "hu",
+        "refcode": "AT 125.5"
+      },
+      {
+        "para_id": "12410.770",
+        "lang": "id",
+        "refcode": "KR 160.2"
+      },
+      {
+        "para_id": "882.717",
+        "lang": "it",
+        "refcode": "UVI 118.5"
+      },
+      {
+        "para_id": "11660.931",
+        "lang": "ja",
+        "refcode": "AAJ 204.3"
+      },
+      {
+        "para_id": "12335.689",
+        "lang": "nb",
+        "refcode": "AV 110.5"
+      },
+      {
+        "para_id": "12008.649",
+        "lang": "pl",
+        "refcode": "DA 104.5"
+      },
+      {
+        "para_id": "1806.689",
+        "lang": "pt",
+        "refcode": "AA 102.4"
+      },
+      {
+        "para_id": "2013.819",
+        "lang": "ro",
+        "refcode": "FA 189.3"
+      },
+      {
+        "para_id": "1785.797",
+        "lang": "ru",
+        "refcode": "ДА 189.3"
+      },
+      {
+        "para_id": "13874.695",
+        "lang": "rw",
+        "refcode": "INI 119.5"
+      },
+      {
+        "para_id": "11182.678",
+        "lang": "sk",
+        "refcode": "SA 115.6"
+      },
+      {
+        "para_id": "11904.745",
+        "lang": "tl",
+        "refcode": "AGA 144.1"
+      },
+      {
+        "para_id": "11875.719",
+        "lang": "uk",
+        "refcode": "ДА 130.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.833",
+    "id_prev": "127.831",
+    "id_next": "127.834",
+    "refcode_1": "AA",
+    "refcode_2": "190",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 190.1",
+    "refcode_long": "The Acts of the Apostles, p. 190.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Before his conversion Paul had regarded himself as blameless &ldquo;touching the righteousness which is in the law.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Philippians 3:6\" data-link=\"1965.60013\">Philippians 3:6</span>. But since his change of heart he had gained a clear conception of the mission of the Saviour as the Redeemer of the entire race, Gentile as well as Jew, and had learned the difference between a living faith and a dead formalism. In the light of the gospel the ancient rites and ceremonies committed to Israel had gained a new and deeper significance. That which they shadowed forth had come to pass, and those who were living under the gospel dispensation had been freed from their observance. God&apos;s unchangeable law of Ten Commandments, however, Paul still kept in spirit as well as in letter.",
+    "puborder": 522,
+    "translations": [
+      {
+        "para_id": "13804.625",
+        "lang": "bg",
+        "refcode": "Дa 73.2"
+      },
+      {
+        "para_id": "11590.794",
+        "lang": "ce",
+        "refcode": "ABA 162.2"
+      },
+      {
+        "para_id": "11247.755",
+        "lang": "cs",
+        "refcode": "PNL 110.1"
+      },
+      {
+        "para_id": "813.822",
+        "lang": "de",
+        "refcode": "WA 188.3"
+      },
+      {
+        "para_id": "198.789",
+        "lang": "es",
+        "refcode": "HAp 154.2"
+      },
+      {
+        "para_id": "158.777",
+        "lang": "fr",
+        "refcode": "CP 168.5"
+      },
+      {
+        "para_id": "11938.722",
+        "lang": "hu",
+        "refcode": "AT 126.1"
+      },
+      {
+        "para_id": "12410.771",
+        "lang": "id",
+        "refcode": "KR 160.3"
+      },
+      {
+        "para_id": "882.720",
+        "lang": "it",
+        "refcode": "UVI 119.1"
+      },
+      {
+        "para_id": "11660.933",
+        "lang": "ja",
+        "refcode": "AAJ 205.1"
+      },
+      {
+        "para_id": "12335.692",
+        "lang": "nb",
+        "refcode": "AV 111.1"
+      },
+      {
+        "para_id": "12008.652",
+        "lang": "pl",
+        "refcode": "DA 105.1"
+      },
+      {
+        "para_id": "1806.691",
+        "lang": "pt",
+        "refcode": "AA 102.6"
+      },
+      {
+        "para_id": "2013.821",
+        "lang": "ro",
+        "refcode": "FA 190.1"
+      },
+      {
+        "para_id": "1785.799",
+        "lang": "ru",
+        "refcode": "ДА 190.1"
+      },
+      {
+        "para_id": "13874.698",
+        "lang": "rw",
+        "refcode": "INI 120.1"
+      },
+      {
+        "para_id": "11182.681",
+        "lang": "sk",
+        "refcode": "SA 116.1"
+      },
+      {
+        "para_id": "11904.746",
+        "lang": "tl",
+        "refcode": "AGA 144.2"
+      },
+      {
+        "para_id": "11875.720",
+        "lang": "uk",
+        "refcode": "ДА 130.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.834",
+    "id_prev": "127.833",
+    "id_next": "127.835",
+    "refcode_1": "AA",
+    "refcode_2": "190",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 190.2",
+    "refcode_long": "The Acts of the Apostles, p. 190.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the church at Antioch the consideration of the question of circumcision resulted in much discussion and contention. Finally, the members of the church, fearing that a division among them would be the outcome of continued discussion, decided to send Paul and Barnabas, with some responsible men from the church, to Jerusalem to lay the matter before the apostles and elders. There they were to meet delegates from the different churches and those who had come to Jerusalem to attend the approaching festivals. Meanwhile all controversy was to cease until a final decision should be given in general council. This decision was then to be universally accepted by the different churches throughout the country.",
+    "puborder": 523,
+    "translations": [
+      {
+        "para_id": "13804.626",
+        "lang": "bg",
+        "refcode": "Дa 73.3"
+      },
+      {
+        "para_id": "11590.795",
+        "lang": "ce",
+        "refcode": "ABA 162.3"
+      },
+      {
+        "para_id": "11247.757",
+        "lang": "cs",
+        "refcode": "PNL 110.2"
+      },
+      {
+        "para_id": "813.825",
+        "lang": "de",
+        "refcode": "WA 189.1"
+      },
+      {
+        "para_id": "198.790",
+        "lang": "es",
+        "refcode": "HAp 154.3"
+      },
+      {
+        "para_id": "158.780",
+        "lang": "fr",
+        "refcode": "CP 169.1"
+      },
+      {
+        "para_id": "11938.723",
+        "lang": "hu",
+        "refcode": "AT 126.2"
+      },
+      {
+        "para_id": "12410.774",
+        "lang": "id",
+        "refcode": "KR 161.1"
+      },
+      {
+        "para_id": "882.721",
+        "lang": "it",
+        "refcode": "UVI 119.2"
+      },
+      {
+        "para_id": "11660.934",
+        "lang": "ja",
+        "refcode": "AAJ 205.2"
+      },
+      {
+        "para_id": "12335.693",
+        "lang": "nb",
+        "refcode": "AV 111.2"
+      },
+      {
+        "para_id": "12008.653",
+        "lang": "pl",
+        "refcode": "DA 105.2"
+      },
+      {
+        "para_id": "2013.822",
+        "lang": "ro",
+        "refcode": "FA 190.2"
+      },
+      {
+        "para_id": "1785.800",
+        "lang": "ru",
+        "refcode": "ДА 190.2"
+      },
+      {
+        "para_id": "13874.699",
+        "lang": "rw",
+        "refcode": "INI 120.2"
+      },
+      {
+        "para_id": "11182.682",
+        "lang": "sk",
+        "refcode": "SA 116.2"
+      },
+      {
+        "para_id": "11904.747",
+        "lang": "tl",
+        "refcode": "AGA 144.3"
+      },
+      {
+        "para_id": "11875.721",
+        "lang": "uk",
+        "refcode": "ДА 130.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.835",
+    "id_prev": "127.834",
+    "id_next": "127.837",
+    "refcode_1": "AA",
+    "refcode_2": "190",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 190.3",
+    "refcode_long": "The Acts of the Apostles, p. 190.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "On the way to Jerusalem the apostles visited the believers in the cities through which they passed, and encouraged them by relating their experience in the work of God and the conversion of the Gentiles.",
+    "puborder": 524,
+    "translations": [
+      {
+        "para_id": "13804.627",
+        "lang": "bg",
+        "refcode": "Дa 73.4"
+      },
+      {
+        "para_id": "11590.798",
+        "lang": "ce",
+        "refcode": "ABA 163.1"
+      },
+      {
+        "para_id": "11247.758",
+        "lang": "cs",
+        "refcode": "PNL 110.3"
+      },
+      {
+        "para_id": "813.826",
+        "lang": "de",
+        "refcode": "WA 189.2"
+      },
+      {
+        "para_id": "198.793",
+        "lang": "es",
+        "refcode": "HAp 155.1"
+      },
+      {
+        "para_id": "158.781",
+        "lang": "fr",
+        "refcode": "CP 169.2"
+      },
+      {
+        "para_id": "11938.724",
+        "lang": "hu",
+        "refcode": "AT 126.3"
+      },
+      {
+        "para_id": "12410.775",
+        "lang": "id",
+        "refcode": "KR 161.2"
+      },
+      {
+        "para_id": "882.722",
+        "lang": "it",
+        "refcode": "UVI 119.3"
+      },
+      {
+        "para_id": "11660.935",
+        "lang": "ja",
+        "refcode": "AAJ 205.3"
+      },
+      {
+        "para_id": "12335.694",
+        "lang": "nb",
+        "refcode": "AV 111.3"
+      },
+      {
+        "para_id": "12008.654",
+        "lang": "pl",
+        "refcode": "DA 105.3"
+      },
+      {
+        "para_id": "1806.691",
+        "lang": "pt",
+        "refcode": "AA 102.6"
+      },
+      {
+        "para_id": "2013.823",
+        "lang": "ro",
+        "refcode": "FA 190.3"
+      },
+      {
+        "para_id": "1785.801",
+        "lang": "ru",
+        "refcode": "ДА 190.3"
+      },
+      {
+        "para_id": "13874.700",
+        "lang": "rw",
+        "refcode": "INI 120.3"
+      },
+      {
+        "para_id": "11182.683",
+        "lang": "sk",
+        "refcode": "SA 116.3"
+      },
+      {
+        "para_id": "11904.749",
+        "lang": "tl",
+        "refcode": "AGA 145.1"
+      },
+      {
+        "para_id": "11875.724",
+        "lang": "uk",
+        "refcode": "ДА 131.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.837",
+    "id_prev": "127.835",
+    "id_next": "127.838",
+    "refcode_1": "AA",
+    "refcode_2": "191",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 191.1",
+    "refcode_long": "The Acts of the Apostles, p. 191.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "At Jerusalem the delegates from Antioch met the brethren of the various churches, who had gathered for a general meeting, and to them they related the success that had attended their ministry among the Gentiles. They then gave a clear outline of the confusion that had resulted because certain converted Pharisees had gone to Antioch declaring that, in order to be saved, the Gentile converts must be circumcised and keep the law of Moses.",
+    "puborder": 525,
+    "translations": [
+      {
+        "para_id": "13804.628",
+        "lang": "bg",
+        "refcode": "Дa 73.5"
+      },
+      {
+        "para_id": "11590.799",
+        "lang": "ce",
+        "refcode": "ABA 163.2"
+      },
+      {
+        "para_id": "11247.759",
+        "lang": "cs",
+        "refcode": "PNL 110.4"
+      },
+      {
+        "para_id": "813.827",
+        "lang": "de",
+        "refcode": "WA 189.3"
+      },
+      {
+        "para_id": "198.794",
+        "lang": "es",
+        "refcode": "HAp 155.2"
+      },
+      {
+        "para_id": "158.782",
+        "lang": "fr",
+        "refcode": "CP 169.3"
+      },
+      {
+        "para_id": "11938.725",
+        "lang": "hu",
+        "refcode": "AT 126.4"
+      },
+      {
+        "para_id": "12410.776",
+        "lang": "id",
+        "refcode": "KR 161.3"
+      },
+      {
+        "para_id": "882.723",
+        "lang": "it",
+        "refcode": "UVI 119.4"
+      },
+      {
+        "para_id": "11660.937",
+        "lang": "ja",
+        "refcode": "AAJ 206.1"
+      },
+      {
+        "para_id": "12335.695",
+        "lang": "nb",
+        "refcode": "AV 111.4"
+      },
+      {
+        "para_id": "12008.655",
+        "lang": "pl",
+        "refcode": "DA 105.4"
+      },
+      {
+        "para_id": "1806.694",
+        "lang": "pt",
+        "refcode": "AA 103.1"
+      },
+      {
+        "para_id": "2013.825",
+        "lang": "ro",
+        "refcode": "FA 191.1"
+      },
+      {
+        "para_id": "1785.803",
+        "lang": "ru",
+        "refcode": "ДА 191.1"
+      },
+      {
+        "para_id": "13874.701",
+        "lang": "rw",
+        "refcode": "INI 120.4"
+      },
+      {
+        "para_id": "11182.684",
+        "lang": "sk",
+        "refcode": "SA 116.4"
+      },
+      {
+        "para_id": "11904.750",
+        "lang": "tl",
+        "refcode": "AGA 145.2"
+      },
+      {
+        "para_id": "11875.725",
+        "lang": "uk",
+        "refcode": "ДА 131.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.838",
+    "id_prev": "127.837",
+    "id_next": "127.839",
+    "refcode_1": "AA",
+    "refcode_2": "191",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 191.2",
+    "refcode_long": "The Acts of the Apostles, p. 191.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "This question was warmly discussed in the assembly. Intimately connected with the question of circumcision were several others demanding careful study. One was the problem as to what attitude should be taken toward the use of meats offered to idols. Many of the Gentile converts were living among ignorant and superstitious people who made frequent sacrifices and offerings to idols. The priests of this heathen worship carried on an extensive merchandise with the offerings brought to them, and the Jews feared that the Gentile converts would bring Christianity into disrepute by purchasing that which had been offered to idols, thereby sanctioning, in some measure, idolatrous customs.",
+    "puborder": 526,
+    "translations": [
+      {
+        "para_id": "13804.629",
+        "lang": "bg",
+        "refcode": "Дa 73.6"
+      },
+      {
+        "para_id": "11590.800",
+        "lang": "ce",
+        "refcode": "ABA 163.3"
+      },
+      {
+        "para_id": "11247.760",
+        "lang": "cs",
+        "refcode": "PNL 110.5"
+      },
+      {
+        "para_id": "813.829",
+        "lang": "de",
+        "refcode": "WA 190.1"
+      },
+      {
+        "para_id": "198.795",
+        "lang": "es",
+        "refcode": "HAp 155.3"
+      },
+      {
+        "para_id": "158.783",
+        "lang": "fr",
+        "refcode": "CP 169.4"
+      },
+      {
+        "para_id": "11938.726",
+        "lang": "hu",
+        "refcode": "AT 126.5"
+      },
+      {
+        "para_id": "12410.777",
+        "lang": "id",
+        "refcode": "KR 161.4"
+      },
+      {
+        "para_id": "882.724",
+        "lang": "it",
+        "refcode": "UVI 119.5"
+      },
+      {
+        "para_id": "11660.938",
+        "lang": "ja",
+        "refcode": "AAJ 206.2"
+      },
+      {
+        "para_id": "12335.696",
+        "lang": "nb",
+        "refcode": "AV 111.5"
+      },
+      {
+        "para_id": "12008.656",
+        "lang": "pl",
+        "refcode": "DA 105.5"
+      },
+      {
+        "para_id": "1806.695",
+        "lang": "pt",
+        "refcode": "AA 103.2"
+      },
+      {
+        "para_id": "2013.826",
+        "lang": "ro",
+        "refcode": "FA 191.2"
+      },
+      {
+        "para_id": "1785.804",
+        "lang": "ru",
+        "refcode": "ДА 191.2"
+      },
+      {
+        "para_id": "13874.702",
+        "lang": "rw",
+        "refcode": "INI 120.5"
+      },
+      {
+        "para_id": "11182.685",
+        "lang": "sk",
+        "refcode": "SA 116.5"
+      },
+      {
+        "para_id": "11904.751",
+        "lang": "tl",
+        "refcode": "AGA 145.3"
+      },
+      {
+        "para_id": "11875.726",
+        "lang": "uk",
+        "refcode": "ДА 131.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.839",
+    "id_prev": "127.838",
+    "id_next": "127.841",
+    "refcode_1": "AA",
+    "refcode_2": "191",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 191.3",
+    "refcode_long": "The Acts of the Apostles, p. 191.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Again, the Gentiles were accustomed to eat the flesh of animals that had been strangled, while the Jews had been divinely instructed that when beasts were killed for food, particular care was to be taken that the blood should flow from the body; otherwise the meat would not be regarded as wholesome. God had given these injunctions to the Jews for the purpose of preserving their health. The Jews regarded it as sinful to use blood as an article of diet. They held that the blood was the life, and that the shedding of blood was in consequence of sin.",
+    "puborder": 527,
+    "translations": [
+      {
+        "para_id": "13804.630",
+        "lang": "bg",
+        "refcode": "Дa 73.7"
+      },
+      {
+        "para_id": "11590.801",
+        "lang": "ce",
+        "refcode": "ABA 163.4"
+      },
+      {
+        "para_id": "11247.763",
+        "lang": "cs",
+        "refcode": "PNL 111.1"
+      },
+      {
+        "para_id": "813.830",
+        "lang": "de",
+        "refcode": "WA 190.2"
+      },
+      {
+        "para_id": "198.796",
+        "lang": "es",
+        "refcode": "HAp 155.4"
+      },
+      {
+        "para_id": "158.786",
+        "lang": "fr",
+        "refcode": "CP 170.1"
+      },
+      {
+        "para_id": "11938.729",
+        "lang": "hu",
+        "refcode": "AT 127.1"
+      },
+      {
+        "para_id": "12410.780",
+        "lang": "id",
+        "refcode": "KR 162.1"
+      },
+      {
+        "para_id": "882.727",
+        "lang": "it",
+        "refcode": "UVI 120.1"
+      },
+      {
+        "para_id": "11660.939",
+        "lang": "ja",
+        "refcode": "AAJ 206.3"
+      },
+      {
+        "para_id": "12335.699",
+        "lang": "nb",
+        "refcode": "AV 112.1"
+      },
+      {
+        "para_id": "12008.656",
+        "lang": "pl",
+        "refcode": "DA 105.5"
+      },
+      {
+        "para_id": "1806.697",
+        "lang": "pt",
+        "refcode": "AA 103.4"
+      },
+      {
+        "para_id": "2013.827",
+        "lang": "ro",
+        "refcode": "FA 191.3"
+      },
+      {
+        "para_id": "1785.805",
+        "lang": "ru",
+        "refcode": "ДА 191.3"
+      },
+      {
+        "para_id": "13874.705",
+        "lang": "rw",
+        "refcode": "INI 121.1"
+      },
+      {
+        "para_id": "11182.688",
+        "lang": "sk",
+        "refcode": "SA 117.1"
+      },
+      {
+        "para_id": "11904.752",
+        "lang": "tl",
+        "refcode": "AGA 145.4"
+      },
+      {
+        "para_id": "11875.727",
+        "lang": "uk",
+        "refcode": "ДА 131.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.841",
+    "id_prev": "127.839",
+    "id_next": "127.842",
+    "refcode_1": "AA",
+    "refcode_2": "192",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 192.1",
+    "refcode_long": "The Acts of the Apostles, p. 192.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Gentiles, on the contrary, practiced catching the blood that flowed from the sacrificial victim and using it in the preparation of food. The Jews could not believe that they ought to change the customs they had adopted under the special direction of God. Therefore, as things then stood, if Jew and Gentile should attempt to eat at the same table, the former would be shocked and outraged by the latter.",
+    "puborder": 528,
+    "translations": [
+      {
+        "para_id": "13804.632",
+        "lang": "bg",
+        "refcode": "Дa 74.1"
+      },
+      {
+        "para_id": "11590.804",
+        "lang": "ce",
+        "refcode": "ABA 164.1"
+      },
+      {
+        "para_id": "11247.764",
+        "lang": "cs",
+        "refcode": "PNL 111.2"
+      },
+      {
+        "para_id": "813.831",
+        "lang": "de",
+        "refcode": "WA 190.3"
+      },
+      {
+        "para_id": "198.799",
+        "lang": "es",
+        "refcode": "HAp 156.1"
+      },
+      {
+        "para_id": "158.787",
+        "lang": "fr",
+        "refcode": "CP 170.2"
+      },
+      {
+        "para_id": "11938.730",
+        "lang": "hu",
+        "refcode": "AT 127.2"
+      },
+      {
+        "para_id": "12410.781",
+        "lang": "id",
+        "refcode": "KR 162.2"
+      },
+      {
+        "para_id": "882.728",
+        "lang": "it",
+        "refcode": "UVI 120.2"
+      },
+      {
+        "para_id": "11660.941",
+        "lang": "ja",
+        "refcode": "AAJ 207.1"
+      },
+      {
+        "para_id": "12335.700",
+        "lang": "nb",
+        "refcode": "AV 112.2"
+      },
+      {
+        "para_id": "12008.656",
+        "lang": "pl",
+        "refcode": "DA 105.5"
+      },
+      {
+        "para_id": "1806.698",
+        "lang": "pt",
+        "refcode": "AA 103.5"
+      },
+      {
+        "para_id": "2013.829",
+        "lang": "ro",
+        "refcode": "FA 192.1"
+      },
+      {
+        "para_id": "1785.807",
+        "lang": "ru",
+        "refcode": "ДА 192.1"
+      },
+      {
+        "para_id": "13874.706",
+        "lang": "rw",
+        "refcode": "INI 121.2"
+      },
+      {
+        "para_id": "11182.689",
+        "lang": "sk",
+        "refcode": "SA 117.2"
+      },
+      {
+        "para_id": "11904.753",
+        "lang": "tl",
+        "refcode": "AGA 145.5"
+      },
+      {
+        "para_id": "11875.728",
+        "lang": "uk",
+        "refcode": "ДА 131.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.842",
+    "id_prev": "127.841",
+    "id_next": "127.843",
+    "refcode_1": "AA",
+    "refcode_2": "192",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 192.2",
+    "refcode_long": "The Acts of the Apostles, p. 192.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Gentiles, and especially the Greeks, were extremely licentious, and there was danger that some, unconverted in heart, would make a profession of faith without renouncing their evil practices. The Jewish Christians could not tolerate the immorality that was not even regarded as criminal by the heathen. The Jews therefore held it as highly proper that circumcision and the observance of the ceremonial law should be enjoined on the Gentile converts as a test of their sincerity and devotion. This, they believed, would prevent the addition to the church of those who, adopting the faith without true conversion of heart, might afterward bring reproach upon the cause by immorality and excess.",
+    "puborder": 529,
+    "translations": [
+      {
+        "para_id": "13804.633",
+        "lang": "bg",
+        "refcode": "Дa 74.2"
+      },
+      {
+        "para_id": "11590.805",
+        "lang": "ce",
+        "refcode": "ABA 164.2"
+      },
+      {
+        "para_id": "11247.765",
+        "lang": "cs",
+        "refcode": "PNL 111.3"
+      },
+      {
+        "para_id": "813.832",
+        "lang": "de",
+        "refcode": "WA 190.4"
+      },
+      {
+        "para_id": "198.800",
+        "lang": "es",
+        "refcode": "HAp 156.2"
+      },
+      {
+        "para_id": "158.788",
+        "lang": "fr",
+        "refcode": "CP 170.3"
+      },
+      {
+        "para_id": "11938.731",
+        "lang": "hu",
+        "refcode": "AT 127.3"
+      },
+      {
+        "para_id": "12410.782",
+        "lang": "id",
+        "refcode": "KR 162.3"
+      },
+      {
+        "para_id": "882.729",
+        "lang": "it",
+        "refcode": "UVI 120.3"
+      },
+      {
+        "para_id": "11660.942",
+        "lang": "ja",
+        "refcode": "AAJ 207.2"
+      },
+      {
+        "para_id": "12335.701",
+        "lang": "nb",
+        "refcode": "AV 112.3"
+      },
+      {
+        "para_id": "12008.659",
+        "lang": "pl",
+        "refcode": "DA 106.1"
+      },
+      {
+        "para_id": "1806.698",
+        "lang": "pt",
+        "refcode": "AA 103.5"
+      },
+      {
+        "para_id": "2013.830",
+        "lang": "ro",
+        "refcode": "FA 192.2"
+      },
+      {
+        "para_id": "1785.808",
+        "lang": "ru",
+        "refcode": "ДА 192.2"
+      },
+      {
+        "para_id": "13874.707",
+        "lang": "rw",
+        "refcode": "INI 121.3"
+      },
+      {
+        "para_id": "11182.690",
+        "lang": "sk",
+        "refcode": "SA 117.3"
+      },
+      {
+        "para_id": "11904.756",
+        "lang": "tl",
+        "refcode": "AGA 146.1"
+      },
+      {
+        "para_id": "11875.729",
+        "lang": "uk",
+        "refcode": "ДА 131.6"
+      }
+    ]
+  },
+  {
+    "para_id": "127.843",
+    "id_prev": "127.842",
+    "id_next": "127.844",
+    "refcode_1": "AA",
+    "refcode_2": "192",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 192.3",
+    "refcode_long": "The Acts of the Apostles, p. 192.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The various points involved in the settlement of the main question at issue seemed to present before the council insurmountable difficulties. But the Holy Spirit had, in reality, already settled this question, upon the decision of which seemed to depend the prosperity, if not the very existence, of the Christian church.",
+    "puborder": 530,
+    "translations": [
+      {
+        "para_id": "13804.634",
+        "lang": "bg",
+        "refcode": "Дa 74.3"
+      },
+      {
+        "para_id": "11590.806",
+        "lang": "ce",
+        "refcode": "ABA 164.3"
+      },
+      {
+        "para_id": "11247.766",
+        "lang": "cs",
+        "refcode": "PNL 111.4"
+      },
+      {
+        "para_id": "813.832",
+        "lang": "de",
+        "refcode": "WA 190.4"
+      },
+      {
+        "para_id": "198.801",
+        "lang": "es",
+        "refcode": "HAp 156.3"
+      },
+      {
+        "para_id": "158.789",
+        "lang": "fr",
+        "refcode": "CP 170.4"
+      },
+      {
+        "para_id": "11938.732",
+        "lang": "hu",
+        "refcode": "AT 127.4"
+      },
+      {
+        "para_id": "12410.785",
+        "lang": "id",
+        "refcode": "KR 163.1"
+      },
+      {
+        "para_id": "882.730",
+        "lang": "it",
+        "refcode": "UVI 120.4"
+      },
+      {
+        "para_id": "11660.943",
+        "lang": "ja",
+        "refcode": "AAJ 207.3"
+      },
+      {
+        "para_id": "12335.702",
+        "lang": "nb",
+        "refcode": "AV 112.4"
+      },
+      {
+        "para_id": "12008.660",
+        "lang": "pl",
+        "refcode": "DA 106.2"
+      },
+      {
+        "para_id": "1806.698",
+        "lang": "pt",
+        "refcode": "AA 103.5"
+      },
+      {
+        "para_id": "2013.831",
+        "lang": "ro",
+        "refcode": "FA 192.3"
+      },
+      {
+        "para_id": "1785.809",
+        "lang": "ru",
+        "refcode": "ДА 192.3"
+      },
+      {
+        "para_id": "13874.708",
+        "lang": "rw",
+        "refcode": "INI 121.4"
+      },
+      {
+        "para_id": "11182.691",
+        "lang": "sk",
+        "refcode": "SA 117.4"
+      },
+      {
+        "para_id": "11904.757",
+        "lang": "tl",
+        "refcode": "AGA 146.2"
+      },
+      {
+        "para_id": "11875.732",
+        "lang": "uk",
+        "refcode": "ДА 132.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.844",
+    "id_prev": "127.843",
+    "id_next": "127.847",
+    "refcode_1": "AA",
+    "refcode_2": "192",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 192.4",
+    "refcode_long": "The Acts of the Apostles, p. 192.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;When there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and <span class=\"page-break\" data-page=\"193\"></span> believe.&rdquo; He reasoned that the Holy Spirit had decided the matter under dispute by descending with equal power upon the uncircumcised Gentiles and the circumcised Jews. He recounted his vision, in which God had presented before him a sheet filled with all manner of four-footed beasts and had bidden him kill and eat. When he refused, affirming that he had never eaten that which was common or unclean, the answer had been, &ldquo;What God hath cleansed, that call not thou common.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 10:15\" data-link=\"1965.55623\">Acts 10:15</span>.",
+    "puborder": 531,
+    "translations": [
+      {
+        "para_id": "13804.635",
+        "lang": "bg",
+        "refcode": "Дa 74.4"
+      },
+      {
+        "para_id": "11590.807",
+        "lang": "ce",
+        "refcode": "ABA 164.4"
+      },
+      {
+        "para_id": "11247.767",
+        "lang": "cs",
+        "refcode": "PNL 111.5"
+      },
+      {
+        "para_id": "813.835",
+        "lang": "de",
+        "refcode": "WA 191.1"
+      },
+      {
+        "para_id": "198.802",
+        "lang": "es",
+        "refcode": "HAp 156.4"
+      },
+      {
+        "para_id": "158.792",
+        "lang": "fr",
+        "refcode": "CP 171.1"
+      },
+      {
+        "para_id": "11938.734",
+        "lang": "hu",
+        "refcode": "AT 128.1"
+      },
+      {
+        "para_id": "12410.786",
+        "lang": "id",
+        "refcode": "KR 163.2"
+      },
+      {
+        "para_id": "882.731",
+        "lang": "it",
+        "refcode": "UVI 120.5"
+      },
+      {
+        "para_id": "11660.944",
+        "lang": "ja",
+        "refcode": "AAJ 207.4"
+      },
+      {
+        "para_id": "12335.703",
+        "lang": "nb",
+        "refcode": "AV 112.5"
+      },
+      {
+        "para_id": "12008.661",
+        "lang": "pl",
+        "refcode": "DA 106.3"
+      },
+      {
+        "para_id": "1806.701",
+        "lang": "pt",
+        "refcode": "AA 104.1"
+      },
+      {
+        "para_id": "2013.832",
+        "lang": "ro",
+        "refcode": "FA 192.4"
+      },
+      {
+        "para_id": "1785.810",
+        "lang": "ru",
+        "refcode": "ДА 192.4"
+      },
+      {
+        "para_id": "13874.709",
+        "lang": "rw",
+        "refcode": "INI 121.5"
+      },
+      {
+        "para_id": "11182.692",
+        "lang": "sk",
+        "refcode": "SA 117.5"
+      },
+      {
+        "para_id": "11904.758",
+        "lang": "tl",
+        "refcode": "AGA 146.3"
+      },
+      {
+        "para_id": "11875.733",
+        "lang": "uk",
+        "refcode": "ДА 132.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.847",
+    "id_prev": "127.844",
+    "id_next": "127.848",
+    "refcode_1": "AA",
+    "refcode_2": "193",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 193.1",
+    "refcode_long": "The Acts of the Apostles, p. 193.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Peter related the plain interpretation of these words, which was given him almost immediately in his summons to go to the centurion and instruct him in the faith of Christ. This message showed that God was no respecter of persons, but accepted and acknowledged all who feared Him. Peter told of his astonishment when, in speaking the words of truth to those assembled at the home of Cornelius, he witnessed the Holy Spirit taking possession of his hearers, Gentiles as well as Jews. The same light and glory that was reflected upon the circumcised Jews shone also upon the faces of the uncircumcised Gentiles. This was God&apos;s warning that Peter was not to regard one as inferior to the other, for the blood of Christ could cleanse from all uncleanness.",
+    "puborder": 532,
+    "translations": [
+      {
+        "para_id": "13804.636",
+        "lang": "bg",
+        "refcode": "Дa 74.5"
+      },
+      {
+        "para_id": "11590.810",
+        "lang": "ce",
+        "refcode": "ABA 165.1"
+      },
+      {
+        "para_id": "11247.768",
+        "lang": "cs",
+        "refcode": "PNL 111.6"
+      },
+      {
+        "para_id": "813.836",
+        "lang": "de",
+        "refcode": "WA 191.2"
+      },
+      {
+        "para_id": "198.805",
+        "lang": "es",
+        "refcode": "HAp 157.1"
+      },
+      {
+        "para_id": "158.793",
+        "lang": "fr",
+        "refcode": "CP 171.2"
+      },
+      {
+        "para_id": "11938.735",
+        "lang": "hu",
+        "refcode": "AT 128.2"
+      },
+      {
+        "para_id": "12410.787",
+        "lang": "id",
+        "refcode": "KR 163.3"
+      },
+      {
+        "para_id": "882.734",
+        "lang": "it",
+        "refcode": "UVI 121.1"
+      },
+      {
+        "para_id": "11660.947",
+        "lang": "ja",
+        "refcode": "AAJ 208.1"
+      },
+      {
+        "para_id": "12335.704",
+        "lang": "nb",
+        "refcode": "AV 112.6"
+      },
+      {
+        "para_id": "12008.662",
+        "lang": "pl",
+        "refcode": "DA 106.4"
+      },
+      {
+        "para_id": "1806.702",
+        "lang": "pt",
+        "refcode": "AA 104.2"
+      },
+      {
+        "para_id": "2013.835",
+        "lang": "ro",
+        "refcode": "FA 193.1"
+      },
+      {
+        "para_id": "1785.813",
+        "lang": "ru",
+        "refcode": "ДА 193.1"
+      },
+      {
+        "para_id": "13874.712",
+        "lang": "rw",
+        "refcode": "INI 122.1"
+      },
+      {
+        "para_id": "11182.694",
+        "lang": "sk",
+        "refcode": "SA 118.1"
+      },
+      {
+        "para_id": "11904.759",
+        "lang": "tl",
+        "refcode": "AGA 146.4"
+      },
+      {
+        "para_id": "11875.734",
+        "lang": "uk",
+        "refcode": "ДА 132.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.848",
+    "id_prev": "127.847",
+    "id_next": "127.851",
+    "refcode_1": "AA",
+    "refcode_2": "193",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 193.2",
+    "refcode_long": "The Acts of the Apostles, p. 193.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Once before, Peter had reasoned with his brethren concerning the conversion of Cornelius and his friends, and his fellowship with them. As he on that occasion related how the Holy Spirit fell on the Gentiles he declared, &ldquo;Forasmuch then as God gave them the like gift as He did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 11:17\" data-link=\"1965.55724\">Acts 11:17</span>. Now, with equal fervor and force, he said: &ldquo;God, which knoweth the hearts, <span class=\"page-break\" data-page=\"194\"></span> bare them witness, giving them the Holy Ghost, even as He did unto us; and put no difference between us and them, purifying their hearts by faith. Now therefore why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear?&rdquo; This yoke was not the law of Ten Commandments, as some who oppose the binding claims of the law assert; Peter here referred to the law of ceremonies, which was made null and void by the crucifixion of Christ.",
+    "puborder": 533,
+    "translations": [
+      {
+        "para_id": "13804.637",
+        "lang": "bg",
+        "refcode": "Дa 74.6"
+      },
+      {
+        "para_id": "11590.811",
+        "lang": "ce",
+        "refcode": "ABA 165.2"
+      },
+      {
+        "para_id": "11247.771",
+        "lang": "cs",
+        "refcode": "PNL 112.1"
+      },
+      {
+        "para_id": "813.839",
+        "lang": "de",
+        "refcode": "WA 192.1"
+      },
+      {
+        "para_id": "198.806",
+        "lang": "es",
+        "refcode": "HAp 157.2"
+      },
+      {
+        "para_id": "158.794",
+        "lang": "fr",
+        "refcode": "CP 171.3"
+      },
+      {
+        "para_id": "11938.736",
+        "lang": "hu",
+        "refcode": "AT 128.3"
+      },
+      {
+        "para_id": "12410.789",
+        "lang": "id",
+        "refcode": "KR 164.1"
+      },
+      {
+        "para_id": "882.735",
+        "lang": "it",
+        "refcode": "UVI 121.2"
+      },
+      {
+        "para_id": "11660.948",
+        "lang": "ja",
+        "refcode": "AAJ 208.2"
+      },
+      {
+        "para_id": "12335.707",
+        "lang": "nb",
+        "refcode": "AV 113.1"
+      },
+      {
+        "para_id": "12008.664",
+        "lang": "pl",
+        "refcode": "DA 107.1"
+      },
+      {
+        "para_id": "1806.705",
+        "lang": "pt",
+        "refcode": "AA 104.5"
+      },
+      {
+        "para_id": "2013.836",
+        "lang": "ro",
+        "refcode": "FA 193.2"
+      },
+      {
+        "para_id": "1785.814",
+        "lang": "ru",
+        "refcode": "ДА 193.2"
+      },
+      {
+        "para_id": "13874.713",
+        "lang": "rw",
+        "refcode": "INI 122.2"
+      },
+      {
+        "para_id": "11182.695",
+        "lang": "sk",
+        "refcode": "SA 118.2"
+      },
+      {
+        "para_id": "11904.762",
+        "lang": "tl",
+        "refcode": "AGA 147.1"
+      },
+      {
+        "para_id": "11875.736",
+        "lang": "uk",
+        "refcode": "ДА 133.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.851",
+    "id_prev": "127.848",
+    "id_next": "127.852",
+    "refcode_1": "AA",
+    "refcode_2": "194",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 194.1",
+    "refcode_long": "The Acts of the Apostles, p. 194.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Peter&apos;s address brought the assembly to a point where they could listen with patience to Paul and Barnabas, who related their experience in working for the Gentiles. &ldquo;All the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them.&rdquo;",
+    "puborder": 534,
+    "translations": [
+      {
+        "para_id": "13804.639",
+        "lang": "bg",
+        "refcode": "Дa 75.1"
+      },
+      {
+        "para_id": "11590.814",
+        "lang": "ce",
+        "refcode": "ABA 166.1"
+      },
+      {
+        "para_id": "11247.772",
+        "lang": "cs",
+        "refcode": "PNL 112.2"
+      },
+      {
+        "para_id": "813.840",
+        "lang": "de",
+        "refcode": "WA 192.2"
+      },
+      {
+        "para_id": "198.809",
+        "lang": "es",
+        "refcode": "HAp 158.1"
+      },
+      {
+        "para_id": "158.798",
+        "lang": "fr",
+        "refcode": "CP 172.2"
+      },
+      {
+        "para_id": "11938.739",
+        "lang": "hu",
+        "refcode": "AT 129.1"
+      },
+      {
+        "para_id": "12410.790",
+        "lang": "id",
+        "refcode": "KR 164.2"
+      },
+      {
+        "para_id": "882.736",
+        "lang": "it",
+        "refcode": "UVI 121.3"
+      },
+      {
+        "para_id": "11660.951",
+        "lang": "ja",
+        "refcode": "AAJ 209.1"
+      },
+      {
+        "para_id": "12335.708",
+        "lang": "nb",
+        "refcode": "AV 113.2"
+      },
+      {
+        "para_id": "12008.665",
+        "lang": "pl",
+        "refcode": "DA 107.2"
+      },
+      {
+        "para_id": "1806.705",
+        "lang": "pt",
+        "refcode": "AA 104.5"
+      },
+      {
+        "para_id": "2013.839",
+        "lang": "ro",
+        "refcode": "FA 194.1"
+      },
+      {
+        "para_id": "1785.817",
+        "lang": "ru",
+        "refcode": "ДА 194.1"
+      },
+      {
+        "para_id": "13874.714",
+        "lang": "rw",
+        "refcode": "INI 122.3"
+      },
+      {
+        "para_id": "11182.696",
+        "lang": "sk",
+        "refcode": "SA 118.3"
+      },
+      {
+        "para_id": "11904.763",
+        "lang": "tl",
+        "refcode": "AGA 147.2"
+      },
+      {
+        "para_id": "11875.737",
+        "lang": "uk",
+        "refcode": "ДА 133.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.852",
+    "id_prev": "127.851",
+    "id_next": "127.853",
+    "refcode_1": "AA",
+    "refcode_2": "194",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 194.2",
+    "refcode_long": "The Acts of the Apostles, p. 194.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "James also bore his testimony with decision, declaring that it was God&apos;s purpose to bestow upon the Gentiles the same privileges and blessings that had been granted to the Jews.",
+    "puborder": 535,
+    "translations": [
+      {
+        "para_id": "13804.640",
+        "lang": "bg",
+        "refcode": "Дa 75.2"
+      },
+      {
+        "para_id": "11590.815",
+        "lang": "ce",
+        "refcode": "ABA 166.2"
+      },
+      {
+        "para_id": "11247.773",
+        "lang": "cs",
+        "refcode": "PNL 112.3"
+      },
+      {
+        "para_id": "813.843",
+        "lang": "de",
+        "refcode": "WA 193.1"
+      },
+      {
+        "para_id": "198.810",
+        "lang": "es",
+        "refcode": "HAp 158.2"
+      },
+      {
+        "para_id": "158.799",
+        "lang": "fr",
+        "refcode": "CP 172.3"
+      },
+      {
+        "para_id": "11938.740",
+        "lang": "hu",
+        "refcode": "AT 129.2"
+      },
+      {
+        "para_id": "12410.791",
+        "lang": "id",
+        "refcode": "KR 164.3"
+      },
+      {
+        "para_id": "882.739",
+        "lang": "it",
+        "refcode": "UVI 122.1"
+      },
+      {
+        "para_id": "11660.952",
+        "lang": "ja",
+        "refcode": "AAJ 209.2"
+      },
+      {
+        "para_id": "12335.709",
+        "lang": "nb",
+        "refcode": "AV 113.3"
+      },
+      {
+        "para_id": "12008.666",
+        "lang": "pl",
+        "refcode": "DA 107.3"
+      },
+      {
+        "para_id": "2013.840",
+        "lang": "ro",
+        "refcode": "FA 194.2"
+      },
+      {
+        "para_id": "1785.818",
+        "lang": "ru",
+        "refcode": "ДА 194.2"
+      },
+      {
+        "para_id": "13874.715",
+        "lang": "rw",
+        "refcode": "INI 122.4"
+      },
+      {
+        "para_id": "11182.696",
+        "lang": "sk",
+        "refcode": "SA 118.3"
+      },
+      {
+        "para_id": "11904.764",
+        "lang": "tl",
+        "refcode": "AGA 147.3"
+      },
+      {
+        "para_id": "11875.738",
+        "lang": "uk",
+        "refcode": "ДА 133.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.853",
+    "id_prev": "127.852",
+    "id_next": "127.854",
+    "refcode_1": "AA",
+    "refcode_2": "194",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 194.3",
+    "refcode_long": "The Acts of the Apostles, p. 194.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Holy Spirit saw good not to impose the ceremonial law on the Gentile converts, and the mind of the apostles regarding this matter was as the mind of the Spirit of God. James presided at the council, and his final decision was, &ldquo;Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God.&rdquo;",
+    "puborder": 536,
+    "translations": [
+      {
+        "para_id": "13804.641",
+        "lang": "bg",
+        "refcode": "Дa 75.3"
+      },
+      {
+        "para_id": "11590.816",
+        "lang": "ce",
+        "refcode": "ABA 166.3"
+      },
+      {
+        "para_id": "11247.775",
+        "lang": "cs",
+        "refcode": "PNL 112.4"
+      },
+      {
+        "para_id": "813.844",
+        "lang": "de",
+        "refcode": "WA 193.2"
+      },
+      {
+        "para_id": "198.811",
+        "lang": "es",
+        "refcode": "HAp 158.3"
+      },
+      {
+        "para_id": "158.800",
+        "lang": "fr",
+        "refcode": "CP 172.4"
+      },
+      {
+        "para_id": "11938.741",
+        "lang": "hu",
+        "refcode": "AT 129.3"
+      },
+      {
+        "para_id": "12410.792",
+        "lang": "id",
+        "refcode": "KR 164.4"
+      },
+      {
+        "para_id": "882.740",
+        "lang": "it",
+        "refcode": "UVI 122.2"
+      },
+      {
+        "para_id": "11660.953",
+        "lang": "ja",
+        "refcode": "AAJ 209.3"
+      },
+      {
+        "para_id": "12335.710",
+        "lang": "nb",
+        "refcode": "AV 113.4"
+      },
+      {
+        "para_id": "12008.667",
+        "lang": "pl",
+        "refcode": "DA 107.4"
+      },
+      {
+        "para_id": "1806.705",
+        "lang": "pt",
+        "refcode": "AA 104.5"
+      },
+      {
+        "para_id": "2013.841",
+        "lang": "ro",
+        "refcode": "FA 194.3"
+      },
+      {
+        "para_id": "1785.819",
+        "lang": "ru",
+        "refcode": "ДА 194.3"
+      },
+      {
+        "para_id": "13874.717",
+        "lang": "rw",
+        "refcode": "INI 123.1"
+      },
+      {
+        "para_id": "11182.697",
+        "lang": "sk",
+        "refcode": "SA 118.4"
+      },
+      {
+        "para_id": "11904.765",
+        "lang": "tl",
+        "refcode": "AGA 147.4"
+      },
+      {
+        "para_id": "11875.739",
+        "lang": "uk",
+        "refcode": "ДА 133.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.854",
+    "id_prev": "127.853",
+    "id_next": "127.857",
+    "refcode_1": "AA",
+    "refcode_2": "194",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 194.4",
+    "refcode_long": "The Acts of the Apostles, p. 194.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "This ended the discussion. In this instance we have a refutation of the doctrine held by the Roman Catholic Church that Peter was the head of the church. Those who, as popes, have claimed to be his successors, have no Scriptural foundation for their pretensions. Nothing in the life of Peter <span class=\"page-break\" data-page=\"195\"></span> gives sanction to the claim that he was elevated above his brethren as the vicegerent of the Most High. If those who are declared to be the successors of Peter had followed his example, they would always have been content to remain on an equality with their brethren.",
+    "puborder": 537,
+    "translations": [
+      {
+        "para_id": "13804.642",
+        "lang": "bg",
+        "refcode": "Дa 75.4"
+      },
+      {
+        "para_id": "11590.817",
+        "lang": "ce",
+        "refcode": "ABA 166.4"
+      },
+      {
+        "para_id": "11247.776",
+        "lang": "cs",
+        "refcode": "PNL 112.5"
+      },
+      {
+        "para_id": "813.845",
+        "lang": "de",
+        "refcode": "WA 193.3"
+      },
+      {
+        "para_id": "198.812",
+        "lang": "es",
+        "refcode": "HAp 158.4"
+      },
+      {
+        "para_id": "158.801",
+        "lang": "fr",
+        "refcode": "CP 172.5"
+      },
+      {
+        "para_id": "11938.742",
+        "lang": "hu",
+        "refcode": "AT 129.4"
+      },
+      {
+        "para_id": "12410.795",
+        "lang": "id",
+        "refcode": "KR 165.1"
+      },
+      {
+        "para_id": "882.741",
+        "lang": "it",
+        "refcode": "UVI 122.3"
+      },
+      {
+        "para_id": "11660.956",
+        "lang": "ja",
+        "refcode": "AAJ 210.1"
+      },
+      {
+        "para_id": "12335.711",
+        "lang": "nb",
+        "refcode": "AV 113.5"
+      },
+      {
+        "para_id": "12008.668",
+        "lang": "pl",
+        "refcode": "DA 107.5"
+      },
+      {
+        "para_id": "1806.708",
+        "lang": "pt",
+        "refcode": "AA 105.1"
+      },
+      {
+        "para_id": "2013.842",
+        "lang": "ro",
+        "refcode": "FA 194.4"
+      },
+      {
+        "para_id": "1785.820",
+        "lang": "ru",
+        "refcode": "ДА 194.4"
+      },
+      {
+        "para_id": "13874.718",
+        "lang": "rw",
+        "refcode": "INI 123.2"
+      },
+      {
+        "para_id": "11182.699",
+        "lang": "sk",
+        "refcode": "SA 119.1"
+      },
+      {
+        "para_id": "11904.768",
+        "lang": "tl",
+        "refcode": "AGA 148.1"
+      },
+      {
+        "para_id": "11875.740",
+        "lang": "uk",
+        "refcode": "ДА 133.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.857",
+    "id_prev": "127.854",
+    "id_next": "127.858",
+    "refcode_1": "AA",
+    "refcode_2": "195",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 195.1",
+    "refcode_long": "The Acts of the Apostles, p. 195.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In this instance James seems to have been chosen as the one to announce the decision arrived at by the council. It was his sentence that the ceremonial law, and especially the ordinance of circumcision, should not be urged upon the Gentiles, or even recommended to them. James sought to impress the minds of his brethren with the fact that, in turning to God, the Gentiles had made a great change in their lives and that much caution should be used not to trouble them with perplexing and doubtful questions of minor importance, lest they be discouraged in following Christ.",
+    "puborder": 538,
+    "translations": [
+      {
+        "para_id": "13804.643",
+        "lang": "bg",
+        "refcode": "Дa 75.5"
+      },
+      {
+        "para_id": "11590.818",
+        "lang": "ce",
+        "refcode": "ABA 166.5"
+      },
+      {
+        "para_id": "11247.779",
+        "lang": "cs",
+        "refcode": "PNL 113.1"
+      },
+      {
+        "para_id": "813.846",
+        "lang": "de",
+        "refcode": "WA 193.4"
+      },
+      {
+        "para_id": "198.813",
+        "lang": "es",
+        "refcode": "HAp 158.5"
+      },
+      {
+        "para_id": "158.803",
+        "lang": "fr",
+        "refcode": "CP 173.1"
+      },
+      {
+        "para_id": "11938.743",
+        "lang": "hu",
+        "refcode": "AT 129.5"
+      },
+      {
+        "para_id": "12410.796",
+        "lang": "id",
+        "refcode": "KR 165.2"
+      },
+      {
+        "para_id": "882.742",
+        "lang": "it",
+        "refcode": "UVI 122.4"
+      },
+      {
+        "para_id": "11660.957",
+        "lang": "ja",
+        "refcode": "AAJ 210.2"
+      },
+      {
+        "para_id": "12335.714",
+        "lang": "nb",
+        "refcode": "AV 114.1"
+      },
+      {
+        "para_id": "12008.669",
+        "lang": "pl",
+        "refcode": "DA 107.6"
+      },
+      {
+        "para_id": "1806.709",
+        "lang": "pt",
+        "refcode": "AA 105.2"
+      },
+      {
+        "para_id": "2013.845",
+        "lang": "ro",
+        "refcode": "FA 195.1"
+      },
+      {
+        "para_id": "1785.823",
+        "lang": "ru",
+        "refcode": "ДА 195.1"
+      },
+      {
+        "para_id": "13874.719",
+        "lang": "rw",
+        "refcode": "INI 123.3"
+      },
+      {
+        "para_id": "11182.700",
+        "lang": "sk",
+        "refcode": "SA 119.2"
+      },
+      {
+        "para_id": "11904.769",
+        "lang": "tl",
+        "refcode": "AGA 148.2"
+      },
+      {
+        "para_id": "11875.741",
+        "lang": "uk",
+        "refcode": "ДА 133.6"
+      }
+    ]
+  },
+  {
+    "para_id": "127.858",
+    "id_prev": "127.857",
+    "id_next": "127.859",
+    "refcode_1": "AA",
+    "refcode_2": "195",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 195.2",
+    "refcode_long": "The Acts of the Apostles, p. 195.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Gentile converts, however, were to give up the customs that were inconsistent with the principles of Christianity. The apostles and elders therefore agreed to instruct the Gentiles by letter to abstain from meats offered to idols, from fornication, from things strangled, and from blood. They were to be urged to keep the commandments and to lead holy lives. They were also to be assured that the men who had declared circumcision to be binding were not authorized to do so by the apostles.",
+    "puborder": 539,
+    "translations": [
+      {
+        "para_id": "13804.644",
+        "lang": "bg",
+        "refcode": "Дa 75.6"
+      },
+      {
+        "para_id": "11590.821",
+        "lang": "ce",
+        "refcode": "ABA 167.1"
+      },
+      {
+        "para_id": "11247.780",
+        "lang": "cs",
+        "refcode": "PNL 113.2"
+      },
+      {
+        "para_id": "813.849",
+        "lang": "de",
+        "refcode": "WA 194.1"
+      },
+      {
+        "para_id": "198.816",
+        "lang": "es",
+        "refcode": "HAp 159.1"
+      },
+      {
+        "para_id": "158.804",
+        "lang": "fr",
+        "refcode": "CP 173.2"
+      },
+      {
+        "para_id": "11938.744",
+        "lang": "hu",
+        "refcode": "AT 129.6"
+      },
+      {
+        "para_id": "12410.797",
+        "lang": "id",
+        "refcode": "KR 165.3"
+      },
+      {
+        "para_id": "882.743",
+        "lang": "it",
+        "refcode": "UVI 122.5"
+      },
+      {
+        "para_id": "11660.958",
+        "lang": "ja",
+        "refcode": "AAJ 210.3"
+      },
+      {
+        "para_id": "12335.715",
+        "lang": "nb",
+        "refcode": "AV 114.2"
+      },
+      {
+        "para_id": "12008.669",
+        "lang": "pl",
+        "refcode": "DA 107.6"
+      },
+      {
+        "para_id": "1806.712",
+        "lang": "pt",
+        "refcode": "AA 105.5"
+      },
+      {
+        "para_id": "2013.846",
+        "lang": "ro",
+        "refcode": "FA 195.2"
+      },
+      {
+        "para_id": "1785.824",
+        "lang": "ru",
+        "refcode": "ДА 195.2"
+      },
+      {
+        "para_id": "13874.720",
+        "lang": "rw",
+        "refcode": "INI 123.4"
+      },
+      {
+        "para_id": "11182.701",
+        "lang": "sk",
+        "refcode": "SA 119.3"
+      },
+      {
+        "para_id": "11904.770",
+        "lang": "tl",
+        "refcode": "AGA 148.3"
+      },
+      {
+        "para_id": "11875.744",
+        "lang": "uk",
+        "refcode": "ДА 134.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.859",
+    "id_prev": "127.858",
+    "id_next": "127.862",
+    "refcode_1": "AA",
+    "refcode_2": "195",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 195.3",
+    "refcode_long": "The Acts of the Apostles, p. 195.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul and Barnabas were recommended to them as men who had hazarded their lives for the Lord. Judas and Silas were sent with these apostles to declare to the Gentiles by word of mouth the decision of the council: &ldquo;It seemed good to the Holy Ghost, and to us, to lay upon you no greater <span class=\"page-break\" data-page=\"196\"></span> burden than these necessary things; that ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well.&rdquo; The four servants of God were sent to Antioch with the epistle and message that was to put an end to all controversy; for it was the voice of the highest authority upon the earth.",
+    "puborder": 540,
+    "translations": [
+      {
+        "para_id": "13804.645",
+        "lang": "bg",
+        "refcode": "Дa 75.7"
+      },
+      {
+        "para_id": "11590.822",
+        "lang": "ce",
+        "refcode": "ABA 167.2"
+      },
+      {
+        "para_id": "11247.781",
+        "lang": "cs",
+        "refcode": "PNL 113.3"
+      },
+      {
+        "para_id": "813.850",
+        "lang": "de",
+        "refcode": "WA 194.2"
+      },
+      {
+        "para_id": "198.817",
+        "lang": "es",
+        "refcode": "HAp 159.2"
+      },
+      {
+        "para_id": "158.805",
+        "lang": "fr",
+        "refcode": "CP 173.3"
+      },
+      {
+        "para_id": "11938.747",
+        "lang": "hu",
+        "refcode": "AT 130.1"
+      },
+      {
+        "para_id": "12410.798",
+        "lang": "id",
+        "refcode": "KR 165.4"
+      },
+      {
+        "para_id": "882.744",
+        "lang": "it",
+        "refcode": "UVI 122.6"
+      },
+      {
+        "para_id": "11660.961",
+        "lang": "ja",
+        "refcode": "AAJ 211.1"
+      },
+      {
+        "para_id": "12335.716",
+        "lang": "nb",
+        "refcode": "AV 114.3"
+      },
+      {
+        "para_id": "12008.672",
+        "lang": "pl",
+        "refcode": "DA 108.1"
+      },
+      {
+        "para_id": "1806.713",
+        "lang": "pt",
+        "refcode": "AA 105.6"
+      },
+      {
+        "para_id": "2013.847",
+        "lang": "ro",
+        "refcode": "FA 195.3"
+      },
+      {
+        "para_id": "1785.825",
+        "lang": "ru",
+        "refcode": "ДА 195.3"
+      },
+      {
+        "para_id": "13874.721",
+        "lang": "rw",
+        "refcode": "INI 123.5"
+      },
+      {
+        "para_id": "11182.702",
+        "lang": "sk",
+        "refcode": "SA 119.4"
+      },
+      {
+        "para_id": "11904.771",
+        "lang": "tl",
+        "refcode": "AGA 148.4"
+      },
+      {
+        "para_id": "11875.745",
+        "lang": "uk",
+        "refcode": "ДА 134.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.862",
+    "id_prev": "127.859",
+    "id_next": "127.863",
+    "refcode_1": "AA",
+    "refcode_2": "196",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 196.1",
+    "refcode_long": "The Acts of the Apostles, p. 196.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The council which decided this case was composed of apostles and teachers who had been prominent in raising up the Jewish and Gentile Christian churches, with chosen delegates from various places. Elders from Jerusalem and deputies from Antioch were present, and the most influential churches were represented. The council moved in accordance with the dictates of enlightened judgment, and with the dignity of a church established by the divine will. As a result of their deliberations they all saw that God Himself had answered the question at issue by bestowing upon the Gentiles the Holy Ghost; and they realized that it was their part to follow the guidance of the Spirit.",
+    "puborder": 541,
+    "translations": [
+      {
+        "para_id": "13804.647",
+        "lang": "bg",
+        "refcode": "Дa 75.9"
+      },
+      {
+        "para_id": "11590.825",
+        "lang": "ce",
+        "refcode": "ABA 168.1"
+      },
+      {
+        "para_id": "11590.823",
+        "lang": "ce",
+        "refcode": "ABA 167.3"
+      },
+      {
+        "para_id": "11247.782",
+        "lang": "cs",
+        "refcode": "PNL 113.4"
+      },
+      {
+        "para_id": "813.851",
+        "lang": "de",
+        "refcode": "WA 194.3"
+      },
+      {
+        "para_id": "198.818",
+        "lang": "es",
+        "refcode": "HAp 159.3"
+      },
+      {
+        "para_id": "158.807",
+        "lang": "fr",
+        "refcode": "CP 173.5"
+      },
+      {
+        "para_id": "11938.748",
+        "lang": "hu",
+        "refcode": "AT 130.2"
+      },
+      {
+        "para_id": "12410.801",
+        "lang": "id",
+        "refcode": "KR 166.1"
+      },
+      {
+        "para_id": "882.747",
+        "lang": "it",
+        "refcode": "UVI 123.1"
+      },
+      {
+        "para_id": "11660.962",
+        "lang": "ja",
+        "refcode": "AAJ 211.2"
+      },
+      {
+        "para_id": "12335.717",
+        "lang": "nb",
+        "refcode": "AV 114.4"
+      },
+      {
+        "para_id": "12008.673",
+        "lang": "pl",
+        "refcode": "DA 108.2"
+      },
+      {
+        "para_id": "1806.714",
+        "lang": "pt",
+        "refcode": "AA 105.7"
+      },
+      {
+        "para_id": "2013.850",
+        "lang": "ro",
+        "refcode": "FA 196.1"
+      },
+      {
+        "para_id": "1785.828",
+        "lang": "ru",
+        "refcode": "ДА 196.1"
+      },
+      {
+        "para_id": "13874.723",
+        "lang": "rw",
+        "refcode": "INI 124.1"
+      },
+      {
+        "para_id": "11182.703",
+        "lang": "sk",
+        "refcode": "SA 119.5"
+      },
+      {
+        "para_id": "11904.774",
+        "lang": "tl",
+        "refcode": "AGA 149.1"
+      },
+      {
+        "para_id": "11875.746",
+        "lang": "uk",
+        "refcode": "ДА 134.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.863",
+    "id_prev": "127.862",
+    "id_next": "127.866",
+    "refcode_1": "AA",
+    "refcode_2": "196",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 196.2",
+    "refcode_long": "The Acts of the Apostles, p. 196.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The entire body of Christians was not called to vote upon the question. The &ldquo;apostles and elders,&rdquo; men of influence and judgment, framed and issued the decree, which was thereupon generally accepted by the Christian churches. Not all, however, were pleased with the decision; there was a faction of ambitious and self-confident brethren who disagreed with it. These men assumed to engage in the work on their own responsibility. They indulged in much murmuring and faultfinding, proposing new plans and seeking to pull down the work of the men whom God had ordained to teach the gospel message. From the first the church has <span class=\"page-break\" data-page=\"197\"></span> had such obstacles to meet and ever will have till the close of time.",
+    "puborder": 542,
+    "translations": [
+      {
+        "para_id": "13804.649",
+        "lang": "bg",
+        "refcode": "Дa 76.1"
+      },
+      {
+        "para_id": "11590.826",
+        "lang": "ce",
+        "refcode": "ABA 168.2"
+      },
+      {
+        "para_id": "11247.783",
+        "lang": "cs",
+        "refcode": "PNL 113.5"
+      },
+      {
+        "para_id": "813.854",
+        "lang": "de",
+        "refcode": "WA 195.1"
+      },
+      {
+        "para_id": "198.819",
+        "lang": "es",
+        "refcode": "HAp 159.4"
+      },
+      {
+        "para_id": "158.810",
+        "lang": "fr",
+        "refcode": "CP 174.1"
+      },
+      {
+        "para_id": "11938.749",
+        "lang": "hu",
+        "refcode": "AT 130.3"
+      },
+      {
+        "para_id": "12410.802",
+        "lang": "id",
+        "refcode": "KR 166.2"
+      },
+      {
+        "para_id": "882.748",
+        "lang": "it",
+        "refcode": "UVI 123.2"
+      },
+      {
+        "para_id": "11660.963",
+        "lang": "ja",
+        "refcode": "AAJ 211.3"
+      },
+      {
+        "para_id": "12335.718",
+        "lang": "nb",
+        "refcode": "AV 114.5"
+      },
+      {
+        "para_id": "12008.674",
+        "lang": "pl",
+        "refcode": "DA 108.3"
+      },
+      {
+        "para_id": "1806.714",
+        "lang": "pt",
+        "refcode": "AA 105.7"
+      },
+      {
+        "para_id": "2013.851",
+        "lang": "ro",
+        "refcode": "FA 196.2"
+      },
+      {
+        "para_id": "1785.829",
+        "lang": "ru",
+        "refcode": "ДА 196.2"
+      },
+      {
+        "para_id": "13874.724",
+        "lang": "rw",
+        "refcode": "INI 124.2"
+      },
+      {
+        "para_id": "11182.706",
+        "lang": "sk",
+        "refcode": "SA 120.1"
+      },
+      {
+        "para_id": "11904.775",
+        "lang": "tl",
+        "refcode": "AGA 149.2"
+      },
+      {
+        "para_id": "11875.747",
+        "lang": "uk",
+        "refcode": "ДА 134.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.866",
+    "id_prev": "127.863",
+    "id_next": "127.867",
+    "refcode_1": "AA",
+    "refcode_2": "197",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 197.1",
+    "refcode_long": "The Acts of the Apostles, p. 197.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Jerusalem was the metropolis of the Jews, and it was there that the greatest exclusiveness and bigotry were found. The Jewish Christians living within sight of the temple naturally allowed their minds to revert to the peculiar privileges of the Jews as a nation. When they saw the Christian church departing from the ceremonies and traditions of Judaism, and perceived that the peculiar sacredness with which the Jewish customs had been invested would soon be lost sight of in the light of the new faith, many grew indignant with Paul as the one who had, in a large measure, caused this change. Even the disciples were not all prepared to accept willingly the decision of the council. Some were zealous for the ceremonial law, and they regarded Paul with disfavor because they thought that his principles in regard to the obligations of the Jewish law were lax.",
+    "puborder": 543,
+    "translations": [
+      {
+        "para_id": "13804.650",
+        "lang": "bg",
+        "refcode": "Дa 76.2"
+      },
+      {
+        "para_id": "11590.827",
+        "lang": "ce",
+        "refcode": "ABA 168.3"
+      },
+      {
+        "para_id": "11247.786",
+        "lang": "cs",
+        "refcode": "PNL 114.1"
+      },
+      {
+        "para_id": "813.855",
+        "lang": "de",
+        "refcode": "WA 195.2"
+      },
+      {
+        "para_id": "198.822",
+        "lang": "es",
+        "refcode": "HAp 160.1"
+      },
+      {
+        "para_id": "158.811",
+        "lang": "fr",
+        "refcode": "CP 174.2"
+      },
+      {
+        "para_id": "11938.750",
+        "lang": "hu",
+        "refcode": "AT 130.4"
+      },
+      {
+        "para_id": "12410.804",
+        "lang": "id",
+        "refcode": "KR 167.1"
+      },
+      {
+        "para_id": "882.749",
+        "lang": "it",
+        "refcode": "UVI 123.3"
+      },
+      {
+        "para_id": "11660.966",
+        "lang": "ja",
+        "refcode": "AAJ 212.1"
+      },
+      {
+        "para_id": "12335.721",
+        "lang": "nb",
+        "refcode": "AV 115.1"
+      },
+      {
+        "para_id": "12008.675",
+        "lang": "pl",
+        "refcode": "DA 108.4"
+      },
+      {
+        "para_id": "1806.717",
+        "lang": "pt",
+        "refcode": "AA 106.1"
+      },
+      {
+        "para_id": "2013.854",
+        "lang": "ro",
+        "refcode": "FA 197.1"
+      },
+      {
+        "para_id": "1785.832",
+        "lang": "ru",
+        "refcode": "ДА 197.1"
+      },
+      {
+        "para_id": "13874.725",
+        "lang": "rw",
+        "refcode": "INI 124.3"
+      },
+      {
+        "para_id": "11182.707",
+        "lang": "sk",
+        "refcode": "SA 120.2"
+      },
+      {
+        "para_id": "11904.776",
+        "lang": "tl",
+        "refcode": "AGA 149.3"
+      },
+      {
+        "para_id": "11875.749",
+        "lang": "uk",
+        "refcode": "ДА 135.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.867",
+    "id_prev": "127.866",
+    "id_next": "127.868",
+    "refcode_1": "AA",
+    "refcode_2": "197",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 197.2",
+    "refcode_long": "The Acts of the Apostles, p. 197.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The broad and far-reaching decisions of the general council brought confidence into the ranks of the Gentile believers, and the cause of God prospered. In Antioch the church was favored with the presence of Judas and Silas, the special messengers who had returned with the apostles from the meeting in Jerusalem. &ldquo;Being prophets also themselves,&rdquo; Judas and Silas, &ldquo;exhorted the brethren with many words, and confirmed them.&rdquo; These godly men tarried in Antioch for a time. &ldquo;Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also.&rdquo;",
+    "puborder": 544,
+    "translations": [
+      {
+        "para_id": "13804.651",
+        "lang": "bg",
+        "refcode": "Дa 76.3"
+      },
+      {
+        "para_id": "11590.829",
+        "lang": "ce",
+        "refcode": "ABA 169.1"
+      },
+      {
+        "para_id": "11247.787",
+        "lang": "cs",
+        "refcode": "PNL 114.2"
+      },
+      {
+        "para_id": "813.857",
+        "lang": "de",
+        "refcode": "WA 196.1"
+      },
+      {
+        "para_id": "198.823",
+        "lang": "es",
+        "refcode": "HAp 160.2"
+      },
+      {
+        "para_id": "158.814",
+        "lang": "fr",
+        "refcode": "CP 175.1"
+      },
+      {
+        "para_id": "158.811",
+        "lang": "fr",
+        "refcode": "CP 174.2"
+      },
+      {
+        "para_id": "11938.753",
+        "lang": "hu",
+        "refcode": "AT 131.1"
+      },
+      {
+        "para_id": "12410.805",
+        "lang": "id",
+        "refcode": "KR 167.2"
+      },
+      {
+        "para_id": "882.750",
+        "lang": "it",
+        "refcode": "UVI 123.4"
+      },
+      {
+        "para_id": "11660.967",
+        "lang": "ja",
+        "refcode": "AAJ 212.2"
+      },
+      {
+        "para_id": "12335.722",
+        "lang": "nb",
+        "refcode": "AV 115.2"
+      },
+      {
+        "para_id": "12008.678",
+        "lang": "pl",
+        "refcode": "DA 109.1"
+      },
+      {
+        "para_id": "1806.718",
+        "lang": "pt",
+        "refcode": "AA 106.2"
+      },
+      {
+        "para_id": "2013.855",
+        "lang": "ro",
+        "refcode": "FA 197.2"
+      },
+      {
+        "para_id": "1785.833",
+        "lang": "ru",
+        "refcode": "ДА 197.2"
+      },
+      {
+        "para_id": "13874.726",
+        "lang": "rw",
+        "refcode": "INI 124.4"
+      },
+      {
+        "para_id": "11182.708",
+        "lang": "sk",
+        "refcode": "SA 120.3"
+      },
+      {
+        "para_id": "11904.779",
+        "lang": "tl",
+        "refcode": "AGA 150.1"
+      },
+      {
+        "para_id": "11875.750",
+        "lang": "uk",
+        "refcode": "ДА 135.2"
+      },
+      {
+        "para_id": "11875.751",
+        "lang": "uk",
+        "refcode": "ДА 135.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.868",
+    "id_prev": "127.867",
+    "id_next": "127.871",
+    "refcode_1": "AA",
+    "refcode_2": "197",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 197.3",
+    "refcode_long": "The Acts of the Apostles, p. 197.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When Peter, at a later date, visited Antioch, he won the confidence of many by his prudent conduct toward the <span class=\"page-break\" data-page=\"198\"></span> Gentile converts. For a time he acted in accordance with the light given from heaven. He so far overcame his natural prejudice as to sit at table with the Gentile converts. But when certain Jews who were zealous for the ceremonial law, came from Jerusalem, Peter injudiciously changed his deportment toward the converts from paganism. A number of the Jews &ldquo;dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.&rdquo; This revelation of weakness on the part of those who had been respected and loved as leaders, left a most painful impression on the minds of the Gentile believers. The church was threatened with division. But Paul, who saw the subverting influence of the wrong done to the church through the double part acted by Peter, openly rebuked him for thus disguising his true sentiments. In the presence of the church, Paul inquired of Peter, &ldquo;If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Galatians 2:13\" data-link=\"1965.59332\">Galatians 2:13, 14</span>.",
+    "puborder": 545,
+    "translations": [
+      {
+        "para_id": "13804.652",
+        "lang": "bg",
+        "refcode": "Дa 76.4"
+      },
+      {
+        "para_id": "11590.830",
+        "lang": "ce",
+        "refcode": "ABA 169.2"
+      },
+      {
+        "para_id": "11247.789",
+        "lang": "cs",
+        "refcode": "PNL 114.3"
+      },
+      {
+        "para_id": "813.858",
+        "lang": "de",
+        "refcode": "WA 196.2"
+      },
+      {
+        "para_id": "198.826",
+        "lang": "es",
+        "refcode": "HAp 161.1"
+      },
+      {
+        "para_id": "158.814",
+        "lang": "fr",
+        "refcode": "CP 175.1"
+      },
+      {
+        "para_id": "11938.754",
+        "lang": "hu",
+        "refcode": "AT 131.2"
+      },
+      {
+        "para_id": "12410.806",
+        "lang": "id",
+        "refcode": "KR 167.3"
+      },
+      {
+        "para_id": "882.753",
+        "lang": "it",
+        "refcode": "UVI 124.1"
+      },
+      {
+        "para_id": "11660.970",
+        "lang": "ja",
+        "refcode": "AAJ 213.1"
+      },
+      {
+        "para_id": "12335.723",
+        "lang": "nb",
+        "refcode": "AV 115.3"
+      },
+      {
+        "para_id": "12008.679",
+        "lang": "pl",
+        "refcode": "DA 109.2"
+      },
+      {
+        "para_id": "1806.719",
+        "lang": "pt",
+        "refcode": "AA 106.3"
+      },
+      {
+        "para_id": "2013.856",
+        "lang": "ro",
+        "refcode": "FA 197.3"
+      },
+      {
+        "para_id": "1785.834",
+        "lang": "ru",
+        "refcode": "ДА 197.3"
+      },
+      {
+        "para_id": "13874.729",
+        "lang": "rw",
+        "refcode": "INI 125.1"
+      },
+      {
+        "para_id": "11182.709",
+        "lang": "sk",
+        "refcode": "SA 120.4"
+      },
+      {
+        "para_id": "11904.780",
+        "lang": "tl",
+        "refcode": "AGA 150.2"
+      },
+      {
+        "para_id": "11875.752",
+        "lang": "uk",
+        "refcode": "ДА 135.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.871",
+    "id_prev": "127.868",
+    "id_next": "127.874",
+    "refcode_1": "AA",
+    "refcode_2": "198",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 198.1",
+    "refcode_long": "The Acts of the Apostles, p. 198.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Peter saw the error into which he had fallen, and immediately set about repairing the evil that had been wrought, so far as was in his power. God, who knows the end from the beginning, permitted Peter to reveal this weakness of character in order that the tried apostle might see that there was nothing in himself whereof he might boast. Even the best of men, if left to themselves, will err in judgment. God also saw that in time to come some would be so deluded as to claim for Peter and his pretended successors the exalted prerogatives that belong to God alone. And this record of <span class=\"page-break\" data-page=\"199\"></span> the apostle&apos;s weakness was to remain as a proof of his fallibility and of the fact that he stood in no way above the level of the other apostles.",
+    "puborder": 546,
+    "translations": [
+      {
+        "para_id": "13804.653",
+        "lang": "bg",
+        "refcode": "Дa 76.5"
+      },
+      {
+        "para_id": "11590.831",
+        "lang": "ce",
+        "refcode": "ABA 169.3"
+      },
+      {
+        "para_id": "11247.790",
+        "lang": "cs",
+        "refcode": "PNL 114.4"
+      },
+      {
+        "para_id": "813.859",
+        "lang": "de",
+        "refcode": "WA 196.3"
+      },
+      {
+        "para_id": "198.827",
+        "lang": "es",
+        "refcode": "HAp 161.2"
+      },
+      {
+        "para_id": "158.816",
+        "lang": "fr",
+        "refcode": "CP 175.3"
+      },
+      {
+        "para_id": "158.818",
+        "lang": "fr",
+        "refcode": "CP 176.1"
+      },
+      {
+        "para_id": "11938.755",
+        "lang": "hu",
+        "refcode": "AT 131.3"
+      },
+      {
+        "para_id": "12410.809",
+        "lang": "id",
+        "refcode": "KR 168.1"
+      },
+      {
+        "para_id": "882.754",
+        "lang": "it",
+        "refcode": "UVI 124.2"
+      },
+      {
+        "para_id": "11660.971",
+        "lang": "ja",
+        "refcode": "AAJ 213.2"
+      },
+      {
+        "para_id": "12335.724",
+        "lang": "nb",
+        "refcode": "AV 115.4"
+      },
+      {
+        "para_id": "12008.680",
+        "lang": "pl",
+        "refcode": "DA 109.3"
+      },
+      {
+        "para_id": "1806.720",
+        "lang": "pt",
+        "refcode": "AA 106.4"
+      },
+      {
+        "para_id": "2013.859",
+        "lang": "ro",
+        "refcode": "FA 198.1"
+      },
+      {
+        "para_id": "1785.837",
+        "lang": "ru",
+        "refcode": "ДА 198.1"
+      },
+      {
+        "para_id": "13874.730",
+        "lang": "rw",
+        "refcode": "INI 125.2"
+      },
+      {
+        "para_id": "11182.712",
+        "lang": "sk",
+        "refcode": "SA 121.1"
+      },
+      {
+        "para_id": "11904.781",
+        "lang": "tl",
+        "refcode": "AGA 150.3"
+      },
+      {
+        "para_id": "11875.755",
+        "lang": "uk",
+        "refcode": "ДА 136.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.874",
+    "id_prev": "127.871",
+    "id_next": "127.875",
+    "refcode_1": "AA",
+    "refcode_2": "199",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 199.1",
+    "refcode_long": "The Acts of the Apostles, p. 199.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The history of this departure from right principles stands as a solemn warning to men in positions of trust in the cause of God, that they may not fail in integrity, but firmly adhere to principle. The greater the responsibilities placed upon the human agent, and the larger his opportunities to dictate and control, the more harm he is sure to do if he does not carefully follow the way of the Lord and labor in harmony with the decisions arrived at by the general body of believers in united council.",
+    "puborder": 547,
+    "translations": [
+      {
+        "para_id": "13804.655",
+        "lang": "bg",
+        "refcode": "Дa 77.1"
+      },
+      {
+        "para_id": "11590.834",
+        "lang": "ce",
+        "refcode": "ABA 170.1"
+      },
+      {
+        "para_id": "11247.793",
+        "lang": "cs",
+        "refcode": "PNL 115.1"
+      },
+      {
+        "para_id": "813.862",
+        "lang": "de",
+        "refcode": "WA 197.1"
+      },
+      {
+        "para_id": "198.829",
+        "lang": "es",
+        "refcode": "HAp 162.1"
+      },
+      {
+        "para_id": "158.818",
+        "lang": "fr",
+        "refcode": "CP 176.1"
+      },
+      {
+        "para_id": "11938.758",
+        "lang": "hu",
+        "refcode": "AT 132.1"
+      },
+      {
+        "para_id": "12410.810",
+        "lang": "id",
+        "refcode": "KR 168.2"
+      },
+      {
+        "para_id": "882.755",
+        "lang": "it",
+        "refcode": "UVI 124.3"
+      },
+      {
+        "para_id": "11660.974",
+        "lang": "ja",
+        "refcode": "AAJ 214.1"
+      },
+      {
+        "para_id": "12335.727",
+        "lang": "nb",
+        "refcode": "AV 116.1"
+      },
+      {
+        "para_id": "12008.681",
+        "lang": "pl",
+        "refcode": "DA 109.4"
+      },
+      {
+        "para_id": "1806.723",
+        "lang": "pt",
+        "refcode": "AA 107.1"
+      },
+      {
+        "para_id": "2013.862",
+        "lang": "ro",
+        "refcode": "FA 199.1"
+      },
+      {
+        "para_id": "1785.840",
+        "lang": "ru",
+        "refcode": "ДА 199.1"
+      },
+      {
+        "para_id": "13874.731",
+        "lang": "rw",
+        "refcode": "INI 125.3"
+      },
+      {
+        "para_id": "11182.713",
+        "lang": "sk",
+        "refcode": "SA 121.2"
+      },
+      {
+        "para_id": "11904.784",
+        "lang": "tl",
+        "refcode": "AGA 151.1"
+      },
+      {
+        "para_id": "11875.756",
+        "lang": "uk",
+        "refcode": "ДА 136.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.875",
+    "id_prev": "127.874",
+    "id_next": "127.876",
+    "refcode_1": "AA",
+    "refcode_2": "199",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 199.2",
+    "refcode_long": "The Acts of the Apostles, p. 199.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "After all Peter&apos;s failures; after his fall and restoration, his long course of service, his intimate acquaintance with Christ, his knowledge of the Saviour&apos;s straightforward practice of right principles; after all the instruction he had received, all the gifts and knowledge and influence he had gained by preaching and teaching the word&mdash;is it not strange that he should dissemble and evade the principles of the gospel through fear of man, or in order to gain esteem? Is it not strange that he should waver in his adherence to right? May God give every man a realization of his helplessness, his inability to steer his own vessel straight and safe into the harbor.",
+    "puborder": 548,
+    "translations": [
+      {
+        "para_id": "13804.656",
+        "lang": "bg",
+        "refcode": "Дa 77.2"
+      },
+      {
+        "para_id": "11590.835",
+        "lang": "ce",
+        "refcode": "ABA 170.2"
+      },
+      {
+        "para_id": "11247.794",
+        "lang": "cs",
+        "refcode": "PNL 115.2"
+      },
+      {
+        "para_id": "813.863",
+        "lang": "de",
+        "refcode": "WA 197.2"
+      },
+      {
+        "para_id": "198.830",
+        "lang": "es",
+        "refcode": "HAp 162.2"
+      },
+      {
+        "para_id": "158.819",
+        "lang": "fr",
+        "refcode": "CP 176.2"
+      },
+      {
+        "para_id": "11938.759",
+        "lang": "hu",
+        "refcode": "AT 132.2"
+      },
+      {
+        "para_id": "12410.812",
+        "lang": "id",
+        "refcode": "KR 169.1"
+      },
+      {
+        "para_id": "882.758",
+        "lang": "it",
+        "refcode": "UVI 125.1"
+      },
+      {
+        "para_id": "11660.975",
+        "lang": "ja",
+        "refcode": "AAJ 214.2"
+      },
+      {
+        "para_id": "12335.728",
+        "lang": "nb",
+        "refcode": "AV 116.2"
+      },
+      {
+        "para_id": "12008.684",
+        "lang": "pl",
+        "refcode": "DA 110.1"
+      },
+      {
+        "para_id": "1806.724",
+        "lang": "pt",
+        "refcode": "AA 107.2"
+      },
+      {
+        "para_id": "2013.863",
+        "lang": "ro",
+        "refcode": "FA 199.2"
+      },
+      {
+        "para_id": "1785.841",
+        "lang": "ru",
+        "refcode": "ДА 199.2"
+      },
+      {
+        "para_id": "13874.732",
+        "lang": "rw",
+        "refcode": "INI 125.4"
+      },
+      {
+        "para_id": "11182.714",
+        "lang": "sk",
+        "refcode": "SA 121.3"
+      },
+      {
+        "para_id": "11904.785",
+        "lang": "tl",
+        "refcode": "AGA 151.2"
+      },
+      {
+        "para_id": "11875.757",
+        "lang": "uk",
+        "refcode": "ДА 136.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.876",
+    "id_prev": "127.875",
+    "id_next": "127.879",
+    "refcode_1": "AA",
+    "refcode_2": "199",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 199.3",
+    "refcode_long": "The Acts of the Apostles, p. 199.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In his ministry, Paul was often compelled to stand alone. He was specially taught of God and dared make no concessions that would involve principle. At times the burden was heavy, but Paul stood firm for the right. He realized that the church must never be brought under the control <span class=\"page-break\" data-page=\"200\"></span> of human power. The traditions and maxims of men must not take the place of revealed truth. The advance of the gospel message must not be hindered by the prejudices and preferences of men, whatever might be their position in the church.",
+    "puborder": 549,
+    "translations": [
+      {
+        "para_id": "13804.657",
+        "lang": "bg",
+        "refcode": "Дa 77.3"
+      },
+      {
+        "para_id": "11590.836",
+        "lang": "ce",
+        "refcode": "ABA 170.3"
+      },
+      {
+        "para_id": "11247.796",
+        "lang": "cs",
+        "refcode": "PNL 115.3"
+      },
+      {
+        "para_id": "813.866",
+        "lang": "de",
+        "refcode": "WA 198.1"
+      },
+      {
+        "para_id": "198.831",
+        "lang": "es",
+        "refcode": "HAp 162.3"
+      },
+      {
+        "para_id": "158.820",
+        "lang": "fr",
+        "refcode": "CP 176.3"
+      },
+      {
+        "para_id": "11938.760",
+        "lang": "hu",
+        "refcode": "AT 132.3"
+      },
+      {
+        "para_id": "12410.813",
+        "lang": "id",
+        "refcode": "KR 169.2"
+      },
+      {
+        "para_id": "882.759",
+        "lang": "it",
+        "refcode": "UVI 125.2"
+      },
+      {
+        "para_id": "11660.976",
+        "lang": "ja",
+        "refcode": "AAJ 214.3"
+      },
+      {
+        "para_id": "12335.729",
+        "lang": "nb",
+        "refcode": "AV 116.3"
+      },
+      {
+        "para_id": "12008.685",
+        "lang": "pl",
+        "refcode": "DA 110.2"
+      },
+      {
+        "para_id": "1806.725",
+        "lang": "pt",
+        "refcode": "AA 107.3"
+      },
+      {
+        "para_id": "2013.864",
+        "lang": "ro",
+        "refcode": "FA 199.3"
+      },
+      {
+        "para_id": "1785.842",
+        "lang": "ru",
+        "refcode": "ДА 199.3"
+      },
+      {
+        "para_id": "13874.735",
+        "lang": "rw",
+        "refcode": "INI 126.1"
+      },
+      {
+        "para_id": "11182.715",
+        "lang": "sk",
+        "refcode": "SA 121.4"
+      },
+      {
+        "para_id": "11904.786",
+        "lang": "tl",
+        "refcode": "AGA 151.3"
+      },
+      {
+        "para_id": "11875.760",
+        "lang": "uk",
+        "refcode": "ДА 137.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.879",
+    "id_prev": "127.876",
+    "id_next": "127.880",
+    "refcode_1": "AA",
+    "refcode_2": "200",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 200.1",
+    "refcode_long": "The Acts of the Apostles, p. 200.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul had dedicated himself and all his powers to the service of God. He had received the truths of the gospel direct from heaven, and throughout his ministry he maintained a vital connection with heavenly agencies. He had been taught by God regarding the binding of unnecessary burdens upon the Gentile Christians; thus when the Judaizing believers introduced into the Antioch church the question of circumcision, Paul knew the mind of the Spirit of God concerning such teaching and took a firm and unyielding position which brought to the churches freedom from Jewish rites and ceremonies.",
+    "puborder": 550,
+    "translations": [
+      {
+        "para_id": "13804.658",
+        "lang": "bg",
+        "refcode": "Дa 77.4"
+      },
+      {
+        "para_id": "11590.839",
+        "lang": "ce",
+        "refcode": "ABA 171.1"
+      },
+      {
+        "para_id": "11247.797",
+        "lang": "cs",
+        "refcode": "PNL 115.4"
+      },
+      {
+        "para_id": "813.867",
+        "lang": "de",
+        "refcode": "WA 198.2"
+      },
+      {
+        "para_id": "198.832",
+        "lang": "es",
+        "refcode": "HAp 162.4"
+      },
+      {
+        "para_id": "158.822",
+        "lang": "fr",
+        "refcode": "CP 177.1"
+      },
+      {
+        "para_id": "11938.762",
+        "lang": "hu",
+        "refcode": "AT 133.1"
+      },
+      {
+        "para_id": "12410.814",
+        "lang": "id",
+        "refcode": "KR 169.3"
+      },
+      {
+        "para_id": "882.760",
+        "lang": "it",
+        "refcode": "UVI 125.3"
+      },
+      {
+        "para_id": "11660.979",
+        "lang": "ja",
+        "refcode": "AAJ 215.1"
+      },
+      {
+        "para_id": "12335.730",
+        "lang": "nb",
+        "refcode": "AV 116.4"
+      },
+      {
+        "para_id": "12008.686",
+        "lang": "pl",
+        "refcode": "DA 110.3"
+      },
+      {
+        "para_id": "1806.727",
+        "lang": "pt",
+        "refcode": "AA 107.5"
+      },
+      {
+        "para_id": "2013.867",
+        "lang": "ro",
+        "refcode": "FA 200.1"
+      },
+      {
+        "para_id": "1785.845",
+        "lang": "ru",
+        "refcode": "ДА 200.1"
+      },
+      {
+        "para_id": "13874.736",
+        "lang": "rw",
+        "refcode": "INI 126.2"
+      },
+      {
+        "para_id": "11182.718",
+        "lang": "sk",
+        "refcode": "SA 122.1"
+      },
+      {
+        "para_id": "11904.786",
+        "lang": "tl",
+        "refcode": "AGA 151.3"
+      },
+      {
+        "para_id": "11875.761",
+        "lang": "uk",
+        "refcode": "ДА 137.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.880",
+    "id_prev": "127.879",
+    "id_next": "127.882",
+    "refcode_1": "AA",
+    "refcode_2": "200",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 200.2",
+    "refcode_long": "The Acts of the Apostles, p. 200.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Notwithstanding the fact that Paul was personally taught by God, he had no strained ideas of individual responsibility. While looking to God for direct guidance, he was ever ready to recognize the authority vested in the body of believers united in church fellowship. He felt the need of counsel, and when matters of importance arose, he was glad to lay these before the church and to unite with his brethren in seeking God for wisdom to make right decisions. Even &ldquo;the spirits of the prophets,&rdquo; he declared, &ldquo;are subject to the prophets. For God is not the author of confusion, but of peace, as in all churches of the saints.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Corinthians 14:32\" data-link=\"1965.58545\">1 Corinthians 14:32, 33</span>. With Peter, he taught that all united in church capacity should be &ldquo;subject one to another.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Peter 5:5\" data-link=\"1965.62159\">1 Peter 5:5</span>.",
+    "puborder": 551,
+    "translations": [
+      {
+        "para_id": "13804.659",
+        "lang": "bg",
+        "refcode": "Дa 77.5"
+      },
+      {
+        "para_id": "11590.840",
+        "lang": "ce",
+        "refcode": "ABA 171.2"
+      },
+      {
+        "para_id": "11247.798",
+        "lang": "cs",
+        "refcode": "PNL 115.5"
+      },
+      {
+        "para_id": "813.868",
+        "lang": "de",
+        "refcode": "WA 198.3"
+      },
+      {
+        "para_id": "198.835",
+        "lang": "es",
+        "refcode": "HAp 163.1"
+      },
+      {
+        "para_id": "158.823",
+        "lang": "fr",
+        "refcode": "CP 177.2"
+      },
+      {
+        "para_id": "11938.763",
+        "lang": "hu",
+        "refcode": "AT 133.2"
+      },
+      {
+        "para_id": "12410.815",
+        "lang": "id",
+        "refcode": "KR 169.4"
+      },
+      {
+        "para_id": "882.761",
+        "lang": "it",
+        "refcode": "UVI 125.4"
+      },
+      {
+        "para_id": "11660.980",
+        "lang": "ja",
+        "refcode": "AAJ 215.2"
+      },
+      {
+        "para_id": "12335.733",
+        "lang": "nb",
+        "refcode": "AV 117.1"
+      },
+      {
+        "para_id": "12008.687",
+        "lang": "pl",
+        "refcode": "DA 110.4"
+      },
+      {
+        "para_id": "1806.728",
+        "lang": "pt",
+        "refcode": "AA 107.6"
+      },
+      {
+        "para_id": "2013.868",
+        "lang": "ro",
+        "refcode": "FA 200.2"
+      },
+      {
+        "para_id": "1785.846",
+        "lang": "ru",
+        "refcode": "ДА 200.2"
+      },
+      {
+        "para_id": "13874.738",
+        "lang": "rw",
+        "refcode": "INI 126.4"
+      },
+      {
+        "para_id": "13874.737",
+        "lang": "rw",
+        "refcode": "INI 126.3"
+      },
+      {
+        "para_id": "11182.719",
+        "lang": "sk",
+        "refcode": "SA 122.2"
+      },
+      {
+        "para_id": "11904.789",
+        "lang": "tl",
+        "refcode": "AGA 152.1"
+      },
+      {
+        "para_id": "11875.762",
+        "lang": "uk",
+        "refcode": "ДА 137.3"
+      }
+    ]
+  }
+]

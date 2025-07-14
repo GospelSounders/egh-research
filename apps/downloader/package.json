@@ -40,7 +40,9 @@
     "dev": "tsx src/index.ts",
     "download": "tsx src/index.ts",
     "clean": "rimraf dist",
-    "lint": "eslint src/ --ext .ts"
+    "lint": "eslint src/ --ext .ts",
+    "prepublishOnly": "npm run clean && npm run build",
+    "postinstall": "node -e \"console.log('\\n🎉 EGW Downloader CLI installed!\\n📖 Run: egw-downloader --help\\n⚡ Quick start: egw-downloader quick-start --zip\\n')\""
   },
   "dependencies": {
     "@surgbc/egw-writings-shared": "workspace:*",

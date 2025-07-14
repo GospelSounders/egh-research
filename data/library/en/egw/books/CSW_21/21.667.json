@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.667",
+    "id_prev": "21.665",
+    "id_next": "21.668",
+    "refcode_1": "CSW",
+    "refcode_2": "143",
+    "refcode_3": "",
+    "refcode_4": "110",
+    "refcode_short": "CSW 143",
+    "refcode_long": "Counsels on Sabbath School Work, p. 143 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Birthday Offerings",
+    "puborder": 420,
+    "translations": [
+      {
+        "para_id": "11629.642",
+        "lang": "da",
+        "refcode": "RSSA 143"
+      },
+      {
+        "para_id": "799.631",
+        "lang": "de",
+        "refcode": "RSs 118"
+      },
+      {
+        "para_id": "1711.714",
+        "lang": "es",
+        "refcode": "COES 160"
+      },
+      {
+        "para_id": "1917.785",
+        "lang": "pt",
+        "refcode": "CES38 75"
+      },
+      {
+        "para_id": "1724.705",
+        "lang": "pt",
+        "refcode": "CES 143"
+      },
+      {
+        "para_id": "2719.684",
+        "lang": "ro",
+        "refcode": "SSS 143"
+      },
+      {
+        "para_id": "1873.662",
+        "lang": "ru",
+        "refcode": "ССШ 143"
+      }
+    ]
+  },
+  {
+    "para_id": "21.668",
+    "id_prev": "21.667",
+    "id_next": "21.669",
+    "refcode_1": "CSW",
+    "refcode_2": "143",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 143.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 143.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Under the Jewish economy, on the birth of children an offering was made to God, by His own appointment. Now we see parents taking special pains to present gifts to their children upon their birthdays; they make this an occasion of honoring the child, as though honor were due to the human being. Satan has had his own way in these things; he has diverted the minds and the gifts to human beings; thus the thoughts of the children are turned to themselves, as if they were to be made the objects of special favor. That which should flow back to God in offerings to bless the needy and carry the light of truth to the world, is turned from the right channel, and frequently does more harm than good, encouraging vanity, pride, and self-importance. On birthday occasions the children should be taught that they have reason for gratitude to God for His loving-kindness in preserving their lives for another year. Precious lessons might thus be given. For life, health, food, and clothing, no less than for the hope of eternal life, we are indebted to the Giver of all mercies; and it is due to God to recognize His gifts, and to present our offerings of gratitude to our greatest benefactor. These birthday gifts are recognized of Heaven.&mdash;<span class=\"egwlink egwlink_book\" title=\"RH 12-9-1890\" data-link=\"821.10849\"><em>The Review and Herald</em>, December 9, 1890</span>.",
+    "puborder": 421,
+    "translations": [
+      {
+        "para_id": "11629.643",
+        "lang": "da",
+        "refcode": "RSSA 143.1"
+      },
+      {
+        "para_id": "799.632",
+        "lang": "de",
+        "refcode": "RSs 118.1"
+      },
+      {
+        "para_id": "1711.715",
+        "lang": "es",
+        "refcode": "COES 160.1"
+      },
+      {
+        "para_id": "1724.706",
+        "lang": "pt",
+        "refcode": "CES 143.1"
+      },
+      {
+        "para_id": "1917.786",
+        "lang": "pt",
+        "refcode": "CES38 75.1"
+      },
+      {
+        "para_id": "2719.685",
+        "lang": "ro",
+        "refcode": "SSS 143.1"
+      },
+      {
+        "para_id": "1873.663",
+        "lang": "ru",
+        "refcode": "ССШ 143.1"
+      }
+    ]
+  }
+]

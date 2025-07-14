@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.541",
+    "id_prev": "21.540",
+    "id_next": "21.542",
+    "refcode_1": "CSW",
+    "refcode_2": "117",
+    "refcode_3": "",
+    "refcode_4": "79",
+    "refcode_short": "CSW 117",
+    "refcode_long": "Counsels on Sabbath School Work, p. 117 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Reading the lesson",
+    "puborder": 339,
+    "translations": [
+      {
+        "para_id": "11629.515",
+        "lang": "da",
+        "refcode": "RSSA 117"
+      },
+      {
+        "para_id": "799.517",
+        "lang": "de",
+        "refcode": "RSs 98"
+      },
+      {
+        "para_id": "1711.580",
+        "lang": "es",
+        "refcode": "COES 131"
+      },
+      {
+        "para_id": "1917.635",
+        "lang": "pt",
+        "refcode": "CES38 61"
+      },
+      {
+        "para_id": "1724.576",
+        "lang": "pt",
+        "refcode": "CES 117"
+      },
+      {
+        "para_id": "2719.557",
+        "lang": "ro",
+        "refcode": "SSS 117"
+      },
+      {
+        "para_id": "1873.536",
+        "lang": "ru",
+        "refcode": "ССШ 117"
+      }
+    ]
+  },
+  {
+    "para_id": "21.542",
+    "id_prev": "21.541",
+    "id_next": "21.545",
+    "refcode_1": "CSW",
+    "refcode_2": "117",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 117.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 117.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In some schools, I am sorry to say, the custom prevails of reading the lesson from the lesson sheet. This should not be. It need not be, if the time that is often needlessly and even sinfully employed, were given to the study of the Scriptures. There is no <span class=\"page-break\" data-page=\"118\"></span> reason why Sabbath school lessons should be less perfectly learned by teachers or pupils than are the lessons of the day school. They should be better learned, as they treat of subjects infinitely more important. A neglect here is displeasing to God.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 10.1\" data-link=\"121.29\"><em>Testimonies on Sabbath-School Work</em>, 10</span>.",
+    "puborder": 340,
+    "translations": [
+      {
+        "para_id": "11629.516",
+        "lang": "da",
+        "refcode": "RSSA 117.2"
+      },
+      {
+        "para_id": "799.518",
+        "lang": "de",
+        "refcode": "RSs 98.1"
+      },
+      {
+        "para_id": "1711.581",
+        "lang": "es",
+        "refcode": "COES 131.1"
+      },
+      {
+        "para_id": "1724.577",
+        "lang": "pt",
+        "refcode": "CES 117.2"
+      },
+      {
+        "para_id": "1917.636",
+        "lang": "pt",
+        "refcode": "CES38 61.1"
+      },
+      {
+        "para_id": "2719.558",
+        "lang": "ro",
+        "refcode": "SSS 117.2"
+      },
+      {
+        "para_id": "1873.537",
+        "lang": "ru",
+        "refcode": "ССШ 117.2"
+      }
+    ]
+  }
+]

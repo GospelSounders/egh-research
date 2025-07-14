@@ -1,0 +1,1744 @@
+[
+  {
+    "para_id": "128.36",
+    "id_prev": "128.2587",
+    "id_next": "128.38",
+    "refcode_1": "AH",
+    "refcode_2": "13",
+    "refcode_3": "",
+    "refcode_4": "1",
+    "refcode_short": "AH 13",
+    "refcode_long": "The Adventist Home, p. 13 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 1&mdash;The Home Beautiful",
+    "puborder": 16,
+    "translations": [
+      {
+        "para_id": "13839.18",
+        "lang": "bg",
+        "refcode": "ХД 4"
+      },
+      {
+        "para_id": "177.78",
+        "lang": "es",
+        "refcode": "HC 11"
+      },
+      {
+        "para_id": "193.36",
+        "lang": "fr",
+        "refcode": "FC 13"
+      },
+      {
+        "para_id": "12869.26",
+        "lang": "id",
+        "refcode": "MKB 12"
+      },
+      {
+        "para_id": "891.11",
+        "lang": "it",
+        "refcode": "FC 8"
+      },
+      {
+        "para_id": "12178.26",
+        "lang": "pl",
+        "refcode": "ChD 7"
+      },
+      {
+        "para_id": "1955.91",
+        "lang": "pt",
+        "refcode": "LA 15"
+      },
+      {
+        "para_id": "2026.24",
+        "lang": "ro",
+        "refcode": "CA 15"
+      },
+      {
+        "para_id": "1803.4",
+        "lang": "ru",
+        "refcode": "ХД 14"
+      },
+      {
+        "para_id": "12131.25",
+        "lang": "uk",
+        "refcode": "ХР 11"
+      }
+    ]
+  },
+  {
+    "para_id": "128.38",
+    "id_prev": "128.36",
+    "id_next": "128.39",
+    "refcode_1": "AH",
+    "refcode_2": "15",
+    "refcode_3": "",
+    "refcode_4": "1",
+    "refcode_short": "AH 15",
+    "refcode_long": "The Adventist Home, p. 15 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 1&mdash;Atmosphere of the Home",
+    "puborder": 17,
+    "translations": [
+      {
+        "para_id": "13839.19",
+        "lang": "bg",
+        "refcode": "ХД 4"
+      },
+      {
+        "para_id": "177.79",
+        "lang": "es",
+        "refcode": "HC 11"
+      },
+      {
+        "para_id": "193.39",
+        "lang": "fr",
+        "refcode": "FC 15"
+      },
+      {
+        "para_id": "12869.28",
+        "lang": "id",
+        "refcode": "MKB 13"
+      },
+      {
+        "para_id": "891.12",
+        "lang": "it",
+        "refcode": "FC 8"
+      },
+      {
+        "para_id": "12178.27",
+        "lang": "pl",
+        "refcode": "ChD 7"
+      },
+      {
+        "para_id": "1955.92",
+        "lang": "pt",
+        "refcode": "LA 15"
+      },
+      {
+        "para_id": "2026.25",
+        "lang": "ro",
+        "refcode": "CA 15"
+      },
+      {
+        "para_id": "1803.6",
+        "lang": "ru",
+        "refcode": "ХД 15"
+      },
+      {
+        "para_id": "12131.27",
+        "lang": "uk",
+        "refcode": "ХР 12"
+      }
+    ]
+  },
+  {
+    "para_id": "128.39",
+    "id_prev": "128.38",
+    "id_next": "128.40",
+    "refcode_1": "AH",
+    "refcode_2": "15",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 15.1",
+    "refcode_long": "The Adventist Home, p. 15.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Home Is the Heart of All Activity</strong>&mdash;Society is composed of families, and is what the heads of families make it. Out of the heart are &ldquo;the issues of life&rdquo;; and the heart of the community, of the church, and of the nation is the household. The well-being of society, the success of the church, the prosperity of the nation, depend upon home influences.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 349.1\" data-link=\"135.1761\">The Ministry of Healing, 349</span>.</span></a></sup>",
+    "puborder": 18,
+    "translations": [
+      {
+        "para_id": "13839.20",
+        "lang": "bg",
+        "refcode": "ХД 4.6"
+      },
+      {
+        "para_id": "177.80",
+        "lang": "es",
+        "refcode": "HC 11.1"
+      },
+      {
+        "para_id": "193.40",
+        "lang": "fr",
+        "refcode": "FC 15.1"
+      },
+      {
+        "para_id": "12869.30",
+        "lang": "id",
+        "refcode": "MKB 13.1"
+      },
+      {
+        "para_id": "891.13",
+        "lang": "it",
+        "refcode": "FC 8"
+      },
+      {
+        "para_id": "891.14",
+        "lang": "it",
+        "refcode": "FC 8.1"
+      },
+      {
+        "para_id": "12178.28",
+        "lang": "pl",
+        "refcode": "ChD 7.1"
+      },
+      {
+        "para_id": "1955.93",
+        "lang": "pt",
+        "refcode": "LA 15.1"
+      },
+      {
+        "para_id": "2026.26",
+        "lang": "ro",
+        "refcode": "CA 15.1"
+      },
+      {
+        "para_id": "1803.7",
+        "lang": "ru",
+        "refcode": "ХД 15.1"
+      },
+      {
+        "para_id": "12131.28",
+        "lang": "uk",
+        "refcode": "ХР 12.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.40",
+    "id_prev": "128.39",
+    "id_next": "128.41",
+    "refcode_1": "AH",
+    "refcode_2": "15",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 15.2",
+    "refcode_long": "The Adventist Home, p. 15.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The elevation or deterioration of the future of society will be determined by the manners and morals of the youth growing up around us. As the youth are educated, and as their characters are molded in their childhood to virtuous habits, self-control, and temperance, so will their influence be upon society. If they are left unenlightened and uncontrolled, and as the result become self-willed, intemperate in appetite and passion, so will be their future influence in molding society. The company which the young now keep, the habits they now form, and the principles they now adopt are the index to the state of society for years to come.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"nol-ink\" title=\"PHJ 6-1-1890\">Pacific Health Journal, June, 1890</span> (<span class=\"egwlink egwlink_book\" title=\"HR 6-1-1877\" data-link=\"504.1138\">The Health Reformer, June, 1877</span>).</span></a></sup>",
+    "puborder": 19,
+    "translations": [
+      {
+        "para_id": "13839.21",
+        "lang": "bg",
+        "refcode": "ХД 4.7"
+      },
+      {
+        "para_id": "177.81",
+        "lang": "es",
+        "refcode": "HC 11.2"
+      },
+      {
+        "para_id": "193.41",
+        "lang": "fr",
+        "refcode": "FC 15.2"
+      },
+      {
+        "para_id": "12869.31",
+        "lang": "id",
+        "refcode": "MKB 13.2"
+      },
+      {
+        "para_id": "12178.29",
+        "lang": "pl",
+        "refcode": "ChD 7.2"
+      },
+      {
+        "para_id": "1955.94",
+        "lang": "pt",
+        "refcode": "LA 15.2"
+      },
+      {
+        "para_id": "2026.27",
+        "lang": "ro",
+        "refcode": "CA 15.2"
+      },
+      {
+        "para_id": "1803.8",
+        "lang": "ru",
+        "refcode": "ХД 15.2"
+      },
+      {
+        "para_id": "12131.29",
+        "lang": "uk",
+        "refcode": "ХР 12.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.41",
+    "id_prev": "128.40",
+    "id_next": "128.42",
+    "refcode_1": "AH",
+    "refcode_2": "15",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 15.3",
+    "refcode_long": "The Adventist Home, p. 15.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Sweetest Type of Heaven</strong>&mdash;Home should be made all that the word implies. It should be a little heaven upon earth, a place where the affections are cultivated instead of being studiously repressed. Our happiness depends upon this cultivation of love, sympathy, and true courtesy to one another.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"3T 539.1\" data-link=\"119.2533\">Testimonies for the Church 3:539</span>.</span></a></sup>",
+    "puborder": 20,
+    "translations": [
+      {
+        "para_id": "13839.24",
+        "lang": "bg",
+        "refcode": "ХД 5.1"
+      },
+      {
+        "para_id": "177.82",
+        "lang": "es",
+        "refcode": "HC 11.3"
+      },
+      {
+        "para_id": "193.42",
+        "lang": "fr",
+        "refcode": "FC 15.3"
+      },
+      {
+        "para_id": "12869.34",
+        "lang": "id",
+        "refcode": "MKB 14.1"
+      },
+      {
+        "para_id": "12178.30",
+        "lang": "pl",
+        "refcode": "ChD 7.3"
+      },
+      {
+        "para_id": "1955.96",
+        "lang": "pt",
+        "refcode": "LA 15.3"
+      },
+      {
+        "para_id": "1955.95",
+        "lang": "pt",
+        "refcode": "LA 15"
+      },
+      {
+        "para_id": "2026.28",
+        "lang": "ro",
+        "refcode": "CA 15.3"
+      },
+      {
+        "para_id": "1803.9",
+        "lang": "ru",
+        "refcode": "ХД 15.3"
+      },
+      {
+        "para_id": "12131.30",
+        "lang": "uk",
+        "refcode": "ХР 12.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.42",
+    "id_prev": "128.41",
+    "id_next": "128.44",
+    "refcode_1": "AH",
+    "refcode_2": "15",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 15.4",
+    "refcode_long": "The Adventist Home, p. 15.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The sweetest type of heaven is a home where the Spirit of the Lord presides. If the will of God is fulfilled, the husband and wife will respect each other and cultivate love and confidence.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"nol-ink\" title=\"ST 6-20-1911\">The Signs of the Times, June 20, 1911</span> (<span class=\"egwlink egwlink_book\" title=\"ST 11-14-1892\" data-link=\"820.11328\">The Signs of the Times, November 14, 1892</span>).</span></a></sup>",
+    "puborder": 21,
+    "translations": [
+      {
+        "para_id": "13839.25",
+        "lang": "bg",
+        "refcode": "ХД 5.2"
+      },
+      {
+        "para_id": "177.84",
+        "lang": "es",
+        "refcode": "HC 12.1"
+      },
+      {
+        "para_id": "193.43",
+        "lang": "fr",
+        "refcode": "FC 15.4"
+      },
+      {
+        "para_id": "12869.35",
+        "lang": "id",
+        "refcode": "MKB 14.2"
+      },
+      {
+        "para_id": "12178.31",
+        "lang": "pl",
+        "refcode": "ChD 7.4"
+      },
+      {
+        "para_id": "1955.97",
+        "lang": "pt",
+        "refcode": "LA 15.4"
+      },
+      {
+        "para_id": "2026.29",
+        "lang": "ro",
+        "refcode": "CA 15.4"
+      },
+      {
+        "para_id": "1803.10",
+        "lang": "ru",
+        "refcode": "ХД 15.4"
+      },
+      {
+        "para_id": "12131.31",
+        "lang": "uk",
+        "refcode": "ХР 12.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.44",
+    "id_prev": "128.42",
+    "id_next": "128.45",
+    "refcode_1": "AH",
+    "refcode_2": "16",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 16.1",
+    "refcode_long": "The Adventist Home, p. 16.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Importance of the Home Atmosphere</strong>&mdash;The atmosphere surrounding the souls of fathers and mothers fills the whole house, and is felt in every department of the home.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 49, 1898\" data-link=\"14063.6171001\">Manuscript 49, 1898</span>.</span></a></sup>",
+    "puborder": 22,
+    "translations": [
+      {
+        "para_id": "13839.26",
+        "lang": "bg",
+        "refcode": "ХД 5.3"
+      },
+      {
+        "para_id": "177.85",
+        "lang": "es",
+        "refcode": "HC 12.2"
+      },
+      {
+        "para_id": "193.45",
+        "lang": "fr",
+        "refcode": "FC 16.1"
+      },
+      {
+        "para_id": "12869.37",
+        "lang": "id",
+        "refcode": "MKB 14.3"
+      },
+      {
+        "para_id": "891.16",
+        "lang": "it",
+        "refcode": "FC 8.2"
+      },
+      {
+        "para_id": "891.15",
+        "lang": "it",
+        "refcode": "FC 8"
+      },
+      {
+        "para_id": "12178.33",
+        "lang": "pl",
+        "refcode": "ChD 8.1"
+      },
+      {
+        "para_id": "1955.99",
+        "lang": "pt",
+        "refcode": "LA 16"
+      },
+      {
+        "para_id": "1955.100",
+        "lang": "pt",
+        "refcode": "LA 16.1"
+      },
+      {
+        "para_id": "2026.31",
+        "lang": "ro",
+        "refcode": "CA 16.1"
+      },
+      {
+        "para_id": "1803.12",
+        "lang": "ru",
+        "refcode": "ХД 16.1"
+      },
+      {
+        "para_id": "12131.32",
+        "lang": "uk",
+        "refcode": "ХР 12.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.45",
+    "id_prev": "128.44",
+    "id_next": "128.46",
+    "refcode_1": "AH",
+    "refcode_2": "16",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 16.2",
+    "refcode_long": "The Adventist Home, p. 16.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To a large extent parents create the atmosphere of the home circle, and when there is disagreement between father and mother, the children partake of the same spirit. Make your home atmosphere fragrant with tender thoughtfulness. If you have become estranged and have failed to be Bible Christians, be converted; for the character you bear in probationary time will be the character you will have at the coming of Christ. If you would be a saint in heaven, you must first be a saint on earth. The traits of character you cherish in life will not be changed by death or by the resurrection. You will come up from the grave with the same disposition you manifested in your home and in society. Jesus does not change the character at His coming. The work of transformation must be done now. Our daily lives are determining our destiny.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 18b, 1891\" data-link=\"14057.5649001\">Letter 18b, 1891</span>.</span></a></sup>",
+    "puborder": 23,
+    "translations": [
+      {
+        "para_id": "13839.27",
+        "lang": "bg",
+        "refcode": "ХД 5.4"
+      },
+      {
+        "para_id": "177.86",
+        "lang": "es",
+        "refcode": "HC 12.3"
+      },
+      {
+        "para_id": "193.46",
+        "lang": "fr",
+        "refcode": "FC 16.2"
+      },
+      {
+        "para_id": "12869.38",
+        "lang": "id",
+        "refcode": "MKB 14.4"
+      },
+      {
+        "para_id": "891.17",
+        "lang": "it",
+        "refcode": "FC 8.3"
+      },
+      {
+        "para_id": "12178.34",
+        "lang": "pl",
+        "refcode": "ChD 8.2"
+      },
+      {
+        "para_id": "1955.101",
+        "lang": "pt",
+        "refcode": "LA 16.2"
+      },
+      {
+        "para_id": "2026.32",
+        "lang": "ro",
+        "refcode": "CA 16.2"
+      },
+      {
+        "para_id": "1803.13",
+        "lang": "ru",
+        "refcode": "ХД 16.2"
+      },
+      {
+        "para_id": "12131.33",
+        "lang": "uk",
+        "refcode": "ХР 12.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.46",
+    "id_prev": "128.45",
+    "id_next": "128.49",
+    "refcode_1": "AH",
+    "refcode_2": "16",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 16.3",
+    "refcode_long": "The Adventist Home, p. 16.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Creating a Pure Atmosphere</strong>&mdash;Every Christian home should have rules; and parents should, in their words and deportment toward each other, give to the children a precious, living example of what they desire them to be. Purity in speech and true Christian courtesy should be constantly practiced. Teach the children and youth to respect themselves, to be true to God, true to principle; teach them to respect and obey the law of God. These principles will control their lives and will be carried out in their associations with others. They will create a pure atmosphere&mdash;one that will have an influence that will encourage weak souls in the upward path that leads to holiness and heaven. Let every lesson be of <span class=\"page-break\" data-page=\"17\"></span> an elevating and ennobling character, and the records made in the books of heaven will be such as you will not be ashamed to meet in the judgment.",
+    "puborder": 24,
+    "translations": [
+      {
+        "para_id": "13839.28",
+        "lang": "bg",
+        "refcode": "ХД 5.5"
+      },
+      {
+        "para_id": "177.87",
+        "lang": "es",
+        "refcode": "HC 12.4"
+      },
+      {
+        "para_id": "193.47",
+        "lang": "fr",
+        "refcode": "FC 16.3"
+      },
+      {
+        "para_id": "12869.40",
+        "lang": "id",
+        "refcode": "MKB 14.5"
+      },
+      {
+        "para_id": "891.20",
+        "lang": "it",
+        "refcode": "FC 8.5"
+      },
+      {
+        "para_id": "891.19",
+        "lang": "it",
+        "refcode": "FC 8.4"
+      },
+      {
+        "para_id": "891.21",
+        "lang": "it",
+        "refcode": "FC 8.6"
+      },
+      {
+        "para_id": "891.18",
+        "lang": "it",
+        "refcode": "FC 8"
+      },
+      {
+        "para_id": "12178.35",
+        "lang": "pl",
+        "refcode": "ChD 8.3"
+      },
+      {
+        "para_id": "1955.103",
+        "lang": "pt",
+        "refcode": "LA 16.3"
+      },
+      {
+        "para_id": "1955.102",
+        "lang": "pt",
+        "refcode": "LA 16"
+      },
+      {
+        "para_id": "2026.33",
+        "lang": "ro",
+        "refcode": "CA 16.3"
+      },
+      {
+        "para_id": "1803.14",
+        "lang": "ru",
+        "refcode": "ХД 16.3"
+      },
+      {
+        "para_id": "12131.36",
+        "lang": "uk",
+        "refcode": "ХР 13.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.49",
+    "id_prev": "128.46",
+    "id_next": "128.50",
+    "refcode_1": "AH",
+    "refcode_2": "17",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 17.1",
+    "refcode_long": "The Adventist Home, p. 17.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Children who receive this kind of instruction will ... be prepared to fill places of responsibility and, by precept and example, will be constantly aiding others to do right. Those whose moral sensibilities have not been blunted will appreciate right principles; they will put a just estimate upon their natural endowments and will make the best use of their physical, mental, and moral powers. Such souls are strongly fortified against temptation; they are surrounded by a wall not easily broken down.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"SpTB16 4.1\" data-link=\"283.19\">Special Selections from the Testimonies for Students and Workers of our Sanitariums (1911) 4, 5</span>.</span></a></sup>",
+    "puborder": 25,
+    "translations": [
+      {
+        "para_id": "13839.29",
+        "lang": "bg",
+        "refcode": "ХД 5.6"
+      },
+      {
+        "para_id": "177.90",
+        "lang": "es",
+        "refcode": "HC 13.1"
+      },
+      {
+        "para_id": "193.49",
+        "lang": "fr",
+        "refcode": "FC 17.1"
+      },
+      {
+        "para_id": "12869.43",
+        "lang": "id",
+        "refcode": "MKB 15.1"
+      },
+      {
+        "para_id": "891.24",
+        "lang": "it",
+        "refcode": "FC 9.1"
+      },
+      {
+        "para_id": "12178.36",
+        "lang": "pl",
+        "refcode": "ChD 8.4"
+      },
+      {
+        "para_id": "1955.105",
+        "lang": "pt",
+        "refcode": "LA 17.1"
+      },
+      {
+        "para_id": "2026.36",
+        "lang": "ro",
+        "refcode": "CA 17.1"
+      },
+      {
+        "para_id": "1803.17",
+        "lang": "ru",
+        "refcode": "ХД 17.1"
+      },
+      {
+        "para_id": "12131.37",
+        "lang": "uk",
+        "refcode": "ХР 13.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.50",
+    "id_prev": "128.49",
+    "id_next": "128.51",
+    "refcode_1": "AH",
+    "refcode_2": "17",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 17.2",
+    "refcode_long": "The Adventist Home, p. 17.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God would have our families symbols of the family in heaven. Let parents and children bear this in mind every day, relating themselves to one another as members of the family of God. Then their lives will be of such a character as to give to the world an object lesson of what families who love God and keep His commandments may be. Christ will be glorified; His peace and grace and love will pervade the family circle like a precious perfume.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 11-17-1896\" data-link=\"821.15360\">The Review and Herald, November 17, 1896</span>.</span></a></sup>",
+    "puborder": 26,
+    "translations": [
+      {
+        "para_id": "13839.30",
+        "lang": "bg",
+        "refcode": "ХД 5.7"
+      },
+      {
+        "para_id": "177.91",
+        "lang": "es",
+        "refcode": "HC 13.2"
+      },
+      {
+        "para_id": "193.50",
+        "lang": "fr",
+        "refcode": "FC 17.2"
+      },
+      {
+        "para_id": "12869.44",
+        "lang": "id",
+        "refcode": "MKB 15.2"
+      },
+      {
+        "para_id": "891.25",
+        "lang": "it",
+        "refcode": "FC 9.2"
+      },
+      {
+        "para_id": "12178.39",
+        "lang": "pl",
+        "refcode": "ChD 9.1"
+      },
+      {
+        "para_id": "1955.106",
+        "lang": "pt",
+        "refcode": "LA 17.2"
+      },
+      {
+        "para_id": "2026.37",
+        "lang": "ro",
+        "refcode": "CA 17.2"
+      },
+      {
+        "para_id": "1803.18",
+        "lang": "ru",
+        "refcode": "ХД 17.2"
+      },
+      {
+        "para_id": "12131.38",
+        "lang": "uk",
+        "refcode": "ХР 13.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.51",
+    "id_prev": "128.50",
+    "id_next": "128.52",
+    "refcode_1": "AH",
+    "refcode_2": "17",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 17.3",
+    "refcode_long": "The Adventist Home, p. 17.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Much depends on the father and mother. They are to be firm and kind in their discipline, and they are to work most earnestly to have an orderly, correct household, that the heavenly angels may be attracted to it to impart peace and a fragrant influence.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 14, 1905\" data-link=\"14070.9423001\">Manuscript 14, 1905</span>.</span></a></sup>",
+    "puborder": 27,
+    "translations": [
+      {
+        "para_id": "13839.33",
+        "lang": "bg",
+        "refcode": "ХД 6.1"
+      },
+      {
+        "para_id": "13839.34",
+        "lang": "bg",
+        "refcode": "ХД 6.2"
+      },
+      {
+        "para_id": "177.92",
+        "lang": "es",
+        "refcode": "HC 13.3"
+      },
+      {
+        "para_id": "193.51",
+        "lang": "fr",
+        "refcode": "FC 17.3"
+      },
+      {
+        "para_id": "12869.45",
+        "lang": "id",
+        "refcode": "MKB 15.3"
+      },
+      {
+        "para_id": "891.26",
+        "lang": "it",
+        "refcode": "FC 9.3"
+      },
+      {
+        "para_id": "12178.40",
+        "lang": "pl",
+        "refcode": "ChD 9.2"
+      },
+      {
+        "para_id": "1955.107",
+        "lang": "pt",
+        "refcode": "LA 17.3"
+      },
+      {
+        "para_id": "2026.38",
+        "lang": "ro",
+        "refcode": "CA 17.3"
+      },
+      {
+        "para_id": "1803.19",
+        "lang": "ru",
+        "refcode": "ХД 17.3"
+      },
+      {
+        "para_id": "12131.41",
+        "lang": "uk",
+        "refcode": "ХР 14.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.52",
+    "id_prev": "128.51",
+    "id_next": "128.54",
+    "refcode_1": "AH",
+    "refcode_2": "17",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 17.4",
+    "refcode_long": "The Adventist Home, p. 17.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Make Home Bright and Happy</strong>&mdash;Never forget that you are to make the home bright and happy for yourselves and your children by cherishing the Saviour&apos;s attributes. If you bring Christ into the home, you will know good from evil. You will be able to help your children to be trees of righteousness, bearing the fruit of the Spirit.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 29, 1902\" data-link=\"14067.8247001\">Letter 29, 1902</span>.</span></a></sup>",
+    "puborder": 28,
+    "translations": [
+      {
+        "para_id": "13839.35",
+        "lang": "bg",
+        "refcode": "ХД 6.3"
+      },
+      {
+        "para_id": "177.93",
+        "lang": "es",
+        "refcode": "HC 13.4"
+      },
+      {
+        "para_id": "193.52",
+        "lang": "fr",
+        "refcode": "FC 17.4"
+      },
+      {
+        "para_id": "12869.47",
+        "lang": "id",
+        "refcode": "MKB 15.4"
+      },
+      {
+        "para_id": "12178.41",
+        "lang": "pl",
+        "refcode": "ChD 9.3"
+      },
+      {
+        "para_id": "1955.109",
+        "lang": "pt",
+        "refcode": "LA 17.4"
+      },
+      {
+        "para_id": "1955.108",
+        "lang": "pt",
+        "refcode": "LA 17"
+      },
+      {
+        "para_id": "2026.39",
+        "lang": "ro",
+        "refcode": "CA 17.4"
+      },
+      {
+        "para_id": "1803.20",
+        "lang": "ru",
+        "refcode": "ХД 17.4"
+      },
+      {
+        "para_id": "12131.42",
+        "lang": "uk",
+        "refcode": "ХР 14.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.54",
+    "id_prev": "128.52",
+    "id_next": "128.55",
+    "refcode_1": "AH",
+    "refcode_2": "18",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 18.1",
+    "refcode_long": "The Adventist Home, p. 18.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Troubles may invade, but these are the lot of humanity. Let patience, gratitude, and love keep sunshine in the heart though the day may be ever so cloudy.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 393.1\" data-link=\"135.1985\">The Ministry of Healing, 393</span>.</span></a></sup>",
+    "puborder": 29,
+    "translations": [
+      {
+        "para_id": "13839.36",
+        "lang": "bg",
+        "refcode": "ХД 6.4"
+      },
+      {
+        "para_id": "177.94",
+        "lang": "es",
+        "refcode": "HC 13.5"
+      },
+      {
+        "para_id": "193.53",
+        "lang": "fr",
+        "refcode": "FC 17.5"
+      },
+      {
+        "para_id": "12869.50",
+        "lang": "id",
+        "refcode": "MKB 16.1"
+      },
+      {
+        "para_id": "12178.42",
+        "lang": "pl",
+        "refcode": "ChD 9.4"
+      },
+      {
+        "para_id": "1955.110",
+        "lang": "pt",
+        "refcode": "LA 17.5"
+      },
+      {
+        "para_id": "2026.41",
+        "lang": "ro",
+        "refcode": "CA 18.1"
+      },
+      {
+        "para_id": "1803.22",
+        "lang": "ru",
+        "refcode": "ХД 18.1"
+      },
+      {
+        "para_id": "12131.43",
+        "lang": "uk",
+        "refcode": "ХР 14.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.55",
+    "id_prev": "128.54",
+    "id_next": "128.56",
+    "refcode_1": "AH",
+    "refcode_2": "18",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 18.2",
+    "refcode_long": "The Adventist Home, p. 18.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The home may be plain, but it can always be a place where cheerful words are spoken and kindly deeds are done, where courtesy and love are abiding guests.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 7-9-1901\" data-link=\"821.20596\">The Review and Herald, July 9, 1901</span>.</span></a></sup>",
+    "puborder": 30,
+    "translations": [
+      {
+        "para_id": "13839.37",
+        "lang": "bg",
+        "refcode": "ХД 6.5"
+      },
+      {
+        "para_id": "177.97",
+        "lang": "es",
+        "refcode": "HC 14.1"
+      },
+      {
+        "para_id": "193.54",
+        "lang": "fr",
+        "refcode": "FC 17.6"
+      },
+      {
+        "para_id": "12869.51",
+        "lang": "id",
+        "refcode": "MKB 16.2"
+      },
+      {
+        "para_id": "12178.43",
+        "lang": "pl",
+        "refcode": "ChD 9.5"
+      },
+      {
+        "para_id": "1955.113",
+        "lang": "pt",
+        "refcode": "LA 18.1"
+      },
+      {
+        "para_id": "2026.42",
+        "lang": "ro",
+        "refcode": "CA 18.2"
+      },
+      {
+        "para_id": "1803.23",
+        "lang": "ru",
+        "refcode": "ХД 18.2"
+      },
+      {
+        "para_id": "12131.44",
+        "lang": "uk",
+        "refcode": "ХР 14.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.56",
+    "id_prev": "128.55",
+    "id_next": "128.57",
+    "refcode_1": "AH",
+    "refcode_2": "18",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 18.3",
+    "refcode_long": "The Adventist Home, p. 18.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Administer the rules of the home in wisdom and love, not with a rod of iron. Children will respond with willing obedience to the rule of love. Commend your children whenever you can. Make their lives as happy as possible.... Keep the soil of the heart mellow by the manifestation of love and affection, thus preparing it for the seed of truth. Remember that the Lord gives the earth not only clouds and rain, but the beautiful, smiling sunshine, causing the seed to germinate and the blossom to appear. Remember that children need not only reproof and correction, but encouragement and commendation, the pleasant sunshine of kind words.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 114.1\" data-link=\"23.523\">Counsels to Teachers, Parents, and Students, 114</span>.</span></a></sup>",
+    "puborder": 31,
+    "translations": [
+      {
+        "para_id": "13839.38",
+        "lang": "bg",
+        "refcode": "ХД 6.6"
+      },
+      {
+        "para_id": "177.98",
+        "lang": "es",
+        "refcode": "HC 14.2"
+      },
+      {
+        "para_id": "193.57",
+        "lang": "fr",
+        "refcode": "FC 18.1"
+      },
+      {
+        "para_id": "12869.52",
+        "lang": "id",
+        "refcode": "MKB 16.3"
+      },
+      {
+        "para_id": "1955.114",
+        "lang": "pt",
+        "refcode": "LA 18.2"
+      },
+      {
+        "para_id": "2026.43",
+        "lang": "ro",
+        "refcode": "CA 18.3"
+      },
+      {
+        "para_id": "1803.24",
+        "lang": "ru",
+        "refcode": "ХД 18.3"
+      },
+      {
+        "para_id": "12131.45",
+        "lang": "uk",
+        "refcode": "ХР 14.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.57",
+    "id_prev": "128.56",
+    "id_next": "128.58",
+    "refcode_1": "AH",
+    "refcode_2": "18",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 18.4",
+    "refcode_long": "The Adventist Home, p. 18.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "You must not have strife in your household. &ldquo;But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy. And the fruit of righteousness is sown in peace of them that make peace.&rdquo; It is gentleness and peace that we want in our homes.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">14<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 9, 1893\" data-link=\"14058.6994001\">Manuscript 9, 1893</span>.</span></a></sup>",
+    "puborder": 32,
+    "translations": [
+      {
+        "para_id": "13839.39",
+        "lang": "bg",
+        "refcode": "ХД 6.7"
+      },
+      {
+        "para_id": "177.99",
+        "lang": "es",
+        "refcode": "HC 14.3"
+      },
+      {
+        "para_id": "193.58",
+        "lang": "fr",
+        "refcode": "FC 18.2"
+      },
+      {
+        "para_id": "12869.53",
+        "lang": "id",
+        "refcode": "MKB 16.4"
+      },
+      {
+        "para_id": "12178.45",
+        "lang": "pl",
+        "refcode": "ChD 9.7"
+      },
+      {
+        "para_id": "1955.115",
+        "lang": "pt",
+        "refcode": "LA 18.3"
+      },
+      {
+        "para_id": "2026.45",
+        "lang": "ro",
+        "refcode": "CA 18.4"
+      },
+      {
+        "para_id": "1803.25",
+        "lang": "ru",
+        "refcode": "ХД 18.4"
+      },
+      {
+        "para_id": "12131.46",
+        "lang": "uk",
+        "refcode": "ХР 14.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.58",
+    "id_prev": "128.57",
+    "id_next": "128.59",
+    "refcode_1": "AH",
+    "refcode_2": "18",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 18.5",
+    "refcode_long": "The Adventist Home, p. 18.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Tender Ties That Bind</strong>&mdash;The family tie is the closest, the most tender and sacred, of any on earth. It was designed to be a blessing to mankind. And it is a blessing wherever the marriage covenant is entered into intelligently, in the fear of God, and with due consideration for its responsibilities.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">15<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 356.1\" data-link=\"135.1793\">The Ministry of Healing, 356, 357</span>.</span></a></sup>",
+    "puborder": 33,
+    "translations": [
+      {
+        "para_id": "13839.40",
+        "lang": "bg",
+        "refcode": "ХД 6.8"
+      },
+      {
+        "para_id": "177.100",
+        "lang": "es",
+        "refcode": "HC 14.4"
+      },
+      {
+        "para_id": "193.59",
+        "lang": "fr",
+        "refcode": "FC 18.3"
+      },
+      {
+        "para_id": "12869.55",
+        "lang": "id",
+        "refcode": "MKB 16.5"
+      },
+      {
+        "para_id": "891.27",
+        "lang": "it",
+        "refcode": "FC 9"
+      },
+      {
+        "para_id": "891.28",
+        "lang": "it",
+        "refcode": "FC 9.4"
+      },
+      {
+        "para_id": "12178.48",
+        "lang": "pl",
+        "refcode": "ChD 10.1"
+      },
+      {
+        "para_id": "1955.116",
+        "lang": "pt",
+        "refcode": "LA 18"
+      },
+      {
+        "para_id": "1955.117",
+        "lang": "pt",
+        "refcode": "LA 18.4"
+      },
+      {
+        "para_id": "2026.46",
+        "lang": "ro",
+        "refcode": "CA 18.5"
+      },
+      {
+        "para_id": "1803.26",
+        "lang": "ru",
+        "refcode": "ХД 18.5"
+      },
+      {
+        "para_id": "12131.47",
+        "lang": "uk",
+        "refcode": "ХР 14.7"
+      }
+    ]
+  },
+  {
+    "para_id": "128.59",
+    "id_prev": "128.58",
+    "id_next": "128.62",
+    "refcode_1": "AH",
+    "refcode_2": "18",
+    "refcode_3": "6",
+    "refcode_4": "",
+    "refcode_short": "AH 18.6",
+    "refcode_long": "The Adventist Home, p. 18.6 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Every home should be a place of love, a place where the angels of God abide, working with softening, <span class=\"page-break\" data-page=\"19\"></span> subduing influence upon the hearts of parents and children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">16<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 25, 1904\" data-link=\"14069.9783001\">Letter 25, 1904</span>.</span></a></sup>",
+    "puborder": 34,
+    "translations": [
+      {
+        "para_id": "13839.41",
+        "lang": "bg",
+        "refcode": "ХД 6.9"
+      },
+      {
+        "para_id": "177.101",
+        "lang": "es",
+        "refcode": "HC 14.5"
+      },
+      {
+        "para_id": "193.60",
+        "lang": "fr",
+        "refcode": "FC 18.4"
+      },
+      {
+        "para_id": "12869.56",
+        "lang": "id",
+        "refcode": "MKB 16.6"
+      },
+      {
+        "para_id": "12178.49",
+        "lang": "pl",
+        "refcode": "ChD 10.2"
+      },
+      {
+        "para_id": "1955.118",
+        "lang": "pt",
+        "refcode": "LA 18.5"
+      },
+      {
+        "para_id": "2026.47",
+        "lang": "ro",
+        "refcode": "CA 18.6"
+      },
+      {
+        "para_id": "1803.27",
+        "lang": "ru",
+        "refcode": "ХД 18.6"
+      },
+      {
+        "para_id": "12131.50",
+        "lang": "uk",
+        "refcode": "ХР 15.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.62",
+    "id_prev": "128.59",
+    "id_next": "128.63",
+    "refcode_1": "AH",
+    "refcode_2": "19",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 19.1",
+    "refcode_long": "The Adventist Home, p. 19.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Our homes must be made a Bethel, our hearts a shrine. Wherever the love of God is cherished in the soul, there will be peace, there will be light and joy. Spread out the word of God before your families in love, and ask, &ldquo;What hath God spoken?&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">17<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 24a, 1896\" data-link=\"14061.4962001\">Letter 24a, 1896</span>.</span></a></sup>",
+    "puborder": 35,
+    "translations": [
+      {
+        "para_id": "13839.42",
+        "lang": "bg",
+        "refcode": "ХД 6.10"
+      },
+      {
+        "para_id": "177.103",
+        "lang": "es",
+        "refcode": "HC 15.1"
+      },
+      {
+        "para_id": "193.61",
+        "lang": "fr",
+        "refcode": "FC 18.5"
+      },
+      {
+        "para_id": "12869.59",
+        "lang": "id",
+        "refcode": "MKB 17.1"
+      },
+      {
+        "para_id": "12178.50",
+        "lang": "pl",
+        "refcode": "ChD 10.3"
+      },
+      {
+        "para_id": "1955.120",
+        "lang": "pt",
+        "refcode": "LA 19.1"
+      },
+      {
+        "para_id": "2026.50",
+        "lang": "ro",
+        "refcode": "CA 19.1"
+      },
+      {
+        "para_id": "1803.30",
+        "lang": "ru",
+        "refcode": "ХД 19.1"
+      },
+      {
+        "para_id": "12131.51",
+        "lang": "uk",
+        "refcode": "ХР 15.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.63",
+    "id_prev": "128.62",
+    "id_next": "128.64",
+    "refcode_1": "AH",
+    "refcode_2": "19",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 19.2",
+    "refcode_long": "The Adventist Home, p. 19.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Christ&apos;s Presence Makes a Home Christian</strong>&mdash;The home that is beautified by love, sympathy, and tenderness is a place that angels love to visit, and where God is glorified. The influence of a carefully guarded Christian home in the years of childhood and youth is the surest safeguard against the corruptions of the world. In the atmosphere of such a home the children will learn to love both their earthly parents and their heavenly Father.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">18<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 126, 1903\" data-link=\"14068.9645001\">Manuscript 126, 1903</span>.</span></a></sup>",
+    "puborder": 36,
+    "translations": [
+      {
+        "para_id": "13839.43",
+        "lang": "bg",
+        "refcode": "ХД 6.11"
+      },
+      {
+        "para_id": "177.104",
+        "lang": "es",
+        "refcode": "HC 15.2"
+      },
+      {
+        "para_id": "193.62",
+        "lang": "fr",
+        "refcode": "FC 18.6"
+      },
+      {
+        "para_id": "12869.61",
+        "lang": "id",
+        "refcode": "MKB 17.2"
+      },
+      {
+        "para_id": "891.30",
+        "lang": "it",
+        "refcode": "FC 9.5"
+      },
+      {
+        "para_id": "891.29",
+        "lang": "it",
+        "refcode": "FC 9"
+      },
+      {
+        "para_id": "12178.51",
+        "lang": "pl",
+        "refcode": "ChD 10.4"
+      },
+      {
+        "para_id": "1955.122",
+        "lang": "pt",
+        "refcode": "LA 19.2"
+      },
+      {
+        "para_id": "1955.121",
+        "lang": "pt",
+        "refcode": "LA 19"
+      },
+      {
+        "para_id": "2026.51",
+        "lang": "ro",
+        "refcode": "CA 19.2"
+      },
+      {
+        "para_id": "1803.31",
+        "lang": "ru",
+        "refcode": "ХД 19.2"
+      },
+      {
+        "para_id": "12131.52",
+        "lang": "uk",
+        "refcode": "ХР 15.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.64",
+    "id_prev": "128.63",
+    "id_next": "128.65",
+    "refcode_1": "AH",
+    "refcode_2": "19",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 19.3",
+    "refcode_long": "The Adventist Home, p. 19.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "From their infancy the youth need to have a firm barrier built up between them and the world, that its corrupting influence may not affect them.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">19<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 119.1\" data-link=\"23.548\">Counsels to Teachers, Parents, and Students, 119</span>.</span></a></sup>",
+    "puborder": 37,
+    "translations": [
+      {
+        "para_id": "13839.46",
+        "lang": "bg",
+        "refcode": "ХД 7.1"
+      },
+      {
+        "para_id": "177.105",
+        "lang": "es",
+        "refcode": "HC 15.3"
+      },
+      {
+        "para_id": "193.65",
+        "lang": "fr",
+        "refcode": "FC 19.1"
+      },
+      {
+        "para_id": "12869.62",
+        "lang": "id",
+        "refcode": "MKB 17.3"
+      },
+      {
+        "para_id": "891.30",
+        "lang": "it",
+        "refcode": "FC 9.5"
+      },
+      {
+        "para_id": "12178.51",
+        "lang": "pl",
+        "refcode": "ChD 10.4"
+      },
+      {
+        "para_id": "1955.123",
+        "lang": "pt",
+        "refcode": "LA 19.3"
+      },
+      {
+        "para_id": "2026.52",
+        "lang": "ro",
+        "refcode": "CA 19.3"
+      },
+      {
+        "para_id": "1803.32",
+        "lang": "ru",
+        "refcode": "ХД 19.3"
+      },
+      {
+        "para_id": "12131.52",
+        "lang": "uk",
+        "refcode": "ХР 15.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.65",
+    "id_prev": "128.64",
+    "id_next": "128.66",
+    "refcode_1": "AH",
+    "refcode_2": "19",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 19.4",
+    "refcode_long": "The Adventist Home, p. 19.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Every Christian family should illustrate to the world the power and excellence of Christian influence.... Parents should realize their accountability to keep their homes free from every taint of moral evil.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">20<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 10-9-1900\" data-link=\"821.19666\">The Review and Herald, October 9, 1900</span>.</span></a></sup>",
+    "puborder": 38,
+    "translations": [
+      {
+        "para_id": "13839.47",
+        "lang": "bg",
+        "refcode": "ХД 7.2"
+      },
+      {
+        "para_id": "177.106",
+        "lang": "es",
+        "refcode": "HC 15.4"
+      },
+      {
+        "para_id": "193.66",
+        "lang": "fr",
+        "refcode": "FC 19.2"
+      },
+      {
+        "para_id": "12869.63",
+        "lang": "id",
+        "refcode": "MKB 17.4"
+      },
+      {
+        "para_id": "891.31",
+        "lang": "it",
+        "refcode": "FC 9.6"
+      },
+      {
+        "para_id": "12178.52",
+        "lang": "pl",
+        "refcode": "ChD 10.5"
+      },
+      {
+        "para_id": "1955.124",
+        "lang": "pt",
+        "refcode": "LA 19.4"
+      },
+      {
+        "para_id": "2026.53",
+        "lang": "ro",
+        "refcode": "CA 19.4"
+      },
+      {
+        "para_id": "1803.33",
+        "lang": "ru",
+        "refcode": "ХД 19.4"
+      },
+      {
+        "para_id": "12131.53",
+        "lang": "uk",
+        "refcode": "ХР 15.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.66",
+    "id_prev": "128.65",
+    "id_next": "128.67",
+    "refcode_1": "AH",
+    "refcode_2": "19",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 19.5",
+    "refcode_long": "The Adventist Home, p. 19.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Holiness to God is to pervade the home.... Parents and children are to educate themselves to co-operate with God. They are to bring their habits and practices into harmony with God&apos;s plans.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">21<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 9, 1904\" data-link=\"14069.8334001\">Letter 9, 1904</span>.</span></a></sup>",
+    "puborder": 39,
+    "translations": [
+      {
+        "para_id": "13839.48",
+        "lang": "bg",
+        "refcode": "ХД 7.3"
+      },
+      {
+        "para_id": "177.107",
+        "lang": "es",
+        "refcode": "HC 15.5"
+      },
+      {
+        "para_id": "193.67",
+        "lang": "fr",
+        "refcode": "FC 19.3"
+      },
+      {
+        "para_id": "12869.64",
+        "lang": "id",
+        "refcode": "MKB 17.5"
+      },
+      {
+        "para_id": "12178.52",
+        "lang": "pl",
+        "refcode": "ChD 10.5"
+      },
+      {
+        "para_id": "1955.125",
+        "lang": "pt",
+        "refcode": "LA 19.5"
+      },
+      {
+        "para_id": "2026.54",
+        "lang": "ro",
+        "refcode": "CA 19.5"
+      },
+      {
+        "para_id": "1803.34",
+        "lang": "ru",
+        "refcode": "ХД 19.5"
+      },
+      {
+        "para_id": "12131.53",
+        "lang": "uk",
+        "refcode": "ХР 15.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.67",
+    "id_prev": "128.66",
+    "id_next": "128.69",
+    "refcode_1": "AH",
+    "refcode_2": "19",
+    "refcode_3": "6",
+    "refcode_4": "",
+    "refcode_short": "AH 19.6",
+    "refcode_long": "The Adventist Home, p. 19.6 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The family relationship should be sanctifying in its influence. Christian homes, established and conducted in accordance with God&apos;s plan, are a wonderful help in forming Christian character.... Parents and children should unite in offering loving service to Him who alone can keep human love pure and noble.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">22<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 16, 1899\" data-link=\"14064.4734001\">Manuscript 16, 1899</span>.</span></a></sup>",
+    "puborder": 40,
+    "translations": [
+      {
+        "para_id": "13839.49",
+        "lang": "bg",
+        "refcode": "ХД 7.4"
+      },
+      {
+        "para_id": "177.108",
+        "lang": "es",
+        "refcode": "HC 15.6"
+      },
+      {
+        "para_id": "193.68",
+        "lang": "fr",
+        "refcode": "FC 19.4"
+      },
+      {
+        "para_id": "12869.65",
+        "lang": "id",
+        "refcode": "MKB 17.6"
+      },
+      {
+        "para_id": "12178.53",
+        "lang": "pl",
+        "refcode": "ChD 10.6"
+      },
+      {
+        "para_id": "1955.126",
+        "lang": "pt",
+        "refcode": "LA 19.6"
+      },
+      {
+        "para_id": "2026.55",
+        "lang": "ro",
+        "refcode": "CA 19.6"
+      },
+      {
+        "para_id": "1803.35",
+        "lang": "ru",
+        "refcode": "ХД 19.6"
+      },
+      {
+        "para_id": "12131.54",
+        "lang": "uk",
+        "refcode": "ХР 15.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.69",
+    "id_prev": "128.67",
+    "id_next": "128.71",
+    "refcode_1": "AH",
+    "refcode_2": "20",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 20.1",
+    "refcode_long": "The Adventist Home, p. 20.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The first work to be done in a Christian home is to see that the Spirit of Christ abides there, that every member of the household may be able to take his cross and follow where Jesus leads the way.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">23<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 17, 1891\" data-link=\"14057.6457001\">Manuscript 17, 1891</span>.</span></a></sup>",
+    "puborder": 41,
+    "translations": [
+      {
+        "para_id": "13839.50",
+        "lang": "bg",
+        "refcode": "ХД 7.5"
+      },
+      {
+        "para_id": "177.109",
+        "lang": "es",
+        "refcode": "HC 15.7"
+      },
+      {
+        "para_id": "193.69",
+        "lang": "fr",
+        "refcode": "FC 19.5"
+      },
+      {
+        "para_id": "12869.66",
+        "lang": "id",
+        "refcode": "MKB 17.7"
+      },
+      {
+        "para_id": "12178.55",
+        "lang": "pl",
+        "refcode": "ChD 11.1"
+      },
+      {
+        "para_id": "1955.127",
+        "lang": "pt",
+        "refcode": "LA 19.7"
+      },
+      {
+        "para_id": "2026.57",
+        "lang": "ro",
+        "refcode": "CA 20.1"
+      },
+      {
+        "para_id": "1803.37",
+        "lang": "ru",
+        "refcode": "ХД 20.1"
+      },
+      {
+        "para_id": "12131.55",
+        "lang": "uk",
+        "refcode": "ХР 15.6"
+      }
+    ]
+  }
+]

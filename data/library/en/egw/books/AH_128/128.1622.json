@@ -1,0 +1,1712 @@
+[
+  {
+    "para_id": "128.1622",
+    "id_prev": "128.1620",
+    "id_next": "128.1623",
+    "refcode_1": "AH",
+    "refcode_2": "353",
+    "refcode_3": "",
+    "refcode_4": "58",
+    "refcode_short": "AH 353",
+    "refcode_long": "The Adventist Home, p. 353 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 58&mdash;The Minister&apos;s Family",
+    "puborder": 1074,
+    "translations": [
+      {
+        "para_id": "13839.1315",
+        "lang": "bg",
+        "refcode": "ХД 150"
+      },
+      {
+        "para_id": "177.1648",
+        "lang": "es",
+        "refcode": "HC 321"
+      },
+      {
+        "para_id": "193.1600",
+        "lang": "fr",
+        "refcode": "FC 339"
+      },
+      {
+        "para_id": "12869.1991",
+        "lang": "id",
+        "refcode": "MKB 336"
+      },
+      {
+        "para_id": "12178.1384",
+        "lang": "pl",
+        "refcode": "ChD 223"
+      },
+      {
+        "para_id": "1955.2076",
+        "lang": "pt",
+        "refcode": "LA 353"
+      },
+      {
+        "para_id": "2026.1616",
+        "lang": "ro",
+        "refcode": "CA 353"
+      },
+      {
+        "para_id": "1803.1571",
+        "lang": "ru",
+        "refcode": "ХД 353"
+      },
+      {
+        "para_id": "12131.1462",
+        "lang": "uk",
+        "refcode": "ХР 284"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1623",
+    "id_prev": "128.1622",
+    "id_next": "128.1624",
+    "refcode_1": "AH",
+    "refcode_2": "353",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 353.1",
+    "refcode_long": "The Adventist Home, p. 353.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Home Life of Minister to Exemplify Message</strong>&mdash;God designs that in his home life the teacher of the Bible shall be an exemplification of the truths that he teaches. What a man is has greater influence than what he says. Piety in the daily life will give power to the public testimony. Patience, consistency, and love will make an impression on hearts that sermons fail to reach.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"GW 204.1\" data-link=\"35.1045\">Gospel Workers, 204</span>.</span></a></sup>",
+    "puborder": 1075,
+    "translations": [
+      {
+        "para_id": "13839.1316",
+        "lang": "bg",
+        "refcode": "ХД 150.1"
+      },
+      {
+        "para_id": "177.1649",
+        "lang": "es",
+        "refcode": "HC 321.1"
+      },
+      {
+        "para_id": "12869.1993",
+        "lang": "id",
+        "refcode": "MKB 336.1"
+      },
+      {
+        "para_id": "891.1064",
+        "lang": "it",
+        "refcode": "FC 145.1"
+      },
+      {
+        "para_id": "12178.1385",
+        "lang": "pl",
+        "refcode": "ChD 223.1"
+      },
+      {
+        "para_id": "1955.2078",
+        "lang": "pt",
+        "refcode": "LA 353.1"
+      },
+      {
+        "para_id": "1955.2077",
+        "lang": "pt",
+        "refcode": "LA 353"
+      },
+      {
+        "para_id": "2026.1617",
+        "lang": "ro",
+        "refcode": "CA 353.1"
+      },
+      {
+        "para_id": "1803.1572",
+        "lang": "ru",
+        "refcode": "ХД 353.1"
+      },
+      {
+        "para_id": "12131.1463",
+        "lang": "uk",
+        "refcode": "ХР 284.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1624",
+    "id_prev": "128.1623",
+    "id_next": "128.1625",
+    "refcode_1": "AH",
+    "refcode_2": "353",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 353.2",
+    "refcode_long": "The Adventist Home, p. 353.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "If properly carried on, the training of the children of a minister will illustrate the lessons he gives in the desk. But if, by the wrong education he has given his children, a minister shows his incapacity to govern and control, he needs to learn that God requires him to properly discipline the children given him before he can do his duty as shepherd of the flock of God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 1, 1877\" data-link=\"14053.3597001\">Letter 1, 1877</span>.</span></a></sup>",
+    "puborder": 1076,
+    "translations": [
+      {
+        "para_id": "13839.1317",
+        "lang": "bg",
+        "refcode": "ХД 150.2"
+      },
+      {
+        "para_id": "177.1650",
+        "lang": "es",
+        "refcode": "HC 321.2"
+      },
+      {
+        "para_id": "193.1602",
+        "lang": "fr",
+        "refcode": "FC 339.2"
+      },
+      {
+        "para_id": "12869.1994",
+        "lang": "id",
+        "refcode": "MKB 336.2"
+      },
+      {
+        "para_id": "891.1065",
+        "lang": "it",
+        "refcode": "FC 145.2"
+      },
+      {
+        "para_id": "12178.1386",
+        "lang": "pl",
+        "refcode": "ChD 223.2"
+      },
+      {
+        "para_id": "1955.2079",
+        "lang": "pt",
+        "refcode": "LA 353.2"
+      },
+      {
+        "para_id": "2026.1618",
+        "lang": "ro",
+        "refcode": "CA 353.2"
+      },
+      {
+        "para_id": "1803.1573",
+        "lang": "ru",
+        "refcode": "ХД 353.2"
+      },
+      {
+        "para_id": "12131.1464",
+        "lang": "uk",
+        "refcode": "ХР 284.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1625",
+    "id_prev": "128.1624",
+    "id_next": "128.1626",
+    "refcode_1": "AH",
+    "refcode_2": "353",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 353.3",
+    "refcode_long": "The Adventist Home, p. 353.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>His First Duty Is to His Children</strong>&mdash;The minister&apos;s duties lie around him, nigh and afar off; but his first duty is to his children. He should not become so engrossed with his outside duties as to neglect the instruction which his children need. He may look upon his home duties as of lesser importance, but in reality they lie at the very foundation of the well-being of individuals and of society. To a large degree the happiness of men and women and the success of the church depend upon home influence....",
+    "puborder": 1077,
+    "translations": [
+      {
+        "para_id": "13839.1318",
+        "lang": "bg",
+        "refcode": "ХД 150.3"
+      },
+      {
+        "para_id": "177.1651",
+        "lang": "es",
+        "refcode": "HC 321.3"
+      },
+      {
+        "para_id": "12869.1998",
+        "lang": "id",
+        "refcode": "MKB 337.1"
+      },
+      {
+        "para_id": "891.1067",
+        "lang": "it",
+        "refcode": "FC 145.3"
+      },
+      {
+        "para_id": "891.1066",
+        "lang": "it",
+        "refcode": "FC 145"
+      },
+      {
+        "para_id": "12178.1387",
+        "lang": "pl",
+        "refcode": "ChD 223.3"
+      },
+      {
+        "para_id": "1955.2080",
+        "lang": "pt",
+        "refcode": "LA 353"
+      },
+      {
+        "para_id": "1955.2081",
+        "lang": "pt",
+        "refcode": "LA 353.3"
+      },
+      {
+        "para_id": "2026.1619",
+        "lang": "ro",
+        "refcode": "CA 353.3"
+      },
+      {
+        "para_id": "1803.1574",
+        "lang": "ru",
+        "refcode": "ХД 353.3"
+      },
+      {
+        "para_id": "12131.1465",
+        "lang": "uk",
+        "refcode": "ХР 284.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1626",
+    "id_prev": "128.1625",
+    "id_next": "128.1629",
+    "refcode_1": "AH",
+    "refcode_2": "353",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 353.4",
+    "refcode_long": "The Adventist Home, p. 353.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Nothing can excuse the minister for neglecting the inner circle for the larger circle outside. The spiritual welfare of his family comes first. In the day of final reckoning God will inquire what he did to win to Christ those whom he took the responsibility of bringing into the <span class=\"page-break\" data-page=\"354\"></span> world. Great good done for others cannot cancel the debt that he owes to God to care for his own children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"GW 204.1\" data-link=\"35.1045\">Gospel Workers, 204</span>.</span></a></sup>",
+    "puborder": 1078,
+    "translations": [
+      {
+        "para_id": "13839.1319",
+        "lang": "bg",
+        "refcode": "ХД 150.4"
+      },
+      {
+        "para_id": "177.1652",
+        "lang": "es",
+        "refcode": "HC 321.4"
+      },
+      {
+        "para_id": "193.1604",
+        "lang": "fr",
+        "refcode": "FC 339.4"
+      },
+      {
+        "para_id": "12869.1999",
+        "lang": "id",
+        "refcode": "MKB 337.2"
+      },
+      {
+        "para_id": "891.1067",
+        "lang": "it",
+        "refcode": "FC 145.3"
+      },
+      {
+        "para_id": "12178.1388",
+        "lang": "pl",
+        "refcode": "ChD 223.4"
+      },
+      {
+        "para_id": "1955.2082",
+        "lang": "pt",
+        "refcode": "LA 353.4"
+      },
+      {
+        "para_id": "2026.1620",
+        "lang": "ro",
+        "refcode": "CA 353.4"
+      },
+      {
+        "para_id": "1803.1575",
+        "lang": "ru",
+        "refcode": "ХД 353.4"
+      },
+      {
+        "para_id": "12131.1466",
+        "lang": "uk",
+        "refcode": "ХР 284.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1629",
+    "id_prev": "128.1626",
+    "id_next": "128.1630",
+    "refcode_1": "AH",
+    "refcode_2": "354",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 354.1",
+    "refcode_long": "The Adventist Home, p. 354.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Magnitude of the Minister&apos;s Influence</strong>&mdash;Ministers&rsquo; children are in some cases the most neglected children in the world, for the reason that the father is with them but little, and they are left to choose their own employment and amusement.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"GW 206.1\" data-link=\"35.1056\">Ibid., 206</span>.</span></a></sup>",
+    "puborder": 1079,
+    "translations": [
+      {
+        "para_id": "13839.1320",
+        "lang": "bg",
+        "refcode": "ХД 150.5"
+      },
+      {
+        "para_id": "177.1655",
+        "lang": "es",
+        "refcode": "HC 322.1"
+      },
+      {
+        "para_id": "193.1607",
+        "lang": "fr",
+        "refcode": "FC 340.1"
+      },
+      {
+        "para_id": "12869.2001",
+        "lang": "id",
+        "refcode": "MKB 337.3"
+      },
+      {
+        "para_id": "891.1069",
+        "lang": "it",
+        "refcode": "FC 145.4"
+      },
+      {
+        "para_id": "891.1068",
+        "lang": "it",
+        "refcode": "FC 145"
+      },
+      {
+        "para_id": "12178.1389",
+        "lang": "pl",
+        "refcode": "ChD 223.5"
+      },
+      {
+        "para_id": "1955.2086",
+        "lang": "pt",
+        "refcode": "LA 354.1"
+      },
+      {
+        "para_id": "1955.2085",
+        "lang": "pt",
+        "refcode": "LA 354"
+      },
+      {
+        "para_id": "2026.1623",
+        "lang": "ro",
+        "refcode": "CA 354.1"
+      },
+      {
+        "para_id": "1803.1578",
+        "lang": "ru",
+        "refcode": "ХД 354.1"
+      },
+      {
+        "para_id": "12131.1467",
+        "lang": "uk",
+        "refcode": "ХР 284.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1630",
+    "id_prev": "128.1629",
+    "id_next": "128.1631",
+    "refcode_1": "AH",
+    "refcode_2": "354",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 354.2",
+    "refcode_long": "The Adventist Home, p. 354.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Great as are the evils of parental unfaithfulness under any circumstances, they are tenfold greater when they exist in the families of those appointed as teachers of the people. When these fail to control their own households, they are, by their wrong example, misleading many. Their guilt is as much greater than that of others as their position is more responsible.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 579.1\" data-link=\"84.2718\">Patriarchs and Prophets, 579</span>.</span></a></sup>",
+    "puborder": 1080,
+    "translations": [
+      {
+        "para_id": "13839.1322",
+        "lang": "bg",
+        "refcode": "ХД 151.1"
+      },
+      {
+        "para_id": "177.1656",
+        "lang": "es",
+        "refcode": "HC 322.2"
+      },
+      {
+        "para_id": "193.1608",
+        "lang": "fr",
+        "refcode": "FC 340.2"
+      },
+      {
+        "para_id": "12869.2002",
+        "lang": "id",
+        "refcode": "MKB 337.4"
+      },
+      {
+        "para_id": "891.1070",
+        "lang": "it",
+        "refcode": "FC 145.5"
+      },
+      {
+        "para_id": "12178.1390",
+        "lang": "pl",
+        "refcode": "ChD 223.6"
+      },
+      {
+        "para_id": "1955.2087",
+        "lang": "pt",
+        "refcode": "LA 354.2"
+      },
+      {
+        "para_id": "2026.1624",
+        "lang": "ro",
+        "refcode": "CA 354.2"
+      },
+      {
+        "para_id": "1803.1579",
+        "lang": "ru",
+        "refcode": "ХД 354.2"
+      },
+      {
+        "para_id": "12131.1469",
+        "lang": "uk",
+        "refcode": "ХР 285.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1631",
+    "id_prev": "128.1630",
+    "id_next": "128.1632",
+    "refcode_1": "AH",
+    "refcode_2": "354",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 354.3",
+    "refcode_long": "The Adventist Home, p. 354.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Wife and Children Best Judge of His Piety</strong>&mdash;It is not so much the religion of the pulpit as the religion of the family that reveals our real character. The minister&apos;s wife, his children, and those who are employed as helpers in his family are best qualified to judge of his piety. A good man will be a blessing to his household. Wife, children, and helpers will all be the better for his religion.",
+    "puborder": 1081,
+    "translations": [
+      {
+        "para_id": "13839.1323",
+        "lang": "bg",
+        "refcode": "ХД 151.2"
+      },
+      {
+        "para_id": "177.1657",
+        "lang": "es",
+        "refcode": "HC 322.3"
+      },
+      {
+        "para_id": "193.1609",
+        "lang": "fr",
+        "refcode": "FC 340.3"
+      },
+      {
+        "para_id": "12869.2004",
+        "lang": "id",
+        "refcode": "MKB 337.5"
+      },
+      {
+        "para_id": "12178.1393",
+        "lang": "pl",
+        "refcode": "ChD 224.1"
+      },
+      {
+        "para_id": "1955.2088",
+        "lang": "pt",
+        "refcode": "LA 354"
+      },
+      {
+        "para_id": "1955.2089",
+        "lang": "pt",
+        "refcode": "LA 354.3"
+      },
+      {
+        "para_id": "2026.1625",
+        "lang": "ro",
+        "refcode": "CA 354.3"
+      },
+      {
+        "para_id": "1803.1580",
+        "lang": "ru",
+        "refcode": "ХД 354.3"
+      },
+      {
+        "para_id": "12131.1470",
+        "lang": "uk",
+        "refcode": "ХР 285.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1632",
+    "id_prev": "128.1631",
+    "id_next": "128.1633",
+    "refcode_1": "AH",
+    "refcode_2": "354",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 354.4",
+    "refcode_long": "The Adventist Home, p. 354.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Brethren, carry Christ into the family, carry Him into the pulpit, carry Him with you wherever you go. Then you need not urge upon others the necessity of appreciating the ministry, for you will bear the heavenly credentials which will prove to all that you are servants of Christ.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 161.1\" data-link=\"113.807\">Testimonies for the Church 5:161</span>.</span></a></sup>",
+    "puborder": 1082,
+    "translations": [
+      {
+        "para_id": "13839.1324",
+        "lang": "bg",
+        "refcode": "ХД 151.3"
+      },
+      {
+        "para_id": "177.1658",
+        "lang": "es",
+        "refcode": "HC 322.4"
+      },
+      {
+        "para_id": "193.1610",
+        "lang": "fr",
+        "refcode": "FC 340.4"
+      },
+      {
+        "para_id": "12869.2007",
+        "lang": "id",
+        "refcode": "MKB 338.1"
+      },
+      {
+        "para_id": "12178.1394",
+        "lang": "pl",
+        "refcode": "ChD 224.2"
+      },
+      {
+        "para_id": "1955.2090",
+        "lang": "pt",
+        "refcode": "LA 354.4"
+      },
+      {
+        "para_id": "2026.1626",
+        "lang": "ro",
+        "refcode": "CA 354.4"
+      },
+      {
+        "para_id": "1803.1581",
+        "lang": "ru",
+        "refcode": "ХД 354.4"
+      },
+      {
+        "para_id": "12131.1471",
+        "lang": "uk",
+        "refcode": "ХР 285.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1633",
+    "id_prev": "128.1632",
+    "id_next": "128.1636",
+    "refcode_1": "AH",
+    "refcode_2": "354",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 354.5",
+    "refcode_long": "The Adventist Home, p. 354.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Minister&apos;s Wife, a Helper or a Hindrance?</strong>&mdash;When a man accepts the responsibilities of a minister, he claims to be a mouthpiece for God, to take the words from the mouth of God and give them to the people. How closely, then, he should keep at the side of the Great <span class=\"page-break\" data-page=\"355\"></span> Shepherd; how humbly he should walk before God, keeping self out of sight and exalting Christ! And how important it is that the character of his wife be after the Bible pattern, and that his children be in subjection with all gravity!",
+    "puborder": 1083,
+    "translations": [
+      {
+        "para_id": "13839.1325",
+        "lang": "bg",
+        "refcode": "ХД 151.4"
+      },
+      {
+        "para_id": "177.1659",
+        "lang": "es",
+        "refcode": "HC 322.5"
+      },
+      {
+        "para_id": "193.1611",
+        "lang": "fr",
+        "refcode": "FC 340.5"
+      },
+      {
+        "para_id": "12869.2009",
+        "lang": "id",
+        "refcode": "MKB 338.2"
+      },
+      {
+        "para_id": "891.1073",
+        "lang": "it",
+        "refcode": "FC 146"
+      },
+      {
+        "para_id": "891.1074",
+        "lang": "it",
+        "refcode": "FC 146.1"
+      },
+      {
+        "para_id": "12178.1395",
+        "lang": "pl",
+        "refcode": "ChD 224.3"
+      },
+      {
+        "para_id": "1955.2091",
+        "lang": "pt",
+        "refcode": "LA 354"
+      },
+      {
+        "para_id": "1955.2092",
+        "lang": "pt",
+        "refcode": "LA 354.5"
+      },
+      {
+        "para_id": "2026.1627",
+        "lang": "ro",
+        "refcode": "CA 354.5"
+      },
+      {
+        "para_id": "1803.1582",
+        "lang": "ru",
+        "refcode": "ХД 354.5"
+      },
+      {
+        "para_id": "12131.1472",
+        "lang": "uk",
+        "refcode": "ХР 285.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1636",
+    "id_prev": "128.1633",
+    "id_next": "128.1637",
+    "refcode_1": "AH",
+    "refcode_2": "355",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 355.1",
+    "refcode_long": "The Adventist Home, p. 355.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The wife of a minister of the gospel can be either a most successful helper and a great blessing to her husband or a hindrance to him in his work. It depends very much on the wife whether a minister will rise from day to day in his sphere of usefulness, or whether he will sink to the ordinary level.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 1, 1877\" data-link=\"14053.3597001\">Letter 1, 1877</span>.</span></a></sup>",
+    "puborder": 1084,
+    "translations": [
+      {
+        "para_id": "13839.1326",
+        "lang": "bg",
+        "refcode": "ХД 151.5"
+      },
+      {
+        "para_id": "177.1662",
+        "lang": "es",
+        "refcode": "HC 323.1"
+      },
+      {
+        "para_id": "193.1614",
+        "lang": "fr",
+        "refcode": "FC 341.1"
+      },
+      {
+        "para_id": "12869.2010",
+        "lang": "id",
+        "refcode": "MKB 338.3"
+      },
+      {
+        "para_id": "891.1075",
+        "lang": "it",
+        "refcode": "FC 146.2"
+      },
+      {
+        "para_id": "12178.1396",
+        "lang": "pl",
+        "refcode": "ChD 224.4"
+      },
+      {
+        "para_id": "1955.2095",
+        "lang": "pt",
+        "refcode": "LA 355.1"
+      },
+      {
+        "para_id": "2026.1630",
+        "lang": "ro",
+        "refcode": "CA 355.1"
+      },
+      {
+        "para_id": "1803.1585",
+        "lang": "ru",
+        "refcode": "ХД 355.1"
+      },
+      {
+        "para_id": "12131.1473",
+        "lang": "uk",
+        "refcode": "ХР 285.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1637",
+    "id_prev": "128.1636",
+    "id_next": "128.1638",
+    "refcode_1": "AH",
+    "refcode_2": "355",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 355.2",
+    "refcode_long": "The Adventist Home, p. 355.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "I saw that the wives of the ministers should help their husbands in their labors and be exact and careful what influence they exert, for they are watched, and more is expected of them than of others. Their dress should be an example. Their lives and conversation should be an example, savoring of life rather than of death. I saw that they should take a humble, meek, yet exalted stand, not having their conversation upon things that do not tend to direct the mind heavenward. The great inquiry should be: &ldquo;How can I save my own soul and be the means of saving others?&rdquo; I saw that no halfhearted work in this matter is accepted of God. He wants the whole heart and interest, or He will have none. Their influence tells, decidedly, unmistakably, in favor of the truth or against it. They gather with Jesus or scatter abroad. An unsanctified wife is the greatest curse that a minister can have.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"1T 139.1\" data-link=\"116.706\">Testimonies for the Church 1:139</span>.</span></a></sup>",
+    "puborder": 1085,
+    "translations": [
+      {
+        "para_id": "13839.1327",
+        "lang": "bg",
+        "refcode": "ХД 151.6"
+      },
+      {
+        "para_id": "177.1663",
+        "lang": "es",
+        "refcode": "HC 323.2"
+      },
+      {
+        "para_id": "193.1615",
+        "lang": "fr",
+        "refcode": "FC 341.2"
+      },
+      {
+        "para_id": "12869.2011",
+        "lang": "id",
+        "refcode": "MKB 338.4"
+      },
+      {
+        "para_id": "891.1076",
+        "lang": "it",
+        "refcode": "FC 146.3"
+      },
+      {
+        "para_id": "12178.1399",
+        "lang": "pl",
+        "refcode": "ChD 225.1"
+      },
+      {
+        "para_id": "12178.1397",
+        "lang": "pl",
+        "refcode": "ChD 224.5"
+      },
+      {
+        "para_id": "1955.2096",
+        "lang": "pt",
+        "refcode": "LA 355.2"
+      },
+      {
+        "para_id": "2026.1631",
+        "lang": "ro",
+        "refcode": "CA 355.2"
+      },
+      {
+        "para_id": "1803.1586",
+        "lang": "ru",
+        "refcode": "ХД 355.2"
+      },
+      {
+        "para_id": "12131.1474",
+        "lang": "uk",
+        "refcode": "ХР 285.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1638",
+    "id_prev": "128.1637",
+    "id_next": "128.1641",
+    "refcode_1": "AH",
+    "refcode_2": "355",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 355.3",
+    "refcode_long": "The Adventist Home, p. 355.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Satan is ever at work to dishearten and lead astray ministers whom God has chosen to preach the truth. The most effectual way in which he can work is through home influences, through unconsecrated companions. If he can control their minds, he can through them the more readily gain access to the husband, who is laboring in <span class=\"page-break\" data-page=\"356\"></span> word and doctrine to save souls.... Satan has had much to do with controlling the labors of the ministers through the influence of selfish, ease-loving companions.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"1T 449.1\" data-link=\"116.2112\">Testimonies for the Church 1:449, 451</span>.</span></a></sup>",
+    "puborder": 1086,
+    "translations": [
+      {
+        "para_id": "13839.1328",
+        "lang": "bg",
+        "refcode": "ХД 151.7"
+      },
+      {
+        "para_id": "177.1664",
+        "lang": "es",
+        "refcode": "HC 323.3"
+      },
+      {
+        "para_id": "193.1616",
+        "lang": "fr",
+        "refcode": "FC 341.3"
+      },
+      {
+        "para_id": "12869.2014",
+        "lang": "id",
+        "refcode": "MKB 339.1"
+      },
+      {
+        "para_id": "891.1077",
+        "lang": "it",
+        "refcode": "FC 146.4"
+      },
+      {
+        "para_id": "12178.1400",
+        "lang": "pl",
+        "refcode": "ChD 225.2"
+      },
+      {
+        "para_id": "1955.2097",
+        "lang": "pt",
+        "refcode": "LA 355.3"
+      },
+      {
+        "para_id": "2026.1632",
+        "lang": "ro",
+        "refcode": "CA 355.3"
+      },
+      {
+        "para_id": "1803.1587",
+        "lang": "ru",
+        "refcode": "ХД 355.3"
+      },
+      {
+        "para_id": "12131.1477",
+        "lang": "uk",
+        "refcode": "ХР 286.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1641",
+    "id_prev": "128.1638",
+    "id_next": "128.1642",
+    "refcode_1": "AH",
+    "refcode_2": "356",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 356.1",
+    "refcode_long": "The Adventist Home, p. 356.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Words of Counsel to Ministers Regarding Family Management</strong>&mdash;You have a duty to do at home which you cannot shun and yet be true to God and to your God-given trust.... The gospel field is the world. You wish to sow the field with gospel truth, waiting for God to water the seed sown that it may bring forth fruit. You have entrusted to you a little plot of ground; but your own dooryard is left to grow up with brambles and thorns, while you are engaged in weeding others&rsquo; gardens. This is not a small work, but one of great moment. You are preaching the gospel to others; practice it yourself at home.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 381.1\" data-link=\"114.1910\">Testimonies for the Church 4:381</span>.</span></a></sup>",
+    "puborder": 1087,
+    "translations": [
+      {
+        "para_id": "13839.1331",
+        "lang": "bg",
+        "refcode": "ХД 152.1"
+      },
+      {
+        "para_id": "177.1666",
+        "lang": "es",
+        "refcode": "HC 324.1"
+      },
+      {
+        "para_id": "193.1617",
+        "lang": "fr",
+        "refcode": "FC 341.4"
+      },
+      {
+        "para_id": "12869.2016",
+        "lang": "id",
+        "refcode": "MKB 339.2"
+      },
+      {
+        "para_id": "891.1079",
+        "lang": "it",
+        "refcode": "FC 147"
+      },
+      {
+        "para_id": "891.1080",
+        "lang": "it",
+        "refcode": "FC 147.1"
+      },
+      {
+        "para_id": "12178.1401",
+        "lang": "pl",
+        "refcode": "ChD 225.3"
+      },
+      {
+        "para_id": "1955.2100",
+        "lang": "pt",
+        "refcode": "LA 356"
+      },
+      {
+        "para_id": "1955.2101",
+        "lang": "pt",
+        "refcode": "LA 356.1"
+      },
+      {
+        "para_id": "2026.1635",
+        "lang": "ro",
+        "refcode": "CA 356.1"
+      },
+      {
+        "para_id": "1803.1590",
+        "lang": "ru",
+        "refcode": "ХД 356.1"
+      },
+      {
+        "para_id": "12131.1478",
+        "lang": "uk",
+        "refcode": "ХР 286.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1642",
+    "id_prev": "128.1641",
+    "id_next": "128.1643",
+    "refcode_1": "AH",
+    "refcode_2": "356",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 356.2",
+    "refcode_long": "The Adventist Home, p. 356.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Until you can be united in the work of properly disciplining your child, let the wife remain with her child away from the scene of her husband&apos;s labors; for no example of lax, loose discipline should be given to the church of God.",
+    "puborder": 1088,
+    "translations": [
+      {
+        "para_id": "13839.1332",
+        "lang": "bg",
+        "refcode": "ХД 152.2"
+      },
+      {
+        "para_id": "177.1667",
+        "lang": "es",
+        "refcode": "HC 324.2"
+      },
+      {
+        "para_id": "193.1620",
+        "lang": "fr",
+        "refcode": "FC 342.1"
+      },
+      {
+        "para_id": "12869.2017",
+        "lang": "id",
+        "refcode": "MKB 339.3"
+      },
+      {
+        "para_id": "891.1081",
+        "lang": "it",
+        "refcode": "FC 147.2"
+      },
+      {
+        "para_id": "12178.1402",
+        "lang": "pl",
+        "refcode": "ChD 225.4"
+      },
+      {
+        "para_id": "1955.2102",
+        "lang": "pt",
+        "refcode": "LA 356.2"
+      },
+      {
+        "para_id": "2026.1636",
+        "lang": "ro",
+        "refcode": "CA 356.2"
+      },
+      {
+        "para_id": "1803.1591",
+        "lang": "ru",
+        "refcode": "ХД 356.2"
+      },
+      {
+        "para_id": "12131.1479",
+        "lang": "uk",
+        "refcode": "ХР 286.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1643",
+    "id_prev": "128.1642",
+    "id_next": "128.1644",
+    "refcode_1": "AH",
+    "refcode_2": "356",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 356.3",
+    "refcode_long": "The Adventist Home, p. 356.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "I have known many ministers who were unwise enough to travel about, taking with them an unruly child. Their labors in the pulpit were counteracted by the unlovely tempers manifested by their children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 1, 1877\" data-link=\"14053.3597001\">Letter 1, 1877</span>.</span></a></sup>",
+    "puborder": 1089,
+    "translations": [
+      {
+        "para_id": "13839.1333",
+        "lang": "bg",
+        "refcode": "ХД 152.3"
+      },
+      {
+        "para_id": "177.1668",
+        "lang": "es",
+        "refcode": "HC 324.3"
+      },
+      {
+        "para_id": "193.1621",
+        "lang": "fr",
+        "refcode": "FC 342.2"
+      },
+      {
+        "para_id": "12869.2018",
+        "lang": "id",
+        "refcode": "MKB 339.4"
+      },
+      {
+        "para_id": "891.1082",
+        "lang": "it",
+        "refcode": "FC 147.3"
+      },
+      {
+        "para_id": "12178.1403",
+        "lang": "pl",
+        "refcode": "ChD 225.5"
+      },
+      {
+        "para_id": "1955.2103",
+        "lang": "pt",
+        "refcode": "LA 356.3"
+      },
+      {
+        "para_id": "2026.1637",
+        "lang": "ro",
+        "refcode": "CA 356.3"
+      },
+      {
+        "para_id": "1803.1592",
+        "lang": "ru",
+        "refcode": "ХД 356.3"
+      },
+      {
+        "para_id": "12131.1480",
+        "lang": "uk",
+        "refcode": "ХР 286.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1644",
+    "id_prev": "128.1643",
+    "id_next": "128.1647",
+    "refcode_1": "AH",
+    "refcode_2": "356",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 356.4",
+    "refcode_long": "The Adventist Home, p. 356.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Take an Interest in Others&rsquo; Children</strong>&mdash;Your interest should not be swallowed up in your own family to the exclusion of others. If you share the hospitalities of your brethren, they may reasonably expect something in return. Identify your interests with those of parents and children, and seek to instruct and bless. Sanctify yourself to the work of God, and be a blessing to those who entertain you, conversing with parents and in no case <span class=\"page-break\" data-page=\"357\"></span> overlooking the children. Do not feel that your own little one is more precious in the sight of God than other children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 382.1\" data-link=\"114.1914\">Testimonies for the Church 4:382</span>.</span></a></sup>",
+    "puborder": 1090,
+    "translations": [
+      {
+        "para_id": "13839.1334",
+        "lang": "bg",
+        "refcode": "ХД 152.4"
+      },
+      {
+        "para_id": "177.1669",
+        "lang": "es",
+        "refcode": "HC 324.4"
+      },
+      {
+        "para_id": "193.1622",
+        "lang": "fr",
+        "refcode": "FC 342.3"
+      },
+      {
+        "para_id": "12869.2020",
+        "lang": "id",
+        "refcode": "MKB 339.5"
+      },
+      {
+        "para_id": "12178.1404",
+        "lang": "pl",
+        "refcode": "ChD 225.6"
+      },
+      {
+        "para_id": "1955.2104",
+        "lang": "pt",
+        "refcode": "LA 356"
+      },
+      {
+        "para_id": "1955.2105",
+        "lang": "pt",
+        "refcode": "LA 356.4"
+      },
+      {
+        "para_id": "2026.1638",
+        "lang": "ro",
+        "refcode": "CA 356.4"
+      },
+      {
+        "para_id": "1803.1593",
+        "lang": "ru",
+        "refcode": "ХД 356.4"
+      },
+      {
+        "para_id": "12131.1481",
+        "lang": "uk",
+        "refcode": "ХР 286.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1647",
+    "id_prev": "128.1644",
+    "id_next": "128.1648",
+    "refcode_1": "AH",
+    "refcode_2": "357",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 357.1",
+    "refcode_long": "The Adventist Home, p. 357.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>An Appeal to a Minister&apos;s Wayward Son</strong>&mdash;Your father is a minister of the gospel, and Satan works most zealously to lead the children of ministers to dishonor their parents. If possible he will bring them into captivity to his will and imbue them with his evil propensities. Will you allow Satan to work through you to destroy the hope and comfort of your parents? Will they be obliged to look upon you with continual sadness because you give yourself into Satan&apos;s control? Will you leave them to the discouragement of thinking that they have brought up children who refuse to be instructed by them, who follow their own inclinations whatever happens? ...",
+    "puborder": 1091,
+    "translations": [
+      {
+        "para_id": "13839.1335",
+        "lang": "bg",
+        "refcode": "ХД 152.5"
+      },
+      {
+        "para_id": "177.1670",
+        "lang": "es",
+        "refcode": "HC 324.5"
+      },
+      {
+        "para_id": "193.1623",
+        "lang": "fr",
+        "refcode": "FC 342.4"
+      },
+      {
+        "para_id": "12869.2024",
+        "lang": "id",
+        "refcode": "MKB 340.1"
+      },
+      {
+        "para_id": "12178.1407",
+        "lang": "pl",
+        "refcode": "ChD 226.1"
+      },
+      {
+        "para_id": "1955.2108",
+        "lang": "pt",
+        "refcode": "LA 357"
+      },
+      {
+        "para_id": "1955.2109",
+        "lang": "pt",
+        "refcode": "LA 357.1"
+      },
+      {
+        "para_id": "2026.1641",
+        "lang": "ro",
+        "refcode": "CA 357.1"
+      },
+      {
+        "para_id": "1803.1596",
+        "lang": "ru",
+        "refcode": "ХД 357.1"
+      },
+      {
+        "para_id": "12131.1484",
+        "lang": "uk",
+        "refcode": "ХР 287.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1648",
+    "id_prev": "128.1647",
+    "id_next": "128.1649",
+    "refcode_1": "AH",
+    "refcode_2": "357",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 357.2",
+    "refcode_long": "The Adventist Home, p. 357.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "You have good impulses, and you awaken hope and expectation in the minds of your parents; but, so far, you have been powerless to resist temptation, and Satan exults in your readiness to do just as he wills. Often you make statements which inspire your parents with hope, but just as often you fail because you will not resist the enemy. You cannot know how it pains your father and mother when you are found on Satan&apos;s side. Many times you say, &ldquo;I cannot do this,&rdquo; and &ldquo;I cannot do that,&rdquo; when you know that the things you say you cannot do are right for you to do. You can fight against the enemy, not in your own strength, but in the strength God is ever ready to give you. Trusting in His word, you will never say, &ldquo;I can&apos;t.&rdquo; ...",
+    "puborder": 1092,
+    "translations": [
+      {
+        "para_id": "13839.1336",
+        "lang": "bg",
+        "refcode": "ХД 152.6"
+      },
+      {
+        "para_id": "177.1673",
+        "lang": "es",
+        "refcode": "HC 325.1"
+      },
+      {
+        "para_id": "193.1624",
+        "lang": "fr",
+        "refcode": "FC 342.5"
+      },
+      {
+        "para_id": "12869.2025",
+        "lang": "id",
+        "refcode": "MKB 340.2"
+      },
+      {
+        "para_id": "12178.1408",
+        "lang": "pl",
+        "refcode": "ChD 226.2"
+      },
+      {
+        "para_id": "1955.2110",
+        "lang": "pt",
+        "refcode": "LA 357.2"
+      },
+      {
+        "para_id": "2026.1642",
+        "lang": "ro",
+        "refcode": "CA 357.2"
+      },
+      {
+        "para_id": "1803.1597",
+        "lang": "ru",
+        "refcode": "ХД 357.2"
+      },
+      {
+        "para_id": "12131.1485",
+        "lang": "uk",
+        "refcode": "ХР 287.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1649",
+    "id_prev": "128.1648",
+    "id_next": "128.1652",
+    "refcode_1": "AH",
+    "refcode_2": "357",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 357.3",
+    "refcode_long": "The Adventist Home, p. 357.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "I appeal to you in the name of the Lord to turn before it is too late. Because you are the son of parents who are co-workers with God, you are supposed to be a well-disposed boy; but often, by your waywardness, you dishonor your father and mother and counteract the work <span class=\"page-break\" data-page=\"358\"></span> they are seeking to do. Has not your mother sufficient to oppress and crush her spirits without your waywardness? Will you still pursue such a course of action that your father&apos;s heart will be weighed down with grief? Is it a pleasure for you to have all heaven looking upon you with displeasure? Is it a satisfaction for you to place yourself in the ranks of the enemy, to be ordered and controlled by him?",
+    "puborder": 1093,
+    "translations": [
+      {
+        "para_id": "13839.1339",
+        "lang": "bg",
+        "refcode": "ХД 153.1"
+      },
+      {
+        "para_id": "177.1674",
+        "lang": "es",
+        "refcode": "HC 325.2"
+      },
+      {
+        "para_id": "193.1627",
+        "lang": "fr",
+        "refcode": "FC 343.1"
+      },
+      {
+        "para_id": "12869.2027",
+        "lang": "id",
+        "refcode": "MKB 341.1"
+      },
+      {
+        "para_id": "12178.1409",
+        "lang": "pl",
+        "refcode": "ChD 226.3"
+      },
+      {
+        "para_id": "1955.2111",
+        "lang": "pt",
+        "refcode": "LA 357.3"
+      },
+      {
+        "para_id": "2026.1643",
+        "lang": "ro",
+        "refcode": "CA 357.3"
+      },
+      {
+        "para_id": "1803.1598",
+        "lang": "ru",
+        "refcode": "ХД 357.3"
+      },
+      {
+        "para_id": "12131.1485",
+        "lang": "uk",
+        "refcode": "ХР 287.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1652",
+    "id_prev": "128.1649",
+    "id_next": "128.1653",
+    "refcode_1": "AH",
+    "refcode_2": "358",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 358.1",
+    "refcode_long": "The Adventist Home, p. 358.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Oh, that now, while it is called today, you would turn to the Lord! Your every deed is making you either better or worse. If your actions are on Satan&apos;s side, they leave behind them an influence that continues to work its baleful results. Only the pure, the clean, and the holy can enter the city of God, &ldquo;Today if ye will hear His voice, harden not your hearts,&rdquo; but turn to the Lord, that the path you travel may not leave desolation in its track.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 15a, 1896\" data-link=\"14061.5432001\">Letter 15a, 1896</span>.</span></a></sup>",
+    "puborder": 1094,
+    "translations": [
+      {
+        "para_id": "13839.1340",
+        "lang": "bg",
+        "refcode": "ХД 153.2"
+      },
+      {
+        "para_id": "177.1675",
+        "lang": "es",
+        "refcode": "HC 325.3"
+      },
+      {
+        "para_id": "193.1628",
+        "lang": "fr",
+        "refcode": "FC 343.2"
+      },
+      {
+        "para_id": "12869.2028",
+        "lang": "id",
+        "refcode": "MKB 341.2"
+      },
+      {
+        "para_id": "12178.1411",
+        "lang": "pl",
+        "refcode": "ChD 227.1"
+      },
+      {
+        "para_id": "1955.2114",
+        "lang": "pt",
+        "refcode": "LA 358.1"
+      },
+      {
+        "para_id": "2026.1646",
+        "lang": "ro",
+        "refcode": "CA 358.1"
+      },
+      {
+        "para_id": "1803.1601",
+        "lang": "ru",
+        "refcode": "ХД 358.1"
+      },
+      {
+        "para_id": "12131.1486",
+        "lang": "uk",
+        "refcode": "ХР 287.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1653",
+    "id_prev": "128.1652",
+    "id_next": "128.1654",
+    "refcode_1": "AH",
+    "refcode_2": "358",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 358.2",
+    "refcode_long": "The Adventist Home, p. 358.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Minister to Treat Children With Kindness and Courtesy</strong>&mdash;Let the kindness and courtesy of the minister be seen in his treatment of children. He should ever bear in mind that they are miniature men and women, younger members of the Lord&apos;s family. These may be very near and dear to the Master and, if properly instructed and disciplined, will do service for Him, even in their youth. Christ is grieved with every harsh, severe, and inconsiderate word spoken to children. Their rights are not always respected, and they are frequently treated as though they had not an individual character which needs to be properly developed that it may not be warped and the purpose of God in their lives prove a failure.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">14<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 397.1\" data-link=\"114.1990\">Testimonies for the Church 4:397, 398</span>.</span></a></sup>",
+    "puborder": 1095,
+    "translations": [
+      {
+        "para_id": "13839.1341",
+        "lang": "bg",
+        "refcode": "ХД 153.3"
+      },
+      {
+        "para_id": "177.1678",
+        "lang": "es",
+        "refcode": "HC 326.1"
+      },
+      {
+        "para_id": "193.1629",
+        "lang": "fr",
+        "refcode": "FC 343.3"
+      },
+      {
+        "para_id": "12869.2030",
+        "lang": "id",
+        "refcode": "MKB 341.3"
+      },
+      {
+        "para_id": "891.1084",
+        "lang": "it",
+        "refcode": "FC 147.4"
+      },
+      {
+        "para_id": "891.1083",
+        "lang": "it",
+        "refcode": "FC 147"
+      },
+      {
+        "para_id": "12178.1412",
+        "lang": "pl",
+        "refcode": "ChD 227.2"
+      },
+      {
+        "para_id": "1955.2116",
+        "lang": "pt",
+        "refcode": "LA 358.2"
+      },
+      {
+        "para_id": "1955.2115",
+        "lang": "pt",
+        "refcode": "LA 358"
+      },
+      {
+        "para_id": "2026.1647",
+        "lang": "ro",
+        "refcode": "CA 358.2"
+      },
+      {
+        "para_id": "1803.1602",
+        "lang": "ru",
+        "refcode": "ХД 358.2"
+      },
+      {
+        "para_id": "12131.1489",
+        "lang": "uk",
+        "refcode": "ХР 288.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1654",
+    "id_prev": "128.1653",
+    "id_next": "128.1657",
+    "refcode_1": "AH",
+    "refcode_2": "358",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 358.3",
+    "refcode_long": "The Adventist Home, p. 358.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Let the church take a special care of the lambs of the flock, exerting every influence in their power to win the <span class=\"page-break\" data-page=\"359\"></span> love of the children and to bind them to the truth. Ministers and church members should second the efforts of parents to lead the children into safe paths. The Lord is calling for the youth, for He would make them His helpers to do good service under His banner.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">15<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 10-25-1892\" data-link=\"821.12255\">The Review and Herald, October 25, 1892</span>.</span></a></sup>",
+    "puborder": 1096,
+    "translations": [
+      {
+        "para_id": "13839.1342",
+        "lang": "bg",
+        "refcode": "ХД 153.4"
+      },
+      {
+        "para_id": "177.1679",
+        "lang": "es",
+        "refcode": "HC 326.2"
+      },
+      {
+        "para_id": "193.1632",
+        "lang": "fr",
+        "refcode": "FC 344.1"
+      },
+      {
+        "para_id": "12869.2031",
+        "lang": "id",
+        "refcode": "MKB 341.4"
+      },
+      {
+        "para_id": "891.1085",
+        "lang": "it",
+        "refcode": "FC 147.5"
+      },
+      {
+        "para_id": "12178.1413",
+        "lang": "pl",
+        "refcode": "ChD 227.3"
+      },
+      {
+        "para_id": "1955.2117",
+        "lang": "pt",
+        "refcode": "LA 358.3"
+      },
+      {
+        "para_id": "2026.1648",
+        "lang": "ro",
+        "refcode": "CA 358.3"
+      },
+      {
+        "para_id": "1803.1603",
+        "lang": "ru",
+        "refcode": "ХД 358.3"
+      },
+      {
+        "para_id": "12131.1490",
+        "lang": "uk",
+        "refcode": "ХР 288.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1657",
+    "id_prev": "128.1654",
+    "id_next": "128.1658",
+    "refcode_1": "AH",
+    "refcode_2": "359",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 359.1",
+    "refcode_long": "The Adventist Home, p. 359.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>An Effectual Sermon on Godliness</strong>&mdash;The minister should instruct the people upon the government of children, and his own children should be examples of proper subjection.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">16<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 1, 1877\" data-link=\"14053.3597001\">Letter 1, 1877</span>.</span></a></sup>",
+    "puborder": 1097,
+    "translations": [
+      {
+        "para_id": "13839.1343",
+        "lang": "bg",
+        "refcode": "ХД 153.5"
+      },
+      {
+        "para_id": "177.1680",
+        "lang": "es",
+        "refcode": "HC 326.3"
+      },
+      {
+        "para_id": "193.1633",
+        "lang": "fr",
+        "refcode": "FC 344.2"
+      },
+      {
+        "para_id": "12869.2035",
+        "lang": "id",
+        "refcode": "MKB 342.1"
+      },
+      {
+        "para_id": "891.1086",
+        "lang": "it",
+        "refcode": "FC 147"
+      },
+      {
+        "para_id": "891.1087",
+        "lang": "it",
+        "refcode": "FC 147.6"
+      },
+      {
+        "para_id": "12178.1414",
+        "lang": "pl",
+        "refcode": "ChD 227.4"
+      },
+      {
+        "para_id": "1955.2121",
+        "lang": "pt",
+        "refcode": "LA 359.1"
+      },
+      {
+        "para_id": "1955.2120",
+        "lang": "pt",
+        "refcode": "LA 359"
+      },
+      {
+        "para_id": "2026.1651",
+        "lang": "ro",
+        "refcode": "CA 359.1"
+      },
+      {
+        "para_id": "1803.1606",
+        "lang": "ru",
+        "refcode": "ХД 359.1"
+      },
+      {
+        "para_id": "12131.1491",
+        "lang": "uk",
+        "refcode": "ХР 288.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1658",
+    "id_prev": "128.1657",
+    "id_next": "128.1660",
+    "refcode_1": "AH",
+    "refcode_2": "359",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 359.2",
+    "refcode_long": "The Adventist Home, p. 359.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There should exist in the minister&apos;s family a unity that will preach an effectual sermon on practical godliness. As the minister and his wife faithfully do their duty in the home, restraining, correcting, advising, counseling, guiding, they are becoming better fitted to labor in the church and are multiplying agencies for the accomplishment of God&apos;s work outside the home. The members of the family become members of the family above and are a power for good, exerting a far-reaching influence.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">17<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"GW 204.1\" data-link=\"35.1045\">Gospel Workers, 204, 205</span>.</span></a></sup>",
+    "puborder": 1098,
+    "translations": [
+      {
+        "para_id": "13839.1344",
+        "lang": "bg",
+        "refcode": "ХД 153.6"
+      },
+      {
+        "para_id": "177.1681",
+        "lang": "es",
+        "refcode": "HC 326.4"
+      },
+      {
+        "para_id": "193.1634",
+        "lang": "fr",
+        "refcode": "FC 344.3"
+      },
+      {
+        "para_id": "12869.2036",
+        "lang": "id",
+        "refcode": "MKB 342.2"
+      },
+      {
+        "para_id": "891.1088",
+        "lang": "it",
+        "refcode": "FC 147.7"
+      },
+      {
+        "para_id": "12178.1415",
+        "lang": "pl",
+        "refcode": "ChD 227.5"
+      },
+      {
+        "para_id": "1955.2122",
+        "lang": "pt",
+        "refcode": "LA 359.2"
+      },
+      {
+        "para_id": "2026.1652",
+        "lang": "ro",
+        "refcode": "CA 359.2"
+      },
+      {
+        "para_id": "1803.1607",
+        "lang": "ru",
+        "refcode": "ХД 359.2"
+      },
+      {
+        "para_id": "12131.1492",
+        "lang": "uk",
+        "refcode": "ХР 288.4"
+      }
+    ]
+  }
+]

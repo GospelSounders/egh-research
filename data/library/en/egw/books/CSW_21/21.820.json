@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.820",
+    "id_prev": "21.817",
+    "id_next": "21.821",
+    "refcode_1": "CSW",
+    "refcode_2": "176",
+    "refcode_3": "",
+    "refcode_4": "135",
+    "refcode_short": "CSW 176",
+    "refcode_long": "Counsels on Sabbath School Work, p. 176 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Remembering Our Own Childhood Experience",
+    "puborder": 517,
+    "translations": [
+      {
+        "para_id": "11629.801",
+        "lang": "da",
+        "refcode": "RSSA 176"
+      },
+      {
+        "para_id": "799.769",
+        "lang": "de",
+        "refcode": "RSs 143"
+      },
+      {
+        "para_id": "1711.881",
+        "lang": "es",
+        "refcode": "COES 197"
+      },
+      {
+        "para_id": "1724.863",
+        "lang": "pt",
+        "refcode": "CES 176"
+      },
+      {
+        "para_id": "1917.968",
+        "lang": "pt",
+        "refcode": "CES38 93"
+      },
+      {
+        "para_id": "2719.838",
+        "lang": "ro",
+        "refcode": "SSS 176"
+      },
+      {
+        "para_id": "1873.814",
+        "lang": "ru",
+        "refcode": "ССШ 176"
+      }
+    ]
+  },
+  {
+    "para_id": "21.821",
+    "id_prev": "21.820",
+    "id_next": "21.824",
+    "refcode_1": "CSW",
+    "refcode_2": "176",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 176.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 176.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Some parents&mdash;and some teachers, as well&mdash;seem to forget that they themselves were once children. They are dignified, cold, and unsympathetic. Wherever they are brought in contact with the young,&mdash;at home, in the day school, the Sabbath school, or the church,&mdash;they maintain the same air of authority, and their faces habitually wear a solemn, reproving expression. <span class=\"page-break\" data-page=\"177\"></span> Childish mirth or waywardness, the restless activity of the young life, finds no excuse in their eyes. Trifling misdemeanors are treated as grave sins. Such discipline is not Christlike. Children thus trained fear their parents or teachers, but do not love them; they do not confide to them their childish experiences. Some of the most valuable qualities of mind and heart are chilled to death, as a tender plant before the wintry blast.",
+    "puborder": 518,
+    "translations": [
+      {
+        "para_id": "11629.802",
+        "lang": "da",
+        "refcode": "RSSA 176.1"
+      },
+      {
+        "para_id": "799.770",
+        "lang": "de",
+        "refcode": "RSs 143.1"
+      },
+      {
+        "para_id": "1711.882",
+        "lang": "es",
+        "refcode": "COES 197.1"
+      },
+      {
+        "para_id": "1724.864",
+        "lang": "pt",
+        "refcode": "CES 176.1"
+      },
+      {
+        "para_id": "1917.969",
+        "lang": "pt",
+        "refcode": "CES38 93.1"
+      },
+      {
+        "para_id": "2719.839",
+        "lang": "ro",
+        "refcode": "SSS 176.1"
+      },
+      {
+        "para_id": "1873.815",
+        "lang": "ru",
+        "refcode": "ССШ 176.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.824",
+    "id_prev": "21.821",
+    "id_next": "21.825",
+    "refcode_1": "CSW",
+    "refcode_2": "177",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 177.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 177.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Smile, parents; smile, teachers. If your heart is sad, let not your face reveal the fact. Let the sunshine from a loving, grateful heart light up the countenance. Unbend from your iron dignity, adapt yourselves to the children&apos;s needs, and make them love you. You must win their affection, if you would impress religious truth upon their heart.&mdash;<span class=\"egwlink egwlink_book\" title=\"FE 68.1\" data-link=\"32.266\"><em>Fundamentals of Christian Education</em>, 68</span>.",
+    "puborder": 519,
+    "translations": [
+      {
+        "para_id": "11629.805",
+        "lang": "da",
+        "refcode": "RSSA 177.1"
+      },
+      {
+        "para_id": "799.771",
+        "lang": "de",
+        "refcode": "RSs 143.2"
+      },
+      {
+        "para_id": "1711.885",
+        "lang": "es",
+        "refcode": "COES 198.1"
+      },
+      {
+        "para_id": "1724.867",
+        "lang": "pt",
+        "refcode": "CES 177.1"
+      },
+      {
+        "para_id": "1917.972",
+        "lang": "pt",
+        "refcode": "CES38 93.3"
+      },
+      {
+        "para_id": "2719.842",
+        "lang": "ro",
+        "refcode": "SSS 177.1"
+      },
+      {
+        "para_id": "1873.818",
+        "lang": "ru",
+        "refcode": "ССШ 177.1"
+      }
+    ]
+  }
+]

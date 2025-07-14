@@ -1,0 +1,2954 @@
+[
+  {
+    "para_id": "127.180",
+    "id_prev": "127.178",
+    "id_next": "127.181",
+    "refcode_1": "AA",
+    "refcode_2": "47",
+    "refcode_3": "",
+    "refcode_4": "5",
+    "refcode_short": "AA 47",
+    "refcode_long": "The Acts of the Apostles, p. 47 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 5&mdash;The Gift of the Spirit",
+    "puborder": 105,
+    "translations": [
+      {
+        "para_id": "13804.127",
+        "lang": "bg",
+        "refcode": "Дa 17"
+      },
+      {
+        "para_id": "11590.170",
+        "lang": "ce",
+        "refcode": "ABA 41"
+      },
+      {
+        "para_id": "11247.160",
+        "lang": "cs",
+        "refcode": "PNL 28"
+      },
+      {
+        "para_id": "813.178",
+        "lang": "de",
+        "refcode": "WA 49"
+      },
+      {
+        "para_id": "198.180",
+        "lang": "es",
+        "refcode": "HAp 39"
+      },
+      {
+        "para_id": "158.179",
+        "lang": "fr",
+        "refcode": "CP 43"
+      },
+      {
+        "para_id": "11938.156",
+        "lang": "hu",
+        "refcode": "AT 31"
+      },
+      {
+        "para_id": "12410.168",
+        "lang": "id",
+        "refcode": "KR 40"
+      },
+      {
+        "para_id": "882.155",
+        "lang": "it",
+        "refcode": "UVI 31"
+      },
+      {
+        "para_id": "11660.245",
+        "lang": "ja",
+        "refcode": "AAJ 43"
+      },
+      {
+        "para_id": "12335.149",
+        "lang": "nb",
+        "refcode": "AV 29"
+      },
+      {
+        "para_id": "12008.145",
+        "lang": "pl",
+        "refcode": "DA 28"
+      },
+      {
+        "para_id": "1806.167",
+        "lang": "pt",
+        "refcode": "AA 31.4"
+      },
+      {
+        "para_id": "2013.171",
+        "lang": "ro",
+        "refcode": "FA 47"
+      },
+      {
+        "para_id": "1785.158",
+        "lang": "ru",
+        "refcode": "ДА 47"
+      },
+      {
+        "para_id": "13874.151",
+        "lang": "rw",
+        "refcode": "INI 33"
+      },
+      {
+        "para_id": "11182.141",
+        "lang": "sk",
+        "refcode": "SA 32"
+      },
+      {
+        "para_id": "11904.165",
+        "lang": "tl",
+        "refcode": "AGA 37"
+      },
+      {
+        "para_id": "11875.145",
+        "lang": "uk",
+        "refcode": "ДА 30"
+      }
+    ]
+  },
+  {
+    "para_id": "127.181",
+    "id_prev": "127.180",
+    "id_next": "127.184",
+    "refcode_1": "AA",
+    "refcode_2": "47",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 47.1",
+    "refcode_long": "The Acts of the Apostles, p. 47.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When Christ gave His disciples the promise of the Spirit, He was nearing the close of His earthly ministry. He was standing in the shadow of the cross, with a full realization of the load of guilt that was to rest upon Him as the Sin Bearer. Before offering Himself as the sacrificial victim, He instructed His disciples regarding a most essential and complete gift which He was to bestow upon His followers&mdash;the gift that would bring within their reach the boundless resources of His grace. &ldquo;I will pray the Father,&rdquo; He said, &ldquo;and He shall give you another Comforter, that He may abide with you forever; even the Spirit of truth; whom the world cannot receive, because it seeth Him not, neither knoweth Him: but ye know Him; for He dwelleth with you, and shall be in you.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"John 14:16\" data-link=\"1965.54425\">John 14:16, 17</span>. The Saviour was pointing forward to the time when the Holy Spirit should come to do a mighty work as His representative. The evil that had been accumulating for centuries <span class=\"page-break\" data-page=\"48\"></span> was to be resisted by the divine power of the Holy Spirit.",
+    "puborder": 106,
+    "translations": [
+      {
+        "para_id": "13804.128",
+        "lang": "bg",
+        "refcode": "Дa 17.6"
+      },
+      {
+        "para_id": "11590.171",
+        "lang": "ce",
+        "refcode": "ABA 41.1"
+      },
+      {
+        "para_id": "11247.161",
+        "lang": "cs",
+        "refcode": "PNL 28.1"
+      },
+      {
+        "para_id": "813.179",
+        "lang": "de",
+        "refcode": "WA 49.1"
+      },
+      {
+        "para_id": "198.181",
+        "lang": "es",
+        "refcode": "HAp 39.1"
+      },
+      {
+        "para_id": "158.180",
+        "lang": "fr",
+        "refcode": "CP 43.1"
+      },
+      {
+        "para_id": "11938.157",
+        "lang": "hu",
+        "refcode": "AT 31.1"
+      },
+      {
+        "para_id": "12410.169",
+        "lang": "id",
+        "refcode": "KR 40.1"
+      },
+      {
+        "para_id": "882.156",
+        "lang": "it",
+        "refcode": "UVI 31.1"
+      },
+      {
+        "para_id": "11660.246",
+        "lang": "ja",
+        "refcode": "AAJ 43.1"
+      },
+      {
+        "para_id": "11660.247",
+        "lang": "ja",
+        "refcode": "AAJ 43.2"
+      },
+      {
+        "para_id": "12335.150",
+        "lang": "nb",
+        "refcode": "AV 29.1"
+      },
+      {
+        "para_id": "12008.146",
+        "lang": "pl",
+        "refcode": "DA 28.1"
+      },
+      {
+        "para_id": "1806.168",
+        "lang": "pt",
+        "refcode": "AA 31.5"
+      },
+      {
+        "para_id": "2013.172",
+        "lang": "ro",
+        "refcode": "FA 47.1"
+      },
+      {
+        "para_id": "1785.159",
+        "lang": "ru",
+        "refcode": "ДА 47.1"
+      },
+      {
+        "para_id": "13874.153",
+        "lang": "rw",
+        "refcode": "INI 33.2"
+      },
+      {
+        "para_id": "13874.152",
+        "lang": "rw",
+        "refcode": "INI 33.1"
+      },
+      {
+        "para_id": "11182.142",
+        "lang": "sk",
+        "refcode": "SA 32.1"
+      },
+      {
+        "para_id": "11904.166",
+        "lang": "tl",
+        "refcode": "AGA 37.1"
+      },
+      {
+        "para_id": "11875.146",
+        "lang": "uk",
+        "refcode": "ДА 30.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.184",
+    "id_prev": "127.181",
+    "id_next": "127.185",
+    "refcode_1": "AA",
+    "refcode_2": "48",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 48.1",
+    "refcode_long": "The Acts of the Apostles, p. 48.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "What was the result of the outpouring of the Spirit on the Day of Pentecost? The glad tidings of a risen Saviour were carried to the uttermost parts of the inhabited world. As the disciples proclaimed the message of redeeming grace, hearts yielded to the power of this message. The church beheld converts flocking to her from all directions. Backsliders were reconverted. Sinners united with believers in seeking the pearl of great price. Some who had been the bitterest opponents of the gospel became its champions. The prophecy was fulfilled, &ldquo;He that is feeble ... shall be as David; and the house of David ... as the angel of the Lord.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Zechariah 12:8\" data-link=\"1965.47070\">Zechariah 12:8</span>. Every Christian saw in his brother a revelation of divine love and benevolence. One interest prevailed; one subject of emulation swallowed up all others. The ambition of the believers was to reveal the likeness of Christ&apos;s character and to labor for the enlargement of His kingdom.",
+    "puborder": 107,
+    "translations": [
+      {
+        "para_id": "13804.131",
+        "lang": "bg",
+        "refcode": "Дa 18.1"
+      },
+      {
+        "para_id": "11590.172",
+        "lang": "ce",
+        "refcode": "ABA 41.2"
+      },
+      {
+        "para_id": "11247.163",
+        "lang": "cs",
+        "refcode": "PNL 28.2"
+      },
+      {
+        "para_id": "813.180",
+        "lang": "de",
+        "refcode": "WA 49.2"
+      },
+      {
+        "para_id": "198.182",
+        "lang": "es",
+        "refcode": "HAp 39.2"
+      },
+      {
+        "para_id": "158.181",
+        "lang": "fr",
+        "refcode": "CP 43.2"
+      },
+      {
+        "para_id": "158.184",
+        "lang": "fr",
+        "refcode": "CP 44.1"
+      },
+      {
+        "para_id": "11938.158",
+        "lang": "hu",
+        "refcode": "AT 31.2"
+      },
+      {
+        "para_id": "12410.170",
+        "lang": "id",
+        "refcode": "KR 40.2"
+      },
+      {
+        "para_id": "882.157",
+        "lang": "it",
+        "refcode": "UVI 31.2"
+      },
+      {
+        "para_id": "11660.250",
+        "lang": "ja",
+        "refcode": "AAJ 44.1"
+      },
+      {
+        "para_id": "12335.151",
+        "lang": "nb",
+        "refcode": "AV 29.2"
+      },
+      {
+        "para_id": "12008.147",
+        "lang": "pl",
+        "refcode": "DA 28.2"
+      },
+      {
+        "para_id": "1806.169",
+        "lang": "pt",
+        "refcode": "AA 31.6"
+      },
+      {
+        "para_id": "2013.175",
+        "lang": "ro",
+        "refcode": "FA 48.1"
+      },
+      {
+        "para_id": "1785.161",
+        "lang": "ru",
+        "refcode": "ДА 48.1"
+      },
+      {
+        "para_id": "13874.154",
+        "lang": "rw",
+        "refcode": "INI 33.3"
+      },
+      {
+        "para_id": "11182.143",
+        "lang": "sk",
+        "refcode": "SA 32.2"
+      },
+      {
+        "para_id": "11904.167",
+        "lang": "tl",
+        "refcode": "AGA 37.2"
+      },
+      {
+        "para_id": "11875.147",
+        "lang": "uk",
+        "refcode": "ДА 30.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.185",
+    "id_prev": "127.184",
+    "id_next": "127.187",
+    "refcode_1": "AA",
+    "refcode_2": "48",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 48.2",
+    "refcode_long": "The Acts of the Apostles, p. 48.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;With great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 4:33\" data-link=\"1965.55179\">Acts 4:33</span>. Under their labors were added to the church chosen men, who, receiving the word of truth, consecrated their lives to the work of giving to others the hope that filled their hearts with peace and joy. They could not be restrained or intimidated by threatenings. The Lord spoke through them, and as they went from place to place, the poor had the gospel preached to them, and miracles of divine grace were wrought.",
+    "puborder": 108,
+    "translations": [
+      {
+        "para_id": "13804.132",
+        "lang": "bg",
+        "refcode": "Дa 18.2"
+      },
+      {
+        "para_id": "11590.175",
+        "lang": "ce",
+        "refcode": "ABA 42.1"
+      },
+      {
+        "para_id": "11247.164",
+        "lang": "cs",
+        "refcode": "PNL 28.3"
+      },
+      {
+        "para_id": "813.183",
+        "lang": "de",
+        "refcode": "WA 50.1"
+      },
+      {
+        "para_id": "198.185",
+        "lang": "es",
+        "refcode": "HAp 40.1"
+      },
+      {
+        "para_id": "158.184",
+        "lang": "fr",
+        "refcode": "CP 44.1"
+      },
+      {
+        "para_id": "158.185",
+        "lang": "fr",
+        "refcode": "CP 44.2"
+      },
+      {
+        "para_id": "11938.159",
+        "lang": "hu",
+        "refcode": "AT 31.3"
+      },
+      {
+        "para_id": "12410.173",
+        "lang": "id",
+        "refcode": "KR 41.1"
+      },
+      {
+        "para_id": "882.158",
+        "lang": "it",
+        "refcode": "UVI 31.3"
+      },
+      {
+        "para_id": "11660.251",
+        "lang": "ja",
+        "refcode": "AAJ 44.2"
+      },
+      {
+        "para_id": "12335.152",
+        "lang": "nb",
+        "refcode": "AV 29.3"
+      },
+      {
+        "para_id": "12008.148",
+        "lang": "pl",
+        "refcode": "DA 28.3"
+      },
+      {
+        "para_id": "1806.170",
+        "lang": "pt",
+        "refcode": "AA 31.7"
+      },
+      {
+        "para_id": "2013.176",
+        "lang": "ro",
+        "refcode": "FA 48.2"
+      },
+      {
+        "para_id": "1785.162",
+        "lang": "ru",
+        "refcode": "ДА 48.2"
+      },
+      {
+        "para_id": "13874.155",
+        "lang": "rw",
+        "refcode": "INI 33.4"
+      },
+      {
+        "para_id": "11182.144",
+        "lang": "sk",
+        "refcode": "SA 32.3"
+      },
+      {
+        "para_id": "11904.167",
+        "lang": "tl",
+        "refcode": "AGA 37.2"
+      },
+      {
+        "para_id": "11875.150",
+        "lang": "uk",
+        "refcode": "ДА 31.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.187",
+    "id_prev": "127.185",
+    "id_next": "127.188",
+    "refcode_1": "AA",
+    "refcode_2": "49",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 49.1",
+    "refcode_long": "The Acts of the Apostles, p. 49.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "So mightily can God work when men give themselves up to the control of His Spirit.",
+    "puborder": 109,
+    "translations": [
+      {
+        "para_id": "13804.133",
+        "lang": "bg",
+        "refcode": "Дa 18.3"
+      },
+      {
+        "para_id": "11590.176",
+        "lang": "ce",
+        "refcode": "ABA 42.2"
+      },
+      {
+        "para_id": "11247.167",
+        "lang": "cs",
+        "refcode": "PNL 29.1"
+      },
+      {
+        "para_id": "813.184",
+        "lang": "de",
+        "refcode": "WA 50.2"
+      },
+      {
+        "para_id": "198.186",
+        "lang": "es",
+        "refcode": "HAp 40.2"
+      },
+      {
+        "para_id": "158.185",
+        "lang": "fr",
+        "refcode": "CP 44.2"
+      },
+      {
+        "para_id": "11938.162",
+        "lang": "hu",
+        "refcode": "AT 32.1"
+      },
+      {
+        "para_id": "12410.174",
+        "lang": "id",
+        "refcode": "KR 41.2"
+      },
+      {
+        "para_id": "882.161",
+        "lang": "it",
+        "refcode": "UVI 32.1"
+      },
+      {
+        "para_id": "11660.253",
+        "lang": "ja",
+        "refcode": "AAJ 45.1"
+      },
+      {
+        "para_id": "12335.155",
+        "lang": "nb",
+        "refcode": "AV 30.1"
+      },
+      {
+        "para_id": "12008.151",
+        "lang": "pl",
+        "refcode": "DA 29.1"
+      },
+      {
+        "para_id": "1806.173",
+        "lang": "pt",
+        "refcode": "AA 32.2"
+      },
+      {
+        "para_id": "2013.178",
+        "lang": "ro",
+        "refcode": "FA 49.1"
+      },
+      {
+        "para_id": "1785.164",
+        "lang": "ru",
+        "refcode": "ДА 49.1"
+      },
+      {
+        "para_id": "13874.155",
+        "lang": "rw",
+        "refcode": "INI 33.4"
+      },
+      {
+        "para_id": "11182.147",
+        "lang": "sk",
+        "refcode": "SA 33.1"
+      },
+      {
+        "para_id": "11904.170",
+        "lang": "tl",
+        "refcode": "AGA 38.1"
+      },
+      {
+        "para_id": "11875.151",
+        "lang": "uk",
+        "refcode": "ДА 31.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.188",
+    "id_prev": "127.187",
+    "id_next": "127.189",
+    "refcode_1": "AA",
+    "refcode_2": "49",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 49.2",
+    "refcode_long": "The Acts of the Apostles, p. 49.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The promise of the Holy Spirit is not limited to any age or to any race. Christ declared that the divine influence of His Spirit was to be with His followers unto the end. From the Day of Pentecost to the present time, the Comforter has been sent to all who have yielded themselves fully to the Lord and to His service. To all who have accepted Christ as a personal Saviour, the Holy Spirit has come as a counselor, sanctifier, guide, and witness. The more closely believers have walked with God, the more clearly and powerfully have they testified of their Redeemer&apos;s love and of His saving grace. The men and women who through the long centuries of persecution and trial enjoyed a large measure of the presence of the Spirit in their lives, have stood as signs and wonders in the world. Before angels and men they have revealed the transforming power of redeeming love.",
+    "puborder": 110,
+    "translations": [
+      {
+        "para_id": "13804.134",
+        "lang": "bg",
+        "refcode": "Дa 18.4"
+      },
+      {
+        "para_id": "11590.177",
+        "lang": "ce",
+        "refcode": "ABA 42.3"
+      },
+      {
+        "para_id": "11247.168",
+        "lang": "cs",
+        "refcode": "PNL 29.2"
+      },
+      {
+        "para_id": "813.185",
+        "lang": "de",
+        "refcode": "WA 50.3"
+      },
+      {
+        "para_id": "198.187",
+        "lang": "es",
+        "refcode": "HAp 40.3"
+      },
+      {
+        "para_id": "158.186",
+        "lang": "fr",
+        "refcode": "CP 44.3"
+      },
+      {
+        "para_id": "11938.163",
+        "lang": "hu",
+        "refcode": "AT 32.2"
+      },
+      {
+        "para_id": "12410.175",
+        "lang": "id",
+        "refcode": "KR 41.3"
+      },
+      {
+        "para_id": "882.162",
+        "lang": "it",
+        "refcode": "UVI 32.2"
+      },
+      {
+        "para_id": "11660.254",
+        "lang": "ja",
+        "refcode": "AAJ 45.2"
+      },
+      {
+        "para_id": "12335.156",
+        "lang": "nb",
+        "refcode": "AV 30.2"
+      },
+      {
+        "para_id": "12008.152",
+        "lang": "pl",
+        "refcode": "DA 29.2"
+      },
+      {
+        "para_id": "1806.174",
+        "lang": "pt",
+        "refcode": "AA 32.3"
+      },
+      {
+        "para_id": "2013.179",
+        "lang": "ro",
+        "refcode": "FA 49.2"
+      },
+      {
+        "para_id": "1785.165",
+        "lang": "ru",
+        "refcode": "ДА 49.2"
+      },
+      {
+        "para_id": "13874.158",
+        "lang": "rw",
+        "refcode": "INI 34.1"
+      },
+      {
+        "para_id": "11182.148",
+        "lang": "sk",
+        "refcode": "SA 33.2"
+      },
+      {
+        "para_id": "11904.171",
+        "lang": "tl",
+        "refcode": "AGA 38.2"
+      },
+      {
+        "para_id": "11875.152",
+        "lang": "uk",
+        "refcode": "ДА 31.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.189",
+    "id_prev": "127.188",
+    "id_next": "127.192",
+    "refcode_1": "AA",
+    "refcode_2": "49",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 49.3",
+    "refcode_long": "The Acts of the Apostles, p. 49.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those who at Pentecost were endued with power from on high, were not thereby freed from further temptation and trial. As they witnessed for truth and righteousness they were repeatedly assailed by the enemy of all truth, who sought to rob them of their Christian experience. They were compelled to strive with all their God-given powers to reach the measure of the stature of men and women in Christ Jesus. Daily they prayed for fresh supplies of grace, that they might reach higher and still higher toward perfection. Under the Holy Spirit&apos;s working even the weakest, <span class=\"page-break\" data-page=\"50\"></span> by exercising faith in God, learned to improve their entrusted powers and to become sanctified, refined, and ennobled. As in humility they submitted to the molding influence of the Holy Spirit, they received of the fullness of the Godhead and were fashioned in the likeness of the divine.",
+    "puborder": 111,
+    "translations": [
+      {
+        "para_id": "13804.135",
+        "lang": "bg",
+        "refcode": "Дa 18.5"
+      },
+      {
+        "para_id": "11590.180",
+        "lang": "ce",
+        "refcode": "ABA 43.1"
+      },
+      {
+        "para_id": "11247.169",
+        "lang": "cs",
+        "refcode": "PNL 29.3"
+      },
+      {
+        "para_id": "813.188",
+        "lang": "de",
+        "refcode": "WA 51.1"
+      },
+      {
+        "para_id": "198.188",
+        "lang": "es",
+        "refcode": "HAp 40.4"
+      },
+      {
+        "para_id": "158.189",
+        "lang": "fr",
+        "refcode": "CP 45.1"
+      },
+      {
+        "para_id": "11938.164",
+        "lang": "hu",
+        "refcode": "AT 32.3"
+      },
+      {
+        "para_id": "12410.178",
+        "lang": "id",
+        "refcode": "KR 42.1"
+      },
+      {
+        "para_id": "882.163",
+        "lang": "it",
+        "refcode": "UVI 32.3"
+      },
+      {
+        "para_id": "11660.255",
+        "lang": "ja",
+        "refcode": "AAJ 45.3"
+      },
+      {
+        "para_id": "12335.157",
+        "lang": "nb",
+        "refcode": "AV 30.3"
+      },
+      {
+        "para_id": "12008.153",
+        "lang": "pl",
+        "refcode": "DA 29.3"
+      },
+      {
+        "para_id": "1806.175",
+        "lang": "pt",
+        "refcode": "AA 32.4"
+      },
+      {
+        "para_id": "2013.180",
+        "lang": "ro",
+        "refcode": "FA 49.3"
+      },
+      {
+        "para_id": "1785.166",
+        "lang": "ru",
+        "refcode": "ДА 49.3"
+      },
+      {
+        "para_id": "13874.159",
+        "lang": "rw",
+        "refcode": "INI 34.2"
+      },
+      {
+        "para_id": "11182.149",
+        "lang": "sk",
+        "refcode": "SA 33.3"
+      },
+      {
+        "para_id": "11904.172",
+        "lang": "tl",
+        "refcode": "AGA 38.3"
+      },
+      {
+        "para_id": "11875.153",
+        "lang": "uk",
+        "refcode": "ДА 31.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.192",
+    "id_prev": "127.189",
+    "id_next": "127.193",
+    "refcode_1": "AA",
+    "refcode_2": "50",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 50.1",
+    "refcode_long": "The Acts of the Apostles, p. 50.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The lapse of time has wrought no change in Christ&apos;s parting promise to send the Holy Spirit as His representative. It is not because of any restriction on the part of God that the riches of His grace do not flow earthward to men. If the fulfillment of the promise is not seen as it might be, it is because the promise is not appreciated as it should be. If all were willing, all would be filled with the Spirit. Wherever the need of the Holy Spirit is a matter little thought of, there is seen spiritual drought, spiritual darkness, spiritual declension and death. Whenever minor matters occupy the attention, the divine power which is necessary for the growth and prosperity of the church, and which would bring all other blessings in its train, is lacking, though offered in infinite plenitude.",
+    "puborder": 112,
+    "translations": [
+      {
+        "para_id": "13804.138",
+        "lang": "bg",
+        "refcode": "Дa 19.1"
+      },
+      {
+        "para_id": "11590.181",
+        "lang": "ce",
+        "refcode": "ABA 43.2"
+      },
+      {
+        "para_id": "11247.171",
+        "lang": "cs",
+        "refcode": "PNL 29.4"
+      },
+      {
+        "para_id": "813.189",
+        "lang": "de",
+        "refcode": "WA 51.2"
+      },
+      {
+        "para_id": "198.191",
+        "lang": "es",
+        "refcode": "HAp 41.1"
+      },
+      {
+        "para_id": "158.190",
+        "lang": "fr",
+        "refcode": "CP 45.2"
+      },
+      {
+        "para_id": "11938.165",
+        "lang": "hu",
+        "refcode": "AT 32.4"
+      },
+      {
+        "para_id": "12410.179",
+        "lang": "id",
+        "refcode": "KR 42.2"
+      },
+      {
+        "para_id": "882.164",
+        "lang": "it",
+        "refcode": "UVI 32.4"
+      },
+      {
+        "para_id": "11660.258",
+        "lang": "ja",
+        "refcode": "AAJ 46.1"
+      },
+      {
+        "para_id": "12335.158",
+        "lang": "nb",
+        "refcode": "AV 30.4"
+      },
+      {
+        "para_id": "12008.154",
+        "lang": "pl",
+        "refcode": "DA 29.4"
+      },
+      {
+        "para_id": "1806.177",
+        "lang": "pt",
+        "refcode": "AA 33"
+      },
+      {
+        "para_id": "2013.183",
+        "lang": "ro",
+        "refcode": "FA 50.1"
+      },
+      {
+        "para_id": "1785.169",
+        "lang": "ru",
+        "refcode": "ДА 50.1"
+      },
+      {
+        "para_id": "13874.160",
+        "lang": "rw",
+        "refcode": "INI 34.3"
+      },
+      {
+        "para_id": "11182.150",
+        "lang": "sk",
+        "refcode": "SA 33.4"
+      },
+      {
+        "para_id": "11904.175",
+        "lang": "tl",
+        "refcode": "AGA 39.1"
+      },
+      {
+        "para_id": "11875.156",
+        "lang": "uk",
+        "refcode": "ДА 32.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.193",
+    "id_prev": "127.192",
+    "id_next": "127.196",
+    "refcode_1": "AA",
+    "refcode_2": "50",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 50.2",
+    "refcode_long": "The Acts of the Apostles, p. 50.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Since this is the means by which we are to receive power, why do we not hunger and thirst for the gift of the Spirit? Why do we not talk of it, pray for it, and preach concerning it? The Lord is more willing to give the Holy Spirit to those who serve Him than parents are to give good gifts to their children. For the daily baptism of the Spirit every worker should offer his petition to God. Companies of Christian workers should gather to ask for special help, for heavenly wisdom, that they may know how to plan and execute wisely. Especially should they pray that God will baptize <span class=\"page-break\" data-page=\"51\"></span> His chosen ambassadors in mission fields with a rich measure of His Spirit. The presence of the Spirit with God&apos;s workers will give the proclamation of truth a power that not all the honor or glory of the world could give.",
+    "puborder": 113,
+    "translations": [
+      {
+        "para_id": "13804.139",
+        "lang": "bg",
+        "refcode": "Дa 19.2"
+      },
+      {
+        "para_id": "11590.182",
+        "lang": "ce",
+        "refcode": "ABA 43.3"
+      },
+      {
+        "para_id": "11247.172",
+        "lang": "cs",
+        "refcode": "PNL 29.5"
+      },
+      {
+        "para_id": "813.192",
+        "lang": "de",
+        "refcode": "WA 52.1"
+      },
+      {
+        "para_id": "198.192",
+        "lang": "es",
+        "refcode": "HAp 41.2"
+      },
+      {
+        "para_id": "158.192",
+        "lang": "fr",
+        "refcode": "CP 46.1"
+      },
+      {
+        "para_id": "11938.168",
+        "lang": "hu",
+        "refcode": "AT 33.1"
+      },
+      {
+        "para_id": "12410.180",
+        "lang": "id",
+        "refcode": "KR 42.3"
+      },
+      {
+        "para_id": "882.167",
+        "lang": "it",
+        "refcode": "UVI 33.1"
+      },
+      {
+        "para_id": "11660.259",
+        "lang": "ja",
+        "refcode": "AAJ 46.2"
+      },
+      {
+        "para_id": "12335.159",
+        "lang": "nb",
+        "refcode": "AV 30.5"
+      },
+      {
+        "para_id": "12008.155",
+        "lang": "pl",
+        "refcode": "DA 29.5"
+      },
+      {
+        "para_id": "1806.177",
+        "lang": "pt",
+        "refcode": "AA 33"
+      },
+      {
+        "para_id": "2013.184",
+        "lang": "ro",
+        "refcode": "FA 50.2"
+      },
+      {
+        "para_id": "1785.170",
+        "lang": "ru",
+        "refcode": "ДА 50.2"
+      },
+      {
+        "para_id": "13874.163",
+        "lang": "rw",
+        "refcode": "INI 35.1"
+      },
+      {
+        "para_id": "11182.151",
+        "lang": "sk",
+        "refcode": "SA 33.5"
+      },
+      {
+        "para_id": "11904.176",
+        "lang": "tl",
+        "refcode": "AGA 39.2"
+      },
+      {
+        "para_id": "11875.157",
+        "lang": "uk",
+        "refcode": "ДА 32.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.196",
+    "id_prev": "127.193",
+    "id_next": "127.197",
+    "refcode_1": "AA",
+    "refcode_2": "51",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 51.1",
+    "refcode_long": "The Acts of the Apostles, p. 51.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "With the consecrated worker for God, in whatever place he may be, the Holy Spirit abides. The words spoken to the disciples are spoken also to us. The Comforter is ours as well as theirs. The Spirit furnishes the strength that sustains striving, wrestling souls in every emergency, amidst the hatred of the world, and the realization of their own failures and mistakes. In sorrow and affliction, when the outlook seems dark and the future perplexing, and we feel helpless and alone,&mdash;these are the times when, in answer to the prayer of faith, the Holy Spirit brings comfort to the heart.",
+    "puborder": 114,
+    "translations": [
+      {
+        "para_id": "13804.140",
+        "lang": "bg",
+        "refcode": "Дa 19.3"
+      },
+      {
+        "para_id": "11590.185",
+        "lang": "ce",
+        "refcode": "ABA 44.1"
+      },
+      {
+        "para_id": "11247.175",
+        "lang": "cs",
+        "refcode": "PNL 30.1"
+      },
+      {
+        "para_id": "813.193",
+        "lang": "de",
+        "refcode": "WA 52.2"
+      },
+      {
+        "para_id": "198.195",
+        "lang": "es",
+        "refcode": "HAp 42.1"
+      },
+      {
+        "para_id": "158.193",
+        "lang": "fr",
+        "refcode": "CP 46.2"
+      },
+      {
+        "para_id": "11938.169",
+        "lang": "hu",
+        "refcode": "AT 33.2"
+      },
+      {
+        "para_id": "12410.183",
+        "lang": "id",
+        "refcode": "KR 43.1"
+      },
+      {
+        "para_id": "882.168",
+        "lang": "it",
+        "refcode": "UVI 33.2"
+      },
+      {
+        "para_id": "11660.262",
+        "lang": "ja",
+        "refcode": "AAJ 47.1"
+      },
+      {
+        "para_id": "12335.162",
+        "lang": "nb",
+        "refcode": "AV 31.1"
+      },
+      {
+        "para_id": "12008.158",
+        "lang": "pl",
+        "refcode": "DA 30.1"
+      },
+      {
+        "para_id": "1806.180",
+        "lang": "pt",
+        "refcode": "AA 33.3"
+      },
+      {
+        "para_id": "2013.187",
+        "lang": "ro",
+        "refcode": "FA 51.1"
+      },
+      {
+        "para_id": "1785.173",
+        "lang": "ru",
+        "refcode": "ДА 51.1"
+      },
+      {
+        "para_id": "13874.164",
+        "lang": "rw",
+        "refcode": "INI 35.2"
+      },
+      {
+        "para_id": "13874.165",
+        "lang": "rw",
+        "refcode": "INI 35.3"
+      },
+      {
+        "para_id": "11182.154",
+        "lang": "sk",
+        "refcode": "SA 34.1"
+      },
+      {
+        "para_id": "11904.179",
+        "lang": "tl",
+        "refcode": "AGA 40.1"
+      },
+      {
+        "para_id": "11875.158",
+        "lang": "uk",
+        "refcode": "ДА 32.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.197",
+    "id_prev": "127.196",
+    "id_next": "127.198",
+    "refcode_1": "AA",
+    "refcode_2": "51",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 51.2",
+    "refcode_long": "The Acts of the Apostles, p. 51.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is not a conclusive evidence that a man is a Christian because he manifests spiritual ecstasy under extraordinary circumstances. Holiness is not rapture: it is an entire surrender of the will to God; it is living by every word that proceeds from the mouth of God; it is doing the will of our heavenly Father; it is trusting God in trial, in darkness as well as in the light; it is walking by faith and not by sight; it is relying on God with unquestioning confidence, and resting in His love.",
+    "puborder": 115,
+    "translations": [
+      {
+        "para_id": "13804.140",
+        "lang": "bg",
+        "refcode": "Дa 19.3"
+      },
+      {
+        "para_id": "11590.186",
+        "lang": "ce",
+        "refcode": "ABA 44.2"
+      },
+      {
+        "para_id": "11247.176",
+        "lang": "cs",
+        "refcode": "PNL 30.2"
+      },
+      {
+        "para_id": "813.194",
+        "lang": "de",
+        "refcode": "WA 52.3"
+      },
+      {
+        "para_id": "198.196",
+        "lang": "es",
+        "refcode": "HAp 42.2"
+      },
+      {
+        "para_id": "158.194",
+        "lang": "fr",
+        "refcode": "CP 46.3"
+      },
+      {
+        "para_id": "11938.170",
+        "lang": "hu",
+        "refcode": "AT 33.3"
+      },
+      {
+        "para_id": "12410.184",
+        "lang": "id",
+        "refcode": "KR 43.2"
+      },
+      {
+        "para_id": "882.169",
+        "lang": "it",
+        "refcode": "UVI 33.3"
+      },
+      {
+        "para_id": "11660.263",
+        "lang": "ja",
+        "refcode": "AAJ 47.2"
+      },
+      {
+        "para_id": "12335.163",
+        "lang": "nb",
+        "refcode": "AV 31.2"
+      },
+      {
+        "para_id": "12008.159",
+        "lang": "pl",
+        "refcode": "DA 30.2"
+      },
+      {
+        "para_id": "1806.181",
+        "lang": "pt",
+        "refcode": "AA 33.4"
+      },
+      {
+        "para_id": "2013.188",
+        "lang": "ro",
+        "refcode": "FA 51.2"
+      },
+      {
+        "para_id": "1785.174",
+        "lang": "ru",
+        "refcode": "ДА 51.2"
+      },
+      {
+        "para_id": "13874.166",
+        "lang": "rw",
+        "refcode": "INI 35.4"
+      },
+      {
+        "para_id": "11182.155",
+        "lang": "sk",
+        "refcode": "SA 34.2"
+      },
+      {
+        "para_id": "11904.180",
+        "lang": "tl",
+        "refcode": "AGA 40.2"
+      },
+      {
+        "para_id": "11875.161",
+        "lang": "uk",
+        "refcode": "ДА 33.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.198",
+    "id_prev": "127.197",
+    "id_next": "127.200",
+    "refcode_1": "AA",
+    "refcode_2": "51",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 51.3",
+    "refcode_long": "The Acts of the Apostles, p. 51.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is not essential for us to be able to define just what the Holy Spirit is. Christ tells us that the Spirit is the Comforter, &ldquo;the Spirit of truth, which proceedeth from the Father.&rdquo; It is plainly declared regarding the Holy Spirit that, in His work of guiding men into all truth, &ldquo;He shall not speak of Himself.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"John 15:26\" data-link=\"1965.54508\">John 15:26</span>; <span class=\"egwlink egwlink_bible\" title=\"John 16:13\" data-link=\"1965.54537\">16:13</span>.",
+    "puborder": 116,
+    "translations": [
+      {
+        "para_id": "13804.141",
+        "lang": "bg",
+        "refcode": "Дa 19.4"
+      },
+      {
+        "para_id": "11590.187",
+        "lang": "ce",
+        "refcode": "ABA 44.3"
+      },
+      {
+        "para_id": "11247.178",
+        "lang": "cs",
+        "refcode": "PNL 30.3"
+      },
+      {
+        "para_id": "813.197",
+        "lang": "de",
+        "refcode": "WA 53.1"
+      },
+      {
+        "para_id": "198.197",
+        "lang": "es",
+        "refcode": "HAp 42.3"
+      },
+      {
+        "para_id": "158.195",
+        "lang": "fr",
+        "refcode": "CP 46.4"
+      },
+      {
+        "para_id": "11938.172",
+        "lang": "hu",
+        "refcode": "AT 34.1"
+      },
+      {
+        "para_id": "12410.185",
+        "lang": "id",
+        "refcode": "KR 43.3"
+      },
+      {
+        "para_id": "882.170",
+        "lang": "it",
+        "refcode": "UVI 33.4"
+      },
+      {
+        "para_id": "11660.264",
+        "lang": "ja",
+        "refcode": "AAJ 47.3"
+      },
+      {
+        "para_id": "12335.164",
+        "lang": "nb",
+        "refcode": "AV 31.3"
+      },
+      {
+        "para_id": "12008.160",
+        "lang": "pl",
+        "refcode": "DA 30.3"
+      },
+      {
+        "para_id": "1806.182",
+        "lang": "pt",
+        "refcode": "AA 33.5"
+      },
+      {
+        "para_id": "2013.189",
+        "lang": "ro",
+        "refcode": "FA 51.3"
+      },
+      {
+        "para_id": "1785.175",
+        "lang": "ru",
+        "refcode": "ДА 51.3"
+      },
+      {
+        "para_id": "13874.168",
+        "lang": "rw",
+        "refcode": "INI 36.1"
+      },
+      {
+        "para_id": "11182.155",
+        "lang": "sk",
+        "refcode": "SA 34.2"
+      },
+      {
+        "para_id": "11904.181",
+        "lang": "tl",
+        "refcode": "AGA 40.3"
+      },
+      {
+        "para_id": "11875.162",
+        "lang": "uk",
+        "refcode": "ДА 33.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.200",
+    "id_prev": "127.198",
+    "id_next": "127.201",
+    "refcode_1": "AA",
+    "refcode_2": "52",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 52.1",
+    "refcode_long": "The Acts of the Apostles, p. 52.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The nature of the Holy Spirit is a mystery. Men cannot explain it, because the Lord has not revealed it to them. Men having fanciful views may bring together passages of Scripture and put a human construction on them, but the acceptance of these views will not strengthen the church. Regarding such mysteries, which are too deep for human understanding, silence is golden.",
+    "puborder": 117,
+    "translations": [
+      {
+        "para_id": "13804.142",
+        "lang": "bg",
+        "refcode": "Дa 19.5"
+      },
+      {
+        "para_id": "11590.190",
+        "lang": "ce",
+        "refcode": "ABA 45.1"
+      },
+      {
+        "para_id": "11247.179",
+        "lang": "cs",
+        "refcode": "PNL 30.4"
+      },
+      {
+        "para_id": "813.198",
+        "lang": "de",
+        "refcode": "WA 53.2"
+      },
+      {
+        "para_id": "198.198",
+        "lang": "es",
+        "refcode": "HAp 42.4"
+      },
+      {
+        "para_id": "158.198",
+        "lang": "fr",
+        "refcode": "CP 47.1"
+      },
+      {
+        "para_id": "11938.173",
+        "lang": "hu",
+        "refcode": "AT 34.2"
+      },
+      {
+        "para_id": "12410.186",
+        "lang": "id",
+        "refcode": "KR 43.4"
+      },
+      {
+        "para_id": "882.171",
+        "lang": "it",
+        "refcode": "UVI 33.5"
+      },
+      {
+        "para_id": "11660.266",
+        "lang": "ja",
+        "refcode": "AAJ 48.1"
+      },
+      {
+        "para_id": "12335.165",
+        "lang": "nb",
+        "refcode": "AV 31.4"
+      },
+      {
+        "para_id": "12008.161",
+        "lang": "pl",
+        "refcode": "DA 30.4"
+      },
+      {
+        "para_id": "1806.183",
+        "lang": "pt",
+        "refcode": "AA 33.6"
+      },
+      {
+        "para_id": "2013.191",
+        "lang": "ro",
+        "refcode": "FA 52.1"
+      },
+      {
+        "para_id": "1785.177",
+        "lang": "ru",
+        "refcode": "ДА 52.1"
+      },
+      {
+        "para_id": "13874.169",
+        "lang": "rw",
+        "refcode": "INI 36.2"
+      },
+      {
+        "para_id": "11182.156",
+        "lang": "sk",
+        "refcode": "SA 34.3"
+      },
+      {
+        "para_id": "11904.182",
+        "lang": "tl",
+        "refcode": "AGA 40.4"
+      },
+      {
+        "para_id": "11875.163",
+        "lang": "uk",
+        "refcode": "ДА 33.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.201",
+    "id_prev": "127.200",
+    "id_next": "127.202",
+    "refcode_1": "AA",
+    "refcode_2": "52",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 52.2",
+    "refcode_long": "The Acts of the Apostles, p. 52.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The office of the Holy Spirit is distinctly specified in the words of Christ: &ldquo;When He is come, He will reprove the world of sin, and of righteousness, and of judgment.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"John 16:8\" data-link=\"1965.54527\">John 16:8</span>. It is the Holy Spirit that convicts of sin. If the sinner responds to the quickening influence of the Spirit, he will be brought to repentance and aroused to the importance of obeying the divine requirements.",
+    "puborder": 118,
+    "translations": [
+      {
+        "para_id": "13804.143",
+        "lang": "bg",
+        "refcode": "Дa 19.6"
+      },
+      {
+        "para_id": "11590.191",
+        "lang": "ce",
+        "refcode": "ABA 45.2"
+      },
+      {
+        "para_id": "11247.180",
+        "lang": "cs",
+        "refcode": "PNL 30.5"
+      },
+      {
+        "para_id": "813.199",
+        "lang": "de",
+        "refcode": "WA 53.3"
+      },
+      {
+        "para_id": "198.201",
+        "lang": "es",
+        "refcode": "HAp 43.1"
+      },
+      {
+        "para_id": "158.199",
+        "lang": "fr",
+        "refcode": "CP 47.2"
+      },
+      {
+        "para_id": "11938.174",
+        "lang": "hu",
+        "refcode": "AT 34.3"
+      },
+      {
+        "para_id": "12410.189",
+        "lang": "id",
+        "refcode": "KR 44.1"
+      },
+      {
+        "para_id": "882.174",
+        "lang": "it",
+        "refcode": "UVI 34.1"
+      },
+      {
+        "para_id": "11660.267",
+        "lang": "ja",
+        "refcode": "AAJ 48.2"
+      },
+      {
+        "para_id": "12335.166",
+        "lang": "nb",
+        "refcode": "AV 31.5"
+      },
+      {
+        "para_id": "12008.162",
+        "lang": "pl",
+        "refcode": "DA 30.5"
+      },
+      {
+        "para_id": "1806.184",
+        "lang": "pt",
+        "refcode": "AA 33.7"
+      },
+      {
+        "para_id": "2013.192",
+        "lang": "ro",
+        "refcode": "FA 52.2"
+      },
+      {
+        "para_id": "1785.178",
+        "lang": "ru",
+        "refcode": "ДА 52.2"
+      },
+      {
+        "para_id": "13874.170",
+        "lang": "rw",
+        "refcode": "INI 36.3"
+      },
+      {
+        "para_id": "11182.157",
+        "lang": "sk",
+        "refcode": "SA 34.4"
+      },
+      {
+        "para_id": "11904.183",
+        "lang": "tl",
+        "refcode": "AGA 40.5"
+      },
+      {
+        "para_id": "11875.165",
+        "lang": "uk",
+        "refcode": "ДА 33.5"
+      },
+      {
+        "para_id": "11875.164",
+        "lang": "uk",
+        "refcode": "ДА 33.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.202",
+    "id_prev": "127.201",
+    "id_next": "127.203",
+    "refcode_1": "AA",
+    "refcode_2": "52",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 52.3",
+    "refcode_long": "The Acts of the Apostles, p. 52.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To the repentant sinner, hungering and thirsting for righteousness, the Holy Spirit reveals the Lamb of God that taketh away the sin of the world. &ldquo;He shall receive of Mine, and shall show it unto you,&rdquo; Christ said. &ldquo;He shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"John 16:14\" data-link=\"1965.54539\">John 16:14</span>; <span class=\"egwlink egwlink_bible\" title=\"John 14:26\" data-link=\"1965.54445\">14:26</span>.",
+    "puborder": 119,
+    "translations": [
+      {
+        "para_id": "13804.145",
+        "lang": "bg",
+        "refcode": "Дa 20.1"
+      },
+      {
+        "para_id": "11590.192",
+        "lang": "ce",
+        "refcode": "ABA 45.3"
+      },
+      {
+        "para_id": "11247.181",
+        "lang": "cs",
+        "refcode": "PNL 30.6"
+      },
+      {
+        "para_id": "813.200",
+        "lang": "de",
+        "refcode": "WA 53.4"
+      },
+      {
+        "para_id": "198.202",
+        "lang": "es",
+        "refcode": "HAp 43.2"
+      },
+      {
+        "para_id": "158.199",
+        "lang": "fr",
+        "refcode": "CP 47.2"
+      },
+      {
+        "para_id": "11938.175",
+        "lang": "hu",
+        "refcode": "AT 34.4"
+      },
+      {
+        "para_id": "12410.190",
+        "lang": "id",
+        "refcode": "KR 44.2"
+      },
+      {
+        "para_id": "882.175",
+        "lang": "it",
+        "refcode": "UVI 34.2"
+      },
+      {
+        "para_id": "11660.268",
+        "lang": "ja",
+        "refcode": "AAJ 48.3"
+      },
+      {
+        "para_id": "12335.168",
+        "lang": "nb",
+        "refcode": "AV 32.1"
+      },
+      {
+        "para_id": "12008.163",
+        "lang": "pl",
+        "refcode": "DA 30.6"
+      },
+      {
+        "para_id": "1806.184",
+        "lang": "pt",
+        "refcode": "AA 33.7"
+      },
+      {
+        "para_id": "2013.193",
+        "lang": "ro",
+        "refcode": "FA 52.3"
+      },
+      {
+        "para_id": "1785.179",
+        "lang": "ru",
+        "refcode": "ДА 52.3"
+      },
+      {
+        "para_id": "13874.170",
+        "lang": "rw",
+        "refcode": "INI 36.3"
+      },
+      {
+        "para_id": "11182.159",
+        "lang": "sk",
+        "refcode": "SA 35.1"
+      },
+      {
+        "para_id": "11904.186",
+        "lang": "tl",
+        "refcode": "AGA 41.1"
+      },
+      {
+        "para_id": "11875.166",
+        "lang": "uk",
+        "refcode": "ДА 33.6"
+      }
+    ]
+  },
+  {
+    "para_id": "127.203",
+    "id_prev": "127.202",
+    "id_next": "127.204",
+    "refcode_1": "AA",
+    "refcode_2": "52",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 52.4",
+    "refcode_long": "The Acts of the Apostles, p. 52.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Spirit is given as a regenerating agency, to make effectual the salvation wrought by the death of our Redeemer. The Spirit is constantly seeking to draw the attention of men to the great offering that was made on the cross of Calvary, to unfold to the world the love of God, and to open to the convicted soul the precious things of the Scriptures.",
+    "puborder": 120,
+    "translations": [
+      {
+        "para_id": "13804.146",
+        "lang": "bg",
+        "refcode": "Дa 20.2"
+      },
+      {
+        "para_id": "11590.193",
+        "lang": "ce",
+        "refcode": "ABA 45.4"
+      },
+      {
+        "para_id": "11247.184",
+        "lang": "cs",
+        "refcode": "PNL 31.1"
+      },
+      {
+        "para_id": "813.203",
+        "lang": "de",
+        "refcode": "WA 54.1"
+      },
+      {
+        "para_id": "198.203",
+        "lang": "es",
+        "refcode": "HAp 43.3"
+      },
+      {
+        "para_id": "158.200",
+        "lang": "fr",
+        "refcode": "CP 47.3"
+      },
+      {
+        "para_id": "11938.176",
+        "lang": "hu",
+        "refcode": "AT 34.5"
+      },
+      {
+        "para_id": "12410.191",
+        "lang": "id",
+        "refcode": "KR 44.3"
+      },
+      {
+        "para_id": "882.176",
+        "lang": "it",
+        "refcode": "UVI 34.3"
+      },
+      {
+        "para_id": "11660.269",
+        "lang": "ja",
+        "refcode": "AAJ 48.4"
+      },
+      {
+        "para_id": "12335.169",
+        "lang": "nb",
+        "refcode": "AV 32.2"
+      },
+      {
+        "para_id": "12008.166",
+        "lang": "pl",
+        "refcode": "DA 31.1"
+      },
+      {
+        "para_id": "1806.188",
+        "lang": "pt",
+        "refcode": "AA 34.2"
+      },
+      {
+        "para_id": "2013.194",
+        "lang": "ro",
+        "refcode": "FA 52.4"
+      },
+      {
+        "para_id": "1785.180",
+        "lang": "ru",
+        "refcode": "ДА 52.4"
+      },
+      {
+        "para_id": "13874.171",
+        "lang": "rw",
+        "refcode": "INI 36.4"
+      },
+      {
+        "para_id": "11182.160",
+        "lang": "sk",
+        "refcode": "SA 35.2"
+      },
+      {
+        "para_id": "11904.187",
+        "lang": "tl",
+        "refcode": "AGA 41.2"
+      },
+      {
+        "para_id": "11875.168",
+        "lang": "uk",
+        "refcode": "ДА 34.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.204",
+    "id_prev": "127.203",
+    "id_next": "127.207",
+    "refcode_1": "AA",
+    "refcode_2": "52",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AA 52.5",
+    "refcode_long": "The Acts of the Apostles, p. 52.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Having brought conviction of sin, and presented before the mind the standard of righteousness, the Holy Spirit <span class=\"page-break\" data-page=\"53\"></span> withdraws the affections from the things of this earth and fills the soul with a desire for holiness. &ldquo;He will guide you into all truth&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"John 16:13\" data-link=\"1965.54537\">John 16:13</span>), the Saviour declared. If men are willing to be molded, there will be brought about a sanctification of the whole being. The Spirit will take the things of God and stamp them on the soul. By His power the way of life will be made so plain that none need err therein.",
+    "puborder": 121,
+    "translations": [
+      {
+        "para_id": "13804.147",
+        "lang": "bg",
+        "refcode": "Дa 20.3"
+      },
+      {
+        "para_id": "11590.194",
+        "lang": "ce",
+        "refcode": "ABA 45.5"
+      },
+      {
+        "para_id": "11247.185",
+        "lang": "cs",
+        "refcode": "PNL 31.2"
+      },
+      {
+        "para_id": "813.204",
+        "lang": "de",
+        "refcode": "WA 54.2"
+      },
+      {
+        "para_id": "198.204",
+        "lang": "es",
+        "refcode": "HAp 43.4"
+      },
+      {
+        "para_id": "158.201",
+        "lang": "fr",
+        "refcode": "CP 47.4"
+      },
+      {
+        "para_id": "11938.177",
+        "lang": "hu",
+        "refcode": "AT 34.6"
+      },
+      {
+        "para_id": "12410.192",
+        "lang": "id",
+        "refcode": "KR 44.4"
+      },
+      {
+        "para_id": "882.177",
+        "lang": "it",
+        "refcode": "UVI 34.4"
+      },
+      {
+        "para_id": "11660.270",
+        "lang": "ja",
+        "refcode": "AAJ 48.5"
+      },
+      {
+        "para_id": "12335.170",
+        "lang": "nb",
+        "refcode": "AV 32.3"
+      },
+      {
+        "para_id": "12008.167",
+        "lang": "pl",
+        "refcode": "DA 31.2"
+      },
+      {
+        "para_id": "1806.189",
+        "lang": "pt",
+        "refcode": "AA 34.3"
+      },
+      {
+        "para_id": "2013.195",
+        "lang": "ro",
+        "refcode": "FA 52.5"
+      },
+      {
+        "para_id": "1785.182",
+        "lang": "ru",
+        "refcode": "ДА 53.1"
+      },
+      {
+        "para_id": "13874.172",
+        "lang": "rw",
+        "refcode": "INI 36.5"
+      },
+      {
+        "para_id": "11182.161",
+        "lang": "sk",
+        "refcode": "SA 35.3"
+      },
+      {
+        "para_id": "11904.188",
+        "lang": "tl",
+        "refcode": "AGA 41.3"
+      },
+      {
+        "para_id": "11875.169",
+        "lang": "uk",
+        "refcode": "ДА 34.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.207",
+    "id_prev": "127.204",
+    "id_next": "127.208",
+    "refcode_1": "AA",
+    "refcode_2": "53",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 53.1",
+    "refcode_long": "The Acts of the Apostles, p. 53.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "From the beginning, God has been working by His Holy Spirit through human instrumentalities for the accomplishment of His purpose in behalf of the fallen race. This was manifest in the lives of the patriarchs. To the church in the wilderness also, in the time of Moses, God gave His &ldquo;good Spirit to instruct them.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Nehemiah 9:20\" data-link=\"1965.25503\">Nehemiah 9:20</span>. And in the days of the apostles He wrought mightily for His church through the agency of the Holy Spirit. The same power that sustained the patriarchs, that gave Caleb and Joshua faith and courage, and that made the work of the apostolic church effective, has upheld God&apos;s faithful children in every succeeding age. It was through the power of the Holy Spirit that during the Dark Ages the Waldensian Christians helped to prepare the way for the Reformation. It was the same power that made successful the efforts of the noble men and women who pioneered the way for the establishment of modern missions and for the translation of the Bible into the languages and dialects of all nations and peoples.",
+    "puborder": 122,
+    "translations": [
+      {
+        "para_id": "13804.148",
+        "lang": "bg",
+        "refcode": "Дa 20.4"
+      },
+      {
+        "para_id": "11590.197",
+        "lang": "ce",
+        "refcode": "ABA 46.1"
+      },
+      {
+        "para_id": "11247.186",
+        "lang": "cs",
+        "refcode": "PNL 31.3"
+      },
+      {
+        "para_id": "813.205",
+        "lang": "de",
+        "refcode": "WA 54.3"
+      },
+      {
+        "para_id": "198.205",
+        "lang": "es",
+        "refcode": "HAp 43.5"
+      },
+      {
+        "para_id": "158.204",
+        "lang": "fr",
+        "refcode": "CP 48.1"
+      },
+      {
+        "para_id": "11938.178",
+        "lang": "hu",
+        "refcode": "AT 34.7"
+      },
+      {
+        "para_id": "12410.193",
+        "lang": "id",
+        "refcode": "KR 44.5"
+      },
+      {
+        "para_id": "882.178",
+        "lang": "it",
+        "refcode": "UVI 34.5"
+      },
+      {
+        "para_id": "11660.274",
+        "lang": "ja",
+        "refcode": "AAJ 50.1"
+      },
+      {
+        "para_id": "12335.171",
+        "lang": "nb",
+        "refcode": "AV 32.4"
+      },
+      {
+        "para_id": "12008.168",
+        "lang": "pl",
+        "refcode": "DA 31.3"
+      },
+      {
+        "para_id": "1806.190",
+        "lang": "pt",
+        "refcode": "AA 34.4"
+      },
+      {
+        "para_id": "2013.198",
+        "lang": "ro",
+        "refcode": "FA 53.1"
+      },
+      {
+        "para_id": "1785.183",
+        "lang": "ru",
+        "refcode": "ДА 53.2"
+      },
+      {
+        "para_id": "13874.174",
+        "lang": "rw",
+        "refcode": "INI 37.1"
+      },
+      {
+        "para_id": "11182.162",
+        "lang": "sk",
+        "refcode": "SA 35.4"
+      },
+      {
+        "para_id": "11904.189",
+        "lang": "tl",
+        "refcode": "AGA 41.4"
+      },
+      {
+        "para_id": "11875.170",
+        "lang": "uk",
+        "refcode": "ДА 34.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.208",
+    "id_prev": "127.207",
+    "id_next": "127.211",
+    "refcode_1": "AA",
+    "refcode_2": "53",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 53.2",
+    "refcode_long": "The Acts of the Apostles, p. 53.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "And today God is still using His church to make known His purpose in the earth. Today the heralds of the cross are going from city to city, and from land to land, preparing <span class=\"page-break\" data-page=\"54\"></span> the way for the second advent of Christ. The standard of God&apos;s law is being exalted. The Spirit of the Almighty is moving upon men&apos;s hearts, and those who respond to its influence become witnesses for God and His truth. In many places consecrated men and women may be seen communicating to others the light that has made plain to them the way of salvation through Christ. And as they continue to let their light shine, as did those who were baptized with the Spirit on the Day of Pentecost, they receive more and still more of the Spirit&apos;s power. Thus the earth is to be lightened with the glory of God.",
+    "puborder": 123,
+    "translations": [
+      {
+        "para_id": "13804.149",
+        "lang": "bg",
+        "refcode": "Дa 20.5"
+      },
+      {
+        "para_id": "11590.198",
+        "lang": "ce",
+        "refcode": "ABA 46.2"
+      },
+      {
+        "para_id": "11247.187",
+        "lang": "cs",
+        "refcode": "PNL 31.4"
+      },
+      {
+        "para_id": "813.208",
+        "lang": "de",
+        "refcode": "WA 55.1"
+      },
+      {
+        "para_id": "198.208",
+        "lang": "es",
+        "refcode": "HAp 44.1"
+      },
+      {
+        "para_id": "158.205",
+        "lang": "fr",
+        "refcode": "CP 48.2"
+      },
+      {
+        "para_id": "11938.181",
+        "lang": "hu",
+        "refcode": "AT 35.1"
+      },
+      {
+        "para_id": "12410.196",
+        "lang": "id",
+        "refcode": "KR 45.1"
+      },
+      {
+        "para_id": "882.179",
+        "lang": "it",
+        "refcode": "UVI 34.6"
+      },
+      {
+        "para_id": "11660.275",
+        "lang": "ja",
+        "refcode": "AAJ 50.2"
+      },
+      {
+        "para_id": "12335.172",
+        "lang": "nb",
+        "refcode": "AV 32.5"
+      },
+      {
+        "para_id": "12008.169",
+        "lang": "pl",
+        "refcode": "DA 31.4"
+      },
+      {
+        "para_id": "1806.191",
+        "lang": "pt",
+        "refcode": "AA 34.5"
+      },
+      {
+        "para_id": "2013.199",
+        "lang": "ro",
+        "refcode": "FA 53.2"
+      },
+      {
+        "para_id": "1785.184",
+        "lang": "ru",
+        "refcode": "ДА 53.3"
+      },
+      {
+        "para_id": "13874.175",
+        "lang": "rw",
+        "refcode": "INI 37.2"
+      },
+      {
+        "para_id": "11182.163",
+        "lang": "sk",
+        "refcode": "SA 35.5"
+      },
+      {
+        "para_id": "11904.192",
+        "lang": "tl",
+        "refcode": "AGA 42.1"
+      },
+      {
+        "para_id": "11875.171",
+        "lang": "uk",
+        "refcode": "ДА 34.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.211",
+    "id_prev": "127.208",
+    "id_next": "127.212",
+    "refcode_1": "AA",
+    "refcode_2": "54",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 54.1",
+    "refcode_long": "The Acts of the Apostles, p. 54.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "On the other hand, there are some who, instead of wisely improving present opportunities, are idly waiting for some special season of spiritual refreshing by which their ability to enlighten others will be greatly increased. They neglect present duties and privileges, and allow their light to burn dim, while they look forward to a time when, without any effort on their part, they will be made the recipients of special blessing, by which they will be transformed and fitted for service.",
+    "puborder": 124,
+    "translations": [
+      {
+        "para_id": "13804.150",
+        "lang": "bg",
+        "refcode": "Дa 20.6"
+      },
+      {
+        "para_id": "11590.201",
+        "lang": "ce",
+        "refcode": "ABA 47.1"
+      },
+      {
+        "para_id": "11247.189",
+        "lang": "cs",
+        "refcode": "PNL 31.5"
+      },
+      {
+        "para_id": "813.209",
+        "lang": "de",
+        "refcode": "WA 55.2"
+      },
+      {
+        "para_id": "198.209",
+        "lang": "es",
+        "refcode": "HAp 44.2"
+      },
+      {
+        "para_id": "158.206",
+        "lang": "fr",
+        "refcode": "CP 48.3"
+      },
+      {
+        "para_id": "11938.182",
+        "lang": "hu",
+        "refcode": "AT 35.2"
+      },
+      {
+        "para_id": "12410.197",
+        "lang": "id",
+        "refcode": "KR 45.2"
+      },
+      {
+        "para_id": "882.182",
+        "lang": "it",
+        "refcode": "UVI 35.1"
+      },
+      {
+        "para_id": "11660.278",
+        "lang": "ja",
+        "refcode": "AAJ 51.1"
+      },
+      {
+        "para_id": "12335.174",
+        "lang": "nb",
+        "refcode": "AV 33.1"
+      },
+      {
+        "para_id": "12008.170",
+        "lang": "pl",
+        "refcode": "DA 31.5"
+      },
+      {
+        "para_id": "1806.192",
+        "lang": "pt",
+        "refcode": "AA 34.6"
+      },
+      {
+        "para_id": "2013.202",
+        "lang": "ro",
+        "refcode": "FA 54.1"
+      },
+      {
+        "para_id": "1785.187",
+        "lang": "ru",
+        "refcode": "ДА 54.1"
+      },
+      {
+        "para_id": "13874.176",
+        "lang": "rw",
+        "refcode": "INI 37.3"
+      },
+      {
+        "para_id": "11182.166",
+        "lang": "sk",
+        "refcode": "SA 36.1"
+      },
+      {
+        "para_id": "11904.193",
+        "lang": "tl",
+        "refcode": "AGA 42.2"
+      },
+      {
+        "para_id": "11875.174",
+        "lang": "uk",
+        "refcode": "ДА 35.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.212",
+    "id_prev": "127.211",
+    "id_next": "127.215",
+    "refcode_1": "AA",
+    "refcode_2": "54",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 54.2",
+    "refcode_long": "The Acts of the Apostles, p. 54.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is true that in the time of the end, when God&apos;s work in the earth is closing, the earnest efforts put forth by consecrated believers under the guidance of the Holy Spirit are to be accompanied by special tokens of divine favor. Under the figure of the early and the latter rain, that falls in Eastern lands at seedtime and harvest, the Hebrew prophets foretold the bestowal of spiritual grace in extraordinary measure upon God&apos;s church. The outpouring of the Spirit in the days of the apostles was the beginning of the early, or <span class=\"page-break\" data-page=\"55\"></span> former, rain, and glorious was the result. To the end of time the presence of the Spirit is to abide with the true church.",
+    "puborder": 125,
+    "translations": [
+      {
+        "para_id": "13804.151",
+        "lang": "bg",
+        "refcode": "Дa 20.7"
+      },
+      {
+        "para_id": "11590.202",
+        "lang": "ce",
+        "refcode": "ABA 47.2"
+      },
+      {
+        "para_id": "11247.190",
+        "lang": "cs",
+        "refcode": "PNL 31.6"
+      },
+      {
+        "para_id": "813.210",
+        "lang": "de",
+        "refcode": "WA 55.3"
+      },
+      {
+        "para_id": "198.210",
+        "lang": "es",
+        "refcode": "HAp 44.3"
+      },
+      {
+        "para_id": "158.206",
+        "lang": "fr",
+        "refcode": "CP 48.3"
+      },
+      {
+        "para_id": "11938.183",
+        "lang": "hu",
+        "refcode": "AT 35.3"
+      },
+      {
+        "para_id": "12410.198",
+        "lang": "id",
+        "refcode": "KR 45.3"
+      },
+      {
+        "para_id": "882.183",
+        "lang": "it",
+        "refcode": "UVI 35.2"
+      },
+      {
+        "para_id": "11660.279",
+        "lang": "ja",
+        "refcode": "AAJ 51.2"
+      },
+      {
+        "para_id": "12335.175",
+        "lang": "nb",
+        "refcode": "AV 33.2"
+      },
+      {
+        "para_id": "12008.173",
+        "lang": "pl",
+        "refcode": "DA 32.1"
+      },
+      {
+        "para_id": "1806.194",
+        "lang": "pt",
+        "refcode": "AA 34.8"
+      },
+      {
+        "para_id": "2013.203",
+        "lang": "ro",
+        "refcode": "FA 54.2"
+      },
+      {
+        "para_id": "1785.188",
+        "lang": "ru",
+        "refcode": "ДА 54.2"
+      },
+      {
+        "para_id": "13874.178",
+        "lang": "rw",
+        "refcode": "INI 38.1"
+      },
+      {
+        "para_id": "11182.167",
+        "lang": "sk",
+        "refcode": "SA 36.2"
+      },
+      {
+        "para_id": "11904.194",
+        "lang": "tl",
+        "refcode": "AGA 42.3"
+      },
+      {
+        "para_id": "11875.175",
+        "lang": "uk",
+        "refcode": "ДА 35.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.215",
+    "id_prev": "127.212",
+    "id_next": "127.216",
+    "refcode_1": "AA",
+    "refcode_2": "55",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 55.1",
+    "refcode_long": "The Acts of the Apostles, p. 55.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But near the close of earth&apos;s harvest, a special bestowal of spiritual grace is promised to prepare the church for the coming of the Son of man. This outpouring of the Spirit is likened to the falling of the latter rain; and it is for this added power that Christians are to send their petitions to the Lord of the harvest &ldquo;in the time of the latter rain.&rdquo; In response, &ldquo;the Lord shall make bright clouds, and give them showers of rain.&rdquo; &ldquo;He will cause to come down ... the rain, the former rain, and the latter rain,&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Zechariah 10:1\" data-link=\"1965.46996\">Zechariah 10:1</span>; <span class=\"egwlink egwlink_bible\" title=\"Joel 2:23\" data-link=\"1965.45578\">Joel 2:23</span>.",
+    "puborder": 126,
+    "translations": [
+      {
+        "para_id": "13804.154",
+        "lang": "bg",
+        "refcode": "Дa 21.1"
+      },
+      {
+        "para_id": "11590.203",
+        "lang": "ce",
+        "refcode": "ABA 47.3"
+      },
+      {
+        "para_id": "11247.193",
+        "lang": "cs",
+        "refcode": "PNL 32.1"
+      },
+      {
+        "para_id": "813.213",
+        "lang": "de",
+        "refcode": "WA 56.1"
+      },
+      {
+        "para_id": "198.213",
+        "lang": "es",
+        "refcode": "HAp 45.1"
+      },
+      {
+        "para_id": "158.209",
+        "lang": "fr",
+        "refcode": "CP 49.1"
+      },
+      {
+        "para_id": "11938.185",
+        "lang": "hu",
+        "refcode": "AT 36.1"
+      },
+      {
+        "para_id": "12410.201",
+        "lang": "id",
+        "refcode": "KR 46.1"
+      },
+      {
+        "para_id": "882.184",
+        "lang": "it",
+        "refcode": "UVI 35.3"
+      },
+      {
+        "para_id": "11660.280",
+        "lang": "ja",
+        "refcode": "AAJ 51.3"
+      },
+      {
+        "para_id": "12335.176",
+        "lang": "nb",
+        "refcode": "AV 33.3"
+      },
+      {
+        "para_id": "12008.174",
+        "lang": "pl",
+        "refcode": "DA 32.2"
+      },
+      {
+        "para_id": "1806.194",
+        "lang": "pt",
+        "refcode": "AA 34.8"
+      },
+      {
+        "para_id": "2013.206",
+        "lang": "ro",
+        "refcode": "FA 55.1"
+      },
+      {
+        "para_id": "1785.191",
+        "lang": "ru",
+        "refcode": "ДА 55.1"
+      },
+      {
+        "para_id": "13874.179",
+        "lang": "rw",
+        "refcode": "INI 38.2"
+      },
+      {
+        "para_id": "11182.168",
+        "lang": "sk",
+        "refcode": "SA 36.3"
+      },
+      {
+        "para_id": "11904.195",
+        "lang": "tl",
+        "refcode": "AGA 42.4"
+      },
+      {
+        "para_id": "11875.176",
+        "lang": "uk",
+        "refcode": "ДА 35.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.216",
+    "id_prev": "127.215",
+    "id_next": "127.217",
+    "refcode_1": "AA",
+    "refcode_2": "55",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 55.2",
+    "refcode_long": "The Acts of the Apostles, p. 55.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But unless the members of God&apos;s church today have a living connection with the Source of all spiritual growth, they will not be ready for the time of reaping. Unless they keep their lamps trimmed and burning, they will fail of receiving added grace in times of special need.",
+    "puborder": 127,
+    "translations": [
+      {
+        "para_id": "13804.155",
+        "lang": "bg",
+        "refcode": "Дa 21.2"
+      },
+      {
+        "para_id": "11590.204",
+        "lang": "ce",
+        "refcode": "ABA 47.4"
+      },
+      {
+        "para_id": "11247.194",
+        "lang": "cs",
+        "refcode": "PNL 32.2"
+      },
+      {
+        "para_id": "813.214",
+        "lang": "de",
+        "refcode": "WA 56.2"
+      },
+      {
+        "para_id": "198.214",
+        "lang": "es",
+        "refcode": "HAp 45.2"
+      },
+      {
+        "para_id": "158.209",
+        "lang": "fr",
+        "refcode": "CP 49.1"
+      },
+      {
+        "para_id": "11938.186",
+        "lang": "hu",
+        "refcode": "AT 36.2"
+      },
+      {
+        "para_id": "12410.202",
+        "lang": "id",
+        "refcode": "KR 46.2"
+      },
+      {
+        "para_id": "882.185",
+        "lang": "it",
+        "refcode": "UVI 35.4"
+      },
+      {
+        "para_id": "11660.283",
+        "lang": "ja",
+        "refcode": "AAJ 52.1"
+      },
+      {
+        "para_id": "12335.177",
+        "lang": "nb",
+        "refcode": "AV 33.4"
+      },
+      {
+        "para_id": "12008.175",
+        "lang": "pl",
+        "refcode": "DA 32.3"
+      },
+      {
+        "para_id": "1806.197",
+        "lang": "pt",
+        "refcode": "AA 35.1"
+      },
+      {
+        "para_id": "2013.207",
+        "lang": "ro",
+        "refcode": "FA 55.2"
+      },
+      {
+        "para_id": "1785.192",
+        "lang": "ru",
+        "refcode": "ДА 55.2"
+      },
+      {
+        "para_id": "13874.180",
+        "lang": "rw",
+        "refcode": "INI 38.3"
+      },
+      {
+        "para_id": "11182.169",
+        "lang": "sk",
+        "refcode": "SA 36.4"
+      },
+      {
+        "para_id": "11904.198",
+        "lang": "tl",
+        "refcode": "AGA 43.1"
+      },
+      {
+        "para_id": "11875.177",
+        "lang": "uk",
+        "refcode": "ДА 35.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.217",
+    "id_prev": "127.216",
+    "id_next": "127.219",
+    "refcode_1": "AA",
+    "refcode_2": "55",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 55.3",
+    "refcode_long": "The Acts of the Apostles, p. 55.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those only who are constantly receiving fresh supplies of grace, will have power proportionate to their daily need and their ability to use that power. Instead of looking forward to some future time when, through a special endowment of spiritual power, they will receive a miraculous fitting up for soul winning, they are yielding themselves daily to God, that He may make them vessels meet for His use. Daily they are improving the opportunities for service that lie within their reach. Daily they are witnessing for the Master wherever they may be, whether in some humble sphere of labor in the home, or in a public field of usefulness.",
+    "puborder": 128,
+    "translations": [
+      {
+        "para_id": "13804.156",
+        "lang": "bg",
+        "refcode": "Дa 21.3"
+      },
+      {
+        "para_id": "11590.207",
+        "lang": "ce",
+        "refcode": "ABA 48.1"
+      },
+      {
+        "para_id": "11247.195",
+        "lang": "cs",
+        "refcode": "PNL 32.3"
+      },
+      {
+        "para_id": "813.215",
+        "lang": "de",
+        "refcode": "WA 56.3"
+      },
+      {
+        "para_id": "198.215",
+        "lang": "es",
+        "refcode": "HAp 45.3"
+      },
+      {
+        "para_id": "158.210",
+        "lang": "fr",
+        "refcode": "CP 49.2"
+      },
+      {
+        "para_id": "11938.187",
+        "lang": "hu",
+        "refcode": "AT 36.3"
+      },
+      {
+        "para_id": "12410.203",
+        "lang": "id",
+        "refcode": "KR 46.3"
+      },
+      {
+        "para_id": "882.186",
+        "lang": "it",
+        "refcode": "UVI 35.5"
+      },
+      {
+        "para_id": "11660.284",
+        "lang": "ja",
+        "refcode": "AAJ 52.2"
+      },
+      {
+        "para_id": "12335.178",
+        "lang": "nb",
+        "refcode": "AV 33.5"
+      },
+      {
+        "para_id": "12008.176",
+        "lang": "pl",
+        "refcode": "DA 32.4"
+      },
+      {
+        "para_id": "1806.198",
+        "lang": "pt",
+        "refcode": "AA 35.2"
+      },
+      {
+        "para_id": "2013.208",
+        "lang": "ro",
+        "refcode": "FA 55.3"
+      },
+      {
+        "para_id": "1785.193",
+        "lang": "ru",
+        "refcode": "ДА 55.3"
+      },
+      {
+        "para_id": "13874.181",
+        "lang": "rw",
+        "refcode": "INI 38.4"
+      },
+      {
+        "para_id": "11182.170",
+        "lang": "sk",
+        "refcode": "SA 36.5"
+      },
+      {
+        "para_id": "11904.199",
+        "lang": "tl",
+        "refcode": "AGA 43.2"
+      },
+      {
+        "para_id": "11875.178",
+        "lang": "uk",
+        "refcode": "ДА 35.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.219",
+    "id_prev": "127.217",
+    "id_next": "127.220",
+    "refcode_1": "AA",
+    "refcode_2": "56",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 56.1",
+    "refcode_long": "The Acts of the Apostles, p. 56.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To the consecrated worker there is wonderful consolation in the knowledge that even Christ during His life on earth sought His Father daily for fresh supplies of needed grace; and from this communion with God He went forth to strengthen and bless others. Behold the Son of God bowed in prayer to His Father! Though He is the Son of God, He strengthens His faith by prayer, and by communion with heaven gathers to Himself power to resist evil and to minister to the needs of men. As the Elder Brother of our race He knows the necessities of those who, compassed with infirmity and living in a world of sin and temptation, still desire to serve Him. He knows that the messengers whom He sees fit to send are weak, erring men; but to all who give themselves wholly to His service He promises divine aid. His own example is an assurance that earnest, persevering supplication to God in faith&mdash;faith that leads to entire dependence upon God, and unreserved consecration to His work&mdash;will avail to bring to men the Holy Spirit&apos;s aid in the battle against sin.",
+    "puborder": 129,
+    "translations": [
+      {
+        "para_id": "13804.157",
+        "lang": "bg",
+        "refcode": "Дa 21.4"
+      },
+      {
+        "para_id": "11590.208",
+        "lang": "ce",
+        "refcode": "ABA 48.2"
+      },
+      {
+        "para_id": "11247.196",
+        "lang": "cs",
+        "refcode": "PNL 32.4"
+      },
+      {
+        "para_id": "813.218",
+        "lang": "de",
+        "refcode": "WA 57.1"
+      },
+      {
+        "para_id": "198.216",
+        "lang": "es",
+        "refcode": "HAp 45.4"
+      },
+      {
+        "para_id": "158.213",
+        "lang": "fr",
+        "refcode": "CP 50.1"
+      },
+      {
+        "para_id": "11938.188",
+        "lang": "hu",
+        "refcode": "AT 36.4"
+      },
+      {
+        "para_id": "12410.205",
+        "lang": "id",
+        "refcode": "KR 47.1"
+      },
+      {
+        "para_id": "882.189",
+        "lang": "it",
+        "refcode": "UVI 36.1"
+      },
+      {
+        "para_id": "11660.285",
+        "lang": "ja",
+        "refcode": "AAJ 52.3"
+      },
+      {
+        "para_id": "12335.179",
+        "lang": "nb",
+        "refcode": "AV 33.6"
+      },
+      {
+        "para_id": "12008.177",
+        "lang": "pl",
+        "refcode": "DA 32.5"
+      },
+      {
+        "para_id": "1806.199",
+        "lang": "pt",
+        "refcode": "AA 35.3"
+      },
+      {
+        "para_id": "1806.200",
+        "lang": "pt",
+        "refcode": "AA 35.4"
+      },
+      {
+        "para_id": "2013.210",
+        "lang": "ro",
+        "refcode": "FA 56.1"
+      },
+      {
+        "para_id": "1785.195",
+        "lang": "ru",
+        "refcode": "ДА 56.1"
+      },
+      {
+        "para_id": "13874.182",
+        "lang": "rw",
+        "refcode": "INI 38.5"
+      },
+      {
+        "para_id": "11182.173",
+        "lang": "sk",
+        "refcode": "SA 37.1"
+      },
+      {
+        "para_id": "11904.200",
+        "lang": "tl",
+        "refcode": "AGA 43.3"
+      },
+      {
+        "para_id": "11875.181",
+        "lang": "uk",
+        "refcode": "ДА 36.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.220",
+    "id_prev": "127.219",
+    "id_next": "127.222",
+    "refcode_1": "AA",
+    "refcode_2": "56",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 56.2",
+    "refcode_long": "The Acts of the Apostles, p. 56.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Every worker who follows the example of Christ will be prepared to receive and use the power that God has promised to His church for the ripening of earth&apos;s harvest. Morning by morning, as the heralds of the gospel kneel before the Lord and renew their vows of consecration to Him, He will grant them the presence of His Spirit, with its reviving, sanctifying power. As they go forth to the day&apos;s duties, they have the assurance that the unseen agency of the Holy Spirit enables them to be &ldquo;laborers together with God.&rdquo;",
+    "puborder": 130,
+    "translations": [
+      {
+        "para_id": "13804.158",
+        "lang": "bg",
+        "refcode": "Дa 21.5"
+      },
+      {
+        "para_id": "11590.211",
+        "lang": "ce",
+        "refcode": "ABA 49.1"
+      },
+      {
+        "para_id": "11247.197",
+        "lang": "cs",
+        "refcode": "PNL 32.5"
+      },
+      {
+        "para_id": "813.219",
+        "lang": "de",
+        "refcode": "WA 57.2"
+      },
+      {
+        "para_id": "198.219",
+        "lang": "es",
+        "refcode": "HAp 46.1"
+      },
+      {
+        "para_id": "158.215",
+        "lang": "fr",
+        "refcode": "CP 50.3"
+      },
+      {
+        "para_id": "158.214",
+        "lang": "fr",
+        "refcode": "CP 50.2"
+      },
+      {
+        "para_id": "11938.190",
+        "lang": "hu",
+        "refcode": "AT 37.1"
+      },
+      {
+        "para_id": "12410.206",
+        "lang": "id",
+        "refcode": "KR 47.2"
+      },
+      {
+        "para_id": "882.190",
+        "lang": "it",
+        "refcode": "UVI 36.2"
+      },
+      {
+        "para_id": "11660.288",
+        "lang": "ja",
+        "refcode": "AAJ 53.1"
+      },
+      {
+        "para_id": "12335.182",
+        "lang": "nb",
+        "refcode": "AV 34.1"
+      },
+      {
+        "para_id": "12008.180",
+        "lang": "pl",
+        "refcode": "DA 33.1"
+      },
+      {
+        "para_id": "1806.201",
+        "lang": "pt",
+        "refcode": "AA 35.5"
+      },
+      {
+        "para_id": "2013.211",
+        "lang": "ro",
+        "refcode": "FA 56.2"
+      },
+      {
+        "para_id": "1785.196",
+        "lang": "ru",
+        "refcode": "ДА 56.2"
+      },
+      {
+        "para_id": "13874.185",
+        "lang": "rw",
+        "refcode": "INI 39.1"
+      },
+      {
+        "para_id": "11182.174",
+        "lang": "sk",
+        "refcode": "SA 37.2"
+      },
+      {
+        "para_id": "11904.203",
+        "lang": "tl",
+        "refcode": "AGA 44.1"
+      },
+      {
+        "para_id": "11875.182",
+        "lang": "uk",
+        "refcode": "ДА 36.2"
+      }
+    ]
+  }
+]

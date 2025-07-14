@@ -1,0 +1,156 @@
+[
+  {
+    "para_id": "6.2",
+    "id_prev": null,
+    "id_next": "6.5",
+    "refcode_1": "ApM",
+    "refcode_2": "i",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "ApM i",
+    "refcode_long": "An Appeal to Mothers, p. i (Ellen Gould White)",
+    "element_type": "h1",
+    "element_subtype": "",
+    "content": "An Appeal to Mothers",
+    "puborder": 1,
+    "translations": [
+      {
+        "para_id": "1846.3",
+        "lang": "ru",
+        "refcode": "ОМ ii"
+      }
+    ]
+  },
+  {
+    "para_id": "6.5",
+    "id_prev": "6.2",
+    "id_next": "6.6",
+    "refcode_1": "ApM",
+    "refcode_2": "iii",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "ApM iii",
+    "refcode_long": "An Appeal to Mothers, p. iii (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Introductory Remarks",
+    "puborder": 3,
+    "translations": [
+      {
+        "para_id": "1846.5",
+        "lang": "ru",
+        "refcode": "ОМ iii"
+      }
+    ]
+  },
+  {
+    "para_id": "6.6",
+    "id_prev": "6.5",
+    "id_next": "6.7",
+    "refcode_1": "ApM",
+    "refcode_2": "iii",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "ApM iii.1",
+    "refcode_long": "An Appeal to Mothers, p. iii.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-preface\">The matter contained in the following pages having been left at our disposal, we feel impelled by a strong sense of Christian duty and love of humanity, to bring it before the public in its present form. We believe that too much importance cannot be attached to this subject, and that no false delicacy should prevent thorough inquiry and investigation upon a question in which the present and future welfare of multitudes is involved. As a people, who profess to be looking for the coming of the Lord, and preparing for translation into his holy presence, perhaps we have too long kept silent on this great source of physical, mental and moral pollution, and a high duty and responsibility remains to be discharged in this matter.</span>",
+    "puborder": 4,
+    "translations": [
+      {
+        "para_id": "1846.6",
+        "lang": "ru",
+        "refcode": "ОМ iii.1"
+      }
+    ]
+  },
+  {
+    "para_id": "6.7",
+    "id_prev": "6.6",
+    "id_next": "6.10",
+    "refcode_1": "ApM",
+    "refcode_2": "iii",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "ApM iii.2",
+    "refcode_long": "An Appeal to Mothers, p. iii.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-preface\">We would therefore earnestly appeal to parents and guardians to give this work a thorough and judicious circulation. The flood-gates of corruption are being opened upon the world; and in no way, perhaps, is Satan more speedily accomplishing the <em>utter</em> ruin of a fallen and fast degenerating race than through the channel of unchastity and licentiousness. In the following pages the evil is fully pointed out: and to many, we doubt not, they will also appear as a friendly hand pointing out the remedy and the way of escape. Again we say, therefore, let the work be faithfully circulated. It would perhaps be well for every</span> <span class=\"page-break\" data-page=\"iv\"></span> <span class=\"non-egw-preface\">member of the family to possess a copy for his and her own personal possession. And remember that it will not be enough to merely place this work in the hands of the young. Cease not till you have good evidence that the moral sense of the individuals is so aroused, that they will study and faithfully heed the instruction herein contained.</span>",
+    "puborder": 5,
+    "translations": [
+      {
+        "para_id": "1846.7",
+        "lang": "ru",
+        "refcode": "ОМ iii.2"
+      }
+    ]
+  },
+  {
+    "para_id": "6.10",
+    "id_prev": "6.7",
+    "id_next": "6.11",
+    "refcode_1": "ApM",
+    "refcode_2": "iv",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "ApM iv.1",
+    "refcode_long": "An Appeal to Mothers, p. iv.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-preface\">And to the young we would say, as you value health, happiness and life, a sound mind, an approving conscience, and a high moral sensibility, pass not over this subject lightly, nor forget the warning herein given you. To you there may seem to be no danger, but the danger is all the greater because so insidious; and being instructed yourselves, you may be able to raise the warning voice to others who are ignorantly sacrificing themselves upon the altar of this moloch of passion.</span>",
+    "puborder": 6,
+    "translations": [
+      {
+        "para_id": "1846.10",
+        "lang": "ru",
+        "refcode": "ОМ iv.1"
+      }
+    ]
+  },
+  {
+    "para_id": "6.11",
+    "id_prev": "6.10",
+    "id_next": "6.12",
+    "refcode_1": "ApM",
+    "refcode_2": "iv",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "ApM iv.2",
+    "refcode_long": "An Appeal to Mothers, p. iv.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-preface\">But if considerations which connect themselves with this present life are not sufficient to move you, look beyond this state of being, cast your eye over into eternity, ponder its effects upon your eternal destiny, and as you value eternal life, shun a vice which will forever debar you from the presence of him who has said, &ldquo;Be ye holy for I am holy.&rdquo;</span>",
+    "puborder": 7,
+    "translations": [
+      {
+        "para_id": "1846.11",
+        "lang": "ru",
+        "refcode": "ОМ iv.2"
+      }
+    ]
+  },
+  {
+    "para_id": "6.12",
+    "id_prev": "6.11",
+    "id_next": "6.14",
+    "refcode_1": "ApM",
+    "refcode_2": "iv",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "signatureline",
+    "content": "<span class=\"non-egw-preface\">Trustees <em>of the S.D.A. Publishing Association</em>.</span>",
+    "puborder": 8,
+    "translations": [
+      {
+        "para_id": "1846.12",
+        "lang": "ru",
+        "refcode": "An Appeal to Mothers"
+      }
+    ]
+  }
+]

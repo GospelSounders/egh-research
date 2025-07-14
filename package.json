@@ -1,7 +1,7 @@
 {
-  "name": "egw-writings-monorepo",
+  "name": "egh-research",
   "version": "1.0.0",
-  "description": "EGW Writings MCP Server Monorepo - API server, data downloader, and local database server",
+  "description": "EGH Research - MCP Server and API for offline access to Ellen Gould Harmon's writings with PDF generation",
   "private": true,
   "type": "module",
   "scripts": {
@@ -20,10 +20,10 @@
   "keywords": [
     "mcp",
     "model-context-protocol", 
-    "ellen-white",
-    "adventist",
+    "egh",
+    "ellen-gould-harmon",
     "research",
-    "writings",
+    "research",
     "monorepo"
   ],
   "author": "surgbc",

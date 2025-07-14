@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.620",
+    "id_prev": "21.617",
+    "id_next": "21.621",
+    "refcode_1": "CSW",
+    "refcode_2": "134",
+    "refcode_3": "",
+    "refcode_4": "97",
+    "refcode_short": "CSW 134",
+    "refcode_long": "Counsels on Sabbath School Work, p. 134 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Shall We Do Our Best?",
+    "puborder": 388,
+    "translations": [
+      {
+        "para_id": "11629.594",
+        "lang": "da",
+        "refcode": "RSSA 134"
+      },
+      {
+        "para_id": "799.587",
+        "lang": "de",
+        "refcode": "RSs 111"
+      },
+      {
+        "para_id": "1711.665",
+        "lang": "es",
+        "refcode": "COES 150"
+      },
+      {
+        "para_id": "1724.658",
+        "lang": "pt",
+        "refcode": "CES 134"
+      },
+      {
+        "para_id": "1917.729",
+        "lang": "pt",
+        "refcode": "CES38 70"
+      },
+      {
+        "para_id": "2719.637",
+        "lang": "ro",
+        "refcode": "SSS 134"
+      },
+      {
+        "para_id": "1873.615",
+        "lang": "ru",
+        "refcode": "ССШ 134"
+      }
+    ]
+  },
+  {
+    "para_id": "21.621",
+    "id_prev": "21.620",
+    "id_next": "21.622",
+    "refcode_1": "CSW",
+    "refcode_2": "134",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 134.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 134.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "My soul is stirred within me as the Macedonian cry comes from every direction, from the cities and villages of our own land, from across the Atlantic and the broad Pacific, and from the islands of the sea, &ldquo;Come over and help us.&rdquo; Brethren and sisters, will you answer the cry? saying: &ldquo;We will do our best, both in sending you missionaries and money. We will deny ourselves in the embellishment of our houses, in the adornment of our persons, and in the gratification of appetite. We will give the means entrusted to us into the cause of God, and we will devote ourselves also unreservedly to His work.&rdquo; The wants of the cause are laid before us; the empty treasuries appeal to us most pathetically for help. One dollar now is of more value to the work than ten dollars will be at some future period.",
+    "puborder": 389,
+    "translations": [
+      {
+        "para_id": "11629.595",
+        "lang": "da",
+        "refcode": "RSSA 134.1"
+      },
+      {
+        "para_id": "799.588",
+        "lang": "de",
+        "refcode": "RSs 111.3"
+      },
+      {
+        "para_id": "1711.666",
+        "lang": "es",
+        "refcode": "COES 150.3"
+      },
+      {
+        "para_id": "1917.730",
+        "lang": "pt",
+        "refcode": "CES38 70.1"
+      },
+      {
+        "para_id": "1724.659",
+        "lang": "pt",
+        "refcode": "CES 134.1"
+      },
+      {
+        "para_id": "2719.638",
+        "lang": "ro",
+        "refcode": "SSS 134.1"
+      },
+      {
+        "para_id": "1873.616",
+        "lang": "ru",
+        "refcode": "ССШ 134.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.622",
+    "id_prev": "21.621",
+    "id_next": "21.624",
+    "refcode_1": "CSW",
+    "refcode_2": "134",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 134.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 134.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Work, brethren, work while you have the opportunity, while the day lasts. Work, for &ldquo;the night cometh, when no man can work.&rdquo; How soon that night may come, it is impossible for you to tell. Now is your opportunity; improve it. If there are some who cannot give personal effort in missionary work, let them live economically, and give of their earnings.&mdash;<span class=\"egwlink egwlink_book\" title=\"5T 732.1\" data-link=\"113.3559\"><em>Testimonies for the Church</em> 5:732, 733</span>.",
+    "puborder": 390,
+    "translations": [
+      {
+        "para_id": "11629.596",
+        "lang": "da",
+        "refcode": "RSSA 134.2"
+      },
+      {
+        "para_id": "799.591",
+        "lang": "de",
+        "refcode": "RSs 112.1"
+      },
+      {
+        "para_id": "1711.669",
+        "lang": "es",
+        "refcode": "COES 151.1"
+      },
+      {
+        "para_id": "1724.660",
+        "lang": "pt",
+        "refcode": "CES 134.2"
+      },
+      {
+        "para_id": "1917.731",
+        "lang": "pt",
+        "refcode": "CES38 70.2"
+      },
+      {
+        "para_id": "2719.639",
+        "lang": "ro",
+        "refcode": "SSS 134.2"
+      },
+      {
+        "para_id": "1873.617",
+        "lang": "ru",
+        "refcode": "ССШ 134.2"
+      }
+    ]
+  }
+]

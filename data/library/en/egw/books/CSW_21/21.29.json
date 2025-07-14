@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.29",
+    "id_prev": "21.28",
+    "id_next": "21.30",
+    "refcode_1": "CSW",
+    "refcode_2": "10",
+    "refcode_3": "",
+    "refcode_4": "5",
+    "refcode_short": "CSW 10",
+    "refcode_long": "Counsels on Sabbath School Work, p. 10 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "An Influence Beyond Estimate",
+    "puborder": 18,
+    "translations": [
+      {
+        "para_id": "11629.13",
+        "lang": "da",
+        "refcode": "RSSA 10"
+      },
+      {
+        "para_id": "799.51",
+        "lang": "de",
+        "refcode": "RSs 15"
+      },
+      {
+        "para_id": "1711.43",
+        "lang": "es",
+        "refcode": "COES 10"
+      },
+      {
+        "para_id": "1917.22",
+        "lang": "pt",
+        "refcode": "CES38 2"
+      },
+      {
+        "para_id": "1724.55",
+        "lang": "pt",
+        "refcode": "CES 10"
+      },
+      {
+        "para_id": "2719.28",
+        "lang": "ro",
+        "refcode": "SSS 10"
+      },
+      {
+        "para_id": "1873.27",
+        "lang": "ru",
+        "refcode": "ССШ 10"
+      }
+    ]
+  },
+  {
+    "para_id": "21.30",
+    "id_prev": "21.29",
+    "id_next": "21.31",
+    "refcode_1": "CSW",
+    "refcode_2": "10",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 10.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 10.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Very much can be done for the education and moral and religious training of our youth by well-organized, properly conducted Sabbath schools. Time and attention should be given to this branch of the work; for its importance in its influence upon our youth cannot be estimated.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 14.1\" data-link=\"121.44\"><em>Testimonies on Sabbath-School Work</em>, 14, 15</span>.",
+    "puborder": 19,
+    "translations": [
+      {
+        "para_id": "11629.14",
+        "lang": "da",
+        "refcode": "RSSA 10.2"
+      },
+      {
+        "para_id": "799.52",
+        "lang": "de",
+        "refcode": "RSs 15.1"
+      },
+      {
+        "para_id": "1711.44",
+        "lang": "es",
+        "refcode": "COES 10.3"
+      },
+      {
+        "para_id": "1917.23",
+        "lang": "pt",
+        "refcode": "CES38 2.5"
+      },
+      {
+        "para_id": "1724.56",
+        "lang": "pt",
+        "refcode": "CES 10.3"
+      },
+      {
+        "para_id": "2719.29",
+        "lang": "ro",
+        "refcode": "SSS 10.3"
+      },
+      {
+        "para_id": "1873.28",
+        "lang": "ru",
+        "refcode": "ССШ 10.3"
+      }
+    ]
+  }
+]

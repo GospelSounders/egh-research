@@ -1,0 +1,324 @@
+[
+  {
+    "para_id": "21.512",
+    "id_prev": "21.509",
+    "id_next": "21.513",
+    "refcode_1": "CSW",
+    "refcode_2": "112",
+    "refcode_3": "",
+    "refcode_4": "73",
+    "refcode_short": "CSW 112",
+    "refcode_long": "Counsels on Sabbath School Work, p. 112 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Countenance an Index of Character",
+    "puborder": 320,
+    "translations": [
+      {
+        "para_id": "11629.486",
+        "lang": "da",
+        "refcode": "RSSA 112"
+      },
+      {
+        "para_id": "799.488",
+        "lang": "de",
+        "refcode": "RSs 93"
+      },
+      {
+        "para_id": "1711.549",
+        "lang": "es",
+        "refcode": "COES 124"
+      },
+      {
+        "para_id": "1917.601",
+        "lang": "pt",
+        "refcode": "CES38 57"
+      },
+      {
+        "para_id": "1724.547",
+        "lang": "pt",
+        "refcode": "CES 112"
+      },
+      {
+        "para_id": "2719.526",
+        "lang": "ro",
+        "refcode": "SSS 112"
+      },
+      {
+        "para_id": "1873.508",
+        "lang": "ru",
+        "refcode": "ССШ 112"
+      }
+    ]
+  },
+  {
+    "para_id": "21.513",
+    "id_prev": "21.512",
+    "id_next": "21.514",
+    "refcode_1": "CSW",
+    "refcode_2": "112",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 112.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 112.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Teachers of the different classes should bring every child into their heart and under their special watchcare.",
+    "puborder": 321,
+    "translations": [
+      {
+        "para_id": "11629.487",
+        "lang": "da",
+        "refcode": "RSSA 112.1"
+      },
+      {
+        "para_id": "799.489",
+        "lang": "de",
+        "refcode": "RSs 93.2"
+      },
+      {
+        "para_id": "1711.550",
+        "lang": "es",
+        "refcode": "COES 124.2"
+      },
+      {
+        "para_id": "1917.603",
+        "lang": "pt",
+        "refcode": "CES38 58.1"
+      },
+      {
+        "para_id": "1724.548",
+        "lang": "pt",
+        "refcode": "CES 112.1"
+      },
+      {
+        "para_id": "2719.527",
+        "lang": "ro",
+        "refcode": "SSS 112.1"
+      },
+      {
+        "para_id": "1873.509",
+        "lang": "ru",
+        "refcode": "ССШ 112.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.514",
+    "id_prev": "21.513",
+    "id_next": "21.515",
+    "refcode_1": "CSW",
+    "refcode_2": "112",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 112.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 112.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is impossible to do this work for time and eternity unless the teacher has a close connection with God. Jesus has said, &ldquo;Search the Scriptures; for in them ye think ye have eternal life: and they are they which testify of Me.&rdquo; Do not encourage a superficial manner of investigating the truth. Make every point of truth clear and distinct to the minds of the children. Do not crowd upon their minds an accumulated amount of matter at one time. The precious word of God is to be a lamp to their path, and a light to their feet. Impress upon their minds that it is their privilege to walk in the light. It is the path of peace, of purity, of holiness, cast up for the ransomed of the Lord to walk in. Christ has led the way in this path; He is the true Shepherd; in following Him, they avoid the bypaths and dangerous pitfalls.",
+    "puborder": 322,
+    "translations": [
+      {
+        "para_id": "11629.488",
+        "lang": "da",
+        "refcode": "RSSA 112.2"
+      },
+      {
+        "para_id": "799.490",
+        "lang": "de",
+        "refcode": "RSs 93.3"
+      },
+      {
+        "para_id": "1711.551",
+        "lang": "es",
+        "refcode": "COES 124.3"
+      },
+      {
+        "para_id": "1917.605",
+        "lang": "pt",
+        "refcode": "CES38 58.3"
+      },
+      {
+        "para_id": "1917.604",
+        "lang": "pt",
+        "refcode": "CES38 58.2"
+      },
+      {
+        "para_id": "1724.549",
+        "lang": "pt",
+        "refcode": "CES 112.2"
+      },
+      {
+        "para_id": "2719.528",
+        "lang": "ro",
+        "refcode": "SSS 112.2"
+      },
+      {
+        "para_id": "2719.529",
+        "lang": "ro",
+        "refcode": "SSS 112.3"
+      },
+      {
+        "para_id": "1873.509",
+        "lang": "ru",
+        "refcode": "ССШ 112.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.515",
+    "id_prev": "21.514",
+    "id_next": "21.518",
+    "refcode_1": "CSW",
+    "refcode_2": "112",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 112.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 112.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the word of God they are to learn that all who enter heaven must have a perfect character; for then they will meet their Lord in peace. Many children <span class=\"page-break\" data-page=\"113\"></span> and youth have their characters imprinted on their countenances. Their life&apos;s history they carry in the features of the face. The true workers should impress upon the minds of the children a beautiful, pure, Christlike character, which will transfigure the countenance. If Christ is the abiding principle in the heart, you may read purity, refinement, peace, and love in the features. In other countenances, an evil character hangs out the sign; selfishness, cunning, deceit, falsehood, enmity, and jealousy are expressed there. How difficult it is for truth to impress the hearts and countenances of such characters!",
+    "puborder": 323,
+    "translations": [
+      {
+        "para_id": "11629.489",
+        "lang": "da",
+        "refcode": "RSSA 112.3"
+      },
+      {
+        "para_id": "799.493",
+        "lang": "de",
+        "refcode": "RSs 94.1"
+      },
+      {
+        "para_id": "1711.554",
+        "lang": "es",
+        "refcode": "COES 125.1"
+      },
+      {
+        "para_id": "1724.550",
+        "lang": "pt",
+        "refcode": "CES 112.3"
+      },
+      {
+        "para_id": "1917.607",
+        "lang": "pt",
+        "refcode": "CES38 58.4"
+      },
+      {
+        "para_id": "2719.530",
+        "lang": "ro",
+        "refcode": "SSS 112.4"
+      },
+      {
+        "para_id": "1873.510",
+        "lang": "ru",
+        "refcode": "ССШ 112.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.518",
+    "id_prev": "21.515",
+    "id_next": "21.519",
+    "refcode_1": "CSW",
+    "refcode_2": "113",
+    "refcode_3": "",
+    "refcode_4": "36",
+    "refcode_short": "CSW 113",
+    "refcode_long": "Counsels on Sabbath School Work, p. 113 (Ellen Gould White)",
+    "element_type": "h5",
+    "element_subtype": "",
+    "content": "Cultivation of Character",
+    "puborder": 324,
+    "translations": [
+      {
+        "para_id": "11629.492",
+        "lang": "da",
+        "refcode": "RSSA 113"
+      },
+      {
+        "para_id": "799.494",
+        "lang": "de",
+        "refcode": "RSs 94"
+      },
+      {
+        "para_id": "1711.557",
+        "lang": "es",
+        "refcode": "COES 126"
+      },
+      {
+        "para_id": "1724.553",
+        "lang": "pt",
+        "refcode": "CES 113"
+      },
+      {
+        "para_id": "1917.608",
+        "lang": "pt",
+        "refcode": "CES38 58"
+      },
+      {
+        "para_id": "2719.533",
+        "lang": "ro",
+        "refcode": "SSS 113"
+      },
+      {
+        "para_id": "1873.513",
+        "lang": "ru",
+        "refcode": "ССШ 113"
+      }
+    ]
+  },
+  {
+    "para_id": "21.519",
+    "id_prev": "21.518",
+    "id_next": "21.520",
+    "refcode_1": "CSW",
+    "refcode_2": "113",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 113.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 113.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "We need now to give special attention to the cultivation of character. Let this mind be in you that was in Christ Jesus, that it may elevate and ennoble the highest as also the lowest worker in our Sabbath schools, so that Jesus will not be ashamed to acknowledge them as His colaborers. All spiritual culture Christ has provided for His children. If Jesus is abiding in the soul, the heart is filled with the holy graces of His Spirit, which makes itself manifest in the transforming of the features. If you would have beauty and loveliness of character, the divine law must be written upon the heart and carried out in the life.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 20.1\" data-link=\"121.70\"><em>Testimonies on Sabbath-School Work</em>, 20-22</span>.",
+    "puborder": 325,
+    "translations": [
+      {
+        "para_id": "11629.493",
+        "lang": "da",
+        "refcode": "RSSA 113.1"
+      },
+      {
+        "para_id": "799.495",
+        "lang": "de",
+        "refcode": "RSs 94.2"
+      },
+      {
+        "para_id": "1711.558",
+        "lang": "es",
+        "refcode": "COES 126.1"
+      },
+      {
+        "para_id": "1724.554",
+        "lang": "pt",
+        "refcode": "CES 113.1"
+      },
+      {
+        "para_id": "1917.609",
+        "lang": "pt",
+        "refcode": "CES38 58.5"
+      },
+      {
+        "para_id": "2719.534",
+        "lang": "ro",
+        "refcode": "SSS 113.1"
+      },
+      {
+        "para_id": "1873.514",
+        "lang": "ru",
+        "refcode": "ССШ 113.1"
+      }
+    ]
+  }
+]

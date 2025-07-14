@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.187",
+    "id_prev": "21.186",
+    "id_next": "21.188",
+    "refcode_1": "CSW",
+    "refcode_2": "43",
+    "refcode_3": "",
+    "refcode_4": "28",
+    "refcode_short": "CSW 43",
+    "refcode_long": "Counsels on Sabbath School Work, p. 43 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Our Daily Spiritual Food",
+    "puborder": 115,
+    "translations": [
+      {
+        "para_id": "11629.160",
+        "lang": "da",
+        "refcode": "RSSA 43"
+      },
+      {
+        "para_id": "799.191",
+        "lang": "de",
+        "refcode": "RSs 40"
+      },
+      {
+        "para_id": "1711.208",
+        "lang": "es",
+        "refcode": "COES 47"
+      },
+      {
+        "para_id": "1917.212",
+        "lang": "pt",
+        "refcode": "CES38 20"
+      },
+      {
+        "para_id": "1724.215",
+        "lang": "pt",
+        "refcode": "CES 43"
+      },
+      {
+        "para_id": "2719.193",
+        "lang": "ro",
+        "refcode": "SSS 43"
+      },
+      {
+        "para_id": "1873.184",
+        "lang": "ru",
+        "refcode": "ССШ 43"
+      }
+    ]
+  },
+  {
+    "para_id": "21.188",
+    "id_prev": "21.187",
+    "id_next": "21.191",
+    "refcode_1": "CSW",
+    "refcode_2": "43",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 43.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 43.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "We need to understand these words of Christ, &ldquo;The flesh profiteth nothing. The words that I speak unto you, they are spirit, and they are life&rdquo;&mdash;the Holy Word accepted and brought into the practical life. Spiritual life consists in Christ&apos;s being the light and life of the soul temple, as the blood is the life of the body. All who study the word are represented as eating the word, feeding on Christ.... Even as the bodily necessities must be supplied daily, so the word of God must be daily studied&mdash;eaten, and digested, and <span class=\"page-break\" data-page=\"44\"></span> practiced. This sustains the nourishment, to keep the soul in health. The neglect of the word means starvation to the soul. The word describes the blessed man as one meditating day and night upon the truths of God&apos;s word. We all are to feast upon the word of God. The relation of the word to the believer is a vital matter. Appropriating the word to our spiritual necessities is the eating of the leaves of the tree of life that are for the healing of the nations. Study the word, and practice the word, for it is your life.&mdash;Ellen G. White <span class=\"egwlink egwlink_book\" title=\"Lt 4, 1902\" data-link=\"14067.8857001\">Letter 4, 1902</span>.",
+    "puborder": 116,
+    "translations": [
+      {
+        "para_id": "11629.161",
+        "lang": "da",
+        "refcode": "RSSA 43.2"
+      },
+      {
+        "para_id": "799.192",
+        "lang": "de",
+        "refcode": "RSs 40.1"
+      },
+      {
+        "para_id": "1711.209",
+        "lang": "es",
+        "refcode": "COES 47.1"
+      },
+      {
+        "para_id": "1917.213",
+        "lang": "pt",
+        "refcode": "CES38 20.6"
+      },
+      {
+        "para_id": "1724.216",
+        "lang": "pt",
+        "refcode": "CES 43.2"
+      },
+      {
+        "para_id": "2719.194",
+        "lang": "ro",
+        "refcode": "SSS 43.2"
+      },
+      {
+        "para_id": "1873.185",
+        "lang": "ru",
+        "refcode": "ССШ 43.2"
+      }
+    ]
+  }
+]

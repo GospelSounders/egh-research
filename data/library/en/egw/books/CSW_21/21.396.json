@@ -1,0 +1,163 @@
+[
+  {
+    "para_id": "21.396",
+    "id_prev": "21.392",
+    "id_next": "21.397",
+    "refcode_1": "CSW",
+    "refcode_2": "89",
+    "refcode_3": "",
+    "refcode_4": "4",
+    "refcode_short": "CSW 89",
+    "refcode_long": "Counsels on Sabbath School Work, p. 89 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 4&mdash;The Teacher and His Work",
+    "puborder": 246,
+    "translations": [
+      {
+        "para_id": "11629.370",
+        "lang": "da",
+        "refcode": "RSSA 89"
+      },
+      {
+        "para_id": "799.382",
+        "lang": "de",
+        "refcode": "RSs 75"
+      },
+      {
+        "para_id": "1711.431",
+        "lang": "es",
+        "refcode": "COES 99"
+      },
+      {
+        "para_id": "1724.426",
+        "lang": "pt",
+        "refcode": "CES 87"
+      },
+      {
+        "para_id": "1917.461",
+        "lang": "pt",
+        "refcode": "CES38 44"
+      },
+      {
+        "para_id": "2719.408",
+        "lang": "ro",
+        "refcode": "SSS 89"
+      },
+      {
+        "para_id": "1873.392",
+        "lang": "ru",
+        "refcode": "ССШ 89"
+      }
+    ]
+  },
+  {
+    "para_id": "21.397",
+    "id_prev": "21.396",
+    "id_next": "21.398",
+    "refcode_1": "CSW",
+    "refcode_2": "89",
+    "refcode_3": "",
+    "refcode_4": "57",
+    "refcode_short": "CSW 89",
+    "refcode_long": "Counsels on Sabbath School Work, p. 89 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Highest of All Sciences",
+    "puborder": 247,
+    "translations": [
+      {
+        "para_id": "11629.371",
+        "lang": "da",
+        "refcode": "RSSA 89"
+      },
+      {
+        "para_id": "799.384",
+        "lang": "de",
+        "refcode": "RSs 76"
+      },
+      {
+        "para_id": "1711.432",
+        "lang": "es",
+        "refcode": "COES 99"
+      },
+      {
+        "para_id": "1724.432",
+        "lang": "pt",
+        "refcode": "CES 89"
+      },
+      {
+        "para_id": "1917.463",
+        "lang": "pt",
+        "refcode": "CES38 44"
+      },
+      {
+        "para_id": "2719.409",
+        "lang": "ro",
+        "refcode": "SSS 89"
+      },
+      {
+        "para_id": "1873.393",
+        "lang": "ru",
+        "refcode": "ССШ 89"
+      }
+    ]
+  },
+  {
+    "para_id": "21.398",
+    "id_prev": "21.397",
+    "id_next": "21.399",
+    "refcode_1": "CSW",
+    "refcode_2": "89",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 89.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 89.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It means so much more than finite minds can comprehend, to present in every missionary effort Jesus Christ and Him crucified. &ldquo;But He was wounded for our transgressions, He was bruised for our iniquities: the chastisement of our peace was upon Him; and with His stripes we are healed.&rdquo; &ldquo;For He hath made Him to be sin for us, who knew no sin; that we might be made the righteousness of God in Him.&rdquo; This is to be the burden of our work. If any one thinks he is capable of teaching in the Sabbath school or in the day school the science of education, he needs first to learn the fear of the Lord, which is the beginning of wisdom, that he may teach this the highest of all sciences.&mdash;<span class=\"egwlink egwlink_book\" title=\"FE 272.1\" data-link=\"32.1108\"><em>Fundamentals of Christian Education</em>, 272</span>.",
+    "puborder": 248,
+    "translations": [
+      {
+        "para_id": "11629.372",
+        "lang": "da",
+        "refcode": "RSSA 89.1"
+      },
+      {
+        "para_id": "799.385",
+        "lang": "de",
+        "refcode": "RSs 76.1"
+      },
+      {
+        "para_id": "1711.434",
+        "lang": "es",
+        "refcode": "COES 99.2"
+      },
+      {
+        "para_id": "1711.433",
+        "lang": "es",
+        "refcode": "COES 99.1"
+      },
+      {
+        "para_id": "1917.464",
+        "lang": "pt",
+        "refcode": "CES38 44.3"
+      },
+      {
+        "para_id": "1724.433",
+        "lang": "pt",
+        "refcode": "CES 89.1"
+      },
+      {
+        "para_id": "2719.410",
+        "lang": "ro",
+        "refcode": "SSS 89.1"
+      },
+      {
+        "para_id": "1873.394",
+        "lang": "ru",
+        "refcode": "ССШ 89.1"
+      }
+    ]
+  }
+]

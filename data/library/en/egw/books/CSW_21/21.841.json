@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.841",
+    "id_prev": "21.838",
+    "id_next": "21.842",
+    "refcode_1": "CSW",
+    "refcode_2": "180",
+    "refcode_3": "",
+    "refcode_4": "138",
+    "refcode_short": "CSW 180",
+    "refcode_long": "Counsels on Sabbath School Work, p. 180 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Maintain Self-control",
+    "puborder": 530,
+    "translations": [
+      {
+        "para_id": "11629.822",
+        "lang": "da",
+        "refcode": "RSSA 180"
+      },
+      {
+        "para_id": "799.786",
+        "lang": "de",
+        "refcode": "RSs 145"
+      },
+      {
+        "para_id": "1711.902",
+        "lang": "es",
+        "refcode": "COES 201"
+      },
+      {
+        "para_id": "1917.991",
+        "lang": "pt",
+        "refcode": "CES38 95"
+      },
+      {
+        "para_id": "1724.884",
+        "lang": "pt",
+        "refcode": "CES 180"
+      },
+      {
+        "para_id": "2719.860",
+        "lang": "ro",
+        "refcode": "SSS 180"
+      },
+      {
+        "para_id": "1873.835",
+        "lang": "ru",
+        "refcode": "ССШ 180"
+      }
+    ]
+  },
+  {
+    "para_id": "21.842",
+    "id_prev": "21.841",
+    "id_next": "21.843",
+    "refcode_1": "CSW",
+    "refcode_2": "180",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 180.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 180.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The scholars in your class may be perverse and stubborn, inclined to evil, they may severely test your patience, and yet their hearts are soil into which you may sow heavenly seed that will bear a harvest for good. If the teacher is not imbued with the Spirit of God, he will become discouraged, lose his self-control, and, by an impatient word, by a severe reprimand, may cut off all his influence, and make a failure of his work.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 44.1\" data-link=\"121.165\"><em>Testimonies on Sabbath-School Work</em>, 44</span>.",
+    "puborder": 531,
+    "translations": [
+      {
+        "para_id": "11629.823",
+        "lang": "da",
+        "refcode": "RSSA 180.1"
+      },
+      {
+        "para_id": "799.787",
+        "lang": "de",
+        "refcode": "RSs 145.4"
+      },
+      {
+        "para_id": "1711.903",
+        "lang": "es",
+        "refcode": "COES 201.3"
+      },
+      {
+        "para_id": "1724.885",
+        "lang": "pt",
+        "refcode": "CES 180.1"
+      },
+      {
+        "para_id": "1917.992",
+        "lang": "pt",
+        "refcode": "CES38 95.4"
+      },
+      {
+        "para_id": "2719.861",
+        "lang": "ro",
+        "refcode": "SSS 180.1"
+      },
+      {
+        "para_id": "1873.836",
+        "lang": "ru",
+        "refcode": "ССШ 180.1"
+      }
+    ]
+  }
+]

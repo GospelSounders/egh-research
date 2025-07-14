@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.343",
+    "id_prev": "21.341",
+    "id_next": "21.344",
+    "refcode_1": "CSW",
+    "refcode_2": "77",
+    "refcode_3": "",
+    "refcode_4": "47",
+    "refcode_short": "CSW 77",
+    "refcode_long": "Counsels on Sabbath School Work, p. 77 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Neglect Not the Children",
+    "puborder": 213,
+    "translations": [
+      {
+        "para_id": "11629.316",
+        "lang": "da",
+        "refcode": "RSSA 77"
+      },
+      {
+        "para_id": "799.334",
+        "lang": "de",
+        "refcode": "RSs 66"
+      },
+      {
+        "para_id": "1711.375",
+        "lang": "es",
+        "refcode": "COES 85"
+      },
+      {
+        "para_id": "1917.399",
+        "lang": "pt",
+        "refcode": "CES38 38"
+      },
+      {
+        "para_id": "1724.375",
+        "lang": "pt",
+        "refcode": "CES 77"
+      },
+      {
+        "para_id": "2719.353",
+        "lang": "ro",
+        "refcode": "SSS 77"
+      },
+      {
+        "para_id": "1873.339",
+        "lang": "ru",
+        "refcode": "ССШ 77"
+      }
+    ]
+  },
+  {
+    "para_id": "21.344",
+    "id_prev": "21.343",
+    "id_next": "21.345",
+    "refcode_1": "CSW",
+    "refcode_2": "77",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 77.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 77.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "While something has been done for the education and religious training of the youth, there is still a great lack. Many more need to be encouraged and helped. There is not that personal labor given which the case requires. It is not the ministers alone who have neglected this solemn work of saving the youth; the members of the churches will have to settle with the Master for their indifference and neglect of duty.",
+    "puborder": 214,
+    "translations": [
+      {
+        "para_id": "11629.317",
+        "lang": "da",
+        "refcode": "RSSA 77.1"
+      },
+      {
+        "para_id": "799.335",
+        "lang": "de",
+        "refcode": "RSs 66.1"
+      },
+      {
+        "para_id": "1711.376",
+        "lang": "es",
+        "refcode": "COES 85.1"
+      },
+      {
+        "para_id": "1917.400",
+        "lang": "pt",
+        "refcode": "CES38 38.4"
+      },
+      {
+        "para_id": "1724.376",
+        "lang": "pt",
+        "refcode": "CES 77.1"
+      },
+      {
+        "para_id": "2719.354",
+        "lang": "ro",
+        "refcode": "SSS 77.1"
+      },
+      {
+        "para_id": "1873.340",
+        "lang": "ru",
+        "refcode": "ССШ 77.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.345",
+    "id_prev": "21.344",
+    "id_next": "21.346",
+    "refcode_1": "CSW",
+    "refcode_2": "77",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 77.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 77.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Lord is not glorified when the children are neglected and passed by. They are to be educated, disciplined, and patiently instructed. They require more than casual notice, more than a word of encouragement. They need painstaking, prayerful, careful labor. The heart that is filled with love and sympathy will reach the hearts of the youth who are apparently careless and hopeless.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 114.1\" data-link=\"121.465\"><em>Testimonies on Sabbath-School Work</em>, 114, 115</span>.",
+    "puborder": 215,
+    "translations": [
+      {
+        "para_id": "11629.318",
+        "lang": "da",
+        "refcode": "RSSA 77.2"
+      },
+      {
+        "para_id": "799.336",
+        "lang": "de",
+        "refcode": "RSs 66.2"
+      },
+      {
+        "para_id": "1711.377",
+        "lang": "es",
+        "refcode": "COES 85.2"
+      },
+      {
+        "para_id": "1724.377",
+        "lang": "pt",
+        "refcode": "CES 77.2"
+      },
+      {
+        "para_id": "1917.403",
+        "lang": "pt",
+        "refcode": "CES38 39.1"
+      },
+      {
+        "para_id": "2719.355",
+        "lang": "ro",
+        "refcode": "SSS 77.2"
+      },
+      {
+        "para_id": "1873.341",
+        "lang": "ru",
+        "refcode": "ССШ 77.2"
+      }
+    ]
+  }
+]

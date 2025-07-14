@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.136",
+    "id_prev": "21.133",
+    "id_next": "21.137",
+    "refcode_1": "CSW",
+    "refcode_2": "34",
+    "refcode_3": "",
+    "refcode_4": "17",
+    "refcode_short": "CSW 34",
+    "refcode_long": "Counsels on Sabbath School Work, p. 34 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Promise of Increasing Light",
+    "puborder": 81,
+    "translations": [
+      {
+        "para_id": "11629.110",
+        "lang": "da",
+        "refcode": "RSSA 34"
+      },
+      {
+        "para_id": "799.144",
+        "lang": "de",
+        "refcode": "RSs 33"
+      },
+      {
+        "para_id": "1711.154",
+        "lang": "es",
+        "refcode": "COES 36"
+      },
+      {
+        "para_id": "1917.152",
+        "lang": "pt",
+        "refcode": "CES38 15"
+      },
+      {
+        "para_id": "1724.165",
+        "lang": "pt",
+        "refcode": "CES 34"
+      },
+      {
+        "para_id": "2719.141",
+        "lang": "ro",
+        "refcode": "SSS 34"
+      },
+      {
+        "para_id": "1873.134",
+        "lang": "ru",
+        "refcode": "ССШ 34"
+      }
+    ]
+  },
+  {
+    "para_id": "21.137",
+    "id_prev": "21.136",
+    "id_next": "21.138",
+    "refcode_1": "CSW",
+    "refcode_2": "34",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 34.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 34.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "New light will ever be revealed on the word of God to him who is in living connection with the Sun of Righteousness. Let no one come to the conclusion that there is no more truth to be revealed. The diligent, prayerful seeker for truth will find precious rays of light yet to shine forth from the word of God. Many gems are yet scattered that are to be gathered together to become the property of the remnant people of God. But light is not given simply to be a strength to the church, but to be shed upon those who are in darkness. The people of God are to show forth the praises of Him who hath called them out of darkness into His marvelous light. Christ has said of His people, &ldquo;Ye are the light of the world,&rdquo; and it is the mission of the light to shine out and illuminate the darkness.",
+    "puborder": 82,
+    "translations": [
+      {
+        "para_id": "11629.111",
+        "lang": "da",
+        "refcode": "RSSA 34.1"
+      },
+      {
+        "para_id": "799.145",
+        "lang": "de",
+        "refcode": "RSs 33.1"
+      },
+      {
+        "para_id": "1711.155",
+        "lang": "es",
+        "refcode": "COES 36.1"
+      },
+      {
+        "para_id": "1917.153",
+        "lang": "pt",
+        "refcode": "CES38 15.2"
+      },
+      {
+        "para_id": "1724.166",
+        "lang": "pt",
+        "refcode": "CES 34.1"
+      },
+      {
+        "para_id": "2719.142",
+        "lang": "ro",
+        "refcode": "SSS 34.1"
+      },
+      {
+        "para_id": "1873.135",
+        "lang": "ru",
+        "refcode": "ССШ 34.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.138",
+    "id_prev": "21.137",
+    "id_next": "21.139",
+    "refcode_1": "CSW",
+    "refcode_2": "34",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 34.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 34.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Oh, may teachers and pupils be what the Lord designed that they should be when He gave His life that they might be the sons and daughters of God, and win the crown of immortal glory!&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 53.1\" data-link=\"121.206\"><em>Testimonies on Sabbath-School Work</em>, 53, 54</span>.",
+    "puborder": 83,
+    "translations": [
+      {
+        "para_id": "11629.112",
+        "lang": "da",
+        "refcode": "RSSA 34.2"
+      },
+      {
+        "para_id": "799.146",
+        "lang": "de",
+        "refcode": "RSs 33.2"
+      },
+      {
+        "para_id": "1711.156",
+        "lang": "es",
+        "refcode": "COES 36.2"
+      },
+      {
+        "para_id": "1917.154",
+        "lang": "pt",
+        "refcode": "CES38 15.3"
+      },
+      {
+        "para_id": "1724.167",
+        "lang": "pt",
+        "refcode": "CES 34.2"
+      },
+      {
+        "para_id": "2719.143",
+        "lang": "ro",
+        "refcode": "SSS 34.2"
+      },
+      {
+        "para_id": "1873.136",
+        "lang": "ru",
+        "refcode": "ССШ 34.2"
+      }
+    ]
+  }
+]

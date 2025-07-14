@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.340",
+    "id_prev": "21.337",
+    "id_next": "21.341",
+    "refcode_1": "CSW",
+    "refcode_2": "76",
+    "refcode_3": "",
+    "refcode_4": "46",
+    "refcode_short": "CSW 76",
+    "refcode_long": "Counsels on Sabbath School Work, p. 76 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Feeding the Lambs",
+    "puborder": 211,
+    "translations": [
+      {
+        "para_id": "11629.313",
+        "lang": "da",
+        "refcode": "RSSA 76"
+      },
+      {
+        "para_id": "799.330",
+        "lang": "de",
+        "refcode": "RSs 65"
+      },
+      {
+        "para_id": "1711.372",
+        "lang": "es",
+        "refcode": "COES 84"
+      },
+      {
+        "para_id": "1917.396",
+        "lang": "pt",
+        "refcode": "CES38 38"
+      },
+      {
+        "para_id": "1724.372",
+        "lang": "pt",
+        "refcode": "CES 76"
+      },
+      {
+        "para_id": "2719.350",
+        "lang": "ro",
+        "refcode": "SSS 76"
+      },
+      {
+        "para_id": "1873.336",
+        "lang": "ru",
+        "refcode": "ССШ 76"
+      }
+    ]
+  },
+  {
+    "para_id": "21.341",
+    "id_prev": "21.340",
+    "id_next": "21.343",
+    "refcode_1": "CSW",
+    "refcode_2": "76",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 76.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 76.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In His charge to Peter, the Saviour first bade him, &ldquo;Feed My lambs,&rdquo; and afterward commanded, &ldquo;Feed My sheep.&rdquo; In addressing the apostle, Christ says to all His servants, &ldquo;Feed My lambs.&rdquo; When Jesus admonished His disciples not to despise the little ones, He addressed all disciples in all ages. His own love and care for children is a precious example for His followers. If teachers in the Sabbath school felt the love which they should feel for these lambs of the flock, many more would be won to the fold of Christ. At every suitable opportunity, let the story of Jesus&rsquo; love be repeated to the children. In every sermon let a little corner be left for their benefit. The servant of Christ may have lasting friends in these little ones, and his words may be to them as apples of gold in pictures of silver.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 113.1\" data-link=\"121.460\"><em>Testimonies on Sabbath-School Work</em>, 113</span>.",
+    "puborder": 212,
+    "translations": [
+      {
+        "para_id": "11629.314",
+        "lang": "da",
+        "refcode": "RSSA 76.1"
+      },
+      {
+        "para_id": "799.331",
+        "lang": "de",
+        "refcode": "RSs 65.2"
+      },
+      {
+        "para_id": "1711.373",
+        "lang": "es",
+        "refcode": "COES 84.1"
+      },
+      {
+        "para_id": "1724.373",
+        "lang": "pt",
+        "refcode": "CES 76.1"
+      },
+      {
+        "para_id": "1917.397",
+        "lang": "pt",
+        "refcode": "CES38 38.3"
+      },
+      {
+        "para_id": "2719.351",
+        "lang": "ro",
+        "refcode": "SSS 76.1"
+      },
+      {
+        "para_id": "1873.337",
+        "lang": "ru",
+        "refcode": "ССШ 76.1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.685",
+    "id_prev": "21.683",
+    "id_next": "21.686",
+    "refcode_1": "CSW",
+    "refcode_2": "146",
+    "refcode_3": "",
+    "refcode_4": "116",
+    "refcode_short": "CSW 146",
+    "refcode_long": "Counsels on Sabbath School Work, p. 146 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Highest Efficiency of the Loving Gift",
+    "puborder": 433,
+    "translations": [
+      {
+        "para_id": "11629.661",
+        "lang": "da",
+        "refcode": "RSSA 146"
+      },
+      {
+        "para_id": "799.648",
+        "lang": "de",
+        "refcode": "RSs 120"
+      },
+      {
+        "para_id": "1711.735",
+        "lang": "es",
+        "refcode": "COES 164"
+      },
+      {
+        "para_id": "1724.723",
+        "lang": "pt",
+        "refcode": "CES 146"
+      },
+      {
+        "para_id": "1917.806",
+        "lang": "pt",
+        "refcode": "CES38 77"
+      },
+      {
+        "para_id": "2719.702",
+        "lang": "ro",
+        "refcode": "SSS 146"
+      },
+      {
+        "para_id": "1873.679",
+        "lang": "ru",
+        "refcode": "ССШ 146"
+      }
+    ]
+  },
+  {
+    "para_id": "21.686",
+    "id_prev": "21.685",
+    "id_next": "21.687",
+    "refcode_1": "CSW",
+    "refcode_2": "146",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 146.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 146.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The offering from the heart that loves, God delights to honor, giving it highest efficiency in service for Him. If we have given our hearts to Jesus, we also shall bring our gifts to Him. Our gold and silver, our most precious earthly possessions, our highest mental and spiritual endowments, will be freely devoted to Him who loved us, and gave Himself for us.&mdash;<span class=\"egwlink egwlink_book\" title=\"DA 65.1\" data-link=\"130.221\"><em>The Desire of Ages</em>, 65</span>.",
+    "puborder": 434,
+    "translations": [
+      {
+        "para_id": "11629.662",
+        "lang": "da",
+        "refcode": "RSSA 146.1"
+      },
+      {
+        "para_id": "799.649",
+        "lang": "de",
+        "refcode": "RSs 120.4"
+      },
+      {
+        "para_id": "1711.736",
+        "lang": "es",
+        "refcode": "COES 164.1"
+      },
+      {
+        "para_id": "1917.807",
+        "lang": "pt",
+        "refcode": "CES38 77.2"
+      },
+      {
+        "para_id": "1724.724",
+        "lang": "pt",
+        "refcode": "CES 146.1"
+      },
+      {
+        "para_id": "2719.703",
+        "lang": "ro",
+        "refcode": "SSS 146.1"
+      },
+      {
+        "para_id": "1873.680",
+        "lang": "ru",
+        "refcode": "ССШ 146.1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,968 @@
+[
+  {
+    "para_id": "128.701",
+    "id_prev": "128.698",
+    "id_next": "128.703",
+    "refcode_1": "AH",
+    "refcode_2": "157",
+    "refcode_3": "",
+    "refcode_4": "7",
+    "refcode_short": "AH 157",
+    "refcode_long": "The Adventist Home, p. 157 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 7&mdash;Heritage of the Lord",
+    "puborder": 454,
+    "translations": [
+      {
+        "para_id": "13839.563",
+        "lang": "bg",
+        "refcode": "ХД 66"
+      },
+      {
+        "para_id": "792.241",
+        "lang": "de",
+        "refcode": "GFH 40"
+      },
+      {
+        "para_id": "177.729",
+        "lang": "es",
+        "refcode": "HC 141"
+      },
+      {
+        "para_id": "193.686",
+        "lang": "fr",
+        "refcode": "FC 149"
+      },
+      {
+        "para_id": "12869.819",
+        "lang": "id",
+        "refcode": "MKB 148"
+      },
+      {
+        "para_id": "891.419",
+        "lang": "it",
+        "refcode": "FC 64"
+      },
+      {
+        "para_id": "12178.573",
+        "lang": "pl",
+        "refcode": "ChD 96"
+      },
+      {
+        "para_id": "1955.915",
+        "lang": "pt",
+        "refcode": "LA 159"
+      },
+      {
+        "para_id": "2026.694",
+        "lang": "ro",
+        "refcode": "CA 159"
+      },
+      {
+        "para_id": "1803.664",
+        "lang": "ru",
+        "refcode": "ХД 158"
+      },
+      {
+        "para_id": "12131.620",
+        "lang": "uk",
+        "refcode": "ХР 125"
+      }
+    ]
+  },
+  {
+    "para_id": "128.703",
+    "id_prev": "128.701",
+    "id_next": "128.704",
+    "refcode_1": "AH",
+    "refcode_2": "159",
+    "refcode_3": "",
+    "refcode_4": "23",
+    "refcode_short": "AH 159",
+    "refcode_long": "The Adventist Home, p. 159 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 23&mdash;Children a Blessing",
+    "puborder": 455,
+    "translations": [
+      {
+        "para_id": "13839.564",
+        "lang": "bg",
+        "refcode": "ХД 66"
+      },
+      {
+        "para_id": "177.730",
+        "lang": "es",
+        "refcode": "HC 141"
+      },
+      {
+        "para_id": "193.689",
+        "lang": "fr",
+        "refcode": "FC 151"
+      },
+      {
+        "para_id": "12869.821",
+        "lang": "id",
+        "refcode": "MKB 149"
+      },
+      {
+        "para_id": "891.420",
+        "lang": "it",
+        "refcode": "FC 64"
+      },
+      {
+        "para_id": "12178.574",
+        "lang": "pl",
+        "refcode": "ChD 96"
+      },
+      {
+        "para_id": "1955.916",
+        "lang": "pt",
+        "refcode": "LA 159"
+      },
+      {
+        "para_id": "2026.695",
+        "lang": "ro",
+        "refcode": "CA 159"
+      },
+      {
+        "para_id": "1803.666",
+        "lang": "ru",
+        "refcode": "ХД 159"
+      },
+      {
+        "para_id": "12131.622",
+        "lang": "uk",
+        "refcode": "ХР 126"
+      }
+    ]
+  },
+  {
+    "para_id": "128.704",
+    "id_prev": "128.703",
+    "id_next": "128.705",
+    "refcode_1": "AH",
+    "refcode_2": "159",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 159.1",
+    "refcode_long": "The Adventist Home, p. 159.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God Planned for Families</strong>&mdash;He who gave Eve to Adam as a helpmeet ... ordained that men and women should be united in holy wedlock, to rear families whose members, crowned with honor, should be recognized as members of the family above.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 356.1\" data-link=\"135.1793\">The Ministry of Healing, 356</span>.</span></a></sup>",
+    "puborder": 456,
+    "translations": [
+      {
+        "para_id": "13839.565",
+        "lang": "bg",
+        "refcode": "ХД 66.1"
+      },
+      {
+        "para_id": "792.243",
+        "lang": "de",
+        "refcode": "GFH 40.1"
+      },
+      {
+        "para_id": "792.242",
+        "lang": "de",
+        "refcode": "GFH 40"
+      },
+      {
+        "para_id": "177.731",
+        "lang": "es",
+        "refcode": "HC 141.1"
+      },
+      {
+        "para_id": "193.690",
+        "lang": "fr",
+        "refcode": "FC 151.1"
+      },
+      {
+        "para_id": "12869.823",
+        "lang": "id",
+        "refcode": "MKB 149.1"
+      },
+      {
+        "para_id": "891.422",
+        "lang": "it",
+        "refcode": "FC 64.1"
+      },
+      {
+        "para_id": "891.421",
+        "lang": "it",
+        "refcode": "FC 64"
+      },
+      {
+        "para_id": "12178.575",
+        "lang": "pl",
+        "refcode": "ChD 96.1"
+      },
+      {
+        "para_id": "1955.917",
+        "lang": "pt",
+        "refcode": "LA 159"
+      },
+      {
+        "para_id": "1955.918",
+        "lang": "pt",
+        "refcode": "LA 159.1"
+      },
+      {
+        "para_id": "2026.696",
+        "lang": "ro",
+        "refcode": "CA 159.1"
+      },
+      {
+        "para_id": "1803.667",
+        "lang": "ru",
+        "refcode": "ХД 159.1"
+      },
+      {
+        "para_id": "12131.623",
+        "lang": "uk",
+        "refcode": "ХР 126.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.705",
+    "id_prev": "128.704",
+    "id_next": "128.706",
+    "refcode_1": "AH",
+    "refcode_2": "159",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 159.2",
+    "refcode_long": "The Adventist Home, p. 159.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Children are the heritage of the Lord, and we are answerable to Him for our management of His property.... In love, faith, and prayer let parents work for their households, until with joy they can come to God saying, &ldquo;Behold, I and the children whom the Lord hath given me.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"COL 195.1\" data-link=\"15.820\">Christ&apos;s Object Lessons, 195, 196</span>.</span></a></sup>",
+    "puborder": 457,
+    "translations": [
+      {
+        "para_id": "13839.566",
+        "lang": "bg",
+        "refcode": "ХД 66.2"
+      },
+      {
+        "para_id": "792.244",
+        "lang": "de",
+        "refcode": "GFH 40.2"
+      },
+      {
+        "para_id": "177.732",
+        "lang": "es",
+        "refcode": "HC 141.2"
+      },
+      {
+        "para_id": "193.691",
+        "lang": "fr",
+        "refcode": "FC 151.2"
+      },
+      {
+        "para_id": "12869.825",
+        "lang": "id",
+        "refcode": "MKB 149.3"
+      },
+      {
+        "para_id": "12869.824",
+        "lang": "id",
+        "refcode": "MKB 149.2"
+      },
+      {
+        "para_id": "891.423",
+        "lang": "it",
+        "refcode": "FC 64.2"
+      },
+      {
+        "para_id": "12178.576",
+        "lang": "pl",
+        "refcode": "ChD 96.2"
+      },
+      {
+        "para_id": "1955.919",
+        "lang": "pt",
+        "refcode": "LA 159.2"
+      },
+      {
+        "para_id": "2026.697",
+        "lang": "ro",
+        "refcode": "CA 159.2"
+      },
+      {
+        "para_id": "1803.668",
+        "lang": "ru",
+        "refcode": "ХД 159.2"
+      },
+      {
+        "para_id": "12131.624",
+        "lang": "uk",
+        "refcode": "ХР 126.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.706",
+    "id_prev": "128.705",
+    "id_next": "128.707",
+    "refcode_1": "AH",
+    "refcode_2": "159",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 159.3",
+    "refcode_long": "The Adventist Home, p. 159.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "A childless house is a desolate place. The hearts of the inmates are in danger of becoming selfish, of cherishing a love for their own ease, and consulting their own desires and conveniences. They gather sympathy to themselves, but have little to bestow upon others.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 647.1\" data-link=\"120.2798\">Testimonies for the Church 2:647</span>.</span></a></sup>",
+    "puborder": 458,
+    "translations": [
+      {
+        "para_id": "13839.567",
+        "lang": "bg",
+        "refcode": "ХД 66.3"
+      },
+      {
+        "para_id": "792.244",
+        "lang": "de",
+        "refcode": "GFH 40.2"
+      },
+      {
+        "para_id": "177.733",
+        "lang": "es",
+        "refcode": "HC 141.3"
+      },
+      {
+        "para_id": "193.692",
+        "lang": "fr",
+        "refcode": "FC 151.3"
+      },
+      {
+        "para_id": "12869.826",
+        "lang": "id",
+        "refcode": "MKB 149.4"
+      },
+      {
+        "para_id": "891.424",
+        "lang": "it",
+        "refcode": "FC 64.3"
+      },
+      {
+        "para_id": "12178.577",
+        "lang": "pl",
+        "refcode": "ChD 96.3"
+      },
+      {
+        "para_id": "1955.920",
+        "lang": "pt",
+        "refcode": "LA 159.3"
+      },
+      {
+        "para_id": "2026.698",
+        "lang": "ro",
+        "refcode": "CA 159.3"
+      },
+      {
+        "para_id": "1803.669",
+        "lang": "ru",
+        "refcode": "ХД 159.3"
+      },
+      {
+        "para_id": "12131.625",
+        "lang": "uk",
+        "refcode": "ХР 126.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.707",
+    "id_prev": "128.706",
+    "id_next": "128.709",
+    "refcode_1": "AH",
+    "refcode_2": "159",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 159.4",
+    "refcode_long": "The Adventist Home, p. 159.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Counsel to a Childless Couple</strong>&mdash;Selfishness, which manifests itself in a variety of ways according to circumstances and the peculiar organization of individuals, must die. If you had children, and your mind were compelled to be called away from yourself to care for them, to instruct them, and be an example to them, it would be an advantage to you.... When two compose a family, as in your case, and there are no children to call into exercise patience, forbearance, and true love, there is need of constant watchfulness lest selfishness obtain the supremacy, lest you yourselves become the center, and you require attention, care, and interest, which you feel under no obligation to bestow upon others.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 230.1\" data-link=\"120.966\">Ibid., 2:230, 231</span>.</span></a></sup>",
+    "puborder": 459,
+    "translations": [
+      {
+        "para_id": "13839.568",
+        "lang": "bg",
+        "refcode": "ХД 66.4"
+      },
+      {
+        "para_id": "177.734",
+        "lang": "es",
+        "refcode": "HC 141.4"
+      },
+      {
+        "para_id": "193.693",
+        "lang": "fr",
+        "refcode": "FC 151.4"
+      },
+      {
+        "para_id": "12869.830",
+        "lang": "id",
+        "refcode": "MKB 150.1"
+      },
+      {
+        "para_id": "891.425",
+        "lang": "it",
+        "refcode": "FC 64"
+      },
+      {
+        "para_id": "891.426",
+        "lang": "it",
+        "refcode": "FC 64.4"
+      },
+      {
+        "para_id": "12178.578",
+        "lang": "pl",
+        "refcode": "ChD 96.4"
+      },
+      {
+        "para_id": "1955.921",
+        "lang": "pt",
+        "refcode": "LA 159"
+      },
+      {
+        "para_id": "1955.922",
+        "lang": "pt",
+        "refcode": "LA 159.4"
+      },
+      {
+        "para_id": "2026.699",
+        "lang": "ro",
+        "refcode": "CA 159.4"
+      },
+      {
+        "para_id": "1803.670",
+        "lang": "ru",
+        "refcode": "ХД 159.4"
+      },
+      {
+        "para_id": "12131.626",
+        "lang": "uk",
+        "refcode": "ХР 126.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.709",
+    "id_prev": "128.707",
+    "id_next": "128.710",
+    "refcode_1": "AH",
+    "refcode_2": "160",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 160.1",
+    "refcode_long": "The Adventist Home, p. 160.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Many are diseased physically, mentally, and morally because their attention is turned almost exclusively to themselves. They might be saved from stagnation by the healthy vitality of younger and varying minds and the restless energy of children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 647.1\" data-link=\"120.2798\">Ibid., 2:647</span>.</span></a></sup>",
+    "puborder": 460,
+    "translations": [
+      {
+        "para_id": "13839.569",
+        "lang": "bg",
+        "refcode": "ХД 66.5"
+      },
+      {
+        "para_id": "792.245",
+        "lang": "de",
+        "refcode": "GFH 40.3"
+      },
+      {
+        "para_id": "177.737",
+        "lang": "es",
+        "refcode": "HC 142.1"
+      },
+      {
+        "para_id": "193.696",
+        "lang": "fr",
+        "refcode": "FC 152.1"
+      },
+      {
+        "para_id": "12869.831",
+        "lang": "id",
+        "refcode": "MKB 150.2"
+      },
+      {
+        "para_id": "891.427",
+        "lang": "it",
+        "refcode": "FC 64.5"
+      },
+      {
+        "para_id": "12178.579",
+        "lang": "pl",
+        "refcode": "ChD 96.5"
+      },
+      {
+        "para_id": "12178.581",
+        "lang": "pl",
+        "refcode": "ChD 97.1"
+      },
+      {
+        "para_id": "1955.924",
+        "lang": "pt",
+        "refcode": "LA 160.1"
+      },
+      {
+        "para_id": "2026.701",
+        "lang": "ro",
+        "refcode": "CA 160.1"
+      },
+      {
+        "para_id": "1803.672",
+        "lang": "ru",
+        "refcode": "ХД 160.1"
+      },
+      {
+        "para_id": "12131.627",
+        "lang": "uk",
+        "refcode": "ХР 126.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.710",
+    "id_prev": "128.709",
+    "id_next": "128.711",
+    "refcode_1": "AH",
+    "refcode_2": "160",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 160.2",
+    "refcode_long": "The Adventist Home, p. 160.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Noble Traits Are Developed in Caring for Children</strong>&mdash;I have a very tender interest in all children, for I became a sufferer at a very early age. I have taken many children to care for, and I have always felt that association with the simplicity of childhood was a great blessing to me....",
+    "puborder": 461,
+    "translations": [
+      {
+        "para_id": "13839.570",
+        "lang": "bg",
+        "refcode": "ХД 66.6"
+      },
+      {
+        "para_id": "177.738",
+        "lang": "es",
+        "refcode": "HC 142.2"
+      },
+      {
+        "para_id": "193.697",
+        "lang": "fr",
+        "refcode": "FC 152.2"
+      },
+      {
+        "para_id": "12869.833",
+        "lang": "id",
+        "refcode": "MKB 150.3"
+      },
+      {
+        "para_id": "891.429",
+        "lang": "it",
+        "refcode": "FC 64.6"
+      },
+      {
+        "para_id": "891.428",
+        "lang": "it",
+        "refcode": "FC 64"
+      },
+      {
+        "para_id": "12178.582",
+        "lang": "pl",
+        "refcode": "ChD 97.2"
+      },
+      {
+        "para_id": "1955.926",
+        "lang": "pt",
+        "refcode": "LA 160.2"
+      },
+      {
+        "para_id": "1955.925",
+        "lang": "pt",
+        "refcode": "LA 160"
+      },
+      {
+        "para_id": "2026.702",
+        "lang": "ro",
+        "refcode": "CA 160.2"
+      },
+      {
+        "para_id": "1803.673",
+        "lang": "ru",
+        "refcode": "ХД 160.2"
+      },
+      {
+        "para_id": "12131.628",
+        "lang": "uk",
+        "refcode": "ХР 126.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.711",
+    "id_prev": "128.710",
+    "id_next": "128.712",
+    "refcode_1": "AH",
+    "refcode_2": "160",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 160.3",
+    "refcode_long": "The Adventist Home, p. 160.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The sympathy, forbearance, and love required in dealing with children would be a blessing in any household. They would soften and subdue set traits of character in those who need to be more cheerful and restful. The presence of a child in a home sweetens and refines. A child brought up in the fear of the Lord is a blessing.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 329, 1904\" data-link=\"14069.8194001\">Letter 329, 1904</span>.</span></a></sup>",
+    "puborder": 462,
+    "translations": [
+      {
+        "para_id": "13839.571",
+        "lang": "bg",
+        "refcode": "ХД 66.7"
+      },
+      {
+        "para_id": "792.247",
+        "lang": "de",
+        "refcode": "GFH 40.4"
+      },
+      {
+        "para_id": "177.739",
+        "lang": "es",
+        "refcode": "HC 142.3"
+      },
+      {
+        "para_id": "193.698",
+        "lang": "fr",
+        "refcode": "FC 152.3"
+      },
+      {
+        "para_id": "12869.834",
+        "lang": "id",
+        "refcode": "MKB 150.4"
+      },
+      {
+        "para_id": "891.429",
+        "lang": "it",
+        "refcode": "FC 64.6"
+      },
+      {
+        "para_id": "12178.583",
+        "lang": "pl",
+        "refcode": "ChD 97.3"
+      },
+      {
+        "para_id": "1955.927",
+        "lang": "pt",
+        "refcode": "LA 160.3"
+      },
+      {
+        "para_id": "2026.703",
+        "lang": "ro",
+        "refcode": "CA 160.3"
+      },
+      {
+        "para_id": "1803.674",
+        "lang": "ru",
+        "refcode": "ХД 160.3"
+      },
+      {
+        "para_id": "12131.630",
+        "lang": "uk",
+        "refcode": "ХР 127.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.712",
+    "id_prev": "128.711",
+    "id_next": "128.713",
+    "refcode_1": "AH",
+    "refcode_2": "160",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 160.4",
+    "refcode_long": "The Adventist Home, p. 160.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Care and affection for dependent children removes the roughness from our natures, makes us tender and sympathetic, and has an influence to develop the nobler elements of our character.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 647.1\" data-link=\"120.2798\">Testimonies for the Church 2:647</span>.</span></a></sup>",
+    "puborder": 463,
+    "translations": [
+      {
+        "para_id": "13839.572",
+        "lang": "bg",
+        "refcode": "ХД 66.8"
+      },
+      {
+        "para_id": "792.248",
+        "lang": "de",
+        "refcode": "GFH 40.5"
+      },
+      {
+        "para_id": "177.740",
+        "lang": "es",
+        "refcode": "HC 142.4"
+      },
+      {
+        "para_id": "193.699",
+        "lang": "fr",
+        "refcode": "FC 152.4"
+      },
+      {
+        "para_id": "12869.835",
+        "lang": "id",
+        "refcode": "MKB 150.5"
+      },
+      {
+        "para_id": "891.432",
+        "lang": "it",
+        "refcode": "FC 65.1"
+      },
+      {
+        "para_id": "12178.584",
+        "lang": "pl",
+        "refcode": "ChD 97.4"
+      },
+      {
+        "para_id": "1955.928",
+        "lang": "pt",
+        "refcode": "LA 160.4"
+      },
+      {
+        "para_id": "2026.704",
+        "lang": "ro",
+        "refcode": "CA 160.4"
+      },
+      {
+        "para_id": "1803.675",
+        "lang": "ru",
+        "refcode": "ХД 160.4"
+      },
+      {
+        "para_id": "12131.631",
+        "lang": "uk",
+        "refcode": "ХР 127.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.713",
+    "id_prev": "128.712",
+    "id_next": "128.715",
+    "refcode_1": "AH",
+    "refcode_2": "160",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 160.5",
+    "refcode_long": "The Adventist Home, p. 160.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Child&apos;s Influence on Enoch</strong>&mdash;After the birth of his first son, Enoch reached a higher experience; he was drawn into a closer relationship with God. He realized more fully his own obligations and responsibility as a son of God. And as he saw the child&apos;s love for its father, its simple trust in his protection; as he felt the deep, yearning tenderness of his own heart for that first-born son, he learned a precious lesson of the wonderful love of God to men in the gift of His Son, and the confidence which the children of God may repose in their heavenly Father.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 84.1\" data-link=\"84.308\">Patriarchs and Prophets, 84</span>.</span></a></sup>",
+    "puborder": 464,
+    "translations": [
+      {
+        "para_id": "13839.574",
+        "lang": "bg",
+        "refcode": "ХД 67.1"
+      },
+      {
+        "para_id": "792.250",
+        "lang": "de",
+        "refcode": "GFH 41.1"
+      },
+      {
+        "para_id": "177.741",
+        "lang": "es",
+        "refcode": "HC 142.5"
+      },
+      {
+        "para_id": "193.700",
+        "lang": "fr",
+        "refcode": "FC 152.5"
+      },
+      {
+        "para_id": "12869.839",
+        "lang": "id",
+        "refcode": "MKB 151.1"
+      },
+      {
+        "para_id": "12178.585",
+        "lang": "pl",
+        "refcode": "ChD 97.5"
+      },
+      {
+        "para_id": "1955.929",
+        "lang": "pt",
+        "refcode": "LA 160"
+      },
+      {
+        "para_id": "1955.930",
+        "lang": "pt",
+        "refcode": "LA 160.5"
+      },
+      {
+        "para_id": "2026.705",
+        "lang": "ro",
+        "refcode": "CA 160.5"
+      },
+      {
+        "para_id": "1803.676",
+        "lang": "ru",
+        "refcode": "ХД 160.5"
+      },
+      {
+        "para_id": "12131.632",
+        "lang": "uk",
+        "refcode": "ХР 127.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.715",
+    "id_prev": "128.713",
+    "id_next": "128.716",
+    "refcode_1": "AH",
+    "refcode_2": "161",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 161.1",
+    "refcode_long": "The Adventist Home, p. 161.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Precious Trust</strong>&mdash;Children are committed to their parents as a precious trust, which God will one day require at their hands. We should give to their training more time, more care, and more prayer. They need more of the right kind of instruction....",
+    "puborder": 465,
+    "translations": [
+      {
+        "para_id": "13839.575",
+        "lang": "bg",
+        "refcode": "ХД 67.2"
+      },
+      {
+        "para_id": "792.251",
+        "lang": "de",
+        "refcode": "GFH 41"
+      },
+      {
+        "para_id": "792.252",
+        "lang": "de",
+        "refcode": "GFH 41.2"
+      },
+      {
+        "para_id": "177.743",
+        "lang": "es",
+        "refcode": "HC 143.1"
+      },
+      {
+        "para_id": "193.702",
+        "lang": "fr",
+        "refcode": "FC 153.1"
+      },
+      {
+        "para_id": "12869.841",
+        "lang": "id",
+        "refcode": "MKB 151.2"
+      },
+      {
+        "para_id": "12178.586",
+        "lang": "pl",
+        "refcode": "ChD 97.6"
+      },
+      {
+        "para_id": "1955.932",
+        "lang": "pt",
+        "refcode": "LA 161"
+      },
+      {
+        "para_id": "1955.933",
+        "lang": "pt",
+        "refcode": "LA 161.1"
+      },
+      {
+        "para_id": "2026.707",
+        "lang": "ro",
+        "refcode": "CA 161.1"
+      },
+      {
+        "para_id": "1803.678",
+        "lang": "ru",
+        "refcode": "ХД 161.1"
+      },
+      {
+        "para_id": "12131.633",
+        "lang": "uk",
+        "refcode": "ХР 127.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.716",
+    "id_prev": "128.715",
+    "id_next": "128.718",
+    "refcode_1": "AH",
+    "refcode_2": "161",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 161.2",
+    "refcode_long": "The Adventist Home, p. 161.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Remember that your sons and daughters are younger members of God&apos;s family. He has committed them to your care, to train and educate for heaven. You must render an account to Him for the manner in which you discharge your sacred trust.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 6-13-1882\" data-link=\"821.4357\">The Review and Herald, June 13, 1882</span>.</span></a></sup>",
+    "puborder": 466,
+    "translations": [
+      {
+        "para_id": "13839.576",
+        "lang": "bg",
+        "refcode": "ХД 67.3"
+      },
+      {
+        "para_id": "792.253",
+        "lang": "de",
+        "refcode": "GFH 41.3"
+      },
+      {
+        "para_id": "177.744",
+        "lang": "es",
+        "refcode": "HC 143.2"
+      },
+      {
+        "para_id": "193.703",
+        "lang": "fr",
+        "refcode": "FC 153.2"
+      },
+      {
+        "para_id": "12869.842",
+        "lang": "id",
+        "refcode": "MKB 151.3"
+      },
+      {
+        "para_id": "12178.587",
+        "lang": "pl",
+        "refcode": "ChD 97.7"
+      },
+      {
+        "para_id": "1955.934",
+        "lang": "pt",
+        "refcode": "LA 161.2"
+      },
+      {
+        "para_id": "2026.708",
+        "lang": "ro",
+        "refcode": "CA 161.2"
+      },
+      {
+        "para_id": "1803.679",
+        "lang": "ru",
+        "refcode": "ХД 161.2"
+      },
+      {
+        "para_id": "12131.634",
+        "lang": "uk",
+        "refcode": "ХР 127.5"
+      }
+    ]
+  }
+]

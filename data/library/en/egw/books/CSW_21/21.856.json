@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.856",
+    "id_prev": "21.854",
+    "id_next": "21.857",
+    "refcode_1": "CSW",
+    "refcode_2": "183",
+    "refcode_3": "",
+    "refcode_4": "141",
+    "refcode_short": "CSW 183",
+    "refcode_long": "Counsels on Sabbath School Work, p. 183 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Sabbath School and the Church Service",
+    "puborder": 540,
+    "translations": [
+      {
+        "para_id": "11629.837",
+        "lang": "da",
+        "refcode": "RSSA 183"
+      },
+      {
+        "para_id": "799.800",
+        "lang": "de",
+        "refcode": "RSs 148"
+      },
+      {
+        "para_id": "1711.918",
+        "lang": "es",
+        "refcode": "COES 205"
+      },
+      {
+        "para_id": "1917.1009",
+        "lang": "pt",
+        "refcode": "CES38 97"
+      },
+      {
+        "para_id": "1724.899",
+        "lang": "pt",
+        "refcode": "CES 183"
+      },
+      {
+        "para_id": "2719.875",
+        "lang": "ro",
+        "refcode": "SSS 183"
+      },
+      {
+        "para_id": "1873.850",
+        "lang": "ru",
+        "refcode": "ССШ 183"
+      }
+    ]
+  },
+  {
+    "para_id": "21.857",
+    "id_prev": "21.856",
+    "id_next": "21.858",
+    "refcode_1": "CSW",
+    "refcode_2": "183",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 183.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 183.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Sabbath school at&mdash;&mdash;was made the one great theme of interest with Brother E. It absorbed the minds of the young, while other religious duties were neglected. Frequently, after the Sabbath school was closed, the superintendent, a number of teachers, and quite a number of scholars, would return home to rest. They felt that their burden for the day was ended, and that they had no further duty. When the bell sounded forth the hour for public service, and the people left their homes for the house of worship, they would meet a large portion of the school passing to their homes. And, however important the meeting, the interest of a large share of the Sabbath school could not be awakened to take any pleasure in the instruction given by the minister upon important Bible subjects. While many of the children did not attend public service, some that remained were not advantaged by the word spoken, for they felt that it was a wearisome tax.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 7.1\" data-link=\"121.17\"><em>Testimonies on Sabbath-School Work</em>, 7</span>.",
+    "puborder": 541,
+    "translations": [
+      {
+        "para_id": "11629.838",
+        "lang": "da",
+        "refcode": "RSSA 183.1"
+      },
+      {
+        "para_id": "799.801",
+        "lang": "de",
+        "refcode": "RSs 148.1"
+      },
+      {
+        "para_id": "1711.919",
+        "lang": "es",
+        "refcode": "COES 205.1"
+      },
+      {
+        "para_id": "1917.1010",
+        "lang": "pt",
+        "refcode": "CES38 97.1"
+      },
+      {
+        "para_id": "1724.900",
+        "lang": "pt",
+        "refcode": "CES 183.1"
+      },
+      {
+        "para_id": "2719.876",
+        "lang": "ro",
+        "refcode": "SSS 183.1"
+      },
+      {
+        "para_id": "1873.851",
+        "lang": "ru",
+        "refcode": "ССШ 183.1"
+      }
+    ]
+  }
+]

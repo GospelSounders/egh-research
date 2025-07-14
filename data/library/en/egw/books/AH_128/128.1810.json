@@ -1,0 +1,1722 @@
+[
+  {
+    "para_id": "128.1810",
+    "id_prev": "128.1808",
+    "id_next": "128.1811",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "",
+    "refcode_4": "64",
+    "refcode_short": "AH 391",
+    "refcode_long": "The Adventist Home, p. 391 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 64&mdash;Business Integrity",
+    "puborder": 1201,
+    "translations": [
+      {
+        "para_id": "13839.1472",
+        "lang": "bg",
+        "refcode": "ХД 167"
+      },
+      {
+        "para_id": "177.1834",
+        "lang": "es",
+        "refcode": "HC 356"
+      },
+      {
+        "para_id": "193.1787",
+        "lang": "fr",
+        "refcode": "FC 377"
+      },
+      {
+        "para_id": "12869.2239",
+        "lang": "id",
+        "refcode": "MKB 373"
+      },
+      {
+        "para_id": "891.1186",
+        "lang": "it",
+        "refcode": "FC 159"
+      },
+      {
+        "para_id": "12178.1546",
+        "lang": "pl",
+        "refcode": "ChD 247"
+      },
+      {
+        "para_id": "1955.2321",
+        "lang": "pt",
+        "refcode": "LA 391"
+      },
+      {
+        "para_id": "2026.1804",
+        "lang": "ro",
+        "refcode": "CA 391"
+      },
+      {
+        "para_id": "1803.1753",
+        "lang": "ru",
+        "refcode": "ХД 391"
+      },
+      {
+        "para_id": "12131.1639",
+        "lang": "uk",
+        "refcode": "ХР 315"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1811",
+    "id_prev": "128.1810",
+    "id_next": "128.1812",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 391.1",
+    "refcode_long": "The Adventist Home, p. 391.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Bible a Source Book of Business Principles</strong>&mdash;There is no branch of legitimate business for which the Bible does not afford an essential preparation. Its principles of diligence, honesty, thrift, temperance, and purity are the secret of true success. These principles, as set forth in the Book of Proverbs, constitute a treasury of practical wisdom. Where can the merchant, the artisan, the director of men in any department of business, find better maxims for himself or for his employees than are found in these words of the wise man:",
+    "puborder": 1202,
+    "translations": [
+      {
+        "para_id": "13839.1473",
+        "lang": "bg",
+        "refcode": "ХД 167.4"
+      },
+      {
+        "para_id": "177.1835",
+        "lang": "es",
+        "refcode": "HC 356.1"
+      },
+      {
+        "para_id": "193.1788",
+        "lang": "fr",
+        "refcode": "FC 377.1"
+      },
+      {
+        "para_id": "12869.2241",
+        "lang": "id",
+        "refcode": "MKB 373.1"
+      },
+      {
+        "para_id": "891.1188",
+        "lang": "it",
+        "refcode": "FC 159.2"
+      },
+      {
+        "para_id": "891.1187",
+        "lang": "it",
+        "refcode": "FC 159"
+      },
+      {
+        "para_id": "12178.1547",
+        "lang": "pl",
+        "refcode": "ChD 247.3"
+      },
+      {
+        "para_id": "1955.2322",
+        "lang": "pt",
+        "refcode": "LA 391"
+      },
+      {
+        "para_id": "1955.2323",
+        "lang": "pt",
+        "refcode": "LA 391.1"
+      },
+      {
+        "para_id": "2026.1805",
+        "lang": "ro",
+        "refcode": "CA 391.1"
+      },
+      {
+        "para_id": "1803.1754",
+        "lang": "ru",
+        "refcode": "ХД 391.1"
+      },
+      {
+        "para_id": "12131.1640",
+        "lang": "uk",
+        "refcode": "ХР 315.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1812",
+    "id_prev": "128.1811",
+    "id_next": "128.1813",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 391.2",
+    "refcode_long": "The Adventist Home, p. 391.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Seest thou a man diligent in his business? He shall stand before kings; he shall not stand before mean men.&rdquo;",
+    "puborder": 1203,
+    "translations": [
+      {
+        "para_id": "13839.1475",
+        "lang": "bg",
+        "refcode": "ХД 168.1"
+      },
+      {
+        "para_id": "177.1836",
+        "lang": "es",
+        "refcode": "HC 356.2"
+      },
+      {
+        "para_id": "193.1789",
+        "lang": "fr",
+        "refcode": "FC 377.2"
+      },
+      {
+        "para_id": "12869.2241",
+        "lang": "id",
+        "refcode": "MKB 373.1"
+      },
+      {
+        "para_id": "891.1188",
+        "lang": "it",
+        "refcode": "FC 159.2"
+      },
+      {
+        "para_id": "12178.1550",
+        "lang": "pl",
+        "refcode": "ChD 248.1"
+      },
+      {
+        "para_id": "1955.2324",
+        "lang": "pt",
+        "refcode": "LA 391.2"
+      },
+      {
+        "para_id": "2026.1805",
+        "lang": "ro",
+        "refcode": "CA 391.1"
+      },
+      {
+        "para_id": "1803.1755",
+        "lang": "ru",
+        "refcode": "ХД 391.2"
+      },
+      {
+        "para_id": "12131.1640",
+        "lang": "uk",
+        "refcode": "ХР 315.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1813",
+    "id_prev": "128.1812",
+    "id_next": "128.1814",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 391.3",
+    "refcode_long": "The Adventist Home, p. 391.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;In all labour there is profit: but the talk of the lips tendeth only to penury.&rdquo;",
+    "puborder": 1204,
+    "translations": [
+      {
+        "para_id": "13839.1476",
+        "lang": "bg",
+        "refcode": "ХД 168.2"
+      },
+      {
+        "para_id": "177.1837",
+        "lang": "es",
+        "refcode": "HC 356.3"
+      },
+      {
+        "para_id": "193.1790",
+        "lang": "fr",
+        "refcode": "FC 377.3"
+      },
+      {
+        "para_id": "12869.2243",
+        "lang": "id",
+        "refcode": "MKB 373.2"
+      },
+      {
+        "para_id": "891.1188",
+        "lang": "it",
+        "refcode": "FC 159.2"
+      },
+      {
+        "para_id": "12178.1551",
+        "lang": "pl",
+        "refcode": "ChD 248.2"
+      },
+      {
+        "para_id": "1955.2325",
+        "lang": "pt",
+        "refcode": "LA 391.3"
+      },
+      {
+        "para_id": "2026.1806",
+        "lang": "ro",
+        "refcode": "CA 391.3"
+      },
+      {
+        "para_id": "1803.1756",
+        "lang": "ru",
+        "refcode": "ХД 391.3"
+      },
+      {
+        "para_id": "12131.1640",
+        "lang": "uk",
+        "refcode": "ХР 315.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1814",
+    "id_prev": "128.1813",
+    "id_next": "128.1815",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 391.4",
+    "refcode_long": "The Adventist Home, p. 391.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;The soul of the sluggard desireth, and hath nothing.&rdquo;",
+    "puborder": 1205,
+    "translations": [
+      {
+        "para_id": "13839.1477",
+        "lang": "bg",
+        "refcode": "ХД 168.3"
+      },
+      {
+        "para_id": "177.1838",
+        "lang": "es",
+        "refcode": "HC 356.4"
+      },
+      {
+        "para_id": "193.1791",
+        "lang": "fr",
+        "refcode": "FC 377.4"
+      },
+      {
+        "para_id": "12869.2246",
+        "lang": "id",
+        "refcode": "MKB 374.1"
+      },
+      {
+        "para_id": "891.1188",
+        "lang": "it",
+        "refcode": "FC 159.2"
+      },
+      {
+        "para_id": "12178.1552",
+        "lang": "pl",
+        "refcode": "ChD 248.3"
+      },
+      {
+        "para_id": "1955.2326",
+        "lang": "pt",
+        "refcode": "LA 391.4"
+      },
+      {
+        "para_id": "2026.1807",
+        "lang": "ro",
+        "refcode": "CA 391.4"
+      },
+      {
+        "para_id": "1803.1757",
+        "lang": "ru",
+        "refcode": "ХД 391.4"
+      },
+      {
+        "para_id": "12131.1640",
+        "lang": "uk",
+        "refcode": "ХР 315.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1815",
+    "id_prev": "128.1814",
+    "id_next": "128.1816",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 391.5",
+    "refcode_long": "The Adventist Home, p. 391.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;The drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.&rdquo; ...",
+    "puborder": 1206,
+    "translations": [
+      {
+        "para_id": "13839.1478",
+        "lang": "bg",
+        "refcode": "ХД 168.4"
+      },
+      {
+        "para_id": "177.1838",
+        "lang": "es",
+        "refcode": "HC 356.4"
+      },
+      {
+        "para_id": "193.1791",
+        "lang": "fr",
+        "refcode": "FC 377.4"
+      },
+      {
+        "para_id": "12869.2247",
+        "lang": "id",
+        "refcode": "MKB 374.2"
+      },
+      {
+        "para_id": "891.1188",
+        "lang": "it",
+        "refcode": "FC 159.2"
+      },
+      {
+        "para_id": "12178.1553",
+        "lang": "pl",
+        "refcode": "ChD 248.4"
+      },
+      {
+        "para_id": "1955.2327",
+        "lang": "pt",
+        "refcode": "LA 391.5"
+      },
+      {
+        "para_id": "2026.1808",
+        "lang": "ro",
+        "refcode": "CA 391.5"
+      },
+      {
+        "para_id": "1803.1758",
+        "lang": "ru",
+        "refcode": "ХД 391.5"
+      },
+      {
+        "para_id": "12131.1640",
+        "lang": "uk",
+        "refcode": "ХР 315.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1816",
+    "id_prev": "128.1815",
+    "id_next": "128.1817",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "6",
+    "refcode_4": "",
+    "refcode_short": "AH 391.6",
+    "refcode_long": "The Adventist Home, p. 391.6 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "How many a man might have escaped financial failure and ruin by heeding the warnings so often repeated and emphasized in the Scriptures:",
+    "puborder": 1207,
+    "translations": [
+      {
+        "para_id": "13839.1479",
+        "lang": "bg",
+        "refcode": "ХД 168.5"
+      },
+      {
+        "para_id": "177.1839",
+        "lang": "es",
+        "refcode": "HC 356.5"
+      },
+      {
+        "para_id": "193.1792",
+        "lang": "fr",
+        "refcode": "FC 377.5"
+      },
+      {
+        "para_id": "12869.2248",
+        "lang": "id",
+        "refcode": "MKB 374.3"
+      },
+      {
+        "para_id": "891.1189",
+        "lang": "it",
+        "refcode": "FC 159.3"
+      },
+      {
+        "para_id": "12178.1554",
+        "lang": "pl",
+        "refcode": "ChD 248.5"
+      },
+      {
+        "para_id": "1955.2328",
+        "lang": "pt",
+        "refcode": "LA 391.6"
+      },
+      {
+        "para_id": "2026.1809",
+        "lang": "ro",
+        "refcode": "CA 391.6"
+      },
+      {
+        "para_id": "1803.1759",
+        "lang": "ru",
+        "refcode": "ХД 391.6"
+      },
+      {
+        "para_id": "12131.1640",
+        "lang": "uk",
+        "refcode": "ХР 315.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1817",
+    "id_prev": "128.1816",
+    "id_next": "128.1818",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "7",
+    "refcode_4": "",
+    "refcode_short": "AH 391.7",
+    "refcode_long": "The Adventist Home, p. 391.7 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;He that maketh haste to be rich shall not be innocent.&rdquo;",
+    "puborder": 1208,
+    "translations": [
+      {
+        "para_id": "13839.1480",
+        "lang": "bg",
+        "refcode": "ХД 168.6"
+      },
+      {
+        "para_id": "177.1840",
+        "lang": "es",
+        "refcode": "HC 356.6"
+      },
+      {
+        "para_id": "193.1793",
+        "lang": "fr",
+        "refcode": "FC 377.6"
+      },
+      {
+        "para_id": "12869.2249",
+        "lang": "id",
+        "refcode": "MKB 374.4"
+      },
+      {
+        "para_id": "891.1189",
+        "lang": "it",
+        "refcode": "FC 159.3"
+      },
+      {
+        "para_id": "12178.1555",
+        "lang": "pl",
+        "refcode": "ChD 248.6"
+      },
+      {
+        "para_id": "1955.2329",
+        "lang": "pt",
+        "refcode": "LA 391.7"
+      },
+      {
+        "para_id": "2026.1810",
+        "lang": "ro",
+        "refcode": "CA 391.7"
+      },
+      {
+        "para_id": "1803.1760",
+        "lang": "ru",
+        "refcode": "ХД 391.7"
+      },
+      {
+        "para_id": "12131.1640",
+        "lang": "uk",
+        "refcode": "ХР 315.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1818",
+    "id_prev": "128.1817",
+    "id_next": "128.1819",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "8",
+    "refcode_4": "",
+    "refcode_short": "AH 391.8",
+    "refcode_long": "The Adventist Home, p. 391.8 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Wealth gotten in haste shall be diminished; but he that gathereth by labor shall have increase.&rdquo;",
+    "puborder": 1209,
+    "translations": [
+      {
+        "para_id": "13839.1481",
+        "lang": "bg",
+        "refcode": "ХД 168.7"
+      },
+      {
+        "para_id": "177.1841",
+        "lang": "es",
+        "refcode": "HC 356.7"
+      },
+      {
+        "para_id": "193.1794",
+        "lang": "fr",
+        "refcode": "FC 377.7"
+      },
+      {
+        "para_id": "12869.2250",
+        "lang": "id",
+        "refcode": "MKB 374.5"
+      },
+      {
+        "para_id": "891.1190",
+        "lang": "it",
+        "refcode": "FC 159.4"
+      },
+      {
+        "para_id": "12178.1556",
+        "lang": "pl",
+        "refcode": "ChD 248.7"
+      },
+      {
+        "para_id": "1955.2330",
+        "lang": "pt",
+        "refcode": "LA 391.8"
+      },
+      {
+        "para_id": "2026.1811",
+        "lang": "ro",
+        "refcode": "CA 391.8"
+      },
+      {
+        "para_id": "1803.1761",
+        "lang": "ru",
+        "refcode": "ХД 391.8"
+      },
+      {
+        "para_id": "12131.1640",
+        "lang": "uk",
+        "refcode": "ХР 315.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1819",
+    "id_prev": "128.1818",
+    "id_next": "128.1820",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "9",
+    "refcode_4": "",
+    "refcode_short": "AH 391.9",
+    "refcode_long": "The Adventist Home, p. 391.9 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death.&rdquo;",
+    "puborder": 1210,
+    "translations": [
+      {
+        "para_id": "13839.1482",
+        "lang": "bg",
+        "refcode": "ХД 168.8"
+      },
+      {
+        "para_id": "177.1842",
+        "lang": "es",
+        "refcode": "HC 356.8"
+      },
+      {
+        "para_id": "193.1795",
+        "lang": "fr",
+        "refcode": "FC 377.8"
+      },
+      {
+        "para_id": "12869.2251",
+        "lang": "id",
+        "refcode": "MKB 374.6"
+      },
+      {
+        "para_id": "891.1191",
+        "lang": "it",
+        "refcode": "FC 159.5"
+      },
+      {
+        "para_id": "12178.1557",
+        "lang": "pl",
+        "refcode": "ChD 248.8"
+      },
+      {
+        "para_id": "1955.2331",
+        "lang": "pt",
+        "refcode": "LA 391.9"
+      },
+      {
+        "para_id": "2026.1812",
+        "lang": "ro",
+        "refcode": "CA 391.9"
+      },
+      {
+        "para_id": "1803.1762",
+        "lang": "ru",
+        "refcode": "ХД 391.9"
+      },
+      {
+        "para_id": "12131.1640",
+        "lang": "uk",
+        "refcode": "ХР 315.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1820",
+    "id_prev": "128.1819",
+    "id_next": "128.1821",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "10",
+    "refcode_4": "",
+    "refcode_short": "AH 391.10",
+    "refcode_long": "The Adventist Home, p. 391.10 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;The borrower is servant to the lender.&rdquo;",
+    "puborder": 1211,
+    "translations": [
+      {
+        "para_id": "13839.1483",
+        "lang": "bg",
+        "refcode": "ХД 168.9"
+      },
+      {
+        "para_id": "177.1843",
+        "lang": "es",
+        "refcode": "HC 356.9"
+      },
+      {
+        "para_id": "193.1796",
+        "lang": "fr",
+        "refcode": "FC 377.9"
+      },
+      {
+        "para_id": "12869.2252",
+        "lang": "id",
+        "refcode": "MKB 374.7"
+      },
+      {
+        "para_id": "891.1192",
+        "lang": "it",
+        "refcode": "FC 159.6"
+      },
+      {
+        "para_id": "12178.1558",
+        "lang": "pl",
+        "refcode": "ChD 248.9"
+      },
+      {
+        "para_id": "1955.2332",
+        "lang": "pt",
+        "refcode": "LA 391.10"
+      },
+      {
+        "para_id": "2026.1813",
+        "lang": "ro",
+        "refcode": "CA 391.10"
+      },
+      {
+        "para_id": "1803.1763",
+        "lang": "ru",
+        "refcode": "ХД 391.10"
+      },
+      {
+        "para_id": "12131.1640",
+        "lang": "uk",
+        "refcode": "ХР 315.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1821",
+    "id_prev": "128.1820",
+    "id_next": "128.1823",
+    "refcode_1": "AH",
+    "refcode_2": "391",
+    "refcode_3": "11",
+    "refcode_4": "",
+    "refcode_short": "AH 391.11",
+    "refcode_long": "The Adventist Home, p. 391.11 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ed 135.1\" data-link=\"29.651\">Education, 135, 136</span>.</span></a></sup>",
+    "puborder": 1212,
+    "translations": [
+      {
+        "para_id": "13839.1484",
+        "lang": "bg",
+        "refcode": "ХД 168.10"
+      },
+      {
+        "para_id": "177.1845",
+        "lang": "es",
+        "refcode": "HC 357.1"
+      },
+      {
+        "para_id": "193.1797",
+        "lang": "fr",
+        "refcode": "FC 377.10"
+      },
+      {
+        "para_id": "12869.2253",
+        "lang": "id",
+        "refcode": "MKB 374.8"
+      },
+      {
+        "para_id": "891.1193",
+        "lang": "it",
+        "refcode": "FC 159.7"
+      },
+      {
+        "para_id": "12178.1559",
+        "lang": "pl",
+        "refcode": "ChD 248.10"
+      },
+      {
+        "para_id": "1955.2333",
+        "lang": "pt",
+        "refcode": "LA 391.11"
+      },
+      {
+        "para_id": "2026.1814",
+        "lang": "ro",
+        "refcode": "CA 391.11"
+      },
+      {
+        "para_id": "1803.1764",
+        "lang": "ru",
+        "refcode": "ХД 391.11"
+      },
+      {
+        "para_id": "12131.1640",
+        "lang": "uk",
+        "refcode": "ХР 315.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1823",
+    "id_prev": "128.1821",
+    "id_next": "128.1824",
+    "refcode_1": "AH",
+    "refcode_2": "392",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 392.1",
+    "refcode_long": "The Adventist Home, p. 392.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The eighth commandment condemns ... theft and robbery. It demands strict integrity in the minutest details of the affairs of life. It forbids overreaching in trade and requires the payment of just debts or wages.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 309.1\" data-link=\"84.1369\">Patriarchs and Prophets, 309</span>.</span></a></sup>",
+    "puborder": 1213,
+    "translations": [
+      {
+        "para_id": "13839.1485",
+        "lang": "bg",
+        "refcode": "ХД 168.11"
+      },
+      {
+        "para_id": "177.1846",
+        "lang": "es",
+        "refcode": "HC 357.2"
+      },
+      {
+        "para_id": "193.1798",
+        "lang": "fr",
+        "refcode": "FC 377.11"
+      },
+      {
+        "para_id": "12869.2254",
+        "lang": "id",
+        "refcode": "MKB 374.9"
+      },
+      {
+        "para_id": "891.1194",
+        "lang": "it",
+        "refcode": "FC 159.8"
+      },
+      {
+        "para_id": "12178.1560",
+        "lang": "pl",
+        "refcode": "ChD 248.11"
+      },
+      {
+        "para_id": "1955.2335",
+        "lang": "pt",
+        "refcode": "LA 392.1"
+      },
+      {
+        "para_id": "2026.1816",
+        "lang": "ro",
+        "refcode": "CA 392.1"
+      },
+      {
+        "para_id": "1803.1766",
+        "lang": "ru",
+        "refcode": "ХД 392.1"
+      },
+      {
+        "para_id": "12131.1641",
+        "lang": "uk",
+        "refcode": "ХР 315.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1824",
+    "id_prev": "128.1823",
+    "id_next": "128.1825",
+    "refcode_1": "AH",
+    "refcode_2": "392",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 392.2",
+    "refcode_long": "The Adventist Home, p. 392.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Mind and Character Degraded by Dishonesty</strong>&mdash;He [one who utters falsehood or practices deception] loses his own self-respect. He may not be conscious that God sees him and is acquainted with every business transaction, that holy angels are weighing his motives and listening to his words, and that his reward will be according to his works; but if it were possible to conceal his wrongdoing from human and divine inspection, the fact that he himself knows it is degrading to his mind and character. One act does not determine the character, but it breaks down the barrier, and the next temptation is more readily entertained, until finally a habit of prevarication and dishonesty in business is formed, and the man cannot be trusted.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 396.1\" data-link=\"113.1977\">Testimonies for the Church 5:396</span>.</span></a></sup>",
+    "puborder": 1214,
+    "translations": [
+      {
+        "para_id": "13839.1486",
+        "lang": "bg",
+        "refcode": "ХД 168.12"
+      },
+      {
+        "para_id": "177.1847",
+        "lang": "es",
+        "refcode": "HC 357.3"
+      },
+      {
+        "para_id": "193.1801",
+        "lang": "fr",
+        "refcode": "FC 378.1"
+      },
+      {
+        "para_id": "12869.2256",
+        "lang": "id",
+        "refcode": "MKB 374.10"
+      },
+      {
+        "para_id": "891.1197",
+        "lang": "it",
+        "refcode": "FC 160"
+      },
+      {
+        "para_id": "891.1198",
+        "lang": "it",
+        "refcode": "FC 160.1"
+      },
+      {
+        "para_id": "12178.1561",
+        "lang": "pl",
+        "refcode": "ChD 248.12"
+      },
+      {
+        "para_id": "1955.2337",
+        "lang": "pt",
+        "refcode": "LA 392.2"
+      },
+      {
+        "para_id": "1955.2336",
+        "lang": "pt",
+        "refcode": "LA 392"
+      },
+      {
+        "para_id": "2026.1817",
+        "lang": "ro",
+        "refcode": "CA 392.2"
+      },
+      {
+        "para_id": "1803.1767",
+        "lang": "ru",
+        "refcode": "ХД 392.2"
+      },
+      {
+        "para_id": "12131.1642",
+        "lang": "uk",
+        "refcode": "ХР 315.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1825",
+    "id_prev": "128.1824",
+    "id_next": "128.1826",
+    "refcode_1": "AH",
+    "refcode_2": "392",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 392.3",
+    "refcode_long": "The Adventist Home, p. 392.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As we deal with our fellow men in petty dishonesty or in more daring fraud, so will we deal with God. Men who persist in a course of dishonesty will carry out their principles until they cheat their own souls and lose heaven and eternal life. They will sacrifice honor and religion for a small worldly advantage.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 9-18-1888\" data-link=\"821.9175\">The Review and Herald, September 18, 1888</span>.</span></a></sup>",
+    "puborder": 1215,
+    "translations": [
+      {
+        "para_id": "13839.1487",
+        "lang": "bg",
+        "refcode": "ХД 168.13"
+      },
+      {
+        "para_id": "177.1848",
+        "lang": "es",
+        "refcode": "HC 357.4"
+      },
+      {
+        "para_id": "193.1802",
+        "lang": "fr",
+        "refcode": "FC 378.2"
+      },
+      {
+        "para_id": "12869.2257",
+        "lang": "id",
+        "refcode": "MKB 374.11"
+      },
+      {
+        "para_id": "891.1199",
+        "lang": "it",
+        "refcode": "FC 160.2"
+      },
+      {
+        "para_id": "12178.1564",
+        "lang": "pl",
+        "refcode": "ChD 249.1"
+      },
+      {
+        "para_id": "1955.2338",
+        "lang": "pt",
+        "refcode": "LA 392.3"
+      },
+      {
+        "para_id": "2026.1818",
+        "lang": "ro",
+        "refcode": "CA 392.3"
+      },
+      {
+        "para_id": "1803.1768",
+        "lang": "ru",
+        "refcode": "ХД 392.3"
+      },
+      {
+        "para_id": "12131.1645",
+        "lang": "uk",
+        "refcode": "ХР 316.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1826",
+    "id_prev": "128.1825",
+    "id_next": "128.1827",
+    "refcode_1": "AH",
+    "refcode_2": "392",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 392.4",
+    "refcode_long": "The Adventist Home, p. 392.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Shun Debt</strong>&mdash;Many poor families are poor because they spend their money as soon as they receive it.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CS 269.1\" data-link=\"22.1569\">Counsels on Stewardship, 269</span>.</span></a></sup>",
+    "puborder": 1216,
+    "translations": [
+      {
+        "para_id": "13839.1488",
+        "lang": "bg",
+        "refcode": "ХД 168.14"
+      },
+      {
+        "para_id": "177.1849",
+        "lang": "es",
+        "refcode": "HC 357.5"
+      },
+      {
+        "para_id": "193.1803",
+        "lang": "fr",
+        "refcode": "FC 378.3"
+      },
+      {
+        "para_id": "12869.2261",
+        "lang": "id",
+        "refcode": "MKB 375.1"
+      },
+      {
+        "para_id": "891.1201",
+        "lang": "it",
+        "refcode": "FC 160.3"
+      },
+      {
+        "para_id": "891.1200",
+        "lang": "it",
+        "refcode": "FC 160"
+      },
+      {
+        "para_id": "12178.1565",
+        "lang": "pl",
+        "refcode": "ChD 249.2"
+      },
+      {
+        "para_id": "1955.2339",
+        "lang": "pt",
+        "refcode": "LA 392"
+      },
+      {
+        "para_id": "1955.2340",
+        "lang": "pt",
+        "refcode": "LA 392.4"
+      },
+      {
+        "para_id": "2026.1819",
+        "lang": "ro",
+        "refcode": "CA 392.4"
+      },
+      {
+        "para_id": "1803.1769",
+        "lang": "ru",
+        "refcode": "ХД 392.4"
+      },
+      {
+        "para_id": "12131.1646",
+        "lang": "uk",
+        "refcode": "ХР 316.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1827",
+    "id_prev": "128.1826",
+    "id_next": "128.1828",
+    "refcode_1": "AH",
+    "refcode_2": "392",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 392.5",
+    "refcode_long": "The Adventist Home, p. 392.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "You must see that one should not manage his affairs in a way that will incur debt.... When one becomes involved in debt, he is in one of Satan&apos;s nets, which he sets for souls....",
+    "puborder": 1217,
+    "translations": [
+      {
+        "para_id": "13839.1489",
+        "lang": "bg",
+        "refcode": "ХД 168.15"
+      },
+      {
+        "para_id": "177.1850",
+        "lang": "es",
+        "refcode": "HC 357.6"
+      },
+      {
+        "para_id": "193.1804",
+        "lang": "fr",
+        "refcode": "FC 378.4"
+      },
+      {
+        "para_id": "12869.2262",
+        "lang": "id",
+        "refcode": "MKB 375.2"
+      },
+      {
+        "para_id": "891.1202",
+        "lang": "it",
+        "refcode": "FC 160.4"
+      },
+      {
+        "para_id": "12178.1566",
+        "lang": "pl",
+        "refcode": "ChD 249.3"
+      },
+      {
+        "para_id": "1955.2341",
+        "lang": "pt",
+        "refcode": "LA 392.5"
+      },
+      {
+        "para_id": "2026.1820",
+        "lang": "ro",
+        "refcode": "CA 392.5"
+      },
+      {
+        "para_id": "1803.1770",
+        "lang": "ru",
+        "refcode": "ХД 392.5"
+      },
+      {
+        "para_id": "12131.1647",
+        "lang": "uk",
+        "refcode": "ХР 316.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1828",
+    "id_prev": "128.1827",
+    "id_next": "128.1830",
+    "refcode_1": "AH",
+    "refcode_2": "392",
+    "refcode_3": "6",
+    "refcode_4": "",
+    "refcode_short": "AH 392.6",
+    "refcode_long": "The Adventist Home, p. 392.6 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Abstracting and using money for any purpose, before it is earned, is a snare.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 63, 1897\" data-link=\"14062.6473001\">Letter 63, 1897</span>.</span></a></sup>",
+    "puborder": 1218,
+    "translations": [
+      {
+        "para_id": "13839.1490",
+        "lang": "bg",
+        "refcode": "ХД 168.16"
+      },
+      {
+        "para_id": "177.1851",
+        "lang": "es",
+        "refcode": "HC 357.7"
+      },
+      {
+        "para_id": "193.1805",
+        "lang": "fr",
+        "refcode": "FC 378.5"
+      },
+      {
+        "para_id": "12869.2263",
+        "lang": "id",
+        "refcode": "MKB 375.3"
+      },
+      {
+        "para_id": "891.1202",
+        "lang": "it",
+        "refcode": "FC 160.4"
+      },
+      {
+        "para_id": "12178.1567",
+        "lang": "pl",
+        "refcode": "ChD 249.4"
+      },
+      {
+        "para_id": "1955.2342",
+        "lang": "pt",
+        "refcode": "LA 392.6"
+      },
+      {
+        "para_id": "2026.1821",
+        "lang": "ro",
+        "refcode": "CA 392.6"
+      },
+      {
+        "para_id": "1803.1771",
+        "lang": "ru",
+        "refcode": "ХД 392.6"
+      },
+      {
+        "para_id": "12131.1648",
+        "lang": "uk",
+        "refcode": "ХР 316.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1830",
+    "id_prev": "128.1828",
+    "id_next": "128.1831",
+    "refcode_1": "AH",
+    "refcode_2": "393",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 393.1",
+    "refcode_long": "The Adventist Home, p. 393.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Words to One Who Lived Beyond His Income</strong>&mdash;You ought not to allow yourself to become financially embarrassed, for the fact that you are in debt weakens your faith and tends to discourage you; and even the thought of it makes you nearly wild. You need to cut down your expenses and strive to supply this deficiency in your character. You can and should make determined efforts to bring under control your disposition to spend means beyond your income.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 48, 1888\" data-link=\"14055.4475001\">Letter 48, 1888</span>.</span></a></sup>",
+    "puborder": 1219,
+    "translations": [
+      {
+        "para_id": "13839.1491",
+        "lang": "bg",
+        "refcode": "ХД 168.17"
+      },
+      {
+        "para_id": "177.1852",
+        "lang": "es",
+        "refcode": "HC 357.8"
+      },
+      {
+        "para_id": "193.1806",
+        "lang": "fr",
+        "refcode": "FC 378.6"
+      },
+      {
+        "para_id": "12869.2265",
+        "lang": "id",
+        "refcode": "MKB 375.4"
+      },
+      {
+        "para_id": "12178.1568",
+        "lang": "pl",
+        "refcode": "ChD 249.5"
+      },
+      {
+        "para_id": "1955.2345",
+        "lang": "pt",
+        "refcode": "LA 393.1"
+      },
+      {
+        "para_id": "1955.2344",
+        "lang": "pt",
+        "refcode": "LA 393"
+      },
+      {
+        "para_id": "2026.1823",
+        "lang": "ro",
+        "refcode": "CA 393.1"
+      },
+      {
+        "para_id": "1803.1773",
+        "lang": "ru",
+        "refcode": "ХД 393.1"
+      },
+      {
+        "para_id": "12131.1649",
+        "lang": "uk",
+        "refcode": "ХР 316.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1831",
+    "id_prev": "128.1830",
+    "id_next": "128.1832",
+    "refcode_1": "AH",
+    "refcode_2": "393",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 393.2",
+    "refcode_long": "The Adventist Home, p. 393.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Cause of God May Be Reproached</strong>&mdash;The world has a right to expect strict integrity in those who profess to be Bible Christians. By one man&apos;s indifference in regard to paying his just dues all our people are in danger of being regarded as unreliable.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 179.1\" data-link=\"113.903\">Testimonies for the Church 5:179</span>.</span></a></sup>",
+    "puborder": 1220,
+    "translations": [
+      {
+        "para_id": "13839.1494",
+        "lang": "bg",
+        "refcode": "ХД 169.1"
+      },
+      {
+        "para_id": "177.1855",
+        "lang": "es",
+        "refcode": "HC 358.1"
+      },
+      {
+        "para_id": "193.1809",
+        "lang": "fr",
+        "refcode": "FC 379.1"
+      },
+      {
+        "para_id": "12869.2267",
+        "lang": "id",
+        "refcode": "MKB 375.5"
+      },
+      {
+        "para_id": "12178.1569",
+        "lang": "pl",
+        "refcode": "ChD 249.6"
+      },
+      {
+        "para_id": "1955.2347",
+        "lang": "pt",
+        "refcode": "LA 393.2"
+      },
+      {
+        "para_id": "1955.2346",
+        "lang": "pt",
+        "refcode": "LA 393"
+      },
+      {
+        "para_id": "2026.1824",
+        "lang": "ro",
+        "refcode": "CA 393.2"
+      },
+      {
+        "para_id": "1803.1774",
+        "lang": "ru",
+        "refcode": "ХД 393.2"
+      },
+      {
+        "para_id": "12131.1650",
+        "lang": "uk",
+        "refcode": "ХР 316.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1832",
+    "id_prev": "128.1831",
+    "id_next": "128.1833",
+    "refcode_1": "AH",
+    "refcode_2": "393",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 393.3",
+    "refcode_long": "The Adventist Home, p. 393.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those who make any pretensions to godliness should adorn the doctrine they profess, and not give occasion for the truth to be reviled through their inconsiderate course of action. &ldquo;Owe no man any thing,&rdquo; says the apostle.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 181.4\" data-link=\"113.913\">Ibid., 5:181, 182</span>.</span></a></sup>",
+    "puborder": 1221,
+    "translations": [
+      {
+        "para_id": "13839.1495",
+        "lang": "bg",
+        "refcode": "ХД 169.2"
+      },
+      {
+        "para_id": "177.1856",
+        "lang": "es",
+        "refcode": "HC 358.2"
+      },
+      {
+        "para_id": "193.1810",
+        "lang": "fr",
+        "refcode": "FC 379.2"
+      },
+      {
+        "para_id": "12869.2268",
+        "lang": "id",
+        "refcode": "MKB 375.6"
+      },
+      {
+        "para_id": "12178.1570",
+        "lang": "pl",
+        "refcode": "ChD 249.7"
+      },
+      {
+        "para_id": "1955.2348",
+        "lang": "pt",
+        "refcode": "LA 393.3"
+      },
+      {
+        "para_id": "2026.1825",
+        "lang": "ro",
+        "refcode": "CA 393.3"
+      },
+      {
+        "para_id": "1803.1775",
+        "lang": "ru",
+        "refcode": "ХД 393.3"
+      },
+      {
+        "para_id": "12131.1651",
+        "lang": "uk",
+        "refcode": "ХР 316.7"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1833",
+    "id_prev": "128.1832",
+    "id_next": "128.1834",
+    "refcode_1": "AH",
+    "refcode_2": "393",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 393.4",
+    "refcode_long": "The Adventist Home, p. 393.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Counsel to One in Debt</strong>&mdash;Be determined never to incur another debt. Deny yourself a thousand things rather than run in debt. This has been the curse of your life, getting into debt. Avoid it as you would the smallpox.",
+    "puborder": 1222,
+    "translations": [
+      {
+        "para_id": "13839.1496",
+        "lang": "bg",
+        "refcode": "ХД 169.3"
+      },
+      {
+        "para_id": "177.1857",
+        "lang": "es",
+        "refcode": "HC 358.3"
+      },
+      {
+        "para_id": "193.1811",
+        "lang": "fr",
+        "refcode": "FC 379.3"
+      },
+      {
+        "para_id": "12869.2270",
+        "lang": "id",
+        "refcode": "MKB 375.7"
+      },
+      {
+        "para_id": "891.1204",
+        "lang": "it",
+        "refcode": "FC 160.5"
+      },
+      {
+        "para_id": "891.1203",
+        "lang": "it",
+        "refcode": "FC 160"
+      },
+      {
+        "para_id": "12178.1571",
+        "lang": "pl",
+        "refcode": "ChD 249.8"
+      },
+      {
+        "para_id": "1955.2350",
+        "lang": "pt",
+        "refcode": "LA 393.4"
+      },
+      {
+        "para_id": "1955.2349",
+        "lang": "pt",
+        "refcode": "LA 393"
+      },
+      {
+        "para_id": "2026.1826",
+        "lang": "ro",
+        "refcode": "CA 393.4"
+      },
+      {
+        "para_id": "1803.1776",
+        "lang": "ru",
+        "refcode": "ХД 393.4"
+      },
+      {
+        "para_id": "12131.1652",
+        "lang": "uk",
+        "refcode": "ХР 316.8"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1834",
+    "id_prev": "128.1833",
+    "id_next": "128.1837",
+    "refcode_1": "AH",
+    "refcode_2": "393",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 393.5",
+    "refcode_long": "The Adventist Home, p. 393.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Make a solemn covenant with God that by His blessing you will pay your debts and then owe no man anything if you live on porridge and bread. It is so easy in preparing your table to throw out of your pocket twenty-five cents for extras. Take care of the pennies, and the dollars will take care of themselves. It is the mites here and the mites there that are spent for this, that, and the other that soon run up into dollars. Deny self at least while you are walled in with debts.... Do not falter, be discouraged, or turn back. Deny your taste, deny the <span class=\"page-break\" data-page=\"394\"></span> indulgence of appetite, save your pence, and pay your debts. Work them off as fast as possible. When you can stand forth a free man again, owing no man anything, you will have achieved a great victory.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CS 257.1\" data-link=\"22.1504\">Counsels on Stewardship, 257</span>.</span></a></sup>",
+    "puborder": 1223,
+    "translations": [
+      {
+        "para_id": "13839.1497",
+        "lang": "bg",
+        "refcode": "ХД 169.4"
+      },
+      {
+        "para_id": "177.1857",
+        "lang": "es",
+        "refcode": "HC 358.3"
+      },
+      {
+        "para_id": "193.1812",
+        "lang": "fr",
+        "refcode": "FC 379.4"
+      },
+      {
+        "para_id": "12869.2270",
+        "lang": "id",
+        "refcode": "MKB 375.7"
+      },
+      {
+        "para_id": "891.1204",
+        "lang": "it",
+        "refcode": "FC 160.5"
+      },
+      {
+        "para_id": "891.1207",
+        "lang": "it",
+        "refcode": "FC 161.1"
+      },
+      {
+        "para_id": "12178.1572",
+        "lang": "pl",
+        "refcode": "ChD 249.9"
+      },
+      {
+        "para_id": "1955.2351",
+        "lang": "pt",
+        "refcode": "LA 393.5"
+      },
+      {
+        "para_id": "2026.1827",
+        "lang": "ro",
+        "refcode": "CA 393.5"
+      },
+      {
+        "para_id": "1803.1777",
+        "lang": "ru",
+        "refcode": "ХД 393.5"
+      },
+      {
+        "para_id": "12131.1654",
+        "lang": "uk",
+        "refcode": "ХР 317.1"
+      },
+      {
+        "para_id": "12131.1655",
+        "lang": "uk",
+        "refcode": "ХР 317.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1837",
+    "id_prev": "128.1834",
+    "id_next": "128.1838",
+    "refcode_1": "AH",
+    "refcode_2": "394",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 394.1",
+    "refcode_long": "The Adventist Home, p. 394.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Show Consideration for Unfortunate Debtors</strong>&mdash;If some are found to be in debt and really unable to meet their obligations, they should not be pressed to do that which is beyond their power. They should be given a favorable chance to discharge their indebtedness, and not be placed in a position where they are utterly unable to free themselves from debt. Though such a course might be considered justice, it is not mercy and the love of God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 46, 1900\" data-link=\"14065.10517001\">Manuscript 46, 1900</span>.</span></a></sup>",
+    "puborder": 1224,
+    "translations": [
+      {
+        "para_id": "13839.1498",
+        "lang": "bg",
+        "refcode": "ХД 169.5"
+      },
+      {
+        "para_id": "177.1858",
+        "lang": "es",
+        "refcode": "HC 358.4"
+      },
+      {
+        "para_id": "193.1814",
+        "lang": "fr",
+        "refcode": "FC 380.1"
+      },
+      {
+        "para_id": "12869.2274",
+        "lang": "id",
+        "refcode": "MKB 376.1"
+      },
+      {
+        "para_id": "12178.1575",
+        "lang": "pl",
+        "refcode": "ChD 250.1"
+      },
+      {
+        "para_id": "1955.2354",
+        "lang": "pt",
+        "refcode": "LA 394"
+      },
+      {
+        "para_id": "1955.2355",
+        "lang": "pt",
+        "refcode": "LA 394.1"
+      },
+      {
+        "para_id": "2026.1830",
+        "lang": "ro",
+        "refcode": "CA 394.1"
+      },
+      {
+        "para_id": "1803.1780",
+        "lang": "ru",
+        "refcode": "ХД 394.1"
+      },
+      {
+        "para_id": "12131.1656",
+        "lang": "uk",
+        "refcode": "ХР 317.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1838",
+    "id_prev": "128.1837",
+    "id_next": "128.1840",
+    "refcode_1": "AH",
+    "refcode_2": "394",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 394.2",
+    "refcode_long": "The Adventist Home, p. 394.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Danger in Extreme Positions</strong>&mdash;Some are not discreet and would incur debts that might be avoided. Others exercise a caution that savors of unbelief. By taking advantage of circumstances we may at times invest means to such advantage that the work of God will be strengthened and upbuilt, and yet keep strictly to right principles.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 20, 1891\" data-link=\"14057.7257001\">Manuscript 20, 1891</span>.</span></a></sup>",
+    "puborder": 1225,
+    "translations": [
+      {
+        "para_id": "13839.1499",
+        "lang": "bg",
+        "refcode": "ХД 169.6"
+      },
+      {
+        "para_id": "177.1861",
+        "lang": "es",
+        "refcode": "HC 359.1"
+      },
+      {
+        "para_id": "193.1815",
+        "lang": "fr",
+        "refcode": "FC 380.2"
+      },
+      {
+        "para_id": "12869.2276",
+        "lang": "id",
+        "refcode": "MKB 376.2"
+      },
+      {
+        "para_id": "12178.1576",
+        "lang": "pl",
+        "refcode": "ChD 250.2"
+      },
+      {
+        "para_id": "1955.2356",
+        "lang": "pt",
+        "refcode": "LA 394"
+      },
+      {
+        "para_id": "1955.2357",
+        "lang": "pt",
+        "refcode": "LA 394.2"
+      },
+      {
+        "para_id": "2026.1831",
+        "lang": "ro",
+        "refcode": "CA 394.2"
+      },
+      {
+        "para_id": "1803.1781",
+        "lang": "ru",
+        "refcode": "ХД 394.2"
+      },
+      {
+        "para_id": "12131.1657",
+        "lang": "uk",
+        "refcode": "ХР 317.4"
+      }
+    ]
+  }
+]

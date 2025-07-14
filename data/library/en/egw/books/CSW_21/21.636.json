@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.636",
+    "id_prev": "21.633",
+    "id_next": "21.637",
+    "refcode_1": "CSW",
+    "refcode_2": "137",
+    "refcode_3": "",
+    "refcode_4": "102",
+    "refcode_short": "CSW 137",
+    "refcode_long": "Counsels on Sabbath School Work, p. 137 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "What Might Have Been",
+    "puborder": 400,
+    "translations": [
+      {
+        "para_id": "11629.611",
+        "lang": "da",
+        "refcode": "RSSA 137"
+      },
+      {
+        "para_id": "799.604",
+        "lang": "de",
+        "refcode": "RSs 114"
+      },
+      {
+        "para_id": "1711.684",
+        "lang": "es",
+        "refcode": "COES 154"
+      },
+      {
+        "para_id": "1917.747",
+        "lang": "pt",
+        "refcode": "CES38 71"
+      },
+      {
+        "para_id": "1724.674",
+        "lang": "pt",
+        "refcode": "CES 137"
+      },
+      {
+        "para_id": "2719.653",
+        "lang": "ro",
+        "refcode": "SSS 137"
+      },
+      {
+        "para_id": "1873.631",
+        "lang": "ru",
+        "refcode": "ССШ 137"
+      }
+    ]
+  },
+  {
+    "para_id": "21.637",
+    "id_prev": "21.636",
+    "id_next": "21.638",
+    "refcode_1": "CSW",
+    "refcode_2": "137",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 137.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 137.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "A flood of light is shining from the word of God, and there must be an awakening to neglected opportunities. When all are faithful in giving back to God His own in tithes and offerings, the way will be opened for the world to hear the message for this time. If the hearts of God&apos;s people were filled with love for Christ; if every church member were thoroughly imbued with the Spirit of self-sacrifice; if all manifested thorough earnestness, there would be no lack of funds for home or foreign missions. Our resources would be multiplied; a thousand doors of usefulness would be opened, and we should be invited to enter. Had the purpose of God been carried out by His people in giving to the world the message of mercy, Christ would, ere this, have come to the earth, and the saints would have received their welcome into the city of God.&mdash;<span class=\"egwlink egwlink_book\" title=\"6T 450.1\" data-link=\"118.2500\"><em>Testimonies for the Church</em> 6:450</span>.",
+    "puborder": 401,
+    "translations": [
+      {
+        "para_id": "11629.612",
+        "lang": "da",
+        "refcode": "RSSA 137.1"
+      },
+      {
+        "para_id": "799.605",
+        "lang": "de",
+        "refcode": "RSs 114.1"
+      },
+      {
+        "para_id": "1711.685",
+        "lang": "es",
+        "refcode": "COES 154.1"
+      },
+      {
+        "para_id": "1724.675",
+        "lang": "pt",
+        "refcode": "CES 137.1"
+      },
+      {
+        "para_id": "1917.748",
+        "lang": "pt",
+        "refcode": "CES38 71.4"
+      },
+      {
+        "para_id": "2719.654",
+        "lang": "ro",
+        "refcode": "SSS 137.1"
+      },
+      {
+        "para_id": "1873.632",
+        "lang": "ru",
+        "refcode": "ССШ 137.1"
+      }
+    ]
+  }
+]

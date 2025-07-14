@@ -1,0 +1,1540 @@
+[
+  {
+    "para_id": "128.584",
+    "id_prev": "128.582",
+    "id_next": "128.585",
+    "refcode_1": "AH",
+    "refcode_2": "135",
+    "refcode_3": "",
+    "refcode_4": "20",
+    "refcode_short": "AH 135",
+    "refcode_long": "The Adventist Home, p. 135 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 20&mdash;The Family and the City",
+    "puborder": 376,
+    "translations": [
+      {
+        "para_id": "13839.467",
+        "lang": "bg",
+        "refcode": "ХД 55"
+      },
+      {
+        "para_id": "177.615",
+        "lang": "es",
+        "refcode": "HC 119"
+      },
+      {
+        "para_id": "193.577",
+        "lang": "fr",
+        "refcode": "FC 129"
+      },
+      {
+        "para_id": "12869.668",
+        "lang": "id",
+        "refcode": "MKB 126"
+      },
+      {
+        "para_id": "891.329",
+        "lang": "it",
+        "refcode": "FC 52"
+      },
+      {
+        "para_id": "12178.497",
+        "lang": "pl",
+        "refcode": "ChD 83"
+      },
+      {
+        "para_id": "1955.765",
+        "lang": "pt",
+        "refcode": "LA 135"
+      },
+      {
+        "para_id": "2026.575",
+        "lang": "ro",
+        "refcode": "CA 135"
+      },
+      {
+        "para_id": "1803.550",
+        "lang": "ru",
+        "refcode": "ХД 135"
+      },
+      {
+        "para_id": "12131.515",
+        "lang": "uk",
+        "refcode": "ХР 108"
+      }
+    ]
+  },
+  {
+    "para_id": "128.585",
+    "id_prev": "128.584",
+    "id_next": "128.586",
+    "refcode_1": "AH",
+    "refcode_2": "135",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 135.1",
+    "refcode_long": "The Adventist Home, p. 135.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Hazards of City Life</strong>&mdash;Life in the cities is false and artificial. The intense passion for money getting, the whirl of excitement and pleasure seeking, the thirst for display, the luxury and extravagance&mdash;all are forces that, with the great masses of mankind, are turning the mind from life&apos;s true purpose. They are opening the door to a thousand evils. Upon the youth they have almost irresistible power. One of the most subtle and dangerous temptations that assails the children and youth in the cities is the love of pleasure. Holidays are numerous; games and horse racing draw thousands, and the whirl of excitement and pleasure attracts them away from the sober duties of life. Money that should have been saved for better uses is frittered away for amusements.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 364.1\" data-link=\"135.1835\">The Ministry of Healing, 364</span>.</span></a></sup>",
+    "puborder": 377,
+    "translations": [
+      {
+        "para_id": "13839.468",
+        "lang": "bg",
+        "refcode": "ХД 55.1"
+      },
+      {
+        "para_id": "177.616",
+        "lang": "es",
+        "refcode": "HC 119.1"
+      },
+      {
+        "para_id": "193.578",
+        "lang": "fr",
+        "refcode": "FC 129.1"
+      },
+      {
+        "para_id": "12869.670",
+        "lang": "id",
+        "refcode": "MKB 126.1"
+      },
+      {
+        "para_id": "891.330",
+        "lang": "it",
+        "refcode": "FC 52"
+      },
+      {
+        "para_id": "891.331",
+        "lang": "it",
+        "refcode": "FC 52.3"
+      },
+      {
+        "para_id": "12178.498",
+        "lang": "pl",
+        "refcode": "ChD 83.1"
+      },
+      {
+        "para_id": "1955.767",
+        "lang": "pt",
+        "refcode": "LA 135.1"
+      },
+      {
+        "para_id": "1955.766",
+        "lang": "pt",
+        "refcode": "LA 135"
+      },
+      {
+        "para_id": "2026.576",
+        "lang": "ro",
+        "refcode": "CA 135.1"
+      },
+      {
+        "para_id": "1803.551",
+        "lang": "ru",
+        "refcode": "ХД 135.1"
+      },
+      {
+        "para_id": "12131.516",
+        "lang": "uk",
+        "refcode": "ХР 108.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.586",
+    "id_prev": "128.585",
+    "id_next": "128.587",
+    "refcode_1": "AH",
+    "refcode_2": "135",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 135.2",
+    "refcode_long": "The Adventist Home, p. 135.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Consider the Health Standpoint</strong>&mdash;The physical surroundings in the cities are often a peril to health. The constant liability to contact with disease, the prevalence of foul air, impure water, impure food, the crowded, dark, unhealthful dwellings, are some of the many evils to be met.",
+    "puborder": 378,
+    "translations": [
+      {
+        "para_id": "13839.469",
+        "lang": "bg",
+        "refcode": "ХД 55.2"
+      },
+      {
+        "para_id": "177.617",
+        "lang": "es",
+        "refcode": "HC 119.2"
+      },
+      {
+        "para_id": "193.579",
+        "lang": "fr",
+        "refcode": "FC 129.2"
+      },
+      {
+        "para_id": "12869.674",
+        "lang": "id",
+        "refcode": "MKB 127.1"
+      },
+      {
+        "para_id": "891.332",
+        "lang": "it",
+        "refcode": "FC 52"
+      },
+      {
+        "para_id": "891.333",
+        "lang": "it",
+        "refcode": "FC 52.4"
+      },
+      {
+        "para_id": "12178.499",
+        "lang": "pl",
+        "refcode": "ChD 83.2"
+      },
+      {
+        "para_id": "1955.769",
+        "lang": "pt",
+        "refcode": "LA 135.2"
+      },
+      {
+        "para_id": "1955.768",
+        "lang": "pt",
+        "refcode": "LA 135"
+      },
+      {
+        "para_id": "2026.577",
+        "lang": "ro",
+        "refcode": "CA 135.2"
+      },
+      {
+        "para_id": "1803.552",
+        "lang": "ru",
+        "refcode": "ХД 135.2"
+      },
+      {
+        "para_id": "12131.517",
+        "lang": "uk",
+        "refcode": "ХР 108.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.587",
+    "id_prev": "128.586",
+    "id_next": "128.589",
+    "refcode_1": "AH",
+    "refcode_2": "135",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 135.3",
+    "refcode_long": "The Adventist Home, p. 135.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It was not God&apos;s purpose that people should be crowded into cities, huddled together in terraces and tenements. In the beginning He placed our first parents amidst the beautiful sights and sounds He desires us to rejoice in today. The more nearly we come into harmony with God&apos;s original plan, the more favorable will be our position to secure health of body and mind and soul.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 365.1\" data-link=\"135.1839\">Ibid., 365</span>.</span></a></sup>",
+    "puborder": 379,
+    "translations": [
+      {
+        "para_id": "13839.470",
+        "lang": "bg",
+        "refcode": "ХД 55.3"
+      },
+      {
+        "para_id": "177.618",
+        "lang": "es",
+        "refcode": "HC 119.3"
+      },
+      {
+        "para_id": "193.580",
+        "lang": "fr",
+        "refcode": "FC 129.3"
+      },
+      {
+        "para_id": "12869.675",
+        "lang": "id",
+        "refcode": "MKB 127.2"
+      },
+      {
+        "para_id": "891.335",
+        "lang": "it",
+        "refcode": "FC 53.1"
+      },
+      {
+        "para_id": "12178.500",
+        "lang": "pl",
+        "refcode": "ChD 83.3"
+      },
+      {
+        "para_id": "1955.770",
+        "lang": "pt",
+        "refcode": "LA 135.3"
+      },
+      {
+        "para_id": "2026.578",
+        "lang": "ro",
+        "refcode": "CA 135.3"
+      },
+      {
+        "para_id": "1803.553",
+        "lang": "ru",
+        "refcode": "ХД 135.3"
+      },
+      {
+        "para_id": "12131.518",
+        "lang": "uk",
+        "refcode": "ХР 108.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.589",
+    "id_prev": "128.587",
+    "id_next": "128.590",
+    "refcode_1": "AH",
+    "refcode_2": "136",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 136.1",
+    "refcode_long": "The Adventist Home, p. 136.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Hotbeds of Iniquity</strong>&mdash;The cities are filled with temptation. We should plan our work in such a way as to keep our young people as far as possible from this contamination.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CL 30.1\" data-link=\"25.248\">Country Living, 30</span>.</span></a></sup>",
+    "puborder": 380,
+    "translations": [
+      {
+        "para_id": "13839.471",
+        "lang": "bg",
+        "refcode": "ХД 55.4"
+      },
+      {
+        "para_id": "177.621",
+        "lang": "es",
+        "refcode": "HC 120.1"
+      },
+      {
+        "para_id": "193.581",
+        "lang": "fr",
+        "refcode": "FC 129.4"
+      },
+      {
+        "para_id": "12869.677",
+        "lang": "id",
+        "refcode": "MKB 127.3"
+      },
+      {
+        "para_id": "1955.772",
+        "lang": "pt",
+        "refcode": "LA 136"
+      },
+      {
+        "para_id": "1955.773",
+        "lang": "pt",
+        "refcode": "LA 136.1"
+      },
+      {
+        "para_id": "2026.580",
+        "lang": "ro",
+        "refcode": "CA 136.1"
+      },
+      {
+        "para_id": "1803.555",
+        "lang": "ru",
+        "refcode": "ХД 136.1"
+      },
+      {
+        "para_id": "12131.519",
+        "lang": "uk",
+        "refcode": "ХР 108.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.590",
+    "id_prev": "128.589",
+    "id_next": "128.591",
+    "refcode_1": "AH",
+    "refcode_2": "136",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 136.2",
+    "refcode_long": "The Adventist Home, p. 136.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The children and youth should be carefully guarded. They should be kept away from the hotbeds of iniquity that are to be found in our cities.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CL 12.1\" data-link=\"25.85\">Ibid., 12</span>.</span></a></sup>",
+    "puborder": 381,
+    "translations": [
+      {
+        "para_id": "13839.472",
+        "lang": "bg",
+        "refcode": "ХД 55.5"
+      },
+      {
+        "para_id": "177.622",
+        "lang": "es",
+        "refcode": "HC 120.2"
+      },
+      {
+        "para_id": "193.583",
+        "lang": "fr",
+        "refcode": "FC 130.1"
+      },
+      {
+        "para_id": "12869.678",
+        "lang": "id",
+        "refcode": "MKB 127.4"
+      },
+      {
+        "para_id": "1955.774",
+        "lang": "pt",
+        "refcode": "LA 136.2"
+      },
+      {
+        "para_id": "2026.581",
+        "lang": "ro",
+        "refcode": "CA 136.2"
+      },
+      {
+        "para_id": "1803.556",
+        "lang": "ru",
+        "refcode": "ХД 136.2"
+      },
+      {
+        "para_id": "12131.520",
+        "lang": "uk",
+        "refcode": "ХР 108.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.591",
+    "id_prev": "128.590",
+    "id_next": "128.592",
+    "refcode_1": "AH",
+    "refcode_2": "136",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 136.3",
+    "refcode_long": "The Adventist Home, p. 136.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Turmoil and Confusion</strong>&mdash;It is not God&apos;s will that His people shall settle in the cities, where there is constant turmoil and confusion. Their children should be spared this, for the whole system is demoralized by the hurry and rush and noise.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CL 29.5\" data-link=\"25.245\">Ibid., 29</span>.</span></a></sup>",
+    "puborder": 382,
+    "translations": [
+      {
+        "para_id": "13839.473",
+        "lang": "bg",
+        "refcode": "ХД 55.6"
+      },
+      {
+        "para_id": "177.623",
+        "lang": "es",
+        "refcode": "HC 120.3"
+      },
+      {
+        "para_id": "193.584",
+        "lang": "fr",
+        "refcode": "FC 130.2"
+      },
+      {
+        "para_id": "12869.680",
+        "lang": "id",
+        "refcode": "MKB 127.5"
+      },
+      {
+        "para_id": "891.337",
+        "lang": "it",
+        "refcode": "FC 53.2"
+      },
+      {
+        "para_id": "891.336",
+        "lang": "it",
+        "refcode": "FC 53"
+      },
+      {
+        "para_id": "1955.775",
+        "lang": "pt",
+        "refcode": "LA 136"
+      },
+      {
+        "para_id": "1955.776",
+        "lang": "pt",
+        "refcode": "LA 136.3"
+      },
+      {
+        "para_id": "2026.582",
+        "lang": "ro",
+        "refcode": "CA 136.3"
+      },
+      {
+        "para_id": "1803.2516",
+        "lang": "ru",
+        "refcode": "ХД 136.3"
+      },
+      {
+        "para_id": "12131.521",
+        "lang": "uk",
+        "refcode": "ХР 108.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.592",
+    "id_prev": "128.591",
+    "id_next": "128.593",
+    "refcode_1": "AH",
+    "refcode_2": "136",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 136.4",
+    "refcode_long": "The Adventist Home, p. 136.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Labor Troubles</strong>&mdash;Through the working of trusts and the results of labor unions and strikes, the conditions of life in the city are constantly becoming more and more difficult. Serious troubles are before us, and for many families removal from the cities will become a necessity.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 364.1\" data-link=\"135.1835\">The Ministry of Healing, 364</span>.</span></a></sup>",
+    "puborder": 383,
+    "translations": [
+      {
+        "para_id": "13839.474",
+        "lang": "bg",
+        "refcode": "ХД 55.7"
+      },
+      {
+        "para_id": "177.624",
+        "lang": "es",
+        "refcode": "HC 120.4"
+      },
+      {
+        "para_id": "193.585",
+        "lang": "fr",
+        "refcode": "FC 130.3"
+      },
+      {
+        "para_id": "12869.682",
+        "lang": "id",
+        "refcode": "MKB 127.6"
+      },
+      {
+        "para_id": "1955.777",
+        "lang": "pt",
+        "refcode": "LA 136"
+      },
+      {
+        "para_id": "1955.778",
+        "lang": "pt",
+        "refcode": "LA 136.4"
+      },
+      {
+        "para_id": "2026.583",
+        "lang": "ro",
+        "refcode": "CA 136.4"
+      },
+      {
+        "para_id": "1803.557",
+        "lang": "ru",
+        "refcode": "ХД 136.4"
+      },
+      {
+        "para_id": "12131.524",
+        "lang": "uk",
+        "refcode": "ХР 109.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.593",
+    "id_prev": "128.592",
+    "id_next": "128.594",
+    "refcode_1": "AH",
+    "refcode_2": "136",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 136.5",
+    "refcode_long": "The Adventist Home, p. 136.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Impending Destruction</strong>&mdash;The time is near when large cities will be swept away, and all should be warned of these coming judgments.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ev 29.2\" data-link=\"30.124\">Evangelism, 29</span>.</span></a></sup>",
+    "puborder": 384,
+    "translations": [
+      {
+        "para_id": "13839.476",
+        "lang": "bg",
+        "refcode": "ХД 56.1"
+      },
+      {
+        "para_id": "177.625",
+        "lang": "es",
+        "refcode": "HC 120.5"
+      },
+      {
+        "para_id": "193.586",
+        "lang": "fr",
+        "refcode": "FC 130.4"
+      },
+      {
+        "para_id": "12869.684",
+        "lang": "id",
+        "refcode": "MKB 127.7"
+      },
+      {
+        "para_id": "1955.780",
+        "lang": "pt",
+        "refcode": "LA 136.5"
+      },
+      {
+        "para_id": "1955.779",
+        "lang": "pt",
+        "refcode": "LA 136"
+      },
+      {
+        "para_id": "2026.584",
+        "lang": "ro",
+        "refcode": "CA 136.5"
+      },
+      {
+        "para_id": "1803.558",
+        "lang": "ru",
+        "refcode": "ХД 136.5"
+      },
+      {
+        "para_id": "12131.525",
+        "lang": "uk",
+        "refcode": "ХР 109.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.594",
+    "id_prev": "128.593",
+    "id_next": "128.595",
+    "refcode_1": "AH",
+    "refcode_2": "136",
+    "refcode_3": "6",
+    "refcode_4": "",
+    "refcode_short": "AH 136.6",
+    "refcode_long": "The Adventist Home, p. 136.6 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Oh, that God&apos;s people had a sense of the impending destruction of thousands of cities now almost given to idolatry!<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 9-10-1903\" data-link=\"821.23295\">The Review and Herald, September 10, 1903</span>.</span></a></sup>",
+    "puborder": 385,
+    "translations": [
+      {
+        "para_id": "13839.477",
+        "lang": "bg",
+        "refcode": "ХД 56.2"
+      },
+      {
+        "para_id": "177.626",
+        "lang": "es",
+        "refcode": "HC 120.6"
+      },
+      {
+        "para_id": "193.587",
+        "lang": "fr",
+        "refcode": "FC 130.5"
+      },
+      {
+        "para_id": "12869.687",
+        "lang": "id",
+        "refcode": "MKB 128.1"
+      },
+      {
+        "para_id": "1955.781",
+        "lang": "pt",
+        "refcode": "LA 136.6"
+      },
+      {
+        "para_id": "2026.585",
+        "lang": "ro",
+        "refcode": "CA 136.6"
+      },
+      {
+        "para_id": "1803.559",
+        "lang": "ru",
+        "refcode": "ХД 136.6"
+      },
+      {
+        "para_id": "12131.526",
+        "lang": "uk",
+        "refcode": "ХР 109.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.595",
+    "id_prev": "128.594",
+    "id_next": "128.597",
+    "refcode_1": "AH",
+    "refcode_2": "136",
+    "refcode_3": "7",
+    "refcode_4": "",
+    "refcode_short": "AH 136.7",
+    "refcode_long": "The Adventist Home, p. 136.7 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>For Worldly Interests and Love of Gain</strong>&mdash;It is often the case that parents are not careful to surround their children with right influences. In choosing a home, they think more of their worldly interests than of the moral and social atmosphere, and the children form associations that are unfavorable to the development of piety and the formation of right characters....",
+    "puborder": 386,
+    "translations": [
+      {
+        "para_id": "13839.478",
+        "lang": "bg",
+        "refcode": "ХД 56.3"
+      },
+      {
+        "para_id": "177.627",
+        "lang": "es",
+        "refcode": "HC 120.7"
+      },
+      {
+        "para_id": "193.588",
+        "lang": "fr",
+        "refcode": "FC 130.6"
+      },
+      {
+        "para_id": "12869.689",
+        "lang": "id",
+        "refcode": "MKB 128.2"
+      },
+      {
+        "para_id": "891.338",
+        "lang": "it",
+        "refcode": "FC 53"
+      },
+      {
+        "para_id": "891.339",
+        "lang": "it",
+        "refcode": "FC 53.3"
+      },
+      {
+        "para_id": "12178.501",
+        "lang": "pl",
+        "refcode": "ChD 83.4"
+      },
+      {
+        "para_id": "1955.782",
+        "lang": "pt",
+        "refcode": "LA 136"
+      },
+      {
+        "para_id": "1955.783",
+        "lang": "pt",
+        "refcode": "LA 136.7"
+      },
+      {
+        "para_id": "2026.586",
+        "lang": "ro",
+        "refcode": "CA 136.7"
+      },
+      {
+        "para_id": "1803.560",
+        "lang": "ru",
+        "refcode": "ХД 136.7"
+      },
+      {
+        "para_id": "12131.527",
+        "lang": "uk",
+        "refcode": "ХР 109.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.597",
+    "id_prev": "128.595",
+    "id_next": "128.598",
+    "refcode_1": "AH",
+    "refcode_2": "137",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 137.1",
+    "refcode_long": "The Adventist Home, p. 137.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Parents who denounce the Canaanites for offering their children to Moloch, what are you doing? You are making a most costly offering to your mammon god, and then, when your children grow up unloved and unlovely in character, when they show decided impiety and a tendency to infidelity, you blame the faith you profess because it was unable to save them. You are reaping that which you have sown&mdash;the result of your selfish love of the world and neglect of the means of grace. You moved your families into places of temptation; and the ark of God, your glory and defense, you did not consider essential; and the Lord has not worked a miracle to deliver your children from temptation.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 320.1\" data-link=\"113.1620\">Testimonies for the Church 5:320</span>.</span></a></sup>",
+    "puborder": 387,
+    "translations": [
+      {
+        "para_id": "13839.479",
+        "lang": "bg",
+        "refcode": "ХД 56.4"
+      },
+      {
+        "para_id": "177.628",
+        "lang": "es",
+        "refcode": "HC 120.8"
+      },
+      {
+        "para_id": "193.589",
+        "lang": "fr",
+        "refcode": "FC 130.7"
+      },
+      {
+        "para_id": "12869.690",
+        "lang": "id",
+        "refcode": "MKB 128.3"
+      },
+      {
+        "para_id": "891.341",
+        "lang": "it",
+        "refcode": "FC 53.5"
+      },
+      {
+        "para_id": "891.340",
+        "lang": "it",
+        "refcode": "FC 53.4"
+      },
+      {
+        "para_id": "12178.504",
+        "lang": "pl",
+        "refcode": "ChD 84.1"
+      },
+      {
+        "para_id": "1955.786",
+        "lang": "pt",
+        "refcode": "LA 137.1"
+      },
+      {
+        "para_id": "2026.588",
+        "lang": "ro",
+        "refcode": "CA 137.1"
+      },
+      {
+        "para_id": "1803.562",
+        "lang": "ru",
+        "refcode": "ХД 137.1"
+      },
+      {
+        "para_id": "12131.528",
+        "lang": "uk",
+        "refcode": "ХР 109.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.598",
+    "id_prev": "128.597",
+    "id_next": "128.599",
+    "refcode_1": "AH",
+    "refcode_2": "137",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 137.2",
+    "refcode_long": "The Adventist Home, p. 137.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Cities Offer No Real Benefit</strong>&mdash;There is not one family in a hundred who will be improved physically, mentally, or spiritually by residing in the city. Faith, hope, love, happiness, can far better be gained in retired places, where there are fields and hills and trees. Take your children away from the sights and sounds of the city, away from the rattle and din of streetcars and teams, and their minds will become more healthy. It will be found easier to bring home to their hearts the truth of the word of God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CL 13.1\" data-link=\"25.97\">Country Living, 13</span>.</span></a></sup>",
+    "puborder": 388,
+    "translations": [
+      {
+        "para_id": "13839.480",
+        "lang": "bg",
+        "refcode": "ХД 56.5"
+      },
+      {
+        "para_id": "177.631",
+        "lang": "es",
+        "refcode": "HC 121.1"
+      },
+      {
+        "para_id": "193.592",
+        "lang": "fr",
+        "refcode": "FC 131.1"
+      },
+      {
+        "para_id": "12869.692",
+        "lang": "id",
+        "refcode": "MKB 128.4"
+      },
+      {
+        "para_id": "1955.787",
+        "lang": "pt",
+        "refcode": "LA 137"
+      },
+      {
+        "para_id": "1955.788",
+        "lang": "pt",
+        "refcode": "LA 137.2"
+      },
+      {
+        "para_id": "2026.589",
+        "lang": "ro",
+        "refcode": "CA 137.2"
+      },
+      {
+        "para_id": "1803.563",
+        "lang": "ru",
+        "refcode": "ХД 137.2"
+      },
+      {
+        "para_id": "12131.529",
+        "lang": "uk",
+        "refcode": "ХР 109.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.599",
+    "id_prev": "128.598",
+    "id_next": "128.602",
+    "refcode_1": "AH",
+    "refcode_2": "137",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 137.3",
+    "refcode_long": "The Adventist Home, p. 137.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Counsel on Moving From Rural to City Areas</strong>&mdash;Many parents remove from their country homes to the city, regarding it as a more desirable or profitable location. But by making this change, they expose their children to many and great temptations. The boys have no employment, and they obtain a street education and go on from one step in depravity to another, until they lose all interest in anything that is good and pure and holy. How much better had the parents remained with their <span class=\"page-break\" data-page=\"138\"></span> families in the country, where the influences are most favorable for physical and mental strength. Let the youth be taught to labor in tilling the soil, and let them sleep the sweet sleep of weariness and innocence.",
+    "puborder": 389,
+    "translations": [
+      {
+        "para_id": "13839.481",
+        "lang": "bg",
+        "refcode": "ХД 56.6"
+      },
+      {
+        "para_id": "177.632",
+        "lang": "es",
+        "refcode": "HC 121.2"
+      },
+      {
+        "para_id": "193.593",
+        "lang": "fr",
+        "refcode": "FC 131.2"
+      },
+      {
+        "para_id": "12869.694",
+        "lang": "id",
+        "refcode": "MKB 128.5"
+      },
+      {
+        "para_id": "891.342",
+        "lang": "it",
+        "refcode": "FC 53"
+      },
+      {
+        "para_id": "891.343",
+        "lang": "it",
+        "refcode": "FC 53.6"
+      },
+      {
+        "para_id": "1955.790",
+        "lang": "pt",
+        "refcode": "LA 137.3"
+      },
+      {
+        "para_id": "1955.789",
+        "lang": "pt",
+        "refcode": "LA 137"
+      },
+      {
+        "para_id": "2026.590",
+        "lang": "ro",
+        "refcode": "CA 137.3"
+      },
+      {
+        "para_id": "1803.564",
+        "lang": "ru",
+        "refcode": "ХД 137.3"
+      },
+      {
+        "para_id": "12131.532",
+        "lang": "uk",
+        "refcode": "ХР 110.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.602",
+    "id_prev": "128.599",
+    "id_next": "128.603",
+    "refcode_1": "AH",
+    "refcode_2": "138",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 138.1",
+    "refcode_long": "The Adventist Home, p. 138.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Through the neglect of parents, the youth in our cities are corrupting their ways and polluting their souls before God. This will ever be the fruit of idleness. The almshouses, the prisons, and the gallows publish the sorrowful tale of the neglected duties of parents.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 9-13-1881\" data-link=\"821.3956\">The Review and Herald, September 13, 1881</span></span></a></sup>",
+    "puborder": 390,
+    "translations": [
+      {
+        "para_id": "13839.482",
+        "lang": "bg",
+        "refcode": "ХД 56.7"
+      },
+      {
+        "para_id": "177.633",
+        "lang": "es",
+        "refcode": "HC 121.3"
+      },
+      {
+        "para_id": "193.594",
+        "lang": "fr",
+        "refcode": "FC 131.3"
+      },
+      {
+        "para_id": "12869.697",
+        "lang": "id",
+        "refcode": "MKB 129.1"
+      },
+      {
+        "para_id": "1955.793",
+        "lang": "pt",
+        "refcode": "LA 138.1"
+      },
+      {
+        "para_id": "2026.593",
+        "lang": "ro",
+        "refcode": "CA 138.1"
+      },
+      {
+        "para_id": "1803.567",
+        "lang": "ru",
+        "refcode": "ХД 138.1"
+      },
+      {
+        "para_id": "12131.533",
+        "lang": "uk",
+        "refcode": "ХР 110.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.603",
+    "id_prev": "128.602",
+    "id_next": "128.604",
+    "refcode_1": "AH",
+    "refcode_2": "138",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 138.2",
+    "refcode_long": "The Adventist Home, p. 138.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Better sacrifice any and every worldly consideration than to imperil the precious souls committed to your care. They will be assailed by temptations and should be taught to meet them; but it is your duty to cut off every influence, to break up every habit, to sunder every tie, that keeps you from the most free, open, and hearty committal of yourselves and your family to God.",
+    "puborder": 391,
+    "translations": [
+      {
+        "para_id": "13839.483",
+        "lang": "bg",
+        "refcode": "ХД 56.8"
+      },
+      {
+        "para_id": "177.636",
+        "lang": "es",
+        "refcode": "HC 122.1"
+      },
+      {
+        "para_id": "193.595",
+        "lang": "fr",
+        "refcode": "FC 131.4"
+      },
+      {
+        "para_id": "12869.698",
+        "lang": "id",
+        "refcode": "MKB 129.2"
+      },
+      {
+        "para_id": "1955.794",
+        "lang": "pt",
+        "refcode": "LA 138.2"
+      },
+      {
+        "para_id": "2026.594",
+        "lang": "ro",
+        "refcode": "CA 138.2"
+      },
+      {
+        "para_id": "1803.2517",
+        "lang": "ru",
+        "refcode": "ХД 138.2"
+      },
+      {
+        "para_id": "12131.534",
+        "lang": "uk",
+        "refcode": "ХР 110.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.604",
+    "id_prev": "128.603",
+    "id_next": "128.605",
+    "refcode_1": "AH",
+    "refcode_2": "138",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 138.3",
+    "refcode_long": "The Adventist Home, p. 138.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Instead of the crowded city seek some retired situation where your children will be, so far as possible, shielded from temptation, and there train and educate them for usefulness. The prophet Ezekiel thus enumerates the causes that led to Sodom&apos;s sin and destruction: &ldquo;Pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy.&rdquo; All who would escape the doom of Sodom must shun the course that brought God&apos;s judgments upon that wicked city.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 232.1\" data-link=\"113.1197\">Testimonies for the Church 5:232, 233</span>.</span></a></sup>",
+    "puborder": 392,
+    "translations": [
+      {
+        "para_id": "13839.486",
+        "lang": "bg",
+        "refcode": "ХД 57.1"
+      },
+      {
+        "para_id": "177.637",
+        "lang": "es",
+        "refcode": "HC 122.2"
+      },
+      {
+        "para_id": "193.598",
+        "lang": "fr",
+        "refcode": "FC 132.1"
+      },
+      {
+        "para_id": "12869.699",
+        "lang": "id",
+        "refcode": "MKB 129.3"
+      },
+      {
+        "para_id": "1955.795",
+        "lang": "pt",
+        "refcode": "LA 138.3"
+      },
+      {
+        "para_id": "2026.595",
+        "lang": "ro",
+        "refcode": "CA 138.3"
+      },
+      {
+        "para_id": "1803.568",
+        "lang": "ru",
+        "refcode": "ХД 138.3"
+      },
+      {
+        "para_id": "12131.535",
+        "lang": "uk",
+        "refcode": "ХР 110.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.605",
+    "id_prev": "128.604",
+    "id_next": "128.607",
+    "refcode_1": "AH",
+    "refcode_2": "138",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 138.4",
+    "refcode_long": "The Adventist Home, p. 138.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When Lot entered Sodom, he fully intended to keep himself free from iniquity and to command his household after him. But he signally failed. The corrupting influences about him had an effect upon his own faith, and his children&apos;s connection with the inhabitants of Sodom bound up his interest in a measure with theirs. The result is before us. Many are still making a similar mistake.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 168.1\" data-link=\"84.682\">Patriarchs and Prophets, 168</span>.</span></a></sup>",
+    "puborder": 393,
+    "translations": [
+      {
+        "para_id": "13839.487",
+        "lang": "bg",
+        "refcode": "ХД 57.2"
+      },
+      {
+        "para_id": "177.638",
+        "lang": "es",
+        "refcode": "HC 122.3"
+      },
+      {
+        "para_id": "193.599",
+        "lang": "fr",
+        "refcode": "FC 132.2"
+      },
+      {
+        "para_id": "12869.700",
+        "lang": "id",
+        "refcode": "MKB 129.4"
+      },
+      {
+        "para_id": "12178.505",
+        "lang": "pl",
+        "refcode": "ChD 84.2"
+      },
+      {
+        "para_id": "1955.796",
+        "lang": "pt",
+        "refcode": "LA 138.4"
+      },
+      {
+        "para_id": "2026.596",
+        "lang": "ro",
+        "refcode": "CA 138.4"
+      },
+      {
+        "para_id": "1803.569",
+        "lang": "ru",
+        "refcode": "ХД 138.4"
+      },
+      {
+        "para_id": "12131.536",
+        "lang": "uk",
+        "refcode": "ХР 110.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.607",
+    "id_prev": "128.605",
+    "id_next": "128.608",
+    "refcode_1": "AH",
+    "refcode_2": "139",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 139.1",
+    "refcode_long": "The Adventist Home, p. 139.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Let it be your study to select and make your homes as far from Sodom and Gomorrah as you can. Keep out of the large cities. If possible make your homes in the quiet retirement of the country, even if you can never become wealthy by so doing. Locate where there is the best influence.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">14<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 57, 1897\" data-link=\"14062.6345001\">Manuscript 57, 1897</span>.</span></a></sup>",
+    "puborder": 394,
+    "translations": [
+      {
+        "para_id": "13839.488",
+        "lang": "bg",
+        "refcode": "ХД 57.3"
+      },
+      {
+        "para_id": "177.639",
+        "lang": "es",
+        "refcode": "HC 122.4"
+      },
+      {
+        "para_id": "193.600",
+        "lang": "fr",
+        "refcode": "FC 132.3"
+      },
+      {
+        "para_id": "12869.703",
+        "lang": "id",
+        "refcode": "MKB 130.1"
+      },
+      {
+        "para_id": "12178.506",
+        "lang": "pl",
+        "refcode": "ChD 84.3"
+      },
+      {
+        "para_id": "1955.799",
+        "lang": "pt",
+        "refcode": "LA 139.1"
+      },
+      {
+        "para_id": "1955.797",
+        "lang": "pt",
+        "refcode": "LA 138.5"
+      },
+      {
+        "para_id": "2026.598",
+        "lang": "ro",
+        "refcode": "CA 139.1"
+      },
+      {
+        "para_id": "1803.571",
+        "lang": "ru",
+        "refcode": "ХД 139.1"
+      },
+      {
+        "para_id": "12131.539",
+        "lang": "uk",
+        "refcode": "ХР 111.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.608",
+    "id_prev": "128.607",
+    "id_next": "128.609",
+    "refcode_1": "AH",
+    "refcode_2": "139",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 139.2",
+    "refcode_long": "The Adventist Home, p. 139.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "I am instructed by the Lord to warn our people not to flock to the cities to find homes for their families. To fathers and to mothers I am instructed to say, Fail not to keep your children within your own premises.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">15<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CL 12.1\" data-link=\"25.85\">Country Living, 12, 13</span>.</span></a></sup>",
+    "puborder": 395,
+    "translations": [
+      {
+        "para_id": "13839.489",
+        "lang": "bg",
+        "refcode": "ХД 57.4"
+      },
+      {
+        "para_id": "177.641",
+        "lang": "es",
+        "refcode": "HC 123.1"
+      },
+      {
+        "para_id": "193.601",
+        "lang": "fr",
+        "refcode": "FC 132.4"
+      },
+      {
+        "para_id": "12869.704",
+        "lang": "id",
+        "refcode": "MKB 130.2"
+      },
+      {
+        "para_id": "1955.800",
+        "lang": "pt",
+        "refcode": "LA 139.2"
+      },
+      {
+        "para_id": "2026.599",
+        "lang": "ro",
+        "refcode": "CA 139.2"
+      },
+      {
+        "para_id": "1803.572",
+        "lang": "ru",
+        "refcode": "ХД 139.2"
+      },
+      {
+        "para_id": "12131.540",
+        "lang": "uk",
+        "refcode": "ХР 111.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.609",
+    "id_prev": "128.608",
+    "id_next": "128.610",
+    "refcode_1": "AH",
+    "refcode_2": "139",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 139.3",
+    "refcode_long": "The Adventist Home, p. 139.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Time Now to Move From the Cities</strong>&mdash;Take your families away from the cities is my message.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">16<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CL 29.5\" data-link=\"25.245\">Ibid., 29</span>.</span></a></sup>",
+    "puborder": 396,
+    "translations": [
+      {
+        "para_id": "13839.490",
+        "lang": "bg",
+        "refcode": "ХД 57.5"
+      },
+      {
+        "para_id": "177.642",
+        "lang": "es",
+        "refcode": "HC 123.2"
+      },
+      {
+        "para_id": "193.602",
+        "lang": "fr",
+        "refcode": "FC 132.5"
+      },
+      {
+        "para_id": "12869.706",
+        "lang": "id",
+        "refcode": "MKB 130.3"
+      },
+      {
+        "para_id": "1955.801",
+        "lang": "pt",
+        "refcode": "LA 139"
+      },
+      {
+        "para_id": "1955.802",
+        "lang": "pt",
+        "refcode": "LA 139.3"
+      },
+      {
+        "para_id": "2026.600",
+        "lang": "ro",
+        "refcode": "CA 139.3"
+      },
+      {
+        "para_id": "1803.573",
+        "lang": "ru",
+        "refcode": "ХД 139.3"
+      },
+      {
+        "para_id": "12131.541",
+        "lang": "uk",
+        "refcode": "ХР 111.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.610",
+    "id_prev": "128.609",
+    "id_next": "128.611",
+    "refcode_1": "AH",
+    "refcode_2": "139",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 139.4",
+    "refcode_long": "The Adventist Home, p. 139.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The time has come when, as God opens the way, families should move out of the cities. The children should be taken into the country. The parents should get as suitable a place as their means will allow. Though the dwelling may be small, yet there should be land in connection with it that may be cultivated.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">17<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CL 24.2\" data-link=\"25.195\">Ibid., 24</span>.</span></a></sup>",
+    "puborder": 397,
+    "translations": [
+      {
+        "para_id": "13839.491",
+        "lang": "bg",
+        "refcode": "ХД 57.6"
+      },
+      {
+        "para_id": "177.643",
+        "lang": "es",
+        "refcode": "HC 123.3"
+      },
+      {
+        "para_id": "193.604",
+        "lang": "fr",
+        "refcode": "FC 133.1"
+      },
+      {
+        "para_id": "12869.707",
+        "lang": "id",
+        "refcode": "MKB 130.4"
+      },
+      {
+        "para_id": "1955.803",
+        "lang": "pt",
+        "refcode": "LA 139.4"
+      },
+      {
+        "para_id": "2026.601",
+        "lang": "ro",
+        "refcode": "CA 139.4"
+      },
+      {
+        "para_id": "1803.574",
+        "lang": "ru",
+        "refcode": "ХД 139.4"
+      },
+      {
+        "para_id": "12131.542",
+        "lang": "uk",
+        "refcode": "ХР 111.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.611",
+    "id_prev": "128.610",
+    "id_next": "128.612",
+    "refcode_1": "AH",
+    "refcode_2": "139",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 139.5",
+    "refcode_long": "The Adventist Home, p. 139.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Before the overflowing scourge shall come upon the dwellers of the earth, the Lord calls upon all who are Israelites indeed to prepare for that event. To parents He sends the warning cry: Gather your children into your own houses; gather them away from those who are disregarding the commandments of God, who are teaching and practicing evil. Get out of the large cities as fast as possible.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">18<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"6T 195.1\" data-link=\"118.1049\">Testimonies for the Church 6:195</span>.</span></a></sup>",
+    "puborder": 398,
+    "translations": [
+      {
+        "para_id": "13839.492",
+        "lang": "bg",
+        "refcode": "ХД 57.7"
+      },
+      {
+        "para_id": "177.644",
+        "lang": "es",
+        "refcode": "HC 123.4"
+      },
+      {
+        "para_id": "193.605",
+        "lang": "fr",
+        "refcode": "FC 133.2"
+      },
+      {
+        "para_id": "12869.708",
+        "lang": "id",
+        "refcode": "MKB 130.5"
+      },
+      {
+        "para_id": "1955.804",
+        "lang": "pt",
+        "refcode": "LA 139.5"
+      },
+      {
+        "para_id": "2026.602",
+        "lang": "ro",
+        "refcode": "CA 139.5"
+      },
+      {
+        "para_id": "1803.575",
+        "lang": "ru",
+        "refcode": "ХД 139.5"
+      },
+      {
+        "para_id": "12131.543",
+        "lang": "uk",
+        "refcode": "ХР 111.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.612",
+    "id_prev": "128.611",
+    "id_next": "128.616",
+    "refcode_1": "AH",
+    "refcode_2": "139",
+    "refcode_3": "6",
+    "refcode_4": "",
+    "refcode_short": "AH 139.6",
+    "refcode_long": "The Adventist Home, p. 139.6 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God Will Help His People</strong>&mdash;Parents can secure small homes in the country, with land for cultivation, where they can have orchards and where they can raise vegetables and small fruits to take the place of flesh meat, which is so corrupting to the lifeblood coursing through the veins. On such places the children will not <span class=\"page-break\" data-page=\"140\"></span> be surrounded with the corrupting influences of city life. God will help His people to find such homes outside of the cities.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">19<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MM 310.1\" data-link=\"75.2356\">Medical Ministry, 310</span>.</span></a></sup>",
+    "puborder": 399,
+    "translations": [
+      {
+        "para_id": "13839.493",
+        "lang": "bg",
+        "refcode": "ХД 57.8"
+      },
+      {
+        "para_id": "177.645",
+        "lang": "es",
+        "refcode": "HC 123.5"
+      },
+      {
+        "para_id": "193.606",
+        "lang": "fr",
+        "refcode": "FC 133.3"
+      },
+      {
+        "para_id": "12869.710",
+        "lang": "id",
+        "refcode": "MKB 130.6"
+      },
+      {
+        "para_id": "1955.805",
+        "lang": "pt",
+        "refcode": "LA 139"
+      },
+      {
+        "para_id": "1955.806",
+        "lang": "pt",
+        "refcode": "LA 139.6"
+      },
+      {
+        "para_id": "2026.603",
+        "lang": "ro",
+        "refcode": "CA 139.6"
+      },
+      {
+        "para_id": "1803.576",
+        "lang": "ru",
+        "refcode": "ХД 139.6"
+      },
+      {
+        "para_id": "12131.544",
+        "lang": "uk",
+        "refcode": "ХР 111.6"
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "para_id": "21.675",
+    "id_prev": "21.674",
+    "id_next": "21.676",
+    "refcode_1": "CSW",
+    "refcode_2": "144",
+    "refcode_3": "",
+    "refcode_4": "113",
+    "refcode_short": "CSW 144",
+    "refcode_long": "Counsels on Sabbath School Work, p. 144 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Our Divine Exemplar",
+    "puborder": 426,
+    "translations": [
+      {
+        "para_id": "11629.650",
+        "lang": "da",
+        "refcode": "RSSA 144"
+      },
+      {
+        "para_id": "799.639",
+        "lang": "de",
+        "refcode": "RSs 119"
+      },
+      {
+        "para_id": "1711.724",
+        "lang": "es",
+        "refcode": "COES 162"
+      },
+      {
+        "para_id": "1724.713",
+        "lang": "pt",
+        "refcode": "CES 144"
+      },
+      {
+        "para_id": "1917.795",
+        "lang": "pt",
+        "refcode": "CES38 76"
+      },
+      {
+        "para_id": "2719.693",
+        "lang": "ro",
+        "refcode": "SSS 144"
+      },
+      {
+        "para_id": "1873.669",
+        "lang": "ru",
+        "refcode": "ССШ 144"
+      }
+    ]
+  },
+  {
+    "para_id": "21.676",
+    "id_prev": "21.675",
+    "id_next": "21.679",
+    "refcode_1": "CSW",
+    "refcode_2": "144",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 144.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 144.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The foundation of the plan of salvation was laid in <em>sacrifice</em>. Jesus left the royal courts, and became poor, that we through His poverty might be made rich. All who share this salvation, purchased for them at such an infinite sacrifice by the Son of God, will follow <span class=\"page-break\" data-page=\"145\"></span> the example of the True Pattern. Christ was the chief cornerstone, and we must build upon this foundation. Each must have a spirit of self-denial and self-sacrifice.&mdash;<span class=\"egwlink egwlink_book\" title=\"3T 387.1\" data-link=\"119.1794\"><em>Testimonies for the Church</em> 3:387</span>.",
+    "puborder": 427,
+    "translations": [
+      {
+        "para_id": "11629.651",
+        "lang": "da",
+        "refcode": "RSSA 144.2"
+      },
+      {
+        "para_id": "799.640",
+        "lang": "de",
+        "refcode": "RSs 119.3"
+      },
+      {
+        "para_id": "1711.725",
+        "lang": "es",
+        "refcode": "COES 162.2"
+      },
+      {
+        "para_id": "1917.798",
+        "lang": "pt",
+        "refcode": "CES38 76.3"
+      },
+      {
+        "para_id": "1917.796",
+        "lang": "pt",
+        "refcode": "CES38 76.2"
+      },
+      {
+        "para_id": "1724.714",
+        "lang": "pt",
+        "refcode": "CES 144.2"
+      },
+      {
+        "para_id": "2719.694",
+        "lang": "ro",
+        "refcode": "SSS 144.2"
+      },
+      {
+        "para_id": "1873.670",
+        "lang": "ru",
+        "refcode": "ССШ 144.3"
+      }
+    ]
+  }
+]

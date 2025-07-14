@@ -1,0 +1,215 @@
+[
+  {
+    "para_id": "21.417",
+    "id_prev": "21.416",
+    "id_next": "21.418",
+    "refcode_1": "CSW",
+    "refcode_2": "93",
+    "refcode_3": "",
+    "refcode_4": "61",
+    "refcode_short": "CSW 93",
+    "refcode_long": "Counsels on Sabbath School Work, p. 93 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Dress and Deportment",
+    "puborder": 260,
+    "translations": [
+      {
+        "para_id": "11629.391",
+        "lang": "da",
+        "refcode": "RSSA 93"
+      },
+      {
+        "para_id": "799.403",
+        "lang": "de",
+        "refcode": "RSs 79"
+      },
+      {
+        "para_id": "1711.456",
+        "lang": "es",
+        "refcode": "COES 104"
+      },
+      {
+        "para_id": "1917.489",
+        "lang": "pt",
+        "refcode": "CES38 47"
+      },
+      {
+        "para_id": "1724.452",
+        "lang": "pt",
+        "refcode": "CES 93"
+      },
+      {
+        "para_id": "2719.430",
+        "lang": "ro",
+        "refcode": "SSS 93"
+      },
+      {
+        "para_id": "1873.413",
+        "lang": "ru",
+        "refcode": "ССШ 93"
+      }
+    ]
+  },
+  {
+    "para_id": "21.418",
+    "id_prev": "21.417",
+    "id_next": "21.421",
+    "refcode_1": "CSW",
+    "refcode_2": "93",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 93.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 93.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Every teacher in the Sabbath school should be a follower of Christ, and those who have not identified themselves as the disciples of Christ, showing by a consistent life that they are Christians, should not be invited to become teachers in the Sabbath school, for they have need that some one first teach them the <span class=\"page-break\" data-page=\"94\"></span> foundation principles of the love and fear of God. &ldquo;Without Me,&rdquo; Christ says, &ldquo;ye can do nothing.&rdquo; Then of what value would be the teaching of one who knew nothing by personal experience of the power of Christ? It would be a great inconsistency to urge such a one to take a class in the Sabbath school, but it is even worse to permit a class to be under the influence of a teacher whose dress and deportment deny the Saviour, whom he professes to serve.",
+    "puborder": 261,
+    "translations": [
+      {
+        "para_id": "11629.392",
+        "lang": "da",
+        "refcode": "RSSA 93.2"
+      },
+      {
+        "para_id": "799.404",
+        "lang": "de",
+        "refcode": "RSs 79.2"
+      },
+      {
+        "para_id": "1711.457",
+        "lang": "es",
+        "refcode": "COES 104.1"
+      },
+      {
+        "para_id": "1917.490",
+        "lang": "pt",
+        "refcode": "CES38 47.2"
+      },
+      {
+        "para_id": "1724.453",
+        "lang": "pt",
+        "refcode": "CES 93.2"
+      },
+      {
+        "para_id": "2719.431",
+        "lang": "ro",
+        "refcode": "SSS 93.2"
+      },
+      {
+        "para_id": "1873.414",
+        "lang": "ru",
+        "refcode": "ССШ 93.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.421",
+    "id_prev": "21.418",
+    "id_next": "21.422",
+    "refcode_1": "CSW",
+    "refcode_2": "94",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 94.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 94.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those who teach in Sabbath school must have their hearts warmed and invigorated by the truth of God, being not hearers only, but also doers of the Word. They should be nourished in Christ as the branches are nourished in the vine. The dews of heavenly grace should fall upon them, that their hearts may be like precious plants, whose buds open and expand and give forth a grateful fragrance, as flowers in the garden of God. Teachers should be diligent students of the word of God, and ever reveal the fact that they are learning daily lessons in the school of Christ, and are able to communicate to others the light they have received from Him who is the Great Teacher, the Light of the world.",
+    "puborder": 262,
+    "translations": [
+      {
+        "para_id": "11629.395",
+        "lang": "da",
+        "refcode": "RSSA 94.1"
+      },
+      {
+        "para_id": "799.405",
+        "lang": "de",
+        "refcode": "RSs 79.3"
+      },
+      {
+        "para_id": "1711.458",
+        "lang": "es",
+        "refcode": "COES 104.2"
+      },
+      {
+        "para_id": "1917.493",
+        "lang": "pt",
+        "refcode": "CES38 47.4"
+      },
+      {
+        "para_id": "1724.456",
+        "lang": "pt",
+        "refcode": "CES 94.1"
+      },
+      {
+        "para_id": "2719.434",
+        "lang": "ro",
+        "refcode": "SSS 94.1"
+      },
+      {
+        "para_id": "1873.417",
+        "lang": "ru",
+        "refcode": "ССШ 94.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.422",
+    "id_prev": "21.421",
+    "id_next": "21.425",
+    "refcode_1": "CSW",
+    "refcode_2": "94",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 94.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 94.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Teachers should feel their responsibility, and make use of every opportunity to improve, that they may render the best kind of service in a manner that will result in the salvation of souls. Both teachers and pupils should awake to the importance of manifesting industry and perseverance in the study of God&apos;s word. They should be much in communion with God, where <span class=\"page-break\" data-page=\"95\"></span> petty temptations will not control them, and indolence and apathy will be successfully resisted. No idleness, no self-indulgence should be allowed by those who profess to be Christian workers.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 54.1\" data-link=\"121.210\"><em>Testimonies on Sabbath-School Work</em>, 54, 55</span>.",
+    "puborder": 263,
+    "translations": [
+      {
+        "para_id": "11629.396",
+        "lang": "da",
+        "refcode": "RSSA 94.2"
+      },
+      {
+        "para_id": "799.408",
+        "lang": "de",
+        "refcode": "RSs 80.1"
+      },
+      {
+        "para_id": "1711.461",
+        "lang": "es",
+        "refcode": "COES 105.1"
+      },
+      {
+        "para_id": "1917.497",
+        "lang": "pt",
+        "refcode": "CES38 48.1"
+      },
+      {
+        "para_id": "1724.457",
+        "lang": "pt",
+        "refcode": "CES 94.2"
+      },
+      {
+        "para_id": "1917.494",
+        "lang": "pt",
+        "refcode": "CES38 47.5"
+      },
+      {
+        "para_id": "2719.435",
+        "lang": "ro",
+        "refcode": "SSS 94.2"
+      },
+      {
+        "para_id": "1873.418",
+        "lang": "ru",
+        "refcode": "ССШ 94.2"
+      }
+    ]
+  }
+]

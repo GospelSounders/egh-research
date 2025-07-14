@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.327",
+    "id_prev": "21.326",
+    "id_next": "21.328",
+    "refcode_1": "CSW",
+    "refcode_2": "73",
+    "refcode_3": "",
+    "refcode_4": "43",
+    "refcode_short": "CSW 73",
+    "refcode_long": "Counsels on Sabbath School Work, p. 73 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Study Each Individual",
+    "puborder": 204,
+    "translations": [
+      {
+        "para_id": "11629.300",
+        "lang": "da",
+        "refcode": "RSSA 73"
+      },
+      {
+        "para_id": "799.319",
+        "lang": "de",
+        "refcode": "RSs 63"
+      },
+      {
+        "para_id": "1711.359",
+        "lang": "es",
+        "refcode": "COES 81"
+      },
+      {
+        "para_id": "1917.380",
+        "lang": "pt",
+        "refcode": "CES38 36"
+      },
+      {
+        "para_id": "1724.359",
+        "lang": "pt",
+        "refcode": "CES 73"
+      },
+      {
+        "para_id": "2719.336",
+        "lang": "ro",
+        "refcode": "SSS 73"
+      },
+      {
+        "para_id": "1873.323",
+        "lang": "ru",
+        "refcode": "ССШ 73"
+      }
+    ]
+  },
+  {
+    "para_id": "21.328",
+    "id_prev": "21.327",
+    "id_next": "21.331",
+    "refcode_1": "CSW",
+    "refcode_2": "73",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 73.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 73.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In all true teaching the personal element is essential. Christ in His teaching dealt with men individually. It was by personal contact and association that He trained the twelve. It was in private, often to but one listener, that He gave His most precious instruction. To the honored rabbi at the night conference on the Mount of Olives, to the despised woman at the well of Sychar, He opened His richest <span class=\"page-break\" data-page=\"74\"></span> treasures; for in these hearers He discerned the impressible heart, the open mind, the receptive spirit. Even the crowd that so often thronged His steps was not to Christ an indiscriminate mass of human beings. He spoke directly to every mind and appealed to every heart. He watched the faces of His hearers, marked the lighting up of the countenance, the quick, responsive glance, which told that truth had reached the soul; and there vibrated in His heart the answering chord of sympathetic joy....",
+    "puborder": 205,
+    "translations": [
+      {
+        "para_id": "11629.301",
+        "lang": "da",
+        "refcode": "RSSA 73.2"
+      },
+      {
+        "para_id": "799.320",
+        "lang": "de",
+        "refcode": "RSs 63.2"
+      },
+      {
+        "para_id": "1711.360",
+        "lang": "es",
+        "refcode": "COES 81.1"
+      },
+      {
+        "para_id": "1917.381",
+        "lang": "pt",
+        "refcode": "CES38 36.3"
+      },
+      {
+        "para_id": "1724.360",
+        "lang": "pt",
+        "refcode": "CES 73.2"
+      },
+      {
+        "para_id": "2719.337",
+        "lang": "ro",
+        "refcode": "SSS 73.2"
+      },
+      {
+        "para_id": "1873.324",
+        "lang": "ru",
+        "refcode": "ССШ 73.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.331",
+    "id_prev": "21.328",
+    "id_next": "21.332",
+    "refcode_1": "CSW",
+    "refcode_2": "74",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 74.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 74.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The same personal interest, the same attention to individual development, are needed in educational work today. Many apparently unpromising youth are richly endowed with talents that are put to no use. Their faculties lie hidden because of a lack of discernment on the part of their educators. In many a boy or girl outwardly as unattractive as a rough-hewn stone, may be found precious material that will stand the test of heat and storm and pressure. The true educator, keeping in view what his pupils may become, will recognize the value of the material upon which he is working. He will take a personal interest in each pupil, and will seek to develop all his powers. However imperfect, every effort to conform to right principles will be encouraged.&mdash;<span class=\"egwlink egwlink_book\" title=\"Ed 231.1\" data-link=\"29.1207\"><em>Education</em>, 231, 232</span>.",
+    "puborder": 206,
+    "translations": [
+      {
+        "para_id": "11629.304",
+        "lang": "da",
+        "refcode": "RSSA 74.1"
+      },
+      {
+        "para_id": "799.323",
+        "lang": "de",
+        "refcode": "RSs 64.1"
+      },
+      {
+        "para_id": "1711.361",
+        "lang": "es",
+        "refcode": "COES 81.2"
+      },
+      {
+        "para_id": "1724.363",
+        "lang": "pt",
+        "refcode": "CES 74.1"
+      },
+      {
+        "para_id": "1917.386",
+        "lang": "pt",
+        "refcode": "CES38 37.1"
+      },
+      {
+        "para_id": "2719.340",
+        "lang": "ro",
+        "refcode": "SSS 74.1"
+      },
+      {
+        "para_id": "1873.327",
+        "lang": "ru",
+        "refcode": "ССШ 74.1"
+      }
+    ]
+  }
+]

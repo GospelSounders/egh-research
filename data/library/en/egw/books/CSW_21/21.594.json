@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.594",
+    "id_prev": "21.593",
+    "id_next": "21.595",
+    "refcode_1": "CSW",
+    "refcode_2": "129",
+    "refcode_3": "",
+    "refcode_4": "90",
+    "refcode_short": "CSW 129",
+    "refcode_long": "Counsels on Sabbath School Work, p. 129 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Regularity and System in Giving",
+    "puborder": 372,
+    "translations": [
+      {
+        "para_id": "11629.568",
+        "lang": "da",
+        "refcode": "RSSA 129"
+      },
+      {
+        "para_id": "799.565",
+        "lang": "de",
+        "refcode": "RSs 108"
+      },
+      {
+        "para_id": "1711.639",
+        "lang": "es",
+        "refcode": "COES 145"
+      },
+      {
+        "para_id": "1917.698",
+        "lang": "pt",
+        "refcode": "CES38 67"
+      },
+      {
+        "para_id": "1724.632",
+        "lang": "pt",
+        "refcode": "CES 129"
+      },
+      {
+        "para_id": "2719.611",
+        "lang": "ro",
+        "refcode": "SSS 129"
+      },
+      {
+        "para_id": "1873.589",
+        "lang": "ru",
+        "refcode": "ССШ 129"
+      }
+    ]
+  },
+  {
+    "para_id": "21.595",
+    "id_prev": "21.594",
+    "id_next": "21.598",
+    "refcode_1": "CSW",
+    "refcode_2": "129",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 129.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 129.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "This matter of giving is not left to impulse. God has given us definite instruction in regard to it. He has specified tithes and offerings as the measure of our obligation. And He desires us to give regularly and systematically. Paul wrote to the church at Corinth, &ldquo;Concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye. Upon the first day of the week let every one <span class=\"page-break\" data-page=\"130\"></span> of you lay by him in store, as God hath prospered him.&rdquo; Let each regularly examine his income, which is all a blessing from God, and set apart the tithe as a separate fund, to be sacredly the Lord&apos;s. This fund should not in any case be devoted to any other use; it is to be devoted solely to support the ministry of the gospel. After the tithe is set apart, let gifts and offering be apportioned, &ldquo;as God hath prospered&rdquo; you.&mdash;<span class=\"egwlink egwlink_book\" title=\"RH 5-9-1893\" data-link=\"821.12725\"><em>The Review and Herald</em>, May 9, 1893</span>.",
+    "puborder": 373,
+    "translations": [
+      {
+        "para_id": "11629.569",
+        "lang": "da",
+        "refcode": "RSSA 129.2"
+      },
+      {
+        "para_id": "799.566",
+        "lang": "de",
+        "refcode": "RSs 108.2"
+      },
+      {
+        "para_id": "1711.640",
+        "lang": "es",
+        "refcode": "COES 145.2"
+      },
+      {
+        "para_id": "1724.633",
+        "lang": "pt",
+        "refcode": "CES 129.2"
+      },
+      {
+        "para_id": "1917.699",
+        "lang": "pt",
+        "refcode": "CES38 67.2"
+      },
+      {
+        "para_id": "2719.612",
+        "lang": "ro",
+        "refcode": "SSS 129.2"
+      },
+      {
+        "para_id": "1873.590",
+        "lang": "ru",
+        "refcode": "ССШ 129.2"
+      }
+    ]
+  }
+]

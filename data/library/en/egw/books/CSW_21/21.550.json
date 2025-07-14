@@ -1,0 +1,101 @@
+[
+  {
+    "para_id": "21.550",
+    "id_prev": "21.547",
+    "id_next": "21.551",
+    "refcode_1": "CSW",
+    "refcode_2": "119",
+    "refcode_3": "",
+    "refcode_4": "81",
+    "refcode_short": "CSW 119",
+    "refcode_long": "Counsels on Sabbath School Work, p. 119 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Long, Tedious Remarks",
+    "puborder": 344,
+    "translations": [
+      {
+        "para_id": "799.524",
+        "lang": "de",
+        "refcode": "RSs 99"
+      },
+      {
+        "para_id": "1711.587",
+        "lang": "es",
+        "refcode": "COES 132"
+      },
+      {
+        "para_id": "1917.645",
+        "lang": "pt",
+        "refcode": "CES38 62"
+      },
+      {
+        "para_id": "1724.585",
+        "lang": "pt",
+        "refcode": "CES 119"
+      },
+      {
+        "para_id": "2719.566",
+        "lang": "ro",
+        "refcode": "SSS 119"
+      },
+      {
+        "para_id": "1873.545",
+        "lang": "ru",
+        "refcode": "ССШ 119"
+      }
+    ]
+  },
+  {
+    "para_id": "21.551",
+    "id_prev": "21.550",
+    "id_next": "21.552",
+    "refcode_1": "CSW",
+    "refcode_2": "119",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 119.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 119.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those who instruct children should avoid tedious remarks. Short remarks and to the point will have a happy influence. If much is to be said, make up for briefness by frequency. A few words of interest now and then will be more beneficial than to have it all at once. Long speeches burden the small minds of children. Too much talk will lead them to loathe even spiritual instruction, just as overeating burdens the stomach and lessens the appetite, leading even to a loathing of food. The minds of the people may be glutted with too much speechifying. Labor for the church, but especially for the youth, should be line upon line, precept upon precept, here a little and there a little. Give minds time to digest the truths you feed them. Children must be drawn toward heaven, not rashly, but very gently.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 107.1\" data-link=\"121.430\"><em>Testimonies on Sabbath-School Work</em>, 107</span>.",
+    "puborder": 345,
+    "translations": [
+      {
+        "para_id": "11629.524",
+        "lang": "da",
+        "refcode": "RSSA 119.1"
+      },
+      {
+        "para_id": "799.525",
+        "lang": "de",
+        "refcode": "RSs 99.1"
+      },
+      {
+        "para_id": "1711.588",
+        "lang": "es",
+        "refcode": "COES 132.1"
+      },
+      {
+        "para_id": "1917.646",
+        "lang": "pt",
+        "refcode": "CES38 62.1"
+      },
+      {
+        "para_id": "1724.586",
+        "lang": "pt",
+        "refcode": "CES 119.1"
+      },
+      {
+        "para_id": "2719.567",
+        "lang": "ro",
+        "refcode": "SSS 119.1"
+      },
+      {
+        "para_id": "1873.546",
+        "lang": "ru",
+        "refcode": "ССШ 119.1"
+      }
+    ]
+  }
+]

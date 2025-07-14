@@ -1,0 +1,1097 @@
+[
+  {
+    "para_id": "127.2250",
+    "id_prev": "127.2248",
+    "id_next": "127.2251",
+    "refcode_1": "AA",
+    "refcode_2": "509",
+    "refcode_3": "",
+    "refcode_4": "50",
+    "refcode_short": "AA 509",
+    "refcode_long": "The Acts of the Apostles, p. 509 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 50&mdash;Condemned to Die",
+    "puborder": 1404,
+    "translations": [
+      {
+        "para_id": "13804.1683",
+        "lang": "bg",
+        "refcode": "Дa 198"
+      },
+      {
+        "para_id": "11590.2152",
+        "lang": "ce",
+        "refcode": "ABA 434"
+      },
+      {
+        "para_id": "11247.2056",
+        "lang": "cs",
+        "refcode": "PNL 294"
+      },
+      {
+        "para_id": "813.2248",
+        "lang": "de",
+        "refcode": "WA 505"
+      },
+      {
+        "para_id": "198.2086",
+        "lang": "es",
+        "refcode": "HAp 406"
+      },
+      {
+        "para_id": "158.2155",
+        "lang": "fr",
+        "refcode": "CP 455"
+      },
+      {
+        "para_id": "11938.1940",
+        "lang": "hu",
+        "refcode": "AT 335"
+      },
+      {
+        "para_id": "12410.2103",
+        "lang": "id",
+        "refcode": "KR 430"
+      },
+      {
+        "para_id": "882.1949",
+        "lang": "it",
+        "refcode": "UVI 319"
+      },
+      {
+        "para_id": "12335.1862",
+        "lang": "nb",
+        "refcode": "AV 294"
+      },
+      {
+        "para_id": "12008.1754",
+        "lang": "pl",
+        "refcode": "DA 282"
+      },
+      {
+        "para_id": "1806.1835",
+        "lang": "pt",
+        "refcode": "AA 261.3"
+      },
+      {
+        "para_id": "2013.2235",
+        "lang": "ro",
+        "refcode": "FA 509"
+      },
+      {
+        "para_id": "1785.2196",
+        "lang": "ru",
+        "refcode": "ДА 509"
+      },
+      {
+        "para_id": "13874.1874",
+        "lang": "rw",
+        "refcode": "INI 315"
+      },
+      {
+        "para_id": "11182.1848",
+        "lang": "sk",
+        "refcode": "SA 306"
+      },
+      {
+        "para_id": "11904.2026",
+        "lang": "tl",
+        "refcode": "AGA 385"
+      },
+      {
+        "para_id": "11875.1970",
+        "lang": "uk",
+        "refcode": "ДА 350"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2251",
+    "id_prev": "127.2250",
+    "id_next": "127.2252",
+    "refcode_1": "AA",
+    "refcode_2": "509",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 509.1",
+    "refcode_long": "The Acts of the Apostles, p. 509.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "During Paul&apos;s final trial before Nero, the emperor had been so strongly impressed with the force of the apostle&apos;s words that he deferred the decision of the case, neither acquitting nor condemning the accused servant of God. But the emperor&apos;s malice against Paul soon returned. Exasperated by his inability to check the spread of the Christian religion, even in the imperial household, he determined that as soon as a plausible pretext could be found, the apostle should be put to death. Not long afterward Nero pronounced the decision that condemned Paul to a martyr&apos;s death. Inasmuch as a Roman citizen could not be subjected to torture, he was sentenced to be beheaded.",
+    "puborder": 1405,
+    "translations": [
+      {
+        "para_id": "13804.1684",
+        "lang": "bg",
+        "refcode": "Дa 198.6"
+      },
+      {
+        "para_id": "11590.2153",
+        "lang": "ce",
+        "refcode": "ABA 434.1"
+      },
+      {
+        "para_id": "11247.2057",
+        "lang": "cs",
+        "refcode": "PNL 294.1"
+      },
+      {
+        "para_id": "813.2249",
+        "lang": "de",
+        "refcode": "WA 505.1"
+      },
+      {
+        "para_id": "198.2087",
+        "lang": "es",
+        "refcode": "HAp 406.1"
+      },
+      {
+        "para_id": "158.2156",
+        "lang": "fr",
+        "refcode": "CP 455.1"
+      },
+      {
+        "para_id": "158.2157",
+        "lang": "fr",
+        "refcode": "CP 455.2"
+      },
+      {
+        "para_id": "11938.1941",
+        "lang": "hu",
+        "refcode": "AT 335.1"
+      },
+      {
+        "para_id": "12410.2104",
+        "lang": "id",
+        "refcode": "KR 430.1"
+      },
+      {
+        "para_id": "882.1950",
+        "lang": "it",
+        "refcode": "UVI 319.1"
+      },
+      {
+        "para_id": "12335.1863",
+        "lang": "nb",
+        "refcode": "AV 294.1"
+      },
+      {
+        "para_id": "12008.1755",
+        "lang": "pl",
+        "refcode": "DA 282.1"
+      },
+      {
+        "para_id": "1806.1836",
+        "lang": "pt",
+        "refcode": "AA 261.4"
+      },
+      {
+        "para_id": "2013.2236",
+        "lang": "ro",
+        "refcode": "FA 509.1"
+      },
+      {
+        "para_id": "1785.2197",
+        "lang": "ru",
+        "refcode": "ДА 509.1"
+      },
+      {
+        "para_id": "13874.1875",
+        "lang": "rw",
+        "refcode": "INI 315.1"
+      },
+      {
+        "para_id": "11182.1849",
+        "lang": "sk",
+        "refcode": "SA 306.1"
+      },
+      {
+        "para_id": "11904.2027",
+        "lang": "tl",
+        "refcode": "AGA 385.1"
+      },
+      {
+        "para_id": "11875.1971",
+        "lang": "uk",
+        "refcode": "ДА 350.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2252",
+    "id_prev": "127.2251",
+    "id_next": "127.2255",
+    "refcode_1": "AA",
+    "refcode_2": "509",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 509.2",
+    "refcode_long": "The Acts of the Apostles, p. 509.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul was taken in a private manner to the place of execution. Few spectators were allowed to be present; for his persecutors, alarmed at the extent of his influence, feared that converts might be won to Christianity by the scenes of his death. But even the hardened soldiers who attended him <span class=\"page-break\" data-page=\"510\"></span> listened to his words and with amazement saw him cheerful and even joyous in the prospect of death. To some who witnessed his martyrdom, his spirit of forgiveness toward his murderers and his unwavering confidence in Christ till the last, proved a savor of life unto life. More than one accepted the Saviour whom Paul preached, and erelong fearlessly sealed their faith with their blood.",
+    "puborder": 1406,
+    "translations": [
+      {
+        "para_id": "13804.1687",
+        "lang": "bg",
+        "refcode": "Дa 199.1"
+      },
+      {
+        "para_id": "11590.2154",
+        "lang": "ce",
+        "refcode": "ABA 434.2"
+      },
+      {
+        "para_id": "11247.2058",
+        "lang": "cs",
+        "refcode": "PNL 294.2"
+      },
+      {
+        "para_id": "813.2250",
+        "lang": "de",
+        "refcode": "WA 505.2"
+      },
+      {
+        "para_id": "198.2088",
+        "lang": "es",
+        "refcode": "HAp 406.2"
+      },
+      {
+        "para_id": "158.2157",
+        "lang": "fr",
+        "refcode": "CP 455.2"
+      },
+      {
+        "para_id": "11938.1942",
+        "lang": "hu",
+        "refcode": "AT 335.2"
+      },
+      {
+        "para_id": "12410.2105",
+        "lang": "id",
+        "refcode": "KR 430.2"
+      },
+      {
+        "para_id": "882.1951",
+        "lang": "it",
+        "refcode": "UVI 319.2"
+      },
+      {
+        "para_id": "12335.1864",
+        "lang": "nb",
+        "refcode": "AV 294.2"
+      },
+      {
+        "para_id": "12008.1756",
+        "lang": "pl",
+        "refcode": "DA 282.2"
+      },
+      {
+        "para_id": "1806.1837",
+        "lang": "pt",
+        "refcode": "AA 261.5"
+      },
+      {
+        "para_id": "2013.2237",
+        "lang": "ro",
+        "refcode": "FA 509.2"
+      },
+      {
+        "para_id": "1785.2198",
+        "lang": "ru",
+        "refcode": "ДА 509.2"
+      },
+      {
+        "para_id": "13874.1876",
+        "lang": "rw",
+        "refcode": "INI 315.2"
+      },
+      {
+        "para_id": "11182.1850",
+        "lang": "sk",
+        "refcode": "SA 306.2"
+      },
+      {
+        "para_id": "11904.2028",
+        "lang": "tl",
+        "refcode": "AGA 385.2"
+      },
+      {
+        "para_id": "11875.1972",
+        "lang": "uk",
+        "refcode": "ДА 350.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2255",
+    "id_prev": "127.2252",
+    "id_next": "127.2256",
+    "refcode_1": "AA",
+    "refcode_2": "510",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 510.1",
+    "refcode_long": "The Acts of the Apostles, p. 510.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Until his latest hour the life of Paul testified to the truth of his words to the Corinthians: &ldquo;God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ. But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us. We are troubled on every side, yet not distressed; we are perplexed, but not in despair; persecuted, but not forsaken; cast down, but not destroyed; always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"2 Corinthians 4:6\" data-link=\"1965.58862\">2 Corinthians 4:6-10</span>. His sufficiency was not in himself, but in the presence and agency of the divine Spirit that filled his soul and brought every thought into subjection to the will of Christ. The prophet declares, &ldquo;Thou wilt keep him in perfect peace, whose mind is stayed on Thee: because he trusteth in Thee.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 26:3\" data-link=\"1965.36997\">Isaiah 26:3</span>. The heaven-born peace expressed on Paul&apos;s countenance won many a soul to the gospel.",
+    "puborder": 1407,
+    "translations": [
+      {
+        "para_id": "13804.1688",
+        "lang": "bg",
+        "refcode": "Дa 199.2"
+      },
+      {
+        "para_id": "11590.2155",
+        "lang": "ce",
+        "refcode": "ABA 434.3"
+      },
+      {
+        "para_id": "11247.2059",
+        "lang": "cs",
+        "refcode": "PNL 294.3"
+      },
+      {
+        "para_id": "813.2253",
+        "lang": "de",
+        "refcode": "WA 506.1"
+      },
+      {
+        "para_id": "198.2089",
+        "lang": "es",
+        "refcode": "HAp 406.3"
+      },
+      {
+        "para_id": "158.2162",
+        "lang": "fr",
+        "refcode": "CP 456.3"
+      },
+      {
+        "para_id": "158.2163",
+        "lang": "fr",
+        "refcode": "CP 456.4"
+      },
+      {
+        "para_id": "158.2161",
+        "lang": "fr",
+        "refcode": "CP 456.2"
+      },
+      {
+        "para_id": "11938.1943",
+        "lang": "hu",
+        "refcode": "AT 335.3"
+      },
+      {
+        "para_id": "12410.2108",
+        "lang": "id",
+        "refcode": "KR 431.1"
+      },
+      {
+        "para_id": "882.1952",
+        "lang": "it",
+        "refcode": "UVI 319.3"
+      },
+      {
+        "para_id": "12335.1865",
+        "lang": "nb",
+        "refcode": "AV 294.3"
+      },
+      {
+        "para_id": "12008.1757",
+        "lang": "pl",
+        "refcode": "DA 282.3"
+      },
+      {
+        "para_id": "1806.1839",
+        "lang": "pt",
+        "refcode": "AA 262.1"
+      },
+      {
+        "para_id": "2013.2240",
+        "lang": "ro",
+        "refcode": "FA 510.1"
+      },
+      {
+        "para_id": "1785.2201",
+        "lang": "ru",
+        "refcode": "ДА 510.1"
+      },
+      {
+        "para_id": "13874.1877",
+        "lang": "rw",
+        "refcode": "INI 315.3"
+      },
+      {
+        "para_id": "11182.1851",
+        "lang": "sk",
+        "refcode": "SA 306.3"
+      },
+      {
+        "para_id": "11904.2029",
+        "lang": "tl",
+        "refcode": "AGA 385.3"
+      },
+      {
+        "para_id": "11875.1973",
+        "lang": "uk",
+        "refcode": "ДА 350.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2256",
+    "id_prev": "127.2255",
+    "id_next": "127.2259",
+    "refcode_1": "AA",
+    "refcode_2": "510",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 510.2",
+    "refcode_long": "The Acts of the Apostles, p. 510.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul carried with him the atmosphere of heaven. All who associated with him felt the influence of his union <span class=\"page-break\" data-page=\"511\"></span> with Christ. The fact that his own life exemplified the truth he proclaimed, gave convincing power to his preaching. Here lies the power of truth. The unstudied, unconscious influence of a holy life is the most convincing sermon that can be given in favor of Christianity. Argument, even when unanswerable, may provoke only opposition; but a godly example has a power that it is impossible wholly to resist.",
+    "puborder": 1408,
+    "translations": [
+      {
+        "para_id": "13804.1689",
+        "lang": "bg",
+        "refcode": "Дa 199.3"
+      },
+      {
+        "para_id": "11590.2158",
+        "lang": "ce",
+        "refcode": "ABA 435.1"
+      },
+      {
+        "para_id": "11247.2062",
+        "lang": "cs",
+        "refcode": "PNL 295.1"
+      },
+      {
+        "para_id": "813.2254",
+        "lang": "de",
+        "refcode": "WA 506.2"
+      },
+      {
+        "para_id": "198.2092",
+        "lang": "es",
+        "refcode": "HAp 407.1"
+      },
+      {
+        "para_id": "158.2164",
+        "lang": "fr",
+        "refcode": "CP 456.5"
+      },
+      {
+        "para_id": "11938.1946",
+        "lang": "hu",
+        "refcode": "AT 336.1"
+      },
+      {
+        "para_id": "12410.2109",
+        "lang": "id",
+        "refcode": "KR 431.2"
+      },
+      {
+        "para_id": "882.1955",
+        "lang": "it",
+        "refcode": "UVI 320.1"
+      },
+      {
+        "para_id": "12335.1866",
+        "lang": "nb",
+        "refcode": "AV 294.4"
+      },
+      {
+        "para_id": "12008.1760",
+        "lang": "pl",
+        "refcode": "DA 283.1"
+      },
+      {
+        "para_id": "1806.1840",
+        "lang": "pt",
+        "refcode": "AA 262.2"
+      },
+      {
+        "para_id": "2013.2241",
+        "lang": "ro",
+        "refcode": "FA 510.2"
+      },
+      {
+        "para_id": "1785.2202",
+        "lang": "ru",
+        "refcode": "ДА 510.2"
+      },
+      {
+        "para_id": "13874.1879",
+        "lang": "rw",
+        "refcode": "INI 316.1"
+      },
+      {
+        "para_id": "11182.1853",
+        "lang": "sk",
+        "refcode": "SA 307.1"
+      },
+      {
+        "para_id": "11904.2032",
+        "lang": "tl",
+        "refcode": "AGA 386.1"
+      },
+      {
+        "para_id": "11875.1976",
+        "lang": "uk",
+        "refcode": "ДА 351.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2259",
+    "id_prev": "127.2256",
+    "id_next": "127.2260",
+    "refcode_1": "AA",
+    "refcode_2": "511",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 511.1",
+    "refcode_long": "The Acts of the Apostles, p. 511.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle lost sight of his own approaching sufferings in his solicitude for those whom he was about to leave to cope with prejudice, hatred, and persecution. The few Christians who accompanied him to the place of execution he endeavored to strengthen and encourage by repeating the promises given for those who are persecuted for righteousness&rsquo; sake. He assured them that nothing would fail of all that the Lord had spoken concerning His tried and faithful children. For a little season they might be in heaviness through manifold temptations; they might be destitute of earthly comforts; but they could encourage their hearts with the assurance of God&apos;s faithfulness, saying, &ldquo;I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"2 Timothy 1:12\" data-link=\"1965.60826\">2 Timothy 1:12</span>. Soon the night of trial and suffering would end, and then would dawn the glad morning of peace and perfect day.",
+    "puborder": 1409,
+    "translations": [
+      {
+        "para_id": "13804.1690",
+        "lang": "bg",
+        "refcode": "Дa 199.4"
+      },
+      {
+        "para_id": "11590.2159",
+        "lang": "ce",
+        "refcode": "ABA 435.2"
+      },
+      {
+        "para_id": "11247.2063",
+        "lang": "cs",
+        "refcode": "PNL 295.2"
+      },
+      {
+        "para_id": "813.2256",
+        "lang": "de",
+        "refcode": "WA 507.1"
+      },
+      {
+        "para_id": "198.2093",
+        "lang": "es",
+        "refcode": "HAp 407.2"
+      },
+      {
+        "para_id": "158.2167",
+        "lang": "fr",
+        "refcode": "CP 457.1"
+      },
+      {
+        "para_id": "11938.1947",
+        "lang": "hu",
+        "refcode": "AT 336.2"
+      },
+      {
+        "para_id": "12410.2110",
+        "lang": "id",
+        "refcode": "KR 431.3"
+      },
+      {
+        "para_id": "882.1956",
+        "lang": "it",
+        "refcode": "UVI 320.2"
+      },
+      {
+        "para_id": "12335.1869",
+        "lang": "nb",
+        "refcode": "AV 295.1"
+      },
+      {
+        "para_id": "12008.1761",
+        "lang": "pl",
+        "refcode": "DA 283.2"
+      },
+      {
+        "para_id": "1806.1841",
+        "lang": "pt",
+        "refcode": "AA 262.3"
+      },
+      {
+        "para_id": "2013.2244",
+        "lang": "ro",
+        "refcode": "FA 511.1"
+      },
+      {
+        "para_id": "1785.2205",
+        "lang": "ru",
+        "refcode": "ДА 511.1"
+      },
+      {
+        "para_id": "13874.1880",
+        "lang": "rw",
+        "refcode": "INI 316.2"
+      },
+      {
+        "para_id": "11182.1854",
+        "lang": "sk",
+        "refcode": "SA 307.2"
+      },
+      {
+        "para_id": "11904.2033",
+        "lang": "tl",
+        "refcode": "AGA 386.2"
+      },
+      {
+        "para_id": "11875.1977",
+        "lang": "uk",
+        "refcode": "ДА 351.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2260",
+    "id_prev": "127.2259",
+    "id_next": "127.2263",
+    "refcode_1": "AA",
+    "refcode_2": "511",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 511.2",
+    "refcode_long": "The Acts of the Apostles, p. 511.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle was looking into the great beyond, not with uncertainty or dread, but with joyous hope and longing expectation. As he stands at the place of martyrdom he sees not the sword of the executioner or the earth so soon to <span class=\"page-break\" data-page=\"512\"></span> receive his blood; he looks up through the calm blue heaven of that summer day to the throne of the Eternal.",
+    "puborder": 1410,
+    "translations": [
+      {
+        "para_id": "13804.1691",
+        "lang": "bg",
+        "refcode": "Дa 199.5"
+      },
+      {
+        "para_id": "11590.2162",
+        "lang": "ce",
+        "refcode": "ABA 436.1"
+      },
+      {
+        "para_id": "11247.2064",
+        "lang": "cs",
+        "refcode": "PNL 295.3"
+      },
+      {
+        "para_id": "813.2257",
+        "lang": "de",
+        "refcode": "WA 507.2"
+      },
+      {
+        "para_id": "198.2096",
+        "lang": "es",
+        "refcode": "HAp 408.1"
+      },
+      {
+        "para_id": "158.2168",
+        "lang": "fr",
+        "refcode": "CP 457.2"
+      },
+      {
+        "para_id": "11938.1948",
+        "lang": "hu",
+        "refcode": "AT 336.3"
+      },
+      {
+        "para_id": "12410.2113",
+        "lang": "id",
+        "refcode": "KR 432.1"
+      },
+      {
+        "para_id": "882.1957",
+        "lang": "it",
+        "refcode": "UVI 320.3"
+      },
+      {
+        "para_id": "12335.1870",
+        "lang": "nb",
+        "refcode": "AV 295.2"
+      },
+      {
+        "para_id": "12008.1762",
+        "lang": "pl",
+        "refcode": "DA 283.3"
+      },
+      {
+        "para_id": "1806.1842",
+        "lang": "pt",
+        "refcode": "AA 262.4"
+      },
+      {
+        "para_id": "2013.2245",
+        "lang": "ro",
+        "refcode": "FA 511.2"
+      },
+      {
+        "para_id": "1785.2206",
+        "lang": "ru",
+        "refcode": "ДА 511.2"
+      },
+      {
+        "para_id": "13874.1881",
+        "lang": "rw",
+        "refcode": "INI 316.3"
+      },
+      {
+        "para_id": "11182.1855",
+        "lang": "sk",
+        "refcode": "SA 307.3"
+      },
+      {
+        "para_id": "11904.2036",
+        "lang": "tl",
+        "refcode": "AGA 387.1"
+      },
+      {
+        "para_id": "11875.1979",
+        "lang": "uk",
+        "refcode": "ДА 352.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2263",
+    "id_prev": "127.2260",
+    "id_next": "127.2264",
+    "refcode_1": "AA",
+    "refcode_2": "512",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 512.1",
+    "refcode_long": "The Acts of the Apostles, p. 512.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "This man of faith beholds the ladder of Jacob&apos;s vision, representing Christ, who has connected earth with heaven, and finite man with the infinite God. His faith is strengthened as he calls to mind how patriarchs and prophets have relied upon the One who is his support and consolation, and for whom he is giving his life. From these holy men who from century to century have borne testimony for their faith, he hears the assurance that God is true. His fellow apostles, who, to preach the gospel of Christ, went forth to meet religious bigotry and heathen superstition, persecution, and contempt, who counted not their lives dear unto themselves that they might bear aloft the light of the cross amidst the dark mazes of infidelity&mdash;these he hears witnessing to Jesus as the Son of God, the Saviour of the world. From the rack, the stake, the dungeon, from dens and caves of the earth, there falls upon his ear the martyr&apos;s shout of triumph. He hears the witness of steadfast souls, who, though destitute, afflicted, tormented, yet bear fearless, solemn testimony for the faith, declaring, &ldquo;I know whom I have believed.&rdquo; These, yielding up their lives for the faith, declare to the world that He in whom they have trusted is able to save to the uttermost.",
+    "puborder": 1411,
+    "translations": [
+      {
+        "para_id": "13804.1693",
+        "lang": "bg",
+        "refcode": "Дa 200.1"
+      },
+      {
+        "para_id": "11590.2163",
+        "lang": "ce",
+        "refcode": "ABA 436.2"
+      },
+      {
+        "para_id": "11247.2065",
+        "lang": "cs",
+        "refcode": "PNL 295.4"
+      },
+      {
+        "para_id": "813.2258",
+        "lang": "de",
+        "refcode": "WA 507.3"
+      },
+      {
+        "para_id": "198.2097",
+        "lang": "es",
+        "refcode": "HAp 408.2"
+      },
+      {
+        "para_id": "158.2173",
+        "lang": "fr",
+        "refcode": "CP 458.1"
+      },
+      {
+        "para_id": "158.2169",
+        "lang": "fr",
+        "refcode": "CP 457.3"
+      },
+      {
+        "para_id": "158.2170",
+        "lang": "fr",
+        "refcode": "CP 457.4"
+      },
+      {
+        "para_id": "11938.1949",
+        "lang": "hu",
+        "refcode": "AT 336.4"
+      },
+      {
+        "para_id": "12410.2114",
+        "lang": "id",
+        "refcode": "KR 432.2"
+      },
+      {
+        "para_id": "882.1958",
+        "lang": "it",
+        "refcode": "UVI 320.4"
+      },
+      {
+        "para_id": "12335.1871",
+        "lang": "nb",
+        "refcode": "AV 295.3"
+      },
+      {
+        "para_id": "12008.1763",
+        "lang": "pl",
+        "refcode": "DA 283.4"
+      },
+      {
+        "para_id": "1806.1843",
+        "lang": "pt",
+        "refcode": "AA 262.5"
+      },
+      {
+        "para_id": "2013.2248",
+        "lang": "ro",
+        "refcode": "FA 512.1"
+      },
+      {
+        "para_id": "1785.2208",
+        "lang": "ru",
+        "refcode": "ДА 512.1"
+      },
+      {
+        "para_id": "13874.1882",
+        "lang": "rw",
+        "refcode": "INI 316.4"
+      },
+      {
+        "para_id": "11182.1856",
+        "lang": "sk",
+        "refcode": "SA 307.4"
+      },
+      {
+        "para_id": "11904.2037",
+        "lang": "tl",
+        "refcode": "AGA 387.2"
+      },
+      {
+        "para_id": "11875.1980",
+        "lang": "uk",
+        "refcode": "ДА 352.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2264",
+    "id_prev": "127.2263",
+    "id_next": "127.2267",
+    "refcode_1": "AA",
+    "refcode_2": "512",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 512.2",
+    "refcode_long": "The Acts of the Apostles, p. 512.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Ransomed by the sacrifice of Christ, washed from sin in His blood, and clothed in His righteousness, Paul has the witness in himself that his soul is precious in the sight of his Redeemer. His life is hid with Christ in God, and he is <span class=\"page-break\" data-page=\"513\"></span> persuaded that He who has conquered death is able to keep that which is committed to His trust. His mind grasps the Saviour&apos;s promise, &ldquo;I will raise him up at the last day.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"John 6:40\" data-link=\"1965.53643\">John 6:40</span>. His thoughts and hopes are centered on the second coming of his Lord. And as the sword of the executioner descends and the shadows of death gather about the martyr, his latest thought springs forward, as will his earliest in the great awakening, to meet the Life-giver, who shall welcome him to the joy of the blest.",
+    "puborder": 1412,
+    "translations": [
+      {
+        "para_id": "13804.1694",
+        "lang": "bg",
+        "refcode": "Дa 200.2"
+      },
+      {
+        "para_id": "11590.2166",
+        "lang": "ce",
+        "refcode": "ABA 437.1"
+      },
+      {
+        "para_id": "11247.2068",
+        "lang": "cs",
+        "refcode": "PNL 296.1"
+      },
+      {
+        "para_id": "813.2261",
+        "lang": "de",
+        "refcode": "WA 508.1"
+      },
+      {
+        "para_id": "198.2098",
+        "lang": "es",
+        "refcode": "HAp 408.3"
+      },
+      {
+        "para_id": "158.2174",
+        "lang": "fr",
+        "refcode": "CP 458.2"
+      },
+      {
+        "para_id": "11938.1952",
+        "lang": "hu",
+        "refcode": "AT 337.1"
+      },
+      {
+        "para_id": "12410.2117",
+        "lang": "id",
+        "refcode": "KR 433.1"
+      },
+      {
+        "para_id": "882.1961",
+        "lang": "it",
+        "refcode": "UVI 321.1"
+      },
+      {
+        "para_id": "12335.1874",
+        "lang": "nb",
+        "refcode": "AV 296.1"
+      },
+      {
+        "para_id": "12008.1766",
+        "lang": "pl",
+        "refcode": "DA 284.1"
+      },
+      {
+        "para_id": "1806.1845",
+        "lang": "pt",
+        "refcode": "AA 262.7"
+      },
+      {
+        "para_id": "2013.2249",
+        "lang": "ro",
+        "refcode": "FA 512.2"
+      },
+      {
+        "para_id": "1785.2209",
+        "lang": "ru",
+        "refcode": "ДА 512.2"
+      },
+      {
+        "para_id": "13874.1885",
+        "lang": "rw",
+        "refcode": "INI 317.1"
+      },
+      {
+        "para_id": "11182.1858",
+        "lang": "sk",
+        "refcode": "SA 308.1"
+      },
+      {
+        "para_id": "11904.2038",
+        "lang": "tl",
+        "refcode": "AGA 387.3"
+      },
+      {
+        "para_id": "11875.1981",
+        "lang": "uk",
+        "refcode": "ДА 352.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2267",
+    "id_prev": "127.2264",
+    "id_next": "127.2269",
+    "refcode_1": "AA",
+    "refcode_2": "513",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 513.1",
+    "refcode_long": "The Acts of the Apostles, p. 513.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Well-nigh a score of centuries have passed since Paul the aged poured out his blood as a witness for the word of God and the testimony of Jesus Christ. No faithful hand recorded for the generations to come the last scenes in the life of this holy man, but Inspiration has preserved for us his dying testimony. Like a trumpet peal his voice has rung out through all the ages since, nerving with his own courage thousands of witnesses for Christ and wakening in thousands of sorrow-stricken hearts the echo of his own triumphant joy: &ldquo;I am now ready to be offered, and the time of my departure is at hand. I have fought a good fight, I have finished my course, I have kept the faith: henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous Judge, shall give me at that day: and not to me only, but unto all them also that love His appearing.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"2 Timothy 4:6\" data-link=\"1965.60939\">2 Timothy 4:6-8</span>.",
+    "puborder": 1413,
+    "translations": [
+      {
+        "para_id": "13804.1695",
+        "lang": "bg",
+        "refcode": "Дa 200.3"
+      },
+      {
+        "para_id": "11590.2167",
+        "lang": "ce",
+        "refcode": "ABA 437.2"
+      },
+      {
+        "para_id": "11247.2069",
+        "lang": "cs",
+        "refcode": "PNL 296.2"
+      },
+      {
+        "para_id": "813.2262",
+        "lang": "de",
+        "refcode": "WA 508.2"
+      },
+      {
+        "para_id": "198.2101",
+        "lang": "es",
+        "refcode": "HAp 409.1"
+      },
+      {
+        "para_id": "158.2175",
+        "lang": "fr",
+        "refcode": "CP 458.3"
+      },
+      {
+        "para_id": "11938.1953",
+        "lang": "hu",
+        "refcode": "AT 337.2"
+      },
+      {
+        "para_id": "12410.2118",
+        "lang": "id",
+        "refcode": "KR 433.2"
+      },
+      {
+        "para_id": "882.1962",
+        "lang": "it",
+        "refcode": "UVI 321.2"
+      },
+      {
+        "para_id": "12335.1875",
+        "lang": "nb",
+        "refcode": "AV 296.2"
+      },
+      {
+        "para_id": "12008.1767",
+        "lang": "pl",
+        "refcode": "DA 284.2"
+      },
+      {
+        "para_id": "1806.1845",
+        "lang": "pt",
+        "refcode": "AA 262.7"
+      },
+      {
+        "para_id": "2013.2252",
+        "lang": "ro",
+        "refcode": "FA 513.1"
+      },
+      {
+        "para_id": "1785.2212",
+        "lang": "ru",
+        "refcode": "ДА 513.1"
+      },
+      {
+        "para_id": "13874.1886",
+        "lang": "rw",
+        "refcode": "INI 317.2"
+      },
+      {
+        "para_id": "11182.1859",
+        "lang": "sk",
+        "refcode": "SA 308.2"
+      },
+      {
+        "para_id": "11904.2041",
+        "lang": "tl",
+        "refcode": "AGA 388.1"
+      },
+      {
+        "para_id": "11875.1982",
+        "lang": "uk",
+        "refcode": "ДА 352.4"
+      }
+    ]
+  }
+]

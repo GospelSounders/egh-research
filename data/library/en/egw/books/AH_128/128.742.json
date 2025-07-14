@@ -1,0 +1,749 @@
+[
+  {
+    "para_id": "128.742",
+    "id_prev": "128.740",
+    "id_next": "128.743",
+    "refcode_1": "AH",
+    "refcode_2": "167",
+    "refcode_3": "",
+    "refcode_4": "25",
+    "refcode_short": "AH 167",
+    "refcode_long": "The Adventist Home, p. 167 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 25&mdash;Caring for Needy Children",
+    "puborder": 483,
+    "translations": [
+      {
+        "para_id": "13839.597",
+        "lang": "bg",
+        "refcode": "ХД 69"
+      },
+      {
+        "para_id": "177.771",
+        "lang": "es",
+        "refcode": "HC 149"
+      },
+      {
+        "para_id": "193.730",
+        "lang": "fr",
+        "refcode": "FC 159"
+      },
+      {
+        "para_id": "12869.875",
+        "lang": "id",
+        "refcode": "MKB 157"
+      },
+      {
+        "para_id": "891.447",
+        "lang": "it",
+        "refcode": "FC 66"
+      },
+      {
+        "para_id": "12178.609",
+        "lang": "pl",
+        "refcode": "ChD 101"
+      },
+      {
+        "para_id": "1955.967",
+        "lang": "pt",
+        "refcode": "LA 167"
+      },
+      {
+        "para_id": "2026.734",
+        "lang": "ro",
+        "refcode": "CA 167"
+      },
+      {
+        "para_id": "1803.705",
+        "lang": "ru",
+        "refcode": "ХД 167"
+      },
+      {
+        "para_id": "12131.657",
+        "lang": "uk",
+        "refcode": "ХР 132"
+      }
+    ]
+  },
+  {
+    "para_id": "128.743",
+    "id_prev": "128.742",
+    "id_next": "128.744",
+    "refcode_1": "AH",
+    "refcode_2": "167",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 167.1",
+    "refcode_long": "The Adventist Home, p. 167.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Orphaned Children</strong>&mdash;Many a father who has died in the faith, resting upon the eternal promise of God, has left his loved ones in full trust that the Lord would care for them. And how does the Lord provide for these bereaved ones? He does not work a miracle in sending manna from heaven; He does not send ravens to bring them food; but He works a miracle upon human hearts, expelling selfishness from the soul and unsealing the fountains of benevolence. He tests the love of His professed followers by committing to their tender mercies the afflicted and bereaved ones.",
+    "puborder": 484,
+    "translations": [
+      {
+        "para_id": "13839.598",
+        "lang": "bg",
+        "refcode": "ХД 69.3"
+      },
+      {
+        "para_id": "177.772",
+        "lang": "es",
+        "refcode": "HC 149.1"
+      },
+      {
+        "para_id": "193.731",
+        "lang": "fr",
+        "refcode": "FC 159.1"
+      },
+      {
+        "para_id": "12869.877",
+        "lang": "id",
+        "refcode": "MKB 157.1"
+      },
+      {
+        "para_id": "12178.610",
+        "lang": "pl",
+        "refcode": "ChD 101.2"
+      },
+      {
+        "para_id": "1955.969",
+        "lang": "pt",
+        "refcode": "LA 167.1"
+      },
+      {
+        "para_id": "1955.968",
+        "lang": "pt",
+        "refcode": "LA 167"
+      },
+      {
+        "para_id": "2026.735",
+        "lang": "ro",
+        "refcode": "CA 167.1"
+      },
+      {
+        "para_id": "1803.706",
+        "lang": "ru",
+        "refcode": "ХД 167.1"
+      },
+      {
+        "para_id": "12131.658",
+        "lang": "uk",
+        "refcode": "ХР 132.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.744",
+    "id_prev": "128.743",
+    "id_next": "128.745",
+    "refcode_1": "AH",
+    "refcode_2": "167",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 167.2",
+    "refcode_long": "The Adventist Home, p. 167.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Let those who have the love of God open their hearts and homes to take in these children....",
+    "puborder": 485,
+    "translations": [
+      {
+        "para_id": "13839.599",
+        "lang": "bg",
+        "refcode": "ХД 69.4"
+      },
+      {
+        "para_id": "177.773",
+        "lang": "es",
+        "refcode": "HC 149.2"
+      },
+      {
+        "para_id": "193.732",
+        "lang": "fr",
+        "refcode": "FC 159.2"
+      },
+      {
+        "para_id": "12869.878",
+        "lang": "id",
+        "refcode": "MKB 157.2"
+      },
+      {
+        "para_id": "12178.611",
+        "lang": "pl",
+        "refcode": "ChD 101.3"
+      },
+      {
+        "para_id": "1955.970",
+        "lang": "pt",
+        "refcode": "LA 167.2"
+      },
+      {
+        "para_id": "2026.736",
+        "lang": "ro",
+        "refcode": "CA 167.2"
+      },
+      {
+        "para_id": "1803.707",
+        "lang": "ru",
+        "refcode": "ХД 167.2"
+      },
+      {
+        "para_id": "12131.659",
+        "lang": "uk",
+        "refcode": "ХР 132.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.745",
+    "id_prev": "128.744",
+    "id_next": "128.746",
+    "refcode_1": "AH",
+    "refcode_2": "167",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 167.3",
+    "refcode_long": "The Adventist Home, p. 167.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There is a wide field of usefulness before all who will work for the Master in caring for these children and youth who have been deprived of the watchful guidance of parents and the subduing influence of a Christian home. Many of them have inherited evil traits of character; and if left to grow up in ignorance, they will drift into associations that lead to vice and crime. These unpromising children need to be placed in a position favorable for the formation of a right character, that they may become children of God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"6T 281.1\" data-link=\"118.1513\">Testimonies for the Church 6:281, 282</span>.</span></a></sup>",
+    "puborder": 486,
+    "translations": [
+      {
+        "para_id": "13839.600",
+        "lang": "bg",
+        "refcode": "ХД 69.5"
+      },
+      {
+        "para_id": "177.774",
+        "lang": "es",
+        "refcode": "HC 149.3"
+      },
+      {
+        "para_id": "193.733",
+        "lang": "fr",
+        "refcode": "FC 159.3"
+      },
+      {
+        "para_id": "12869.881",
+        "lang": "id",
+        "refcode": "MKB 158.1"
+      },
+      {
+        "para_id": "12178.611",
+        "lang": "pl",
+        "refcode": "ChD 101.3"
+      },
+      {
+        "para_id": "1955.971",
+        "lang": "pt",
+        "refcode": "LA 167.3"
+      },
+      {
+        "para_id": "2026.737",
+        "lang": "ro",
+        "refcode": "CA 167.3"
+      },
+      {
+        "para_id": "1803.708",
+        "lang": "ru",
+        "refcode": "ХД 167.3"
+      },
+      {
+        "para_id": "12131.659",
+        "lang": "uk",
+        "refcode": "ХР 132.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.746",
+    "id_prev": "128.745",
+    "id_next": "128.749",
+    "refcode_1": "AH",
+    "refcode_2": "167",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 167.4",
+    "refcode_long": "The Adventist Home, p. 167.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Responsibility of the Church</strong>&mdash;Fatherless and motherless children are thrown into the arms of the church, and Christ says to His followers: Take these destitute children, bring them up for Me, and ye shall receive your wages. I have seen much selfishness exhibited in these things. Unless there is some special <span class=\"page-break\" data-page=\"168\"></span> evidence that they <em>themselves</em> are to be benefited by adopting into their family those who need homes, some turn away and answer: No. They do not seem to know or care whether such are saved or lost. That, they think, is not their business. With Cain they say: &ldquo;Am I my brother&apos;s keeper?&rdquo; They are not willing to be put to inconvenience or to make any sacrifice for the orphans, and they indifferently thrust such ones into the arms of the world, who are sometimes more willing to receive them than are these professed Christians. In the day of God inquiry will be made for those whom Heaven gave them the opportunity of saving. But they wished to be excused, and would not engage in the good work unless they could make it a matter of profit to them. I have been shown that those who refuse these opportunities for doing good will hear from Jesus: &ldquo;As ye did it not to one of the least of these, ye did it not to Me.&rdquo; Please read <span class=\"egwlink egwlink_bible\" title=\"Isaiah 58:1\" data-link=\"1965.38337\">Isaiah 58</span>: [<span class=\"egwlink egwlink_bible\" title=\"Isaiah 58:5\" data-link=\"1965.38345\">verses 5-11</span>].<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 33.1\" data-link=\"120.136\">Ibid., 2:33</span>.</span></a></sup>",
+    "puborder": 487,
+    "translations": [
+      {
+        "para_id": "13839.603",
+        "lang": "bg",
+        "refcode": "ХД 70.1"
+      },
+      {
+        "para_id": "177.775",
+        "lang": "es",
+        "refcode": "HC 149.4"
+      },
+      {
+        "para_id": "193.734",
+        "lang": "fr",
+        "refcode": "FC 159.4"
+      },
+      {
+        "para_id": "12869.883",
+        "lang": "id",
+        "refcode": "MKB 158.2"
+      },
+      {
+        "para_id": "891.449",
+        "lang": "it",
+        "refcode": "FC 66.3"
+      },
+      {
+        "para_id": "891.448",
+        "lang": "it",
+        "refcode": "FC 66"
+      },
+      {
+        "para_id": "12178.613",
+        "lang": "pl",
+        "refcode": "ChD 102.1"
+      },
+      {
+        "para_id": "1955.972",
+        "lang": "pt",
+        "refcode": "LA 167"
+      },
+      {
+        "para_id": "1955.973",
+        "lang": "pt",
+        "refcode": "LA 167.4"
+      },
+      {
+        "para_id": "2026.738",
+        "lang": "ro",
+        "refcode": "CA 167.4"
+      },
+      {
+        "para_id": "1803.709",
+        "lang": "ru",
+        "refcode": "ХД 167.4"
+      },
+      {
+        "para_id": "12131.660",
+        "lang": "uk",
+        "refcode": "ХР 132.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.749",
+    "id_prev": "128.746",
+    "id_next": "128.752",
+    "refcode_1": "AH",
+    "refcode_2": "168",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 168.1",
+    "refcode_long": "The Adventist Home, p. 168.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>An Appeal to Childless Couples</strong>&mdash;Some who have not children of their own should educate themselves to love and care for the children of others. They may not be called to go to a foreign field of labor, but they may be called to work in the very locality in which they live. In place of giving so much attention to pets, lavishing affection upon dumb animals, let them exercise their talent upon human beings who have a heaven to win and a hell to shun. Let them give their attention to little children whose characters they may mold and fashion after the divine similitude. Place your love upon the homeless little ones that are around you. Instead of closing your heart to the members of the human family, see how many of these little homeless ones you can bring up in the nurture and admonition of the Lord. There is an abundance <span class=\"page-break\" data-page=\"169\"></span> of work for everyone who wants work to do. By engaging in this line of Christian endeavor, the church may be increased in members and enriched in spirit. The work of saving the homeless and the fatherless is everyone&apos;s business.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 38, 1895\" data-link=\"14060.5112001\">Manuscript 38, 1895</span>.</span></a></sup>",
+    "puborder": 488,
+    "translations": [
+      {
+        "para_id": "13839.604",
+        "lang": "bg",
+        "refcode": "ХД 70.2"
+      },
+      {
+        "para_id": "177.778",
+        "lang": "es",
+        "refcode": "HC 150.1"
+      },
+      {
+        "para_id": "193.737",
+        "lang": "fr",
+        "refcode": "FC 160.1"
+      },
+      {
+        "para_id": "12869.888",
+        "lang": "id",
+        "refcode": "MKB 159.1"
+      },
+      {
+        "para_id": "12869.885",
+        "lang": "id",
+        "refcode": "MKB 158.3"
+      },
+      {
+        "para_id": "891.453",
+        "lang": "it",
+        "refcode": "FC 67.1"
+      },
+      {
+        "para_id": "891.452",
+        "lang": "it",
+        "refcode": "FC 67"
+      },
+      {
+        "para_id": "12178.614",
+        "lang": "pl",
+        "refcode": "ChD 102.2"
+      },
+      {
+        "para_id": "1955.976",
+        "lang": "pt",
+        "refcode": "LA 168"
+      },
+      {
+        "para_id": "1955.977",
+        "lang": "pt",
+        "refcode": "LA 168.1"
+      },
+      {
+        "para_id": "2026.741",
+        "lang": "ro",
+        "refcode": "CA 168.1"
+      },
+      {
+        "para_id": "1803.712",
+        "lang": "ru",
+        "refcode": "ХД 168.1"
+      },
+      {
+        "para_id": "12131.663",
+        "lang": "uk",
+        "refcode": "ХР 133.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.752",
+    "id_prev": "128.749",
+    "id_next": "128.753",
+    "refcode_1": "AH",
+    "refcode_2": "169",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 169.1",
+    "refcode_long": "The Adventist Home, p. 169.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "If those who have no children and whom God has made stewards of means would expand their hearts to care for children who need love, care, and affection, and assistance with this world&apos;s goods, they would be far happier than they are today. So long as youth who have not a father&apos;s pitying care nor a mother&apos;s tender love are exposed to the corrupting influences of these last days, it is somebody&apos;s duty to supply the place of father and mother to some of them. Learn to give them love, affection, and sympathy. All who profess to have a Father in heaven, who they hope will care for them and finally take them to the home He has prepared for them, ought to feel a solemn obligation resting upon them to be friends to the friendless and fathers to the orphans, to aid the widows, and be of some practical use in this world by benefiting humanity.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 329.1\" data-link=\"120.1435\">Testimonies for the Church 2:329</span>.</span></a></sup>",
+    "puborder": 489,
+    "translations": [
+      {
+        "para_id": "13839.605",
+        "lang": "bg",
+        "refcode": "ХД 70.3"
+      },
+      {
+        "para_id": "177.781",
+        "lang": "es",
+        "refcode": "HC 151.1"
+      },
+      {
+        "para_id": "193.738",
+        "lang": "fr",
+        "refcode": "FC 160.2"
+      },
+      {
+        "para_id": "12869.889",
+        "lang": "id",
+        "refcode": "MKB 159.2"
+      },
+      {
+        "para_id": "891.454",
+        "lang": "it",
+        "refcode": "FC 67.2"
+      },
+      {
+        "para_id": "12178.615",
+        "lang": "pl",
+        "refcode": "ChD 102.3"
+      },
+      {
+        "para_id": "1955.980",
+        "lang": "pt",
+        "refcode": "LA 169.1"
+      },
+      {
+        "para_id": "2026.744",
+        "lang": "ro",
+        "refcode": "CA 169.1"
+      },
+      {
+        "para_id": "1803.715",
+        "lang": "ru",
+        "refcode": "ХД 169.1"
+      },
+      {
+        "para_id": "12131.664",
+        "lang": "uk",
+        "refcode": "ХР 133.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.753",
+    "id_prev": "128.752",
+    "id_next": "128.756",
+    "refcode_1": "AH",
+    "refcode_2": "169",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 169.2",
+    "refcode_long": "The Adventist Home, p. 169.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Should Ministers&rsquo; Wives Adopt Children?</strong>&mdash;The question has been asked whether a minister&apos;s wife should adopt infant children. I answer: if she has no inclination or fitness to engage in missionary work outside her home, and feels it her duty to take orphan children and care for them, she may do a good work. But let the choice of children be first made from among those who have been left orphans by Sabbathkeeping parents. God will bless men and women as they with willing hearts share their homes with these homeless ones. But if the minister&apos;s wife can herself act a part in the work of educating others, she should consecrate her powers to God as a Christian <span class=\"page-break\" data-page=\"170\"></span> worker. She should be a true helper to her husband, assisting him in his work, improving her intellect, and helping to give the message. The way is open for humble, consecrated women, dignified by the grace of Christ, to visit those in need of help and shed light into discouraged souls. They can lift up the bowed down by praying with them and pointing them to Christ. Such should not devote their time and strength to one helpless little mortal that requires constant care and attention. They should not thus voluntarily tie their hands.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"6T 285.2\" data-link=\"118.1540\">Ibid., 6:285</span>.</span></a></sup>",
+    "puborder": 490,
+    "translations": [
+      {
+        "para_id": "13839.607",
+        "lang": "bg",
+        "refcode": "ХД 71.1"
+      },
+      {
+        "para_id": "177.782",
+        "lang": "es",
+        "refcode": "HC 151.2"
+      },
+      {
+        "para_id": "193.741",
+        "lang": "fr",
+        "refcode": "FC 161.1"
+      },
+      {
+        "para_id": "12869.891",
+        "lang": "id",
+        "refcode": "MKB 159.3"
+      },
+      {
+        "para_id": "12178.618",
+        "lang": "pl",
+        "refcode": "ChD 103.1"
+      },
+      {
+        "para_id": "1955.981",
+        "lang": "pt",
+        "refcode": "LA 169"
+      },
+      {
+        "para_id": "1955.982",
+        "lang": "pt",
+        "refcode": "LA 169.2"
+      },
+      {
+        "para_id": "2026.745",
+        "lang": "ro",
+        "refcode": "CA 169.2"
+      },
+      {
+        "para_id": "1803.716",
+        "lang": "ru",
+        "refcode": "ХД 169.2"
+      },
+      {
+        "para_id": "12131.666",
+        "lang": "uk",
+        "refcode": "ХР 134.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.756",
+    "id_prev": "128.753",
+    "id_next": "128.757",
+    "refcode_1": "AH",
+    "refcode_2": "170",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 170.1",
+    "refcode_long": "The Adventist Home, p. 170.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Open Homes to Orphans and Friendless</strong>&mdash;As far as lies in your power, make a home for the homeless. Let everyone stand ready to act a part in helping forward this work. The Lord said to Peter: &ldquo;Feed My lambs.&rdquo; This command is to us, and by opening our homes for the orphans we aid in its fulfillment. Let not Jesus be disappointed in you.",
+    "puborder": 491,
+    "translations": [
+      {
+        "para_id": "13839.608",
+        "lang": "bg",
+        "refcode": "ХД 71.2"
+      },
+      {
+        "para_id": "177.785",
+        "lang": "es",
+        "refcode": "HC 152.1"
+      },
+      {
+        "para_id": "193.744",
+        "lang": "fr",
+        "refcode": "FC 162.1"
+      },
+      {
+        "para_id": "12869.895",
+        "lang": "id",
+        "refcode": "MKB 160.1"
+      },
+      {
+        "para_id": "12178.619",
+        "lang": "pl",
+        "refcode": "ChD 103.2"
+      },
+      {
+        "para_id": "1955.986",
+        "lang": "pt",
+        "refcode": "LA 170.1"
+      },
+      {
+        "para_id": "1955.985",
+        "lang": "pt",
+        "refcode": "LA 170"
+      },
+      {
+        "para_id": "2026.748",
+        "lang": "ro",
+        "refcode": "CA 170.1"
+      },
+      {
+        "para_id": "1803.719",
+        "lang": "ru",
+        "refcode": "ХД 170.1"
+      },
+      {
+        "para_id": "12131.667",
+        "lang": "uk",
+        "refcode": "ХР 134.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.757",
+    "id_prev": "128.756",
+    "id_next": "128.758",
+    "refcode_1": "AH",
+    "refcode_2": "170",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 170.2",
+    "refcode_long": "The Adventist Home, p. 170.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Take these children and present them to God as a fragrant offering. Ask His blessing upon them and then mold and fashion them according to Christ&apos;s order. Will our people accept this holy trust?<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"6T 284.1\" data-link=\"118.1532\">Ibid., 6:284</span>.</span></a></sup> [<span class=\"non-egw-note\">Note: For further detailed counsel on this topic see <em>Welfare Ministry</em>.</span>]",
+    "puborder": 492,
+    "translations": [
+      {
+        "para_id": "13839.609",
+        "lang": "bg",
+        "refcode": "ХД 71.3"
+      },
+      {
+        "para_id": "177.786",
+        "lang": "es",
+        "refcode": "HC 152.2"
+      },
+      {
+        "para_id": "193.745",
+        "lang": "fr",
+        "refcode": "FC 162.2"
+      },
+      {
+        "para_id": "12869.896",
+        "lang": "id",
+        "refcode": "MKB 160.2"
+      },
+      {
+        "para_id": "12178.622",
+        "lang": "pl",
+        "refcode": "ChD 104.1"
+      },
+      {
+        "para_id": "1955.987",
+        "lang": "pt",
+        "refcode": "LA 170.2"
+      },
+      {
+        "para_id": "2026.749",
+        "lang": "ro",
+        "refcode": "CA 170.2"
+      },
+      {
+        "para_id": "1803.720",
+        "lang": "ru",
+        "refcode": "ХД 170.2"
+      },
+      {
+        "para_id": "12131.668",
+        "lang": "uk",
+        "refcode": "ХР 134.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.758",
+    "id_prev": "128.757",
+    "id_next": "128.762",
+    "refcode_1": "AH",
+    "refcode_2": "170",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 170.3",
+    "refcode_long": "The Adventist Home, p. 170.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Test for God&apos;s People</strong>&mdash;Years ago I was shown that God&apos;s people would be tested upon this point of making homes for the homeless; that there would be many without homes in consequence of their believing the truth. Opposition and persecution would deprive believers of their homes, and it was the duty of those who had homes to open a wide door to those who had not. I have been shown more recently that God would specially test His professed people in reference to this matter. <span class=\"page-break\" data-page=\"171\"></span> Christ for our sakes became poor that we through His poverty might be made rich. He made a sacrifice that He might provide a home for pilgrims and strangers in the world seeking for a better country, even an heavenly.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 27.1\" data-link=\"120.115\">Ibid., 2:27, 28</span>.</span></a></sup>",
+    "puborder": 493,
+    "translations": [
+      {
+        "para_id": "13839.610",
+        "lang": "bg",
+        "refcode": "ХД 71.4"
+      },
+      {
+        "para_id": "177.787",
+        "lang": "es",
+        "refcode": "HC 152.3"
+      },
+      {
+        "para_id": "193.746",
+        "lang": "fr",
+        "refcode": "FC 162.3"
+      },
+      {
+        "para_id": "12869.898",
+        "lang": "id",
+        "refcode": "MKB 160.3"
+      },
+      {
+        "para_id": "12178.623",
+        "lang": "pl",
+        "refcode": "ChD 104.2"
+      },
+      {
+        "para_id": "1955.988",
+        "lang": "pt",
+        "refcode": "LA 170"
+      },
+      {
+        "para_id": "1955.989",
+        "lang": "pt",
+        "refcode": "LA 170.3"
+      },
+      {
+        "para_id": "2026.750",
+        "lang": "ro",
+        "refcode": "CA 170.3"
+      },
+      {
+        "para_id": "1803.721",
+        "lang": "ru",
+        "refcode": "ХД 170.3"
+      },
+      {
+        "para_id": "12131.669",
+        "lang": "uk",
+        "refcode": "ХР 134.4"
+      }
+    ]
+  }
+]

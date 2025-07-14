@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.630",
+    "id_prev": "21.628",
+    "id_next": "21.631",
+    "refcode_1": "CSW",
+    "refcode_2": "136",
+    "refcode_3": "",
+    "refcode_4": "100",
+    "refcode_short": "CSW 136",
+    "refcode_long": "Counsels on Sabbath School Work, p. 136 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Advancing Home Missionary Work",
+    "puborder": 396,
+    "translations": [
+      {
+        "para_id": "11629.605",
+        "lang": "da",
+        "refcode": "RSSA 136"
+      },
+      {
+        "para_id": "799.599",
+        "lang": "de",
+        "refcode": "RSs 113"
+      },
+      {
+        "para_id": "1711.678",
+        "lang": "es",
+        "refcode": "COES 153"
+      },
+      {
+        "para_id": "1724.668",
+        "lang": "pt",
+        "refcode": "CES 136"
+      },
+      {
+        "para_id": "1917.741",
+        "lang": "pt",
+        "refcode": "CES38 71"
+      },
+      {
+        "para_id": "2719.647",
+        "lang": "ro",
+        "refcode": "SSS 136"
+      },
+      {
+        "para_id": "1873.625",
+        "lang": "ru",
+        "refcode": "ССШ 136"
+      }
+    ]
+  },
+  {
+    "para_id": "21.631",
+    "id_prev": "21.630",
+    "id_next": "21.632",
+    "refcode_1": "CSW",
+    "refcode_2": "136",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 136.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 136.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To show a liberal, self-denying spirit for the success of foreign missions is a sure way to advance home missionary work; for the prosperity of the home work depends largely, under God, upon the reflex influence of the evangelical work done in countries afar off. It is in working to supply the necessities of others that we bring our souls into touch with the Source of all power. The Lord has marked every phase of missionary zeal that has been shown by His people in behalf of foreign fields. He designs that in every home, in every church, and at all the centers of the work, a spirit of liberality shall be shown in sending help to foreign fields, where the workers are struggling against great odds to give the light to those who sit in darkness. That which is given to start the work in one field will result in strengthening the work in other places.&mdash;<span class=\"egwlink egwlink_book\" title=\"GW 465.1\" data-link=\"35.2413\"><em>Gospel Workers</em>, 465, 466</span>.",
+    "puborder": 397,
+    "translations": [
+      {
+        "para_id": "11629.606",
+        "lang": "da",
+        "refcode": "RSSA 136.1"
+      },
+      {
+        "para_id": "799.600",
+        "lang": "de",
+        "refcode": "RSs 113.1"
+      },
+      {
+        "para_id": "1711.679",
+        "lang": "es",
+        "refcode": "COES 153.1"
+      },
+      {
+        "para_id": "1917.742",
+        "lang": "pt",
+        "refcode": "CES38 71.1"
+      },
+      {
+        "para_id": "1724.669",
+        "lang": "pt",
+        "refcode": "CES 136.1"
+      },
+      {
+        "para_id": "2719.648",
+        "lang": "ro",
+        "refcode": "SSS 136.1"
+      },
+      {
+        "para_id": "1873.626",
+        "lang": "ru",
+        "refcode": "ССШ 136.1"
+      }
+    ]
+  }
+]

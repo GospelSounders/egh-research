@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.356",
+    "id_prev": "21.353",
+    "id_next": "21.357",
+    "refcode_1": "CSW",
+    "refcode_2": "79",
+    "refcode_3": "",
+    "refcode_4": "50",
+    "refcode_short": "CSW 79",
+    "refcode_long": "Counsels on Sabbath School Work, p. 79 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Religious Experience of Children",
+    "puborder": 222,
+    "translations": [
+      {
+        "para_id": "11629.329",
+        "lang": "da",
+        "refcode": "RSSA 79"
+      },
+      {
+        "para_id": "799.346",
+        "lang": "de",
+        "refcode": "RSs 68"
+      },
+      {
+        "para_id": "1711.388",
+        "lang": "es",
+        "refcode": "COES 87"
+      },
+      {
+        "para_id": "1917.416",
+        "lang": "pt",
+        "refcode": "CES38 40"
+      },
+      {
+        "para_id": "1724.388",
+        "lang": "pt",
+        "refcode": "CES 79"
+      },
+      {
+        "para_id": "2719.366",
+        "lang": "ro",
+        "refcode": "SSS 79"
+      },
+      {
+        "para_id": "1873.352",
+        "lang": "ru",
+        "refcode": "ССШ 79"
+      }
+    ]
+  },
+  {
+    "para_id": "21.357",
+    "id_prev": "21.356",
+    "id_next": "21.358",
+    "refcode_1": "CSW",
+    "refcode_2": "79",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 79.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 79.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Religion helps children to study better and to do more faithful work. A little girl of twelve was telling, in a simple way, the evidence that she was a Christian. &ldquo;I did not like to study, but to play. I was idle at school, and often missed my lessons. Now I learn every lesson well, to please God. I was mischievous at school, when the teachers were not looking at me, making fun for the children to look at. Now I wish to please God by behaving well and keeping the school laws. I was selfish at home, didn&apos;t like to run errands, and was sulky when mother called me from play to help her in work. Now it is a real joy for me to help mother in any way and to show that I love her.&rdquo;",
+    "puborder": 223,
+    "translations": [
+      {
+        "para_id": "11629.330",
+        "lang": "da",
+        "refcode": "RSSA 79.1"
+      },
+      {
+        "para_id": "799.347",
+        "lang": "de",
+        "refcode": "RSs 68.1"
+      },
+      {
+        "para_id": "1711.389",
+        "lang": "es",
+        "refcode": "COES 87.1"
+      },
+      {
+        "para_id": "1724.389",
+        "lang": "pt",
+        "refcode": "CES 79.1"
+      },
+      {
+        "para_id": "1917.417",
+        "lang": "pt",
+        "refcode": "CES38 40.2"
+      },
+      {
+        "para_id": "2719.367",
+        "lang": "ro",
+        "refcode": "SSS 79.1"
+      },
+      {
+        "para_id": "1873.353",
+        "lang": "ru",
+        "refcode": "ССШ 79.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.358",
+    "id_prev": "21.357",
+    "id_next": "21.361",
+    "refcode_1": "CSW",
+    "refcode_2": "79",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 79.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 79.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Do not teach your children with reference to some future period when they shall be old enough to repent and believe the truth. If properly instructed, very young children may have correct views of their <span class=\"page-break\" data-page=\"80\"></span> state as sinners, and of the way of salvation through Christ.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 112.1\" data-link=\"121.456\"><em>Testimonies on Sabbath-School Work</em>, 112</span>.",
+    "puborder": 224,
+    "translations": [
+      {
+        "para_id": "11629.331",
+        "lang": "da",
+        "refcode": "RSSA 79.2"
+      },
+      {
+        "para_id": "799.348",
+        "lang": "de",
+        "refcode": "RSs 68.2"
+      },
+      {
+        "para_id": "1711.392",
+        "lang": "es",
+        "refcode": "COES 88.1"
+      },
+      {
+        "para_id": "1724.390",
+        "lang": "pt",
+        "refcode": "CES 79.2"
+      },
+      {
+        "para_id": "1917.418",
+        "lang": "pt",
+        "refcode": "CES38 40.3"
+      },
+      {
+        "para_id": "2719.368",
+        "lang": "ro",
+        "refcode": "SSS 79.2"
+      },
+      {
+        "para_id": "1873.354",
+        "lang": "ru",
+        "refcode": "ССШ 79.2"
+      }
+    ]
+  }
+]

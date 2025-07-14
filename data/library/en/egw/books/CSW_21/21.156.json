@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.156",
+    "id_prev": "21.155",
+    "id_next": "21.157",
+    "refcode_1": "CSW",
+    "refcode_2": "37",
+    "refcode_3": "",
+    "refcode_4": "23",
+    "refcode_short": "CSW 37",
+    "refcode_long": "Counsels on Sabbath School Work, p. 37 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Halfhearted Service",
+    "puborder": 95,
+    "translations": [
+      {
+        "para_id": "11629.130",
+        "lang": "da",
+        "refcode": "RSSA 37"
+      },
+      {
+        "para_id": "799.161",
+        "lang": "de",
+        "refcode": "RSs 35"
+      },
+      {
+        "para_id": "1711.174",
+        "lang": "es",
+        "refcode": "COES 39"
+      },
+      {
+        "para_id": "1724.185",
+        "lang": "pt",
+        "refcode": "CES 37"
+      },
+      {
+        "para_id": "1917.176",
+        "lang": "pt",
+        "refcode": "CES38 17"
+      },
+      {
+        "para_id": "2719.162",
+        "lang": "ro",
+        "refcode": "SSS 37"
+      },
+      {
+        "para_id": "1873.154",
+        "lang": "ru",
+        "refcode": "ССШ 37"
+      }
+    ]
+  },
+  {
+    "para_id": "21.157",
+    "id_prev": "21.156",
+    "id_next": "21.158",
+    "refcode_1": "CSW",
+    "refcode_2": "37",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 37.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 37.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Many who profess to be Christians do not more than half believe the word of God. They do not study it earnestly, but waste precious time in reading novels and storybooks. A mere intellectual understanding of the word of God will not be sufficient to influence the habits of the life, for the life is regulated by the condition of the heart. When Sabbath school teachers have taught the lessons of external revelation, their work is but just begun, and they should not cease their labor until they have evidence that the precepts of heaven are not only accepted by the understanding of the pupil, but written upon the heart.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 57.1\" data-link=\"121.226\"><em>Testimonies on Sabbath-School Work</em>, 57, 58</span>.",
+    "puborder": 96,
+    "translations": [
+      {
+        "para_id": "11629.131",
+        "lang": "da",
+        "refcode": "RSSA 37.2"
+      },
+      {
+        "para_id": "799.162",
+        "lang": "de",
+        "refcode": "RSs 35.3"
+      },
+      {
+        "para_id": "1711.175",
+        "lang": "es",
+        "refcode": "COES 39.3"
+      },
+      {
+        "para_id": "1724.186",
+        "lang": "pt",
+        "refcode": "CES 37.2"
+      },
+      {
+        "para_id": "1917.177",
+        "lang": "pt",
+        "refcode": "CES38 17.2"
+      },
+      {
+        "para_id": "2719.163",
+        "lang": "ro",
+        "refcode": "SSS 37.2"
+      },
+      {
+        "para_id": "1873.155",
+        "lang": "ru",
+        "refcode": "ССШ 37.2"
+      }
+    ]
+  }
+]

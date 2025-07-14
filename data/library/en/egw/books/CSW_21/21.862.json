@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.862",
+    "id_prev": "21.861",
+    "id_next": "21.863",
+    "refcode_1": "CSW",
+    "refcode_2": "184",
+    "refcode_3": "",
+    "refcode_4": "143",
+    "refcode_short": "CSW 184",
+    "refcode_long": "Counsels on Sabbath School Work, p. 184 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Camp Meeting Sabbath School",
+    "puborder": 545,
+    "translations": [
+      {
+        "para_id": "11629.844",
+        "lang": "da",
+        "refcode": "RSSA 184"
+      },
+      {
+        "para_id": "799.807",
+        "lang": "de",
+        "refcode": "RSs 149"
+      },
+      {
+        "para_id": "1711.925",
+        "lang": "es",
+        "refcode": "COES 206"
+      },
+      {
+        "para_id": "1917.1015",
+        "lang": "pt",
+        "refcode": "CES38 97"
+      },
+      {
+        "para_id": "1724.905",
+        "lang": "pt",
+        "refcode": "CES 184"
+      },
+      {
+        "para_id": "2719.881",
+        "lang": "ro",
+        "refcode": "SSS 184"
+      },
+      {
+        "para_id": "1873.856",
+        "lang": "ru",
+        "refcode": "ССШ 184"
+      }
+    ]
+  },
+  {
+    "para_id": "21.863",
+    "id_prev": "21.862",
+    "id_next": "21.865",
+    "refcode_1": "CSW",
+    "refcode_2": "184",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 184.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 184.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Dear brethren and sisters who assemble at our camp meetings, we wish to address to you a few words in the interest of our Sabbath schools. This is one of the important branches of the work, and should not be left to chance, or to haphazard management. If these schools are conducted as they should be, the efforts made in the pulpit to present the truth in a manner to win souls may be deepened; and if the labor bestowed is followed up by interested workers in the Sabbath school, much good will be accomplished. But it is not enough to have the Sabbath school move like well-regulated machinery. There should be practical workers; the teachers should be of that class who have a living connection with God, who have an appetite for study themselves, who will give time and moral earnestness to their work, and who will not be satisfied unless they see something accomplished....",
+    "puborder": 546,
+    "translations": [
+      {
+        "para_id": "11629.845",
+        "lang": "da",
+        "refcode": "RSSA 184.2"
+      },
+      {
+        "para_id": "799.808",
+        "lang": "de",
+        "refcode": "RSs 149.1"
+      },
+      {
+        "para_id": "1711.926",
+        "lang": "es",
+        "refcode": "COES 206.2"
+      },
+      {
+        "para_id": "1917.1016",
+        "lang": "pt",
+        "refcode": "CES38 97.4"
+      },
+      {
+        "para_id": "1724.906",
+        "lang": "pt",
+        "refcode": "CES 184.2"
+      },
+      {
+        "para_id": "2719.882",
+        "lang": "ro",
+        "refcode": "SSS 184.2"
+      },
+      {
+        "para_id": "1873.857",
+        "lang": "ru",
+        "refcode": "ССШ 184.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.865",
+    "id_prev": "21.863",
+    "id_next": "21.866",
+    "refcode_1": "CSW",
+    "refcode_2": "185",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 185.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 185.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is important that the exercises in our camp meeting Sabbath schools be conducted with order, promptness, and efficiency. Then the right mold will be given to Sabbath schools in the different churches, as the people return to their homes. Do not allow business and other interests to crowd out the Sabbath school interest, so that it shall be considered a matter of no special consequence.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 12.1\" data-link=\"121.38\"><em>Testimonies on Sabbath-School Work</em>, 12-14</span>.",
+    "puborder": 547,
+    "translations": [
+      {
+        "para_id": "11629.848",
+        "lang": "da",
+        "refcode": "RSSA 185.1"
+      },
+      {
+        "para_id": "799.809",
+        "lang": "de",
+        "refcode": "RSs 149.2"
+      },
+      {
+        "para_id": "1711.929",
+        "lang": "es",
+        "refcode": "COES 207.1"
+      },
+      {
+        "para_id": "1724.908",
+        "lang": "pt",
+        "refcode": "CES 185.1"
+      },
+      {
+        "para_id": "1917.1020",
+        "lang": "pt",
+        "refcode": "CES38 98.1"
+      },
+      {
+        "para_id": "2719.884",
+        "lang": "ro",
+        "refcode": "SSS 185.1"
+      },
+      {
+        "para_id": "1873.859",
+        "lang": "ru",
+        "refcode": "ССШ 185.1"
+      }
+    ]
+  }
+]

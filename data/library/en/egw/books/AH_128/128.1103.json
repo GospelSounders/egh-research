@@ -1,0 +1,985 @@
+[
+  {
+    "para_id": "128.1103",
+    "id_prev": "128.1101",
+    "id_next": "128.1104",
+    "refcode_1": "AH",
+    "refcode_2": "244",
+    "refcode_3": "",
+    "refcode_4": "40",
+    "refcode_short": "AH 244",
+    "refcode_long": "The Adventist Home, p. 244 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 40&mdash;Misconception of the Mother&apos;s Work",
+    "puborder": 726,
+    "translations": [
+      {
+        "para_id": "13839.883",
+        "lang": "bg",
+        "refcode": "ХД 101"
+      },
+      {
+        "para_id": "792.541",
+        "lang": "de",
+        "refcode": "GFH 84"
+      },
+      {
+        "para_id": "177.1129",
+        "lang": "es",
+        "refcode": "HC 219"
+      },
+      {
+        "para_id": "193.1089",
+        "lang": "fr",
+        "refcode": "FC 235"
+      },
+      {
+        "para_id": "12869.1335",
+        "lang": "id",
+        "refcode": "MKB 231"
+      },
+      {
+        "para_id": "891.726",
+        "lang": "it",
+        "refcode": "FC 103"
+      },
+      {
+        "para_id": "12178.918",
+        "lang": "pl",
+        "refcode": "ChD 150"
+      },
+      {
+        "para_id": "1955.1423",
+        "lang": "pt",
+        "refcode": "LA 244"
+      },
+      {
+        "para_id": "2026.1095",
+        "lang": "ro",
+        "refcode": "CA 244"
+      },
+      {
+        "para_id": "1803.1059",
+        "lang": "ru",
+        "refcode": "ХД 244"
+      },
+      {
+        "para_id": "12131.989",
+        "lang": "uk",
+        "refcode": "ХР 194"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1104",
+    "id_prev": "128.1103",
+    "id_next": "128.1105",
+    "refcode_1": "AH",
+    "refcode_2": "244",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 244.1",
+    "refcode_long": "The Adventist Home, p. 244.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Mother Tempted to Feel That Her Work Is Unimportant</strong>&mdash;The mother&apos;s work often seems to her an unimportant service. It is a work that is rarely appreciated. Others know little of her many cares and burdens. Her days are occupied with a round of little duties, all calling for patient effort, for self-control, for tact, wisdom, and self-sacrificing love; yet she cannot boast of what she has done as any great achievement. She has only kept things in the home running smoothly. Often weary and perplexed, she has tried to speak kindly to the children, to keep them busy and happy, and to guide their little feet in the right path. She feels that she has accomplished nothing. But it is not so. Heavenly angels watch the careworn mother, noting the burdens she carries day by day. Her name may not have been heard in the world, but it is written in the Lamb&apos;s book of life.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 144.1\" data-link=\"23.681\">Counsels to Teachers, Parents, and Students, 144</span>.</span></a></sup>",
+    "puborder": 727,
+    "translations": [
+      {
+        "para_id": "13839.884",
+        "lang": "bg",
+        "refcode": "ХД 101.1"
+      },
+      {
+        "para_id": "792.542",
+        "lang": "de",
+        "refcode": "GFH 84"
+      },
+      {
+        "para_id": "792.544",
+        "lang": "de",
+        "refcode": "GFH 84.2"
+      },
+      {
+        "para_id": "792.543",
+        "lang": "de",
+        "refcode": "GFH 84.1"
+      },
+      {
+        "para_id": "792.545",
+        "lang": "de",
+        "refcode": "GFH 84.3"
+      },
+      {
+        "para_id": "177.1130",
+        "lang": "es",
+        "refcode": "HC 219.1"
+      },
+      {
+        "para_id": "193.1090",
+        "lang": "fr",
+        "refcode": "FC 235.1"
+      },
+      {
+        "para_id": "12869.1337",
+        "lang": "id",
+        "refcode": "MKB 231.1"
+      },
+      {
+        "para_id": "891.727",
+        "lang": "it",
+        "refcode": "FC 103"
+      },
+      {
+        "para_id": "891.728",
+        "lang": "it",
+        "refcode": "FC 103.1"
+      },
+      {
+        "para_id": "12178.919",
+        "lang": "pl",
+        "refcode": "ChD 150.2"
+      },
+      {
+        "para_id": "1955.1425",
+        "lang": "pt",
+        "refcode": "LA 244.1"
+      },
+      {
+        "para_id": "1955.1424",
+        "lang": "pt",
+        "refcode": "LA 244"
+      },
+      {
+        "para_id": "2026.1096",
+        "lang": "ro",
+        "refcode": "CA 244.1"
+      },
+      {
+        "para_id": "1803.1060",
+        "lang": "ru",
+        "refcode": "ХД 244.1"
+      },
+      {
+        "para_id": "12131.990",
+        "lang": "uk",
+        "refcode": "ХР 194.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1105",
+    "id_prev": "128.1104",
+    "id_next": "128.1106",
+    "refcode_1": "AH",
+    "refcode_2": "244",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 244.2",
+    "refcode_long": "The Adventist Home, p. 244.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The true wife and mother ... will perform her duties with dignity and cheerfulness, not considering it degrading to do with her own hands whatever it is necessary to do in a well-ordered household.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 9-9-1886\" data-link=\"820.7459\">The Signs of the Times, September 9, 1886</span>.</span></a></sup>",
+    "puborder": 728,
+    "translations": [
+      {
+        "para_id": "13839.885",
+        "lang": "bg",
+        "refcode": "ХД 101.2"
+      },
+      {
+        "para_id": "177.1131",
+        "lang": "es",
+        "refcode": "HC 219.2"
+      },
+      {
+        "para_id": "193.1091",
+        "lang": "fr",
+        "refcode": "FC 235.2"
+      },
+      {
+        "para_id": "12869.1340",
+        "lang": "id",
+        "refcode": "MKB 232.1"
+      },
+      {
+        "para_id": "891.729",
+        "lang": "it",
+        "refcode": "FC 103.2"
+      },
+      {
+        "para_id": "12178.920",
+        "lang": "pl",
+        "refcode": "ChD 150.3"
+      },
+      {
+        "para_id": "1955.1426",
+        "lang": "pt",
+        "refcode": "LA 244.2"
+      },
+      {
+        "para_id": "2026.1097",
+        "lang": "ro",
+        "refcode": "CA 244.2"
+      },
+      {
+        "para_id": "1803.1061",
+        "lang": "ru",
+        "refcode": "ХД 244.2"
+      },
+      {
+        "para_id": "12131.991",
+        "lang": "uk",
+        "refcode": "ХР 194.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1106",
+    "id_prev": "128.1105",
+    "id_next": "128.1108",
+    "refcode_1": "AH",
+    "refcode_2": "244",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 244.3",
+    "refcode_long": "The Adventist Home, p. 244.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Regarded as Inferior to Mission Service</strong>&mdash;What an important work! And yet we hear mothers sighing for missionary work! If they could only go to some foreign country, they would feel that they were doing something worth while. But to take up the daily duties of the home life and carry them forward seems to them like an exhausting and thankless task.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 7-9-1901\" data-link=\"821.20596\">The Review and Herald, July 9, 1901</span>.</span></a></sup>",
+    "puborder": 729,
+    "translations": [
+      {
+        "para_id": "13839.886",
+        "lang": "bg",
+        "refcode": "ХД 101.3"
+      },
+      {
+        "para_id": "177.1132",
+        "lang": "es",
+        "refcode": "HC 219.3"
+      },
+      {
+        "para_id": "193.1092",
+        "lang": "fr",
+        "refcode": "FC 235.3"
+      },
+      {
+        "para_id": "12869.1342",
+        "lang": "id",
+        "refcode": "MKB 232.2"
+      },
+      {
+        "para_id": "12178.921",
+        "lang": "pl",
+        "refcode": "ChD 150.4"
+      },
+      {
+        "para_id": "1955.1427",
+        "lang": "pt",
+        "refcode": "LA 244"
+      },
+      {
+        "para_id": "1955.1428",
+        "lang": "pt",
+        "refcode": "LA 244.3"
+      },
+      {
+        "para_id": "2026.1098",
+        "lang": "ro",
+        "refcode": "CA 244.3"
+      },
+      {
+        "para_id": "1803.1062",
+        "lang": "ru",
+        "refcode": "ХД 244.3"
+      },
+      {
+        "para_id": "12131.992",
+        "lang": "uk",
+        "refcode": "ХР 194.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1108",
+    "id_prev": "128.1106",
+    "id_next": "128.1109",
+    "refcode_1": "AH",
+    "refcode_2": "245",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 245.1",
+    "refcode_long": "The Adventist Home, p. 245.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Mothers who sigh for a missionary field have one at hand in their own home circle.... Are not the souls of her own children of as much value as the souls of the heathen? With what care and tenderness should she watch their growing minds and connect God with all their thoughts! Who can do this as well as a loving, God-fearing mother?<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 43, 1900\" data-link=\"14065.7577001\">Manuscript 43, 1900</span>.</span></a></sup>",
+    "puborder": 730,
+    "translations": [
+      {
+        "para_id": "13839.887",
+        "lang": "bg",
+        "refcode": "ХД 101.4"
+      },
+      {
+        "para_id": "177.1135",
+        "lang": "es",
+        "refcode": "HC 220.1"
+      },
+      {
+        "para_id": "193.1094",
+        "lang": "fr",
+        "refcode": "FC 236.1"
+      },
+      {
+        "para_id": "12869.1343",
+        "lang": "id",
+        "refcode": "MKB 232.3"
+      },
+      {
+        "para_id": "12178.922",
+        "lang": "pl",
+        "refcode": "ChD 150.5"
+      },
+      {
+        "para_id": "1955.1431",
+        "lang": "pt",
+        "refcode": "LA 245.1"
+      },
+      {
+        "para_id": "2026.1100",
+        "lang": "ro",
+        "refcode": "CA 245.1"
+      },
+      {
+        "para_id": "1803.1064",
+        "lang": "ru",
+        "refcode": "ХД 245.1"
+      },
+      {
+        "para_id": "12131.993",
+        "lang": "uk",
+        "refcode": "ХР 194.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1109",
+    "id_prev": "128.1108",
+    "id_next": "128.1110",
+    "refcode_1": "AH",
+    "refcode_2": "245",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 245.2",
+    "refcode_long": "The Adventist Home, p. 245.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There are some who think that unless they are directly connected with active religious work, they are not doing the will of God; but this is a mistake. Everyone has a work to do for the Master; it is a wonderful work to make home pleasant and all that it ought to be. The humblest talents, if the heart of the recipient is given to God, will make the home life all that God would have it. A bright light will shine forth as the result of wholehearted service to God. Men and women can just as surely serve God by giving earnest heed to the things which they have heard, by educating their children to live and fear to offend God, as can the minister in the pulpit.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 32, 1899\" data-link=\"14064.5208001\">Manuscript 32, 1899</span>.</span></a></sup>",
+    "puborder": 731,
+    "translations": [
+      {
+        "para_id": "13839.888",
+        "lang": "bg",
+        "refcode": "ХД 101.5"
+      },
+      {
+        "para_id": "177.1136",
+        "lang": "es",
+        "refcode": "HC 220.2"
+      },
+      {
+        "para_id": "193.1095",
+        "lang": "fr",
+        "refcode": "FC 236.2"
+      },
+      {
+        "para_id": "12869.1344",
+        "lang": "id",
+        "refcode": "MKB 232.4"
+      },
+      {
+        "para_id": "12178.925",
+        "lang": "pl",
+        "refcode": "ChD 151.1"
+      },
+      {
+        "para_id": "1955.1432",
+        "lang": "pt",
+        "refcode": "LA 245.2"
+      },
+      {
+        "para_id": "2026.1101",
+        "lang": "ro",
+        "refcode": "CA 245.2"
+      },
+      {
+        "para_id": "1803.1065",
+        "lang": "ru",
+        "refcode": "ХД 245.2"
+      },
+      {
+        "para_id": "12131.995",
+        "lang": "uk",
+        "refcode": "ХР 195.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1110",
+    "id_prev": "128.1109",
+    "id_next": "128.1111",
+    "refcode_1": "AH",
+    "refcode_2": "245",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 245.3",
+    "refcode_long": "The Adventist Home, p. 245.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "These women who are doing with ready willingness what their hands find to do, with cheerfulness of spirit aiding their husbands to bear their burdens and training their children for God, are missionaries in the highest sense.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 466.1\" data-link=\"120.2028\">Testimonies for the Church 2:466</span>.</span></a></sup>",
+    "puborder": 732,
+    "translations": [
+      {
+        "para_id": "13839.889",
+        "lang": "bg",
+        "refcode": "ХД 101.6"
+      },
+      {
+        "para_id": "177.1137",
+        "lang": "es",
+        "refcode": "HC 220.3"
+      },
+      {
+        "para_id": "193.1096",
+        "lang": "fr",
+        "refcode": "FC 236.3"
+      },
+      {
+        "para_id": "12869.1347",
+        "lang": "id",
+        "refcode": "MKB 233.1"
+      },
+      {
+        "para_id": "12178.926",
+        "lang": "pl",
+        "refcode": "ChD 151.2"
+      },
+      {
+        "para_id": "1955.1433",
+        "lang": "pt",
+        "refcode": "LA 245.3"
+      },
+      {
+        "para_id": "2026.1102",
+        "lang": "ro",
+        "refcode": "CA 245.3"
+      },
+      {
+        "para_id": "1803.1066",
+        "lang": "ru",
+        "refcode": "ХД 245.3"
+      },
+      {
+        "para_id": "12131.996",
+        "lang": "uk",
+        "refcode": "ХР 195.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1111",
+    "id_prev": "128.1110",
+    "id_next": "128.1114",
+    "refcode_1": "AH",
+    "refcode_2": "245",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 245.4",
+    "refcode_long": "The Adventist Home, p. 245.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Religious Activities Should Not Supersede Care of Family</strong>&mdash;If you ignore your duty as a wife and mother and hold out your hands for the Lord to put another class of work in them, be sure that He will not contradict Himself; He points you to the duty you have to do at home. If you have the idea that some work greater and holier than this has been entrusted to you, you are under a deception. By faithfulness in your own home, working for the souls of those who are nearest to you, you may be gaining a fitness <span class=\"page-break\" data-page=\"246\"></span> to work for Christ in a wider field. But be sure that those who are neglectful of their duty in the home circle are not prepared to work for other souls.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 9-15-1891\" data-link=\"821.11491\">The Review and Herald, September 15, 1891</span>, par. 2.</span></a></sup>",
+    "puborder": 733,
+    "translations": [
+      {
+        "para_id": "13839.890",
+        "lang": "bg",
+        "refcode": "ХД 101.7"
+      },
+      {
+        "para_id": "792.547",
+        "lang": "de",
+        "refcode": "GFH 84.4"
+      },
+      {
+        "para_id": "792.546",
+        "lang": "de",
+        "refcode": "GFH 84"
+      },
+      {
+        "para_id": "177.1138",
+        "lang": "es",
+        "refcode": "HC 220.4"
+      },
+      {
+        "para_id": "193.1097",
+        "lang": "fr",
+        "refcode": "FC 236.4"
+      },
+      {
+        "para_id": "12869.1349",
+        "lang": "id",
+        "refcode": "MKB 233.2"
+      },
+      {
+        "para_id": "891.730",
+        "lang": "it",
+        "refcode": "FC 103"
+      },
+      {
+        "para_id": "891.731",
+        "lang": "it",
+        "refcode": "FC 103.3"
+      },
+      {
+        "para_id": "12178.927",
+        "lang": "pl",
+        "refcode": "ChD 151.3"
+      },
+      {
+        "para_id": "1955.1435",
+        "lang": "pt",
+        "refcode": "LA 245.4"
+      },
+      {
+        "para_id": "1955.1434",
+        "lang": "pt",
+        "refcode": "LA 245"
+      },
+      {
+        "para_id": "2026.1103",
+        "lang": "ro",
+        "refcode": "CA 245.4"
+      },
+      {
+        "para_id": "1803.1067",
+        "lang": "ru",
+        "refcode": "ХД 245.4"
+      },
+      {
+        "para_id": "12131.997",
+        "lang": "uk",
+        "refcode": "ХР 195.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1114",
+    "id_prev": "128.1111",
+    "id_next": "128.1115",
+    "refcode_1": "AH",
+    "refcode_2": "246",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 246.1",
+    "refcode_long": "The Adventist Home, p. 246.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Lord has not called you to neglect your home and your husband and children. He never works in this way; and He never will.... Never for a moment suppose that God has given you a work that will necessitate a separation from your precious little flock. Do not leave them to become demoralized by improper associations and to harden their hearts against their mother. This is letting your light shine in a wrong way, altogether; you are making it more difficult for your children to become what God would have them and win heaven at last. God cares for them, and so must you if you claim to be His child.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 28, 1890\" data-link=\"14056.6843001\">Letter 28, 1890</span>.</span></a></sup>",
+    "puborder": 734,
+    "translations": [
+      {
+        "para_id": "13839.893",
+        "lang": "bg",
+        "refcode": "ХД 102.1"
+      },
+      {
+        "para_id": "792.548",
+        "lang": "de",
+        "refcode": "GFH 84.5"
+      },
+      {
+        "para_id": "177.1141",
+        "lang": "es",
+        "refcode": "HC 221.1"
+      },
+      {
+        "para_id": "193.1100",
+        "lang": "fr",
+        "refcode": "FC 237.1"
+      },
+      {
+        "para_id": "12869.1350",
+        "lang": "id",
+        "refcode": "MKB 233.3"
+      },
+      {
+        "para_id": "891.732",
+        "lang": "it",
+        "refcode": "FC 103.4"
+      },
+      {
+        "para_id": "12178.928",
+        "lang": "pl",
+        "refcode": "ChD 151.4"
+      },
+      {
+        "para_id": "1955.1438",
+        "lang": "pt",
+        "refcode": "LA 246.1"
+      },
+      {
+        "para_id": "2026.1106",
+        "lang": "ro",
+        "refcode": "CA 246.1"
+      },
+      {
+        "para_id": "1803.1070",
+        "lang": "ru",
+        "refcode": "ХД 246.1"
+      },
+      {
+        "para_id": "12131.998",
+        "lang": "uk",
+        "refcode": "ХР 195.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1115",
+    "id_prev": "128.1114",
+    "id_next": "128.1116",
+    "refcode_1": "AH",
+    "refcode_2": "246",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 246.2",
+    "refcode_long": "The Adventist Home, p. 246.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "During the first years of their lives is the time in which to work and watch and pray and encourage every good inclination. This work must go on without interruption. You may be urged to attend mothers&rsquo; meetings and sewing circles, that you may do missionary work; but unless there is a faithful, understanding instructor to be left with your children, it is your duty to answer that the Lord has committed to you another work which you can in no wise neglect. You cannot overwork in any line without becoming disqualified for the work of training your little ones and making them what God would have them be. As Christ&apos;s co-worker you must bring them to Him disciplined and trained.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 32, 1899\" data-link=\"14064.5208001\">Manuscript 32, 1899</span>.</span></a></sup>",
+    "puborder": 735,
+    "translations": [
+      {
+        "para_id": "13839.894",
+        "lang": "bg",
+        "refcode": "ХД 102.2"
+      },
+      {
+        "para_id": "792.551",
+        "lang": "de",
+        "refcode": "GFH 85.1"
+      },
+      {
+        "para_id": "177.1142",
+        "lang": "es",
+        "refcode": "HC 221.2"
+      },
+      {
+        "para_id": "193.1101",
+        "lang": "fr",
+        "refcode": "FC 237.2"
+      },
+      {
+        "para_id": "12869.1351",
+        "lang": "id",
+        "refcode": "MKB 233.4"
+      },
+      {
+        "para_id": "891.734",
+        "lang": "it",
+        "refcode": "FC 104.1"
+      },
+      {
+        "para_id": "12178.931",
+        "lang": "pl",
+        "refcode": "ChD 152.1"
+      },
+      {
+        "para_id": "1955.1439",
+        "lang": "pt",
+        "refcode": "LA 246.2"
+      },
+      {
+        "para_id": "2026.1107",
+        "lang": "ro",
+        "refcode": "CA 246.2"
+      },
+      {
+        "para_id": "1803.1071",
+        "lang": "ru",
+        "refcode": "ХД 246.2"
+      },
+      {
+        "para_id": "12131.999",
+        "lang": "uk",
+        "refcode": "ХР 195.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1116",
+    "id_prev": "128.1115",
+    "id_next": "128.1118",
+    "refcode_1": "AH",
+    "refcode_2": "246",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 246.3",
+    "refcode_long": "The Adventist Home, p. 246.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Much of the malformation of an ill-trained child&apos;s character lies at the mother&apos;s door. The mother should not accept burdens in the church work which compel her to neglect her children. The best work in which a mother can engage is to see that no stitches are dropped in the training of her children....",
+    "puborder": 736,
+    "translations": [
+      {
+        "para_id": "13839.895",
+        "lang": "bg",
+        "refcode": "ХД 102.3"
+      },
+      {
+        "para_id": "177.1143",
+        "lang": "es",
+        "refcode": "HC 221.3"
+      },
+      {
+        "para_id": "193.1102",
+        "lang": "fr",
+        "refcode": "FC 237.3"
+      },
+      {
+        "para_id": "12869.1354",
+        "lang": "id",
+        "refcode": "MKB 234.1"
+      },
+      {
+        "para_id": "891.735",
+        "lang": "it",
+        "refcode": "FC 104.2"
+      },
+      {
+        "para_id": "12178.932",
+        "lang": "pl",
+        "refcode": "ChD 152.2"
+      },
+      {
+        "para_id": "1955.1440",
+        "lang": "pt",
+        "refcode": "LA 246.3"
+      },
+      {
+        "para_id": "2026.1108",
+        "lang": "ro",
+        "refcode": "CA 246.3"
+      },
+      {
+        "para_id": "1803.1072",
+        "lang": "ru",
+        "refcode": "ХД 246.3"
+      },
+      {
+        "para_id": "12131.1002",
+        "lang": "uk",
+        "refcode": "ХР 196.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1118",
+    "id_prev": "128.1116",
+    "id_next": "128.1119",
+    "refcode_1": "AH",
+    "refcode_2": "247",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 247.1",
+    "refcode_long": "The Adventist Home, p. 247.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In no other way can a mother help the church more than by devoting her time to those who are dependent upon her for instruction and training.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 75, 1901\" data-link=\"14066.7893001\">Manuscript 75, 1901</span>.</span></a></sup>",
+    "puborder": 737,
+    "translations": [
+      {
+        "para_id": "13839.896",
+        "lang": "bg",
+        "refcode": "ХД 102.4"
+      },
+      {
+        "para_id": "177.1144",
+        "lang": "es",
+        "refcode": "HC 221.4"
+      },
+      {
+        "para_id": "193.1103",
+        "lang": "fr",
+        "refcode": "FC 237.4"
+      },
+      {
+        "para_id": "12869.1355",
+        "lang": "id",
+        "refcode": "MKB 234.2"
+      },
+      {
+        "para_id": "891.736",
+        "lang": "it",
+        "refcode": "FC 104.3"
+      },
+      {
+        "para_id": "12178.933",
+        "lang": "pl",
+        "refcode": "ChD 152.3"
+      },
+      {
+        "para_id": "1955.1442",
+        "lang": "pt",
+        "refcode": "LA 247.1"
+      },
+      {
+        "para_id": "2026.1110",
+        "lang": "ro",
+        "refcode": "CA 247.1"
+      },
+      {
+        "para_id": "1803.1074",
+        "lang": "ru",
+        "refcode": "ХД 247.1"
+      },
+      {
+        "para_id": "12131.1003",
+        "lang": "uk",
+        "refcode": "ХР 196.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1119",
+    "id_prev": "128.1118",
+    "id_next": "128.1120",
+    "refcode_1": "AH",
+    "refcode_2": "247",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 247.2",
+    "refcode_long": "The Adventist Home, p. 247.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Aspirations for a Broader Mission Field Are Vain</strong>&mdash;Some mothers long to engage in missionary labor, while they neglect the simplest duties lying directly in their path. The children are neglected, the home is not made cheerful and happy for the family, scolding and complaining are of frequent occurrence, and the young people grow up feeling that home is the most uninviting of all places. As a consequence, they impatiently look forward to the time when they shall leave it, and it is with little reluctance that they launch out into the great world, unrestrained by home influence and the tender counsel of the hearthstone.",
+    "puborder": 738,
+    "translations": [
+      {
+        "para_id": "13839.897",
+        "lang": "bg",
+        "refcode": "ХД 102.5"
+      },
+      {
+        "para_id": "177.1146",
+        "lang": "es",
+        "refcode": "HC 222.1"
+      },
+      {
+        "para_id": "193.1104",
+        "lang": "fr",
+        "refcode": "FC 237.5"
+      },
+      {
+        "para_id": "12869.1357",
+        "lang": "id",
+        "refcode": "MKB 234.3"
+      },
+      {
+        "para_id": "12178.934",
+        "lang": "pl",
+        "refcode": "ChD 152.4"
+      },
+      {
+        "para_id": "1955.1444",
+        "lang": "pt",
+        "refcode": "LA 247.2"
+      },
+      {
+        "para_id": "1955.1443",
+        "lang": "pt",
+        "refcode": "LA 247"
+      },
+      {
+        "para_id": "2026.1111",
+        "lang": "ro",
+        "refcode": "CA 247.2"
+      },
+      {
+        "para_id": "1803.1075",
+        "lang": "ru",
+        "refcode": "ХД 247.2"
+      },
+      {
+        "para_id": "12131.1004",
+        "lang": "uk",
+        "refcode": "ХР 196.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1120",
+    "id_prev": "128.1119",
+    "id_next": "128.1122",
+    "refcode_1": "AH",
+    "refcode_2": "247",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 247.3",
+    "refcode_long": "The Adventist Home, p. 247.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The parents, whose aim should have been to bind these young hearts to themselves and guide them aright, squander their God-given opportunities, are blind to the most important duties of their lives, and vainly aspire to work in the broad missionary field.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"HR 10-1-1876\" data-link=\"504.1009\">The Health Reformer, October, 1876</span>.</span></a></sup>",
+    "puborder": 739,
+    "translations": [
+      {
+        "para_id": "13839.898",
+        "lang": "bg",
+        "refcode": "ХД 102.6"
+      },
+      {
+        "para_id": "177.1147",
+        "lang": "es",
+        "refcode": "HC 222.2"
+      },
+      {
+        "para_id": "193.1107",
+        "lang": "fr",
+        "refcode": "FC 238.1"
+      },
+      {
+        "para_id": "12869.1358",
+        "lang": "id",
+        "refcode": "MKB 234.4"
+      },
+      {
+        "para_id": "12178.935",
+        "lang": "pl",
+        "refcode": "ChD 152.5"
+      },
+      {
+        "para_id": "1955.1445",
+        "lang": "pt",
+        "refcode": "LA 247.3"
+      },
+      {
+        "para_id": "2026.1112",
+        "lang": "ro",
+        "refcode": "CA 247.3"
+      },
+      {
+        "para_id": "1803.1076",
+        "lang": "ru",
+        "refcode": "ХД 247.3"
+      },
+      {
+        "para_id": "12131.1005",
+        "lang": "uk",
+        "refcode": "ХР 196.4"
+      }
+    ]
+  }
+]

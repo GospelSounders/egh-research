@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.603",
+    "id_prev": "21.600",
+    "id_next": "21.604",
+    "refcode_1": "CSW",
+    "refcode_2": "131",
+    "refcode_3": "",
+    "refcode_4": "92",
+    "refcode_short": "CSW 131",
+    "refcode_long": "Counsels on Sabbath School Work, p. 131 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Signal Honor",
+    "puborder": 377,
+    "translations": [
+      {
+        "para_id": "11629.577",
+        "lang": "da",
+        "refcode": "RSSA 131"
+      },
+      {
+        "para_id": "799.572",
+        "lang": "de",
+        "refcode": "RSs 109"
+      },
+      {
+        "para_id": "1711.648",
+        "lang": "es",
+        "refcode": "COES 147"
+      },
+      {
+        "para_id": "1724.641",
+        "lang": "pt",
+        "refcode": "CES 131"
+      },
+      {
+        "para_id": "1917.709",
+        "lang": "pt",
+        "refcode": "CES38 68"
+      },
+      {
+        "para_id": "2719.620",
+        "lang": "ro",
+        "refcode": "SSS 131"
+      },
+      {
+        "para_id": "1873.598",
+        "lang": "ru",
+        "refcode": "ССШ 131"
+      }
+    ]
+  },
+  {
+    "para_id": "21.604",
+    "id_prev": "21.603",
+    "id_next": "21.605",
+    "refcode_1": "CSW",
+    "refcode_2": "131",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 131.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 131.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God, in His wise plans, has made the advancement of His cause dependent upon the personal efforts of His people, and upon their freewill offerings. By accepting the cooperation of man in the great plan of redemption, He has placed a signal honor upon him. The minister cannot preach, except he be sent. The work of dispensing light does not rest upon ministers alone. Every person, upon becoming a member of the church, pledges himself to be a representative of Christ by living out the truth he professes. The followers of Christ should carry forward the work which He left for them to do when He ascended into heaven.&mdash;<span class=\"egwlink egwlink_book\" title=\"4T 464.1\" data-link=\"114.2286\"><em>Testimonies for the Church</em> 4:464</span>.",
+    "puborder": 378,
+    "translations": [
+      {
+        "para_id": "11629.578",
+        "lang": "da",
+        "refcode": "RSSA 131.1"
+      },
+      {
+        "para_id": "799.573",
+        "lang": "de",
+        "refcode": "RSs 109.2"
+      },
+      {
+        "para_id": "1711.649",
+        "lang": "es",
+        "refcode": "COES 147.2"
+      },
+      {
+        "para_id": "1724.642",
+        "lang": "pt",
+        "refcode": "CES 131.1"
+      },
+      {
+        "para_id": "1917.710",
+        "lang": "pt",
+        "refcode": "CES38 68.2"
+      },
+      {
+        "para_id": "2719.621",
+        "lang": "ro",
+        "refcode": "SSS 131.1"
+      },
+      {
+        "para_id": "1873.599",
+        "lang": "ru",
+        "refcode": "ССШ 131.1"
+      }
+    ]
+  }
+]

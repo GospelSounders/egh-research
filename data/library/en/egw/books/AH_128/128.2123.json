@@ -1,0 +1,893 @@
+[
+  {
+    "para_id": "128.2123",
+    "id_prev": "128.2118",
+    "id_next": "128.2125",
+    "refcode_1": "AH",
+    "refcode_2": "453",
+    "refcode_3": "",
+    "refcode_4": "16",
+    "refcode_short": "AH 453",
+    "refcode_long": "The Adventist Home, p. 453 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 16&mdash;The Home and its Social Relationships",
+    "puborder": 1418,
+    "translations": [
+      {
+        "para_id": "13839.1752",
+        "lang": "bg",
+        "refcode": "ХД 196"
+      },
+      {
+        "para_id": "177.2141",
+        "lang": "es",
+        "refcode": "HC 412"
+      },
+      {
+        "para_id": "193.2101",
+        "lang": "fr",
+        "refcode": "FC 439"
+      },
+      {
+        "para_id": "12869.2656",
+        "lang": "id",
+        "refcode": "MKB 433"
+      },
+      {
+        "para_id": "891.1389",
+        "lang": "it",
+        "refcode": "FC 186"
+      },
+      {
+        "para_id": "12178.1828",
+        "lang": "pl",
+        "refcode": "ChD 290"
+      },
+      {
+        "para_id": "1955.2725",
+        "lang": "pt",
+        "refcode": "LA 455"
+      },
+      {
+        "para_id": "2026.2118",
+        "lang": "ro",
+        "refcode": "CA 455"
+      },
+      {
+        "para_id": "1803.2059",
+        "lang": "ru",
+        "refcode": "ХД 454"
+      },
+      {
+        "para_id": "12131.1916",
+        "lang": "uk",
+        "refcode": "ХР 365"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2125",
+    "id_prev": "128.2123",
+    "id_next": "128.2126",
+    "refcode_1": "AH",
+    "refcode_2": "455",
+    "refcode_3": "",
+    "refcode_4": "73",
+    "refcode_short": "AH 455",
+    "refcode_long": "The Adventist Home, p. 455 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 73&mdash;Our Social Needs",
+    "puborder": 1419,
+    "translations": [
+      {
+        "para_id": "13839.1753",
+        "lang": "bg",
+        "refcode": "ХД 196"
+      },
+      {
+        "para_id": "177.2142",
+        "lang": "es",
+        "refcode": "HC 412"
+      },
+      {
+        "para_id": "193.2104",
+        "lang": "fr",
+        "refcode": "FC 441"
+      },
+      {
+        "para_id": "12869.2658",
+        "lang": "id",
+        "refcode": "MKB 434"
+      },
+      {
+        "para_id": "891.1390",
+        "lang": "it",
+        "refcode": "FC 186"
+      },
+      {
+        "para_id": "12178.1829",
+        "lang": "pl",
+        "refcode": "ChD 290"
+      },
+      {
+        "para_id": "1955.2726",
+        "lang": "pt",
+        "refcode": "LA 455"
+      },
+      {
+        "para_id": "2026.2119",
+        "lang": "ro",
+        "refcode": "CA 455"
+      },
+      {
+        "para_id": "1803.2061",
+        "lang": "ru",
+        "refcode": "ХД 455"
+      },
+      {
+        "para_id": "12131.1918",
+        "lang": "uk",
+        "refcode": "ХР 366"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2126",
+    "id_prev": "128.2125",
+    "id_next": "128.2127",
+    "refcode_1": "AH",
+    "refcode_2": "455",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 455.1",
+    "refcode_long": "The Adventist Home, p. 455.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God Made Provision for Our Social Needs</strong>&mdash;In the arrangements for the education of the chosen people it is made manifest that a life centered in God is a life of completeness. Every want He has implanted He provides to satisfy; every faculty imparted He seeks to develop.",
+    "puborder": 1420,
+    "translations": [
+      {
+        "para_id": "13839.1754",
+        "lang": "bg",
+        "refcode": "ХД 196.3"
+      },
+      {
+        "para_id": "177.2143",
+        "lang": "es",
+        "refcode": "HC 412.1"
+      },
+      {
+        "para_id": "193.2105",
+        "lang": "fr",
+        "refcode": "FC 441.1"
+      },
+      {
+        "para_id": "12869.2660",
+        "lang": "id",
+        "refcode": "MKB 434.1"
+      },
+      {
+        "para_id": "891.1392",
+        "lang": "it",
+        "refcode": "FC 186.1"
+      },
+      {
+        "para_id": "891.1391",
+        "lang": "it",
+        "refcode": "FC 186"
+      },
+      {
+        "para_id": "12178.1830",
+        "lang": "pl",
+        "refcode": "ChD 290.1"
+      },
+      {
+        "para_id": "1955.2727",
+        "lang": "pt",
+        "refcode": "LA 455"
+      },
+      {
+        "para_id": "1955.2728",
+        "lang": "pt",
+        "refcode": "LA 455.1"
+      },
+      {
+        "para_id": "2026.2120",
+        "lang": "ro",
+        "refcode": "CA 455.1"
+      },
+      {
+        "para_id": "1803.2062",
+        "lang": "ru",
+        "refcode": "ХД 455.1"
+      },
+      {
+        "para_id": "12131.1919",
+        "lang": "uk",
+        "refcode": "ХР 366.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2127",
+    "id_prev": "128.2126",
+    "id_next": "128.2128",
+    "refcode_1": "AH",
+    "refcode_2": "455",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 455.2",
+    "refcode_long": "The Adventist Home, p. 455.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Author of all beauty, Himself a lover of the beautiful, God provided to gratify in His children the love of beauty. He made provision also for their social needs, for the kindly and helpful associations that do so much to cultivate sympathy and to brighten and sweeten life.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ed 41.1\" data-link=\"29.161\">Education, 41</span>.</span></a></sup>",
+    "puborder": 1421,
+    "translations": [
+      {
+        "para_id": "13839.1755",
+        "lang": "bg",
+        "refcode": "ХД 196.4"
+      },
+      {
+        "para_id": "177.2144",
+        "lang": "es",
+        "refcode": "HC 412.2"
+      },
+      {
+        "para_id": "193.2106",
+        "lang": "fr",
+        "refcode": "FC 441.2"
+      },
+      {
+        "para_id": "12869.2661",
+        "lang": "id",
+        "refcode": "MKB 434.2"
+      },
+      {
+        "para_id": "891.1392",
+        "lang": "it",
+        "refcode": "FC 186.1"
+      },
+      {
+        "para_id": "12178.1831",
+        "lang": "pl",
+        "refcode": "ChD 290.2"
+      },
+      {
+        "para_id": "1955.2729",
+        "lang": "pt",
+        "refcode": "LA 455.2"
+      },
+      {
+        "para_id": "2026.2121",
+        "lang": "ro",
+        "refcode": "CA 455.2"
+      },
+      {
+        "para_id": "1803.2063",
+        "lang": "ru",
+        "refcode": "ХД 455.2"
+      },
+      {
+        "para_id": "12131.1920",
+        "lang": "uk",
+        "refcode": "ХР 366.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2128",
+    "id_prev": "128.2127",
+    "id_next": "128.2129",
+    "refcode_1": "AH",
+    "refcode_2": "455",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 455.3",
+    "refcode_long": "The Adventist Home, p. 455.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Influence of Association</strong>&mdash;Everyone will find companions or make them. And just in proportion to the strength of the friendship will be the amount of influence which friends will exert over one another for good or for evil. All will have associates and will influence and be influenced in their turn.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 587.1\" data-link=\"114.2900\">Testimonies for the Church 4:587</span>.</span></a></sup>",
+    "puborder": 1422,
+    "translations": [
+      {
+        "para_id": "13839.1756",
+        "lang": "bg",
+        "refcode": "ХД 196.5"
+      },
+      {
+        "para_id": "177.2145",
+        "lang": "es",
+        "refcode": "HC 412.3"
+      },
+      {
+        "para_id": "193.2107",
+        "lang": "fr",
+        "refcode": "FC 441.3"
+      },
+      {
+        "para_id": "12869.2664",
+        "lang": "id",
+        "refcode": "MKB 435.1"
+      },
+      {
+        "para_id": "891.1394",
+        "lang": "it",
+        "refcode": "FC 186.2"
+      },
+      {
+        "para_id": "891.1393",
+        "lang": "it",
+        "refcode": "FC 186"
+      },
+      {
+        "para_id": "12178.1832",
+        "lang": "pl",
+        "refcode": "ChD 290.3"
+      },
+      {
+        "para_id": "1955.2730",
+        "lang": "pt",
+        "refcode": "LA 455"
+      },
+      {
+        "para_id": "1955.2731",
+        "lang": "pt",
+        "refcode": "LA 455.3"
+      },
+      {
+        "para_id": "2026.2122",
+        "lang": "ro",
+        "refcode": "CA 455.3"
+      },
+      {
+        "para_id": "1803.2064",
+        "lang": "ru",
+        "refcode": "ХД 455.3"
+      },
+      {
+        "para_id": "12131.1921",
+        "lang": "uk",
+        "refcode": "ХР 366.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2129",
+    "id_prev": "128.2128",
+    "id_next": "128.2130",
+    "refcode_1": "AH",
+    "refcode_2": "455",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 455.4",
+    "refcode_long": "The Adventist Home, p. 455.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God&apos;s word places great stress upon the influence of association, even on men and women. How much greater is its power on the developing mind and character of children and youth! The company they keep, the principles they adopt, the habits they form, will decide the question of their usefulness here and of their future destiny....",
+    "puborder": 1423,
+    "translations": [
+      {
+        "para_id": "13839.1757",
+        "lang": "bg",
+        "refcode": "ХД 196.6"
+      },
+      {
+        "para_id": "177.2146",
+        "lang": "es",
+        "refcode": "HC 412.4"
+      },
+      {
+        "para_id": "193.2108",
+        "lang": "fr",
+        "refcode": "FC 441.4"
+      },
+      {
+        "para_id": "12869.2665",
+        "lang": "id",
+        "refcode": "MKB 435.2"
+      },
+      {
+        "para_id": "891.1395",
+        "lang": "it",
+        "refcode": "FC 186.3"
+      },
+      {
+        "para_id": "12178.1833",
+        "lang": "pl",
+        "refcode": "ChD 290.4"
+      },
+      {
+        "para_id": "1955.2732",
+        "lang": "pt",
+        "refcode": "LA 455.4"
+      },
+      {
+        "para_id": "2026.2123",
+        "lang": "ro",
+        "refcode": "CA 455.4"
+      },
+      {
+        "para_id": "1803.2065",
+        "lang": "ru",
+        "refcode": "ХД 455.4"
+      },
+      {
+        "para_id": "12131.1922",
+        "lang": "uk",
+        "refcode": "ХР 366.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2130",
+    "id_prev": "128.2129",
+    "id_next": "128.2133",
+    "refcode_1": "AH",
+    "refcode_2": "455",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 455.5",
+    "refcode_long": "The Adventist Home, p. 455.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is inevitable that the youth will have associates, and they will necessarily feel their influence. There are mysterious links that bind souls together so that the heart of one answers to the heart of another. One catches the ideas, the sentiments, the spirit, of another. This association may be a blessing or a curse. The youth may help <span class=\"page-break\" data-page=\"456\"></span> and strengthen one another, improving in deportment, in disposition, in knowledge; or, by permitting themselves to become careless and unfaithful, they may exert an influence that is demoralizing.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 220.1\" data-link=\"23.1054\">Counsels to Teachers, Parents, and Students, 220</span>.</span></a></sup>",
+    "puborder": 1424,
+    "translations": [
+      {
+        "para_id": "13839.1758",
+        "lang": "bg",
+        "refcode": "ХД 196.7"
+      },
+      {
+        "para_id": "177.2147",
+        "lang": "es",
+        "refcode": "HC 412.5"
+      },
+      {
+        "para_id": "193.2109",
+        "lang": "fr",
+        "refcode": "FC 441.5"
+      },
+      {
+        "para_id": "12869.2666",
+        "lang": "id",
+        "refcode": "MKB 435.3"
+      },
+      {
+        "para_id": "891.1395",
+        "lang": "it",
+        "refcode": "FC 186.3"
+      },
+      {
+        "para_id": "12178.1834",
+        "lang": "pl",
+        "refcode": "ChD 290.5"
+      },
+      {
+        "para_id": "1955.2733",
+        "lang": "pt",
+        "refcode": "LA 455.5"
+      },
+      {
+        "para_id": "2026.2124",
+        "lang": "ro",
+        "refcode": "CA 455.5"
+      },
+      {
+        "para_id": "1803.2066",
+        "lang": "ru",
+        "refcode": "ХД 455.5"
+      },
+      {
+        "para_id": "12131.1923",
+        "lang": "uk",
+        "refcode": "ХР 366.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2133",
+    "id_prev": "128.2130",
+    "id_next": "128.2134",
+    "refcode_1": "AH",
+    "refcode_2": "456",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 456.1",
+    "refcode_long": "The Adventist Home, p. 456.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It has been truly said, &ldquo;Show me your company, and I will show you your character.&rdquo; The youth fail to realize how sensibly both their character and their reputation are affected by their choice of associates. One seeks the company of those whose tastes and habits and practices are congenial. He who prefers the society of the ignorant and vicious to that of the wise and good shows that his own character is defective. His tastes and habits may at first be altogether dissimilar to the tastes and habits of those whose company he seeks; but as he mingles with this class, his thoughts and feelings change; he sacrifices right principles and insensibly yet unavoidably sinks to the level of his companions. As a stream always partakes of the property of the soil through which it runs, so the principles and habits of youth invariably become tinctured with the character of the company in which they mingle.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 221.1\" data-link=\"23.1060\">Ibid., 221</span>.</span></a></sup>",
+    "puborder": 1425,
+    "translations": [
+      {
+        "para_id": "13839.1761",
+        "lang": "bg",
+        "refcode": "ХД 197.1"
+      },
+      {
+        "para_id": "177.2150",
+        "lang": "es",
+        "refcode": "HC 413.1"
+      },
+      {
+        "para_id": "193.2112",
+        "lang": "fr",
+        "refcode": "FC 442.1"
+      },
+      {
+        "para_id": "12869.2667",
+        "lang": "id",
+        "refcode": "MKB 435.4"
+      },
+      {
+        "para_id": "891.1396",
+        "lang": "it",
+        "refcode": "FC 186.4"
+      },
+      {
+        "para_id": "12178.1837",
+        "lang": "pl",
+        "refcode": "ChD 291.1"
+      },
+      {
+        "para_id": "1955.2736",
+        "lang": "pt",
+        "refcode": "LA 456.1"
+      },
+      {
+        "para_id": "2026.2127",
+        "lang": "ro",
+        "refcode": "CA 456.1"
+      },
+      {
+        "para_id": "1803.2069",
+        "lang": "ru",
+        "refcode": "ХД 456.1"
+      },
+      {
+        "para_id": "12131.1924",
+        "lang": "uk",
+        "refcode": "ХР 366.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2134",
+    "id_prev": "128.2133",
+    "id_next": "128.2137",
+    "refcode_1": "AH",
+    "refcode_2": "456",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 456.2",
+    "refcode_long": "The Adventist Home, p. 456.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Natural Tendencies Are Downward</strong>&mdash;If the youth could be persuaded to associate with the pure, the thoughtful, and the amiable, the effect would be most salutary. If choice is made of companions who fear the Lord, the influence will lead to truth, to duty, and to holiness. A truly Christian life is a power for good. But, on the other hand, those who associate with men and women of questionable morals, of bad principles and practices, will soon be walking in the same path. The tendencies of the natural heart are downward. He who associates with the skeptic will soon become skeptical; he who chooses the companionship of the vile will most <span class=\"page-break\" data-page=\"457\"></span> assuredly become vile. To walk in the counsel of the ungodly is the first step toward standing in the way of sinners and sitting in the seat of the scornful.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 587.1\" data-link=\"114.2900\">Testimonies for the Church 4:587</span>.</span></a></sup>",
+    "puborder": 1426,
+    "translations": [
+      {
+        "para_id": "13839.1762",
+        "lang": "bg",
+        "refcode": "ХД 197.2"
+      },
+      {
+        "para_id": "177.2151",
+        "lang": "es",
+        "refcode": "HC 413.2"
+      },
+      {
+        "para_id": "193.2113",
+        "lang": "fr",
+        "refcode": "FC 442.2"
+      },
+      {
+        "para_id": "12869.2671",
+        "lang": "id",
+        "refcode": "MKB 436.1"
+      },
+      {
+        "para_id": "12178.1838",
+        "lang": "pl",
+        "refcode": "ChD 291.2"
+      },
+      {
+        "para_id": "1955.2738",
+        "lang": "pt",
+        "refcode": "LA 456.2"
+      },
+      {
+        "para_id": "1955.2737",
+        "lang": "pt",
+        "refcode": "LA 456"
+      },
+      {
+        "para_id": "2026.2128",
+        "lang": "ro",
+        "refcode": "CA 456.2"
+      },
+      {
+        "para_id": "1803.2070",
+        "lang": "ru",
+        "refcode": "ХД 456.2"
+      },
+      {
+        "para_id": "12131.1927",
+        "lang": "uk",
+        "refcode": "ХР 367.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2137",
+    "id_prev": "128.2134",
+    "id_next": "128.2138",
+    "refcode_1": "AH",
+    "refcode_2": "457",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 457.1",
+    "refcode_long": "The Adventist Home, p. 457.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "With worldly youth the love of society and pleasure becomes an absorbing passion. To dress, to visit, to indulge the appetite and passions, and to whirl through the round of social dissipation appear to be the great end of existence. They are unhappy if left in solitude. Their chief desire is to be admired and flattered and to make a sensation in society; and when this desire is not gratified, life seems unendurable.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 112.1\" data-link=\"113.563\">Testimonies for the Church 5:112</span>.</span></a></sup>",
+    "puborder": 1427,
+    "translations": [
+      {
+        "para_id": "13839.1763",
+        "lang": "bg",
+        "refcode": "ХД 197.3"
+      },
+      {
+        "para_id": "177.2154",
+        "lang": "es",
+        "refcode": "HC 414.1"
+      },
+      {
+        "para_id": "193.2116",
+        "lang": "fr",
+        "refcode": "FC 443.1"
+      },
+      {
+        "para_id": "12869.2672",
+        "lang": "id",
+        "refcode": "MKB 436.2"
+      },
+      {
+        "para_id": "12178.1839",
+        "lang": "pl",
+        "refcode": "ChD 291.3"
+      },
+      {
+        "para_id": "1955.2741",
+        "lang": "pt",
+        "refcode": "LA 457.1"
+      },
+      {
+        "para_id": "2026.2131",
+        "lang": "ro",
+        "refcode": "CA 457.1"
+      },
+      {
+        "para_id": "1803.2073",
+        "lang": "ru",
+        "refcode": "ХД 457.1"
+      },
+      {
+        "para_id": "12131.1928",
+        "lang": "uk",
+        "refcode": "ХР 367.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2138",
+    "id_prev": "128.2137",
+    "id_next": "128.2139",
+    "refcode_1": "AH",
+    "refcode_2": "457",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 457.2",
+    "refcode_long": "The Adventist Home, p. 457.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those who love society frequently indulge this trait until it becomes an overruling passion.... They cannot endure to read the Bible and contemplate heavenly things. They are miserable unless there is something to excite. They have not within them the power to be happy, but they depend for happiness upon the company of other youth as thoughtless and reckless as themselves. The powers which might be turned to noble purposes they give to folly and mental dissipation.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 624.1\" data-link=\"114.3092\">Testimonies for the Church 4:624</span>.</span></a></sup>",
+    "puborder": 1428,
+    "translations": [
+      {
+        "para_id": "13839.1764",
+        "lang": "bg",
+        "refcode": "ХД 197.4"
+      },
+      {
+        "para_id": "177.2155",
+        "lang": "es",
+        "refcode": "HC 414.2"
+      },
+      {
+        "para_id": "193.2117",
+        "lang": "fr",
+        "refcode": "FC 443.2"
+      },
+      {
+        "para_id": "12869.2673",
+        "lang": "id",
+        "refcode": "MKB 436.3"
+      },
+      {
+        "para_id": "12178.1840",
+        "lang": "pl",
+        "refcode": "ChD 291.4"
+      },
+      {
+        "para_id": "1955.2742",
+        "lang": "pt",
+        "refcode": "LA 457.2"
+      },
+      {
+        "para_id": "2026.2132",
+        "lang": "ro",
+        "refcode": "CA 457.2"
+      },
+      {
+        "para_id": "1803.2074",
+        "lang": "ru",
+        "refcode": "ХД 457.2"
+      },
+      {
+        "para_id": "12131.1929",
+        "lang": "uk",
+        "refcode": "ХР 367.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2139",
+    "id_prev": "128.2138",
+    "id_next": "128.2140",
+    "refcode_1": "AH",
+    "refcode_2": "457",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 457.3",
+    "refcode_long": "The Adventist Home, p. 457.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Blessings of Christian Sociability</strong>&mdash;Christian sociability is altogether too little cultivated by God&apos;s people.... Those who shut themselves up within themselves, who are unwilling to be drawn upon to bless others by friendly associations, lose many blessings; for by mutual contact minds receive polish and refinement; by social intercourse acquaintances are formed and friendships contracted which result in a unity of heart and an atmosphere of love which is pleasing in the sight of heaven.",
+    "puborder": 1429,
+    "translations": [
+      {
+        "para_id": "13839.1765",
+        "lang": "bg",
+        "refcode": "ХД 197.5"
+      },
+      {
+        "para_id": "177.2156",
+        "lang": "es",
+        "refcode": "HC 414.3"
+      },
+      {
+        "para_id": "193.2118",
+        "lang": "fr",
+        "refcode": "FC 443.3"
+      },
+      {
+        "para_id": "12869.2675",
+        "lang": "id",
+        "refcode": "MKB 436.4"
+      },
+      {
+        "para_id": "891.1399",
+        "lang": "it",
+        "refcode": "FC 187"
+      },
+      {
+        "para_id": "891.1400",
+        "lang": "it",
+        "refcode": "FC 187.1"
+      },
+      {
+        "para_id": "12178.1843",
+        "lang": "pl",
+        "refcode": "ChD 292.1"
+      },
+      {
+        "para_id": "1955.2743",
+        "lang": "pt",
+        "refcode": "LA 457"
+      },
+      {
+        "para_id": "1955.2744",
+        "lang": "pt",
+        "refcode": "LA 457.3"
+      },
+      {
+        "para_id": "2026.2133",
+        "lang": "ro",
+        "refcode": "CA 457.3"
+      },
+      {
+        "para_id": "1803.2075",
+        "lang": "ru",
+        "refcode": "ХД 457.3"
+      },
+      {
+        "para_id": "12131.1932",
+        "lang": "uk",
+        "refcode": "ХР 368.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2140",
+    "id_prev": "128.2139",
+    "id_next": "128.2144",
+    "refcode_1": "AH",
+    "refcode_2": "457",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 457.4",
+    "refcode_long": "The Adventist Home, p. 457.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Especially should those who have tasted the love of Christ develop their social powers, for in this way they may win souls to the Saviour. Christ should not be hid <span class=\"page-break\" data-page=\"458\"></span> away in their hearts, shut in as a coveted treasure, sacred and sweet, to be enjoyed solely by themselves; nor should the love of Christ be manifested toward those only who please their fancy. Students are to be taught the Christlikeness of exhibiting a kindly interest, a social disposition, toward those who are in the greatest need, even though these may not be their own chosen companions. At all times and in all places Jesus manifested a loving interest in the human family and shed about Him the light of a cheerful piety.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"6T 172.1\" data-link=\"118.933\">Testimonies for the Church 6:172, 173</span>.</span></a></sup>",
+    "puborder": 1430,
+    "translations": [
+      {
+        "para_id": "13839.1767",
+        "lang": "bg",
+        "refcode": "ХД 198.1"
+      },
+      {
+        "para_id": "177.2157",
+        "lang": "es",
+        "refcode": "HC 414.4"
+      },
+      {
+        "para_id": "193.2119",
+        "lang": "fr",
+        "refcode": "FC 443.4"
+      },
+      {
+        "para_id": "12869.2678",
+        "lang": "id",
+        "refcode": "MKB 437.1"
+      },
+      {
+        "para_id": "891.1401",
+        "lang": "it",
+        "refcode": "FC 187.2"
+      },
+      {
+        "para_id": "12178.1844",
+        "lang": "pl",
+        "refcode": "ChD 292.2"
+      },
+      {
+        "para_id": "1955.2745",
+        "lang": "pt",
+        "refcode": "LA 457.4"
+      },
+      {
+        "para_id": "2026.2134",
+        "lang": "ro",
+        "refcode": "CA 457.4"
+      },
+      {
+        "para_id": "1803.2076",
+        "lang": "ru",
+        "refcode": "ХД 457.4"
+      },
+      {
+        "para_id": "12131.1933",
+        "lang": "uk",
+        "refcode": "ХР 368.2"
+      }
+    ]
+  }
+]

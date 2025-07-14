@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.346",
+    "id_prev": "21.345",
+    "id_next": "21.347",
+    "refcode_1": "CSW",
+    "refcode_2": "77",
+    "refcode_3": "",
+    "refcode_4": "48",
+    "refcode_short": "CSW 77",
+    "refcode_long": "Counsels on Sabbath School Work, p. 77 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Directing the Little Flock",
+    "puborder": 216,
+    "translations": [
+      {
+        "para_id": "11629.319",
+        "lang": "da",
+        "refcode": "RSSA 77"
+      },
+      {
+        "para_id": "799.337",
+        "lang": "de",
+        "refcode": "RSs 66"
+      },
+      {
+        "para_id": "1711.378",
+        "lang": "es",
+        "refcode": "COES 85"
+      },
+      {
+        "para_id": "1917.404",
+        "lang": "pt",
+        "refcode": "CES38 39"
+      },
+      {
+        "para_id": "1724.378",
+        "lang": "pt",
+        "refcode": "CES 77"
+      },
+      {
+        "para_id": "2719.356",
+        "lang": "ro",
+        "refcode": "SSS 77"
+      },
+      {
+        "para_id": "1873.342",
+        "lang": "ru",
+        "refcode": "ССШ 77"
+      }
+    ]
+  },
+  {
+    "para_id": "21.347",
+    "id_prev": "21.346",
+    "id_next": "21.348",
+    "refcode_1": "CSW",
+    "refcode_2": "77",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 77.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 77.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Our superintendents, our teachers in the Sabbath school, should be frequently in prayer. A word spoken in due season may be as good seed in youthful minds, and may result in leading little feet in the right path. But a wrong word may lead their feet in the path of ruin.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 112.1\" data-link=\"121.456\"><em>Testimonies on Sabbath-School Work</em>, 112</span>.",
+    "puborder": 217,
+    "translations": [
+      {
+        "para_id": "11629.320",
+        "lang": "da",
+        "refcode": "RSSA 77.3"
+      },
+      {
+        "para_id": "799.338",
+        "lang": "de",
+        "refcode": "RSs 66.3"
+      },
+      {
+        "para_id": "1711.379",
+        "lang": "es",
+        "refcode": "COES 85.3"
+      },
+      {
+        "para_id": "1917.405",
+        "lang": "pt",
+        "refcode": "CES38 39.2"
+      },
+      {
+        "para_id": "1724.379",
+        "lang": "pt",
+        "refcode": "CES 77.3"
+      },
+      {
+        "para_id": "2719.357",
+        "lang": "ro",
+        "refcode": "SSS 77.3"
+      },
+      {
+        "para_id": "1873.343",
+        "lang": "ru",
+        "refcode": "ССШ 77.3"
+      }
+    ]
+  }
+]

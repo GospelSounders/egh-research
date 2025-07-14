@@ -1,0 +1,4253 @@
+[
+  {
+    "para_id": "127.614",
+    "id_prev": "127.612",
+    "id_next": "127.2663",
+    "refcode_1": "AA",
+    "refcode_2": "143",
+    "refcode_3": "",
+    "refcode_4": "15",
+    "refcode_short": "AA 143",
+    "refcode_long": "The Acts of the Apostles, p. 143 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 15&mdash;Delivered From Prison",
+    "puborder": 382,
+    "translations": [
+      {
+        "para_id": "13804.457",
+        "lang": "bg",
+        "refcode": "Дa 54"
+      },
+      {
+        "para_id": "11590.588",
+        "lang": "ce",
+        "refcode": "ABA 123"
+      },
+      {
+        "para_id": "11247.554",
+        "lang": "cs",
+        "refcode": "PNL 82"
+      },
+      {
+        "para_id": "813.606",
+        "lang": "de",
+        "refcode": "WA 143"
+      },
+      {
+        "para_id": "198.586",
+        "lang": "es",
+        "refcode": "HAp 116"
+      },
+      {
+        "para_id": "158.570",
+        "lang": "fr",
+        "refcode": "CP 127"
+      },
+      {
+        "para_id": "11938.530",
+        "lang": "hu",
+        "refcode": "AT 96"
+      },
+      {
+        "para_id": "12410.568",
+        "lang": "id",
+        "refcode": "KR 122"
+      },
+      {
+        "para_id": "882.531",
+        "lang": "it",
+        "refcode": "UVI 90"
+      },
+      {
+        "para_id": "11660.706",
+        "lang": "ja",
+        "refcode": "AAJ 154"
+      },
+      {
+        "para_id": "12335.511",
+        "lang": "nb",
+        "refcode": "AV 85"
+      },
+      {
+        "para_id": "12008.478",
+        "lang": "pl",
+        "refcode": "DA 80"
+      },
+      {
+        "para_id": "1806.514",
+        "lang": "pt",
+        "refcode": "AA 78.6"
+      },
+      {
+        "para_id": "2013.603",
+        "lang": "ro",
+        "refcode": "FA 143"
+      },
+      {
+        "para_id": "1785.584",
+        "lang": "ru",
+        "refcode": "ДА 143"
+      },
+      {
+        "para_id": "13874.516",
+        "lang": "rw",
+        "refcode": "INI 93"
+      },
+      {
+        "para_id": "11182.504",
+        "lang": "sk",
+        "refcode": "SA 90"
+      },
+      {
+        "para_id": "11904.560",
+        "lang": "tl",
+        "refcode": "AGA 110"
+      },
+      {
+        "para_id": "11875.527",
+        "lang": "uk",
+        "refcode": "ДА 97"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2663",
+    "id_prev": "127.614",
+    "id_next": "127.615",
+    "refcode_1": "AA",
+    "refcode_2": "143",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "bibletext",
+    "content": "<span class=\"non-egw-comment\">This chapter is based on <span class=\"egwlink egwlink_bible\" title=\"Acts 12:1\" data-link=\"1965.55753\">Acts 12:1-23</span>.</span>",
+    "puborder": 383,
+    "translations": [
+      {
+        "para_id": "813.607",
+        "lang": "de",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "198.586",
+        "lang": "es",
+        "refcode": "HAp 116"
+      },
+      {
+        "para_id": "158.571",
+        "lang": "fr",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11938.531",
+        "lang": "hu",
+        "refcode": "AT 96"
+      },
+      {
+        "para_id": "11660.707",
+        "lang": "ja",
+        "refcode": "AAJ 154.1"
+      },
+      {
+        "para_id": "1806.2150",
+        "lang": "pt",
+        "refcode": "AA 308.1"
+      },
+      {
+        "para_id": "2013.2648",
+        "lang": "ro",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "1785.2602",
+        "lang": "ru",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "13874.517",
+        "lang": "rw",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11875.528",
+        "lang": "uk",
+        "refcode": "The Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "para_id": "127.615",
+    "id_prev": "127.2663",
+    "id_next": "127.617",
+    "refcode_1": "AA",
+    "refcode_2": "143",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 143.1",
+    "refcode_long": "The Acts of the Apostles, p. 143.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Now about that time Herod the king stretched forth his hands to vex certain of the church.&rdquo; The government of Judea was then in the hands of Herod Agrippa, subject to Claudius, the Roman emperor. Herod also held the position of tetrarch of Galilee. He was professedly a proselyte to the Jewish faith, and apparently very zealous in carrying out the ceremonies of the Jewish law. Desirous of obtaining the favor of the Jews, hoping thus to make secure his offices and honors, he proceeded to carry out their desires by persecuting the church of Christ, spoiling the houses and goods of the believers, and imprisoning the leading members of the church. He cast James, the brother of John, into prison, and sent an executioner to kill him with the sword, as another Herod had caused the prophet John to be beheaded. Seeing that the Jews were well pleased with these efforts, he imprisoned Peter also.",
+    "puborder": 384,
+    "translations": [
+      {
+        "para_id": "13804.459",
+        "lang": "bg",
+        "refcode": "Дa 54.9"
+      },
+      {
+        "para_id": "13804.458",
+        "lang": "bg",
+        "refcode": "Дa 54.8"
+      },
+      {
+        "para_id": "11590.589",
+        "lang": "ce",
+        "refcode": "ABA 123.1"
+      },
+      {
+        "para_id": "11247.555",
+        "lang": "cs",
+        "refcode": "PNL 82.1"
+      },
+      {
+        "para_id": "813.609",
+        "lang": "de",
+        "refcode": "WA 143.2"
+      },
+      {
+        "para_id": "813.608",
+        "lang": "de",
+        "refcode": "WA 143.1"
+      },
+      {
+        "para_id": "198.588",
+        "lang": "es",
+        "refcode": "HAp 116.2"
+      },
+      {
+        "para_id": "198.587",
+        "lang": "es",
+        "refcode": "HAp 116.1"
+      },
+      {
+        "para_id": "158.572",
+        "lang": "fr",
+        "refcode": "CP 127.1"
+      },
+      {
+        "para_id": "158.573",
+        "lang": "fr",
+        "refcode": "CP 127.2"
+      },
+      {
+        "para_id": "11938.532",
+        "lang": "hu",
+        "refcode": "AT 96.1"
+      },
+      {
+        "para_id": "12410.569",
+        "lang": "id",
+        "refcode": "KR 122.1"
+      },
+      {
+        "para_id": "882.532",
+        "lang": "it",
+        "refcode": "UVI 90.1"
+      },
+      {
+        "para_id": "11660.708",
+        "lang": "ja",
+        "refcode": "AAJ 154.2"
+      },
+      {
+        "para_id": "11660.709",
+        "lang": "ja",
+        "refcode": "AAJ 154.3"
+      },
+      {
+        "para_id": "12335.513",
+        "lang": "nb",
+        "refcode": "AV 85.2"
+      },
+      {
+        "para_id": "12335.512",
+        "lang": "nb",
+        "refcode": "AV 85.1"
+      },
+      {
+        "para_id": "12008.479",
+        "lang": "pl",
+        "refcode": "DA 80.1"
+      },
+      {
+        "para_id": "1806.515",
+        "lang": "pt",
+        "refcode": "AA 78.7"
+      },
+      {
+        "para_id": "2013.604",
+        "lang": "ro",
+        "refcode": "FA 143.1"
+      },
+      {
+        "para_id": "1785.585",
+        "lang": "ru",
+        "refcode": "ДА 143.1"
+      },
+      {
+        "para_id": "13874.518",
+        "lang": "rw",
+        "refcode": "INI 93.1"
+      },
+      {
+        "para_id": "11182.505",
+        "lang": "sk",
+        "refcode": "SA 90.1"
+      },
+      {
+        "para_id": "11904.562",
+        "lang": "tl",
+        "refcode": "AGA 110.2"
+      },
+      {
+        "para_id": "11904.561",
+        "lang": "tl",
+        "refcode": "AGA 110.1"
+      },
+      {
+        "para_id": "11875.529",
+        "lang": "uk",
+        "refcode": "ДА 97.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.617",
+    "id_prev": "127.615",
+    "id_next": "127.618",
+    "refcode_1": "AA",
+    "refcode_2": "144",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 144.1",
+    "refcode_long": "The Acts of the Apostles, p. 144.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It was during the Passover that these cruelties were practiced. While the Jews were celebrating their deliverance from Egypt and pretending great zeal for the law of God, they were at the same time transgressing every principle of that law by persecuting and murdering the believers in Christ.",
+    "puborder": 385,
+    "translations": [
+      {
+        "para_id": "13804.462",
+        "lang": "bg",
+        "refcode": "Дa 55.1"
+      },
+      {
+        "para_id": "11590.590",
+        "lang": "ce",
+        "refcode": "ABA 123.2"
+      },
+      {
+        "para_id": "11247.556",
+        "lang": "cs",
+        "refcode": "PNL 82.2"
+      },
+      {
+        "para_id": "813.610",
+        "lang": "de",
+        "refcode": "WA 143.3"
+      },
+      {
+        "para_id": "198.589",
+        "lang": "es",
+        "refcode": "HAp 116.3"
+      },
+      {
+        "para_id": "158.574",
+        "lang": "fr",
+        "refcode": "CP 127.3"
+      },
+      {
+        "para_id": "11938.533",
+        "lang": "hu",
+        "refcode": "AT 96.2"
+      },
+      {
+        "para_id": "12410.570",
+        "lang": "id",
+        "refcode": "KR 122.2"
+      },
+      {
+        "para_id": "882.533",
+        "lang": "it",
+        "refcode": "UVI 90.2"
+      },
+      {
+        "para_id": "11660.710",
+        "lang": "ja",
+        "refcode": "AAJ 154.4"
+      },
+      {
+        "para_id": "12335.514",
+        "lang": "nb",
+        "refcode": "AV 85.3"
+      },
+      {
+        "para_id": "12008.480",
+        "lang": "pl",
+        "refcode": "DA 80.2"
+      },
+      {
+        "para_id": "1806.515",
+        "lang": "pt",
+        "refcode": "AA 78.7"
+      },
+      {
+        "para_id": "2013.606",
+        "lang": "ro",
+        "refcode": "FA 144.1"
+      },
+      {
+        "para_id": "1785.587",
+        "lang": "ru",
+        "refcode": "ДА 144.1"
+      },
+      {
+        "para_id": "13874.519",
+        "lang": "rw",
+        "refcode": "INI 93.2"
+      },
+      {
+        "para_id": "11182.506",
+        "lang": "sk",
+        "refcode": "SA 90.2"
+      },
+      {
+        "para_id": "11904.563",
+        "lang": "tl",
+        "refcode": "AGA 110.3"
+      },
+      {
+        "para_id": "11875.530",
+        "lang": "uk",
+        "refcode": "ДА 97.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.618",
+    "id_prev": "127.617",
+    "id_next": "127.619",
+    "refcode_1": "AA",
+    "refcode_2": "144",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 144.2",
+    "refcode_long": "The Acts of the Apostles, p. 144.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The death of James caused great grief and consternation among the believers. When Peter also was imprisoned, the entire church engaged in fasting and prayer.",
+    "puborder": 386,
+    "translations": [
+      {
+        "para_id": "13804.463",
+        "lang": "bg",
+        "refcode": "Дa 55.2"
+      },
+      {
+        "para_id": "11590.591",
+        "lang": "ce",
+        "refcode": "ABA 123.3"
+      },
+      {
+        "para_id": "11247.557",
+        "lang": "cs",
+        "refcode": "PNL 82.3"
+      },
+      {
+        "para_id": "813.612",
+        "lang": "de",
+        "refcode": "WA 144.1"
+      },
+      {
+        "para_id": "198.590",
+        "lang": "es",
+        "refcode": "HAp 116.4"
+      },
+      {
+        "para_id": "158.577",
+        "lang": "fr",
+        "refcode": "CP 128.1"
+      },
+      {
+        "para_id": "11938.534",
+        "lang": "hu",
+        "refcode": "AT 96.3"
+      },
+      {
+        "para_id": "12410.572",
+        "lang": "id",
+        "refcode": "KR 123.1"
+      },
+      {
+        "para_id": "882.534",
+        "lang": "it",
+        "refcode": "UVI 90.3"
+      },
+      {
+        "para_id": "11660.713",
+        "lang": "ja",
+        "refcode": "AAJ 155.1"
+      },
+      {
+        "para_id": "12335.515",
+        "lang": "nb",
+        "refcode": "AV 85.4"
+      },
+      {
+        "para_id": "12008.481",
+        "lang": "pl",
+        "refcode": "DA 80.3"
+      },
+      {
+        "para_id": "1806.515",
+        "lang": "pt",
+        "refcode": "AA 78.7"
+      },
+      {
+        "para_id": "2013.607",
+        "lang": "ro",
+        "refcode": "FA 144.2"
+      },
+      {
+        "para_id": "1785.588",
+        "lang": "ru",
+        "refcode": "ДА 144.2"
+      },
+      {
+        "para_id": "13874.520",
+        "lang": "rw",
+        "refcode": "INI 93.3"
+      },
+      {
+        "para_id": "11182.507",
+        "lang": "sk",
+        "refcode": "SA 90.3"
+      },
+      {
+        "para_id": "11904.564",
+        "lang": "tl",
+        "refcode": "AGA 110.4"
+      },
+      {
+        "para_id": "11875.531",
+        "lang": "uk",
+        "refcode": "ДА 97.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.619",
+    "id_prev": "127.618",
+    "id_next": "127.620",
+    "refcode_1": "AA",
+    "refcode_2": "144",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 144.3",
+    "refcode_long": "The Acts of the Apostles, p. 144.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Herod&apos;s act in putting James to death was applauded by the Jews, though some complained of the private manner in which it was accomplished, maintaining that a public execution would have more thoroughly intimidated the believers and those sympathizing with them. Herod therefore held Peter in custody, meaning still further to gratify the Jews by the public spectacle of his death. But it was suggested that it would not be safe to bring the veteran apostle out for execution before all the people then assembled in Jerusalem. It was feared that the sight of him being led out to die might excite the pity of the multitude.",
+    "puborder": 387,
+    "translations": [
+      {
+        "para_id": "13804.464",
+        "lang": "bg",
+        "refcode": "Дa 55.3"
+      },
+      {
+        "para_id": "11590.592",
+        "lang": "ce",
+        "refcode": "ABA 123.4"
+      },
+      {
+        "para_id": "11247.559",
+        "lang": "cs",
+        "refcode": "PNL 82.4"
+      },
+      {
+        "para_id": "813.613",
+        "lang": "de",
+        "refcode": "WA 144.2"
+      },
+      {
+        "para_id": "198.591",
+        "lang": "es",
+        "refcode": "HAp 116.5"
+      },
+      {
+        "para_id": "158.577",
+        "lang": "fr",
+        "refcode": "CP 128.1"
+      },
+      {
+        "para_id": "11938.535",
+        "lang": "hu",
+        "refcode": "AT 96.4"
+      },
+      {
+        "para_id": "12410.573",
+        "lang": "id",
+        "refcode": "KR 123.2"
+      },
+      {
+        "para_id": "882.535",
+        "lang": "it",
+        "refcode": "UVI 90.4"
+      },
+      {
+        "para_id": "11660.714",
+        "lang": "ja",
+        "refcode": "AAJ 155.2"
+      },
+      {
+        "para_id": "12335.516",
+        "lang": "nb",
+        "refcode": "AV 85.5"
+      },
+      {
+        "para_id": "12008.482",
+        "lang": "pl",
+        "refcode": "DA 80.4"
+      },
+      {
+        "para_id": "1806.518",
+        "lang": "pt",
+        "refcode": "AA 79.1"
+      },
+      {
+        "para_id": "2013.608",
+        "lang": "ro",
+        "refcode": "FA 144.3"
+      },
+      {
+        "para_id": "1785.589",
+        "lang": "ru",
+        "refcode": "ДА 144.3"
+      },
+      {
+        "para_id": "13874.521",
+        "lang": "rw",
+        "refcode": "INI 93.4"
+      },
+      {
+        "para_id": "11182.508",
+        "lang": "sk",
+        "refcode": "SA 90.4"
+      },
+      {
+        "para_id": "11904.565",
+        "lang": "tl",
+        "refcode": "AGA 110.5"
+      },
+      {
+        "para_id": "11875.531",
+        "lang": "uk",
+        "refcode": "ДА 97.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.620",
+    "id_prev": "127.619",
+    "id_next": "127.623",
+    "refcode_1": "AA",
+    "refcode_2": "144",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 144.4",
+    "refcode_long": "The Acts of the Apostles, p. 144.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The priests and elders also feared lest Peter might make one of those powerful appeals which had frequently aroused the people to study the life and character of Jesus&mdash;appeals which they, with all their arguments, had been unable to controvert. Peter&apos;s zeal in advocating the cause of Christ had led many to take their stand for the gospel, and the rulers feared that should he be given an opportunity to defend his faith in the presence of the multitude who had come to <span class=\"page-break\" data-page=\"145\"></span> the city to worship, his release would be demanded at the hands of the king.",
+    "puborder": 388,
+    "translations": [
+      {
+        "para_id": "13804.465",
+        "lang": "bg",
+        "refcode": "Дa 55.4"
+      },
+      {
+        "para_id": "11590.595",
+        "lang": "ce",
+        "refcode": "ABA 124.1"
+      },
+      {
+        "para_id": "11247.560",
+        "lang": "cs",
+        "refcode": "PNL 82.5"
+      },
+      {
+        "para_id": "813.614",
+        "lang": "de",
+        "refcode": "WA 144.3"
+      },
+      {
+        "para_id": "198.594",
+        "lang": "es",
+        "refcode": "HAp 117.1"
+      },
+      {
+        "para_id": "158.578",
+        "lang": "fr",
+        "refcode": "CP 128.2"
+      },
+      {
+        "para_id": "158.579",
+        "lang": "fr",
+        "refcode": "CP 128.3"
+      },
+      {
+        "para_id": "11938.536",
+        "lang": "hu",
+        "refcode": "AT 96.5"
+      },
+      {
+        "para_id": "12410.574",
+        "lang": "id",
+        "refcode": "KR 123.3"
+      },
+      {
+        "para_id": "882.536",
+        "lang": "it",
+        "refcode": "UVI 90.5"
+      },
+      {
+        "para_id": "11660.715",
+        "lang": "ja",
+        "refcode": "AAJ 155.3"
+      },
+      {
+        "para_id": "12335.517",
+        "lang": "nb",
+        "refcode": "AV 85.6"
+      },
+      {
+        "para_id": "12008.483",
+        "lang": "pl",
+        "refcode": "DA 80.5"
+      },
+      {
+        "para_id": "1806.519",
+        "lang": "pt",
+        "refcode": "AA 79.2"
+      },
+      {
+        "para_id": "2013.609",
+        "lang": "ro",
+        "refcode": "FA 144.4"
+      },
+      {
+        "para_id": "1785.590",
+        "lang": "ru",
+        "refcode": "ДА 144.4"
+      },
+      {
+        "para_id": "13874.522",
+        "lang": "rw",
+        "refcode": "INI 93.5"
+      },
+      {
+        "para_id": "11182.509",
+        "lang": "sk",
+        "refcode": "SA 90.5"
+      },
+      {
+        "para_id": "11904.568",
+        "lang": "tl",
+        "refcode": "AGA 111.1"
+      },
+      {
+        "para_id": "11875.534",
+        "lang": "uk",
+        "refcode": "ДА 98.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.623",
+    "id_prev": "127.620",
+    "id_next": "127.624",
+    "refcode_1": "AA",
+    "refcode_2": "145",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 145.1",
+    "refcode_long": "The Acts of the Apostles, p. 145.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "While, upon various pretexts, the execution of Peter was being delayed until after the Passover, the members of the church had time for deep searching of heart and earnest prayer. They prayed without ceasing for Peter, for they felt that he could not be spared from the cause. They realized that they had reached a place where, without the special help of God, the church of Christ would be destroyed.",
+    "puborder": 389,
+    "translations": [
+      {
+        "para_id": "13804.466",
+        "lang": "bg",
+        "refcode": "Дa 55.5"
+      },
+      {
+        "para_id": "11590.596",
+        "lang": "ce",
+        "refcode": "ABA 124.2"
+      },
+      {
+        "para_id": "11247.563",
+        "lang": "cs",
+        "refcode": "PNL 83.1"
+      },
+      {
+        "para_id": "813.615",
+        "lang": "de",
+        "refcode": "WA 144.4"
+      },
+      {
+        "para_id": "198.595",
+        "lang": "es",
+        "refcode": "HAp 117.2"
+      },
+      {
+        "para_id": "158.580",
+        "lang": "fr",
+        "refcode": "CP 128.4"
+      },
+      {
+        "para_id": "11938.539",
+        "lang": "hu",
+        "refcode": "AT 97.1"
+      },
+      {
+        "para_id": "12410.575",
+        "lang": "id",
+        "refcode": "KR 123.4"
+      },
+      {
+        "para_id": "882.539",
+        "lang": "it",
+        "refcode": "UVI 91.1"
+      },
+      {
+        "para_id": "11660.716",
+        "lang": "ja",
+        "refcode": "AAJ 155.4"
+      },
+      {
+        "para_id": "12335.520",
+        "lang": "nb",
+        "refcode": "AV 86.1"
+      },
+      {
+        "para_id": "12008.486",
+        "lang": "pl",
+        "refcode": "DA 81.1"
+      },
+      {
+        "para_id": "1806.522",
+        "lang": "pt",
+        "refcode": "AA 79.5"
+      },
+      {
+        "para_id": "2013.612",
+        "lang": "ro",
+        "refcode": "FA 145.1"
+      },
+      {
+        "para_id": "1785.593",
+        "lang": "ru",
+        "refcode": "ДА 145.1"
+      },
+      {
+        "para_id": "13874.524",
+        "lang": "rw",
+        "refcode": "INI 94.1"
+      },
+      {
+        "para_id": "11182.509",
+        "lang": "sk",
+        "refcode": "SA 90.5"
+      },
+      {
+        "para_id": "11904.569",
+        "lang": "tl",
+        "refcode": "AGA 111.2"
+      },
+      {
+        "para_id": "11875.535",
+        "lang": "uk",
+        "refcode": "ДА 98.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.624",
+    "id_prev": "127.623",
+    "id_next": "127.625",
+    "refcode_1": "AA",
+    "refcode_2": "145",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 145.2",
+    "refcode_long": "The Acts of the Apostles, p. 145.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Meanwhile worshipers from every nation sought the temple which had been dedicated to the worship of God. Glittering with gold and precious stones, it was a vision of beauty and grandeur. But Jehovah was no longer to be found in that palace of loveliness. Israel as a nation had divorced herself from God. When Christ, near the close of His earthly ministry, looked for the last time upon the interior of the temple, He said, &ldquo;Behold, your house is left unto you desolate.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Matthew 23:38\" data-link=\"1965.48907\">Matthew 23:38</span>. Hitherto He had called the temple His Father&apos;s house; but as the Son of God passed out from those walls, God&apos;s presence was withdrawn forever from the temple built to His glory.",
+    "puborder": 390,
+    "translations": [
+      {
+        "para_id": "13804.467",
+        "lang": "bg",
+        "refcode": "Дa 55.6"
+      },
+      {
+        "para_id": "11590.597",
+        "lang": "ce",
+        "refcode": "ABA 124.3"
+      },
+      {
+        "para_id": "11247.564",
+        "lang": "cs",
+        "refcode": "PNL 83.2"
+      },
+      {
+        "para_id": "813.618",
+        "lang": "de",
+        "refcode": "WA 145.1"
+      },
+      {
+        "para_id": "198.596",
+        "lang": "es",
+        "refcode": "HAp 117.3"
+      },
+      {
+        "para_id": "158.582",
+        "lang": "fr",
+        "refcode": "CP 129.1"
+      },
+      {
+        "para_id": "11938.540",
+        "lang": "hu",
+        "refcode": "AT 97.2"
+      },
+      {
+        "para_id": "12410.576",
+        "lang": "id",
+        "refcode": "KR 123.5"
+      },
+      {
+        "para_id": "882.540",
+        "lang": "it",
+        "refcode": "UVI 91.2"
+      },
+      {
+        "para_id": "11660.719",
+        "lang": "ja",
+        "refcode": "AAJ 156.1"
+      },
+      {
+        "para_id": "12335.521",
+        "lang": "nb",
+        "refcode": "AV 86.2"
+      },
+      {
+        "para_id": "12008.487",
+        "lang": "pl",
+        "refcode": "DA 81.2"
+      },
+      {
+        "para_id": "1806.523",
+        "lang": "pt",
+        "refcode": "AA 79.6"
+      },
+      {
+        "para_id": "2013.613",
+        "lang": "ro",
+        "refcode": "FA 145.2"
+      },
+      {
+        "para_id": "1785.594",
+        "lang": "ru",
+        "refcode": "ДА 145.2"
+      },
+      {
+        "para_id": "13874.525",
+        "lang": "rw",
+        "refcode": "INI 94.2"
+      },
+      {
+        "para_id": "11182.512",
+        "lang": "sk",
+        "refcode": "SA 91.1"
+      },
+      {
+        "para_id": "11904.570",
+        "lang": "tl",
+        "refcode": "AGA 111.3"
+      },
+      {
+        "para_id": "11875.536",
+        "lang": "uk",
+        "refcode": "ДА 98.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.625",
+    "id_prev": "127.624",
+    "id_next": "127.626",
+    "refcode_1": "AA",
+    "refcode_2": "145",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 145.3",
+    "refcode_long": "The Acts of the Apostles, p. 145.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The day of Peter&apos;s execution was at last appointed, but still the prayers of the believers ascended to heaven; and while all their energies and sympathies were called out in fervent appeals for help, angels of God were watching over the imprisoned apostle.",
+    "puborder": 391,
+    "translations": [
+      {
+        "para_id": "13804.468",
+        "lang": "bg",
+        "refcode": "Дa 55.7"
+      },
+      {
+        "para_id": "11590.600",
+        "lang": "ce",
+        "refcode": "ABA 125.2"
+      },
+      {
+        "para_id": "11247.565",
+        "lang": "cs",
+        "refcode": "PNL 83.3"
+      },
+      {
+        "para_id": "813.619",
+        "lang": "de",
+        "refcode": "WA 145.2"
+      },
+      {
+        "para_id": "198.597",
+        "lang": "es",
+        "refcode": "HAp 117.4"
+      },
+      {
+        "para_id": "158.583",
+        "lang": "fr",
+        "refcode": "CP 129.2"
+      },
+      {
+        "para_id": "11938.541",
+        "lang": "hu",
+        "refcode": "AT 97.3"
+      },
+      {
+        "para_id": "12410.579",
+        "lang": "id",
+        "refcode": "KR 124.1"
+      },
+      {
+        "para_id": "882.541",
+        "lang": "it",
+        "refcode": "UVI 91.3"
+      },
+      {
+        "para_id": "11660.720",
+        "lang": "ja",
+        "refcode": "AAJ 156.2"
+      },
+      {
+        "para_id": "12335.522",
+        "lang": "nb",
+        "refcode": "AV 86.3"
+      },
+      {
+        "para_id": "12008.488",
+        "lang": "pl",
+        "refcode": "DA 81.3"
+      },
+      {
+        "para_id": "1806.524",
+        "lang": "pt",
+        "refcode": "AA 79.7"
+      },
+      {
+        "para_id": "2013.614",
+        "lang": "ro",
+        "refcode": "FA 145.3"
+      },
+      {
+        "para_id": "1785.595",
+        "lang": "ru",
+        "refcode": "ДА 145.3"
+      },
+      {
+        "para_id": "13874.526",
+        "lang": "rw",
+        "refcode": "INI 94.3"
+      },
+      {
+        "para_id": "11182.513",
+        "lang": "sk",
+        "refcode": "SA 91.2"
+      },
+      {
+        "para_id": "11904.571",
+        "lang": "tl",
+        "refcode": "AGA 111.4"
+      },
+      {
+        "para_id": "11875.538",
+        "lang": "uk",
+        "refcode": "ДА 99.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.626",
+    "id_prev": "127.625",
+    "id_next": "127.629",
+    "refcode_1": "AA",
+    "refcode_2": "145",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 145.4",
+    "refcode_long": "The Acts of the Apostles, p. 145.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Remembering the former escape of the apostles from prison, Herod on this occasion had taken double precautions. <span class=\"page-break\" data-page=\"146\"></span> To prevent all possibility of release, Peter had been put under the charge of sixteen soldiers, who, in different watches, guarded him day and night. In his cell he was placed between two soldiers and was bound by two chains, each chain being fastened to the wrist of one of the soldiers. He was unable to move without their knowledge. With the prison doors securely fastened, and a strong guard before them, all chance of rescue or escape through human means was cut off. But man&apos;s extremity is God&apos;s opportunity.",
+    "puborder": 392,
+    "translations": [
+      {
+        "para_id": "13804.469",
+        "lang": "bg",
+        "refcode": "Дa 55.8"
+      },
+      {
+        "para_id": "11590.601",
+        "lang": "ce",
+        "refcode": "ABA 125.3"
+      },
+      {
+        "para_id": "11247.567",
+        "lang": "cs",
+        "refcode": "PNL 83.4"
+      },
+      {
+        "para_id": "813.620",
+        "lang": "de",
+        "refcode": "WA 145.3"
+      },
+      {
+        "para_id": "198.600",
+        "lang": "es",
+        "refcode": "HAp 118.1"
+      },
+      {
+        "para_id": "158.584",
+        "lang": "fr",
+        "refcode": "CP 129.3"
+      },
+      {
+        "para_id": "11938.542",
+        "lang": "hu",
+        "refcode": "AT 97.4"
+      },
+      {
+        "para_id": "12410.580",
+        "lang": "id",
+        "refcode": "KR 124.2"
+      },
+      {
+        "para_id": "882.542",
+        "lang": "it",
+        "refcode": "UVI 91.4"
+      },
+      {
+        "para_id": "11660.721",
+        "lang": "ja",
+        "refcode": "AAJ 156.3"
+      },
+      {
+        "para_id": "12335.523",
+        "lang": "nb",
+        "refcode": "AV 86.4"
+      },
+      {
+        "para_id": "12008.489",
+        "lang": "pl",
+        "refcode": "DA 81.4"
+      },
+      {
+        "para_id": "1806.525",
+        "lang": "pt",
+        "refcode": "AA 79.8"
+      },
+      {
+        "para_id": "2013.615",
+        "lang": "ro",
+        "refcode": "FA 145.4"
+      },
+      {
+        "para_id": "1785.596",
+        "lang": "ru",
+        "refcode": "ДА 145.4"
+      },
+      {
+        "para_id": "13874.527",
+        "lang": "rw",
+        "refcode": "INI 94.4"
+      },
+      {
+        "para_id": "11182.514",
+        "lang": "sk",
+        "refcode": "SA 91.3"
+      },
+      {
+        "para_id": "11904.572",
+        "lang": "tl",
+        "refcode": "AGA 111.5"
+      },
+      {
+        "para_id": "11875.539",
+        "lang": "uk",
+        "refcode": "ДА 99.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.629",
+    "id_prev": "127.626",
+    "id_next": "127.630",
+    "refcode_1": "AA",
+    "refcode_2": "146",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 146.1",
+    "refcode_long": "The Acts of the Apostles, p. 146.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Peter was confined in a rock-hewn cell, the doors of which were strongly bolted and barred; and the soldiers on guard were made answerable for the safekeeping of the prisoner. But the bolts and bars and the Roman guard, which effectually cut off all possibility of human aid, were but to make more complete the triumph of God in the deliverance of Peter. Herod was lifting his hand against Omnipotence, and he was to be utterly defeated. By the putting forth of His might, God was about to save the precious life that the Jews were plotting to destroy.",
+    "puborder": 393,
+    "translations": [
+      {
+        "para_id": "13804.472",
+        "lang": "bg",
+        "refcode": "Дa 56.1"
+      },
+      {
+        "para_id": "11590.602",
+        "lang": "ce",
+        "refcode": "ABA 125.4"
+      },
+      {
+        "para_id": "11247.568",
+        "lang": "cs",
+        "refcode": "PNL 83.5"
+      },
+      {
+        "para_id": "813.621",
+        "lang": "de",
+        "refcode": "WA 145.4"
+      },
+      {
+        "para_id": "198.601",
+        "lang": "es",
+        "refcode": "HAp 118.2"
+      },
+      {
+        "para_id": "158.585",
+        "lang": "fr",
+        "refcode": "CP 129.4"
+      },
+      {
+        "para_id": "11938.543",
+        "lang": "hu",
+        "refcode": "AT 97.5"
+      },
+      {
+        "para_id": "12410.581",
+        "lang": "id",
+        "refcode": "KR 124.3"
+      },
+      {
+        "para_id": "882.543",
+        "lang": "it",
+        "refcode": "UVI 91.5"
+      },
+      {
+        "para_id": "11660.724",
+        "lang": "ja",
+        "refcode": "AAJ 157.1"
+      },
+      {
+        "para_id": "12335.524",
+        "lang": "nb",
+        "refcode": "AV 86.5"
+      },
+      {
+        "para_id": "12008.490",
+        "lang": "pl",
+        "refcode": "DA 81.5"
+      },
+      {
+        "para_id": "1806.525",
+        "lang": "pt",
+        "refcode": "AA 79.8"
+      },
+      {
+        "para_id": "2013.618",
+        "lang": "ro",
+        "refcode": "FA 146.1"
+      },
+      {
+        "para_id": "1785.599",
+        "lang": "ru",
+        "refcode": "ДА 146.1"
+      },
+      {
+        "para_id": "13874.528",
+        "lang": "rw",
+        "refcode": "INI 94.5"
+      },
+      {
+        "para_id": "11182.514",
+        "lang": "sk",
+        "refcode": "SA 91.3"
+      },
+      {
+        "para_id": "11904.575",
+        "lang": "tl",
+        "refcode": "AGA 112.1"
+      },
+      {
+        "para_id": "11875.540",
+        "lang": "uk",
+        "refcode": "ДА 99.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.630",
+    "id_prev": "127.629",
+    "id_next": "127.631",
+    "refcode_1": "AA",
+    "refcode_2": "146",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 146.2",
+    "refcode_long": "The Acts of the Apostles, p. 146.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is the last night before the proposed execution. A mighty angel is sent from heaven to rescue Peter. The strong gates that shut in the saint of God open without the aid of human hands. The angel of the Most High passes through, and the gates close noiselessly behind him. He enters the cell, and there lies Peter, sleeping the peaceful sleep of perfect trust.",
+    "puborder": 394,
+    "translations": [
+      {
+        "para_id": "13804.473",
+        "lang": "bg",
+        "refcode": "Дa 56.2"
+      },
+      {
+        "para_id": "11590.603",
+        "lang": "ce",
+        "refcode": "ABA 125.5"
+      },
+      {
+        "para_id": "11247.569",
+        "lang": "cs",
+        "refcode": "PNL 83.6"
+      },
+      {
+        "para_id": "813.624",
+        "lang": "de",
+        "refcode": "WA 146.1"
+      },
+      {
+        "para_id": "198.602",
+        "lang": "es",
+        "refcode": "HAp 118.3"
+      },
+      {
+        "para_id": "158.587",
+        "lang": "fr",
+        "refcode": "CP 130.1"
+      },
+      {
+        "para_id": "11938.546",
+        "lang": "hu",
+        "refcode": "AT 98.1"
+      },
+      {
+        "para_id": "12410.582",
+        "lang": "id",
+        "refcode": "KR 124.4"
+      },
+      {
+        "para_id": "882.546",
+        "lang": "it",
+        "refcode": "UVI 92.1"
+      },
+      {
+        "para_id": "11660.725",
+        "lang": "ja",
+        "refcode": "AAJ 157.2"
+      },
+      {
+        "para_id": "12335.527",
+        "lang": "nb",
+        "refcode": "AV 87.1"
+      },
+      {
+        "para_id": "12008.491",
+        "lang": "pl",
+        "refcode": "DA 81.6"
+      },
+      {
+        "para_id": "1806.525",
+        "lang": "pt",
+        "refcode": "AA 79.8"
+      },
+      {
+        "para_id": "2013.619",
+        "lang": "ro",
+        "refcode": "FA 146.2"
+      },
+      {
+        "para_id": "1785.600",
+        "lang": "ru",
+        "refcode": "ДА 146.2"
+      },
+      {
+        "para_id": "13874.530",
+        "lang": "rw",
+        "refcode": "INI 95.1"
+      },
+      {
+        "para_id": "11182.516",
+        "lang": "sk",
+        "refcode": "SA 92.1"
+      },
+      {
+        "para_id": "11904.576",
+        "lang": "tl",
+        "refcode": "AGA 112.2"
+      },
+      {
+        "para_id": "11875.541",
+        "lang": "uk",
+        "refcode": "ДА 99.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.631",
+    "id_prev": "127.630",
+    "id_next": "127.634",
+    "refcode_1": "AA",
+    "refcode_2": "146",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 146.3",
+    "refcode_long": "The Acts of the Apostles, p. 146.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The light that surrounds the angel fills the cell, but does not rouse the apostle. Not until he feels the touch of the angel&apos;s hand and hears a voice saying, &ldquo;Arise up quickly,&ldquo; <span class=\"page-break\" data-page=\"147\"></span> does he awaken sufficiently to see his cell illuminated by the light of heaven, and an angel of great glory standing before him. Mechanically he obeys the word spoken to him, and as in rising he lifts his hands he is dimly conscious that the chains have fallen from his wrists.",
+    "puborder": 395,
+    "translations": [
+      {
+        "para_id": "13804.474",
+        "lang": "bg",
+        "refcode": "Дa 56.3"
+      },
+      {
+        "para_id": "11590.606",
+        "lang": "ce",
+        "refcode": "ABA 126.1"
+      },
+      {
+        "para_id": "11247.572",
+        "lang": "cs",
+        "refcode": "PNL 84.1"
+      },
+      {
+        "para_id": "813.625",
+        "lang": "de",
+        "refcode": "WA 146.2"
+      },
+      {
+        "para_id": "198.603",
+        "lang": "es",
+        "refcode": "HAp 118.4"
+      },
+      {
+        "para_id": "158.587",
+        "lang": "fr",
+        "refcode": "CP 130.1"
+      },
+      {
+        "para_id": "11938.547",
+        "lang": "hu",
+        "refcode": "AT 98.2"
+      },
+      {
+        "para_id": "12410.585",
+        "lang": "id",
+        "refcode": "KR 125.1"
+      },
+      {
+        "para_id": "882.547",
+        "lang": "it",
+        "refcode": "UVI 92.2"
+      },
+      {
+        "para_id": "11660.726",
+        "lang": "ja",
+        "refcode": "AAJ 157.3"
+      },
+      {
+        "para_id": "12335.528",
+        "lang": "nb",
+        "refcode": "AV 87.2"
+      },
+      {
+        "para_id": "12008.494",
+        "lang": "pl",
+        "refcode": "DA 82.1"
+      },
+      {
+        "para_id": "1806.530",
+        "lang": "pt",
+        "refcode": "AA 80.3"
+      },
+      {
+        "para_id": "2013.620",
+        "lang": "ro",
+        "refcode": "FA 146.3"
+      },
+      {
+        "para_id": "1785.601",
+        "lang": "ru",
+        "refcode": "ДА 146.3"
+      },
+      {
+        "para_id": "13874.531",
+        "lang": "rw",
+        "refcode": "INI 95.2"
+      },
+      {
+        "para_id": "11182.517",
+        "lang": "sk",
+        "refcode": "SA 92.2"
+      },
+      {
+        "para_id": "11904.577",
+        "lang": "tl",
+        "refcode": "AGA 112.3"
+      },
+      {
+        "para_id": "11875.542",
+        "lang": "uk",
+        "refcode": "ДА 99.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.634",
+    "id_prev": "127.631",
+    "id_next": "127.635",
+    "refcode_1": "AA",
+    "refcode_2": "147",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 147.1",
+    "refcode_long": "The Acts of the Apostles, p. 147.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Again the voice of the heavenly messenger bids him, &ldquo;Gird thyself, and bind on thy sandals,&rdquo; and again Peter mechanically obeys, keeping his wondering gaze riveted upon his visitor and believing himself to be dreaming or in a vision. Once more the angel commands, &ldquo;Cast thy garment about thee, and follow me.&rdquo; He moves toward the door, followed by the usually talkative Peter, now dumb from amazement. They step over the guard and reach the heavily bolted door, which of its own accord swings open and closes again immediately, while the guards within and without are motionless at their post.",
+    "puborder": 396,
+    "translations": [
+      {
+        "para_id": "13804.475",
+        "lang": "bg",
+        "refcode": "Дa 56.4"
+      },
+      {
+        "para_id": "11590.607",
+        "lang": "ce",
+        "refcode": "ABA 126.2"
+      },
+      {
+        "para_id": "11247.573",
+        "lang": "cs",
+        "refcode": "PNL 84.2"
+      },
+      {
+        "para_id": "813.626",
+        "lang": "de",
+        "refcode": "WA 146.3"
+      },
+      {
+        "para_id": "198.606",
+        "lang": "es",
+        "refcode": "HAp 119.1"
+      },
+      {
+        "para_id": "158.588",
+        "lang": "fr",
+        "refcode": "CP 130.2"
+      },
+      {
+        "para_id": "11938.548",
+        "lang": "hu",
+        "refcode": "AT 98.3"
+      },
+      {
+        "para_id": "12410.586",
+        "lang": "id",
+        "refcode": "KR 125.2"
+      },
+      {
+        "para_id": "882.548",
+        "lang": "it",
+        "refcode": "UVI 92.3"
+      },
+      {
+        "para_id": "11660.727",
+        "lang": "ja",
+        "refcode": "AAJ 157.4"
+      },
+      {
+        "para_id": "12335.529",
+        "lang": "nb",
+        "refcode": "AV 87.3"
+      },
+      {
+        "para_id": "12008.495",
+        "lang": "pl",
+        "refcode": "DA 82.2"
+      },
+      {
+        "para_id": "1806.531",
+        "lang": "pt",
+        "refcode": "AA 80.4"
+      },
+      {
+        "para_id": "2013.623",
+        "lang": "ro",
+        "refcode": "FA 147.1"
+      },
+      {
+        "para_id": "1785.604",
+        "lang": "ru",
+        "refcode": "ДА 147.1"
+      },
+      {
+        "para_id": "13874.532",
+        "lang": "rw",
+        "refcode": "INI 95.3"
+      },
+      {
+        "para_id": "11182.518",
+        "lang": "sk",
+        "refcode": "SA 92.3"
+      },
+      {
+        "para_id": "11904.578",
+        "lang": "tl",
+        "refcode": "AGA 112.4"
+      },
+      {
+        "para_id": "11875.545",
+        "lang": "uk",
+        "refcode": "ДА 100.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.635",
+    "id_prev": "127.634",
+    "id_next": "127.636",
+    "refcode_1": "AA",
+    "refcode_2": "147",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 147.2",
+    "refcode_long": "The Acts of the Apostles, p. 147.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The second door, also guarded within and without, is reached. It opens as did the first, with no creaking of hinges or rattling of iron bolts. They pass through, and it closes again as noiselessly. In the same way they pass through the third gateway and find themselves in the open street. No word is spoken; there is no sound of footsteps. The angel glides on in front, encircled by a light of dazzling brightness, and Peter, bewildered, and still believing himself to be in a dream, follows his deliverer. Thus they pass on through one street, and then, the mission of the angel being accomplished, he suddenly disappears.",
+    "puborder": 397,
+    "translations": [
+      {
+        "para_id": "13804.476",
+        "lang": "bg",
+        "refcode": "Дa 56.5"
+      },
+      {
+        "para_id": "11590.608",
+        "lang": "ce",
+        "refcode": "ABA 126.3"
+      },
+      {
+        "para_id": "11247.574",
+        "lang": "cs",
+        "refcode": "PNL 84.3"
+      },
+      {
+        "para_id": "813.629",
+        "lang": "de",
+        "refcode": "WA 147.1"
+      },
+      {
+        "para_id": "198.607",
+        "lang": "es",
+        "refcode": "HAp 119.2"
+      },
+      {
+        "para_id": "158.589",
+        "lang": "fr",
+        "refcode": "CP 130.3"
+      },
+      {
+        "para_id": "11938.549",
+        "lang": "hu",
+        "refcode": "AT 98.4"
+      },
+      {
+        "para_id": "12410.587",
+        "lang": "id",
+        "refcode": "KR 125.3"
+      },
+      {
+        "para_id": "882.549",
+        "lang": "it",
+        "refcode": "UVI 92.4"
+      },
+      {
+        "para_id": "11660.730",
+        "lang": "ja",
+        "refcode": "AAJ 158.1"
+      },
+      {
+        "para_id": "12335.530",
+        "lang": "nb",
+        "refcode": "AV 87.4"
+      },
+      {
+        "para_id": "12008.495",
+        "lang": "pl",
+        "refcode": "DA 82.2"
+      },
+      {
+        "para_id": "1806.532",
+        "lang": "pt",
+        "refcode": "AA 80.5"
+      },
+      {
+        "para_id": "2013.624",
+        "lang": "ro",
+        "refcode": "FA 147.2"
+      },
+      {
+        "para_id": "1785.605",
+        "lang": "ru",
+        "refcode": "ДА 147.2"
+      },
+      {
+        "para_id": "13874.533",
+        "lang": "rw",
+        "refcode": "INI 95.4"
+      },
+      {
+        "para_id": "11182.519",
+        "lang": "sk",
+        "refcode": "SA 92.4"
+      },
+      {
+        "para_id": "11904.581",
+        "lang": "tl",
+        "refcode": "AGA 113.1"
+      },
+      {
+        "para_id": "11875.546",
+        "lang": "uk",
+        "refcode": "ДА 100.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.636",
+    "id_prev": "127.635",
+    "id_next": "127.639",
+    "refcode_1": "AA",
+    "refcode_2": "147",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 147.3",
+    "refcode_long": "The Acts of the Apostles, p. 147.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The heavenly light faded away, and Peter felt himself to be in profound darkness; but as his eyes became accustomed <span class=\"page-break\" data-page=\"148\"></span> to the darkness, it gradually seemed to lessen, and he found himself alone in the silent street, with the cool night air blowing upon his brow. He now realized that he was free, in a familiar part of the city; he recognized the place as one that he had often frequented and had expected to pass on the morrow for the last time.",
+    "puborder": 398,
+    "translations": [
+      {
+        "para_id": "13804.477",
+        "lang": "bg",
+        "refcode": "Дa 56.6"
+      },
+      {
+        "para_id": "11590.609",
+        "lang": "ce",
+        "refcode": "ABA 126.4"
+      },
+      {
+        "para_id": "11247.575",
+        "lang": "cs",
+        "refcode": "PNL 84.4"
+      },
+      {
+        "para_id": "813.630",
+        "lang": "de",
+        "refcode": "WA 147.2"
+      },
+      {
+        "para_id": "198.608",
+        "lang": "es",
+        "refcode": "HAp 119.3"
+      },
+      {
+        "para_id": "158.590",
+        "lang": "fr",
+        "refcode": "CP 130.4"
+      },
+      {
+        "para_id": "11938.550",
+        "lang": "hu",
+        "refcode": "AT 98.5"
+      },
+      {
+        "para_id": "12410.589",
+        "lang": "id",
+        "refcode": "KR 126.1"
+      },
+      {
+        "para_id": "882.550",
+        "lang": "it",
+        "refcode": "UVI 92.5"
+      },
+      {
+        "para_id": "11660.731",
+        "lang": "ja",
+        "refcode": "AAJ 158.2"
+      },
+      {
+        "para_id": "12335.531",
+        "lang": "nb",
+        "refcode": "AV 87.5"
+      },
+      {
+        "para_id": "12008.496",
+        "lang": "pl",
+        "refcode": "DA 82.3"
+      },
+      {
+        "para_id": "1806.533",
+        "lang": "pt",
+        "refcode": "AA 80.6"
+      },
+      {
+        "para_id": "2013.625",
+        "lang": "ro",
+        "refcode": "FA 147.3"
+      },
+      {
+        "para_id": "1785.606",
+        "lang": "ru",
+        "refcode": "ДА 147.3"
+      },
+      {
+        "para_id": "13874.534",
+        "lang": "rw",
+        "refcode": "INI 95.5"
+      },
+      {
+        "para_id": "11182.520",
+        "lang": "sk",
+        "refcode": "SA 92.5"
+      },
+      {
+        "para_id": "11904.582",
+        "lang": "tl",
+        "refcode": "AGA 113.2"
+      },
+      {
+        "para_id": "11875.547",
+        "lang": "uk",
+        "refcode": "ДА 100.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.639",
+    "id_prev": "127.636",
+    "id_next": "127.640",
+    "refcode_1": "AA",
+    "refcode_2": "148",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 148.1",
+    "refcode_long": "The Acts of the Apostles, p. 148.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "He tried to recall the events of the past few moments. He remembered falling asleep, bound between two soldiers, with his sandals and outer garments removed. He examined his person and found himself fully dressed and girded. His wrists, swollen from wearing the cruel irons, were free from the manacles. He realized that his freedom was no delusion, no dream or vision, but a blessed reality. On the morrow he was to have been led forth to die; but, lo, an angel had delivered him from prison and from death. &ldquo;And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent His angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.&rdquo;",
+    "puborder": 399,
+    "translations": [
+      {
+        "para_id": "13804.478",
+        "lang": "bg",
+        "refcode": "Дa 56.7"
+      },
+      {
+        "para_id": "11590.612",
+        "lang": "ce",
+        "refcode": "ABA 127.1"
+      },
+      {
+        "para_id": "11247.576",
+        "lang": "cs",
+        "refcode": "PNL 84.5"
+      },
+      {
+        "para_id": "813.631",
+        "lang": "de",
+        "refcode": "WA 147.3"
+      },
+      {
+        "para_id": "198.609",
+        "lang": "es",
+        "refcode": "HAp 119.4"
+      },
+      {
+        "para_id": "158.590",
+        "lang": "fr",
+        "refcode": "CP 130.4"
+      },
+      {
+        "para_id": "11938.553",
+        "lang": "hu",
+        "refcode": "AT 99.1"
+      },
+      {
+        "para_id": "12410.590",
+        "lang": "id",
+        "refcode": "KR 126.2"
+      },
+      {
+        "para_id": "882.553",
+        "lang": "it",
+        "refcode": "UVI 93.1"
+      },
+      {
+        "para_id": "11660.732",
+        "lang": "ja",
+        "refcode": "AAJ 158.3"
+      },
+      {
+        "para_id": "12335.532",
+        "lang": "nb",
+        "refcode": "AV 87.6"
+      },
+      {
+        "para_id": "12008.497",
+        "lang": "pl",
+        "refcode": "DA 82.4"
+      },
+      {
+        "para_id": "1806.534",
+        "lang": "pt",
+        "refcode": "AA 80.7"
+      },
+      {
+        "para_id": "2013.628",
+        "lang": "ro",
+        "refcode": "FA 148.1"
+      },
+      {
+        "para_id": "1785.609",
+        "lang": "ru",
+        "refcode": "ДА 148.1"
+      },
+      {
+        "para_id": "13874.536",
+        "lang": "rw",
+        "refcode": "INI 96.1"
+      },
+      {
+        "para_id": "11182.521",
+        "lang": "sk",
+        "refcode": "SA 92.6"
+      },
+      {
+        "para_id": "11904.583",
+        "lang": "tl",
+        "refcode": "AGA 113.3"
+      },
+      {
+        "para_id": "11875.548",
+        "lang": "uk",
+        "refcode": "ДА 100.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.640",
+    "id_prev": "127.639",
+    "id_next": "127.641",
+    "refcode_1": "AA",
+    "refcode_2": "148",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 148.2",
+    "refcode_long": "The Acts of the Apostles, p. 148.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle made his way at once to the house where his brethren were assembled and where they were at that moment engaged in earnest prayer for him. &ldquo;As Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda. And when she knew Peter&apos;s voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate. And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel.",
+    "puborder": 400,
+    "translations": [
+      {
+        "para_id": "13804.479",
+        "lang": "bg",
+        "refcode": "Дa 56.8"
+      },
+      {
+        "para_id": "11590.613",
+        "lang": "ce",
+        "refcode": "ABA 127.2"
+      },
+      {
+        "para_id": "11247.579",
+        "lang": "cs",
+        "refcode": "PNL 85.1"
+      },
+      {
+        "para_id": "813.634",
+        "lang": "de",
+        "refcode": "WA 148.1"
+      },
+      {
+        "para_id": "198.612",
+        "lang": "es",
+        "refcode": "HAp 120.1"
+      },
+      {
+        "para_id": "158.593",
+        "lang": "fr",
+        "refcode": "CP 131.1"
+      },
+      {
+        "para_id": "11938.554",
+        "lang": "hu",
+        "refcode": "AT 99.2"
+      },
+      {
+        "para_id": "12410.591",
+        "lang": "id",
+        "refcode": "KR 126.3"
+      },
+      {
+        "para_id": "882.554",
+        "lang": "it",
+        "refcode": "UVI 93.2"
+      },
+      {
+        "para_id": "11660.735",
+        "lang": "ja",
+        "refcode": "AAJ 159.1"
+      },
+      {
+        "para_id": "12335.535",
+        "lang": "nb",
+        "refcode": "AV 88.1"
+      },
+      {
+        "para_id": "12008.498",
+        "lang": "pl",
+        "refcode": "DA 82.5"
+      },
+      {
+        "para_id": "1806.537",
+        "lang": "pt",
+        "refcode": "AA 81.1"
+      },
+      {
+        "para_id": "2013.629",
+        "lang": "ro",
+        "refcode": "FA 148.2"
+      },
+      {
+        "para_id": "1785.610",
+        "lang": "ru",
+        "refcode": "ДА 148.2"
+      },
+      {
+        "para_id": "13874.537",
+        "lang": "rw",
+        "refcode": "INI 96.2"
+      },
+      {
+        "para_id": "11182.524",
+        "lang": "sk",
+        "refcode": "SA 93.1"
+      },
+      {
+        "para_id": "11904.585",
+        "lang": "tl",
+        "refcode": "AGA 114.1"
+      },
+      {
+        "para_id": "11875.551",
+        "lang": "uk",
+        "refcode": "ДА 101.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.641",
+    "id_prev": "127.640",
+    "id_next": "127.644",
+    "refcode_1": "AA",
+    "refcode_2": "148",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 148.3",
+    "refcode_long": "The Acts of the Apostles, p. 148.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;But Peter continued knocking: and when they had <span class=\"page-break\" data-page=\"149\"></span> opened the door, and saw him, they were astonished. But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison.&rdquo; And Peter &ldquo;departed, and went into another place.&rdquo; Joy and praise filled the hearts of the believers, because God had heard and answered their prayers and had delivered Peter from the hands of Herod.",
+    "puborder": 401,
+    "translations": [
+      {
+        "para_id": "13804.482",
+        "lang": "bg",
+        "refcode": "Дa 57.1"
+      },
+      {
+        "para_id": "11590.614",
+        "lang": "ce",
+        "refcode": "ABA 127.3"
+      },
+      {
+        "para_id": "11247.580",
+        "lang": "cs",
+        "refcode": "PNL 85.2"
+      },
+      {
+        "para_id": "813.635",
+        "lang": "de",
+        "refcode": "WA 148.2"
+      },
+      {
+        "para_id": "198.613",
+        "lang": "es",
+        "refcode": "HAp 120.2"
+      },
+      {
+        "para_id": "158.593",
+        "lang": "fr",
+        "refcode": "CP 131.1"
+      },
+      {
+        "para_id": "11938.555",
+        "lang": "hu",
+        "refcode": "AT 99.3"
+      },
+      {
+        "para_id": "12410.592",
+        "lang": "id",
+        "refcode": "KR 126.4"
+      },
+      {
+        "para_id": "882.555",
+        "lang": "it",
+        "refcode": "UVI 93.3"
+      },
+      {
+        "para_id": "11660.736",
+        "lang": "ja",
+        "refcode": "AAJ 159.2"
+      },
+      {
+        "para_id": "12335.536",
+        "lang": "nb",
+        "refcode": "AV 88.2"
+      },
+      {
+        "para_id": "12008.498",
+        "lang": "pl",
+        "refcode": "DA 82.5"
+      },
+      {
+        "para_id": "1806.538",
+        "lang": "pt",
+        "refcode": "AA 81.2"
+      },
+      {
+        "para_id": "2013.630",
+        "lang": "ro",
+        "refcode": "FA 148.3"
+      },
+      {
+        "para_id": "1785.612",
+        "lang": "ru",
+        "refcode": "ДА 149.1"
+      },
+      {
+        "para_id": "13874.538",
+        "lang": "rw",
+        "refcode": "INI 96.3"
+      },
+      {
+        "para_id": "11182.525",
+        "lang": "sk",
+        "refcode": "SA 93.2"
+      },
+      {
+        "para_id": "11904.586",
+        "lang": "tl",
+        "refcode": "AGA 114.2"
+      },
+      {
+        "para_id": "11875.552",
+        "lang": "uk",
+        "refcode": "ДА 101.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.644",
+    "id_prev": "127.641",
+    "id_next": "127.645",
+    "refcode_1": "AA",
+    "refcode_2": "149",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 149.1",
+    "refcode_long": "The Acts of the Apostles, p. 149.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the morning a large concourse of people gathered to witness the execution of the apostle. Herod sent officers to the prison for Peter, who was to be brought with a great display of arms and guards in order not only to ensure against his escape, but to intimidate all sympathizers and to show the power of the king.",
+    "puborder": 402,
+    "translations": [
+      {
+        "para_id": "13804.483",
+        "lang": "bg",
+        "refcode": "Дa 57.2"
+      },
+      {
+        "para_id": "11590.616",
+        "lang": "ce",
+        "refcode": "ABA 128.1"
+      },
+      {
+        "para_id": "11247.581",
+        "lang": "cs",
+        "refcode": "PNL 85.3"
+      },
+      {
+        "para_id": "813.636",
+        "lang": "de",
+        "refcode": "WA 148.3"
+      },
+      {
+        "para_id": "198.614",
+        "lang": "es",
+        "refcode": "HAp 120.3"
+      },
+      {
+        "para_id": "158.595",
+        "lang": "fr",
+        "refcode": "CP 131.3"
+      },
+      {
+        "para_id": "11938.556",
+        "lang": "hu",
+        "refcode": "AT 99.4"
+      },
+      {
+        "para_id": "12410.595",
+        "lang": "id",
+        "refcode": "KR 127.1"
+      },
+      {
+        "para_id": "882.556",
+        "lang": "it",
+        "refcode": "UVI 93.4"
+      },
+      {
+        "para_id": "11660.737",
+        "lang": "ja",
+        "refcode": "AAJ 159.3"
+      },
+      {
+        "para_id": "12335.537",
+        "lang": "nb",
+        "refcode": "AV 88.3"
+      },
+      {
+        "para_id": "12008.502",
+        "lang": "pl",
+        "refcode": "DA 83.2"
+      },
+      {
+        "para_id": "1806.539",
+        "lang": "pt",
+        "refcode": "AA 81.3"
+      },
+      {
+        "para_id": "2013.633",
+        "lang": "ro",
+        "refcode": "FA 149.1"
+      },
+      {
+        "para_id": "1785.613",
+        "lang": "ru",
+        "refcode": "ДА 149.2"
+      },
+      {
+        "para_id": "13874.539",
+        "lang": "rw",
+        "refcode": "INI 96.4"
+      },
+      {
+        "para_id": "11182.526",
+        "lang": "sk",
+        "refcode": "SA 93.3"
+      },
+      {
+        "para_id": "11904.587",
+        "lang": "tl",
+        "refcode": "AGA 114.3"
+      },
+      {
+        "para_id": "11875.553",
+        "lang": "uk",
+        "refcode": "ДА 101.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.645",
+    "id_prev": "127.644",
+    "id_next": "127.646",
+    "refcode_1": "AA",
+    "refcode_2": "149",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 149.2",
+    "refcode_long": "The Acts of the Apostles, p. 149.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When the keepers before the door found that Peter had escaped, they were seized with terror. It had been expressly stated that their lives would be required for the life of their charge, and because of this they had been especially vigilant. When the officers came for Peter, the soldiers were still at the door of the prison, the bolts and bars were still fast, the chains were still secured to the wrists of the two soldiers; but the prisoner was gone.",
+    "puborder": 403,
+    "translations": [
+      {
+        "para_id": "13804.484",
+        "lang": "bg",
+        "refcode": "Дa 57.3"
+      },
+      {
+        "para_id": "11590.617",
+        "lang": "ce",
+        "refcode": "ABA 128.2"
+      },
+      {
+        "para_id": "11247.582",
+        "lang": "cs",
+        "refcode": "PNL 85.4"
+      },
+      {
+        "para_id": "813.637",
+        "lang": "de",
+        "refcode": "WA 148.4"
+      },
+      {
+        "para_id": "198.615",
+        "lang": "es",
+        "refcode": "HAp 120.4"
+      },
+      {
+        "para_id": "158.598",
+        "lang": "fr",
+        "refcode": "CP 132.1"
+      },
+      {
+        "para_id": "11938.557",
+        "lang": "hu",
+        "refcode": "AT 99.5"
+      },
+      {
+        "para_id": "12410.596",
+        "lang": "id",
+        "refcode": "KR 127.2"
+      },
+      {
+        "para_id": "882.557",
+        "lang": "it",
+        "refcode": "UVI 93.5"
+      },
+      {
+        "para_id": "11660.740",
+        "lang": "ja",
+        "refcode": "AAJ 160.1"
+      },
+      {
+        "para_id": "12335.538",
+        "lang": "nb",
+        "refcode": "AV 88.4"
+      },
+      {
+        "para_id": "12008.503",
+        "lang": "pl",
+        "refcode": "DA 83.3"
+      },
+      {
+        "para_id": "1806.540",
+        "lang": "pt",
+        "refcode": "AA 81.4"
+      },
+      {
+        "para_id": "2013.634",
+        "lang": "ro",
+        "refcode": "FA 149.2"
+      },
+      {
+        "para_id": "1785.614",
+        "lang": "ru",
+        "refcode": "ДА 149.3"
+      },
+      {
+        "para_id": "13874.540",
+        "lang": "rw",
+        "refcode": "INI 96.5"
+      },
+      {
+        "para_id": "11182.527",
+        "lang": "sk",
+        "refcode": "SA 93.4"
+      },
+      {
+        "para_id": "11904.588",
+        "lang": "tl",
+        "refcode": "AGA 114.4"
+      },
+      {
+        "para_id": "11875.554",
+        "lang": "uk",
+        "refcode": "ДА 101.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.646",
+    "id_prev": "127.645",
+    "id_next": "127.647",
+    "refcode_1": "AA",
+    "refcode_2": "149",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 149.3",
+    "refcode_long": "The Acts of the Apostles, p. 149.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When the report of Peter&apos;s escape was brought to Herod, he was exasperated and enraged. Charging the prison guard with unfaithfulness, he ordered them to be put to death. Herod knew that no human power had rescued Peter, but he was determined not to acknowledge that a divine power had frustrated his design, and he set himself in bold defiance against God.",
+    "puborder": 404,
+    "translations": [
+      {
+        "para_id": "13804.485",
+        "lang": "bg",
+        "refcode": "Дa 57.4"
+      },
+      {
+        "para_id": "11590.618",
+        "lang": "ce",
+        "refcode": "ABA 128.3"
+      },
+      {
+        "para_id": "11247.583",
+        "lang": "cs",
+        "refcode": "PNL 85.5"
+      },
+      {
+        "para_id": "813.640",
+        "lang": "de",
+        "refcode": "WA 149.1"
+      },
+      {
+        "para_id": "198.618",
+        "lang": "es",
+        "refcode": "HAp 121.1"
+      },
+      {
+        "para_id": "158.599",
+        "lang": "fr",
+        "refcode": "CP 132.2"
+      },
+      {
+        "para_id": "11938.560",
+        "lang": "hu",
+        "refcode": "AT 100.1"
+      },
+      {
+        "para_id": "12410.597",
+        "lang": "id",
+        "refcode": "KR 127.3"
+      },
+      {
+        "para_id": "882.558",
+        "lang": "it",
+        "refcode": "UVI 93.6"
+      },
+      {
+        "para_id": "11660.741",
+        "lang": "ja",
+        "refcode": "AAJ 160.2"
+      },
+      {
+        "para_id": "12335.539",
+        "lang": "nb",
+        "refcode": "AV 88.5"
+      },
+      {
+        "para_id": "12008.504",
+        "lang": "pl",
+        "refcode": "DA 83.4"
+      },
+      {
+        "para_id": "1806.541",
+        "lang": "pt",
+        "refcode": "AA 81.5"
+      },
+      {
+        "para_id": "2013.635",
+        "lang": "ro",
+        "refcode": "FA 149.3"
+      },
+      {
+        "para_id": "1785.615",
+        "lang": "ru",
+        "refcode": "ДА 149.4"
+      },
+      {
+        "para_id": "1785.616",
+        "lang": "ru",
+        "refcode": "ДА 149.5"
+      },
+      {
+        "para_id": "13874.541",
+        "lang": "rw",
+        "refcode": "INI 96.6"
+      },
+      {
+        "para_id": "11182.528",
+        "lang": "sk",
+        "refcode": "SA 93.5"
+      },
+      {
+        "para_id": "11904.589",
+        "lang": "tl",
+        "refcode": "AGA 114.5"
+      },
+      {
+        "para_id": "11875.555",
+        "lang": "uk",
+        "refcode": "ДА 101.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.647",
+    "id_prev": "127.646",
+    "id_next": "127.650",
+    "refcode_1": "AA",
+    "refcode_2": "149",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 149.4",
+    "refcode_long": "The Acts of the Apostles, p. 149.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Not long after Peter&apos;s deliverance from prison, Herod <span class=\"page-break\" data-page=\"150\"></span> went to Caesarea. While there he made a great festival designed to excite the admiration and gain the applause of the people. This festival was attended by pleasure lovers from all quarters, and there was much feasting and wine drinking. With great pomp and ceremony Herod appeared before the people and addressed them in an eloquent oration. Clad in a robe sparkling with silver and gold, which caught the rays of the sun in its glittering folds and dazzled the eyes of the beholders, he was a gorgeous figure. The majesty of his appearance and the force of his well-chosen language swayed the assembly with a mighty power. Their senses already perverted by feasting and wine drinking, they were dazzled by Herod&apos;s decorations and charmed by his deportment and oratory; and wild with enthusiasm they showered adulation upon him, declaring that no mortal could present such an appearance or command such startling eloquence. They further declared that while they had ever respected him as a ruler, henceforth they should worship him as a god.",
+    "puborder": 405,
+    "translations": [
+      {
+        "para_id": "13804.486",
+        "lang": "bg",
+        "refcode": "Дa 57.5"
+      },
+      {
+        "para_id": "11590.619",
+        "lang": "ce",
+        "refcode": "ABA 128.4"
+      },
+      {
+        "para_id": "11247.585",
+        "lang": "cs",
+        "refcode": "PNL 85.6"
+      },
+      {
+        "para_id": "813.641",
+        "lang": "de",
+        "refcode": "WA 149.2"
+      },
+      {
+        "para_id": "198.619",
+        "lang": "es",
+        "refcode": "HAp 121.2"
+      },
+      {
+        "para_id": "158.600",
+        "lang": "fr",
+        "refcode": "CP 132.3"
+      },
+      {
+        "para_id": "11938.561",
+        "lang": "hu",
+        "refcode": "AT 100.2"
+      },
+      {
+        "para_id": "12410.598",
+        "lang": "id",
+        "refcode": "KR 127.4"
+      },
+      {
+        "para_id": "882.561",
+        "lang": "it",
+        "refcode": "UVI 94.1"
+      },
+      {
+        "para_id": "11660.742",
+        "lang": "ja",
+        "refcode": "AAJ 160.3"
+      },
+      {
+        "para_id": "12335.541",
+        "lang": "nb",
+        "refcode": "AV 89.1"
+      },
+      {
+        "para_id": "12008.505",
+        "lang": "pl",
+        "refcode": "DA 83.5"
+      },
+      {
+        "para_id": "1806.542",
+        "lang": "pt",
+        "refcode": "AA 81.6"
+      },
+      {
+        "para_id": "2013.636",
+        "lang": "ro",
+        "refcode": "FA 149.4"
+      },
+      {
+        "para_id": "1785.617",
+        "lang": "ru",
+        "refcode": "ДА 149.6"
+      },
+      {
+        "para_id": "13874.543",
+        "lang": "rw",
+        "refcode": "INI 97.1"
+      },
+      {
+        "para_id": "11182.529",
+        "lang": "sk",
+        "refcode": "SA 93.6"
+      },
+      {
+        "para_id": "11904.590",
+        "lang": "tl",
+        "refcode": "AGA 114.6"
+      },
+      {
+        "para_id": "11875.556",
+        "lang": "uk",
+        "refcode": "ДА 101.6"
+      }
+    ]
+  },
+  {
+    "para_id": "127.650",
+    "id_prev": "127.647",
+    "id_next": "127.652",
+    "refcode_1": "AA",
+    "refcode_2": "150",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 150.1",
+    "refcode_long": "The Acts of the Apostles, p. 150.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Some of those whose voices were now heard glorifying a vile sinner had but a few years before raised the frenzied cry, Away with Jesus! Crucify Him, crucify Him! The Jews had refused to receive Christ, whose garments, coarse and often travel-stained, covered a heart of divine love. Their eyes could not discern, under the humble exterior, the Lord of life and glory, even though Christ&apos;s power was revealed before them in works that no mere man could do. But they were ready to worship as a god the haughty king whose splendid garments of silver and gold covered a corrupt, cruel heart.",
+    "puborder": 406,
+    "translations": [
+      {
+        "para_id": "13804.487",
+        "lang": "bg",
+        "refcode": "Дa 57.6"
+      },
+      {
+        "para_id": "11590.622",
+        "lang": "ce",
+        "refcode": "ABA 129.1"
+      },
+      {
+        "para_id": "11247.588",
+        "lang": "cs",
+        "refcode": "PNL 86.1"
+      },
+      {
+        "para_id": "813.642",
+        "lang": "de",
+        "refcode": "WA 149.3"
+      },
+      {
+        "para_id": "198.620",
+        "lang": "es",
+        "refcode": "HAp 121.3"
+      },
+      {
+        "para_id": "158.602",
+        "lang": "fr",
+        "refcode": "CP 133.1"
+      },
+      {
+        "para_id": "11938.562",
+        "lang": "hu",
+        "refcode": "AT 100.3"
+      },
+      {
+        "para_id": "12410.601",
+        "lang": "id",
+        "refcode": "KR 128.1"
+      },
+      {
+        "para_id": "882.562",
+        "lang": "it",
+        "refcode": "UVI 94.2"
+      },
+      {
+        "para_id": "11660.745",
+        "lang": "ja",
+        "refcode": "AAJ 161.1"
+      },
+      {
+        "para_id": "12335.542",
+        "lang": "nb",
+        "refcode": "AV 89.2"
+      },
+      {
+        "para_id": "12008.506",
+        "lang": "pl",
+        "refcode": "DA 83.6"
+      },
+      {
+        "para_id": "1806.545",
+        "lang": "pt",
+        "refcode": "AA 82.1"
+      },
+      {
+        "para_id": "2013.639",
+        "lang": "ro",
+        "refcode": "FA 150.1"
+      },
+      {
+        "para_id": "1785.620",
+        "lang": "ru",
+        "refcode": "ДА 150.1"
+      },
+      {
+        "para_id": "13874.544",
+        "lang": "rw",
+        "refcode": "INI 97.2"
+      },
+      {
+        "para_id": "11182.532",
+        "lang": "sk",
+        "refcode": "SA 94.1"
+      },
+      {
+        "para_id": "11904.593",
+        "lang": "tl",
+        "refcode": "AGA 115.1"
+      },
+      {
+        "para_id": "11875.559",
+        "lang": "uk",
+        "refcode": "ДА 102.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.652",
+    "id_prev": "127.650",
+    "id_next": "127.653",
+    "refcode_1": "AA",
+    "refcode_2": "151",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 151.1",
+    "refcode_long": "The Acts of the Apostles, p. 151.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Herod knew that he deserved none of the praise and homage offered him, yet he accepted the idolatry of the people as his due. His heart bounded with triumph, and a glow of gratified pride overspread his countenance as he heard the shout ascend, &ldquo;It is the voice of a god, and not of a man.&rdquo;",
+    "puborder": 407,
+    "translations": [
+      {
+        "para_id": "13804.488",
+        "lang": "bg",
+        "refcode": "Дa 57.7"
+      },
+      {
+        "para_id": "11590.623",
+        "lang": "ce",
+        "refcode": "ABA 129.2"
+      },
+      {
+        "para_id": "11247.589",
+        "lang": "cs",
+        "refcode": "PNL 86.2"
+      },
+      {
+        "para_id": "813.645",
+        "lang": "de",
+        "refcode": "WA 150.1"
+      },
+      {
+        "para_id": "198.623",
+        "lang": "es",
+        "refcode": "HAp 122.1"
+      },
+      {
+        "para_id": "158.603",
+        "lang": "fr",
+        "refcode": "CP 133.2"
+      },
+      {
+        "para_id": "11938.563",
+        "lang": "hu",
+        "refcode": "AT 100.4"
+      },
+      {
+        "para_id": "12410.602",
+        "lang": "id",
+        "refcode": "KR 128.2"
+      },
+      {
+        "para_id": "882.563",
+        "lang": "it",
+        "refcode": "UVI 94.3"
+      },
+      {
+        "para_id": "11660.746",
+        "lang": "ja",
+        "refcode": "AAJ 161.2"
+      },
+      {
+        "para_id": "12335.543",
+        "lang": "nb",
+        "refcode": "AV 89.3"
+      },
+      {
+        "para_id": "12008.508",
+        "lang": "pl",
+        "refcode": "DA 84.1"
+      },
+      {
+        "para_id": "1806.546",
+        "lang": "pt",
+        "refcode": "AA 82.2"
+      },
+      {
+        "para_id": "2013.641",
+        "lang": "ro",
+        "refcode": "FA 151.1"
+      },
+      {
+        "para_id": "1785.622",
+        "lang": "ru",
+        "refcode": "ДА 151.1"
+      },
+      {
+        "para_id": "13874.545",
+        "lang": "rw",
+        "refcode": "INI 97.3"
+      },
+      {
+        "para_id": "11182.533",
+        "lang": "sk",
+        "refcode": "SA 94.2"
+      },
+      {
+        "para_id": "11904.594",
+        "lang": "tl",
+        "refcode": "AGA 115.2"
+      },
+      {
+        "para_id": "11875.560",
+        "lang": "uk",
+        "refcode": "ДА 102.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.653",
+    "id_prev": "127.652",
+    "id_next": "127.654",
+    "refcode_1": "AA",
+    "refcode_2": "151",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 151.2",
+    "refcode_long": "The Acts of the Apostles, p. 151.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But suddenly a terrible change came over him. His face became pallid as death and distorted with agony. Great drops of sweat started from his pores. He stood for a moment as if transfixed with pain and terror; then turning his blanched and livid face to his horror-stricken friends, he cried in hollow, despairing tones, He whom you have exalted as a god is stricken with death.",
+    "puborder": 408,
+    "translations": [
+      {
+        "para_id": "13804.490",
+        "lang": "bg",
+        "refcode": "Дa 58.1"
+      },
+      {
+        "para_id": "11590.624",
+        "lang": "ce",
+        "refcode": "ABA 129.3"
+      },
+      {
+        "para_id": "11247.590",
+        "lang": "cs",
+        "refcode": "PNL 86.3"
+      },
+      {
+        "para_id": "813.646",
+        "lang": "de",
+        "refcode": "WA 150.2"
+      },
+      {
+        "para_id": "198.624",
+        "lang": "es",
+        "refcode": "HAp 122.2"
+      },
+      {
+        "para_id": "158.604",
+        "lang": "fr",
+        "refcode": "CP 133.3"
+      },
+      {
+        "para_id": "11938.565",
+        "lang": "hu",
+        "refcode": "AT 101.1"
+      },
+      {
+        "para_id": "12410.603",
+        "lang": "id",
+        "refcode": "KR 128.3"
+      },
+      {
+        "para_id": "882.564",
+        "lang": "it",
+        "refcode": "UVI 94.4"
+      },
+      {
+        "para_id": "11660.747",
+        "lang": "ja",
+        "refcode": "AAJ 161.3"
+      },
+      {
+        "para_id": "12335.544",
+        "lang": "nb",
+        "refcode": "AV 89.4"
+      },
+      {
+        "para_id": "12008.509",
+        "lang": "pl",
+        "refcode": "DA 84.2"
+      },
+      {
+        "para_id": "1806.547",
+        "lang": "pt",
+        "refcode": "AA 82.3"
+      },
+      {
+        "para_id": "2013.642",
+        "lang": "ro",
+        "refcode": "FA 151.2"
+      },
+      {
+        "para_id": "1785.623",
+        "lang": "ru",
+        "refcode": "ДА 151.2"
+      },
+      {
+        "para_id": "13874.546",
+        "lang": "rw",
+        "refcode": "INI 97.4"
+      },
+      {
+        "para_id": "11182.534",
+        "lang": "sk",
+        "refcode": "SA 94.3"
+      },
+      {
+        "para_id": "11904.595",
+        "lang": "tl",
+        "refcode": "AGA 115.3"
+      },
+      {
+        "para_id": "11875.561",
+        "lang": "uk",
+        "refcode": "ДА 102.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.654",
+    "id_prev": "127.653",
+    "id_next": "127.655",
+    "refcode_1": "AA",
+    "refcode_2": "151",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 151.3",
+    "refcode_long": "The Acts of the Apostles, p. 151.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Suffering the most excruciating anguish, he was borne from the scene of revelry and display. A moment before he had been the proud recipient of the praise and worship of that vast throng; now he realized that he was in the hands of a Ruler mightier than himself. Remorse seized him; he remembered his relentless persecution of the followers of Christ; he remembered his cruel command to slay the innocent James, and his design to put to death the apostle Peter; he remembered how in his mortification and disappointed rage he had wreaked an unreasoning vengeance upon the prison guards. He felt that God was now dealing with him, the relentless persecutor. He found no relief from pain of body or anguish of mind, and he expected none.",
+    "puborder": 409,
+    "translations": [
+      {
+        "para_id": "13804.491",
+        "lang": "bg",
+        "refcode": "Дa 58.2"
+      },
+      {
+        "para_id": "11590.626",
+        "lang": "ce",
+        "refcode": "ABA 130.1"
+      },
+      {
+        "para_id": "11247.591",
+        "lang": "cs",
+        "refcode": "PNL 86.4"
+      },
+      {
+        "para_id": "813.647",
+        "lang": "de",
+        "refcode": "WA 150.3"
+      },
+      {
+        "para_id": "198.625",
+        "lang": "es",
+        "refcode": "HAp 122.3"
+      },
+      {
+        "para_id": "158.605",
+        "lang": "fr",
+        "refcode": "CP 133.4"
+      },
+      {
+        "para_id": "11938.566",
+        "lang": "hu",
+        "refcode": "AT 101.2"
+      },
+      {
+        "para_id": "12410.604",
+        "lang": "id",
+        "refcode": "KR 128.4"
+      },
+      {
+        "para_id": "882.567",
+        "lang": "it",
+        "refcode": "UVI 95.1"
+      },
+      {
+        "para_id": "11660.748",
+        "lang": "ja",
+        "refcode": "AAJ 161.4"
+      },
+      {
+        "para_id": "12335.545",
+        "lang": "nb",
+        "refcode": "AV 89.5"
+      },
+      {
+        "para_id": "12008.510",
+        "lang": "pl",
+        "refcode": "DA 84.3"
+      },
+      {
+        "para_id": "1806.548",
+        "lang": "pt",
+        "refcode": "AA 82.4"
+      },
+      {
+        "para_id": "2013.643",
+        "lang": "ro",
+        "refcode": "FA 151.3"
+      },
+      {
+        "para_id": "1785.624",
+        "lang": "ru",
+        "refcode": "ДА 151.3"
+      },
+      {
+        "para_id": "13874.548",
+        "lang": "rw",
+        "refcode": "INI 98.1"
+      },
+      {
+        "para_id": "11182.535",
+        "lang": "sk",
+        "refcode": "SA 94.4"
+      },
+      {
+        "para_id": "11904.598",
+        "lang": "tl",
+        "refcode": "AGA 116.1"
+      },
+      {
+        "para_id": "11875.562",
+        "lang": "uk",
+        "refcode": "ДА 102.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.655",
+    "id_prev": "127.654",
+    "id_next": "127.658",
+    "refcode_1": "AA",
+    "refcode_2": "151",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 151.4",
+    "refcode_long": "The Acts of the Apostles, p. 151.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Herod was acquainted with the law of God, which says, &ldquo;Thou shalt have no other gods before Me&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"Exodus 20:3\" data-link=\"1965.4183\">Exodus 20:3</span>); and he knew that in accepting the worship of the people <span class=\"page-break\" data-page=\"152\"></span> he had filled up the measure of his iniquity and brought upon himself the just wrath of Jehovah.",
+    "puborder": 410,
+    "translations": [
+      {
+        "para_id": "13804.492",
+        "lang": "bg",
+        "refcode": "Дa 58.3"
+      },
+      {
+        "para_id": "11590.627",
+        "lang": "ce",
+        "refcode": "ABA 130.2"
+      },
+      {
+        "para_id": "11247.592",
+        "lang": "cs",
+        "refcode": "PNL 86.5"
+      },
+      {
+        "para_id": "813.650",
+        "lang": "de",
+        "refcode": "WA 151.1"
+      },
+      {
+        "para_id": "198.626",
+        "lang": "es",
+        "refcode": "HAp 122.4"
+      },
+      {
+        "para_id": "158.608",
+        "lang": "fr",
+        "refcode": "CP 134.1"
+      },
+      {
+        "para_id": "11938.567",
+        "lang": "hu",
+        "refcode": "AT 101.3"
+      },
+      {
+        "para_id": "12410.607",
+        "lang": "id",
+        "refcode": "KR 129.1"
+      },
+      {
+        "para_id": "882.568",
+        "lang": "it",
+        "refcode": "UVI 95.2"
+      },
+      {
+        "para_id": "11660.751",
+        "lang": "ja",
+        "refcode": "AAJ 162.1"
+      },
+      {
+        "para_id": "12335.548",
+        "lang": "nb",
+        "refcode": "AV 90.1"
+      },
+      {
+        "para_id": "12008.511",
+        "lang": "pl",
+        "refcode": "DA 84.4"
+      },
+      {
+        "para_id": "1806.549",
+        "lang": "pt",
+        "refcode": "AA 82.5"
+      },
+      {
+        "para_id": "2013.644",
+        "lang": "ro",
+        "refcode": "FA 151.4"
+      },
+      {
+        "para_id": "1785.625",
+        "lang": "ru",
+        "refcode": "ДА 151.4"
+      },
+      {
+        "para_id": "13874.549",
+        "lang": "rw",
+        "refcode": "INI 98.2"
+      },
+      {
+        "para_id": "11182.537",
+        "lang": "sk",
+        "refcode": "SA 95.1"
+      },
+      {
+        "para_id": "11904.599",
+        "lang": "tl",
+        "refcode": "AGA 116.2"
+      },
+      {
+        "para_id": "11875.565",
+        "lang": "uk",
+        "refcode": "ДА 103.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.658",
+    "id_prev": "127.655",
+    "id_next": "127.659",
+    "refcode_1": "AA",
+    "refcode_2": "152",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 152.1",
+    "refcode_long": "The Acts of the Apostles, p. 152.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The same angel who had come from the royal courts to rescue Peter, had been the messenger of wrath and judgment to Herod. The angel smote Peter to arouse him from slumber; it was with a different stroke that he smote the wicked king, laying low his pride and bringing upon him the punishment of the Almighty. Herod died in great agony of mind and body, under the retributive judgment of God.",
+    "puborder": 411,
+    "translations": [
+      {
+        "para_id": "13804.493",
+        "lang": "bg",
+        "refcode": "Дa 58.4"
+      },
+      {
+        "para_id": "11590.628",
+        "lang": "ce",
+        "refcode": "ABA 130.3"
+      },
+      {
+        "para_id": "11247.593",
+        "lang": "cs",
+        "refcode": "PNL 86.6"
+      },
+      {
+        "para_id": "813.651",
+        "lang": "de",
+        "refcode": "WA 151.2"
+      },
+      {
+        "para_id": "198.629",
+        "lang": "es",
+        "refcode": "HAp 123.1"
+      },
+      {
+        "para_id": "158.609",
+        "lang": "fr",
+        "refcode": "CP 134.2"
+      },
+      {
+        "para_id": "11938.568",
+        "lang": "hu",
+        "refcode": "AT 101.4"
+      },
+      {
+        "para_id": "12410.608",
+        "lang": "id",
+        "refcode": "KR 129.2"
+      },
+      {
+        "para_id": "882.569",
+        "lang": "it",
+        "refcode": "UVI 95.3"
+      },
+      {
+        "para_id": "11660.752",
+        "lang": "ja",
+        "refcode": "AAJ 162.2"
+      },
+      {
+        "para_id": "12335.549",
+        "lang": "nb",
+        "refcode": "AV 90.2"
+      },
+      {
+        "para_id": "12008.512",
+        "lang": "pl",
+        "refcode": "DA 84.5"
+      },
+      {
+        "para_id": "1806.550",
+        "lang": "pt",
+        "refcode": "AA 82.6"
+      },
+      {
+        "para_id": "2013.647",
+        "lang": "ro",
+        "refcode": "FA 152.1"
+      },
+      {
+        "para_id": "1785.628",
+        "lang": "ru",
+        "refcode": "ДА 152.1"
+      },
+      {
+        "para_id": "13874.550",
+        "lang": "rw",
+        "refcode": "INI 98.3"
+      },
+      {
+        "para_id": "11182.538",
+        "lang": "sk",
+        "refcode": "SA 95.2"
+      },
+      {
+        "para_id": "11904.600",
+        "lang": "tl",
+        "refcode": "AGA 116.3"
+      },
+      {
+        "para_id": "11875.565",
+        "lang": "uk",
+        "refcode": "ДА 103.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.659",
+    "id_prev": "127.658",
+    "id_next": "127.660",
+    "refcode_1": "AA",
+    "refcode_2": "152",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 152.2",
+    "refcode_long": "The Acts of the Apostles, p. 152.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "This demonstration of divine justice had a powerful influence upon the people. The tidings that the apostle of Christ had been miraculously delivered from prison and death, while his persecutor had been stricken down by the curse of God, were borne to all lands and became the means of leading many to a belief in Christ.",
+    "puborder": 412,
+    "translations": [
+      {
+        "para_id": "13804.494",
+        "lang": "bg",
+        "refcode": "Дa 58.5"
+      },
+      {
+        "para_id": "11590.629",
+        "lang": "ce",
+        "refcode": "ABA 130.4"
+      },
+      {
+        "para_id": "11247.595",
+        "lang": "cs",
+        "refcode": "PNL 87.1"
+      },
+      {
+        "para_id": "813.652",
+        "lang": "de",
+        "refcode": "WA 151.3"
+      },
+      {
+        "para_id": "198.630",
+        "lang": "es",
+        "refcode": "HAp 123.2"
+      },
+      {
+        "para_id": "158.610",
+        "lang": "fr",
+        "refcode": "CP 134.3"
+      },
+      {
+        "para_id": "11938.569",
+        "lang": "hu",
+        "refcode": "AT 101.5"
+      },
+      {
+        "para_id": "12410.609",
+        "lang": "id",
+        "refcode": "KR 129.3"
+      },
+      {
+        "para_id": "882.570",
+        "lang": "it",
+        "refcode": "UVI 95.4"
+      },
+      {
+        "para_id": "11660.753",
+        "lang": "ja",
+        "refcode": "AAJ 162.3"
+      },
+      {
+        "para_id": "12335.550",
+        "lang": "nb",
+        "refcode": "AV 90.3"
+      },
+      {
+        "para_id": "12008.513",
+        "lang": "pl",
+        "refcode": "DA 84.6"
+      },
+      {
+        "para_id": "1806.551",
+        "lang": "pt",
+        "refcode": "AA 82.7"
+      },
+      {
+        "para_id": "2013.648",
+        "lang": "ro",
+        "refcode": "FA 152.2"
+      },
+      {
+        "para_id": "1785.629",
+        "lang": "ru",
+        "refcode": "ДА 152.2"
+      },
+      {
+        "para_id": "13874.551",
+        "lang": "rw",
+        "refcode": "INI 98.4"
+      },
+      {
+        "para_id": "11182.539",
+        "lang": "sk",
+        "refcode": "SA 95.3"
+      },
+      {
+        "para_id": "11904.601",
+        "lang": "tl",
+        "refcode": "AGA 116.4"
+      },
+      {
+        "para_id": "11875.566",
+        "lang": "uk",
+        "refcode": "ДА 103.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.660",
+    "id_prev": "127.659",
+    "id_next": "127.661",
+    "refcode_1": "AA",
+    "refcode_2": "152",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 152.3",
+    "refcode_long": "The Acts of the Apostles, p. 152.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The experience of Philip, directed by an angel from heaven to go to the place where he met one seeking for truth; of Cornelius, visited by an angel with a message from God; of Peter, in prison and condemned to death, led by an angel forth to safety&mdash;all show the closeness of the connection between heaven and earth.",
+    "puborder": 413,
+    "translations": [
+      {
+        "para_id": "13804.495",
+        "lang": "bg",
+        "refcode": "Дa 58.6"
+      },
+      {
+        "para_id": "11590.630",
+        "lang": "ce",
+        "refcode": "ABA 130.5"
+      },
+      {
+        "para_id": "11247.597",
+        "lang": "cs",
+        "refcode": "PNL 87.2"
+      },
+      {
+        "para_id": "813.653",
+        "lang": "de",
+        "refcode": "WA 151.4"
+      },
+      {
+        "para_id": "198.631",
+        "lang": "es",
+        "refcode": "HAp 123.3"
+      },
+      {
+        "para_id": "158.611",
+        "lang": "fr",
+        "refcode": "CP 134.4"
+      },
+      {
+        "para_id": "11938.570",
+        "lang": "hu",
+        "refcode": "AT 101.6"
+      },
+      {
+        "para_id": "12410.610",
+        "lang": "id",
+        "refcode": "KR 129.4"
+      },
+      {
+        "para_id": "882.571",
+        "lang": "it",
+        "refcode": "UVI 95.5"
+      },
+      {
+        "para_id": "11660.755",
+        "lang": "ja",
+        "refcode": "AAJ 163.1"
+      },
+      {
+        "para_id": "12335.551",
+        "lang": "nb",
+        "refcode": "AV 90.4"
+      },
+      {
+        "para_id": "12008.514",
+        "lang": "pl",
+        "refcode": "DA 84.7"
+      },
+      {
+        "para_id": "1806.554",
+        "lang": "pt",
+        "refcode": "AA 83.1"
+      },
+      {
+        "para_id": "2013.649",
+        "lang": "ro",
+        "refcode": "FA 152.3"
+      },
+      {
+        "para_id": "1785.630",
+        "lang": "ru",
+        "refcode": "ДА 152.3"
+      },
+      {
+        "para_id": "13874.552",
+        "lang": "rw",
+        "refcode": "INI 98.5"
+      },
+      {
+        "para_id": "11904.602",
+        "lang": "tl",
+        "refcode": "AGA 116.5"
+      },
+      {
+        "para_id": "11875.567",
+        "lang": "uk",
+        "refcode": "ДА 103.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.661",
+    "id_prev": "127.660",
+    "id_next": "127.664",
+    "refcode_1": "AA",
+    "refcode_2": "152",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 152.4",
+    "refcode_long": "The Acts of the Apostles, p. 152.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To the worker for God the record of these angel visits should bring strength and courage. Today, as verily as in the days of the apostles, heavenly messengers are passing through the length and breadth of the land, seeking to comfort the sorrowing, to protect the impenitent, to win the hearts of men to Christ. We cannot see them personally; <span class=\"page-break\" data-page=\"153\"></span> nevertheless they are with us, guiding, directing, protecting.",
+    "puborder": 414,
+    "translations": [
+      {
+        "para_id": "13804.496",
+        "lang": "bg",
+        "refcode": "Дa 58.7"
+      },
+      {
+        "para_id": "11590.633",
+        "lang": "ce",
+        "refcode": "ABA 131.1"
+      },
+      {
+        "para_id": "11247.598",
+        "lang": "cs",
+        "refcode": "PNL 87.3"
+      },
+      {
+        "para_id": "813.654",
+        "lang": "de",
+        "refcode": "WA 151.5"
+      },
+      {
+        "para_id": "198.632",
+        "lang": "es",
+        "refcode": "HAp 123.4"
+      },
+      {
+        "para_id": "158.612",
+        "lang": "fr",
+        "refcode": "CP 134.5"
+      },
+      {
+        "para_id": "11938.571",
+        "lang": "hu",
+        "refcode": "AT 101.7"
+      },
+      {
+        "para_id": "12410.611",
+        "lang": "id",
+        "refcode": "KR 129.5"
+      },
+      {
+        "para_id": "882.572",
+        "lang": "it",
+        "refcode": "UVI 95.6"
+      },
+      {
+        "para_id": "11660.756",
+        "lang": "ja",
+        "refcode": "AAJ 163.2"
+      },
+      {
+        "para_id": "12335.552",
+        "lang": "nb",
+        "refcode": "AV 90.5"
+      },
+      {
+        "para_id": "12008.515",
+        "lang": "pl",
+        "refcode": "DA 84.8"
+      },
+      {
+        "para_id": "1806.555",
+        "lang": "pt",
+        "refcode": "AA 83.2"
+      },
+      {
+        "para_id": "2013.650",
+        "lang": "ro",
+        "refcode": "FA 152.4"
+      },
+      {
+        "para_id": "1785.631",
+        "lang": "ru",
+        "refcode": "ДА 152.4"
+      },
+      {
+        "para_id": "13874.553",
+        "lang": "rw",
+        "refcode": "INI 98.6"
+      },
+      {
+        "para_id": "11182.541",
+        "lang": "sk",
+        "refcode": "SA 95.5"
+      },
+      {
+        "para_id": "11904.605",
+        "lang": "tl",
+        "refcode": "AGA 117.1"
+      },
+      {
+        "para_id": "11875.568",
+        "lang": "uk",
+        "refcode": "ДА 103.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.664",
+    "id_prev": "127.661",
+    "id_next": "127.665",
+    "refcode_1": "AA",
+    "refcode_2": "153",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 153.1",
+    "refcode_long": "The Acts of the Apostles, p. 153.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Heaven is brought near to earth by that mystic ladder, the base of which is firmly planted on the earth, while the topmost round reaches the throne of the Infinite. Angels are constantly ascending and descending this ladder of shining brightness, bearing the prayers of the needy and distressed to the Father above, and bringing blessing and hope, courage and help, to the children of men. These angels of light create a heavenly atmosphere about the soul, lifting us toward the unseen and the eternal. We cannot behold their forms with our natural sight; only by spiritual vision can we discern heavenly things. The spiritual ear alone can hear the harmony of heavenly voices.",
+    "puborder": 415,
+    "translations": [
+      {
+        "para_id": "13804.497",
+        "lang": "bg",
+        "refcode": "Дa 58.8"
+      },
+      {
+        "para_id": "11590.634",
+        "lang": "ce",
+        "refcode": "ABA 131.2"
+      },
+      {
+        "para_id": "11247.599",
+        "lang": "cs",
+        "refcode": "PNL 87.4"
+      },
+      {
+        "para_id": "813.657",
+        "lang": "de",
+        "refcode": "WA 152.1"
+      },
+      {
+        "para_id": "198.633",
+        "lang": "es",
+        "refcode": "HAp 123.5"
+      },
+      {
+        "para_id": "158.614",
+        "lang": "fr",
+        "refcode": "CP 135.1"
+      },
+      {
+        "para_id": "11938.574",
+        "lang": "hu",
+        "refcode": "AT 102.1"
+      },
+      {
+        "para_id": "12410.614",
+        "lang": "id",
+        "refcode": "KR 130.1"
+      },
+      {
+        "para_id": "882.573",
+        "lang": "it",
+        "refcode": "UVI 95.7"
+      },
+      {
+        "para_id": "11660.757",
+        "lang": "ja",
+        "refcode": "AAJ 163.3"
+      },
+      {
+        "para_id": "12335.553",
+        "lang": "nb",
+        "refcode": "AV 90.6"
+      },
+      {
+        "para_id": "12008.517",
+        "lang": "pl",
+        "refcode": "DA 85.1"
+      },
+      {
+        "para_id": "1806.556",
+        "lang": "pt",
+        "refcode": "AA 83.3"
+      },
+      {
+        "para_id": "2013.653",
+        "lang": "ro",
+        "refcode": "FA 153.1"
+      },
+      {
+        "para_id": "1785.633",
+        "lang": "ru",
+        "refcode": "ДА 153.1"
+      },
+      {
+        "para_id": "13874.554",
+        "lang": "rw",
+        "refcode": "INI 98.7"
+      },
+      {
+        "para_id": "11182.542",
+        "lang": "sk",
+        "refcode": "SA 95.6"
+      },
+      {
+        "para_id": "11904.606",
+        "lang": "tl",
+        "refcode": "AGA 117.2"
+      },
+      {
+        "para_id": "11875.570",
+        "lang": "uk",
+        "refcode": "ДА 104.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.665",
+    "id_prev": "127.664",
+    "id_next": "127.666",
+    "refcode_1": "AA",
+    "refcode_2": "153",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 153.2",
+    "refcode_long": "The Acts of the Apostles, p. 153.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;The angel of the Lord encampeth round about them that fear Him, and delivereth them.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Psalm 34:7\" data-link=\"1965.29324\">Psalm 34:7</span>. God commissions His angels to save His chosen ones from calamity, to guard them from &ldquo;the pestilence that walketh in darkness&rdquo; and &ldquo;the destruction that wasteth at noonday.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Psalm 91:6\" data-link=\"1965.31393\">Psalm 91:6</span>. Again and again have angels talked with men as a man speaketh with a friend, and led them to places of security. Again and again have the encouraging words of angels renewed the drooping spirits of the faithful and, carrying their minds above the things of earth, caused them to behold by faith the white robes, the crowns, the palm branches of victory, which overcomers will receive when they surround the great white throne.",
+    "puborder": 416,
+    "translations": [
+      {
+        "para_id": "13804.498",
+        "lang": "bg",
+        "refcode": "Дa 58.9"
+      },
+      {
+        "para_id": "11590.635",
+        "lang": "ce",
+        "refcode": "ABA 131.3"
+      },
+      {
+        "para_id": "11247.600",
+        "lang": "cs",
+        "refcode": "PNL 87.5"
+      },
+      {
+        "para_id": "813.658",
+        "lang": "de",
+        "refcode": "WA 152.2"
+      },
+      {
+        "para_id": "198.636",
+        "lang": "es",
+        "refcode": "HAp 124.1"
+      },
+      {
+        "para_id": "158.615",
+        "lang": "fr",
+        "refcode": "CP 135.2"
+      },
+      {
+        "para_id": "11938.575",
+        "lang": "hu",
+        "refcode": "AT 102.2"
+      },
+      {
+        "para_id": "12410.615",
+        "lang": "id",
+        "refcode": "KR 130.2"
+      },
+      {
+        "para_id": "882.576",
+        "lang": "it",
+        "refcode": "UVI 96.1"
+      },
+      {
+        "para_id": "11660.758",
+        "lang": "ja",
+        "refcode": "AAJ 163.4"
+      },
+      {
+        "para_id": "12335.556",
+        "lang": "nb",
+        "refcode": "AV 91.1"
+      },
+      {
+        "para_id": "12008.518",
+        "lang": "pl",
+        "refcode": "DA 85.2"
+      },
+      {
+        "para_id": "1806.558",
+        "lang": "pt",
+        "refcode": "AA 84"
+      },
+      {
+        "para_id": "2013.654",
+        "lang": "ro",
+        "refcode": "FA 153.2"
+      },
+      {
+        "para_id": "1785.634",
+        "lang": "ru",
+        "refcode": "ДА 153.2"
+      },
+      {
+        "para_id": "13874.557",
+        "lang": "rw",
+        "refcode": "INI 99.1"
+      },
+      {
+        "para_id": "11182.543",
+        "lang": "sk",
+        "refcode": "SA 95.7"
+      },
+      {
+        "para_id": "11904.607",
+        "lang": "tl",
+        "refcode": "AGA 117.3"
+      },
+      {
+        "para_id": "11875.571",
+        "lang": "uk",
+        "refcode": "ДА 104.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.666",
+    "id_prev": "127.665",
+    "id_next": "127.669",
+    "refcode_1": "AA",
+    "refcode_2": "153",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 153.3",
+    "refcode_long": "The Acts of the Apostles, p. 153.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is the work of the angels to come close to the tried, the suffering, the tempted. They labor untiringly in behalf <span class=\"page-break\" data-page=\"154\"></span> of those for whom Christ died. When sinners are led to give themselves to the Saviour, angels bear the tidings heavenward, and there is great rejoicing among the heavenly host. &ldquo;Joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Luke 15:7\" data-link=\"1965.52223\">Luke 15:7</span>. A report is borne to heaven of every successful effort on our part to dispel the darkness and to spread abroad the knowledge of Christ. As the deed is recounted before the Father, joy thrills through all the heavenly host.",
+    "puborder": 417,
+    "translations": [
+      {
+        "para_id": "13804.501",
+        "lang": "bg",
+        "refcode": "Дa 59.1"
+      },
+      {
+        "para_id": "11590.638",
+        "lang": "ce",
+        "refcode": "ABA 132.1"
+      },
+      {
+        "para_id": "11247.601",
+        "lang": "cs",
+        "refcode": "PNL 87.6"
+      },
+      {
+        "para_id": "813.659",
+        "lang": "de",
+        "refcode": "WA 152.3"
+      },
+      {
+        "para_id": "198.637",
+        "lang": "es",
+        "refcode": "HAp 124.2"
+      },
+      {
+        "para_id": "158.616",
+        "lang": "fr",
+        "refcode": "CP 135.3"
+      },
+      {
+        "para_id": "11938.576",
+        "lang": "hu",
+        "refcode": "AT 102.3"
+      },
+      {
+        "para_id": "12410.616",
+        "lang": "id",
+        "refcode": "KR 130.3"
+      },
+      {
+        "para_id": "882.577",
+        "lang": "it",
+        "refcode": "UVI 96.2"
+      },
+      {
+        "para_id": "11660.761",
+        "lang": "ja",
+        "refcode": "AAJ 164.1"
+      },
+      {
+        "para_id": "12335.557",
+        "lang": "nb",
+        "refcode": "AV 91.2"
+      },
+      {
+        "para_id": "12008.519",
+        "lang": "pl",
+        "refcode": "DA 85.3"
+      },
+      {
+        "para_id": "1806.558",
+        "lang": "pt",
+        "refcode": "AA 84"
+      },
+      {
+        "para_id": "2013.655",
+        "lang": "ro",
+        "refcode": "FA 153.3"
+      },
+      {
+        "para_id": "1785.636",
+        "lang": "ru",
+        "refcode": "ДА 154.1"
+      },
+      {
+        "para_id": "13874.558",
+        "lang": "rw",
+        "refcode": "INI 99.2"
+      },
+      {
+        "para_id": "11182.546",
+        "lang": "sk",
+        "refcode": "SA 96.1"
+      },
+      {
+        "para_id": "11904.608",
+        "lang": "tl",
+        "refcode": "AGA 117.4"
+      },
+      {
+        "para_id": "11875.572",
+        "lang": "uk",
+        "refcode": "ДА 104.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.669",
+    "id_prev": "127.666",
+    "id_next": "127.670",
+    "refcode_1": "AA",
+    "refcode_2": "154",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 154.1",
+    "refcode_long": "The Acts of the Apostles, p. 154.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The principalities and powers of heaven are watching the warfare which, under apparently discouraging circumstances, God&apos;s servants are carrying on. New conquests are being achieved, new honors won, as the Christians, rallying round the banner of their Redeemer, go forth to fight the good fight of faith. All the heavenly angels are at the service of the humble, believing people of God; and as the Lord&apos;s army of workers here below sing their songs of praise, the choir above join with them in ascribing praise to God and to His Son.",
+    "puborder": 418,
+    "translations": [
+      {
+        "para_id": "13804.502",
+        "lang": "bg",
+        "refcode": "Дa 59.2"
+      },
+      {
+        "para_id": "11590.639",
+        "lang": "ce",
+        "refcode": "ABA 132.2"
+      },
+      {
+        "para_id": "11247.603",
+        "lang": "cs",
+        "refcode": "PNL 88.1"
+      },
+      {
+        "para_id": "813.662",
+        "lang": "de",
+        "refcode": "WA 153.1"
+      },
+      {
+        "para_id": "198.638",
+        "lang": "es",
+        "refcode": "HAp 124.3"
+      },
+      {
+        "para_id": "158.619",
+        "lang": "fr",
+        "refcode": "CP 136.1"
+      },
+      {
+        "para_id": "11938.578",
+        "lang": "hu",
+        "refcode": "AT 103.1"
+      },
+      {
+        "para_id": "12410.619",
+        "lang": "id",
+        "refcode": "KR 131.1"
+      },
+      {
+        "para_id": "882.578",
+        "lang": "it",
+        "refcode": "UVI 96.3"
+      },
+      {
+        "para_id": "11660.762",
+        "lang": "ja",
+        "refcode": "AAJ 164.2"
+      },
+      {
+        "para_id": "12335.558",
+        "lang": "nb",
+        "refcode": "AV 91.3"
+      },
+      {
+        "para_id": "12008.520",
+        "lang": "pl",
+        "refcode": "DA 85.4"
+      },
+      {
+        "para_id": "1806.561",
+        "lang": "pt",
+        "refcode": "AA 85.1"
+      },
+      {
+        "para_id": "2013.658",
+        "lang": "ro",
+        "refcode": "FA 154.1"
+      },
+      {
+        "para_id": "1785.637",
+        "lang": "ru",
+        "refcode": "ДА 154.2"
+      },
+      {
+        "para_id": "13874.559",
+        "lang": "rw",
+        "refcode": "INI 99.3"
+      },
+      {
+        "para_id": "11182.547",
+        "lang": "sk",
+        "refcode": "SA 96.2"
+      },
+      {
+        "para_id": "11904.611",
+        "lang": "tl",
+        "refcode": "AGA 118.1"
+      },
+      {
+        "para_id": "11875.573",
+        "lang": "uk",
+        "refcode": "ДА 104.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.670",
+    "id_prev": "127.669",
+    "id_next": "127.672",
+    "refcode_1": "AA",
+    "refcode_2": "154",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 154.2",
+    "refcode_long": "The Acts of the Apostles, p. 154.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "We need to understand better than we do the mission of the angels. It would be well to remember that every true child of God has the co-operation of heavenly beings. Invisible armies of light and power attend the meek and lowly ones who believe and claim the promises of God. Cherubim and seraphim, and angels that excel in strength, stand at God&apos;s right hand, &ldquo;all ministering spirits, sent forth to minister for them who shall be heirs of salvation.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Hebrews 1:14\" data-link=\"1965.61149\">Hebrews 1:14</span>.",
+    "puborder": 419,
+    "translations": [
+      {
+        "para_id": "13804.503",
+        "lang": "bg",
+        "refcode": "Дa 59.3"
+      },
+      {
+        "para_id": "11590.640",
+        "lang": "ce",
+        "refcode": "ABA 132.3"
+      },
+      {
+        "para_id": "11247.604",
+        "lang": "cs",
+        "refcode": "PNL 88.2"
+      },
+      {
+        "para_id": "813.663",
+        "lang": "de",
+        "refcode": "WA 153.2"
+      },
+      {
+        "para_id": "198.641",
+        "lang": "es",
+        "refcode": "HAp 125.1"
+      },
+      {
+        "para_id": "158.620",
+        "lang": "fr",
+        "refcode": "CP 136.2"
+      },
+      {
+        "para_id": "11938.579",
+        "lang": "hu",
+        "refcode": "AT 103.2"
+      },
+      {
+        "para_id": "12410.620",
+        "lang": "id",
+        "refcode": "KR 131.2"
+      },
+      {
+        "para_id": "882.579",
+        "lang": "it",
+        "refcode": "UVI 96.4"
+      },
+      {
+        "para_id": "11660.763",
+        "lang": "ja",
+        "refcode": "AAJ 164.3"
+      },
+      {
+        "para_id": "12335.559",
+        "lang": "nb",
+        "refcode": "AV 91.4"
+      },
+      {
+        "para_id": "12008.521",
+        "lang": "pl",
+        "refcode": "DA 85.5"
+      },
+      {
+        "para_id": "1806.562",
+        "lang": "pt",
+        "refcode": "AA 85.2"
+      },
+      {
+        "para_id": "2013.659",
+        "lang": "ro",
+        "refcode": "FA 154.2"
+      },
+      {
+        "para_id": "1785.638",
+        "lang": "ru",
+        "refcode": "ДА 154.3"
+      },
+      {
+        "para_id": "13874.560",
+        "lang": "rw",
+        "refcode": "INI 99.4"
+      },
+      {
+        "para_id": "11182.548",
+        "lang": "sk",
+        "refcode": "SA 96.3"
+      },
+      {
+        "para_id": "11904.612",
+        "lang": "tl",
+        "refcode": "AGA 118.2"
+      },
+      {
+        "para_id": "11875.576",
+        "lang": "uk",
+        "refcode": "ДА 105.1"
+      }
+    ]
+  }
+]

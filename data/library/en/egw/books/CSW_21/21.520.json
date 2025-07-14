@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.520",
+    "id_prev": "21.519",
+    "id_next": "21.521",
+    "refcode_1": "CSW",
+    "refcode_2": "113",
+    "refcode_3": "",
+    "refcode_4": "74",
+    "refcode_short": "CSW 113",
+    "refcode_long": "Counsels on Sabbath School Work, p. 113 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Making the Lessons Practical",
+    "puborder": 326,
+    "translations": [
+      {
+        "para_id": "11629.494",
+        "lang": "da",
+        "refcode": "RSSA 113"
+      },
+      {
+        "para_id": "799.498",
+        "lang": "de",
+        "refcode": "RSs 95"
+      },
+      {
+        "para_id": "1711.559",
+        "lang": "es",
+        "refcode": "COES 126"
+      },
+      {
+        "para_id": "1917.610",
+        "lang": "pt",
+        "refcode": "CES38 58"
+      },
+      {
+        "para_id": "1724.555",
+        "lang": "pt",
+        "refcode": "CES 113"
+      },
+      {
+        "para_id": "2719.535",
+        "lang": "ro",
+        "refcode": "SSS 113"
+      },
+      {
+        "para_id": "1873.515",
+        "lang": "ru",
+        "refcode": "ССШ 113"
+      }
+    ]
+  },
+  {
+    "para_id": "21.521",
+    "id_prev": "21.520",
+    "id_next": "21.524",
+    "refcode_1": "CSW",
+    "refcode_2": "113",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 113.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 113.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Let the teachers enter, heart and soul, into the subject matter of the lesson. Let them lay plans to make <span class=\"page-break\" data-page=\"114\"></span> a practical application of the lesson, and awaken an interest in the minds and hearts of the children under their charge. Let the activities of the scholars find scope in solving the problems of Bible truth. The teachers may give character to the work, so that the exercises will not be dry and uninteresting.",
+    "puborder": 327,
+    "translations": [
+      {
+        "para_id": "11629.495",
+        "lang": "da",
+        "refcode": "RSSA 113.2"
+      },
+      {
+        "para_id": "799.499",
+        "lang": "de",
+        "refcode": "RSs 95.1"
+      },
+      {
+        "para_id": "1711.560",
+        "lang": "es",
+        "refcode": "COES 126.2"
+      },
+      {
+        "para_id": "1917.611",
+        "lang": "pt",
+        "refcode": "CES38 58.6"
+      },
+      {
+        "para_id": "1724.556",
+        "lang": "pt",
+        "refcode": "CES 113.2"
+      },
+      {
+        "para_id": "2719.536",
+        "lang": "ro",
+        "refcode": "SSS 113.2"
+      },
+      {
+        "para_id": "1873.516",
+        "lang": "ru",
+        "refcode": "ССШ 113.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.524",
+    "id_prev": "21.521",
+    "id_next": "21.525",
+    "refcode_1": "CSW",
+    "refcode_2": "114",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 114.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 114.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Teachers do not make as earnest work as they should of the Sabbath school exercises; they should come close to the hearts of the scholars, by aptness, by sympathy, by patient and determined effort to interest every scholar in regard to the salvation of the soul. These exercises should become altogether what the Lord would have them,&mdash;seasons of deep conviction of sin, of heart reformation. If the right work is done, in a skillful, Christlike manner, souls will be convicted, and the inquiry will be, &ldquo;What shall I do to be saved?&rdquo;&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 12.1\" data-link=\"121.38\"><em>Testimonies on Sabbath-School Work</em>, 12, 13</span>.",
+    "puborder": 328,
+    "translations": [
+      {
+        "para_id": "11629.498",
+        "lang": "da",
+        "refcode": "RSSA 114.1"
+      },
+      {
+        "para_id": "799.500",
+        "lang": "de",
+        "refcode": "RSs 95.2"
+      },
+      {
+        "para_id": "1711.562",
+        "lang": "es",
+        "refcode": "COES 127.1"
+      },
+      {
+        "para_id": "1724.559",
+        "lang": "pt",
+        "refcode": "CES 114.1"
+      },
+      {
+        "para_id": "1917.615",
+        "lang": "pt",
+        "refcode": "CES38 59.1"
+      },
+      {
+        "para_id": "2719.539",
+        "lang": "ro",
+        "refcode": "SSS 114.1"
+      },
+      {
+        "para_id": "1873.519",
+        "lang": "ru",
+        "refcode": "ССШ 114.1"
+      }
+    ]
+  }
+]

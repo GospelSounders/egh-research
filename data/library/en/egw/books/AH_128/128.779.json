@@ -1,0 +1,1281 @@
+[
+  {
+    "para_id": "128.779",
+    "id_prev": "128.776",
+    "id_next": "128.781",
+    "refcode_1": "AH",
+    "refcode_2": "175",
+    "refcode_3": "",
+    "refcode_4": "8",
+    "refcode_short": "AH 175",
+    "refcode_long": "The Adventist Home, p. 175 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 8&mdash;The Successful Family",
+    "puborder": 506,
+    "translations": [
+      {
+        "para_id": "13839.624",
+        "lang": "bg",
+        "refcode": "ХД 73"
+      },
+      {
+        "para_id": "177.805",
+        "lang": "es",
+        "refcode": "HC 156"
+      },
+      {
+        "para_id": "193.766",
+        "lang": "fr",
+        "refcode": "FC 167"
+      },
+      {
+        "para_id": "12869.923",
+        "lang": "id",
+        "refcode": "MKB 165"
+      },
+      {
+        "para_id": "891.473",
+        "lang": "it",
+        "refcode": "FC 72"
+      },
+      {
+        "para_id": "12178.641",
+        "lang": "pl",
+        "refcode": "ChD 107"
+      },
+      {
+        "para_id": "1955.1016",
+        "lang": "pt",
+        "refcode": "LA 177"
+      },
+      {
+        "para_id": "2026.772",
+        "lang": "ro",
+        "refcode": "CA 177"
+      },
+      {
+        "para_id": "1803.741",
+        "lang": "ru",
+        "refcode": "ХД 176"
+      },
+      {
+        "para_id": "12131.687",
+        "lang": "uk",
+        "refcode": "ХР 139"
+      }
+    ]
+  },
+  {
+    "para_id": "128.781",
+    "id_prev": "128.779",
+    "id_next": "128.782",
+    "refcode_1": "AH",
+    "refcode_2": "177",
+    "refcode_3": "",
+    "refcode_4": "27",
+    "refcode_short": "AH 177",
+    "refcode_long": "The Adventist Home, p. 177 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 27&mdash;A Sacred Circle",
+    "puborder": 507,
+    "translations": [
+      {
+        "para_id": "13839.625",
+        "lang": "bg",
+        "refcode": "ХД 73"
+      },
+      {
+        "para_id": "792.289",
+        "lang": "de",
+        "refcode": "GFH 47"
+      },
+      {
+        "para_id": "177.806",
+        "lang": "es",
+        "refcode": "HC 156"
+      },
+      {
+        "para_id": "193.769",
+        "lang": "fr",
+        "refcode": "FC 169"
+      },
+      {
+        "para_id": "12869.925",
+        "lang": "id",
+        "refcode": "MKB 166"
+      },
+      {
+        "para_id": "891.474",
+        "lang": "it",
+        "refcode": "FC 72"
+      },
+      {
+        "para_id": "12178.642",
+        "lang": "pl",
+        "refcode": "ChD 107"
+      },
+      {
+        "para_id": "1955.1017",
+        "lang": "pt",
+        "refcode": "LA 177"
+      },
+      {
+        "para_id": "2026.773",
+        "lang": "ro",
+        "refcode": "CA 177"
+      },
+      {
+        "para_id": "1803.743",
+        "lang": "ru",
+        "refcode": "ХД 177"
+      },
+      {
+        "para_id": "12131.689",
+        "lang": "uk",
+        "refcode": "ХР 140"
+      }
+    ]
+  },
+  {
+    "para_id": "128.782",
+    "id_prev": "128.781",
+    "id_next": "128.783",
+    "refcode_1": "AH",
+    "refcode_2": "177",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 177.1",
+    "refcode_long": "The Adventist Home, p. 177.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Sanctity of the Family Circle</strong>&mdash;There is a sacred circle around every family which should be preserved. No other one has any right in that sacred circle. The husband and wife should be all to each other. The wife should have no secrets to keep from her husband and let others know, and the husband should have no secrets to keep from his wife to relate to others. The heart of his wife should be the grave for the faults of the husband, and the heart of the husband the grave for his wife&apos;s faults. Never should either party indulge in a joke at the expense of the other&apos;s feelings. Never should either the husband or wife in sport or in any other manner complain of each other to others, for frequently indulging in this foolish and what may seem perfectly harmless joking will end in trial with each other and perhaps estrangement. I have been shown that there should be a sacred shield around every family.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 1, 1855\" data-link=\"13961.2938001\">Manuscript 1, 1855</span>.</span></a></sup>",
+    "puborder": 508,
+    "translations": [
+      {
+        "para_id": "13839.626",
+        "lang": "bg",
+        "refcode": "ХД 73.3"
+      },
+      {
+        "para_id": "792.293",
+        "lang": "de",
+        "refcode": "GFH 47.3"
+      },
+      {
+        "para_id": "792.292",
+        "lang": "de",
+        "refcode": "GFH 47.2"
+      },
+      {
+        "para_id": "792.291",
+        "lang": "de",
+        "refcode": "GFH 47.1"
+      },
+      {
+        "para_id": "792.290",
+        "lang": "de",
+        "refcode": "GFH 47"
+      },
+      {
+        "para_id": "177.808",
+        "lang": "es",
+        "refcode": "HC 156.2"
+      },
+      {
+        "para_id": "177.807",
+        "lang": "es",
+        "refcode": "HC 156.1"
+      },
+      {
+        "para_id": "193.770",
+        "lang": "fr",
+        "refcode": "FC 169.1"
+      },
+      {
+        "para_id": "12869.927",
+        "lang": "id",
+        "refcode": "MKB 166.1"
+      },
+      {
+        "para_id": "891.476",
+        "lang": "it",
+        "refcode": "FC 72.1"
+      },
+      {
+        "para_id": "891.475",
+        "lang": "it",
+        "refcode": "FC 72"
+      },
+      {
+        "para_id": "12178.643",
+        "lang": "pl",
+        "refcode": "ChD 107.1"
+      },
+      {
+        "para_id": "1955.1019",
+        "lang": "pt",
+        "refcode": "LA 177.1"
+      },
+      {
+        "para_id": "1955.1018",
+        "lang": "pt",
+        "refcode": "LA 177"
+      },
+      {
+        "para_id": "2026.774",
+        "lang": "ro",
+        "refcode": "CA 177.1"
+      },
+      {
+        "para_id": "1803.744",
+        "lang": "ru",
+        "refcode": "ХД 177.1"
+      },
+      {
+        "para_id": "12131.690",
+        "lang": "uk",
+        "refcode": "ХР 140.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.783",
+    "id_prev": "128.782",
+    "id_next": "128.784",
+    "refcode_1": "AH",
+    "refcode_2": "177",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 177.2",
+    "refcode_long": "The Adventist Home, p. 177.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The home circle should be regarded as a sacred place, a symbol of heaven, a mirror in which to reflect ourselves. Friends and acquaintances we may have, but in the home life they are not to meddle. A strong sense of proprietorship should be felt, giving a sense of ease, restfulness, trust.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 17, 1895\" data-link=\"14060.5397001\">Letter 17, 1895</span>.</span></a></sup>",
+    "puborder": 509,
+    "translations": [
+      {
+        "para_id": "13839.627",
+        "lang": "bg",
+        "refcode": "ХД 73.4"
+      },
+      {
+        "para_id": "792.294",
+        "lang": "de",
+        "refcode": "GFH 47.4"
+      },
+      {
+        "para_id": "177.809",
+        "lang": "es",
+        "refcode": "HC 156.3"
+      },
+      {
+        "para_id": "193.771",
+        "lang": "fr",
+        "refcode": "FC 169.2"
+      },
+      {
+        "para_id": "12869.930",
+        "lang": "id",
+        "refcode": "MKB 167.1"
+      },
+      {
+        "para_id": "891.477",
+        "lang": "it",
+        "refcode": "FC 72.2"
+      },
+      {
+        "para_id": "12178.644",
+        "lang": "pl",
+        "refcode": "ChD 107.2"
+      },
+      {
+        "para_id": "1955.1020",
+        "lang": "pt",
+        "refcode": "LA 177.2"
+      },
+      {
+        "para_id": "2026.775",
+        "lang": "ro",
+        "refcode": "CA 177.2"
+      },
+      {
+        "para_id": "1803.745",
+        "lang": "ru",
+        "refcode": "ХД 177.2"
+      },
+      {
+        "para_id": "12131.691",
+        "lang": "uk",
+        "refcode": "ХР 140.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.784",
+    "id_prev": "128.783",
+    "id_next": "128.787",
+    "refcode_1": "AH",
+    "refcode_2": "177",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 177.3",
+    "refcode_long": "The Adventist Home, p. 177.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Tongues, Ears, and Eyes to Be Sanctified</strong>&mdash;Let those composing the family circle pray that God will sanctify their tongues, their ears, their eyes, and every member of their body. When brought into contact with evil, it is not necessary to be overcome of evil. <span class=\"page-break\" data-page=\"178\"></span> Christ has made it possible for the character to be fragrant with good....",
+    "puborder": 510,
+    "translations": [
+      {
+        "para_id": "13839.628",
+        "lang": "bg",
+        "refcode": "ХД 73.5"
+      },
+      {
+        "para_id": "792.296",
+        "lang": "de",
+        "refcode": "GFH 47.5"
+      },
+      {
+        "para_id": "792.295",
+        "lang": "de",
+        "refcode": "GFH 47"
+      },
+      {
+        "para_id": "177.810",
+        "lang": "es",
+        "refcode": "HC 156.4"
+      },
+      {
+        "para_id": "193.772",
+        "lang": "fr",
+        "refcode": "FC 169.3"
+      },
+      {
+        "para_id": "12869.932",
+        "lang": "id",
+        "refcode": "MKB 167.2"
+      },
+      {
+        "para_id": "12178.645",
+        "lang": "pl",
+        "refcode": "ChD 107.3"
+      },
+      {
+        "para_id": "1955.1021",
+        "lang": "pt",
+        "refcode": "LA 177"
+      },
+      {
+        "para_id": "1955.1022",
+        "lang": "pt",
+        "refcode": "LA 177.3"
+      },
+      {
+        "para_id": "2026.776",
+        "lang": "ro",
+        "refcode": "CA 177.3"
+      },
+      {
+        "para_id": "1803.746",
+        "lang": "ru",
+        "refcode": "ХД 177.3"
+      },
+      {
+        "para_id": "12131.692",
+        "lang": "uk",
+        "refcode": "ХР 140.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.787",
+    "id_prev": "128.784",
+    "id_next": "128.788",
+    "refcode_1": "AH",
+    "refcode_2": "178",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 178.1",
+    "refcode_long": "The Adventist Home, p. 178.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "How many dishonor Christ and misrepresent His character in the home circle! How many do not manifest patience, forbearance, forgiveness, and true love! Many have their likes and dislikes and feel at liberty to manifest their own perverse disposition rather than to reveal the will, the works, the character of Christ. The life of Jesus is full of kindness and love. Are we growing into His divine nature?<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 18, 1891\" data-link=\"14057.5838001\">Manuscript 18, 1891</span>.</span></a></sup>",
+    "puborder": 511,
+    "translations": [
+      {
+        "para_id": "13839.629",
+        "lang": "bg",
+        "refcode": "ХД 73.6"
+      },
+      {
+        "para_id": "792.299",
+        "lang": "de",
+        "refcode": "GFH 48.1"
+      },
+      {
+        "para_id": "177.813",
+        "lang": "es",
+        "refcode": "HC 157.1"
+      },
+      {
+        "para_id": "193.775",
+        "lang": "fr",
+        "refcode": "FC 170.1"
+      },
+      {
+        "para_id": "12869.933",
+        "lang": "id",
+        "refcode": "MKB 167.3"
+      },
+      {
+        "para_id": "12178.645",
+        "lang": "pl",
+        "refcode": "ChD 107.3"
+      },
+      {
+        "para_id": "1955.1025",
+        "lang": "pt",
+        "refcode": "LA 178.1"
+      },
+      {
+        "para_id": "2026.779",
+        "lang": "ro",
+        "refcode": "CA 178.1"
+      },
+      {
+        "para_id": "1803.749",
+        "lang": "ru",
+        "refcode": "ХД 178.1"
+      },
+      {
+        "para_id": "12131.692",
+        "lang": "uk",
+        "refcode": "ХР 140.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.788",
+    "id_prev": "128.787",
+    "id_next": "128.789",
+    "refcode_1": "AH",
+    "refcode_2": "178",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 178.2",
+    "refcode_long": "The Adventist Home, p. 178.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Unity, Love, and Peace</strong>&mdash;Let fathers and mothers make a solemn promise to God, whom they profess to love and obey, that by His grace they will not disagree between themselves, but will in their own life and temper manifest the spirit that they wish their children to cherish.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 38, 1895\" data-link=\"14060.5112001\">Manuscript 38, 1895</span>.</span></a></sup>",
+    "puborder": 512,
+    "translations": [
+      {
+        "para_id": "13839.630",
+        "lang": "bg",
+        "refcode": "ХД 73.7"
+      },
+      {
+        "para_id": "177.814",
+        "lang": "es",
+        "refcode": "HC 157.2"
+      },
+      {
+        "para_id": "193.776",
+        "lang": "fr",
+        "refcode": "FC 170.2"
+      },
+      {
+        "para_id": "12869.935",
+        "lang": "id",
+        "refcode": "MKB 167.4"
+      },
+      {
+        "para_id": "891.478",
+        "lang": "it",
+        "refcode": "FC 72"
+      },
+      {
+        "para_id": "891.479",
+        "lang": "it",
+        "refcode": "FC 72.3"
+      },
+      {
+        "para_id": "12178.648",
+        "lang": "pl",
+        "refcode": "ChD 108.1"
+      },
+      {
+        "para_id": "1955.1026",
+        "lang": "pt",
+        "refcode": "LA 178"
+      },
+      {
+        "para_id": "1955.1027",
+        "lang": "pt",
+        "refcode": "LA 178.2"
+      },
+      {
+        "para_id": "2026.780",
+        "lang": "ro",
+        "refcode": "CA 178.2"
+      },
+      {
+        "para_id": "1803.750",
+        "lang": "ru",
+        "refcode": "ХД 178.2"
+      },
+      {
+        "para_id": "12131.694",
+        "lang": "uk",
+        "refcode": "ХР 141.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.789",
+    "id_prev": "128.788",
+    "id_next": "128.790",
+    "refcode_1": "AH",
+    "refcode_2": "178",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 178.3",
+    "refcode_long": "The Adventist Home, p. 178.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Parents should be careful not to allow the spirit of dissension to creep into the home; for this is one of Satan&apos;s agents to make his impression on the character. If parents will strive for unity in the home by inculcating the principles that governed the life of Christ, dissension will be driven out, and unity and love will abide there. Parents and children will partake of the gift of the Holy Spirit.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 53, 1912\" data-link=\"14075.10797001\">Manuscript 53, 1912</span>.</span></a></sup>",
+    "puborder": 513,
+    "translations": [
+      {
+        "para_id": "13839.631",
+        "lang": "bg",
+        "refcode": "ХД 73.8"
+      },
+      {
+        "para_id": "792.300",
+        "lang": "de",
+        "refcode": "GFH 48.2"
+      },
+      {
+        "para_id": "177.815",
+        "lang": "es",
+        "refcode": "HC 157.3"
+      },
+      {
+        "para_id": "193.777",
+        "lang": "fr",
+        "refcode": "FC 170.3"
+      },
+      {
+        "para_id": "12869.936",
+        "lang": "id",
+        "refcode": "MKB 167.5"
+      },
+      {
+        "para_id": "891.480",
+        "lang": "it",
+        "refcode": "FC 72.4"
+      },
+      {
+        "para_id": "12178.649",
+        "lang": "pl",
+        "refcode": "ChD 108.2"
+      },
+      {
+        "para_id": "1955.1028",
+        "lang": "pt",
+        "refcode": "LA 178.3"
+      },
+      {
+        "para_id": "2026.781",
+        "lang": "ro",
+        "refcode": "CA 178.3"
+      },
+      {
+        "para_id": "1803.751",
+        "lang": "ru",
+        "refcode": "ХД 178.3"
+      },
+      {
+        "para_id": "12131.695",
+        "lang": "uk",
+        "refcode": "ХР 141.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.790",
+    "id_prev": "128.789",
+    "id_next": "128.791",
+    "refcode_1": "AH",
+    "refcode_2": "178",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 178.4",
+    "refcode_long": "The Adventist Home, p. 178.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Let the husband and wife remember that they have burdens enough to carry without making their lives wretched by allowing differences to come in. Those who give place to little differences invite Satan into their home. The children catch the spirit of contention over mere trifles. Evil agencies do their part to make parents and children disloyal to God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 133, 1904\" data-link=\"14069.10299001\">Letter 133, 1904</span>.</span></a></sup>",
+    "puborder": 514,
+    "translations": [
+      {
+        "para_id": "13839.633",
+        "lang": "bg",
+        "refcode": "ХД 74.1"
+      },
+      {
+        "para_id": "792.301",
+        "lang": "de",
+        "refcode": "GFH 48.3"
+      },
+      {
+        "para_id": "177.816",
+        "lang": "es",
+        "refcode": "HC 157.4"
+      },
+      {
+        "para_id": "193.778",
+        "lang": "fr",
+        "refcode": "FC 170.4"
+      },
+      {
+        "para_id": "12869.939",
+        "lang": "id",
+        "refcode": "MKB 168.1"
+      },
+      {
+        "para_id": "891.480",
+        "lang": "it",
+        "refcode": "FC 72.4"
+      },
+      {
+        "para_id": "12178.650",
+        "lang": "pl",
+        "refcode": "ChD 108.3"
+      },
+      {
+        "para_id": "1955.1029",
+        "lang": "pt",
+        "refcode": "LA 178.4"
+      },
+      {
+        "para_id": "2026.782",
+        "lang": "ro",
+        "refcode": "CA 178.4"
+      },
+      {
+        "para_id": "1803.752",
+        "lang": "ru",
+        "refcode": "ХД 178.4"
+      },
+      {
+        "para_id": "12131.696",
+        "lang": "uk",
+        "refcode": "ХР 141.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.791",
+    "id_prev": "128.790",
+    "id_next": "128.794",
+    "refcode_1": "AH",
+    "refcode_2": "178",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 178.5",
+    "refcode_long": "The Adventist Home, p. 178.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Although trials may arise in the married life, the husband and the wife are to keep their souls in the love of <span class=\"page-break\" data-page=\"179\"></span> God. The father should look upon the mother of his children as one deserving of all kindness, tenderness, and sympathy.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 198, 1901\" data-link=\"14066.10165001\">Letter 198, 1901</span>.</span></a></sup>",
+    "puborder": 515,
+    "translations": [
+      {
+        "para_id": "13839.634",
+        "lang": "bg",
+        "refcode": "ХД 74.2"
+      },
+      {
+        "para_id": "792.302",
+        "lang": "de",
+        "refcode": "GFH 48.4"
+      },
+      {
+        "para_id": "177.817",
+        "lang": "es",
+        "refcode": "HC 157.5"
+      },
+      {
+        "para_id": "193.779",
+        "lang": "fr",
+        "refcode": "FC 170.5"
+      },
+      {
+        "para_id": "12869.940",
+        "lang": "id",
+        "refcode": "MKB 168.2"
+      },
+      {
+        "para_id": "12178.651",
+        "lang": "pl",
+        "refcode": "ChD 108.4"
+      },
+      {
+        "para_id": "1955.1030",
+        "lang": "pt",
+        "refcode": "LA 178.5"
+      },
+      {
+        "para_id": "2026.783",
+        "lang": "ro",
+        "refcode": "CA 178.5"
+      },
+      {
+        "para_id": "1803.753",
+        "lang": "ru",
+        "refcode": "ХД 178.5"
+      },
+      {
+        "para_id": "12131.696",
+        "lang": "uk",
+        "refcode": "ХР 141.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.794",
+    "id_prev": "128.791",
+    "id_next": "128.795",
+    "refcode_1": "AH",
+    "refcode_2": "179",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 179.1",
+    "refcode_long": "The Adventist Home, p. 179.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Secret of Family Unity</strong>&mdash;The cause of division and discord in families and in the church is separation from Christ. To come near to Christ is to come near to one another. The secret of true unity in the church and in the family is not diplomacy, not management, not a superhuman effort to overcome difficulties&mdash;though there will be much of this to do&mdash;but union with Christ.",
+    "puborder": 516,
+    "translations": [
+      {
+        "para_id": "13839.635",
+        "lang": "bg",
+        "refcode": "ХД 74.3"
+      },
+      {
+        "para_id": "792.303",
+        "lang": "de",
+        "refcode": "GFH 48"
+      },
+      {
+        "para_id": "792.304",
+        "lang": "de",
+        "refcode": "GFH 48.5"
+      },
+      {
+        "para_id": "177.820",
+        "lang": "es",
+        "refcode": "HC 158.1"
+      },
+      {
+        "para_id": "193.780",
+        "lang": "fr",
+        "refcode": "FC 170.6"
+      },
+      {
+        "para_id": "12869.942",
+        "lang": "id",
+        "refcode": "MKB 168.3"
+      },
+      {
+        "para_id": "891.482",
+        "lang": "it",
+        "refcode": "FC 73"
+      },
+      {
+        "para_id": "891.483",
+        "lang": "it",
+        "refcode": "FC 73.1"
+      },
+      {
+        "para_id": "12178.652",
+        "lang": "pl",
+        "refcode": "ChD 108.5"
+      },
+      {
+        "para_id": "1955.1034",
+        "lang": "pt",
+        "refcode": "LA 179.1"
+      },
+      {
+        "para_id": "1955.1033",
+        "lang": "pt",
+        "refcode": "LA 179"
+      },
+      {
+        "para_id": "2026.786",
+        "lang": "ro",
+        "refcode": "CA 179.1"
+      },
+      {
+        "para_id": "1803.756",
+        "lang": "ru",
+        "refcode": "ХД 179.1"
+      },
+      {
+        "para_id": "12131.697",
+        "lang": "uk",
+        "refcode": "ХР 141.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.795",
+    "id_prev": "128.794",
+    "id_next": "128.796",
+    "refcode_1": "AH",
+    "refcode_2": "179",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 179.2",
+    "refcode_long": "The Adventist Home, p. 179.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Picture a large circle, from the edge of which are many lines all running to the center. The nearer these lines approach the center, the nearer they are to one another.",
+    "puborder": 517,
+    "translations": [
+      {
+        "para_id": "13839.636",
+        "lang": "bg",
+        "refcode": "ХД 74.4"
+      },
+      {
+        "para_id": "792.307",
+        "lang": "de",
+        "refcode": "GFH 49.1"
+      },
+      {
+        "para_id": "177.821",
+        "lang": "es",
+        "refcode": "HC 158.2"
+      },
+      {
+        "para_id": "193.783",
+        "lang": "fr",
+        "refcode": "FC 171.1"
+      },
+      {
+        "para_id": "12869.943",
+        "lang": "id",
+        "refcode": "MKB 168.4"
+      },
+      {
+        "para_id": "891.484",
+        "lang": "it",
+        "refcode": "FC 73.2"
+      },
+      {
+        "para_id": "12178.652",
+        "lang": "pl",
+        "refcode": "ChD 108.5"
+      },
+      {
+        "para_id": "1955.1035",
+        "lang": "pt",
+        "refcode": "LA 179.2"
+      },
+      {
+        "para_id": "2026.787",
+        "lang": "ro",
+        "refcode": "CA 179.2"
+      },
+      {
+        "para_id": "1803.757",
+        "lang": "ru",
+        "refcode": "ХД 179.2"
+      },
+      {
+        "para_id": "12131.697",
+        "lang": "uk",
+        "refcode": "ХР 141.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.796",
+    "id_prev": "128.795",
+    "id_next": "128.797",
+    "refcode_1": "AH",
+    "refcode_2": "179",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 179.3",
+    "refcode_long": "The Adventist Home, p. 179.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Thus it is in the Christian life. The closer we come to Christ, the nearer we shall be to one another. God is glorified as His people unite in harmonious action.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 49, 1904\" data-link=\"14069.7488001\">Letter 49, 1904</span>.</span></a></sup>",
+    "puborder": 518,
+    "translations": [
+      {
+        "para_id": "13839.637",
+        "lang": "bg",
+        "refcode": "ХД 74.5"
+      },
+      {
+        "para_id": "792.307",
+        "lang": "de",
+        "refcode": "GFH 49.1"
+      },
+      {
+        "para_id": "177.822",
+        "lang": "es",
+        "refcode": "HC 158.3"
+      },
+      {
+        "para_id": "193.784",
+        "lang": "fr",
+        "refcode": "FC 171.2"
+      },
+      {
+        "para_id": "12869.944",
+        "lang": "id",
+        "refcode": "MKB 168.5"
+      },
+      {
+        "para_id": "891.484",
+        "lang": "it",
+        "refcode": "FC 73.2"
+      },
+      {
+        "para_id": "12178.652",
+        "lang": "pl",
+        "refcode": "ChD 108.5"
+      },
+      {
+        "para_id": "12178.654",
+        "lang": "pl",
+        "refcode": "ChD 109.1"
+      },
+      {
+        "para_id": "1955.1036",
+        "lang": "pt",
+        "refcode": "LA 179.3"
+      },
+      {
+        "para_id": "2026.788",
+        "lang": "ro",
+        "refcode": "CA 179.3"
+      },
+      {
+        "para_id": "1803.758",
+        "lang": "ru",
+        "refcode": "ХД 179.3"
+      },
+      {
+        "para_id": "12131.697",
+        "lang": "uk",
+        "refcode": "ХР 141.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.797",
+    "id_prev": "128.796",
+    "id_next": "128.798",
+    "refcode_1": "AH",
+    "refcode_2": "179",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 179.4",
+    "refcode_long": "The Adventist Home, p. 179.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Let Each Help the Other</strong>&mdash;The family firm is a sacred, social society, in which each member is to act a part, each helping the other. The work of the household is to move smoothly, like the different parts of well-regulated machinery.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 129, 1903\" data-link=\"14068.9746001\">Manuscript 129, 1903</span>.</span></a></sup>",
+    "puborder": 519,
+    "translations": [
+      {
+        "para_id": "13839.638",
+        "lang": "bg",
+        "refcode": "ХД 74.6"
+      },
+      {
+        "para_id": "792.309",
+        "lang": "de",
+        "refcode": "GFH 49.2"
+      },
+      {
+        "para_id": "792.308",
+        "lang": "de",
+        "refcode": "GFH 49"
+      },
+      {
+        "para_id": "177.823",
+        "lang": "es",
+        "refcode": "HC 158.4"
+      },
+      {
+        "para_id": "193.785",
+        "lang": "fr",
+        "refcode": "FC 171.3"
+      },
+      {
+        "para_id": "12869.946",
+        "lang": "id",
+        "refcode": "MKB 168.6"
+      },
+      {
+        "para_id": "891.486",
+        "lang": "it",
+        "refcode": "FC 73.3"
+      },
+      {
+        "para_id": "891.485",
+        "lang": "it",
+        "refcode": "FC 73"
+      },
+      {
+        "para_id": "12178.655",
+        "lang": "pl",
+        "refcode": "ChD 109.2"
+      },
+      {
+        "para_id": "1955.1038",
+        "lang": "pt",
+        "refcode": "LA 179.4"
+      },
+      {
+        "para_id": "1955.1037",
+        "lang": "pt",
+        "refcode": "LA 179"
+      },
+      {
+        "para_id": "2026.789",
+        "lang": "ro",
+        "refcode": "CA 179.4"
+      },
+      {
+        "para_id": "1803.759",
+        "lang": "ru",
+        "refcode": "ХД 179.4"
+      },
+      {
+        "para_id": "12131.698",
+        "lang": "uk",
+        "refcode": "ХР 141.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.798",
+    "id_prev": "128.797",
+    "id_next": "128.800",
+    "refcode_1": "AH",
+    "refcode_2": "179",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 179.5",
+    "refcode_long": "The Adventist Home, p. 179.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Every member of the family should realize that a responsibility rests upon him individually to do his part in adding to the comfort, order, and regularity of the family. One should not work against another. All should unitedly engage in the good work of encouraging one another; they should exercise gentleness, forbearance, and patience; speak in low, calm tones, shunning confusion; and each doing his utmost to lighten the burdens of the mother....",
+    "puborder": 520,
+    "translations": [
+      {
+        "para_id": "13839.639",
+        "lang": "bg",
+        "refcode": "ХД 74.7"
+      },
+      {
+        "para_id": "792.310",
+        "lang": "de",
+        "refcode": "GFH 49.3"
+      },
+      {
+        "para_id": "177.824",
+        "lang": "es",
+        "refcode": "HC 158.5"
+      },
+      {
+        "para_id": "193.786",
+        "lang": "fr",
+        "refcode": "FC 171.4"
+      },
+      {
+        "para_id": "12869.947",
+        "lang": "id",
+        "refcode": "MKB 168.7"
+      },
+      {
+        "para_id": "891.487",
+        "lang": "it",
+        "refcode": "FC 73.4"
+      },
+      {
+        "para_id": "12178.656",
+        "lang": "pl",
+        "refcode": "ChD 109.3"
+      },
+      {
+        "para_id": "1955.1039",
+        "lang": "pt",
+        "refcode": "LA 179.5"
+      },
+      {
+        "para_id": "2026.790",
+        "lang": "ro",
+        "refcode": "CA 179.5"
+      },
+      {
+        "para_id": "1803.760",
+        "lang": "ru",
+        "refcode": "ХД 179.5"
+      },
+      {
+        "para_id": "12131.699",
+        "lang": "uk",
+        "refcode": "ХР 141.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.800",
+    "id_prev": "128.798",
+    "id_next": "128.801",
+    "refcode_1": "AH",
+    "refcode_2": "180",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 180.1",
+    "refcode_long": "The Adventist Home, p. 180.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Each member of the family should understand just the part he is expected to act in union with the others. All, from the child six years old and upward, should understand that it is required of them to bear their share of life&apos;s burdens.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 699.1\" data-link=\"120.3034\">Testimonies for the Church 2:699, 700</span>.</span></a></sup>",
+    "puborder": 521,
+    "translations": [
+      {
+        "para_id": "13839.640",
+        "lang": "bg",
+        "refcode": "ХД 74.8"
+      },
+      {
+        "para_id": "792.311",
+        "lang": "de",
+        "refcode": "GFH 49.4"
+      },
+      {
+        "para_id": "177.825",
+        "lang": "es",
+        "refcode": "HC 158.6"
+      },
+      {
+        "para_id": "193.787",
+        "lang": "fr",
+        "refcode": "FC 171.5"
+      },
+      {
+        "para_id": "12869.950",
+        "lang": "id",
+        "refcode": "MKB 169.1"
+      },
+      {
+        "para_id": "891.487",
+        "lang": "it",
+        "refcode": "FC 73.4"
+      },
+      {
+        "para_id": "12178.657",
+        "lang": "pl",
+        "refcode": "ChD 109.4"
+      },
+      {
+        "para_id": "1955.1040",
+        "lang": "pt",
+        "refcode": "LA 179.6"
+      },
+      {
+        "para_id": "2026.792",
+        "lang": "ro",
+        "refcode": "CA 180.1"
+      },
+      {
+        "para_id": "1803.760",
+        "lang": "ru",
+        "refcode": "ХД 179.5"
+      },
+      {
+        "para_id": "12131.702",
+        "lang": "uk",
+        "refcode": "ХР 142.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.801",
+    "id_prev": "128.800",
+    "id_next": "128.803",
+    "refcode_1": "AH",
+    "refcode_2": "180",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 180.2",
+    "refcode_long": "The Adventist Home, p. 180.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>A Fitting Resolve</strong>&mdash;I must grow in grace at home and wherever I may be, in order to give moral power to all my actions. At home I must guard my spirit, my actions, my words. I must give time to personal culture, to training and educating myself in right principles. I must be an example to others. I must meditate upon the word of God night and day and bring it into my practical life. The sword of the Spirit, which is the word of God, is the only sword which I can safely use.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 13, 1891\" data-link=\"14057.6801001\">Manuscript 13, 1891</span>.</span></a></sup>",
+    "puborder": 522,
+    "translations": [
+      {
+        "para_id": "13839.641",
+        "lang": "bg",
+        "refcode": "ХД 74.9"
+      },
+      {
+        "para_id": "177.828",
+        "lang": "es",
+        "refcode": "HC 159.1"
+      },
+      {
+        "para_id": "193.788",
+        "lang": "fr",
+        "refcode": "FC 171.6"
+      },
+      {
+        "para_id": "12869.952",
+        "lang": "id",
+        "refcode": "MKB 169.2"
+      },
+      {
+        "para_id": "12178.658",
+        "lang": "pl",
+        "refcode": "ChD 109.5"
+      },
+      {
+        "para_id": "1955.1043",
+        "lang": "pt",
+        "refcode": "LA 180"
+      },
+      {
+        "para_id": "1955.1044",
+        "lang": "pt",
+        "refcode": "LA 180.1"
+      },
+      {
+        "para_id": "2026.793",
+        "lang": "ro",
+        "refcode": "CA 180.2"
+      },
+      {
+        "para_id": "1803.763",
+        "lang": "ru",
+        "refcode": "ХД 180.1"
+      },
+      {
+        "para_id": "12131.703",
+        "lang": "uk",
+        "refcode": "ХР 142.2"
+      }
+    ]
+  }
+]

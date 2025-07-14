@@ -1,0 +1,163 @@
+[
+  {
+    "para_id": "21.302",
+    "id_prev": "21.299",
+    "id_next": "21.303",
+    "refcode_1": "CSW",
+    "refcode_2": "68",
+    "refcode_3": "",
+    "refcode_4": "39",
+    "refcode_short": "CSW 68",
+    "refcode_long": "Counsels on Sabbath School Work, p. 68 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Effect of the Truth",
+    "puborder": 187,
+    "translations": [
+      {
+        "para_id": "11629.275",
+        "lang": "da",
+        "refcode": "RSSA 68"
+      },
+      {
+        "para_id": "799.295",
+        "lang": "de",
+        "refcode": "RSs 59"
+      },
+      {
+        "para_id": "1711.329",
+        "lang": "es",
+        "refcode": "COES 74"
+      },
+      {
+        "para_id": "1917.351",
+        "lang": "pt",
+        "refcode": "CES38 33"
+      },
+      {
+        "para_id": "1724.334",
+        "lang": "pt",
+        "refcode": "CES 68"
+      },
+      {
+        "para_id": "2719.311",
+        "lang": "ro",
+        "refcode": "SSS 68"
+      },
+      {
+        "para_id": "1873.298",
+        "lang": "ru",
+        "refcode": "ССШ 68"
+      }
+    ]
+  },
+  {
+    "para_id": "21.303",
+    "id_prev": "21.302",
+    "id_next": "21.304",
+    "refcode_1": "CSW",
+    "refcode_2": "68",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 68.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 68.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The principles of truth impressed upon the heart, line upon line and precept upon precept, will produce right action. The Bible contains the searching maxims which God has given to guide men and women, youth and children, through the conflicts of this life to heaven. The prayer of Christ was, &ldquo;Sanctify them through Thy truth: Thy word is truth.&rdquo; However enlightened the youth may be through Bible studies, their nature is such that unless the truth of which they have knowledge is practiced in the daily life, every attempt to elevate and ennoble will be unavailing. The parents have a serious responsibility resting upon them to cooperate with the teachers in the Sabbath school.",
+    "puborder": 188,
+    "translations": [
+      {
+        "para_id": "11629.276",
+        "lang": "da",
+        "refcode": "RSSA 68.1"
+      },
+      {
+        "para_id": "799.296",
+        "lang": "de",
+        "refcode": "RSs 59.3"
+      },
+      {
+        "para_id": "1711.330",
+        "lang": "es",
+        "refcode": "COES 74.3"
+      },
+      {
+        "para_id": "1917.352",
+        "lang": "pt",
+        "refcode": "CES38 33.6"
+      },
+      {
+        "para_id": "1724.335",
+        "lang": "pt",
+        "refcode": "CES 68.1"
+      },
+      {
+        "para_id": "2719.312",
+        "lang": "ro",
+        "refcode": "SSS 68.1"
+      },
+      {
+        "para_id": "1873.299",
+        "lang": "ru",
+        "refcode": "ССШ 68.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.304",
+    "id_prev": "21.303",
+    "id_next": "21.307",
+    "refcode_1": "CSW",
+    "refcode_2": "68",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 68.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 68.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There are hearts that the Lord has touched with His Holy Spirit. No sooner does grace begin its work in the soul, than the heart is humbled and subdued; there is no wrestling for the supremacy; pride is gone; there is such a sense of the love of Christ in giving His life for sinful beings that there is no desire to become self-exalted. The converted one sees that his Redeemer lived a life of humility, and he desires to walk in His footsteps. This missionary spirit is awakened in his heart; and, while walking humbly and circumspectly, in accordance <span class=\"page-break\" data-page=\"69\"></span> with his faith, he cannot rest until he is engaged in the work of trying to win souls to Christ. He wants every one to know the preciousness of a Saviour&apos;s love.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 25.1\" data-link=\"121.90\"><em>Testimonies on Sabbath-School Work</em>, 25</span>.",
+    "puborder": 189,
+    "translations": [
+      {
+        "para_id": "11629.277",
+        "lang": "da",
+        "refcode": "RSSA 68.2"
+      },
+      {
+        "para_id": "799.297",
+        "lang": "de",
+        "refcode": "RSs 59.4"
+      },
+      {
+        "para_id": "1711.333",
+        "lang": "es",
+        "refcode": "COES 75.1"
+      },
+      {
+        "para_id": "1724.336",
+        "lang": "pt",
+        "refcode": "CES 68.2"
+      },
+      {
+        "para_id": "1917.353",
+        "lang": "pt",
+        "refcode": "CES38 33.7"
+      },
+      {
+        "para_id": "1917.356",
+        "lang": "pt",
+        "refcode": "CES38 34.1"
+      },
+      {
+        "para_id": "2719.313",
+        "lang": "ro",
+        "refcode": "SSS 68.2"
+      },
+      {
+        "para_id": "1873.300",
+        "lang": "ru",
+        "refcode": "ССШ 68.2"
+      }
+    ]
+  }
+]

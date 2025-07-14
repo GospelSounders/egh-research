@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.642",
+    "id_prev": "21.639",
+    "id_next": "21.643",
+    "refcode_1": "CSW",
+    "refcode_2": "138",
+    "refcode_3": "",
+    "refcode_4": "104",
+    "refcode_short": "CSW 138",
+    "refcode_long": "Counsels on Sabbath School Work, p. 138 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Higher Motives Than Sympathy",
+    "puborder": 404,
+    "translations": [
+      {
+        "para_id": "11629.617",
+        "lang": "da",
+        "refcode": "RSSA 138"
+      },
+      {
+        "para_id": "799.608",
+        "lang": "de",
+        "refcode": "RSs 114"
+      },
+      {
+        "para_id": "1711.689",
+        "lang": "es",
+        "refcode": "COES 155"
+      },
+      {
+        "para_id": "1724.680",
+        "lang": "pt",
+        "refcode": "CES 138"
+      },
+      {
+        "para_id": "1917.755",
+        "lang": "pt",
+        "refcode": "CES38 72"
+      },
+      {
+        "para_id": "2719.659",
+        "lang": "ro",
+        "refcode": "SSS 138"
+      },
+      {
+        "para_id": "1873.637",
+        "lang": "ru",
+        "refcode": "ССШ 138"
+      }
+    ]
+  },
+  {
+    "para_id": "21.643",
+    "id_prev": "21.642",
+    "id_next": "21.644",
+    "refcode_1": "CSW",
+    "refcode_2": "138",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 138.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 138.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The moral darkness of a ruined world pleads to Christian men and women to put forth individual effort, to give of their means and of their influence, that they may be assimilated to the image of Him, who, though He possessed infinite riches, yet for our sakes became poor. The Spirit of God cannot abide with those to whom He has sent the message of His truth, but who need to be urged before they can have any sense of their duty to be coworkers with Christ. The apostle enforces the duty of giving from higher grounds than merely human sympathy, because the feelings are moved. He enforces the principle that we should labor unselfishly with an eye single to the glory of God.&mdash;<span class=\"egwlink egwlink_book\" title=\"3T 391.1\" data-link=\"119.1815\"><em>Testimonies for the Church</em> 3:391</span>.",
+    "puborder": 405,
+    "translations": [
+      {
+        "para_id": "11629.618",
+        "lang": "da",
+        "refcode": "RSSA 138.1"
+      },
+      {
+        "para_id": "799.609",
+        "lang": "de",
+        "refcode": "RSs 114.3"
+      },
+      {
+        "para_id": "1711.690",
+        "lang": "es",
+        "refcode": "COES 155.2"
+      },
+      {
+        "para_id": "1917.756",
+        "lang": "pt",
+        "refcode": "CES38 72.3"
+      },
+      {
+        "para_id": "1724.681",
+        "lang": "pt",
+        "refcode": "CES 138.1"
+      },
+      {
+        "para_id": "2719.660",
+        "lang": "ro",
+        "refcode": "SSS 138.1"
+      },
+      {
+        "para_id": "1873.638",
+        "lang": "ru",
+        "refcode": "ССШ 138.1"
+      }
+    ]
+  }
+]

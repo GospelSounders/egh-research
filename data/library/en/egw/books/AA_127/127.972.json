@@ -1,0 +1,3556 @@
+[
+  {
+    "para_id": "127.972",
+    "id_prev": "127.970",
+    "id_next": "127.2669",
+    "refcode_1": "AA",
+    "refcode_2": "221",
+    "refcode_3": "",
+    "refcode_4": "22",
+    "refcode_short": "AA 221",
+    "refcode_long": "The Acts of the Apostles, p. 221 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 22&mdash;Thessalonica",
+    "puborder": 611,
+    "translations": [
+      {
+        "para_id": "13804.731",
+        "lang": "bg",
+        "refcode": "Дa 85"
+      },
+      {
+        "para_id": "11590.930",
+        "lang": "ce",
+        "refcode": "ABA 189"
+      },
+      {
+        "para_id": "11247.886",
+        "lang": "cs",
+        "refcode": "PNL 128"
+      },
+      {
+        "para_id": "813.964",
+        "lang": "de",
+        "refcode": "WA 221"
+      },
+      {
+        "para_id": "198.920",
+        "lang": "es",
+        "refcode": "HAp 180"
+      },
+      {
+        "para_id": "158.919",
+        "lang": "fr",
+        "refcode": "CP 197"
+      },
+      {
+        "para_id": "11938.845",
+        "lang": "hu",
+        "refcode": "AT 147"
+      },
+      {
+        "para_id": "12410.901",
+        "lang": "id",
+        "refcode": "KR 187"
+      },
+      {
+        "para_id": "882.842",
+        "lang": "it",
+        "refcode": "UVI 138"
+      },
+      {
+        "para_id": "11660.1073",
+        "lang": "ja",
+        "refcode": "AAJ 237"
+      },
+      {
+        "para_id": "12335.811",
+        "lang": "nb",
+        "refcode": "AV 129"
+      },
+      {
+        "para_id": "12008.762",
+        "lang": "pl",
+        "refcode": "DA 121"
+      },
+      {
+        "para_id": "1806.802",
+        "lang": "pt",
+        "refcode": "AA 117.9"
+      },
+      {
+        "para_id": "2013.960",
+        "lang": "ro",
+        "refcode": "FA 221"
+      },
+      {
+        "para_id": "1785.939",
+        "lang": "ru",
+        "refcode": "ДА 221"
+      },
+      {
+        "para_id": "13874.815",
+        "lang": "rw",
+        "refcode": "INI 139"
+      },
+      {
+        "para_id": "11182.800",
+        "lang": "sk",
+        "refcode": "SA 135"
+      },
+      {
+        "para_id": "11904.875",
+        "lang": "tl",
+        "refcode": "AGA 168"
+      },
+      {
+        "para_id": "11875.848",
+        "lang": "uk",
+        "refcode": "ДА 152"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2669",
+    "id_prev": "127.972",
+    "id_next": "127.973",
+    "refcode_1": "AA",
+    "refcode_2": "221",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "bibletext",
+    "content": "<span class=\"non-egw-comment\">This chapter is based on <span class=\"egwlink egwlink_bible\" title=\"Acts 17:1\" data-link=\"1965.56130\">Acts 17:1-10</span>.</span>",
+    "puborder": 612,
+    "translations": [
+      {
+        "para_id": "813.965",
+        "lang": "de",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "198.920",
+        "lang": "es",
+        "refcode": "HAp 180"
+      },
+      {
+        "para_id": "158.920",
+        "lang": "fr",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11938.846",
+        "lang": "hu",
+        "refcode": "AT 147"
+      },
+      {
+        "para_id": "11660.1074",
+        "lang": "ja",
+        "refcode": "AAJ 237.1"
+      },
+      {
+        "para_id": "1806.2155",
+        "lang": "pt",
+        "refcode": "AA 308.6"
+      },
+      {
+        "para_id": "2013.2655",
+        "lang": "ro",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "1785.2609",
+        "lang": "ru",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "13874.816",
+        "lang": "rw",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11875.849",
+        "lang": "uk",
+        "refcode": "The Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "para_id": "127.973",
+    "id_prev": "127.2669",
+    "id_next": "127.974",
+    "refcode_1": "AA",
+    "refcode_2": "221",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 221.1",
+    "refcode_long": "The Acts of the Apostles, p. 221.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "After leaving Philippi, Paul and Silas made their way to Thessalonica. Here they were given the privilege of addressing large congregations in the Jewish synagogue. Their appearance bore evidence of the shameful treatment they had recently received, and necessitated an explanation of what had taken place. This they made without exalting themselves, but magnified the One who had wrought their deliverance.",
+    "puborder": 613,
+    "translations": [
+      {
+        "para_id": "13804.732",
+        "lang": "bg",
+        "refcode": "Дa 85.5"
+      },
+      {
+        "para_id": "11590.931",
+        "lang": "ce",
+        "refcode": "ABA 189.1"
+      },
+      {
+        "para_id": "11247.887",
+        "lang": "cs",
+        "refcode": "PNL 128.1"
+      },
+      {
+        "para_id": "813.966",
+        "lang": "de",
+        "refcode": "WA 221.1"
+      },
+      {
+        "para_id": "198.921",
+        "lang": "es",
+        "refcode": "HAp 180.1"
+      },
+      {
+        "para_id": "158.921",
+        "lang": "fr",
+        "refcode": "CP 197.1"
+      },
+      {
+        "para_id": "11938.847",
+        "lang": "hu",
+        "refcode": "AT 147.1"
+      },
+      {
+        "para_id": "12410.902",
+        "lang": "id",
+        "refcode": "KR 187.1"
+      },
+      {
+        "para_id": "882.843",
+        "lang": "it",
+        "refcode": "UVI 138.1"
+      },
+      {
+        "para_id": "11660.1075",
+        "lang": "ja",
+        "refcode": "AAJ 237.2"
+      },
+      {
+        "para_id": "12335.812",
+        "lang": "nb",
+        "refcode": "AV 129.1"
+      },
+      {
+        "para_id": "12008.763",
+        "lang": "pl",
+        "refcode": "DA 121.1"
+      },
+      {
+        "para_id": "1806.805",
+        "lang": "pt",
+        "refcode": "AA 118.1"
+      },
+      {
+        "para_id": "2013.961",
+        "lang": "ro",
+        "refcode": "FA 221.1"
+      },
+      {
+        "para_id": "1785.940",
+        "lang": "ru",
+        "refcode": "ДА 221.1"
+      },
+      {
+        "para_id": "13874.817",
+        "lang": "rw",
+        "refcode": "INI 139.1"
+      },
+      {
+        "para_id": "11182.801",
+        "lang": "sk",
+        "refcode": "SA 135.1"
+      },
+      {
+        "para_id": "11904.876",
+        "lang": "tl",
+        "refcode": "AGA 168.1"
+      },
+      {
+        "para_id": "11875.850",
+        "lang": "uk",
+        "refcode": "ДА 152.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.974",
+    "id_prev": "127.973",
+    "id_next": "127.977",
+    "refcode_1": "AA",
+    "refcode_2": "221",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 221.2",
+    "refcode_long": "The Acts of the Apostles, p. 221.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In preaching to the Thessalonians, Paul appealed to the Old Testament prophecies concerning the Messiah. Christ in His ministry had opened the minds of His disciples to these prophecies; &ldquo;beginning at Moses and all the prophets, He expounded unto them in all the Scriptures the things concerning Himself.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Luke 24:27\" data-link=\"1965.53078\">Luke 24:27</span>. Peter in preaching Christ had produced his evidence from the Old Testament. Stephen had pursued the same course. And Paul also in his ministry appealed to the scriptures foretelling the birth, sufferings, <span class=\"page-break\" data-page=\"222\"></span> death, resurrection, and ascension of Christ. By the inspired testimony of Moses and the prophets he clearly proved the identity of Jesus of Nazareth with the Messiah and showed that from the days of Adam it was the voice of Christ which had been speaking through patriarchs and prophets.",
+    "puborder": 614,
+    "translations": [
+      {
+        "para_id": "13804.733",
+        "lang": "bg",
+        "refcode": "Дa 85.6"
+      },
+      {
+        "para_id": "11590.932",
+        "lang": "ce",
+        "refcode": "ABA 189.2"
+      },
+      {
+        "para_id": "11247.889",
+        "lang": "cs",
+        "refcode": "PNL 128.2"
+      },
+      {
+        "para_id": "813.967",
+        "lang": "de",
+        "refcode": "WA 221.2"
+      },
+      {
+        "para_id": "813.968",
+        "lang": "de",
+        "refcode": "WA 221.3"
+      },
+      {
+        "para_id": "198.922",
+        "lang": "es",
+        "refcode": "HAp 180.2"
+      },
+      {
+        "para_id": "158.922",
+        "lang": "fr",
+        "refcode": "CP 197.2"
+      },
+      {
+        "para_id": "11938.848",
+        "lang": "hu",
+        "refcode": "AT 147.2"
+      },
+      {
+        "para_id": "12410.903",
+        "lang": "id",
+        "refcode": "KR 187.2"
+      },
+      {
+        "para_id": "882.844",
+        "lang": "it",
+        "refcode": "UVI 138.2"
+      },
+      {
+        "para_id": "11660.1076",
+        "lang": "ja",
+        "refcode": "AAJ 237.3"
+      },
+      {
+        "para_id": "12335.813",
+        "lang": "nb",
+        "refcode": "AV 129.2"
+      },
+      {
+        "para_id": "12008.764",
+        "lang": "pl",
+        "refcode": "DA 121.2"
+      },
+      {
+        "para_id": "1806.806",
+        "lang": "pt",
+        "refcode": "AA 118.2"
+      },
+      {
+        "para_id": "2013.962",
+        "lang": "ro",
+        "refcode": "FA 221.2"
+      },
+      {
+        "para_id": "1785.941",
+        "lang": "ru",
+        "refcode": "ДА 221.2"
+      },
+      {
+        "para_id": "13874.818",
+        "lang": "rw",
+        "refcode": "INI 139.2"
+      },
+      {
+        "para_id": "11182.802",
+        "lang": "sk",
+        "refcode": "SA 135.2"
+      },
+      {
+        "para_id": "11904.877",
+        "lang": "tl",
+        "refcode": "AGA 168.2"
+      },
+      {
+        "para_id": "11875.851",
+        "lang": "uk",
+        "refcode": "ДА 152.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.977",
+    "id_prev": "127.974",
+    "id_next": "127.978",
+    "refcode_1": "AA",
+    "refcode_2": "222",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 222.1",
+    "refcode_long": "The Acts of the Apostles, p. 222.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Plain and specific prophecies had been given regarding the appearance of the Promised One. To Adam was given an assurance of the coming of the Redeemer. The sentence pronounced on Satan, &ldquo;I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"Genesis 3:15\" data-link=\"1965.147\">Genesis 3:15</span>), was to our first parents a promise of the redemption to be wrought out through Christ.",
+    "puborder": 615,
+    "translations": [
+      {
+        "para_id": "13804.734",
+        "lang": "bg",
+        "refcode": "Дa 85.7"
+      },
+      {
+        "para_id": "11590.933",
+        "lang": "ce",
+        "refcode": "ABA 189.3"
+      },
+      {
+        "para_id": "11247.890",
+        "lang": "cs",
+        "refcode": "PNL 128.3"
+      },
+      {
+        "para_id": "813.970",
+        "lang": "de",
+        "refcode": "WA 222.1"
+      },
+      {
+        "para_id": "198.923",
+        "lang": "es",
+        "refcode": "HAp 180.3"
+      },
+      {
+        "para_id": "158.922",
+        "lang": "fr",
+        "refcode": "CP 197.2"
+      },
+      {
+        "para_id": "11938.849",
+        "lang": "hu",
+        "refcode": "AT 147.3"
+      },
+      {
+        "para_id": "12410.906",
+        "lang": "id",
+        "refcode": "KR 188.1"
+      },
+      {
+        "para_id": "882.845",
+        "lang": "it",
+        "refcode": "UVI 138.3"
+      },
+      {
+        "para_id": "11660.1079",
+        "lang": "ja",
+        "refcode": "AAJ 238.1"
+      },
+      {
+        "para_id": "12335.814",
+        "lang": "nb",
+        "refcode": "AV 129.3"
+      },
+      {
+        "para_id": "12008.765",
+        "lang": "pl",
+        "refcode": "DA 121.3"
+      },
+      {
+        "para_id": "1806.808",
+        "lang": "pt",
+        "refcode": "AA 119"
+      },
+      {
+        "para_id": "2013.965",
+        "lang": "ro",
+        "refcode": "FA 222.1"
+      },
+      {
+        "para_id": "1785.944",
+        "lang": "ru",
+        "refcode": "ДА 222.1"
+      },
+      {
+        "para_id": "13874.819",
+        "lang": "rw",
+        "refcode": "INI 139.3"
+      },
+      {
+        "para_id": "11182.803",
+        "lang": "sk",
+        "refcode": "SA 135.3"
+      },
+      {
+        "para_id": "11904.878",
+        "lang": "tl",
+        "refcode": "AGA 168.3"
+      },
+      {
+        "para_id": "11875.852",
+        "lang": "uk",
+        "refcode": "ДА 152.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.978",
+    "id_prev": "127.977",
+    "id_next": "127.979",
+    "refcode_1": "AA",
+    "refcode_2": "222",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 222.2",
+    "refcode_long": "The Acts of the Apostles, p. 222.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To Abraham was given the promise that of his line the Saviour of the world should come: &ldquo;In thy seed shall all the nations of the earth be blessed.&rdquo; &ldquo;He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Genesis 22:18\" data-link=\"1965.1156\">Genesis 22:18</span>; <span class=\"egwlink egwlink_bible\" title=\"Galatians 3:16\" data-link=\"1965.59381\">Galatians 3:16</span>.",
+    "puborder": 616,
+    "translations": [
+      {
+        "para_id": "13804.737",
+        "lang": "bg",
+        "refcode": "Дa 86.1"
+      },
+      {
+        "para_id": "11590.936",
+        "lang": "ce",
+        "refcode": "ABA 190.1"
+      },
+      {
+        "para_id": "11247.891",
+        "lang": "cs",
+        "refcode": "PNL 128.4"
+      },
+      {
+        "para_id": "813.971",
+        "lang": "de",
+        "refcode": "WA 222.2"
+      },
+      {
+        "para_id": "198.925",
+        "lang": "es",
+        "refcode": "HAp 181.1"
+      },
+      {
+        "para_id": "158.925",
+        "lang": "fr",
+        "refcode": "CP 198.1"
+      },
+      {
+        "para_id": "11938.850",
+        "lang": "hu",
+        "refcode": "AT 147.4"
+      },
+      {
+        "para_id": "12410.907",
+        "lang": "id",
+        "refcode": "KR 188.2"
+      },
+      {
+        "para_id": "882.846",
+        "lang": "it",
+        "refcode": "UVI 138.4"
+      },
+      {
+        "para_id": "11660.1080",
+        "lang": "ja",
+        "refcode": "AAJ 238.2"
+      },
+      {
+        "para_id": "12335.815",
+        "lang": "nb",
+        "refcode": "AV 129.4"
+      },
+      {
+        "para_id": "12008.766",
+        "lang": "pl",
+        "refcode": "DA 121.4"
+      },
+      {
+        "para_id": "1806.808",
+        "lang": "pt",
+        "refcode": "AA 119"
+      },
+      {
+        "para_id": "2013.966",
+        "lang": "ro",
+        "refcode": "FA 222.2"
+      },
+      {
+        "para_id": "1785.945",
+        "lang": "ru",
+        "refcode": "ДА 222.2"
+      },
+      {
+        "para_id": "13874.820",
+        "lang": "rw",
+        "refcode": "INI 139.4"
+      },
+      {
+        "para_id": "11182.804",
+        "lang": "sk",
+        "refcode": "SA 135.4"
+      },
+      {
+        "para_id": "11904.879",
+        "lang": "tl",
+        "refcode": "AGA 168.4"
+      },
+      {
+        "para_id": "11875.855",
+        "lang": "uk",
+        "refcode": "ДА 153.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.979",
+    "id_prev": "127.978",
+    "id_next": "127.981",
+    "refcode_1": "AA",
+    "refcode_2": "222",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 222.3",
+    "refcode_long": "The Acts of the Apostles, p. 222.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Moses, near the close of his work as a leader and teacher of Israel, plainly prophesied of the Messiah to come. &ldquo;The Lord thy God,&rdquo; he declared to the assembled hosts of Israel, &ldquo;will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto Him ye shall hearken.&rdquo; And Moses assured the Israelites that God Himself had revealed this to him while in Mount Horeb, saying, &ldquo;I will raise them up a Prophet from among their brethren, like unto thee, and will put My words in His mouth; and He shall speak unto them all that I shall command Him.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Deuteronomy 18:15\" data-link=\"1965.10977\">Deuteronomy 18:15, 18</span>.",
+    "puborder": 617,
+    "translations": [
+      {
+        "para_id": "13804.738",
+        "lang": "bg",
+        "refcode": "Дa 86.2"
+      },
+      {
+        "para_id": "11590.937",
+        "lang": "ce",
+        "refcode": "ABA 190.2"
+      },
+      {
+        "para_id": "11247.892",
+        "lang": "cs",
+        "refcode": "PNL 128.5"
+      },
+      {
+        "para_id": "813.972",
+        "lang": "de",
+        "refcode": "WA 222.3"
+      },
+      {
+        "para_id": "198.926",
+        "lang": "es",
+        "refcode": "HAp 181.2"
+      },
+      {
+        "para_id": "158.926",
+        "lang": "fr",
+        "refcode": "CP 198.2"
+      },
+      {
+        "para_id": "11938.851",
+        "lang": "hu",
+        "refcode": "AT 147.5"
+      },
+      {
+        "para_id": "12410.908",
+        "lang": "id",
+        "refcode": "KR 188.3"
+      },
+      {
+        "para_id": "882.847",
+        "lang": "it",
+        "refcode": "UVI 138.5"
+      },
+      {
+        "para_id": "11660.1081",
+        "lang": "ja",
+        "refcode": "AAJ 238.3"
+      },
+      {
+        "para_id": "12335.816",
+        "lang": "nb",
+        "refcode": "AV 129.5"
+      },
+      {
+        "para_id": "12008.767",
+        "lang": "pl",
+        "refcode": "DA 121.5"
+      },
+      {
+        "para_id": "1806.809",
+        "lang": "pt",
+        "refcode": "AA 119.1"
+      },
+      {
+        "para_id": "2013.967",
+        "lang": "ro",
+        "refcode": "FA 222.3"
+      },
+      {
+        "para_id": "1785.946",
+        "lang": "ru",
+        "refcode": "ДА 222.3"
+      },
+      {
+        "para_id": "13874.821",
+        "lang": "rw",
+        "refcode": "INI 139.5"
+      },
+      {
+        "para_id": "11182.805",
+        "lang": "sk",
+        "refcode": "SA 135.5"
+      },
+      {
+        "para_id": "11904.882",
+        "lang": "tl",
+        "refcode": "AGA 169.1"
+      },
+      {
+        "para_id": "11875.856",
+        "lang": "uk",
+        "refcode": "ДА 153.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.981",
+    "id_prev": "127.979",
+    "id_next": "127.982",
+    "refcode_1": "AA",
+    "refcode_2": "223",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 223.1",
+    "refcode_long": "The Acts of the Apostles, p. 223.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Messiah was to be of the royal line, for in the prophecy uttered by Jacob the Lord said, &ldquo;The scepter shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto Him shall the gathering of the people be.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Genesis 49:10\" data-link=\"1965.3019\">Genesis 49:10</span>.",
+    "puborder": 618,
+    "translations": [
+      {
+        "para_id": "13804.739",
+        "lang": "bg",
+        "refcode": "Дa 86.3"
+      },
+      {
+        "para_id": "11590.938",
+        "lang": "ce",
+        "refcode": "ABA 190.3"
+      },
+      {
+        "para_id": "11247.895",
+        "lang": "cs",
+        "refcode": "PNL 129.1"
+      },
+      {
+        "para_id": "813.973",
+        "lang": "de",
+        "refcode": "WA 222.4"
+      },
+      {
+        "para_id": "198.927",
+        "lang": "es",
+        "refcode": "HAp 181.3"
+      },
+      {
+        "para_id": "158.927",
+        "lang": "fr",
+        "refcode": "CP 198.3"
+      },
+      {
+        "para_id": "11938.854",
+        "lang": "hu",
+        "refcode": "AT 148.1"
+      },
+      {
+        "para_id": "12410.909",
+        "lang": "id",
+        "refcode": "KR 188.4"
+      },
+      {
+        "para_id": "882.850",
+        "lang": "it",
+        "refcode": "UVI 139.1"
+      },
+      {
+        "para_id": "11660.1084",
+        "lang": "ja",
+        "refcode": "AAJ 239.1"
+      },
+      {
+        "para_id": "12335.819",
+        "lang": "nb",
+        "refcode": "AV 130.1"
+      },
+      {
+        "para_id": "12008.770",
+        "lang": "pl",
+        "refcode": "DA 122.1"
+      },
+      {
+        "para_id": "1806.811",
+        "lang": "pt",
+        "refcode": "AA 119.3"
+      },
+      {
+        "para_id": "2013.969",
+        "lang": "ro",
+        "refcode": "FA 223.1"
+      },
+      {
+        "para_id": "1785.948",
+        "lang": "ru",
+        "refcode": "ДА 223.1"
+      },
+      {
+        "para_id": "13874.824",
+        "lang": "rw",
+        "refcode": "INI 140.1"
+      },
+      {
+        "para_id": "11182.808",
+        "lang": "sk",
+        "refcode": "SA 136.1"
+      },
+      {
+        "para_id": "11904.883",
+        "lang": "tl",
+        "refcode": "AGA 169.2"
+      },
+      {
+        "para_id": "11875.857",
+        "lang": "uk",
+        "refcode": "ДА 153.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.982",
+    "id_prev": "127.981",
+    "id_next": "127.983",
+    "refcode_1": "AA",
+    "refcode_2": "223",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 223.2",
+    "refcode_long": "The Acts of the Apostles, p. 223.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Isaiah prophesied: &ldquo;There shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots.&rdquo; &ldquo;Incline your ear, and come unto Me: hear, and your soul shall live; and I will make an everlasting covenant with you, even the sure mercies of David. Behold, I have given Him for a witness to the people, a leader and commander to the people. Behold, thou shalt call a nation that thou knowest not, and nations that knew not thee shall run unto thee because of the Lord thy God, and for the Holy One of Israel; for He hath glorified thee.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 11:1\" data-link=\"1965.36486\">Isaiah 11:1</span>; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 55:3\" data-link=\"1965.38246\">55:3-5</span>.",
+    "puborder": 619,
+    "translations": [
+      {
+        "para_id": "13804.740",
+        "lang": "bg",
+        "refcode": "Дa 86.4"
+      },
+      {
+        "para_id": "11590.939",
+        "lang": "ce",
+        "refcode": "ABA 190.4"
+      },
+      {
+        "para_id": "11247.896",
+        "lang": "cs",
+        "refcode": "PNL 129.2"
+      },
+      {
+        "para_id": "813.974",
+        "lang": "de",
+        "refcode": "WA 222.5"
+      },
+      {
+        "para_id": "198.928",
+        "lang": "es",
+        "refcode": "HAp 181.4"
+      },
+      {
+        "para_id": "158.927",
+        "lang": "fr",
+        "refcode": "CP 198.3"
+      },
+      {
+        "para_id": "11938.855",
+        "lang": "hu",
+        "refcode": "AT 148.2"
+      },
+      {
+        "para_id": "12410.910",
+        "lang": "id",
+        "refcode": "KR 188.5"
+      },
+      {
+        "para_id": "882.851",
+        "lang": "it",
+        "refcode": "UVI 139.2"
+      },
+      {
+        "para_id": "11660.1085",
+        "lang": "ja",
+        "refcode": "AAJ 239.2"
+      },
+      {
+        "para_id": "12335.820",
+        "lang": "nb",
+        "refcode": "AV 130.2"
+      },
+      {
+        "para_id": "12008.771",
+        "lang": "pl",
+        "refcode": "DA 122.2"
+      },
+      {
+        "para_id": "1806.812",
+        "lang": "pt",
+        "refcode": "AA 119.4"
+      },
+      {
+        "para_id": "2013.970",
+        "lang": "ro",
+        "refcode": "FA 223.2"
+      },
+      {
+        "para_id": "1785.949",
+        "lang": "ru",
+        "refcode": "ДА 223.2"
+      },
+      {
+        "para_id": "13874.825",
+        "lang": "rw",
+        "refcode": "INI 140.2"
+      },
+      {
+        "para_id": "11182.809",
+        "lang": "sk",
+        "refcode": "SA 136.2"
+      },
+      {
+        "para_id": "11904.884",
+        "lang": "tl",
+        "refcode": "AGA 169.3"
+      },
+      {
+        "para_id": "11875.858",
+        "lang": "uk",
+        "refcode": "ДА 153.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.983",
+    "id_prev": "127.982",
+    "id_next": "127.984",
+    "refcode_1": "AA",
+    "refcode_2": "223",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 223.3",
+    "refcode_long": "The Acts of the Apostles, p. 223.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Jeremiah also bore witness of the coming Redeemer as a Prince of the house of David: &ldquo;Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth. In His days Judah shall be saved, and Israel shall dwell safely: and this is His name whereby He shall be called, The Lord Our Righteousness.&rdquo; And again: &ldquo;Thus saith the Lord: David shall never want a man to sit upon the throne of the house of Israel; neither shall the priests the Levites want a man before Me to offer burnt offerings, and to kindle meat offerings, and to do sacrifice continually.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Jeremiah 23:5\" data-link=\"1965.39773\">Jeremiah 23:5, 6</span>; <span class=\"egwlink egwlink_bible\" title=\"Jeremiah 33:17\" data-link=\"1965.40389\">33:17, 18</span>.",
+    "puborder": 620,
+    "translations": [
+      {
+        "para_id": "13804.741",
+        "lang": "bg",
+        "refcode": "Дa 86.5"
+      },
+      {
+        "para_id": "11590.940",
+        "lang": "ce",
+        "refcode": "ABA 190.5"
+      },
+      {
+        "para_id": "11247.897",
+        "lang": "cs",
+        "refcode": "PNL 129.3"
+      },
+      {
+        "para_id": "813.977",
+        "lang": "de",
+        "refcode": "WA 223.1"
+      },
+      {
+        "para_id": "198.929",
+        "lang": "es",
+        "refcode": "HAp 181.5"
+      },
+      {
+        "para_id": "158.930",
+        "lang": "fr",
+        "refcode": "CP 199.1"
+      },
+      {
+        "para_id": "11938.856",
+        "lang": "hu",
+        "refcode": "AT 148.3"
+      },
+      {
+        "para_id": "12410.913",
+        "lang": "id",
+        "refcode": "KR 189.1"
+      },
+      {
+        "para_id": "882.852",
+        "lang": "it",
+        "refcode": "UVI 139.3"
+      },
+      {
+        "para_id": "11660.1086",
+        "lang": "ja",
+        "refcode": "AAJ 239.3"
+      },
+      {
+        "para_id": "12335.821",
+        "lang": "nb",
+        "refcode": "AV 130.3"
+      },
+      {
+        "para_id": "12008.772",
+        "lang": "pl",
+        "refcode": "DA 122.3"
+      },
+      {
+        "para_id": "1806.813",
+        "lang": "pt",
+        "refcode": "AA 119.5"
+      },
+      {
+        "para_id": "2013.971",
+        "lang": "ro",
+        "refcode": "FA 223.3"
+      },
+      {
+        "para_id": "1785.950",
+        "lang": "ru",
+        "refcode": "ДА 223.3"
+      },
+      {
+        "para_id": "13874.826",
+        "lang": "rw",
+        "refcode": "INI 140.3"
+      },
+      {
+        "para_id": "11182.810",
+        "lang": "sk",
+        "refcode": "SA 136.3"
+      },
+      {
+        "para_id": "11904.885",
+        "lang": "tl",
+        "refcode": "AGA 169.4"
+      },
+      {
+        "para_id": "11875.859",
+        "lang": "uk",
+        "refcode": "ДА 153.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.984",
+    "id_prev": "127.983",
+    "id_next": "127.987",
+    "refcode_1": "AA",
+    "refcode_2": "223",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 223.4",
+    "refcode_long": "The Acts of the Apostles, p. 223.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Even the birthplace of the Messiah was foretold: &ldquo;Thou, Bethlehem Ephratah, though thou be little among the thousands <span class=\"page-break\" data-page=\"224\"></span> of Judah, yet out of thee shall He come forth unto Me that is to be Ruler in Israel; whose goings forth have been from of old, from everlasting.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Micah 5:2\" data-link=\"1965.46204\">Micah 5:2</span>.",
+    "puborder": 621,
+    "translations": [
+      {
+        "para_id": "13804.742",
+        "lang": "bg",
+        "refcode": "Дa 86.6"
+      },
+      {
+        "para_id": "11590.943",
+        "lang": "ce",
+        "refcode": "ABA 191.1"
+      },
+      {
+        "para_id": "11247.900",
+        "lang": "cs",
+        "refcode": "PNL 130.1"
+      },
+      {
+        "para_id": "813.978",
+        "lang": "de",
+        "refcode": "WA 223.2"
+      },
+      {
+        "para_id": "198.932",
+        "lang": "es",
+        "refcode": "HAp 182.1"
+      },
+      {
+        "para_id": "158.931",
+        "lang": "fr",
+        "refcode": "CP 199.2"
+      },
+      {
+        "para_id": "11938.857",
+        "lang": "hu",
+        "refcode": "AT 148.4"
+      },
+      {
+        "para_id": "12410.914",
+        "lang": "id",
+        "refcode": "KR 189.2"
+      },
+      {
+        "para_id": "882.853",
+        "lang": "it",
+        "refcode": "UVI 139.4"
+      },
+      {
+        "para_id": "11660.1089",
+        "lang": "ja",
+        "refcode": "AAJ 240.1"
+      },
+      {
+        "para_id": "12335.822",
+        "lang": "nb",
+        "refcode": "AV 130.4"
+      },
+      {
+        "para_id": "12008.773",
+        "lang": "pl",
+        "refcode": "DA 122.4"
+      },
+      {
+        "para_id": "1806.814",
+        "lang": "pt",
+        "refcode": "AA 119.6"
+      },
+      {
+        "para_id": "2013.972",
+        "lang": "ro",
+        "refcode": "FA 223.4"
+      },
+      {
+        "para_id": "1785.952",
+        "lang": "ru",
+        "refcode": "ДА 224.1"
+      },
+      {
+        "para_id": "13874.827",
+        "lang": "rw",
+        "refcode": "INI 140.4"
+      },
+      {
+        "para_id": "11182.811",
+        "lang": "sk",
+        "refcode": "SA 136.4"
+      },
+      {
+        "para_id": "11904.888",
+        "lang": "tl",
+        "refcode": "AGA 170.1"
+      },
+      {
+        "para_id": "11875.862",
+        "lang": "uk",
+        "refcode": "ДА 154.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.987",
+    "id_prev": "127.984",
+    "id_next": "127.988",
+    "refcode_1": "AA",
+    "refcode_2": "224",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 224.1",
+    "refcode_long": "The Acts of the Apostles, p. 224.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The work that the Saviour was to do on the earth had been fully outlined: &ldquo;The Spirit of the Lord shall rest upon Him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord; and shall make Him of quick understanding in the fear of the Lord.&rdquo; The One thus anointed was &ldquo;to preach good tidings unto the meek; ... to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound; to proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn; to appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that He might be glorified.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 11:2\" data-link=\"1965.36488\">Isaiah 11:2, 3</span>; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 61:1\" data-link=\"1965.38454\">61:1-3</span>.",
+    "puborder": 622,
+    "translations": [
+      {
+        "para_id": "13804.743",
+        "lang": "bg",
+        "refcode": "Дa 86.7"
+      },
+      {
+        "para_id": "11590.944",
+        "lang": "ce",
+        "refcode": "ABA 191.2"
+      },
+      {
+        "para_id": "11247.901",
+        "lang": "cs",
+        "refcode": "PNL 130.2"
+      },
+      {
+        "para_id": "813.979",
+        "lang": "de",
+        "refcode": "WA 223.3"
+      },
+      {
+        "para_id": "198.933",
+        "lang": "es",
+        "refcode": "HAp 182.2"
+      },
+      {
+        "para_id": "158.932",
+        "lang": "fr",
+        "refcode": "CP 199.3"
+      },
+      {
+        "para_id": "11938.858",
+        "lang": "hu",
+        "refcode": "AT 148.5"
+      },
+      {
+        "para_id": "12410.915",
+        "lang": "id",
+        "refcode": "KR 189.3"
+      },
+      {
+        "para_id": "882.854",
+        "lang": "it",
+        "refcode": "UVI 139.5"
+      },
+      {
+        "para_id": "11660.1090",
+        "lang": "ja",
+        "refcode": "AAJ 240.2"
+      },
+      {
+        "para_id": "12335.823",
+        "lang": "nb",
+        "refcode": "AV 130.5"
+      },
+      {
+        "para_id": "12008.774",
+        "lang": "pl",
+        "refcode": "DA 122.5"
+      },
+      {
+        "para_id": "1806.815",
+        "lang": "pt",
+        "refcode": "AA 119.7"
+      },
+      {
+        "para_id": "2013.975",
+        "lang": "ro",
+        "refcode": "FA 224.1"
+      },
+      {
+        "para_id": "1785.953",
+        "lang": "ru",
+        "refcode": "ДА 224.2"
+      },
+      {
+        "para_id": "13874.828",
+        "lang": "rw",
+        "refcode": "INI 140.5"
+      },
+      {
+        "para_id": "11182.812",
+        "lang": "sk",
+        "refcode": "SA 136.5"
+      },
+      {
+        "para_id": "11904.889",
+        "lang": "tl",
+        "refcode": "AGA 170.2"
+      },
+      {
+        "para_id": "11875.863",
+        "lang": "uk",
+        "refcode": "ДА 154.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.988",
+    "id_prev": "127.987",
+    "id_next": "127.990",
+    "refcode_1": "AA",
+    "refcode_2": "224",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 224.2",
+    "refcode_long": "The Acts of the Apostles, p. 224.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Behold My servant, whom I uphold; Mine elect, in whom My soul delighteth; I have put My Spirit upon Him: He shall bring forth judgment to the Gentiles. He shall not cry, nor lift up, nor cause His voice to be heard in the street. A bruised reed shall He not break, and the smoking flax shall He not quench: He shall bring forth judgment unto truth. He shall not fail nor be discouraged, till He have set judgment in the earth: and the isles shall wait for His law.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 42:1\" data-link=\"1965.37709\">Isaiah 42:1-4</span>.",
+    "puborder": 623,
+    "translations": [
+      {
+        "para_id": "13804.744",
+        "lang": "bg",
+        "refcode": "Дa 86.8"
+      },
+      {
+        "para_id": "11590.945",
+        "lang": "ce",
+        "refcode": "ABA 191.3"
+      },
+      {
+        "para_id": "11247.902",
+        "lang": "cs",
+        "refcode": "PNL 130.3"
+      },
+      {
+        "para_id": "813.982",
+        "lang": "de",
+        "refcode": "WA 224.1"
+      },
+      {
+        "para_id": "198.934",
+        "lang": "es",
+        "refcode": "HAp 182.3"
+      },
+      {
+        "para_id": "158.935",
+        "lang": "fr",
+        "refcode": "CP 200.1"
+      },
+      {
+        "para_id": "11938.861",
+        "lang": "hu",
+        "refcode": "AT 149.1"
+      },
+      {
+        "para_id": "12410.918",
+        "lang": "id",
+        "refcode": "KR 190.1"
+      },
+      {
+        "para_id": "882.857",
+        "lang": "it",
+        "refcode": "UVI 140.1"
+      },
+      {
+        "para_id": "11660.1091",
+        "lang": "ja",
+        "refcode": "AAJ 240.3"
+      },
+      {
+        "para_id": "12335.824",
+        "lang": "nb",
+        "refcode": "AV 130.6"
+      },
+      {
+        "para_id": "12008.774",
+        "lang": "pl",
+        "refcode": "DA 122.5"
+      },
+      {
+        "para_id": "1806.815",
+        "lang": "pt",
+        "refcode": "AA 119.7"
+      },
+      {
+        "para_id": "2013.976",
+        "lang": "ro",
+        "refcode": "FA 224.2"
+      },
+      {
+        "para_id": "1785.954",
+        "lang": "ru",
+        "refcode": "ДА 224.3"
+      },
+      {
+        "para_id": "13874.830",
+        "lang": "rw",
+        "refcode": "INI 141.1"
+      },
+      {
+        "para_id": "11182.815",
+        "lang": "sk",
+        "refcode": "SA 137.1"
+      },
+      {
+        "para_id": "11904.890",
+        "lang": "tl",
+        "refcode": "AGA 170.3"
+      },
+      {
+        "para_id": "11875.864",
+        "lang": "uk",
+        "refcode": "ДА 154.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.990",
+    "id_prev": "127.988",
+    "id_next": "127.991",
+    "refcode_1": "AA",
+    "refcode_2": "225",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 225.1",
+    "refcode_long": "The Acts of the Apostles, p. 225.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "With convincing power Paul reasoned from the Old Testament Scriptures that &ldquo;Christ must needs have suffered, and risen again from the dead.&rdquo; Had not Micah prophesied, &ldquo;They shall smite the Judge of Israel with a rod upon the cheek&rdquo;? <span class=\"egwlink egwlink_bible\" title=\"Micah 5:1\" data-link=\"1965.46202\">Micah 5:1</span>. And had not the Promised One, through Isaiah, prophesied of Himself, &ldquo;I gave My back to the smiters, and My cheeks to them that plucked off the hair: I hid not My face from shame and spitting&rdquo;? <span class=\"egwlink egwlink_bible\" title=\"Isaiah 50:6\" data-link=\"1965.38091\">Isaiah 50:6</span>. Through the psalmist Christ had foretold the treatment that He should receive from men: &ldquo;I am ... a reproach of men, and despised of the people. All they that see Me laugh Me to scorn: they shoot out the lip, they shake the head, saying, He trusted on the Lord that He would deliver Him: let Him deliver Him, seeing He delighted in Him.&rdquo; &ldquo;I may tell all My bones: they look and stare upon Me. They part My garments among them, and cast lots upon My vesture.&rdquo; &ldquo;I am become a stranger unto My brethren, and an alien unto My mother&apos;s children. For the zeal of Thine house hath eaten Me up; and the reproaches of them that reproached Thee are fallen upon Me.&rdquo; &ldquo;Reproach hath broken My heart; and I am full of heaviness: and I looked for some to take pity, but there was none; and for comforters, but I found none.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Psalm 22:6\" data-link=\"1965.28942\">Psalm 22:6-8, 17, 18</span>; <span class=\"egwlink egwlink_bible\" title=\"Psalm 69:8\" data-link=\"1965.30455\">69:8, 9, 20</span>.",
+    "puborder": 624,
+    "translations": [
+      {
+        "para_id": "13804.747",
+        "lang": "bg",
+        "refcode": "Дa 87.1"
+      },
+      {
+        "para_id": "11590.948",
+        "lang": "ce",
+        "refcode": "ABA 192.1"
+      },
+      {
+        "para_id": "11247.903",
+        "lang": "cs",
+        "refcode": "PNL 130.4"
+      },
+      {
+        "para_id": "813.983",
+        "lang": "de",
+        "refcode": "WA 224.2"
+      },
+      {
+        "para_id": "198.935",
+        "lang": "es",
+        "refcode": "HAp 182.4"
+      },
+      {
+        "para_id": "158.937",
+        "lang": "fr",
+        "refcode": "CP 200.3"
+      },
+      {
+        "para_id": "158.936",
+        "lang": "fr",
+        "refcode": "CP 200.2"
+      },
+      {
+        "para_id": "11938.862",
+        "lang": "hu",
+        "refcode": "AT 149.2"
+      },
+      {
+        "para_id": "12410.920",
+        "lang": "id",
+        "refcode": "KR 190.3"
+      },
+      {
+        "para_id": "12410.919",
+        "lang": "id",
+        "refcode": "KR 190.2"
+      },
+      {
+        "para_id": "882.858",
+        "lang": "it",
+        "refcode": "UVI 140.2"
+      },
+      {
+        "para_id": "11660.1094",
+        "lang": "ja",
+        "refcode": "AAJ 241.1"
+      },
+      {
+        "para_id": "12335.827",
+        "lang": "nb",
+        "refcode": "AV 131.1"
+      },
+      {
+        "para_id": "12008.777",
+        "lang": "pl",
+        "refcode": "DA 123.1"
+      },
+      {
+        "para_id": "1806.818",
+        "lang": "pt",
+        "refcode": "AA 120.1"
+      },
+      {
+        "para_id": "2013.978",
+        "lang": "ro",
+        "refcode": "FA 225.1"
+      },
+      {
+        "para_id": "1785.956",
+        "lang": "ru",
+        "refcode": "ДА 225.1"
+      },
+      {
+        "para_id": "13874.831",
+        "lang": "rw",
+        "refcode": "INI 141.2"
+      },
+      {
+        "para_id": "11182.816",
+        "lang": "sk",
+        "refcode": "SA 137.2"
+      },
+      {
+        "para_id": "11904.891",
+        "lang": "tl",
+        "refcode": "AGA 170.4"
+      },
+      {
+        "para_id": "11875.865",
+        "lang": "uk",
+        "refcode": "ДА 154.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.991",
+    "id_prev": "127.990",
+    "id_next": "127.994",
+    "refcode_1": "AA",
+    "refcode_2": "225",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 225.2",
+    "refcode_long": "The Acts of the Apostles, p. 225.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "How unmistakably plain were Isaiah&apos;s prophecies of Christ&apos;s sufferings and death! &ldquo;Who hath believed our report?&rdquo; the prophet inquires, &ldquo;and to whom is the arm of the Lord revealed? For He shall grow up before Him as a <span class=\"page-break\" data-page=\"226\"></span> tender plant, and as a root out of a dry ground: He hath no form nor comeliness; and when we shall see Him, there is no beauty that we should desire Him. He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from Him; He was despised, and we esteemed Him not.",
+    "puborder": 625,
+    "translations": [
+      {
+        "para_id": "13804.748",
+        "lang": "bg",
+        "refcode": "Дa 87.2"
+      },
+      {
+        "para_id": "11590.949",
+        "lang": "ce",
+        "refcode": "ABA 192.2"
+      },
+      {
+        "para_id": "11247.905",
+        "lang": "cs",
+        "refcode": "PNL 131.1"
+      },
+      {
+        "para_id": "813.986",
+        "lang": "de",
+        "refcode": "WA 225.1"
+      },
+      {
+        "para_id": "198.938",
+        "lang": "es",
+        "refcode": "HAp 183.1"
+      },
+      {
+        "para_id": "158.938",
+        "lang": "fr",
+        "refcode": "CP 200.4"
+      },
+      {
+        "para_id": "11938.863",
+        "lang": "hu",
+        "refcode": "AT 149.3"
+      },
+      {
+        "para_id": "12410.921",
+        "lang": "id",
+        "refcode": "KR 190.4"
+      },
+      {
+        "para_id": "882.859",
+        "lang": "it",
+        "refcode": "UVI 140.3"
+      },
+      {
+        "para_id": "11660.1097",
+        "lang": "ja",
+        "refcode": "AAJ 242.1"
+      },
+      {
+        "para_id": "12335.828",
+        "lang": "nb",
+        "refcode": "AV 131.2"
+      },
+      {
+        "para_id": "12008.778",
+        "lang": "pl",
+        "refcode": "DA 123.2"
+      },
+      {
+        "para_id": "1806.819",
+        "lang": "pt",
+        "refcode": "AA 120.2"
+      },
+      {
+        "para_id": "2013.979",
+        "lang": "ro",
+        "refcode": "FA 225.2"
+      },
+      {
+        "para_id": "1785.957",
+        "lang": "ru",
+        "refcode": "ДА 225.2"
+      },
+      {
+        "para_id": "13874.832",
+        "lang": "rw",
+        "refcode": "INI 141.3"
+      },
+      {
+        "para_id": "11182.817",
+        "lang": "sk",
+        "refcode": "SA 137.3"
+      },
+      {
+        "para_id": "11904.894",
+        "lang": "tl",
+        "refcode": "AGA 171.1"
+      },
+      {
+        "para_id": "11875.868",
+        "lang": "uk",
+        "refcode": "ДА 155.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.994",
+    "id_prev": "127.991",
+    "id_next": "127.995",
+    "refcode_1": "AA",
+    "refcode_2": "226",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 226.1",
+    "refcode_long": "The Acts of the Apostles, p. 226.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Surely He hath borne our griefs, and carried our sorrows: yet we did esteem Him stricken, smitten of God, and afflicted. But He was wounded for our transgressions, He was bruised for our iniquities: the chastisement of our peace was upon Him; and with His stripes we are healed.",
+    "puborder": 626,
+    "translations": [
+      {
+        "para_id": "13804.748",
+        "lang": "bg",
+        "refcode": "Дa 87.2"
+      },
+      {
+        "para_id": "11590.952",
+        "lang": "ce",
+        "refcode": "ABA 193.1"
+      },
+      {
+        "para_id": "11247.906",
+        "lang": "cs",
+        "refcode": "PNL 131.2"
+      },
+      {
+        "para_id": "813.987",
+        "lang": "de",
+        "refcode": "WA 225.2"
+      },
+      {
+        "para_id": "198.939",
+        "lang": "es",
+        "refcode": "HAp 183.2"
+      },
+      {
+        "para_id": "158.938",
+        "lang": "fr",
+        "refcode": "CP 200.4"
+      },
+      {
+        "para_id": "11938.866",
+        "lang": "hu",
+        "refcode": "AT 150.1"
+      },
+      {
+        "para_id": "12410.924",
+        "lang": "id",
+        "refcode": "KR 191.1"
+      },
+      {
+        "para_id": "882.862",
+        "lang": "it",
+        "refcode": "UVI 141.1"
+      },
+      {
+        "para_id": "11660.1098",
+        "lang": "ja",
+        "refcode": "AAJ 242.2"
+      },
+      {
+        "para_id": "12335.829",
+        "lang": "nb",
+        "refcode": "AV 131.3"
+      },
+      {
+        "para_id": "12008.778",
+        "lang": "pl",
+        "refcode": "DA 123.2"
+      },
+      {
+        "para_id": "1806.820",
+        "lang": "pt",
+        "refcode": "AA 120.3"
+      },
+      {
+        "para_id": "2013.982",
+        "lang": "ro",
+        "refcode": "FA 226.1"
+      },
+      {
+        "para_id": "1785.960",
+        "lang": "ru",
+        "refcode": "ДА 226.1"
+      },
+      {
+        "para_id": "13874.833",
+        "lang": "rw",
+        "refcode": "INI 141.4"
+      },
+      {
+        "para_id": "11182.817",
+        "lang": "sk",
+        "refcode": "SA 137.3"
+      },
+      {
+        "para_id": "11904.895",
+        "lang": "tl",
+        "refcode": "AGA 171.2"
+      },
+      {
+        "para_id": "11875.869",
+        "lang": "uk",
+        "refcode": "ДА 155.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.995",
+    "id_prev": "127.994",
+    "id_next": "127.996",
+    "refcode_1": "AA",
+    "refcode_2": "226",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 226.2",
+    "refcode_long": "The Acts of the Apostles, p. 226.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;All we like sheep have gone astray; we have turned everyone to his own way; and the Lord hath laid on Him the iniquity of us all. He was oppressed, and he was afflicted, yet He opened not His mouth: He is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so He openeth not His mouth. He was taken from prison and from judgment: and who shall declare His generation? for He was cut off out of the land of the living: for the transgression of my people was He stricken.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 53:1\" data-link=\"1965.38182\">Isaiah 53:1-8</span>.",
+    "puborder": 627,
+    "translations": [
+      {
+        "para_id": "13804.748",
+        "lang": "bg",
+        "refcode": "Дa 87.2"
+      },
+      {
+        "para_id": "11590.953",
+        "lang": "ce",
+        "refcode": "ABA 193.2"
+      },
+      {
+        "para_id": "11247.907",
+        "lang": "cs",
+        "refcode": "PNL 131.3"
+      },
+      {
+        "para_id": "813.988",
+        "lang": "de",
+        "refcode": "WA 225.3"
+      },
+      {
+        "para_id": "198.940",
+        "lang": "es",
+        "refcode": "HAp 183.3"
+      },
+      {
+        "para_id": "11938.867",
+        "lang": "hu",
+        "refcode": "AT 150.2"
+      },
+      {
+        "para_id": "12410.925",
+        "lang": "id",
+        "refcode": "KR 191.2"
+      },
+      {
+        "para_id": "882.863",
+        "lang": "it",
+        "refcode": "UVI 141.2"
+      },
+      {
+        "para_id": "11660.1099",
+        "lang": "ja",
+        "refcode": "AAJ 242.3"
+      },
+      {
+        "para_id": "12335.830",
+        "lang": "nb",
+        "refcode": "AV 131.4"
+      },
+      {
+        "para_id": "12008.778",
+        "lang": "pl",
+        "refcode": "DA 123.2"
+      },
+      {
+        "para_id": "1806.821",
+        "lang": "pt",
+        "refcode": "AA 120.4"
+      },
+      {
+        "para_id": "2013.983",
+        "lang": "ro",
+        "refcode": "FA 226.2"
+      },
+      {
+        "para_id": "1785.961",
+        "lang": "ru",
+        "refcode": "ДА 226.2"
+      },
+      {
+        "para_id": "13874.834",
+        "lang": "rw",
+        "refcode": "INI 141.5"
+      },
+      {
+        "para_id": "11182.817",
+        "lang": "sk",
+        "refcode": "SA 137.3"
+      },
+      {
+        "para_id": "11904.896",
+        "lang": "tl",
+        "refcode": "AGA 171.3"
+      },
+      {
+        "para_id": "11875.870",
+        "lang": "uk",
+        "refcode": "ДА 155.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.996",
+    "id_prev": "127.995",
+    "id_next": "127.997",
+    "refcode_1": "AA",
+    "refcode_2": "226",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 226.3",
+    "refcode_long": "The Acts of the Apostles, p. 226.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Even the manner of His death had been shadowed forth. As the brazen serpent had been uplifted in the wilderness, so was the coming Redeemer to be lifted up, &ldquo;that whosoever believeth in Him should not perish, but have everlasting life.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"John 3:16\" data-link=\"1965.53318\">John 3:16</span>.",
+    "puborder": 628,
+    "translations": [
+      {
+        "para_id": "13804.749",
+        "lang": "bg",
+        "refcode": "Дa 87.3"
+      },
+      {
+        "para_id": "11590.954",
+        "lang": "ce",
+        "refcode": "ABA 193.3"
+      },
+      {
+        "para_id": "11247.908",
+        "lang": "cs",
+        "refcode": "PNL 131.4"
+      },
+      {
+        "para_id": "813.989",
+        "lang": "de",
+        "refcode": "WA 225.4"
+      },
+      {
+        "para_id": "198.943",
+        "lang": "es",
+        "refcode": "HAp 184.1"
+      },
+      {
+        "para_id": "158.941",
+        "lang": "fr",
+        "refcode": "CP 201.1"
+      },
+      {
+        "para_id": "11938.868",
+        "lang": "hu",
+        "refcode": "AT 150.3"
+      },
+      {
+        "para_id": "12410.926",
+        "lang": "id",
+        "refcode": "KR 191.3"
+      },
+      {
+        "para_id": "882.864",
+        "lang": "it",
+        "refcode": "UVI 141.3"
+      },
+      {
+        "para_id": "11660.1101",
+        "lang": "ja",
+        "refcode": "AAJ 243.1"
+      },
+      {
+        "para_id": "12335.832",
+        "lang": "nb",
+        "refcode": "AV 132.1"
+      },
+      {
+        "para_id": "12008.779",
+        "lang": "pl",
+        "refcode": "DA 123.3"
+      },
+      {
+        "para_id": "1806.822",
+        "lang": "pt",
+        "refcode": "AA 120.5"
+      },
+      {
+        "para_id": "2013.984",
+        "lang": "ro",
+        "refcode": "FA 226.3"
+      },
+      {
+        "para_id": "1785.962",
+        "lang": "ru",
+        "refcode": "ДА 226.3"
+      },
+      {
+        "para_id": "13874.836",
+        "lang": "rw",
+        "refcode": "INI 142.1"
+      },
+      {
+        "para_id": "11182.820",
+        "lang": "sk",
+        "refcode": "SA 138.1"
+      },
+      {
+        "para_id": "11904.899",
+        "lang": "tl",
+        "refcode": "AGA 172.1"
+      },
+      {
+        "para_id": "11875.871",
+        "lang": "uk",
+        "refcode": "ДА 155.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.997",
+    "id_prev": "127.996",
+    "id_next": "127.998",
+    "refcode_1": "AA",
+    "refcode_2": "226",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 226.4",
+    "refcode_long": "The Acts of the Apostles, p. 226.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;One shall say unto Him, What are these wounds in Thine hands? Then He shall answer, Those with which I was wounded in the house of My friends.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Zechariah 13:6\" data-link=\"1965.47095\">Zechariah 13:6</span>.",
+    "puborder": 629,
+    "translations": [
+      {
+        "para_id": "13804.750",
+        "lang": "bg",
+        "refcode": "Дa 87.4"
+      },
+      {
+        "para_id": "11590.955",
+        "lang": "ce",
+        "refcode": "ABA 193.4"
+      },
+      {
+        "para_id": "11247.909",
+        "lang": "cs",
+        "refcode": "PNL 131.5"
+      },
+      {
+        "para_id": "813.992",
+        "lang": "de",
+        "refcode": "WA 226.1"
+      },
+      {
+        "para_id": "198.944",
+        "lang": "es",
+        "refcode": "HAp 184.2"
+      },
+      {
+        "para_id": "158.942",
+        "lang": "fr",
+        "refcode": "CP 201.2"
+      },
+      {
+        "para_id": "11938.868",
+        "lang": "hu",
+        "refcode": "AT 150.3"
+      },
+      {
+        "para_id": "12410.927",
+        "lang": "id",
+        "refcode": "KR 191.4"
+      },
+      {
+        "para_id": "882.865",
+        "lang": "it",
+        "refcode": "UVI 141.4"
+      },
+      {
+        "para_id": "11660.1102",
+        "lang": "ja",
+        "refcode": "AAJ 243.2"
+      },
+      {
+        "para_id": "12335.833",
+        "lang": "nb",
+        "refcode": "AV 132.2"
+      },
+      {
+        "para_id": "12008.781",
+        "lang": "pl",
+        "refcode": "DA 124.1"
+      },
+      {
+        "para_id": "1806.822",
+        "lang": "pt",
+        "refcode": "AA 120.5"
+      },
+      {
+        "para_id": "2013.985",
+        "lang": "ro",
+        "refcode": "FA 226.4"
+      },
+      {
+        "para_id": "1785.963",
+        "lang": "ru",
+        "refcode": "ДА 226.4"
+      },
+      {
+        "para_id": "13874.836",
+        "lang": "rw",
+        "refcode": "INI 142.1"
+      },
+      {
+        "para_id": "11182.821",
+        "lang": "sk",
+        "refcode": "SA 138.2"
+      },
+      {
+        "para_id": "11904.900",
+        "lang": "tl",
+        "refcode": "AGA 172.2"
+      },
+      {
+        "para_id": "11875.872",
+        "lang": "uk",
+        "refcode": "ДА 155.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.998",
+    "id_prev": "127.997",
+    "id_next": "127.1001",
+    "refcode_1": "AA",
+    "refcode_2": "226",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AA 226.5",
+    "refcode_long": "The Acts of the Apostles, p. 226.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;He made His grave with the wicked, and with the rich <span class=\"page-break\" data-page=\"227\"></span> in His death; because He had done no violence, neither was any deceit in His mouth. Yet it pleased the Lord to bruise Him; He hath put Him to grief.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 53:9\" data-link=\"1965.38198\">Isaiah 53:9, 10</span>.",
+    "puborder": 630,
+    "translations": [
+      {
+        "para_id": "13804.751",
+        "lang": "bg",
+        "refcode": "Дa 87.5"
+      },
+      {
+        "para_id": "11590.956",
+        "lang": "ce",
+        "refcode": "ABA 193.5"
+      },
+      {
+        "para_id": "11247.910",
+        "lang": "cs",
+        "refcode": "PNL 131.6"
+      },
+      {
+        "para_id": "813.992",
+        "lang": "de",
+        "refcode": "WA 226.1"
+      },
+      {
+        "para_id": "198.945",
+        "lang": "es",
+        "refcode": "HAp 184.3"
+      },
+      {
+        "para_id": "158.942",
+        "lang": "fr",
+        "refcode": "CP 201.2"
+      },
+      {
+        "para_id": "11938.869",
+        "lang": "hu",
+        "refcode": "AT 150.4"
+      },
+      {
+        "para_id": "12410.928",
+        "lang": "id",
+        "refcode": "KR 191.5"
+      },
+      {
+        "para_id": "882.866",
+        "lang": "it",
+        "refcode": "UVI 141.5"
+      },
+      {
+        "para_id": "11660.1103",
+        "lang": "ja",
+        "refcode": "AAJ 243.3"
+      },
+      {
+        "para_id": "12335.834",
+        "lang": "nb",
+        "refcode": "AV 132.3"
+      },
+      {
+        "para_id": "12008.782",
+        "lang": "pl",
+        "refcode": "DA 124.2"
+      },
+      {
+        "para_id": "1806.825",
+        "lang": "pt",
+        "refcode": "AA 121.1"
+      },
+      {
+        "para_id": "2013.986",
+        "lang": "ro",
+        "refcode": "FA 226.5"
+      },
+      {
+        "para_id": "1785.965",
+        "lang": "ru",
+        "refcode": "ДА 227.1"
+      },
+      {
+        "para_id": "13874.837",
+        "lang": "rw",
+        "refcode": "INI 142.2"
+      },
+      {
+        "para_id": "11182.822",
+        "lang": "sk",
+        "refcode": "SA 138.3"
+      },
+      {
+        "para_id": "11904.901",
+        "lang": "tl",
+        "refcode": "AGA 172.3"
+      },
+      {
+        "para_id": "11875.874",
+        "lang": "uk",
+        "refcode": "ДА 156.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1001",
+    "id_prev": "127.998",
+    "id_next": "127.1002",
+    "refcode_1": "AA",
+    "refcode_2": "227",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 227.1",
+    "refcode_long": "The Acts of the Apostles, p. 227.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But He who was to suffer death at the hands of evil men was to rise again as a conqueror over sin and the grave. Under the inspiration of the Almighty the Sweet Singer of Israel had testified of the glories of the resurrection morn. &ldquo;My flesh also,&rdquo; he joyously proclaimed, &ldquo;shall rest in hope. For Thou wilt not leave My soul in hell [the grave]; neither wilt Thou suffer Thine Holy One to see corruption.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Psalm 16:9\" data-link=\"1965.28718\">Psalm 16:9, 10</span>.",
+    "puborder": 631,
+    "translations": [
+      {
+        "para_id": "13804.752",
+        "lang": "bg",
+        "refcode": "Дa 87.6"
+      },
+      {
+        "para_id": "11590.957",
+        "lang": "ce",
+        "refcode": "ABA 193.6"
+      },
+      {
+        "para_id": "11247.911",
+        "lang": "cs",
+        "refcode": "PNL 131.7"
+      },
+      {
+        "para_id": "813.993",
+        "lang": "de",
+        "refcode": "WA 226.2"
+      },
+      {
+        "para_id": "198.946",
+        "lang": "es",
+        "refcode": "HAp 184.4"
+      },
+      {
+        "para_id": "158.943",
+        "lang": "fr",
+        "refcode": "CP 201.3"
+      },
+      {
+        "para_id": "11938.870",
+        "lang": "hu",
+        "refcode": "AT 150.5"
+      },
+      {
+        "para_id": "12410.929",
+        "lang": "id",
+        "refcode": "KR 191.6"
+      },
+      {
+        "para_id": "882.867",
+        "lang": "it",
+        "refcode": "UVI 141.6"
+      },
+      {
+        "para_id": "11660.1104",
+        "lang": "ja",
+        "refcode": "AAJ 243.4"
+      },
+      {
+        "para_id": "12335.835",
+        "lang": "nb",
+        "refcode": "AV 132.4"
+      },
+      {
+        "para_id": "12008.783",
+        "lang": "pl",
+        "refcode": "DA 124.3"
+      },
+      {
+        "para_id": "1806.826",
+        "lang": "pt",
+        "refcode": "AA 121.2"
+      },
+      {
+        "para_id": "2013.989",
+        "lang": "ro",
+        "refcode": "FA 227.1"
+      },
+      {
+        "para_id": "1785.966",
+        "lang": "ru",
+        "refcode": "ДА 227.2"
+      },
+      {
+        "para_id": "13874.838",
+        "lang": "rw",
+        "refcode": "INI 142.3"
+      },
+      {
+        "para_id": "11182.823",
+        "lang": "sk",
+        "refcode": "SA 138.4"
+      },
+      {
+        "para_id": "11904.902",
+        "lang": "tl",
+        "refcode": "AGA 172.4"
+      },
+      {
+        "para_id": "11875.875",
+        "lang": "uk",
+        "refcode": "ДА 156.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1002",
+    "id_prev": "127.1001",
+    "id_next": "127.1003",
+    "refcode_1": "AA",
+    "refcode_2": "227",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 227.2",
+    "refcode_long": "The Acts of the Apostles, p. 227.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul showed how closely God had linked the sacrificial service with the prophecies relating to the One who was to be &ldquo;brought as a lamb to the slaughter.&rdquo; The Messiah was to give His life as &ldquo;an offering for sin.&rdquo; Looking down through the centuries to the scenes of the Saviour&apos;s atonement, the prophet Isaiah had testified that the Lamb of God &ldquo;poured out His soul unto death: and He was numbered with the transgressors; and He bare the sin of many, and made intercession for the transgressors.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 53:7\" data-link=\"1965.38194\">Isaiah 53:7, 10, 12</span>.",
+    "puborder": 632,
+    "translations": [
+      {
+        "para_id": "13804.755",
+        "lang": "bg",
+        "refcode": "Дa 88.1"
+      },
+      {
+        "para_id": "11590.960",
+        "lang": "ce",
+        "refcode": "ABA 194.1"
+      },
+      {
+        "para_id": "11247.912",
+        "lang": "cs",
+        "refcode": "PNL 131.8"
+      },
+      {
+        "para_id": "813.994",
+        "lang": "de",
+        "refcode": "WA 226.3"
+      },
+      {
+        "para_id": "198.947",
+        "lang": "es",
+        "refcode": "HAp 184.5"
+      },
+      {
+        "para_id": "158.946",
+        "lang": "fr",
+        "refcode": "CP 202.1"
+      },
+      {
+        "para_id": "11938.871",
+        "lang": "hu",
+        "refcode": "AT 150.6"
+      },
+      {
+        "para_id": "12410.932",
+        "lang": "id",
+        "refcode": "KR 192.1"
+      },
+      {
+        "para_id": "882.868",
+        "lang": "it",
+        "refcode": "UVI 141.7"
+      },
+      {
+        "para_id": "11660.1105",
+        "lang": "ja",
+        "refcode": "AAJ 243.5"
+      },
+      {
+        "para_id": "12335.836",
+        "lang": "nb",
+        "refcode": "AV 132.5"
+      },
+      {
+        "para_id": "12008.784",
+        "lang": "pl",
+        "refcode": "DA 124.4"
+      },
+      {
+        "para_id": "1806.827",
+        "lang": "pt",
+        "refcode": "AA 121.3"
+      },
+      {
+        "para_id": "2013.990",
+        "lang": "ro",
+        "refcode": "FA 227.2"
+      },
+      {
+        "para_id": "1785.967",
+        "lang": "ru",
+        "refcode": "ДА 227.3"
+      },
+      {
+        "para_id": "13874.839",
+        "lang": "rw",
+        "refcode": "INI 142.4"
+      },
+      {
+        "para_id": "11182.824",
+        "lang": "sk",
+        "refcode": "SA 138.5"
+      },
+      {
+        "para_id": "11904.903",
+        "lang": "tl",
+        "refcode": "AGA 172.5"
+      },
+      {
+        "para_id": "11875.876",
+        "lang": "uk",
+        "refcode": "ДА 156.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1003",
+    "id_prev": "127.1002",
+    "id_next": "127.1006",
+    "refcode_1": "AA",
+    "refcode_2": "227",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 227.3",
+    "refcode_long": "The Acts of the Apostles, p. 227.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Saviour of prophecy was to come, not as a temporal king, to deliver the Jewish nation from earthly oppressors, but as a man among men, to live a life of poverty and humility, and at last to be despised, rejected, and slain. The Saviour foretold in the Old Testament Scriptures was to offer Himself as a sacrifice in behalf of the fallen race, thus fulfilling every requirement of the broken law. In Him the sacrificial types were to meet their antitype, and His <span class=\"page-break\" data-page=\"228\"></span> death on the cross was to lend significance to the entire Jewish economy.",
+    "puborder": 633,
+    "translations": [
+      {
+        "para_id": "13804.756",
+        "lang": "bg",
+        "refcode": "Дa 88.2"
+      },
+      {
+        "para_id": "11590.961",
+        "lang": "ce",
+        "refcode": "ABA 194.2"
+      },
+      {
+        "para_id": "11247.913",
+        "lang": "cs",
+        "refcode": "PNL 131.9"
+      },
+      {
+        "para_id": "813.995",
+        "lang": "de",
+        "refcode": "WA 226.4"
+      },
+      {
+        "para_id": "198.948",
+        "lang": "es",
+        "refcode": "HAp 184.6"
+      },
+      {
+        "para_id": "158.947",
+        "lang": "fr",
+        "refcode": "CP 202.2"
+      },
+      {
+        "para_id": "11938.874",
+        "lang": "hu",
+        "refcode": "AT 151.1"
+      },
+      {
+        "para_id": "12410.933",
+        "lang": "id",
+        "refcode": "KR 192.2"
+      },
+      {
+        "para_id": "882.871",
+        "lang": "it",
+        "refcode": "UVI 142.1"
+      },
+      {
+        "para_id": "11660.1108",
+        "lang": "ja",
+        "refcode": "AAJ 244.1"
+      },
+      {
+        "para_id": "12335.837",
+        "lang": "nb",
+        "refcode": "AV 132.6"
+      },
+      {
+        "para_id": "12008.785",
+        "lang": "pl",
+        "refcode": "DA 124.5"
+      },
+      {
+        "para_id": "1806.828",
+        "lang": "pt",
+        "refcode": "AA 121.4"
+      },
+      {
+        "para_id": "2013.991",
+        "lang": "ro",
+        "refcode": "FA 227.3"
+      },
+      {
+        "para_id": "1785.968",
+        "lang": "ru",
+        "refcode": "ДА 227.4"
+      },
+      {
+        "para_id": "13874.840",
+        "lang": "rw",
+        "refcode": "INI 142.5"
+      },
+      {
+        "para_id": "11182.825",
+        "lang": "sk",
+        "refcode": "SA 138.6"
+      },
+      {
+        "para_id": "11904.906",
+        "lang": "tl",
+        "refcode": "AGA 173.1"
+      },
+      {
+        "para_id": "11875.877",
+        "lang": "uk",
+        "refcode": "ДА 156.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1006",
+    "id_prev": "127.1003",
+    "id_next": "127.1007",
+    "refcode_1": "AA",
+    "refcode_2": "228",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 228.1",
+    "refcode_long": "The Acts of the Apostles, p. 228.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul told the Thessalonian Jews of his former zeal for the ceremonial law and of his wonderful experience at the gate of Damascus. Before his conversion he had been confident in a hereditary piety, a false hope. His faith had not been anchored in Christ; he had trusted instead in forms and ceremonies. His zeal for the law had been disconnected from faith in Christ and was of no avail. While boasting that he was blameless in the performance of the deeds of the law, he had refused the One who made the law of value.",
+    "puborder": 634,
+    "translations": [
+      {
+        "para_id": "13804.757",
+        "lang": "bg",
+        "refcode": "Дa 88.3"
+      },
+      {
+        "para_id": "11590.962",
+        "lang": "ce",
+        "refcode": "ABA 194.3"
+      },
+      {
+        "para_id": "11247.916",
+        "lang": "cs",
+        "refcode": "PNL 132.1"
+      },
+      {
+        "para_id": "813.998",
+        "lang": "de",
+        "refcode": "WA 227.1"
+      },
+      {
+        "para_id": "198.951",
+        "lang": "es",
+        "refcode": "HAp 185.1"
+      },
+      {
+        "para_id": "158.948",
+        "lang": "fr",
+        "refcode": "CP 202.3"
+      },
+      {
+        "para_id": "11938.875",
+        "lang": "hu",
+        "refcode": "AT 151.2"
+      },
+      {
+        "para_id": "12410.934",
+        "lang": "id",
+        "refcode": "KR 192.3"
+      },
+      {
+        "para_id": "882.872",
+        "lang": "it",
+        "refcode": "UVI 142.2"
+      },
+      {
+        "para_id": "11660.1109",
+        "lang": "ja",
+        "refcode": "AAJ 244.2"
+      },
+      {
+        "para_id": "12335.838",
+        "lang": "nb",
+        "refcode": "AV 132.7"
+      },
+      {
+        "para_id": "12008.786",
+        "lang": "pl",
+        "refcode": "DA 124.6"
+      },
+      {
+        "para_id": "1806.829",
+        "lang": "pt",
+        "refcode": "AA 121.5"
+      },
+      {
+        "para_id": "2013.994",
+        "lang": "ro",
+        "refcode": "FA 228.1"
+      },
+      {
+        "para_id": "1785.971",
+        "lang": "ru",
+        "refcode": "ДА 228.1"
+      },
+      {
+        "para_id": "13874.841",
+        "lang": "rw",
+        "refcode": "INI 142.6"
+      },
+      {
+        "para_id": "11182.826",
+        "lang": "sk",
+        "refcode": "SA 138.7"
+      },
+      {
+        "para_id": "11904.907",
+        "lang": "tl",
+        "refcode": "AGA 173.2"
+      },
+      {
+        "para_id": "11875.878",
+        "lang": "uk",
+        "refcode": "ДА 156.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1007",
+    "id_prev": "127.1006",
+    "id_next": "127.1008",
+    "refcode_1": "AA",
+    "refcode_2": "228",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 228.2",
+    "refcode_long": "The Acts of the Apostles, p. 228.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But at the time of his conversion all had been changed. Jesus of Nazareth, whom he had been persecuting in the person of His saints, appeared before him as the promised Messiah. The persecutor saw Him as the Son of God, the one who had come to the earth in fulfillment of the prophecies and who in His life had met every specification of the Sacred Writings.",
+    "puborder": 635,
+    "translations": [
+      {
+        "para_id": "13804.758",
+        "lang": "bg",
+        "refcode": "Дa 88.4"
+      },
+      {
+        "para_id": "11590.963",
+        "lang": "ce",
+        "refcode": "ABA 194.4"
+      },
+      {
+        "para_id": "11247.917",
+        "lang": "cs",
+        "refcode": "PNL 132.2"
+      },
+      {
+        "para_id": "813.999",
+        "lang": "de",
+        "refcode": "WA 227.2"
+      },
+      {
+        "para_id": "198.952",
+        "lang": "es",
+        "refcode": "HAp 185.2"
+      },
+      {
+        "para_id": "158.948",
+        "lang": "fr",
+        "refcode": "CP 202.3"
+      },
+      {
+        "para_id": "11938.876",
+        "lang": "hu",
+        "refcode": "AT 151.3"
+      },
+      {
+        "para_id": "12410.934",
+        "lang": "id",
+        "refcode": "KR 192.3"
+      },
+      {
+        "para_id": "882.873",
+        "lang": "it",
+        "refcode": "UVI 142.3"
+      },
+      {
+        "para_id": "11660.1110",
+        "lang": "ja",
+        "refcode": "AAJ 244.3"
+      },
+      {
+        "para_id": "12335.839",
+        "lang": "nb",
+        "refcode": "AV 132.8"
+      },
+      {
+        "para_id": "12008.787",
+        "lang": "pl",
+        "refcode": "DA 124.7"
+      },
+      {
+        "para_id": "1806.830",
+        "lang": "pt",
+        "refcode": "AA 121.6"
+      },
+      {
+        "para_id": "2013.995",
+        "lang": "ro",
+        "refcode": "FA 228.2"
+      },
+      {
+        "para_id": "1785.972",
+        "lang": "ru",
+        "refcode": "ДА 228.2"
+      },
+      {
+        "para_id": "13874.844",
+        "lang": "rw",
+        "refcode": "INI 143.1"
+      },
+      {
+        "para_id": "11182.829",
+        "lang": "sk",
+        "refcode": "SA 139.1"
+      },
+      {
+        "para_id": "11904.908",
+        "lang": "tl",
+        "refcode": "AGA 173.3"
+      },
+      {
+        "para_id": "11875.880",
+        "lang": "uk",
+        "refcode": "ДА 157.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1008",
+    "id_prev": "127.1007",
+    "id_next": "127.1011",
+    "refcode_1": "AA",
+    "refcode_2": "228",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 228.3",
+    "refcode_long": "The Acts of the Apostles, p. 228.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As with holy boldness Paul proclaimed the gospel in the synagogue at Thessalonica, a flood of light was thrown upon the true meaning of the rites and ceremonies connected with the tabernacle service. He carried the minds of his hearers beyond the earthly service and the ministry of Christ in the heavenly sanctuary, to the time when, having completed His mediatorial work, Christ would come again in power and great glory, and establish His kingdom on the earth. Paul was a believer in the second coming of Christ; so clearly and forcibly did he present the truths concerning this event, that upon the minds of many who <span class=\"page-break\" data-page=\"229\"></span> heard there was made an impression which never wore away.",
+    "puborder": 636,
+    "translations": [
+      {
+        "para_id": "13804.759",
+        "lang": "bg",
+        "refcode": "Дa 88.5"
+      },
+      {
+        "para_id": "11590.966",
+        "lang": "ce",
+        "refcode": "ABA 195.1"
+      },
+      {
+        "para_id": "11247.918",
+        "lang": "cs",
+        "refcode": "PNL 132.3"
+      },
+      {
+        "para_id": "813.1000",
+        "lang": "de",
+        "refcode": "WA 227.3"
+      },
+      {
+        "para_id": "198.953",
+        "lang": "es",
+        "refcode": "HAp 185.3"
+      },
+      {
+        "para_id": "158.952",
+        "lang": "fr",
+        "refcode": "CP 203.2"
+      },
+      {
+        "para_id": "158.951",
+        "lang": "fr",
+        "refcode": "CP 203.1"
+      },
+      {
+        "para_id": "11938.877",
+        "lang": "hu",
+        "refcode": "AT 151.4"
+      },
+      {
+        "para_id": "12410.937",
+        "lang": "id",
+        "refcode": "KR 193.1"
+      },
+      {
+        "para_id": "882.874",
+        "lang": "it",
+        "refcode": "UVI 142.4"
+      },
+      {
+        "para_id": "11660.1114",
+        "lang": "ja",
+        "refcode": "AAJ 246.1"
+      },
+      {
+        "para_id": "12335.842",
+        "lang": "nb",
+        "refcode": "AV 133.1"
+      },
+      {
+        "para_id": "12008.788",
+        "lang": "pl",
+        "refcode": "DA 124.8"
+      },
+      {
+        "para_id": "1806.831",
+        "lang": "pt",
+        "refcode": "AA 121.7"
+      },
+      {
+        "para_id": "2013.996",
+        "lang": "ro",
+        "refcode": "FA 228.3"
+      },
+      {
+        "para_id": "1785.973",
+        "lang": "ru",
+        "refcode": "ДА 228.3"
+      },
+      {
+        "para_id": "13874.845",
+        "lang": "rw",
+        "refcode": "INI 143.2"
+      },
+      {
+        "para_id": "11182.830",
+        "lang": "sk",
+        "refcode": "SA 139.2"
+      },
+      {
+        "para_id": "11904.909",
+        "lang": "tl",
+        "refcode": "AGA 173.4"
+      },
+      {
+        "para_id": "11875.881",
+        "lang": "uk",
+        "refcode": "ДА 157.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1011",
+    "id_prev": "127.1008",
+    "id_next": "127.1012",
+    "refcode_1": "AA",
+    "refcode_2": "229",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 229.1",
+    "refcode_long": "The Acts of the Apostles, p. 229.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "For three successive Sabbaths Paul preached to the Thessalonians, reasoning with them from the Scriptures regarding the life, death, resurrection, office work, and future glory of Christ, the &ldquo;Lamb slain from the foundation of the world.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Revelation 13:8\" data-link=\"1965.63081\">Revelation 13:8</span>. He exalted Christ, the proper understanding of whose ministry is the key that unlocks the Old Testament Scriptures, giving access to their rich treasures.",
+    "puborder": 637,
+    "translations": [
+      {
+        "para_id": "13804.760",
+        "lang": "bg",
+        "refcode": "Дa 88.6"
+      },
+      {
+        "para_id": "11590.967",
+        "lang": "ce",
+        "refcode": "ABA 195.2"
+      },
+      {
+        "para_id": "11247.919",
+        "lang": "cs",
+        "refcode": "PNL 132.4"
+      },
+      {
+        "para_id": "813.1003",
+        "lang": "de",
+        "refcode": "WA 228.1"
+      },
+      {
+        "para_id": "198.954",
+        "lang": "es",
+        "refcode": "HAp 185.4"
+      },
+      {
+        "para_id": "158.952",
+        "lang": "fr",
+        "refcode": "CP 203.2"
+      },
+      {
+        "para_id": "11938.879",
+        "lang": "hu",
+        "refcode": "AT 152.1"
+      },
+      {
+        "para_id": "12410.938",
+        "lang": "id",
+        "refcode": "KR 193.2"
+      },
+      {
+        "para_id": "882.875",
+        "lang": "it",
+        "refcode": "UVI 142.5"
+      },
+      {
+        "para_id": "11660.1115",
+        "lang": "ja",
+        "refcode": "AAJ 246.2"
+      },
+      {
+        "para_id": "12335.843",
+        "lang": "nb",
+        "refcode": "AV 133.2"
+      },
+      {
+        "para_id": "12008.791",
+        "lang": "pl",
+        "refcode": "DA 125.1"
+      },
+      {
+        "para_id": "1806.832",
+        "lang": "pt",
+        "refcode": "AA 121.8"
+      },
+      {
+        "para_id": "2013.999",
+        "lang": "ro",
+        "refcode": "FA 229.1"
+      },
+      {
+        "para_id": "1785.976",
+        "lang": "ru",
+        "refcode": "ДА 229.1"
+      },
+      {
+        "para_id": "13874.846",
+        "lang": "rw",
+        "refcode": "INI 143.3"
+      },
+      {
+        "para_id": "11182.831",
+        "lang": "sk",
+        "refcode": "SA 139.3"
+      },
+      {
+        "para_id": "11904.912",
+        "lang": "tl",
+        "refcode": "AGA 174.1"
+      },
+      {
+        "para_id": "11875.882",
+        "lang": "uk",
+        "refcode": "ДА 157.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1012",
+    "id_prev": "127.1011",
+    "id_next": "127.1013",
+    "refcode_1": "AA",
+    "refcode_2": "229",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 229.2",
+    "refcode_long": "The Acts of the Apostles, p. 229.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As the truths of the gospel were thus proclaimed in Thessalonica with mighty power, the attention of large congregations was arrested. &ldquo;Some of them believed, and consorted with Paul and Silas; and of the devout Greeks a great multitude, and of the chief women not a few.&rdquo;",
+    "puborder": 638,
+    "translations": [
+      {
+        "para_id": "13804.761",
+        "lang": "bg",
+        "refcode": "Дa 88.7"
+      },
+      {
+        "para_id": "11590.968",
+        "lang": "ce",
+        "refcode": "ABA 195.3"
+      },
+      {
+        "para_id": "11247.921",
+        "lang": "cs",
+        "refcode": "PNL 132.5"
+      },
+      {
+        "para_id": "813.1004",
+        "lang": "de",
+        "refcode": "WA 228.2"
+      },
+      {
+        "para_id": "198.957",
+        "lang": "es",
+        "refcode": "HAp 186.1"
+      },
+      {
+        "para_id": "158.952",
+        "lang": "fr",
+        "refcode": "CP 203.2"
+      },
+      {
+        "para_id": "11938.880",
+        "lang": "hu",
+        "refcode": "AT 152.2"
+      },
+      {
+        "para_id": "12410.939",
+        "lang": "id",
+        "refcode": "KR 193.3"
+      },
+      {
+        "para_id": "882.878",
+        "lang": "it",
+        "refcode": "UVI 143.1"
+      },
+      {
+        "para_id": "11660.1116",
+        "lang": "ja",
+        "refcode": "AAJ 246.3"
+      },
+      {
+        "para_id": "12335.844",
+        "lang": "nb",
+        "refcode": "AV 133.3"
+      },
+      {
+        "para_id": "12008.792",
+        "lang": "pl",
+        "refcode": "DA 125.2"
+      },
+      {
+        "para_id": "1806.835",
+        "lang": "pt",
+        "refcode": "AA 122.1"
+      },
+      {
+        "para_id": "2013.1000",
+        "lang": "ro",
+        "refcode": "FA 229.2"
+      },
+      {
+        "para_id": "1785.977",
+        "lang": "ru",
+        "refcode": "ДА 229.2"
+      },
+      {
+        "para_id": "13874.847",
+        "lang": "rw",
+        "refcode": "INI 143.4"
+      },
+      {
+        "para_id": "11182.832",
+        "lang": "sk",
+        "refcode": "SA 139.4"
+      },
+      {
+        "para_id": "11904.913",
+        "lang": "tl",
+        "refcode": "AGA 174.2"
+      },
+      {
+        "para_id": "11875.883",
+        "lang": "uk",
+        "refcode": "ДА 157.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1013",
+    "id_prev": "127.1012",
+    "id_next": "127.1014",
+    "refcode_1": "AA",
+    "refcode_2": "229",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 229.3",
+    "refcode_long": "The Acts of the Apostles, p. 229.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As in the places formerly entered, the apostles met with determined opposition. &ldquo;The Jews which believed not&rdquo; were &ldquo;moved with envy.&rdquo; These Jews were not then in favor with the Roman power, because, not long before, they had raised an insurrection in Rome. They were looked upon with suspicion, and their liberty was in a measure restricted. They now saw an opportunity to take advantage of circumstances to re-establish themselves in favor and at the same time to throw reproach upon the apostles and the converts to Christianity.",
+    "puborder": 639,
+    "translations": [
+      {
+        "para_id": "13804.762",
+        "lang": "bg",
+        "refcode": "Дa 88.8"
+      },
+      {
+        "para_id": "11590.969",
+        "lang": "ce",
+        "refcode": "ABA 195.4"
+      },
+      {
+        "para_id": "11247.922",
+        "lang": "cs",
+        "refcode": "PNL 132.6"
+      },
+      {
+        "para_id": "813.1005",
+        "lang": "de",
+        "refcode": "WA 228.3"
+      },
+      {
+        "para_id": "198.958",
+        "lang": "es",
+        "refcode": "HAp 186.2"
+      },
+      {
+        "para_id": "158.953",
+        "lang": "fr",
+        "refcode": "CP 203.3"
+      },
+      {
+        "para_id": "11938.881",
+        "lang": "hu",
+        "refcode": "AT 152.3"
+      },
+      {
+        "para_id": "12410.940",
+        "lang": "id",
+        "refcode": "KR 193.4"
+      },
+      {
+        "para_id": "882.879",
+        "lang": "it",
+        "refcode": "UVI 143.2"
+      },
+      {
+        "para_id": "11660.1118",
+        "lang": "ja",
+        "refcode": "AAJ 247.1"
+      },
+      {
+        "para_id": "12335.845",
+        "lang": "nb",
+        "refcode": "AV 133.4"
+      },
+      {
+        "para_id": "12008.793",
+        "lang": "pl",
+        "refcode": "DA 125.3"
+      },
+      {
+        "para_id": "1806.836",
+        "lang": "pt",
+        "refcode": "AA 122.2"
+      },
+      {
+        "para_id": "2013.1001",
+        "lang": "ro",
+        "refcode": "FA 229.3"
+      },
+      {
+        "para_id": "1785.978",
+        "lang": "ru",
+        "refcode": "ДА 229.3"
+      },
+      {
+        "para_id": "13874.848",
+        "lang": "rw",
+        "refcode": "INI 143.5"
+      },
+      {
+        "para_id": "11182.833",
+        "lang": "sk",
+        "refcode": "SA 139.5"
+      },
+      {
+        "para_id": "11904.914",
+        "lang": "tl",
+        "refcode": "AGA 174.3"
+      },
+      {
+        "para_id": "11875.884",
+        "lang": "uk",
+        "refcode": "ДА 157.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1014",
+    "id_prev": "127.1013",
+    "id_next": "127.1017",
+    "refcode_1": "AA",
+    "refcode_2": "229",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 229.4",
+    "refcode_long": "The Acts of the Apostles, p. 229.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "This they set about doing by uniting with &ldquo;certain lewd fellows of the baser sort,&rdquo; by which means they succeeded in setting &ldquo;all the city on an uproar.&rdquo; In the hope of finding the apostles, they &ldquo;assaulted the house of Jason;&rdquo; <span class=\"page-break\" data-page=\"230\"></span> but they could find neither Paul nor Silas. And &ldquo;when they found them not,&rdquo; the mob in their mad disappointment &ldquo;drew Jason and certain brethren unto the rulers of the city, crying, These that have turned the world upside down are come hither also; whom Jason hath received: and these all do contrary to the decrees of Caesar, saying that there is another king, one Jesus.&rdquo;",
+    "puborder": 640,
+    "translations": [
+      {
+        "para_id": "13804.765",
+        "lang": "bg",
+        "refcode": "Дa 89.1"
+      },
+      {
+        "para_id": "11590.972",
+        "lang": "ce",
+        "refcode": "ABA 196.1"
+      },
+      {
+        "para_id": "11247.923",
+        "lang": "cs",
+        "refcode": "PNL 132.7"
+      },
+      {
+        "para_id": "813.1006",
+        "lang": "de",
+        "refcode": "WA 228.4"
+      },
+      {
+        "para_id": "198.959",
+        "lang": "es",
+        "refcode": "HAp 186.3"
+      },
+      {
+        "para_id": "158.956",
+        "lang": "fr",
+        "refcode": "CP 204.1"
+      },
+      {
+        "para_id": "11938.882",
+        "lang": "hu",
+        "refcode": "AT 152.4"
+      },
+      {
+        "para_id": "12410.943",
+        "lang": "id",
+        "refcode": "KR 194.1"
+      },
+      {
+        "para_id": "882.880",
+        "lang": "it",
+        "refcode": "UVI 143.3"
+      },
+      {
+        "para_id": "11660.1119",
+        "lang": "ja",
+        "refcode": "AAJ 247.2"
+      },
+      {
+        "para_id": "12335.846",
+        "lang": "nb",
+        "refcode": "AV 133.5"
+      },
+      {
+        "para_id": "12008.794",
+        "lang": "pl",
+        "refcode": "DA 125.4"
+      },
+      {
+        "para_id": "1806.837",
+        "lang": "pt",
+        "refcode": "AA 122.3"
+      },
+      {
+        "para_id": "2013.1002",
+        "lang": "ro",
+        "refcode": "FA 229.4"
+      },
+      {
+        "para_id": "1785.978",
+        "lang": "ru",
+        "refcode": "ДА 229.3"
+      },
+      {
+        "para_id": "13874.851",
+        "lang": "rw",
+        "refcode": "INI 144.1"
+      },
+      {
+        "para_id": "11182.835",
+        "lang": "sk",
+        "refcode": "SA 140.1"
+      },
+      {
+        "para_id": "11904.915",
+        "lang": "tl",
+        "refcode": "AGA 174.4"
+      },
+      {
+        "para_id": "11875.885",
+        "lang": "uk",
+        "refcode": "ДА 157.6"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1017",
+    "id_prev": "127.1014",
+    "id_next": "127.1018",
+    "refcode_1": "AA",
+    "refcode_2": "230",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 230.1",
+    "refcode_long": "The Acts of the Apostles, p. 230.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As Paul and Silas were not to be found, the magistrates put the accused believers under bonds to keep the peace. Fearing further violence, &ldquo;the brethren immediately sent away Paul and Silas by night unto Berea.&rdquo;",
+    "puborder": 641,
+    "translations": [
+      {
+        "para_id": "13804.766",
+        "lang": "bg",
+        "refcode": "Дa 89.2"
+      },
+      {
+        "para_id": "11590.973",
+        "lang": "ce",
+        "refcode": "ABA 196.2"
+      },
+      {
+        "para_id": "11247.927",
+        "lang": "cs",
+        "refcode": "PNL 133.2"
+      },
+      {
+        "para_id": "813.1009",
+        "lang": "de",
+        "refcode": "WA 229.1"
+      },
+      {
+        "para_id": "198.960",
+        "lang": "es",
+        "refcode": "HAp 186.4"
+      },
+      {
+        "para_id": "158.957",
+        "lang": "fr",
+        "refcode": "CP 204.2"
+      },
+      {
+        "para_id": "11938.883",
+        "lang": "hu",
+        "refcode": "AT 152.5"
+      },
+      {
+        "para_id": "12410.944",
+        "lang": "id",
+        "refcode": "KR 194.2"
+      },
+      {
+        "para_id": "882.881",
+        "lang": "it",
+        "refcode": "UVI 143.4"
+      },
+      {
+        "para_id": "11660.1120",
+        "lang": "ja",
+        "refcode": "AAJ 247.3"
+      },
+      {
+        "para_id": "12335.847",
+        "lang": "nb",
+        "refcode": "AV 133.6"
+      },
+      {
+        "para_id": "12008.795",
+        "lang": "pl",
+        "refcode": "DA 125.5"
+      },
+      {
+        "para_id": "1806.838",
+        "lang": "pt",
+        "refcode": "AA 122.4"
+      },
+      {
+        "para_id": "2013.1005",
+        "lang": "ro",
+        "refcode": "FA 230.1"
+      },
+      {
+        "para_id": "1785.981",
+        "lang": "ru",
+        "refcode": "ДА 230.1"
+      },
+      {
+        "para_id": "13874.852",
+        "lang": "rw",
+        "refcode": "INI 144.2"
+      },
+      {
+        "para_id": "11182.836",
+        "lang": "sk",
+        "refcode": "SA 140.2"
+      },
+      {
+        "para_id": "11904.916",
+        "lang": "tl",
+        "refcode": "AGA 174.5"
+      },
+      {
+        "para_id": "11875.888",
+        "lang": "uk",
+        "refcode": "ДА 158.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1018",
+    "id_prev": "127.1017",
+    "id_next": "127.1020",
+    "refcode_1": "AA",
+    "refcode_2": "230",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 230.2",
+    "refcode_long": "The Acts of the Apostles, p. 230.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those who today teach unpopular truths need not be discouraged if at times they meet with no more favorable reception, even from those who claim to be Christians, than did Paul and his fellow workers from the people among whom they labored. The messengers of the cross must arm themselves with watchfulness and prayer, and move forward with faith and courage, working always in the name of Jesus. They must exalt Christ as man&apos;s mediator in the heavenly sanctuary, the One in whom all the sacrifices of the Old Testament dispensation centered, and through whose atoning sacrifice the transgressors of God&apos;s law may find peace and pardon.",
+    "puborder": 642,
+    "translations": [
+      {
+        "para_id": "13804.767",
+        "lang": "bg",
+        "refcode": "Дa 89.3"
+      },
+      {
+        "para_id": "11590.974",
+        "lang": "ce",
+        "refcode": "ABA 196.3"
+      },
+      {
+        "para_id": "11247.928",
+        "lang": "cs",
+        "refcode": "PNL 133.3"
+      },
+      {
+        "para_id": "813.1010",
+        "lang": "de",
+        "refcode": "WA 229.2"
+      },
+      {
+        "para_id": "198.961",
+        "lang": "es",
+        "refcode": "HAp 186.5"
+      },
+      {
+        "para_id": "158.958",
+        "lang": "fr",
+        "refcode": "CP 204.3"
+      },
+      {
+        "para_id": "11938.884",
+        "lang": "hu",
+        "refcode": "AT 152.6"
+      },
+      {
+        "para_id": "12410.945",
+        "lang": "id",
+        "refcode": "KR 194.3"
+      },
+      {
+        "para_id": "882.882",
+        "lang": "it",
+        "refcode": "UVI 143.5"
+      },
+      {
+        "para_id": "11660.1121",
+        "lang": "ja",
+        "refcode": "AAJ 247.4"
+      },
+      {
+        "para_id": "12335.849",
+        "lang": "nb",
+        "refcode": "AV 134.1"
+      },
+      {
+        "para_id": "12008.796",
+        "lang": "pl",
+        "refcode": "DA 125.6"
+      },
+      {
+        "para_id": "1806.839",
+        "lang": "pt",
+        "refcode": "AA 122.5"
+      },
+      {
+        "para_id": "2013.1006",
+        "lang": "ro",
+        "refcode": "FA 230.2"
+      },
+      {
+        "para_id": "1785.982",
+        "lang": "ru",
+        "refcode": "ДА 230.2"
+      },
+      {
+        "para_id": "13874.852",
+        "lang": "rw",
+        "refcode": "INI 144.2"
+      },
+      {
+        "para_id": "11182.837",
+        "lang": "sk",
+        "refcode": "SA 140.3"
+      },
+      {
+        "para_id": "11904.917",
+        "lang": "tl",
+        "refcode": "AGA 174.6"
+      },
+      {
+        "para_id": "11875.889",
+        "lang": "uk",
+        "refcode": "ДА 158.2"
+      }
+    ]
+  }
+]

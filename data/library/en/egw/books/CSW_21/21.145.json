@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.145",
+    "id_prev": "21.144",
+    "id_next": "21.146",
+    "refcode_1": "CSW",
+    "refcode_2": "35",
+    "refcode_3": "",
+    "refcode_4": "20",
+    "refcode_short": "CSW 35",
+    "refcode_long": "Counsels on Sabbath School Work, p. 35 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Youth Fortified Against Heresies",
+    "puborder": 88,
+    "translations": [
+      {
+        "para_id": "11629.119",
+        "lang": "da",
+        "refcode": "RSSA 35"
+      },
+      {
+        "para_id": "799.152",
+        "lang": "de",
+        "refcode": "RSs 34"
+      },
+      {
+        "para_id": "1711.165",
+        "lang": "es",
+        "refcode": "COES 38"
+      },
+      {
+        "para_id": "1917.163",
+        "lang": "pt",
+        "refcode": "CES38 16"
+      },
+      {
+        "para_id": "1724.174",
+        "lang": "pt",
+        "refcode": "CES 35"
+      },
+      {
+        "para_id": "2719.151",
+        "lang": "ro",
+        "refcode": "SSS 35"
+      },
+      {
+        "para_id": "1873.143",
+        "lang": "ru",
+        "refcode": "ССШ 35"
+      }
+    ]
+  },
+  {
+    "para_id": "21.146",
+    "id_prev": "21.145",
+    "id_next": "21.149",
+    "refcode_1": "CSW",
+    "refcode_2": "35",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 35.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 35.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Bible lessons which are taught in our schools are of far greater consequence than many now discern. These children will have to meet in the near <span class=\"page-break\" data-page=\"36\"></span> future the heresies and fables that abound in the Christian world. Instruct the youth with simplicity but great thoroughness. Our work must stand the test of the judgment. The youth in this age must be fitted by the grace of Christ to meet and overcome evils which have been introduced into society. They will have opportunities to use all the knowledge and influence that they have acquired, and will need wisdom from above to stem the current of evil which surrounds them. The supporters of error and of unscriptural doctrines are numerous. The world at large is leading them to forget God and to despise His claims. The law of God is trampled beneath unholy feet. Every youth is responsible to God for His opportunities, and for the precious light shining upon him from the Scriptures.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 22.1\" data-link=\"121.78\"><em>Testimonies on Sabbath-School Work</em>, 22</span>.",
+    "puborder": 89,
+    "translations": [
+      {
+        "para_id": "11629.120",
+        "lang": "da",
+        "refcode": "RSSA 35.2"
+      },
+      {
+        "para_id": "799.153",
+        "lang": "de",
+        "refcode": "RSs 34.2"
+      },
+      {
+        "para_id": "1711.166",
+        "lang": "es",
+        "refcode": "COES 38.1"
+      },
+      {
+        "para_id": "1917.164",
+        "lang": "pt",
+        "refcode": "CES38 16.1"
+      },
+      {
+        "para_id": "1724.175",
+        "lang": "pt",
+        "refcode": "CES 35.2"
+      },
+      {
+        "para_id": "2719.152",
+        "lang": "ro",
+        "refcode": "SSS 35.2"
+      },
+      {
+        "para_id": "1873.144",
+        "lang": "ru",
+        "refcode": "ССШ 35.2"
+      }
+    ]
+  }
+]

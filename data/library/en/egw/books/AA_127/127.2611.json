@@ -1,0 +1,2901 @@
+[
+  {
+    "para_id": "127.2611",
+    "id_prev": "127.2609",
+    "id_next": "127.2612",
+    "refcode_1": "AA",
+    "refcode_2": "593",
+    "refcode_3": "",
+    "refcode_4": "58",
+    "refcode_short": "AA 593",
+    "refcode_long": "The Acts of the Apostles, p. 593 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 58&mdash;The Church Triumphant",
+    "puborder": 1622,
+    "translations": [
+      {
+        "para_id": "13804.1948",
+        "lang": "bg",
+        "refcode": "Дa 231"
+      },
+      {
+        "para_id": "11590.2496",
+        "lang": "ce",
+        "refcode": "ABA 505"
+      },
+      {
+        "para_id": "11247.2388",
+        "lang": "cs",
+        "refcode": "PNL 342"
+      },
+      {
+        "para_id": "813.2603",
+        "lang": "de",
+        "refcode": "WA 589"
+      },
+      {
+        "para_id": "198.2423",
+        "lang": "es",
+        "refcode": "HAp 474"
+      },
+      {
+        "para_id": "158.2517",
+        "lang": "fr",
+        "refcode": "CP 527"
+      },
+      {
+        "para_id": "11938.2248",
+        "lang": "hu",
+        "refcode": "AT 390"
+      },
+      {
+        "para_id": "12410.2444",
+        "lang": "id",
+        "refcode": "KR 500"
+      },
+      {
+        "para_id": "882.2262",
+        "lang": "it",
+        "refcode": "UVI 372"
+      },
+      {
+        "para_id": "12335.2157",
+        "lang": "nb",
+        "refcode": "AV 340"
+      },
+      {
+        "para_id": "12008.2033",
+        "lang": "pl",
+        "refcode": "DA 327"
+      },
+      {
+        "para_id": "1806.2104",
+        "lang": "pt",
+        "refcode": "AA 300.5"
+      },
+      {
+        "para_id": "2013.2593",
+        "lang": "ro",
+        "refcode": "FA 593"
+      },
+      {
+        "para_id": "1785.2550",
+        "lang": "ru",
+        "refcode": "ДА 593"
+      },
+      {
+        "para_id": "13874.2159",
+        "lang": "rw",
+        "refcode": "INI 363"
+      },
+      {
+        "para_id": "11182.2128",
+        "lang": "sk",
+        "refcode": "SA 355"
+      },
+      {
+        "para_id": "11904.2357",
+        "lang": "tl",
+        "refcode": "AGA 449"
+      },
+      {
+        "para_id": "11875.2276",
+        "lang": "uk",
+        "refcode": "ДА 407"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2612",
+    "id_prev": "127.2611",
+    "id_next": "127.2613",
+    "refcode_1": "AA",
+    "refcode_2": "593",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 593.1",
+    "refcode_long": "The Acts of the Apostles, p. 593.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "More than eighteen centuries have passed since the apostles rested from their labors, but the history of their toils and sacrifices for Christ&apos;s sake is still among the most precious treasures of the church. This history, written under the direction of the Holy Spirit, was recorded in order that by it the followers of Christ in every age might be impelled to greater zeal and earnestness in the cause of the Saviour.",
+    "puborder": 1623,
+    "translations": [
+      {
+        "para_id": "13804.1949",
+        "lang": "bg",
+        "refcode": "Дa 231.7"
+      },
+      {
+        "para_id": "11590.2497",
+        "lang": "ce",
+        "refcode": "ABA 505.1"
+      },
+      {
+        "para_id": "11247.2389",
+        "lang": "cs",
+        "refcode": "PNL 342.1"
+      },
+      {
+        "para_id": "813.2604",
+        "lang": "de",
+        "refcode": "WA 589.1"
+      },
+      {
+        "para_id": "198.2424",
+        "lang": "es",
+        "refcode": "HAp 474.1"
+      },
+      {
+        "para_id": "158.2518",
+        "lang": "fr",
+        "refcode": "CP 527.1"
+      },
+      {
+        "para_id": "11938.2249",
+        "lang": "hu",
+        "refcode": "AT 390.1"
+      },
+      {
+        "para_id": "12410.2445",
+        "lang": "id",
+        "refcode": "KR 500.1"
+      },
+      {
+        "para_id": "882.2263",
+        "lang": "it",
+        "refcode": "UVI 372.1"
+      },
+      {
+        "para_id": "12335.2158",
+        "lang": "nb",
+        "refcode": "AV 340.1"
+      },
+      {
+        "para_id": "12008.2034",
+        "lang": "pl",
+        "refcode": "DA 327.1"
+      },
+      {
+        "para_id": "1806.2107",
+        "lang": "pt",
+        "refcode": "AA 301.1"
+      },
+      {
+        "para_id": "2013.2594",
+        "lang": "ro",
+        "refcode": "FA 593.1"
+      },
+      {
+        "para_id": "1785.2551",
+        "lang": "ru",
+        "refcode": "ДА 593.1"
+      },
+      {
+        "para_id": "13874.2160",
+        "lang": "rw",
+        "refcode": "INI 363.1"
+      },
+      {
+        "para_id": "11182.2129",
+        "lang": "sk",
+        "refcode": "SA 355.1"
+      },
+      {
+        "para_id": "11904.2358",
+        "lang": "tl",
+        "refcode": "AGA 449.1"
+      },
+      {
+        "para_id": "11875.2277",
+        "lang": "uk",
+        "refcode": "ДА 407.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2613",
+    "id_prev": "127.2612",
+    "id_next": "127.2614",
+    "refcode_1": "AA",
+    "refcode_2": "593",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 593.2",
+    "refcode_long": "The Acts of the Apostles, p. 593.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The commission that Christ gave to the disciples, they fulfilled. As these messengers of the cross went forth to proclaim the gospel, there was such a revelation of the glory of God as had never before been witnessed by mortal man. By the co-operation of the divine Spirit, the apostles did a work that shook the world. To every nation was the gospel carried in a single generation.",
+    "puborder": 1624,
+    "translations": [
+      {
+        "para_id": "13804.1950",
+        "lang": "bg",
+        "refcode": "Дa 231.8"
+      },
+      {
+        "para_id": "11590.2498",
+        "lang": "ce",
+        "refcode": "ABA 505.2"
+      },
+      {
+        "para_id": "11247.2390",
+        "lang": "cs",
+        "refcode": "PNL 342.2"
+      },
+      {
+        "para_id": "813.2605",
+        "lang": "de",
+        "refcode": "WA 589.2"
+      },
+      {
+        "para_id": "198.2425",
+        "lang": "es",
+        "refcode": "HAp 474.2"
+      },
+      {
+        "para_id": "158.2519",
+        "lang": "fr",
+        "refcode": "CP 527.2"
+      },
+      {
+        "para_id": "11938.2250",
+        "lang": "hu",
+        "refcode": "AT 390.2"
+      },
+      {
+        "para_id": "12410.2446",
+        "lang": "id",
+        "refcode": "KR 500.2"
+      },
+      {
+        "para_id": "882.2264",
+        "lang": "it",
+        "refcode": "UVI 372.2"
+      },
+      {
+        "para_id": "12335.2159",
+        "lang": "nb",
+        "refcode": "AV 340.2"
+      },
+      {
+        "para_id": "12008.2035",
+        "lang": "pl",
+        "refcode": "DA 327.2"
+      },
+      {
+        "para_id": "1806.2108",
+        "lang": "pt",
+        "refcode": "AA 301.2"
+      },
+      {
+        "para_id": "2013.2595",
+        "lang": "ro",
+        "refcode": "FA 593.2"
+      },
+      {
+        "para_id": "1785.2552",
+        "lang": "ru",
+        "refcode": "ДА 593.2"
+      },
+      {
+        "para_id": "13874.2161",
+        "lang": "rw",
+        "refcode": "INI 363.2"
+      },
+      {
+        "para_id": "11182.2130",
+        "lang": "sk",
+        "refcode": "SA 355.2"
+      },
+      {
+        "para_id": "11904.2359",
+        "lang": "tl",
+        "refcode": "AGA 449.2"
+      },
+      {
+        "para_id": "11875.2278",
+        "lang": "uk",
+        "refcode": "ДА 407.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2614",
+    "id_prev": "127.2613",
+    "id_next": "127.2617",
+    "refcode_1": "AA",
+    "refcode_2": "593",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 593.3",
+    "refcode_long": "The Acts of the Apostles, p. 593.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Glorious were the results that attended the ministry of the chosen apostles of Christ. At the beginning of their ministry some of them were unlearned men, but their <span class=\"page-break\" data-page=\"594\"></span> consecration to the cause of their Master was unreserved, and under His instruction they gained a preparation for the great work committed to them. Grace and truth reigned in their hearts, inspiring their motives and controlling their actions. Their lives were hid with Christ in God, and self was lost sight of, submerged in the depths of infinite love.",
+    "puborder": 1625,
+    "translations": [
+      {
+        "para_id": "13804.1953",
+        "lang": "bg",
+        "refcode": "Дa 232.1"
+      },
+      {
+        "para_id": "11590.2499",
+        "lang": "ce",
+        "refcode": "ABA 505.3"
+      },
+      {
+        "para_id": "11247.2391",
+        "lang": "cs",
+        "refcode": "PNL 342.3"
+      },
+      {
+        "para_id": "813.2606",
+        "lang": "de",
+        "refcode": "WA 589.3"
+      },
+      {
+        "para_id": "198.2426",
+        "lang": "es",
+        "refcode": "HAp 474.3"
+      },
+      {
+        "para_id": "158.2520",
+        "lang": "fr",
+        "refcode": "CP 527.3"
+      },
+      {
+        "para_id": "11938.2251",
+        "lang": "hu",
+        "refcode": "AT 390.3"
+      },
+      {
+        "para_id": "12410.2447",
+        "lang": "id",
+        "refcode": "KR 500.3"
+      },
+      {
+        "para_id": "882.2265",
+        "lang": "it",
+        "refcode": "UVI 372.3"
+      },
+      {
+        "para_id": "12335.2160",
+        "lang": "nb",
+        "refcode": "AV 340.3"
+      },
+      {
+        "para_id": "12008.2036",
+        "lang": "pl",
+        "refcode": "DA 327.3"
+      },
+      {
+        "para_id": "1806.2109",
+        "lang": "pt",
+        "refcode": "AA 301.3"
+      },
+      {
+        "para_id": "2013.2596",
+        "lang": "ro",
+        "refcode": "FA 593.3"
+      },
+      {
+        "para_id": "1785.2553",
+        "lang": "ru",
+        "refcode": "ДА 593.3"
+      },
+      {
+        "para_id": "13874.2162",
+        "lang": "rw",
+        "refcode": "INI 363.3"
+      },
+      {
+        "para_id": "11182.2131",
+        "lang": "sk",
+        "refcode": "SA 355.3"
+      },
+      {
+        "para_id": "11904.2360",
+        "lang": "tl",
+        "refcode": "AGA 449.3"
+      },
+      {
+        "para_id": "11875.2279",
+        "lang": "uk",
+        "refcode": "ДА 407.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2617",
+    "id_prev": "127.2614",
+    "id_next": "127.2619",
+    "refcode_1": "AA",
+    "refcode_2": "594",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 594.1",
+    "refcode_long": "The Acts of the Apostles, p. 594.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The disciples were men who knew how to speak and pray sincerely, men who could take hold of the might of the Strength of Israel. How closely they stood by the side of God, and bound their personal honor to His throne! Jehovah was their God. His honor was their honor. His truth was their truth. Any attack made upon the gospel was as if cutting deep into their souls, and with every power of their being they battled for the cause of Christ. They could hold forth the word of life because they had received the heavenly anointing. They expected much, and therefore they attempted much. Christ had revealed Himself to them, and to Him they looked for guidance. Their understanding of truth and their power to withstand opposition were proportionate to their conformity to God&apos;s will. Jesus Christ, the wisdom and power of God, was the theme of every discourse. His name&mdash;the only name given under heaven whereby men can be saved&mdash;was by them exalted. As they proclaimed the completeness of Christ, the risen Saviour, their words moved hearts, and men and women were won to the gospel. Multitudes who had reviled the Saviour&apos;s name and despised His power now confessed themselves disciples of the Crucified.",
+    "puborder": 1626,
+    "translations": [
+      {
+        "para_id": "13804.1954",
+        "lang": "bg",
+        "refcode": "Дa 232.2"
+      },
+      {
+        "para_id": "11590.2500",
+        "lang": "ce",
+        "refcode": "ABA 505.4"
+      },
+      {
+        "para_id": "11247.2393",
+        "lang": "cs",
+        "refcode": "PNL 342.4"
+      },
+      {
+        "para_id": "813.2608",
+        "lang": "de",
+        "refcode": "WA 590.1"
+      },
+      {
+        "para_id": "198.2427",
+        "lang": "es",
+        "refcode": "HAp 474.4"
+      },
+      {
+        "para_id": "158.2524",
+        "lang": "fr",
+        "refcode": "CP 528.2"
+      },
+      {
+        "para_id": "158.2525",
+        "lang": "fr",
+        "refcode": "CP 528.3"
+      },
+      {
+        "para_id": "11938.2252",
+        "lang": "hu",
+        "refcode": "AT 390.4"
+      },
+      {
+        "para_id": "12410.2449",
+        "lang": "id",
+        "refcode": "KR 501.1"
+      },
+      {
+        "para_id": "882.2266",
+        "lang": "it",
+        "refcode": "UVI 372.4"
+      },
+      {
+        "para_id": "12335.2161",
+        "lang": "nb",
+        "refcode": "AV 340.4"
+      },
+      {
+        "para_id": "12008.2037",
+        "lang": "pl",
+        "refcode": "DA 327.4"
+      },
+      {
+        "para_id": "1806.2110",
+        "lang": "pt",
+        "refcode": "AA 301.4"
+      },
+      {
+        "para_id": "2013.2599",
+        "lang": "ro",
+        "refcode": "FA 594.1"
+      },
+      {
+        "para_id": "1785.2556",
+        "lang": "ru",
+        "refcode": "ДА 594.1"
+      },
+      {
+        "para_id": "13874.2163",
+        "lang": "rw",
+        "refcode": "INI 363.4"
+      },
+      {
+        "para_id": "11182.2132",
+        "lang": "sk",
+        "refcode": "SA 355.4"
+      },
+      {
+        "para_id": "11904.2361",
+        "lang": "tl",
+        "refcode": "AGA 449.4"
+      },
+      {
+        "para_id": "11875.2280",
+        "lang": "uk",
+        "refcode": "ДА 407.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2619",
+    "id_prev": "127.2617",
+    "id_next": "127.2620",
+    "refcode_1": "AA",
+    "refcode_2": "595",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 595.1",
+    "refcode_long": "The Acts of the Apostles, p. 595.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Not in their own power did the apostles accomplish their mission, but in the power of the living God. Their work was not easy. The opening labors of the Christian church were attended by hardship and bitter grief. In their work the disciples constantly encountered privation, calumny, and persecution; but they counted not their lives dear unto themselves and rejoiced that they were called to suffer for Christ. Irresolution, indecision, weakness of purpose, found no place in their efforts. They were willing to spend and be spent. The consciousness of the responsibility resting on them purified and enriched their experience, and the grace of heaven was revealed in the conquests they achieved for Christ. With the might of omnipotence God worked through them to make the gospel triumphant.",
+    "puborder": 1627,
+    "translations": [
+      {
+        "para_id": "13804.1955",
+        "lang": "bg",
+        "refcode": "Дa 232.3"
+      },
+      {
+        "para_id": "11590.2503",
+        "lang": "ce",
+        "refcode": "ABA 506.1"
+      },
+      {
+        "para_id": "11247.2396",
+        "lang": "cs",
+        "refcode": "PNL 343.1"
+      },
+      {
+        "para_id": "813.2609",
+        "lang": "de",
+        "refcode": "WA 590.2"
+      },
+      {
+        "para_id": "198.2430",
+        "lang": "es",
+        "refcode": "HAp 475.1"
+      },
+      {
+        "para_id": "158.2526",
+        "lang": "fr",
+        "refcode": "CP 528.4"
+      },
+      {
+        "para_id": "11938.2255",
+        "lang": "hu",
+        "refcode": "AT 391.1"
+      },
+      {
+        "para_id": "12410.2450",
+        "lang": "id",
+        "refcode": "KR 501.2"
+      },
+      {
+        "para_id": "882.2269",
+        "lang": "it",
+        "refcode": "UVI 373.1"
+      },
+      {
+        "para_id": "12335.2164",
+        "lang": "nb",
+        "refcode": "AV 341.1"
+      },
+      {
+        "para_id": "12008.2040",
+        "lang": "pl",
+        "refcode": "DA 328.1"
+      },
+      {
+        "para_id": "1806.2112",
+        "lang": "pt",
+        "refcode": "AA 301.6"
+      },
+      {
+        "para_id": "2013.2601",
+        "lang": "ro",
+        "refcode": "FA 595.1"
+      },
+      {
+        "para_id": "1785.2558",
+        "lang": "ru",
+        "refcode": "ДА 595.1"
+      },
+      {
+        "para_id": "13874.2166",
+        "lang": "rw",
+        "refcode": "INI 364.1"
+      },
+      {
+        "para_id": "11182.2135",
+        "lang": "sk",
+        "refcode": "SA 356.1"
+      },
+      {
+        "para_id": "11904.2364",
+        "lang": "tl",
+        "refcode": "AGA 450.1"
+      },
+      {
+        "para_id": "11875.2283",
+        "lang": "uk",
+        "refcode": "ДА 408.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2620",
+    "id_prev": "127.2619",
+    "id_next": "127.2621",
+    "refcode_1": "AA",
+    "refcode_2": "595",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 595.2",
+    "refcode_long": "The Acts of the Apostles, p. 595.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Upon the foundation that Christ Himself had laid, the apostles built the church of God. In the Scriptures the figure of the erection of a temple is frequently used to illustrate the building of the church. Zechariah refers to Christ as the Branch that should build the temple of the Lord. He speaks of the Gentiles as helping in the work: &ldquo;They that are far off shall come and build in the temple of the Lord;&rdquo; and Isaiah declares, &ldquo;The sons of strangers shall build up thy walls.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Zechariah 6:12\" data-link=\"1965.46876\">Zechariah 6:12, 15</span>; <span class=\"egwlink egwlink_bible\" title=\"Isaiah 60:10\" data-link=\"1965.38427\">Isaiah 60:10</span>.",
+    "puborder": 1628,
+    "translations": [
+      {
+        "para_id": "13804.1956",
+        "lang": "bg",
+        "refcode": "Дa 232.4"
+      },
+      {
+        "para_id": "11590.2503",
+        "lang": "ce",
+        "refcode": "ABA 506.1"
+      },
+      {
+        "para_id": "11247.2398",
+        "lang": "cs",
+        "refcode": "PNL 343.2"
+      },
+      {
+        "para_id": "813.2612",
+        "lang": "de",
+        "refcode": "WA 591.1"
+      },
+      {
+        "para_id": "198.2431",
+        "lang": "es",
+        "refcode": "HAp 475.2"
+      },
+      {
+        "para_id": "158.2526",
+        "lang": "fr",
+        "refcode": "CP 528.4"
+      },
+      {
+        "para_id": "11938.2256",
+        "lang": "hu",
+        "refcode": "AT 391.2"
+      },
+      {
+        "para_id": "12410.2452",
+        "lang": "id",
+        "refcode": "KR 502.1"
+      },
+      {
+        "para_id": "882.2270",
+        "lang": "it",
+        "refcode": "UVI 373.2"
+      },
+      {
+        "para_id": "12335.2165",
+        "lang": "nb",
+        "refcode": "AV 341.2"
+      },
+      {
+        "para_id": "12008.2041",
+        "lang": "pl",
+        "refcode": "DA 328.2"
+      },
+      {
+        "para_id": "1806.2112",
+        "lang": "pt",
+        "refcode": "AA 301.6"
+      },
+      {
+        "para_id": "2013.2602",
+        "lang": "ro",
+        "refcode": "FA 595.2"
+      },
+      {
+        "para_id": "1785.2559",
+        "lang": "ru",
+        "refcode": "ДА 595.2"
+      },
+      {
+        "para_id": "13874.2167",
+        "lang": "rw",
+        "refcode": "INI 364.2"
+      },
+      {
+        "para_id": "11182.2136",
+        "lang": "sk",
+        "refcode": "SA 356.2"
+      },
+      {
+        "para_id": "11904.2365",
+        "lang": "tl",
+        "refcode": "AGA 450.2"
+      },
+      {
+        "para_id": "11875.2284",
+        "lang": "uk",
+        "refcode": "ДА 408.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2621",
+    "id_prev": "127.2620",
+    "id_next": "127.2623",
+    "refcode_1": "AA",
+    "refcode_2": "595",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 595.3",
+    "refcode_long": "The Acts of the Apostles, p. 595.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Writing of the building of this temple, Peter says, &ldquo;To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious, ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Peter 2:4\" data-link=\"1965.62022\">1 Peter 2:4, 5</span>.",
+    "puborder": 1629,
+    "translations": [
+      {
+        "para_id": "13804.1957",
+        "lang": "bg",
+        "refcode": "Дa 232.5"
+      },
+      {
+        "para_id": "11590.2507",
+        "lang": "ce",
+        "refcode": "ABA 507.1"
+      },
+      {
+        "para_id": "11247.2399",
+        "lang": "cs",
+        "refcode": "PNL 343.3"
+      },
+      {
+        "para_id": "813.2613",
+        "lang": "de",
+        "refcode": "WA 591.2"
+      },
+      {
+        "para_id": "198.2434",
+        "lang": "es",
+        "refcode": "HAp 476.1"
+      },
+      {
+        "para_id": "158.2529",
+        "lang": "fr",
+        "refcode": "CP 529.1"
+      },
+      {
+        "para_id": "11938.2257",
+        "lang": "hu",
+        "refcode": "AT 391.3"
+      },
+      {
+        "para_id": "12410.2453",
+        "lang": "id",
+        "refcode": "KR 502.2"
+      },
+      {
+        "para_id": "882.2271",
+        "lang": "it",
+        "refcode": "UVI 373.3"
+      },
+      {
+        "para_id": "12335.2166",
+        "lang": "nb",
+        "refcode": "AV 341.3"
+      },
+      {
+        "para_id": "12008.2042",
+        "lang": "pl",
+        "refcode": "DA 328.3"
+      },
+      {
+        "para_id": "1806.2115",
+        "lang": "pt",
+        "refcode": "AA 302.1"
+      },
+      {
+        "para_id": "2013.2603",
+        "lang": "ro",
+        "refcode": "FA 595.3"
+      },
+      {
+        "para_id": "1785.2560",
+        "lang": "ru",
+        "refcode": "ДА 595.3"
+      },
+      {
+        "para_id": "13874.2168",
+        "lang": "rw",
+        "refcode": "INI 364.3"
+      },
+      {
+        "para_id": "11182.2137",
+        "lang": "sk",
+        "refcode": "SA 356.3"
+      },
+      {
+        "para_id": "11904.2368",
+        "lang": "tl",
+        "refcode": "AGA 451.1"
+      },
+      {
+        "para_id": "11875.2285",
+        "lang": "uk",
+        "refcode": "ДА 408.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2623",
+    "id_prev": "127.2621",
+    "id_next": "127.2624",
+    "refcode_1": "AA",
+    "refcode_2": "596",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 596.1",
+    "refcode_long": "The Acts of the Apostles, p. 596.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the quarry of the Jewish and the Gentile world the apostles labored, bringing out stones to lay upon the foundation. In his letter to the believers at Ephesus, Paul said, &ldquo;Now therefore ye are no more strangers and foreigners, but fellow citizens with the saints, and of the household of God; and are built upon the foundation of the apostles and prophets, Jesus Christ Himself being the Chief Cornerstone; in whom all the building fitly framed together groweth unto an holy temple in the Lord: in whom ye also are builded together for an habitation of God through the Spirit.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Ephesians 2:19\" data-link=\"1965.59647\">Ephesians 2:19-22</span>.",
+    "puborder": 1630,
+    "translations": [
+      {
+        "para_id": "13804.1958",
+        "lang": "bg",
+        "refcode": "Дa 232.6"
+      },
+      {
+        "para_id": "11590.2508",
+        "lang": "ce",
+        "refcode": "ABA 507.2"
+      },
+      {
+        "para_id": "11247.2400",
+        "lang": "cs",
+        "refcode": "PNL 343.4"
+      },
+      {
+        "para_id": "813.2614",
+        "lang": "de",
+        "refcode": "WA 591.3"
+      },
+      {
+        "para_id": "198.2435",
+        "lang": "es",
+        "refcode": "HAp 476.2"
+      },
+      {
+        "para_id": "158.2530",
+        "lang": "fr",
+        "refcode": "CP 529.2"
+      },
+      {
+        "para_id": "11938.2258",
+        "lang": "hu",
+        "refcode": "AT 391.4"
+      },
+      {
+        "para_id": "12410.2454",
+        "lang": "id",
+        "refcode": "KR 502.3"
+      },
+      {
+        "para_id": "882.2272",
+        "lang": "it",
+        "refcode": "UVI 373.4"
+      },
+      {
+        "para_id": "12335.2167",
+        "lang": "nb",
+        "refcode": "AV 341.4"
+      },
+      {
+        "para_id": "12008.2043",
+        "lang": "pl",
+        "refcode": "DA 328.4"
+      },
+      {
+        "para_id": "1806.2116",
+        "lang": "pt",
+        "refcode": "AA 302.2"
+      },
+      {
+        "para_id": "2013.2605",
+        "lang": "ro",
+        "refcode": "FA 596.1"
+      },
+      {
+        "para_id": "1785.2562",
+        "lang": "ru",
+        "refcode": "ДА 596.1"
+      },
+      {
+        "para_id": "13874.2169",
+        "lang": "rw",
+        "refcode": "INI 364.4"
+      },
+      {
+        "para_id": "11182.2138",
+        "lang": "sk",
+        "refcode": "SA 356.4"
+      },
+      {
+        "para_id": "11904.2369",
+        "lang": "tl",
+        "refcode": "AGA 451.2"
+      },
+      {
+        "para_id": "11875.2288",
+        "lang": "uk",
+        "refcode": "ДА 409.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2624",
+    "id_prev": "127.2623",
+    "id_next": "127.2625",
+    "refcode_1": "AA",
+    "refcode_2": "596",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 596.2",
+    "refcode_long": "The Acts of the Apostles, p. 596.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "And to the Corinthians he wrote: &ldquo;According to the grace of God which is given unto me, as a wise master builder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon. For other foundation can no man lay than that is laid, which is Jesus Christ. Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble; every man&apos;s work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man&apos;s work of what sort it is.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Corinthians 3:10\" data-link=\"1965.57954\">1 Corinthians 3:10-13</span>.",
+    "puborder": 1631,
+    "translations": [
+      {
+        "para_id": "13804.1961",
+        "lang": "bg",
+        "refcode": "Дa 233.1"
+      },
+      {
+        "para_id": "11590.2509",
+        "lang": "ce",
+        "refcode": "ABA 507.3"
+      },
+      {
+        "para_id": "11247.2401",
+        "lang": "cs",
+        "refcode": "PNL 343.5"
+      },
+      {
+        "para_id": "813.2615",
+        "lang": "de",
+        "refcode": "WA 591.4"
+      },
+      {
+        "para_id": "198.2436",
+        "lang": "es",
+        "refcode": "HAp 476.3"
+      },
+      {
+        "para_id": "158.2530",
+        "lang": "fr",
+        "refcode": "CP 529.2"
+      },
+      {
+        "para_id": "11938.2261",
+        "lang": "hu",
+        "refcode": "AT 392.1"
+      },
+      {
+        "para_id": "12410.2455",
+        "lang": "id",
+        "refcode": "KR 502.4"
+      },
+      {
+        "para_id": "882.2273",
+        "lang": "it",
+        "refcode": "UVI 373.5"
+      },
+      {
+        "para_id": "12335.2168",
+        "lang": "nb",
+        "refcode": "AV 341.5"
+      },
+      {
+        "para_id": "12008.2044",
+        "lang": "pl",
+        "refcode": "DA 328.5"
+      },
+      {
+        "para_id": "1806.2117",
+        "lang": "pt",
+        "refcode": "AA 302.3"
+      },
+      {
+        "para_id": "2013.2606",
+        "lang": "ro",
+        "refcode": "FA 596.2"
+      },
+      {
+        "para_id": "1785.2563",
+        "lang": "ru",
+        "refcode": "ДА 596.2"
+      },
+      {
+        "para_id": "13874.2170",
+        "lang": "rw",
+        "refcode": "INI 364.5"
+      },
+      {
+        "para_id": "11182.2139",
+        "lang": "sk",
+        "refcode": "SA 356.5"
+      },
+      {
+        "para_id": "11904.2370",
+        "lang": "tl",
+        "refcode": "AGA 451.3"
+      },
+      {
+        "para_id": "11875.2289",
+        "lang": "uk",
+        "refcode": "ДА 409.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2625",
+    "id_prev": "127.2624",
+    "id_next": "127.2628",
+    "refcode_1": "AA",
+    "refcode_2": "596",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 596.3",
+    "refcode_long": "The Acts of the Apostles, p. 596.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostles built upon a sure foundation, even the Rock of Ages. To this foundation they brought the stones that they quarried from the world. Not without hindrance did the builders labor. Their work was made exceedingly difficult by the opposition of the enemies of Christ. They had to contend against the bigotry, prejudice, and hatred of those who were building upon a false foundation. Many <span class=\"page-break\" data-page=\"597\"></span> who wrought as builders of the church could be likened to the builders of the wall in Nehemiah&apos;s day, of whom it is written: &ldquo;They which builded on the wall, and they that bare burdens, with those that laded, everyone with one of his hands wrought in the work, and with the other hand held a weapon.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Nehemiah 4:17\" data-link=\"1965.25188\">Nehemiah 4:17</span>.",
+    "puborder": 1632,
+    "translations": [
+      {
+        "para_id": "13804.1962",
+        "lang": "bg",
+        "refcode": "Дa 233.2"
+      },
+      {
+        "para_id": "11590.2512",
+        "lang": "ce",
+        "refcode": "ABA 508.1"
+      },
+      {
+        "para_id": "11247.2404",
+        "lang": "cs",
+        "refcode": "PNL 344.1"
+      },
+      {
+        "para_id": "813.2618",
+        "lang": "de",
+        "refcode": "WA 592.1"
+      },
+      {
+        "para_id": "198.2437",
+        "lang": "es",
+        "refcode": "HAp 476.4"
+      },
+      {
+        "para_id": "158.2533",
+        "lang": "fr",
+        "refcode": "CP 530.1"
+      },
+      {
+        "para_id": "11938.2262",
+        "lang": "hu",
+        "refcode": "AT 392.2"
+      },
+      {
+        "para_id": "12410.2456",
+        "lang": "id",
+        "refcode": "KR 502.5"
+      },
+      {
+        "para_id": "882.2276",
+        "lang": "it",
+        "refcode": "UVI 374.1"
+      },
+      {
+        "para_id": "12335.2169",
+        "lang": "nb",
+        "refcode": "AV 341.6"
+      },
+      {
+        "para_id": "12008.2047",
+        "lang": "pl",
+        "refcode": "DA 329.1"
+      },
+      {
+        "para_id": "1806.2119",
+        "lang": "pt",
+        "refcode": "AA 302.5"
+      },
+      {
+        "para_id": "2013.2607",
+        "lang": "ro",
+        "refcode": "FA 596.3"
+      },
+      {
+        "para_id": "1785.2564",
+        "lang": "ru",
+        "refcode": "ДА 596.3"
+      },
+      {
+        "para_id": "13874.2173",
+        "lang": "rw",
+        "refcode": "INI 365.1"
+      },
+      {
+        "para_id": "11182.2141",
+        "lang": "sk",
+        "refcode": "SA 357.1"
+      },
+      {
+        "para_id": "11904.2371",
+        "lang": "tl",
+        "refcode": "AGA 451.4"
+      },
+      {
+        "para_id": "11875.2290",
+        "lang": "uk",
+        "refcode": "ДА 409.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2628",
+    "id_prev": "127.2625",
+    "id_next": "127.2629",
+    "refcode_1": "AA",
+    "refcode_2": "597",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 597.1",
+    "refcode_long": "The Acts of the Apostles, p. 597.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Kings and governors, priests and rulers, sought to destroy the temple of God. But in the face of imprisonment, torture, and death, faithful men carried the work forward; and the structure grew, beautiful and symmetrical. At times the workmen were almost blinded by the mists of superstition that settled around them. At times they were almost overpowered by the violence of their opponents. But with unfaltering faith and unfailing courage they pressed on with the work.",
+    "puborder": 1633,
+    "translations": [
+      {
+        "para_id": "13804.1963",
+        "lang": "bg",
+        "refcode": "Дa 233.3"
+      },
+      {
+        "para_id": "11590.2513",
+        "lang": "ce",
+        "refcode": "ABA 508.2"
+      },
+      {
+        "para_id": "11247.2406",
+        "lang": "cs",
+        "refcode": "PNL 344.2"
+      },
+      {
+        "para_id": "813.2619",
+        "lang": "de",
+        "refcode": "WA 592.2"
+      },
+      {
+        "para_id": "198.2440",
+        "lang": "es",
+        "refcode": "HAp 477.1"
+      },
+      {
+        "para_id": "158.2534",
+        "lang": "fr",
+        "refcode": "CP 530.2"
+      },
+      {
+        "para_id": "11938.2263",
+        "lang": "hu",
+        "refcode": "AT 392.3"
+      },
+      {
+        "para_id": "12410.2459",
+        "lang": "id",
+        "refcode": "KR 503.1"
+      },
+      {
+        "para_id": "882.2277",
+        "lang": "it",
+        "refcode": "UVI 374.2"
+      },
+      {
+        "para_id": "12335.2172",
+        "lang": "nb",
+        "refcode": "AV 342.1"
+      },
+      {
+        "para_id": "12008.2048",
+        "lang": "pl",
+        "refcode": "DA 329.2"
+      },
+      {
+        "para_id": "1806.2120",
+        "lang": "pt",
+        "refcode": "AA 302.6"
+      },
+      {
+        "para_id": "2013.2610",
+        "lang": "ro",
+        "refcode": "FA 597.1"
+      },
+      {
+        "para_id": "1785.2567",
+        "lang": "ru",
+        "refcode": "ДА 597.1"
+      },
+      {
+        "para_id": "13874.2174",
+        "lang": "rw",
+        "refcode": "INI 365.2"
+      },
+      {
+        "para_id": "11182.2142",
+        "lang": "sk",
+        "refcode": "SA 357.2"
+      },
+      {
+        "para_id": "11904.2374",
+        "lang": "tl",
+        "refcode": "AGA 452.1"
+      },
+      {
+        "para_id": "11875.2291",
+        "lang": "uk",
+        "refcode": "ДА 409.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2629",
+    "id_prev": "127.2628",
+    "id_next": "127.2630",
+    "refcode_1": "AA",
+    "refcode_2": "597",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 597.2",
+    "refcode_long": "The Acts of the Apostles, p. 597.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "One after another the foremost of the builders fell by the hand of the enemy. Stephen was stoned; James was slain by the sword; Paul was beheaded; Peter was crucified; John was exiled. Yet the church grew. New workers took the place of those who fell, and stone after stone was added to the building. Thus slowly ascended the temple of the church of God.",
+    "puborder": 1634,
+    "translations": [
+      {
+        "para_id": "13804.1964",
+        "lang": "bg",
+        "refcode": "Дa 233.4"
+      },
+      {
+        "para_id": "11590.2514",
+        "lang": "ce",
+        "refcode": "ABA 508.3"
+      },
+      {
+        "para_id": "11247.2407",
+        "lang": "cs",
+        "refcode": "PNL 344.3"
+      },
+      {
+        "para_id": "813.2620",
+        "lang": "de",
+        "refcode": "WA 592.3"
+      },
+      {
+        "para_id": "198.2441",
+        "lang": "es",
+        "refcode": "HAp 477.2"
+      },
+      {
+        "para_id": "158.2535",
+        "lang": "fr",
+        "refcode": "CP 530.3"
+      },
+      {
+        "para_id": "11938.2264",
+        "lang": "hu",
+        "refcode": "AT 392.4"
+      },
+      {
+        "para_id": "12410.2460",
+        "lang": "id",
+        "refcode": "KR 503.2"
+      },
+      {
+        "para_id": "882.2278",
+        "lang": "it",
+        "refcode": "UVI 374.3"
+      },
+      {
+        "para_id": "12335.2173",
+        "lang": "nb",
+        "refcode": "AV 342.2"
+      },
+      {
+        "para_id": "12008.2049",
+        "lang": "pl",
+        "refcode": "DA 329.3"
+      },
+      {
+        "para_id": "1806.2120",
+        "lang": "pt",
+        "refcode": "AA 302.6"
+      },
+      {
+        "para_id": "2013.2611",
+        "lang": "ro",
+        "refcode": "FA 597.2"
+      },
+      {
+        "para_id": "1785.2568",
+        "lang": "ru",
+        "refcode": "ДА 597.2"
+      },
+      {
+        "para_id": "13874.2175",
+        "lang": "rw",
+        "refcode": "INI 365.3"
+      },
+      {
+        "para_id": "11182.2143",
+        "lang": "sk",
+        "refcode": "SA 357.3"
+      },
+      {
+        "para_id": "11904.2375",
+        "lang": "tl",
+        "refcode": "AGA 452.2"
+      },
+      {
+        "para_id": "11875.2292",
+        "lang": "uk",
+        "refcode": "ДА 409.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2630",
+    "id_prev": "127.2629",
+    "id_next": "127.2633",
+    "refcode_1": "AA",
+    "refcode_2": "597",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 597.3",
+    "refcode_long": "The Acts of the Apostles, p. 597.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Centuries of fierce persecution followed the establishment of the Christian church, but there were never wanting men who counted the work of building God&apos;s temple dearer than life itself. Of such it is written: &ldquo;Others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment: they were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered <span class=\"page-break\" data-page=\"598\"></span> about in sheepskins and goatskins; being destitute, afflicted, tormented; (of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Hebrews 11:36\" data-link=\"1965.61621\">Hebrews 11:36-38</span>.",
+    "puborder": 1635,
+    "translations": [
+      {
+        "para_id": "13804.1965",
+        "lang": "bg",
+        "refcode": "Дa 233.5"
+      },
+      {
+        "para_id": "11590.2515",
+        "lang": "ce",
+        "refcode": "ABA 508.4"
+      },
+      {
+        "para_id": "11247.2408",
+        "lang": "cs",
+        "refcode": "PNL 344.4"
+      },
+      {
+        "para_id": "813.2623",
+        "lang": "de",
+        "refcode": "WA 593.1"
+      },
+      {
+        "para_id": "198.2442",
+        "lang": "es",
+        "refcode": "HAp 477.3"
+      },
+      {
+        "para_id": "158.2536",
+        "lang": "fr",
+        "refcode": "CP 530.4"
+      },
+      {
+        "para_id": "11938.2265",
+        "lang": "hu",
+        "refcode": "AT 392.5"
+      },
+      {
+        "para_id": "12410.2461",
+        "lang": "id",
+        "refcode": "KR 503.3"
+      },
+      {
+        "para_id": "882.2279",
+        "lang": "it",
+        "refcode": "UVI 374.4"
+      },
+      {
+        "para_id": "12335.2174",
+        "lang": "nb",
+        "refcode": "AV 342.3"
+      },
+      {
+        "para_id": "12008.2050",
+        "lang": "pl",
+        "refcode": "DA 329.4"
+      },
+      {
+        "para_id": "1806.2120",
+        "lang": "pt",
+        "refcode": "AA 302.6"
+      },
+      {
+        "para_id": "2013.2612",
+        "lang": "ro",
+        "refcode": "FA 597.3"
+      },
+      {
+        "para_id": "1785.2569",
+        "lang": "ru",
+        "refcode": "ДА 597.3"
+      },
+      {
+        "para_id": "13874.2176",
+        "lang": "rw",
+        "refcode": "INI 365.4"
+      },
+      {
+        "para_id": "11182.2144",
+        "lang": "sk",
+        "refcode": "SA 357.4"
+      },
+      {
+        "para_id": "11904.2376",
+        "lang": "tl",
+        "refcode": "AGA 452.3"
+      },
+      {
+        "para_id": "11875.2295",
+        "lang": "uk",
+        "refcode": "ДА 410.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2633",
+    "id_prev": "127.2630",
+    "id_next": "127.2634",
+    "refcode_1": "AA",
+    "refcode_2": "598",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 598.1",
+    "refcode_long": "The Acts of the Apostles, p. 598.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The enemy of righteousness left nothing undone in his effort to stop the work committed to the Lord&apos;s builders. But God &ldquo;left not Himself without witness.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 14:17\" data-link=\"1965.55941\">Acts 14:17</span>. Workers were raised up who ably defended the faith once delivered to the saints. History bears record to the fortitude and heroism of these men. Like the apostles, many of them fell at their post, but the building of the temple went steadily forward. The workmen were slain, but the work advanced. The Waldenses, John Wycliffe, Huss and Jerome, Martin Luther and Zwingli, Cranmer, Latimer, and Knox, the Huguenots, John and Charles Wesley, and a host of others brought to the foundation material that will endure throughout eternity. And in later years those who have so nobly endeavored to promote the circulation of God&apos;s word, and those who by their service in heathen lands have prepared the way for the proclamation of the last great message&mdash;these also have helped to rear the structure.",
+    "puborder": 1636,
+    "translations": [
+      {
+        "para_id": "13804.1966",
+        "lang": "bg",
+        "refcode": "Дa 233.6"
+      },
+      {
+        "para_id": "11590.2518",
+        "lang": "ce",
+        "refcode": "ABA 509.1"
+      },
+      {
+        "para_id": "11247.2409",
+        "lang": "cs",
+        "refcode": "PNL 344.5"
+      },
+      {
+        "para_id": "813.2624",
+        "lang": "de",
+        "refcode": "WA 593.2"
+      },
+      {
+        "para_id": "198.2443",
+        "lang": "es",
+        "refcode": "HAp 477.4"
+      },
+      {
+        "para_id": "158.2539",
+        "lang": "fr",
+        "refcode": "CP 531.1"
+      },
+      {
+        "para_id": "11938.2268",
+        "lang": "hu",
+        "refcode": "AT 393.1"
+      },
+      {
+        "para_id": "12410.2463",
+        "lang": "id",
+        "refcode": "KR 504.1"
+      },
+      {
+        "para_id": "882.2280",
+        "lang": "it",
+        "refcode": "UVI 374.5"
+      },
+      {
+        "para_id": "12335.2175",
+        "lang": "nb",
+        "refcode": "AV 342.4"
+      },
+      {
+        "para_id": "12008.2051",
+        "lang": "pl",
+        "refcode": "DA 329.5"
+      },
+      {
+        "para_id": "1806.2123",
+        "lang": "pt",
+        "refcode": "AA 303.1"
+      },
+      {
+        "para_id": "2013.2615",
+        "lang": "ro",
+        "refcode": "FA 598.1"
+      },
+      {
+        "para_id": "1785.2572",
+        "lang": "ru",
+        "refcode": "ДА 598.1"
+      },
+      {
+        "para_id": "13874.2177",
+        "lang": "rw",
+        "refcode": "INI 365.5"
+      },
+      {
+        "para_id": "11182.2145",
+        "lang": "sk",
+        "refcode": "SA 357.5"
+      },
+      {
+        "para_id": "11904.2377",
+        "lang": "tl",
+        "refcode": "AGA 452.4"
+      },
+      {
+        "para_id": "11875.2296",
+        "lang": "uk",
+        "refcode": "ДА 410.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2634",
+    "id_prev": "127.2633",
+    "id_next": "127.2637",
+    "refcode_1": "AA",
+    "refcode_2": "598",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 598.2",
+    "refcode_long": "The Acts of the Apostles, p. 598.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Through the ages that have passed since the days of the apostles, the building of God&apos;s temple has never ceased. We may look back through the centuries and see the living stones of which it is composed gleaming like jets of light through the darkness of error and superstition. Throughout eternity these precious jewels will shine with increasing luster, testifying to the power of the truth of God. The flashing light <span class=\"page-break\" data-page=\"599\"></span> of these polished stones reveals the strong contrast between light and darkness, between the gold of truth and the dross of error.",
+    "puborder": 1637,
+    "translations": [
+      {
+        "para_id": "13804.1969",
+        "lang": "bg",
+        "refcode": "Дa 234.1"
+      },
+      {
+        "para_id": "11590.2519",
+        "lang": "ce",
+        "refcode": "ABA 509.2"
+      },
+      {
+        "para_id": "11247.2411",
+        "lang": "cs",
+        "refcode": "PNL 345.1"
+      },
+      {
+        "para_id": "813.2625",
+        "lang": "de",
+        "refcode": "WA 593.3"
+      },
+      {
+        "para_id": "198.2446",
+        "lang": "es",
+        "refcode": "HAp 478.1"
+      },
+      {
+        "para_id": "158.2540",
+        "lang": "fr",
+        "refcode": "CP 531.2"
+      },
+      {
+        "para_id": "11938.2269",
+        "lang": "hu",
+        "refcode": "AT 393.2"
+      },
+      {
+        "para_id": "12410.2464",
+        "lang": "id",
+        "refcode": "KR 504.2"
+      },
+      {
+        "para_id": "882.2283",
+        "lang": "it",
+        "refcode": "UVI 375.1"
+      },
+      {
+        "para_id": "12335.2176",
+        "lang": "nb",
+        "refcode": "AV 342.5"
+      },
+      {
+        "para_id": "12008.2054",
+        "lang": "pl",
+        "refcode": "DA 330.1"
+      },
+      {
+        "para_id": "1806.2125",
+        "lang": "pt",
+        "refcode": "AA 303.3"
+      },
+      {
+        "para_id": "2013.2616",
+        "lang": "ro",
+        "refcode": "FA 598.2"
+      },
+      {
+        "para_id": "1785.2573",
+        "lang": "ru",
+        "refcode": "ДА 598.2"
+      },
+      {
+        "para_id": "13874.2180",
+        "lang": "rw",
+        "refcode": "INI 366.1"
+      },
+      {
+        "para_id": "11182.2148",
+        "lang": "sk",
+        "refcode": "SA 358.1"
+      },
+      {
+        "para_id": "11904.2380",
+        "lang": "tl",
+        "refcode": "AGA 453.1"
+      },
+      {
+        "para_id": "11875.2297",
+        "lang": "uk",
+        "refcode": "ДА 410.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2637",
+    "id_prev": "127.2634",
+    "id_next": "127.2638",
+    "refcode_1": "AA",
+    "refcode_2": "599",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 599.1",
+    "refcode_long": "The Acts of the Apostles, p. 599.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul and the other apostles, and all the righteous who have lived since then, have acted their part in the building of the temple. But the structure is not yet complete. We who are living in this age have a work to do, a part to act. We are to bring to the foundation material that will stand the test of fire&mdash;gold, silver, and precious stones, &ldquo;polished after the similitude of a palace.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Psalm 144:12\" data-link=\"1965.33278\">Psalm 144:12</span>. To those who thus build for God, Paul speaks words of encouragement and warning: &ldquo;If any man&apos;s work abide which he hath built thereupon, he shall receive a reward. If any man&apos;s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Corinthians 3:14\" data-link=\"1965.57962\">1 Corinthians 3:14, 15</span>. The Christian who faithfully presents the word of life, leading men and women into the way of holiness and peace, is bringing to the foundation material that will endure, and in the kingdom of God he will be honored as a wise builder.",
+    "puborder": 1638,
+    "translations": [
+      {
+        "para_id": "13804.1970",
+        "lang": "bg",
+        "refcode": "Дa 234.2"
+      },
+      {
+        "para_id": "11590.2520",
+        "lang": "ce",
+        "refcode": "ABA 509.3"
+      },
+      {
+        "para_id": "11247.2413",
+        "lang": "cs",
+        "refcode": "PNL 345.2"
+      },
+      {
+        "para_id": "813.2628",
+        "lang": "de",
+        "refcode": "WA 594.1"
+      },
+      {
+        "para_id": "198.2447",
+        "lang": "es",
+        "refcode": "HAp 478.2"
+      },
+      {
+        "para_id": "158.2541",
+        "lang": "fr",
+        "refcode": "CP 531.3"
+      },
+      {
+        "para_id": "11938.2270",
+        "lang": "hu",
+        "refcode": "AT 393.3"
+      },
+      {
+        "para_id": "12410.2465",
+        "lang": "id",
+        "refcode": "KR 504.3"
+      },
+      {
+        "para_id": "882.2284",
+        "lang": "it",
+        "refcode": "UVI 375.2"
+      },
+      {
+        "para_id": "12335.2179",
+        "lang": "nb",
+        "refcode": "AV 343.1"
+      },
+      {
+        "para_id": "12008.2055",
+        "lang": "pl",
+        "refcode": "DA 330.2"
+      },
+      {
+        "para_id": "1806.2126",
+        "lang": "pt",
+        "refcode": "AA 303.4"
+      },
+      {
+        "para_id": "2013.2619",
+        "lang": "ro",
+        "refcode": "FA 599.1"
+      },
+      {
+        "para_id": "1785.2576",
+        "lang": "ru",
+        "refcode": "ДА 599.1"
+      },
+      {
+        "para_id": "13874.2181",
+        "lang": "rw",
+        "refcode": "INI 366.2"
+      },
+      {
+        "para_id": "11182.2149",
+        "lang": "sk",
+        "refcode": "SA 358.2"
+      },
+      {
+        "para_id": "11904.2381",
+        "lang": "tl",
+        "refcode": "AGA 453.2"
+      },
+      {
+        "para_id": "11875.2298",
+        "lang": "uk",
+        "refcode": "ДА 410.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2638",
+    "id_prev": "127.2637",
+    "id_next": "127.2641",
+    "refcode_1": "AA",
+    "refcode_2": "599",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 599.2",
+    "refcode_long": "The Acts of the Apostles, p. 599.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Of the apostles it is written, &ldquo;They went forth, and preached everywhere, the Lord working with them, and confirming the word with signs following.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Mark 16:20\" data-link=\"1965.50803\">Mark 16:20</span>. As Christ sent forth His disciples, so today He sends forth the members of His church. The same power that the apostles had is for them. If they will make God their strength, He will work with them, and they shall not labor in vain. Let them realize that the work in which they are engaged is one upon which the Lord has placed His signet. God said to <span class=\"page-break\" data-page=\"600\"></span> Jeremiah, &ldquo;Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak. Be not afraid of their faces: for I am with thee to deliver thee.&rdquo; Then the Lord put forth His hand and touched His servant&apos;s mouth, saying, &ldquo;Behold, I have put My words in thy mouth.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Jeremiah 1:7\" data-link=\"1965.38679\">Jeremiah 1:7-9</span>. And He bids us go forth to speak the words He gives us, feeling His holy touch upon our lips.",
+    "puborder": 1639,
+    "translations": [
+      {
+        "para_id": "13804.1971",
+        "lang": "bg",
+        "refcode": "Дa 234.3"
+      },
+      {
+        "para_id": "11590.2523",
+        "lang": "ce",
+        "refcode": "ABA 510.1"
+      },
+      {
+        "para_id": "11247.2414",
+        "lang": "cs",
+        "refcode": "PNL 345.3"
+      },
+      {
+        "para_id": "813.2629",
+        "lang": "de",
+        "refcode": "WA 594.2"
+      },
+      {
+        "para_id": "198.2450",
+        "lang": "es",
+        "refcode": "HAp 479.1"
+      },
+      {
+        "para_id": "158.2544",
+        "lang": "fr",
+        "refcode": "CP 532.1"
+      },
+      {
+        "para_id": "11938.2273",
+        "lang": "hu",
+        "refcode": "AT 394.1"
+      },
+      {
+        "para_id": "12410.2468",
+        "lang": "id",
+        "refcode": "KR 505.1"
+      },
+      {
+        "para_id": "882.2285",
+        "lang": "it",
+        "refcode": "UVI 375.3"
+      },
+      {
+        "para_id": "12335.2180",
+        "lang": "nb",
+        "refcode": "AV 343.2"
+      },
+      {
+        "para_id": "12008.2056",
+        "lang": "pl",
+        "refcode": "DA 330.3"
+      },
+      {
+        "para_id": "1806.2127",
+        "lang": "pt",
+        "refcode": "AA 303.5"
+      },
+      {
+        "para_id": "2013.2620",
+        "lang": "ro",
+        "refcode": "FA 599.2"
+      },
+      {
+        "para_id": "1785.2577",
+        "lang": "ru",
+        "refcode": "ДА 599.2"
+      },
+      {
+        "para_id": "13874.2182",
+        "lang": "rw",
+        "refcode": "INI 366.3"
+      },
+      {
+        "para_id": "11182.2150",
+        "lang": "sk",
+        "refcode": "SA 358.3"
+      },
+      {
+        "para_id": "11904.2382",
+        "lang": "tl",
+        "refcode": "AGA 453.3"
+      },
+      {
+        "para_id": "11875.2301",
+        "lang": "uk",
+        "refcode": "ДА 411.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2641",
+    "id_prev": "127.2638",
+    "id_next": "127.2642",
+    "refcode_1": "AA",
+    "refcode_2": "600",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 600.1",
+    "refcode_long": "The Acts of the Apostles, p. 600.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Christ has given to the church a sacred charge. Every member should be a channel through which God can communicate to the world the treasures of His grace, the unsearchable riches of Christ. There is nothing that the Saviour desires so much as agents who will represent to the world His Spirit and His character. There is nothing that the world needs so much as the manifestation through humanity of the Saviour&apos;s love. All heaven is waiting for men and women through whom God can reveal the power of Christianity.",
+    "puborder": 1640,
+    "translations": [
+      {
+        "para_id": "13804.1972",
+        "lang": "bg",
+        "refcode": "Дa 234.4"
+      },
+      {
+        "para_id": "11590.2524",
+        "lang": "ce",
+        "refcode": "ABA 510.2"
+      },
+      {
+        "para_id": "11247.2415",
+        "lang": "cs",
+        "refcode": "PNL 345.4"
+      },
+      {
+        "para_id": "813.2632",
+        "lang": "de",
+        "refcode": "WA 595.1"
+      },
+      {
+        "para_id": "198.2451",
+        "lang": "es",
+        "refcode": "HAp 479.2"
+      },
+      {
+        "para_id": "158.2545",
+        "lang": "fr",
+        "refcode": "CP 532.2"
+      },
+      {
+        "para_id": "11938.2274",
+        "lang": "hu",
+        "refcode": "AT 394.2"
+      },
+      {
+        "para_id": "12410.2469",
+        "lang": "id",
+        "refcode": "KR 505.2"
+      },
+      {
+        "para_id": "882.2288",
+        "lang": "it",
+        "refcode": "UVI 376.1"
+      },
+      {
+        "para_id": "12335.2181",
+        "lang": "nb",
+        "refcode": "AV 343.3"
+      },
+      {
+        "para_id": "12008.2057",
+        "lang": "pl",
+        "refcode": "DA 330.4"
+      },
+      {
+        "para_id": "1806.2129",
+        "lang": "pt",
+        "refcode": "AA 304.1"
+      },
+      {
+        "para_id": "2013.2623",
+        "lang": "ro",
+        "refcode": "FA 600.1"
+      },
+      {
+        "para_id": "1785.2580",
+        "lang": "ru",
+        "refcode": "ДА 600.1"
+      },
+      {
+        "para_id": "13874.2185",
+        "lang": "rw",
+        "refcode": "INI 367.1"
+      },
+      {
+        "para_id": "11182.2151",
+        "lang": "sk",
+        "refcode": "SA 358.4"
+      },
+      {
+        "para_id": "11904.2385",
+        "lang": "tl",
+        "refcode": "AGA 454.1"
+      },
+      {
+        "para_id": "11875.2302",
+        "lang": "uk",
+        "refcode": "ДА 411.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2642",
+    "id_prev": "127.2641",
+    "id_next": "127.2643",
+    "refcode_1": "AA",
+    "refcode_2": "600",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 600.2",
+    "refcode_long": "The Acts of the Apostles, p. 600.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The church is God&apos;s agency for the proclamation of truth, empowered by Him to do a special work; and if she is loyal to Him, obedient to all His commandments, there will dwell within her the excellency of divine grace. If she will be true to her allegiance, if she will honor the Lord God of Israel, there is no power that can stand against her.",
+    "puborder": 1641,
+    "translations": [
+      {
+        "para_id": "13804.1973",
+        "lang": "bg",
+        "refcode": "Дa 234.5"
+      },
+      {
+        "para_id": "11590.2527",
+        "lang": "ce",
+        "refcode": "ABA 511.1"
+      },
+      {
+        "para_id": "11247.2416",
+        "lang": "cs",
+        "refcode": "PNL 345.5"
+      },
+      {
+        "para_id": "813.2633",
+        "lang": "de",
+        "refcode": "WA 595.2"
+      },
+      {
+        "para_id": "198.2452",
+        "lang": "es",
+        "refcode": "HAp 479.3"
+      },
+      {
+        "para_id": "158.2548",
+        "lang": "fr",
+        "refcode": "CP 533.1"
+      },
+      {
+        "para_id": "11938.2275",
+        "lang": "hu",
+        "refcode": "AT 394.3"
+      },
+      {
+        "para_id": "12410.2472",
+        "lang": "id",
+        "refcode": "KR 506.1"
+      },
+      {
+        "para_id": "882.2289",
+        "lang": "it",
+        "refcode": "UVI 376.2"
+      },
+      {
+        "para_id": "12335.2182",
+        "lang": "nb",
+        "refcode": "AV 343.4"
+      },
+      {
+        "para_id": "12008.2059",
+        "lang": "pl",
+        "refcode": "DA 331.1"
+      },
+      {
+        "para_id": "1806.2130",
+        "lang": "pt",
+        "refcode": "AA 304.2"
+      },
+      {
+        "para_id": "2013.2624",
+        "lang": "ro",
+        "refcode": "FA 600.2"
+      },
+      {
+        "para_id": "1785.2581",
+        "lang": "ru",
+        "refcode": "ДА 600.2"
+      },
+      {
+        "para_id": "13874.2186",
+        "lang": "rw",
+        "refcode": "INI 367.2"
+      },
+      {
+        "para_id": "11182.2154",
+        "lang": "sk",
+        "refcode": "SA 359.1"
+      },
+      {
+        "para_id": "11904.2386",
+        "lang": "tl",
+        "refcode": "AGA 454.2"
+      },
+      {
+        "para_id": "11875.2303",
+        "lang": "uk",
+        "refcode": "ДА 411.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2643",
+    "id_prev": "127.2642",
+    "id_next": "127.2645",
+    "refcode_1": "AA",
+    "refcode_2": "600",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 600.3",
+    "refcode_long": "The Acts of the Apostles, p. 600.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Zeal for God and His cause moved the disciples to bear witness to the gospel with mighty power. Should not a like zeal fire our hearts with a determination to tell the story of redeeming love, of Christ and Him crucified? It is the privilege of every Christian, not only to look for, but to hasten the coming of the Saviour.",
+    "puborder": 1642,
+    "translations": [
+      {
+        "para_id": "13804.1974",
+        "lang": "bg",
+        "refcode": "Дa 234.6"
+      },
+      {
+        "para_id": "11590.2528",
+        "lang": "ce",
+        "refcode": "ABA 511.2"
+      },
+      {
+        "para_id": "11247.2419",
+        "lang": "cs",
+        "refcode": "PNL 346.1"
+      },
+      {
+        "para_id": "813.2634",
+        "lang": "de",
+        "refcode": "WA 595.3"
+      },
+      {
+        "para_id": "198.2455",
+        "lang": "es",
+        "refcode": "HAp 480.1"
+      },
+      {
+        "para_id": "158.2549",
+        "lang": "fr",
+        "refcode": "CP 533.2"
+      },
+      {
+        "para_id": "11938.2276",
+        "lang": "hu",
+        "refcode": "AT 394.4"
+      },
+      {
+        "para_id": "12410.2473",
+        "lang": "id",
+        "refcode": "KR 506.2"
+      },
+      {
+        "para_id": "882.2290",
+        "lang": "it",
+        "refcode": "UVI 376.3"
+      },
+      {
+        "para_id": "12335.2185",
+        "lang": "nb",
+        "refcode": "AV 344.1"
+      },
+      {
+        "para_id": "12008.2060",
+        "lang": "pl",
+        "refcode": "DA 331.2"
+      },
+      {
+        "para_id": "1806.2131",
+        "lang": "pt",
+        "refcode": "AA 304.3"
+      },
+      {
+        "para_id": "2013.2625",
+        "lang": "ro",
+        "refcode": "FA 600.3"
+      },
+      {
+        "para_id": "1785.2582",
+        "lang": "ru",
+        "refcode": "ДА 600.3"
+      },
+      {
+        "para_id": "13874.2187",
+        "lang": "rw",
+        "refcode": "INI 367.3"
+      },
+      {
+        "para_id": "11182.2155",
+        "lang": "sk",
+        "refcode": "SA 359.2"
+      },
+      {
+        "para_id": "11904.2387",
+        "lang": "tl",
+        "refcode": "AGA 454.3"
+      },
+      {
+        "para_id": "11875.2306",
+        "lang": "uk",
+        "refcode": "ДА 412.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2645",
+    "id_prev": "127.2643",
+    "id_next": "127.2646",
+    "refcode_1": "AA",
+    "refcode_2": "601",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 601.1",
+    "refcode_long": "The Acts of the Apostles, p. 601.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "If the church will put on the robe of Christ&apos;s righteousness, withdrawing from all allegiance with the world, there is before her the dawn of a bright and glorious day. God&apos;s promise to her will stand fast forever. He will make her an eternal excellency, a joy of many generations. Truth, passing by those who despise and reject it, will triumph. Although at times apparently retarded, its progress has never been checked. When the message of God meets with opposition, He gives it additional force, that it may exert greater influence. Endowed with divine energy, it will cut its way through the strongest barriers and triumph over every obstacle.",
+    "puborder": 1643,
+    "translations": [
+      {
+        "para_id": "13804.1975",
+        "lang": "bg",
+        "refcode": "Дa 234.7"
+      },
+      {
+        "para_id": "11590.2529",
+        "lang": "ce",
+        "refcode": "ABA 511.3"
+      },
+      {
+        "para_id": "11247.2421",
+        "lang": "cs",
+        "refcode": "PNL 346.2"
+      },
+      {
+        "para_id": "813.2635",
+        "lang": "de",
+        "refcode": "WA 595.4"
+      },
+      {
+        "para_id": "198.2456",
+        "lang": "es",
+        "refcode": "HAp 480.2"
+      },
+      {
+        "para_id": "158.2551",
+        "lang": "fr",
+        "refcode": "CP 533.4"
+      },
+      {
+        "para_id": "158.2550",
+        "lang": "fr",
+        "refcode": "CP 533.3"
+      },
+      {
+        "para_id": "11938.2279",
+        "lang": "hu",
+        "refcode": "AT 395.1"
+      },
+      {
+        "para_id": "12410.2474",
+        "lang": "id",
+        "refcode": "KR 506.3"
+      },
+      {
+        "para_id": "882.2291",
+        "lang": "it",
+        "refcode": "UVI 376.4"
+      },
+      {
+        "para_id": "12335.2186",
+        "lang": "nb",
+        "refcode": "AV 344.2"
+      },
+      {
+        "para_id": "12008.2061",
+        "lang": "pl",
+        "refcode": "DA 331.3"
+      },
+      {
+        "para_id": "1806.2132",
+        "lang": "pt",
+        "refcode": "AA 304.4"
+      },
+      {
+        "para_id": "2013.2627",
+        "lang": "ro",
+        "refcode": "FA 601.1"
+      },
+      {
+        "para_id": "1785.2584",
+        "lang": "ru",
+        "refcode": "ДА 601.1"
+      },
+      {
+        "para_id": "13874.2188",
+        "lang": "rw",
+        "refcode": "INI 367.4"
+      },
+      {
+        "para_id": "11182.2156",
+        "lang": "sk",
+        "refcode": "SA 359.3"
+      },
+      {
+        "para_id": "11904.2389",
+        "lang": "tl",
+        "refcode": "AGA 455.1"
+      },
+      {
+        "para_id": "11875.2307",
+        "lang": "uk",
+        "refcode": "ДА 412.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2646",
+    "id_prev": "127.2645",
+    "id_next": "127.2647",
+    "refcode_1": "AA",
+    "refcode_2": "601",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 601.2",
+    "refcode_long": "The Acts of the Apostles, p. 601.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "What sustained the Son of God during His life of toil and sacrifice? He saw the results of the travail of His soul and was satisfied. Looking into eternity, He beheld the happiness of those who through His humiliation had received pardon and everlasting life. His ear caught the shout of the redeemed. He heard the ransomed ones singing the song of Moses and the Lamb.",
+    "puborder": 1644,
+    "translations": [
+      {
+        "para_id": "13804.1978",
+        "lang": "bg",
+        "refcode": "Дa 235.1"
+      },
+      {
+        "para_id": "11590.2530",
+        "lang": "ce",
+        "refcode": "ABA 511.4"
+      },
+      {
+        "para_id": "11247.2422",
+        "lang": "cs",
+        "refcode": "PNL 346.3"
+      },
+      {
+        "para_id": "813.2638",
+        "lang": "de",
+        "refcode": "WA 596.1"
+      },
+      {
+        "para_id": "198.2457",
+        "lang": "es",
+        "refcode": "HAp 480.3"
+      },
+      {
+        "para_id": "158.2552",
+        "lang": "fr",
+        "refcode": "CP 533.5"
+      },
+      {
+        "para_id": "11938.2280",
+        "lang": "hu",
+        "refcode": "AT 395.2"
+      },
+      {
+        "para_id": "12410.2475",
+        "lang": "id",
+        "refcode": "KR 506.4"
+      },
+      {
+        "para_id": "882.2292",
+        "lang": "it",
+        "refcode": "UVI 376.5"
+      },
+      {
+        "para_id": "12335.2187",
+        "lang": "nb",
+        "refcode": "AV 344.3"
+      },
+      {
+        "para_id": "12008.2062",
+        "lang": "pl",
+        "refcode": "DA 331.4"
+      },
+      {
+        "para_id": "1806.2133",
+        "lang": "pt",
+        "refcode": "AA 304.5"
+      },
+      {
+        "para_id": "2013.2628",
+        "lang": "ro",
+        "refcode": "FA 601.2"
+      },
+      {
+        "para_id": "1785.2585",
+        "lang": "ru",
+        "refcode": "ДА 601.2"
+      },
+      {
+        "para_id": "13874.2189",
+        "lang": "rw",
+        "refcode": "INI 367.5"
+      },
+      {
+        "para_id": "11182.2156",
+        "lang": "sk",
+        "refcode": "SA 359.3"
+      },
+      {
+        "para_id": "11904.2390",
+        "lang": "tl",
+        "refcode": "AGA 455.2"
+      },
+      {
+        "para_id": "11875.2308",
+        "lang": "uk",
+        "refcode": "ДА 412.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2647",
+    "id_prev": "127.2646",
+    "id_next": "127.2650",
+    "refcode_1": "AA",
+    "refcode_2": "601",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 601.3",
+    "refcode_long": "The Acts of the Apostles, p. 601.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "We may have a vision of the future, the blessedness of heaven. In the Bible are revealed visions of the future glory, scenes pictured by the hand of God, and these are dear to His church. By faith we may stand on the threshold of the eternal city, and hear the gracious welcome given to those who in this life co-operate with Christ, regarding it as an honor to suffer for His sake. As the words are spoken, &ldquo;Come, ye blessed of My Father,&rdquo; they cast their crowns at the feet of the Redeemer, exclaiming, &ldquo;Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honor, and glory, and blessing. <span class=\"page-break\" data-page=\"602\"></span> ... Honor, and glory, and power, be unto Him that sitteth upon the throne, and unto the Lamb for ever and ever.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Matthew 25:34\" data-link=\"1965.49081\">Matthew 25:34</span>; <span class=\"egwlink egwlink_bible\" title=\"Revelation 5:12\" data-link=\"1965.62823\">Revelation 5:12, 13</span>.",
+    "puborder": 1645,
+    "translations": [
+      {
+        "para_id": "13804.1979",
+        "lang": "bg",
+        "refcode": "Дa 235.2"
+      },
+      {
+        "para_id": "11590.2533",
+        "lang": "ce",
+        "refcode": "ABA 512.1"
+      },
+      {
+        "para_id": "11247.2423",
+        "lang": "cs",
+        "refcode": "PNL 346.4"
+      },
+      {
+        "para_id": "813.2639",
+        "lang": "de",
+        "refcode": "WA 596.2"
+      },
+      {
+        "para_id": "198.2458",
+        "lang": "es",
+        "refcode": "HAp 480.4"
+      },
+      {
+        "para_id": "158.2554",
+        "lang": "fr",
+        "refcode": "CP 534.1"
+      },
+      {
+        "para_id": "158.2555",
+        "lang": "fr",
+        "refcode": "CP 534.2"
+      },
+      {
+        "para_id": "11938.2281",
+        "lang": "hu",
+        "refcode": "AT 395.3"
+      },
+      {
+        "para_id": "12410.2476",
+        "lang": "id",
+        "refcode": "KR 506.5"
+      },
+      {
+        "para_id": "882.2293",
+        "lang": "it",
+        "refcode": "UVI 376.6"
+      },
+      {
+        "para_id": "12335.2188",
+        "lang": "nb",
+        "refcode": "AV 344.4"
+      },
+      {
+        "para_id": "12008.2063",
+        "lang": "pl",
+        "refcode": "DA 331.5"
+      },
+      {
+        "para_id": "1806.2134",
+        "lang": "pt",
+        "refcode": "AA 304.6"
+      },
+      {
+        "para_id": "2013.2629",
+        "lang": "ro",
+        "refcode": "FA 601.3"
+      },
+      {
+        "para_id": "1785.2586",
+        "lang": "ru",
+        "refcode": "ДА 601.3"
+      },
+      {
+        "para_id": "13874.2191",
+        "lang": "rw",
+        "refcode": "INI 368.1"
+      },
+      {
+        "para_id": "11182.2157",
+        "lang": "sk",
+        "refcode": "SA 359.4"
+      },
+      {
+        "para_id": "11904.2391",
+        "lang": "tl",
+        "refcode": "AGA 455.3"
+      },
+      {
+        "para_id": "11875.2309",
+        "lang": "uk",
+        "refcode": "ДА 412.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2650",
+    "id_prev": "127.2647",
+    "id_next": "127.2651",
+    "refcode_1": "AA",
+    "refcode_2": "602",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 602.1",
+    "refcode_long": "The Acts of the Apostles, p. 602.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There the redeemed greet those who led them to the Saviour, and all unite in praising Him who died that human beings might have the life that measures with the life of God. The conflict is over. Tribulation and strife are at an end. Songs of victory fill all heaven as the ransomed ones take up the joyful strain, Worthy, worthy is the Lamb that was slain, and lives again, a triumphant conqueror.",
+    "puborder": 1646,
+    "translations": [
+      {
+        "para_id": "13804.1980",
+        "lang": "bg",
+        "refcode": "Дa 235.3"
+      },
+      {
+        "para_id": "11590.2534",
+        "lang": "ce",
+        "refcode": "ABA 512.2"
+      },
+      {
+        "para_id": "11247.2424",
+        "lang": "cs",
+        "refcode": "PNL 346.5"
+      },
+      {
+        "para_id": "813.2641",
+        "lang": "de",
+        "refcode": "WA 597.1"
+      },
+      {
+        "para_id": "198.2461",
+        "lang": "es",
+        "refcode": "HAp 481.1"
+      },
+      {
+        "para_id": "158.2557",
+        "lang": "fr",
+        "refcode": "CP 534.4"
+      },
+      {
+        "para_id": "158.2556",
+        "lang": "fr",
+        "refcode": "CP 534.3"
+      },
+      {
+        "para_id": "11938.2282",
+        "lang": "hu",
+        "refcode": "AT 395.4"
+      },
+      {
+        "para_id": "12410.2479",
+        "lang": "id",
+        "refcode": "KR 507.1"
+      },
+      {
+        "para_id": "882.2296",
+        "lang": "it",
+        "refcode": "UVI 377.1"
+      },
+      {
+        "para_id": "12335.2189",
+        "lang": "nb",
+        "refcode": "AV 344.5"
+      },
+      {
+        "para_id": "12008.2064",
+        "lang": "pl",
+        "refcode": "DA 331.6"
+      },
+      {
+        "para_id": "1806.2135",
+        "lang": "pt",
+        "refcode": "AA 304.7"
+      },
+      {
+        "para_id": "2013.2632",
+        "lang": "ro",
+        "refcode": "FA 602.1"
+      },
+      {
+        "para_id": "1785.2589",
+        "lang": "ru",
+        "refcode": "ДА 602.1"
+      },
+      {
+        "para_id": "13874.2192",
+        "lang": "rw",
+        "refcode": "INI 368.2"
+      },
+      {
+        "para_id": "11182.2159",
+        "lang": "sk",
+        "refcode": "SA 360.1"
+      },
+      {
+        "para_id": "11904.2392",
+        "lang": "tl",
+        "refcode": "AGA 455.4"
+      },
+      {
+        "para_id": "11875.2312",
+        "lang": "uk",
+        "refcode": "ДА 413.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2651",
+    "id_prev": "127.2650",
+    "id_next": "127.2652",
+    "refcode_1": "AA",
+    "refcode_2": "602",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 602.2",
+    "refcode_long": "The Acts of the Apostles, p. 602.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands; and cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Revelation 7:9\" data-link=\"1965.62881\">Revelation 7:9, 10</span>.",
+    "puborder": 1647,
+    "translations": [
+      {
+        "para_id": "13804.1981",
+        "lang": "bg",
+        "refcode": "Дa 235.4"
+      },
+      {
+        "para_id": "11590.2535",
+        "lang": "ce",
+        "refcode": "ABA 512.3"
+      },
+      {
+        "para_id": "11247.2425",
+        "lang": "cs",
+        "refcode": "PNL 346.6"
+      },
+      {
+        "para_id": "813.2642",
+        "lang": "de",
+        "refcode": "WA 597.2"
+      },
+      {
+        "para_id": "198.2462",
+        "lang": "es",
+        "refcode": "HAp 481.2"
+      },
+      {
+        "para_id": "158.2558",
+        "lang": "fr",
+        "refcode": "CP 534.5"
+      },
+      {
+        "para_id": "11938.2284",
+        "lang": "hu",
+        "refcode": "AT 396.1"
+      },
+      {
+        "para_id": "12410.2480",
+        "lang": "id",
+        "refcode": "KR 507.2"
+      },
+      {
+        "para_id": "882.2297",
+        "lang": "it",
+        "refcode": "UVI 377.2"
+      },
+      {
+        "para_id": "12008.2066",
+        "lang": "pl",
+        "refcode": "DA 332.1"
+      },
+      {
+        "para_id": "1806.2137",
+        "lang": "pt",
+        "refcode": "AA 305.1"
+      },
+      {
+        "para_id": "2013.2633",
+        "lang": "ro",
+        "refcode": "FA 602.2"
+      },
+      {
+        "para_id": "1785.2590",
+        "lang": "ru",
+        "refcode": "ДА 602.2"
+      },
+      {
+        "para_id": "13874.2193",
+        "lang": "rw",
+        "refcode": "INI 368.3"
+      },
+      {
+        "para_id": "11182.2160",
+        "lang": "sk",
+        "refcode": "SA 360.2"
+      },
+      {
+        "para_id": "11904.2395",
+        "lang": "tl",
+        "refcode": "AGA 456.1"
+      },
+      {
+        "para_id": "11875.2313",
+        "lang": "uk",
+        "refcode": "ДА 413.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2652",
+    "id_prev": "127.2651",
+    "id_next": null,
+    "refcode_1": "AA",
+    "refcode_2": "602",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 602.3",
+    "refcode_long": "The Acts of the Apostles, p. 602.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb. Therefore are they before the throne of God, and serve Him day and night in His temple: and He that sitteth on the throne shall dwell among them. They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat. For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.&rdquo; &ldquo;And there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Revelation 7:14\" data-link=\"1965.62891\">Revelation 7:14-17</span>; <span class=\"egwlink egwlink_bible\" title=\"Revelation 21:4\" data-link=\"1965.63371\">21:4</span>.",
+    "puborder": 1648,
+    "translations": [
+      {
+        "para_id": "13804.1982",
+        "lang": "bg",
+        "refcode": "Дa 235.5"
+      },
+      {
+        "para_id": "11590.2536",
+        "lang": "ce",
+        "refcode": "ABA 512.4"
+      },
+      {
+        "para_id": "11247.2426",
+        "lang": "cs",
+        "refcode": "PNL 346.7"
+      },
+      {
+        "para_id": "813.2642",
+        "lang": "de",
+        "refcode": "WA 597.2"
+      },
+      {
+        "para_id": "198.2463",
+        "lang": "es",
+        "refcode": "HAp 481.3"
+      },
+      {
+        "para_id": "158.2559",
+        "lang": "fr",
+        "refcode": "CP 534.6"
+      },
+      {
+        "para_id": "11938.2285",
+        "lang": "hu",
+        "refcode": "AT 396.2"
+      },
+      {
+        "para_id": "12410.2481",
+        "lang": "id",
+        "refcode": "KR 507.3"
+      },
+      {
+        "para_id": "882.2298",
+        "lang": "it",
+        "refcode": "UVI 377.3"
+      },
+      {
+        "para_id": "12008.2067",
+        "lang": "pl",
+        "refcode": "DA 332.2"
+      },
+      {
+        "para_id": "1806.2139",
+        "lang": "pt",
+        "refcode": "AA 306.1"
+      },
+      {
+        "para_id": "2013.2634",
+        "lang": "ro",
+        "refcode": "FA 602.3"
+      },
+      {
+        "para_id": "1785.2591",
+        "lang": "ru",
+        "refcode": "ДА 602.3"
+      },
+      {
+        "para_id": "13874.2194",
+        "lang": "rw",
+        "refcode": "INI 368.4"
+      },
+      {
+        "para_id": "11182.2161",
+        "lang": "sk",
+        "refcode": "SA 360.3"
+      },
+      {
+        "para_id": "11904.2396",
+        "lang": "tl",
+        "refcode": "AGA 456.2"
+      },
+      {
+        "para_id": "11875.2314",
+        "lang": "uk",
+        "refcode": "ДА 413.3"
+      }
+    ]
+  }
+]

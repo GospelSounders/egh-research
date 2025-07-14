@@ -1,0 +1,111 @@
+[
+  {
+    "para_id": "21.531",
+    "id_prev": "21.530",
+    "id_next": "21.532",
+    "refcode_1": "CSW",
+    "refcode_2": "115",
+    "refcode_3": "",
+    "refcode_4": "76",
+    "refcode_short": "CSW 115",
+    "refcode_long": "Counsels on Sabbath School Work, p. 115 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Mistakes Pointed Out",
+    "puborder": 333,
+    "translations": [
+      {
+        "para_id": "11629.505",
+        "lang": "da",
+        "refcode": "RSSA 115"
+      },
+      {
+        "para_id": "799.507",
+        "lang": "de",
+        "refcode": "RSs 96"
+      },
+      {
+        "para_id": "1711.569",
+        "lang": "es",
+        "refcode": "COES 128"
+      },
+      {
+        "para_id": "1724.566",
+        "lang": "pt",
+        "refcode": "CES 115"
+      },
+      {
+        "para_id": "1917.623",
+        "lang": "pt",
+        "refcode": "CES38 60"
+      },
+      {
+        "para_id": "2719.546",
+        "lang": "ro",
+        "refcode": "SSS 115"
+      },
+      {
+        "para_id": "1873.526",
+        "lang": "ru",
+        "refcode": "ССШ 115"
+      }
+    ]
+  },
+  {
+    "para_id": "21.532",
+    "id_prev": "21.531",
+    "id_next": "21.535",
+    "refcode_1": "CSW",
+    "refcode_2": "115",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 115.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 115.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Sabbath school, if rightly conducted, is one of God&apos;s great instrumentalities to bring souls to a knowledge of the truth. It is not the best plan for teachers to do all the talking, but they should draw out the class to tell what they know. Then let the teacher, with a few brief, pointed remarks or illustrations, impress the lesson upon their minds. Under <span class=\"page-break\" data-page=\"116\"></span> no circumstances should teachers go through the lesson mechanically, and then sit down, leaving the children to stare about, or whisper and play, as we have seen them do. Such teaching is not beneficial; it is often injurious. If the teacher is properly prepared, every moment can be used to profit. The active minds of the children should be kept constantly employed. Their ideas should be drawn out and corrected, or approved, as the case may require. But never should the teacher sit down, saying, &ldquo;I am through.&rdquo; There is no such thing as getting through with the lesson.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 18.1\" data-link=\"121.62\"><em>Testimonies on Sabbath-School Work</em>, 18, 19</span>.",
+    "puborder": 334,
+    "translations": [
+      {
+        "para_id": "11629.506",
+        "lang": "da",
+        "refcode": "RSSA 115.2"
+      },
+      {
+        "para_id": "799.508",
+        "lang": "de",
+        "refcode": "RSs 96.2"
+      },
+      {
+        "para_id": "1711.570",
+        "lang": "es",
+        "refcode": "COES 128.2"
+      },
+      {
+        "para_id": "1917.626",
+        "lang": "pt",
+        "refcode": "CES38 60.2"
+      },
+      {
+        "para_id": "1724.567",
+        "lang": "pt",
+        "refcode": "CES 115.2"
+      },
+      {
+        "para_id": "1917.624",
+        "lang": "pt",
+        "refcode": "CES38 60.1"
+      },
+      {
+        "para_id": "2719.547",
+        "lang": "ro",
+        "refcode": "SSS 115.2"
+      },
+      {
+        "para_id": "1873.527",
+        "lang": "ru",
+        "refcode": "ССШ 115.2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,965 @@
+[
+  {
+    "para_id": "128.111",
+    "id_prev": "128.108",
+    "id_next": "128.113",
+    "refcode_1": "AH",
+    "refcode_2": "29",
+    "refcode_3": "",
+    "refcode_4": "2",
+    "refcode_short": "AH 29",
+    "refcode_long": "The Adventist Home, p. 29 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 2&mdash;A Light in the Community",
+    "puborder": 67,
+    "translations": [
+      {
+        "para_id": "13839.82",
+        "lang": "bg",
+        "refcode": "ХД 11"
+      },
+      {
+        "para_id": "177.151",
+        "lang": "es",
+        "refcode": "HC 25"
+      },
+      {
+        "para_id": "193.111",
+        "lang": "fr",
+        "refcode": "FC 29"
+      },
+      {
+        "para_id": "12869.119",
+        "lang": "id",
+        "refcode": "MKB 27"
+      },
+      {
+        "para_id": "891.61",
+        "lang": "it",
+        "refcode": "FC 14"
+      },
+      {
+        "para_id": "12178.90",
+        "lang": "pl",
+        "refcode": "ChD 17"
+      },
+      {
+        "para_id": "1955.181",
+        "lang": "pt",
+        "refcode": "LA 31"
+      },
+      {
+        "para_id": "2026.101",
+        "lang": "ro",
+        "refcode": "CA 31"
+      },
+      {
+        "para_id": "1803.79",
+        "lang": "ru",
+        "refcode": "ХД 30"
+      },
+      {
+        "para_id": "12131.93",
+        "lang": "uk",
+        "refcode": "ХР 25"
+      }
+    ]
+  },
+  {
+    "para_id": "128.113",
+    "id_prev": "128.111",
+    "id_next": "128.114",
+    "refcode_1": "AH",
+    "refcode_2": "31",
+    "refcode_3": "",
+    "refcode_4": "4",
+    "refcode_short": "AH 31",
+    "refcode_long": "The Adventist Home, p. 31 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 4&mdash;Far-Reaching Influence of the Home",
+    "puborder": 68,
+    "translations": [
+      {
+        "para_id": "13839.83",
+        "lang": "bg",
+        "refcode": "ХД 11"
+      },
+      {
+        "para_id": "177.152",
+        "lang": "es",
+        "refcode": "HC 25"
+      },
+      {
+        "para_id": "193.114",
+        "lang": "fr",
+        "refcode": "FC 31"
+      },
+      {
+        "para_id": "12869.121",
+        "lang": "id",
+        "refcode": "MKB 28"
+      },
+      {
+        "para_id": "891.62",
+        "lang": "it",
+        "refcode": "FC 14"
+      },
+      {
+        "para_id": "12178.91",
+        "lang": "pl",
+        "refcode": "ChD 17"
+      },
+      {
+        "para_id": "2026.102",
+        "lang": "ro",
+        "refcode": "CA 31"
+      },
+      {
+        "para_id": "1803.81",
+        "lang": "ru",
+        "refcode": "ХД 31"
+      },
+      {
+        "para_id": "12131.95",
+        "lang": "uk",
+        "refcode": "ХР 26"
+      }
+    ]
+  },
+  {
+    "para_id": "128.114",
+    "id_prev": "128.113",
+    "id_next": "128.115",
+    "refcode_1": "AH",
+    "refcode_2": "31",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 31.1",
+    "refcode_long": "The Adventist Home, p. 31.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Christian Home Is an Object Lesson</strong>&mdash;The mission of the home extends beyond its own members. The Christian home is to be an object lesson, illustrating the excellence of the true principles of life. Such an illustration will be a power for good in the world.... As the youth go out from such a home, the lessons they have learned are imparted. Nobler principles of life are introduced into other households, and an uplifting influence works in the community.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 352.1\" data-link=\"135.1774\">The Ministry of Healing, 352</span>.</span></a></sup>",
+    "puborder": 69,
+    "translations": [
+      {
+        "para_id": "13839.84",
+        "lang": "bg",
+        "refcode": "ХД 11.2"
+      },
+      {
+        "para_id": "177.153",
+        "lang": "es",
+        "refcode": "HC 25.1"
+      },
+      {
+        "para_id": "193.115",
+        "lang": "fr",
+        "refcode": "FC 31.1"
+      },
+      {
+        "para_id": "12869.123",
+        "lang": "id",
+        "refcode": "MKB 28.1"
+      },
+      {
+        "para_id": "12178.92",
+        "lang": "pl",
+        "refcode": "ChD 17.1"
+      },
+      {
+        "para_id": "1955.183",
+        "lang": "pt",
+        "refcode": "LA 31"
+      },
+      {
+        "para_id": "1955.184",
+        "lang": "pt",
+        "refcode": "LA 31.1"
+      },
+      {
+        "para_id": "2026.103",
+        "lang": "ro",
+        "refcode": "CA 31.1"
+      },
+      {
+        "para_id": "1803.82",
+        "lang": "ru",
+        "refcode": "ХД 31.1"
+      },
+      {
+        "para_id": "12131.96",
+        "lang": "uk",
+        "refcode": "ХР 26.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.115",
+    "id_prev": "128.114",
+    "id_next": "128.116",
+    "refcode_1": "AH",
+    "refcode_2": "31",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 31.2",
+    "refcode_long": "The Adventist Home, p. 31.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The home in which the members are polite, courteous Christians exerts a far-reaching influence for good. Other families will mark the results attained by such a home, and will follow the example set, in their turn guarding the home against Satanic influences. The angels of God will often visit the home in which the will of God bears sway. Under the power of divine grace such a home becomes a place of refreshing to worn, weary pilgrims. By watchful guarding, self is kept from asserting itself. Correct habits are formed. There is a careful recognition of the rights of others. The faith that works by love and purifies the soul stands at the helm, presiding over the whole household. Under the hallowed influence of such a home, the principle of brotherhood laid down in the word of God is more widely recognized and obeyed.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 272, 1903\" data-link=\"14068.10251001\">Letter 272, 1903</span>.</span></a></sup>",
+    "puborder": 70,
+    "translations": [
+      {
+        "para_id": "13839.85",
+        "lang": "bg",
+        "refcode": "ХД 11.3"
+      },
+      {
+        "para_id": "177.154",
+        "lang": "es",
+        "refcode": "HC 25.2"
+      },
+      {
+        "para_id": "193.116",
+        "lang": "fr",
+        "refcode": "FC 31.2"
+      },
+      {
+        "para_id": "12869.127",
+        "lang": "id",
+        "refcode": "MKB 29.1"
+      },
+      {
+        "para_id": "12869.124",
+        "lang": "id",
+        "refcode": "MKB 28.2"
+      },
+      {
+        "para_id": "12178.93",
+        "lang": "pl",
+        "refcode": "ChD 17.2"
+      },
+      {
+        "para_id": "1955.185",
+        "lang": "pt",
+        "refcode": "LA 31.2"
+      },
+      {
+        "para_id": "2026.104",
+        "lang": "ro",
+        "refcode": "CA 31.2"
+      },
+      {
+        "para_id": "1803.83",
+        "lang": "ru",
+        "refcode": "ХД 31.2"
+      },
+      {
+        "para_id": "12131.97",
+        "lang": "uk",
+        "refcode": "ХР 26.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.116",
+    "id_prev": "128.115",
+    "id_next": "128.119",
+    "refcode_1": "AH",
+    "refcode_2": "31",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 31.3",
+    "refcode_long": "The Adventist Home, p. 31.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Influence of a Well-ordered Family</strong>&mdash;It is no small matter for a family to stand as representatives of Jesus, keeping God&apos;s law in an unbelieving community. <span class=\"page-break\" data-page=\"32\"></span> We are required to be living epistles known and read of all men. This position involves fearful responsibilities.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 106.1\" data-link=\"114.538\">Testimonies for the Church 4:106</span>.</span></a></sup>",
+    "puborder": 71,
+    "translations": [
+      {
+        "para_id": "13839.86",
+        "lang": "bg",
+        "refcode": "ХД 11.4"
+      },
+      {
+        "para_id": "177.155",
+        "lang": "es",
+        "refcode": "HC 25.3"
+      },
+      {
+        "para_id": "193.117",
+        "lang": "fr",
+        "refcode": "FC 31.3"
+      },
+      {
+        "para_id": "12869.129",
+        "lang": "id",
+        "refcode": "MKB 29.2"
+      },
+      {
+        "para_id": "891.63",
+        "lang": "it",
+        "refcode": "FC 14"
+      },
+      {
+        "para_id": "891.64",
+        "lang": "it",
+        "refcode": "FC 14.1"
+      },
+      {
+        "para_id": "12178.94",
+        "lang": "pl",
+        "refcode": "ChD 17.3"
+      },
+      {
+        "para_id": "1955.187",
+        "lang": "pt",
+        "refcode": "LA 31.3"
+      },
+      {
+        "para_id": "1955.186",
+        "lang": "pt",
+        "refcode": "LA 31"
+      },
+      {
+        "para_id": "2026.105",
+        "lang": "ro",
+        "refcode": "CA 31.3"
+      },
+      {
+        "para_id": "1803.84",
+        "lang": "ru",
+        "refcode": "ХД 31.3"
+      },
+      {
+        "para_id": "12131.98",
+        "lang": "uk",
+        "refcode": "ХР 26.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.119",
+    "id_prev": "128.116",
+    "id_next": "128.120",
+    "refcode_1": "AH",
+    "refcode_2": "32",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 32.1",
+    "refcode_long": "The Adventist Home, p. 32.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "One well-ordered, well-disciplined family tells more in behalf of Christianity than all the sermons that can be preached. Such a family gives evidence that the parents have been successful in following God&apos;s directions, and that their children will serve Him in the church. Their influence grows; for as they impart, they receive to impart again. The father and mother find helpers in their children, who give to others the instruction received in the home. The neighborhood in which they live is helped, for in it they have become enriched for time and for eternity. The whole family is engaged in the service of the Master; and by their godly example, others are inspired to be faithful and true to God in dealing with His flock, His beautiful flock.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 6-6-1899\" data-link=\"821.17999\">The Review and Herald, June 6, 1899</span>.</span></a></sup>",
+    "puborder": 72,
+    "translations": [
+      {
+        "para_id": "13839.87",
+        "lang": "bg",
+        "refcode": "ХД 11.5"
+      },
+      {
+        "para_id": "177.158",
+        "lang": "es",
+        "refcode": "HC 26.1"
+      },
+      {
+        "para_id": "193.120",
+        "lang": "fr",
+        "refcode": "FC 32.1"
+      },
+      {
+        "para_id": "12869.130",
+        "lang": "id",
+        "refcode": "MKB 29.3"
+      },
+      {
+        "para_id": "891.65",
+        "lang": "it",
+        "refcode": "FC 14.2"
+      },
+      {
+        "para_id": "12178.96",
+        "lang": "pl",
+        "refcode": "ChD 18.1"
+      },
+      {
+        "para_id": "1955.190",
+        "lang": "pt",
+        "refcode": "LA 32.1"
+      },
+      {
+        "para_id": "2026.108",
+        "lang": "ro",
+        "refcode": "CA 32.1"
+      },
+      {
+        "para_id": "1803.87",
+        "lang": "ru",
+        "refcode": "ХД 32.1"
+      },
+      {
+        "para_id": "12131.98",
+        "lang": "uk",
+        "refcode": "ХР 26.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.120",
+    "id_prev": "128.119",
+    "id_next": "128.121",
+    "refcode_1": "AH",
+    "refcode_2": "32",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 32.2",
+    "refcode_long": "The Adventist Home, p. 32.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The greatest evidence of the power of Christianity that can be presented to the world is a well-ordered, well-disciplined family. This will recommend the truth as nothing else can, for it is a living witness of its practical power upon the heart.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 304.1\" data-link=\"114.1549\">Testimonies for the Church 4:304</span>.</span></a></sup>",
+    "puborder": 73,
+    "translations": [
+      {
+        "para_id": "13839.89",
+        "lang": "bg",
+        "refcode": "ХД 12.1"
+      },
+      {
+        "para_id": "177.159",
+        "lang": "es",
+        "refcode": "HC 26.2"
+      },
+      {
+        "para_id": "193.121",
+        "lang": "fr",
+        "refcode": "FC 32.2"
+      },
+      {
+        "para_id": "12869.131",
+        "lang": "id",
+        "refcode": "MKB 29.4"
+      },
+      {
+        "para_id": "891.66",
+        "lang": "it",
+        "refcode": "FC 14.3"
+      },
+      {
+        "para_id": "12178.97",
+        "lang": "pl",
+        "refcode": "ChD 18.2"
+      },
+      {
+        "para_id": "1955.191",
+        "lang": "pt",
+        "refcode": "LA 32.2"
+      },
+      {
+        "para_id": "2026.109",
+        "lang": "ro",
+        "refcode": "CA 32.2"
+      },
+      {
+        "para_id": "1803.88",
+        "lang": "ru",
+        "refcode": "ХД 32.2"
+      },
+      {
+        "para_id": "12131.101",
+        "lang": "uk",
+        "refcode": "ХР 27.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.121",
+    "id_prev": "128.120",
+    "id_next": "128.122",
+    "refcode_1": "AH",
+    "refcode_2": "32",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 32.3",
+    "refcode_long": "The Adventist Home, p. 32.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The best test of the Christianity of a home is the type of character begotten by its influence. Actions speak louder than the most positive profession of godliness.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 579.1\" data-link=\"84.2718\">Patriarchs and Prophets, 579</span>.</span></a></sup>",
+    "puborder": 74,
+    "translations": [
+      {
+        "para_id": "13839.90",
+        "lang": "bg",
+        "refcode": "ХД 12.2"
+      },
+      {
+        "para_id": "177.160",
+        "lang": "es",
+        "refcode": "HC 26.3"
+      },
+      {
+        "para_id": "193.122",
+        "lang": "fr",
+        "refcode": "FC 32.3"
+      },
+      {
+        "para_id": "12869.133",
+        "lang": "id",
+        "refcode": "MKB 30.1"
+      },
+      {
+        "para_id": "891.67",
+        "lang": "it",
+        "refcode": "FC 14.4"
+      },
+      {
+        "para_id": "12178.98",
+        "lang": "pl",
+        "refcode": "ChD 18.3"
+      },
+      {
+        "para_id": "1955.192",
+        "lang": "pt",
+        "refcode": "LA 32.3"
+      },
+      {
+        "para_id": "2026.110",
+        "lang": "ro",
+        "refcode": "CA 32.3"
+      },
+      {
+        "para_id": "1803.89",
+        "lang": "ru",
+        "refcode": "ХД 32.3"
+      },
+      {
+        "para_id": "12131.102",
+        "lang": "uk",
+        "refcode": "ХР 27.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.122",
+    "id_prev": "128.121",
+    "id_next": "128.123",
+    "refcode_1": "AH",
+    "refcode_2": "32",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 32.4",
+    "refcode_long": "The Adventist Home, p. 32.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Our business in this world ... is to see what virtues we can teach our children and our families to possess, that they shall have an influence upon other families, and thus we can be an educating power although we never enter into the desk. A well-ordered, a well-disciplined family in the sight of God is more precious than fine gold, even than the golden wedge of Ophir.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 12, 1895\" data-link=\"14060.4759001\">Manuscript 12, 1895</span>.</span></a></sup>",
+    "puborder": 75,
+    "translations": [
+      {
+        "para_id": "13839.91",
+        "lang": "bg",
+        "refcode": "ХД 12.3"
+      },
+      {
+        "para_id": "177.161",
+        "lang": "es",
+        "refcode": "HC 26.4"
+      },
+      {
+        "para_id": "193.123",
+        "lang": "fr",
+        "refcode": "FC 32.4"
+      },
+      {
+        "para_id": "12869.134",
+        "lang": "id",
+        "refcode": "MKB 30.2"
+      },
+      {
+        "para_id": "891.68",
+        "lang": "it",
+        "refcode": "FC 14.5"
+      },
+      {
+        "para_id": "12178.99",
+        "lang": "pl",
+        "refcode": "ChD 18.4"
+      },
+      {
+        "para_id": "1955.193",
+        "lang": "pt",
+        "refcode": "LA 32.4"
+      },
+      {
+        "para_id": "2026.111",
+        "lang": "ro",
+        "refcode": "CA 32.4"
+      },
+      {
+        "para_id": "1803.90",
+        "lang": "ru",
+        "refcode": "ХД 32.4"
+      },
+      {
+        "para_id": "12131.103",
+        "lang": "uk",
+        "refcode": "ХР 27.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.123",
+    "id_prev": "128.122",
+    "id_next": "128.126",
+    "refcode_1": "AH",
+    "refcode_2": "32",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 32.5",
+    "refcode_long": "The Adventist Home, p. 32.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Wonderful Possibilities Are Ours</strong>&mdash;Our time here is short. We can pass through this world but once; as we <span class=\"page-break\" data-page=\"33\"></span> pass along, let us make the most of life. The work to which we are called does not require wealth or social position or great ability. It requires a kindly, self-sacrificing spirit and a steadfast purpose. A lamp, however small, if kept steadily burning, may be the means of lighting many other lamps. Our sphere of influence may seem narrow, our ability small, our opportunities few, our acquirements limited; yet wonderful possibilities are ours through a faithful use of the opportunities of our own homes. If we will open our hearts and homes to the divine principles of life, we shall become channels for currents of life-giving power. From our homes will flow streams of healing, bringing life, and beauty, and fruitfulness where now are barrenness and dearth.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 355.1\" data-link=\"135.1790\">The Ministry of Healing, 355</span>.</span></a></sup>",
+    "puborder": 76,
+    "translations": [
+      {
+        "para_id": "13839.92",
+        "lang": "bg",
+        "refcode": "ХД 12.4"
+      },
+      {
+        "para_id": "177.162",
+        "lang": "es",
+        "refcode": "HC 26.5"
+      },
+      {
+        "para_id": "193.124",
+        "lang": "fr",
+        "refcode": "FC 32.5"
+      },
+      {
+        "para_id": "12869.136",
+        "lang": "id",
+        "refcode": "MKB 30.3"
+      },
+      {
+        "para_id": "891.70",
+        "lang": "it",
+        "refcode": "FC 14.6"
+      },
+      {
+        "para_id": "891.69",
+        "lang": "it",
+        "refcode": "FC 14"
+      },
+      {
+        "para_id": "12178.100",
+        "lang": "pl",
+        "refcode": "ChD 18.5"
+      },
+      {
+        "para_id": "1955.194",
+        "lang": "pt",
+        "refcode": "LA 32"
+      },
+      {
+        "para_id": "1955.195",
+        "lang": "pt",
+        "refcode": "LA 32.5"
+      },
+      {
+        "para_id": "2026.112",
+        "lang": "ro",
+        "refcode": "CA 32.5"
+      },
+      {
+        "para_id": "1803.91",
+        "lang": "ru",
+        "refcode": "ХД 32.5"
+      },
+      {
+        "para_id": "12131.104",
+        "lang": "uk",
+        "refcode": "ХР 27.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.126",
+    "id_prev": "128.123",
+    "id_next": "128.127",
+    "refcode_1": "AH",
+    "refcode_2": "33",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 33.1",
+    "refcode_long": "The Adventist Home, p. 33.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God-fearing parents will diffuse an influence from their own home circle to that of others that will act as did the leaven that was hid in three measures of meal.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 9-17-1894\" data-link=\"820.12433\">The Signs of the Times, September 17, 1894</span>.</span></a></sup>",
+    "puborder": 77,
+    "translations": [
+      {
+        "para_id": "13839.93",
+        "lang": "bg",
+        "refcode": "ХД 12.5"
+      },
+      {
+        "para_id": "177.165",
+        "lang": "es",
+        "refcode": "HC 27.1"
+      },
+      {
+        "para_id": "193.127",
+        "lang": "fr",
+        "refcode": "FC 33.1"
+      },
+      {
+        "para_id": "12869.137",
+        "lang": "id",
+        "refcode": "MKB 30.4"
+      },
+      {
+        "para_id": "891.73",
+        "lang": "it",
+        "refcode": "FC 15.1"
+      },
+      {
+        "para_id": "12178.103",
+        "lang": "pl",
+        "refcode": "ChD 19.1"
+      },
+      {
+        "para_id": "1955.198",
+        "lang": "pt",
+        "refcode": "LA 33.1"
+      },
+      {
+        "para_id": "2026.115",
+        "lang": "ro",
+        "refcode": "CA 33.1"
+      },
+      {
+        "para_id": "1803.94",
+        "lang": "ru",
+        "refcode": "ХД 33.1"
+      },
+      {
+        "para_id": "12131.106",
+        "lang": "uk",
+        "refcode": "ХР 28.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.127",
+    "id_prev": "128.126",
+    "id_next": "128.128",
+    "refcode_1": "AH",
+    "refcode_2": "33",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 33.2",
+    "refcode_long": "The Adventist Home, p. 33.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Faithful work done in the home educates others to do the same class of work. The spirit of fidelity to God is like leaven and, when manifested in the church, will have an effect upon others, and will be a recommendation to Christianity everywhere. The work of whole-souled soldiers of Christ is as far-reaching as eternity. Then why is it that there is such a lack of the missionary spirit in our churches? It is because there is a neglect of home piety.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 2-19-1895\" data-link=\"821.14055\">The Review and Herald, February 19, 1895</span>.</span></a></sup>",
+    "puborder": 78,
+    "translations": [
+      {
+        "para_id": "13839.94",
+        "lang": "bg",
+        "refcode": "ХД 12.6"
+      },
+      {
+        "para_id": "177.166",
+        "lang": "es",
+        "refcode": "HC 27.2"
+      },
+      {
+        "para_id": "193.128",
+        "lang": "fr",
+        "refcode": "FC 33.2"
+      },
+      {
+        "para_id": "12869.138",
+        "lang": "id",
+        "refcode": "MKB 30.5"
+      },
+      {
+        "para_id": "891.74",
+        "lang": "it",
+        "refcode": "FC 15.2"
+      },
+      {
+        "para_id": "12178.104",
+        "lang": "pl",
+        "refcode": "ChD 19.2"
+      },
+      {
+        "para_id": "1955.199",
+        "lang": "pt",
+        "refcode": "LA 33.2"
+      },
+      {
+        "para_id": "2026.116",
+        "lang": "ro",
+        "refcode": "CA 33.2"
+      },
+      {
+        "para_id": "1803.95",
+        "lang": "ru",
+        "refcode": "ХД 33.2"
+      },
+      {
+        "para_id": "12131.107",
+        "lang": "uk",
+        "refcode": "ХР 28.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.128",
+    "id_prev": "128.127",
+    "id_next": "128.129",
+    "refcode_1": "AH",
+    "refcode_2": "33",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 33.3",
+    "refcode_long": "The Adventist Home, p. 33.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Influence of an Ill-regulated Family</strong>&mdash;The influence of an ill-regulated family is widespread, and disastrous to all society. It accumulates in a tide of evil that affects families, communities, and governments.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 579.1\" data-link=\"84.2718\">Patriarchs and Prophets, 579</span>.</span></a></sup>",
+    "puborder": 79,
+    "translations": [
+      {
+        "para_id": "13839.95",
+        "lang": "bg",
+        "refcode": "ХД 12.7"
+      },
+      {
+        "para_id": "177.167",
+        "lang": "es",
+        "refcode": "HC 27.3"
+      },
+      {
+        "para_id": "193.129",
+        "lang": "fr",
+        "refcode": "FC 33.3"
+      },
+      {
+        "para_id": "12869.142",
+        "lang": "id",
+        "refcode": "MKB 31.1"
+      },
+      {
+        "para_id": "891.75",
+        "lang": "it",
+        "refcode": "FC 15"
+      },
+      {
+        "para_id": "891.76",
+        "lang": "it",
+        "refcode": "FC 15.3"
+      },
+      {
+        "para_id": "12178.105",
+        "lang": "pl",
+        "refcode": "ChD 19.3"
+      },
+      {
+        "para_id": "1955.201",
+        "lang": "pt",
+        "refcode": "LA 33.3"
+      },
+      {
+        "para_id": "1955.200",
+        "lang": "pt",
+        "refcode": "LA 33"
+      },
+      {
+        "para_id": "2026.117",
+        "lang": "ro",
+        "refcode": "CA 33.3"
+      },
+      {
+        "para_id": "1803.96",
+        "lang": "ru",
+        "refcode": "ХД 33.3"
+      },
+      {
+        "para_id": "12131.108",
+        "lang": "uk",
+        "refcode": "ХР 28.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.129",
+    "id_prev": "128.128",
+    "id_next": "128.133",
+    "refcode_1": "AH",
+    "refcode_2": "33",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 33.4",
+    "refcode_long": "The Adventist Home, p. 33.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is impossible for any of us to live in such a way that we shall not cast an influence in the world. No member of the family can enclose himself within himself, where other members of the family shall not feel his influence and <span class=\"page-break\" data-page=\"34\"></span> spirit. The very expression of the countenance has an influence for good or evil. His spirit, his words, his actions, his attitude toward others, are unmistakable. If he is living in selfishness, he surrounds his soul with a malarious atmosphere; while if he is filled with the love of Christ, he will manifest courtesy, kindness, tender regard for the feelings of others and will communicate to his associates, by his acts of love, a tender, grateful, happy feeling. It will be made manifest that he is living for Jesus and daily learning lessons at His feet, receiving His light and His peace. He will be able to say to the Lord, &ldquo;Thy gentleness hath made me great.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"YI 6-22-1893.1\" data-link=\"469.1087\">The Youth&apos;s Instructor, June 22, 1893</span>.</span></a></sup>",
+    "puborder": 80,
+    "translations": [
+      {
+        "para_id": "13839.96",
+        "lang": "bg",
+        "refcode": "ХД 12.8"
+      },
+      {
+        "para_id": "177.168",
+        "lang": "es",
+        "refcode": "HC 27.4"
+      },
+      {
+        "para_id": "193.130",
+        "lang": "fr",
+        "refcode": "FC 33.4"
+      },
+      {
+        "para_id": "12869.143",
+        "lang": "id",
+        "refcode": "MKB 31.2"
+      },
+      {
+        "para_id": "891.77",
+        "lang": "it",
+        "refcode": "FC 15.4"
+      },
+      {
+        "para_id": "12178.106",
+        "lang": "pl",
+        "refcode": "ChD 19.4"
+      },
+      {
+        "para_id": "1955.202",
+        "lang": "pt",
+        "refcode": "LA 33.4"
+      },
+      {
+        "para_id": "2026.118",
+        "lang": "ro",
+        "refcode": "CA 33.4"
+      },
+      {
+        "para_id": "1803.97",
+        "lang": "ru",
+        "refcode": "ХД 33.4"
+      },
+      {
+        "para_id": "12131.109",
+        "lang": "uk",
+        "refcode": "ХР 28.4"
+      }
+    ]
+  }
+]

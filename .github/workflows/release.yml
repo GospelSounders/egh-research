@@ -50,8 +50,8 @@ jobs:
           echo "## 📦 Docker Image" >> CHANGELOG.md
           echo "" >> CHANGELOG.md
           echo "\`\`\`bash" >> CHANGELOG.md
-          echo "docker pull ghcr.io/${{ github.repository_owner }}/egh-research-server:${{ steps.get_version.outputs.version }}" >> CHANGELOG.md
-          echo "docker run -p 3000:3000 ghcr.io/${{ github.repository_owner }}/egh-research-server:${{ steps.get_version.outputs.version }}" >> CHANGELOG.md
+          echo "docker pull ghcr.io/${{ github.repository }}/egh-research-server:${{ steps.get_version.outputs.version }}" >> CHANGELOG.md
+          echo "docker run -p 3000:3000 ghcr.io/${{ github.repository }}/egh-research-server:${{ steps.get_version.outputs.version }}" >> CHANGELOG.md
           echo "\`\`\`" >> CHANGELOG.md
 
       - name: Create Release
@@ -88,7 +88,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: ghcr.io/${{ github.repository_owner }}/egh-research-server
+          images: ghcr.io/${{ github.repository }}/egh-research-server
           tags: |
             type=semver,pattern={{version}}
             type=semver,pattern={{major}}.{{minor}}
@@ -125,14 +125,14 @@ jobs:
 
             The following Docker images have been built and published to GitHub Container Registry:
 
-            - **Latest**: \`ghcr.io/${{ github.repository_owner }}/egh-research-server:latest\`
-            - **Version**: \`ghcr.io/${{ github.repository_owner }}/egh-research-server:${{ needs.create-release.outputs.version }}\`
+            - **Latest**: \`ghcr.io/${{ github.repository }}/egh-research-server:latest\`
+            - **Version**: \`ghcr.io/${{ github.repository }}/egh-research-server:${{ needs.create-release.outputs.version }}\`
             - **Platforms**: linux/amd64, linux/arm64
 
             ### Quick Start
             \`\`\`bash
             # Pull and run the latest version
-            docker run -p 3000:3000 ghcr.io/${{ github.repository_owner }}/egh-research-server:${{ needs.create-release.outputs.version }}
+            docker run -p 3000:3000 ghcr.io/${{ github.repository }}/egh-research-server:${{ needs.create-release.outputs.version }}
 
             # Or use docker-compose
             curl -O https://raw.githubusercontent.com/${{ github.repository }}/main/apps/local-server/docker-compose.yml

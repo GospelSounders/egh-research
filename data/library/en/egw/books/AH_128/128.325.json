@@ -1,0 +1,900 @@
+[
+  {
+    "para_id": "128.325",
+    "id_prev": "128.321",
+    "id_next": "128.327",
+    "refcode_1": "AH",
+    "refcode_2": "77",
+    "refcode_3": "",
+    "refcode_4": "4",
+    "refcode_short": "AH 77",
+    "refcode_long": "The Adventist Home, p. 77 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 4&mdash;Factors that Make for Success or Failure",
+    "puborder": 207,
+    "translations": [
+      {
+        "para_id": "13839.251",
+        "lang": "bg",
+        "refcode": "ХД 30"
+      },
+      {
+        "para_id": "177.362",
+        "lang": "es",
+        "refcode": "HC 66"
+      },
+      {
+        "para_id": "193.323",
+        "lang": "fr",
+        "refcode": "FC 73"
+      },
+      {
+        "para_id": "12869.359",
+        "lang": "id",
+        "refcode": "MKB 71"
+      },
+      {
+        "para_id": "891.187",
+        "lang": "it",
+        "refcode": "FC 32"
+      },
+      {
+        "para_id": "12178.273",
+        "lang": "pl",
+        "refcode": "ChD 47"
+      },
+      {
+        "para_id": "1955.447",
+        "lang": "pt",
+        "refcode": "LA 79"
+      },
+      {
+        "para_id": "2026.318",
+        "lang": "ro",
+        "refcode": "CA 79"
+      },
+      {
+        "para_id": "1803.292",
+        "lang": "ru",
+        "refcode": "ХД 78"
+      },
+      {
+        "para_id": "12131.286",
+        "lang": "uk",
+        "refcode": "ХР 61"
+      }
+    ]
+  },
+  {
+    "para_id": "128.327",
+    "id_prev": "128.325",
+    "id_next": "128.328",
+    "refcode_1": "AH",
+    "refcode_2": "79",
+    "refcode_3": "",
+    "refcode_4": "11",
+    "refcode_short": "AH 79",
+    "refcode_long": "The Adventist Home, p. 79 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 11&mdash;Hasty, Immature Marriages",
+    "puborder": 208,
+    "translations": [
+      {
+        "para_id": "13839.252",
+        "lang": "bg",
+        "refcode": "ХД 30"
+      },
+      {
+        "para_id": "177.363",
+        "lang": "es",
+        "refcode": "HC 66"
+      },
+      {
+        "para_id": "193.326",
+        "lang": "fr",
+        "refcode": "FC 75"
+      },
+      {
+        "para_id": "12869.361",
+        "lang": "id",
+        "refcode": "MKB 72"
+      },
+      {
+        "para_id": "12178.274",
+        "lang": "pl",
+        "refcode": "ChD 47"
+      },
+      {
+        "para_id": "1955.448",
+        "lang": "pt",
+        "refcode": "LA 79"
+      },
+      {
+        "para_id": "2026.319",
+        "lang": "ro",
+        "refcode": "CA 79"
+      },
+      {
+        "para_id": "1803.294",
+        "lang": "ru",
+        "refcode": "ХД 79"
+      },
+      {
+        "para_id": "12131.288",
+        "lang": "uk",
+        "refcode": "ХР 62"
+      }
+    ]
+  },
+  {
+    "para_id": "128.328",
+    "id_prev": "128.327",
+    "id_next": "128.329",
+    "refcode_1": "AH",
+    "refcode_2": "79",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 79.1",
+    "refcode_long": "The Adventist Home, p. 79.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Dangers of Childhood Attachments</strong>&mdash;Early marriages are not to be encouraged. A relation so important as marriage and so far-reaching in its results should not be entered upon hastily, without sufficient preparation, and before the mental and physical powers are well developed.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 358.1\" data-link=\"135.1803\">The Ministry of Healing, 358</span>.</span></a></sup>",
+    "puborder": 209,
+    "translations": [
+      {
+        "para_id": "13839.253",
+        "lang": "bg",
+        "refcode": "ХД 30.4"
+      },
+      {
+        "para_id": "177.364",
+        "lang": "es",
+        "refcode": "HC 66.1"
+      },
+      {
+        "para_id": "193.327",
+        "lang": "fr",
+        "refcode": "FC 75.1"
+      },
+      {
+        "para_id": "12869.363",
+        "lang": "id",
+        "refcode": "MKB 72.1"
+      },
+      {
+        "para_id": "12178.275",
+        "lang": "pl",
+        "refcode": "ChD 47.1"
+      },
+      {
+        "para_id": "1955.449",
+        "lang": "pt",
+        "refcode": "LA 79"
+      },
+      {
+        "para_id": "1955.450",
+        "lang": "pt",
+        "refcode": "LA 79.1"
+      },
+      {
+        "para_id": "2026.320",
+        "lang": "ro",
+        "refcode": "CA 79.1"
+      },
+      {
+        "para_id": "1803.295",
+        "lang": "ru",
+        "refcode": "ХД 79.1"
+      },
+      {
+        "para_id": "12131.289",
+        "lang": "uk",
+        "refcode": "ХР 62.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.329",
+    "id_prev": "128.328",
+    "id_next": "128.330",
+    "refcode_1": "AH",
+    "refcode_2": "79",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 79.2",
+    "refcode_long": "The Adventist Home, p. 79.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Boys and girls enter upon the marriage relation with unripe love, immature judgment, without noble, elevated feelings, and take upon themselves the marriage vows, wholly led by their boyish, girlish passions....",
+    "puborder": 210,
+    "translations": [
+      {
+        "para_id": "13839.254",
+        "lang": "bg",
+        "refcode": "ХД 30.5"
+      },
+      {
+        "para_id": "177.365",
+        "lang": "es",
+        "refcode": "HC 66.2"
+      },
+      {
+        "para_id": "193.328",
+        "lang": "fr",
+        "refcode": "FC 75.2"
+      },
+      {
+        "para_id": "12869.364",
+        "lang": "id",
+        "refcode": "MKB 72.2"
+      },
+      {
+        "para_id": "12178.276",
+        "lang": "pl",
+        "refcode": "ChD 47.2"
+      },
+      {
+        "para_id": "1955.451",
+        "lang": "pt",
+        "refcode": "LA 79.2"
+      },
+      {
+        "para_id": "2026.321",
+        "lang": "ro",
+        "refcode": "CA 79.2"
+      },
+      {
+        "para_id": "1803.296",
+        "lang": "ru",
+        "refcode": "ХД 79.2"
+      },
+      {
+        "para_id": "12131.290",
+        "lang": "uk",
+        "refcode": "ХР 62.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.330",
+    "id_prev": "128.329",
+    "id_next": "128.331",
+    "refcode_1": "AH",
+    "refcode_2": "79",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 79.3",
+    "refcode_long": "The Adventist Home, p. 79.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Attachments formed in childhood have often resulted in very wretched unions or in disgraceful separations. Early connections, if formed without the consent of parents, have seldom proved happy. The young affections should be restrained until the period arrives when sufficient age and experience will make it honorable and safe to unfetter them. Those who will not be restrained will be in danger of dragging out an unhappy existence.",
+    "puborder": 211,
+    "translations": [
+      {
+        "para_id": "13839.256",
+        "lang": "bg",
+        "refcode": "ХД 30.6"
+      },
+      {
+        "para_id": "177.366",
+        "lang": "es",
+        "refcode": "HC 66.3"
+      },
+      {
+        "para_id": "193.329",
+        "lang": "fr",
+        "refcode": "FC 75.3"
+      },
+      {
+        "para_id": "12869.365",
+        "lang": "id",
+        "refcode": "MKB 72.3"
+      },
+      {
+        "para_id": "12178.277",
+        "lang": "pl",
+        "refcode": "ChD 47.3"
+      },
+      {
+        "para_id": "1955.452",
+        "lang": "pt",
+        "refcode": "LA 79.3"
+      },
+      {
+        "para_id": "2026.322",
+        "lang": "ro",
+        "refcode": "CA 79.3"
+      },
+      {
+        "para_id": "1803.297",
+        "lang": "ru",
+        "refcode": "ХД 79.3"
+      },
+      {
+        "para_id": "12131.291",
+        "lang": "uk",
+        "refcode": "ХР 62.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.331",
+    "id_prev": "128.330",
+    "id_next": "128.333",
+    "refcode_1": "AH",
+    "refcode_2": "79",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 79.4",
+    "refcode_long": "The Adventist Home, p. 79.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "A youth not out of his teens is a poor judge of the fitness of a person as young as himself to be his companion for life. After their judgment has become more matured, they view themselves bound for life to each other and perhaps not at all calculated to make each other happy. Then, instead of making the best of their lot, recriminations take place, the breach widens, until there is settled indifference and neglect of each other. To them there is nothing sacred in the word &ldquo;home.&rdquo; The very atmosphere is poisoned by unloving words and bitter reproaches.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MYP 452.1\" data-link=\"76.2315\">Messages to Young People, 452</span>.</span></a></sup>",
+    "puborder": 212,
+    "translations": [
+      {
+        "para_id": "13839.257",
+        "lang": "bg",
+        "refcode": "ХД 30.7"
+      },
+      {
+        "para_id": "177.366",
+        "lang": "es",
+        "refcode": "HC 66.3"
+      },
+      {
+        "para_id": "193.330",
+        "lang": "fr",
+        "refcode": "FC 75.4"
+      },
+      {
+        "para_id": "12869.368",
+        "lang": "id",
+        "refcode": "MKB 73.1"
+      },
+      {
+        "para_id": "12178.277",
+        "lang": "pl",
+        "refcode": "ChD 47.3"
+      },
+      {
+        "para_id": "1955.453",
+        "lang": "pt",
+        "refcode": "LA 79.4"
+      },
+      {
+        "para_id": "2026.323",
+        "lang": "ro",
+        "refcode": "CA 79.4"
+      },
+      {
+        "para_id": "1803.298",
+        "lang": "ru",
+        "refcode": "ХД 79.4"
+      },
+      {
+        "para_id": "12131.291",
+        "lang": "uk",
+        "refcode": "ХР 62.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.333",
+    "id_prev": "128.331",
+    "id_next": "128.334",
+    "refcode_1": "AH",
+    "refcode_2": "80",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 80.1",
+    "refcode_long": "The Adventist Home, p. 80.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Immature marriages are productive of a vast amount of the evils that exist today. Neither physical health nor mental vigor is promoted by a marriage that is entered on too early in life. Upon this subject altogether too little reason is exercised. Many youth act from impulse. This step, which affects them seriously for good or ill, to be a lifelong blessing or curse, is too often taken hastily, under the impulse of sentiment. Many will not listen to reason or instruction from a Christian point of view.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MYP 453.1\" data-link=\"76.2320\">Ibid., 453</span>.</span></a></sup>",
+    "puborder": 213,
+    "translations": [
+      {
+        "para_id": "13839.260",
+        "lang": "bg",
+        "refcode": "ХД 31.1"
+      },
+      {
+        "para_id": "177.369",
+        "lang": "es",
+        "refcode": "HC 67.1"
+      },
+      {
+        "para_id": "193.332",
+        "lang": "fr",
+        "refcode": "FC 76.1"
+      },
+      {
+        "para_id": "12869.369",
+        "lang": "id",
+        "refcode": "MKB 73.2"
+      },
+      {
+        "para_id": "12178.278",
+        "lang": "pl",
+        "refcode": "ChD 47.4"
+      },
+      {
+        "para_id": "1955.455",
+        "lang": "pt",
+        "refcode": "LA 80.1"
+      },
+      {
+        "para_id": "2026.325",
+        "lang": "ro",
+        "refcode": "CA 80.1"
+      },
+      {
+        "para_id": "1803.300",
+        "lang": "ru",
+        "refcode": "ХД 80.1"
+      },
+      {
+        "para_id": "12131.292",
+        "lang": "uk",
+        "refcode": "ХР 62.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.334",
+    "id_prev": "128.333",
+    "id_next": "128.335",
+    "refcode_1": "AH",
+    "refcode_2": "80",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 80.2",
+    "refcode_long": "The Adventist Home, p. 80.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Satan is constantly busy to hurry inexperienced youth into a marriage alliance. But the less we glory in the marriages which are now taking place, the better.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 252.1\" data-link=\"120.1066\">Testimonies for the Church 2:252</span>.</span></a></sup>",
+    "puborder": 214,
+    "translations": [
+      {
+        "para_id": "13839.261",
+        "lang": "bg",
+        "refcode": "ХД 31.2"
+      },
+      {
+        "para_id": "177.370",
+        "lang": "es",
+        "refcode": "HC 67.2"
+      },
+      {
+        "para_id": "193.333",
+        "lang": "fr",
+        "refcode": "FC 76.2"
+      },
+      {
+        "para_id": "12869.370",
+        "lang": "id",
+        "refcode": "MKB 73.3"
+      },
+      {
+        "para_id": "12178.281",
+        "lang": "pl",
+        "refcode": "ChD 48.1"
+      },
+      {
+        "para_id": "1955.456",
+        "lang": "pt",
+        "refcode": "LA 80.2"
+      },
+      {
+        "para_id": "2026.326",
+        "lang": "ro",
+        "refcode": "CA 80.2"
+      },
+      {
+        "para_id": "1803.301",
+        "lang": "ru",
+        "refcode": "ХД 80.2"
+      },
+      {
+        "para_id": "12131.295",
+        "lang": "uk",
+        "refcode": "ХР 63.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.335",
+    "id_prev": "128.334",
+    "id_next": "128.336",
+    "refcode_1": "AH",
+    "refcode_2": "80",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 80.3",
+    "refcode_long": "The Adventist Home, p. 80.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In consequence of hasty marriages, even among the professed people of God, there are separations, divorces, and great confusion in the church.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 9-25-1888\" data-link=\"821.9198\">The Review and Herald, September 25, 1888</span>.</span></a></sup>",
+    "puborder": 215,
+    "translations": [
+      {
+        "para_id": "13839.262",
+        "lang": "bg",
+        "refcode": "ХД 31.3"
+      },
+      {
+        "para_id": "177.371",
+        "lang": "es",
+        "refcode": "HC 67.3"
+      },
+      {
+        "para_id": "193.334",
+        "lang": "fr",
+        "refcode": "FC 76.3"
+      },
+      {
+        "para_id": "12869.371",
+        "lang": "id",
+        "refcode": "MKB 73.4"
+      },
+      {
+        "para_id": "12178.281",
+        "lang": "pl",
+        "refcode": "ChD 48.1"
+      },
+      {
+        "para_id": "1955.457",
+        "lang": "pt",
+        "refcode": "LA 80.3"
+      },
+      {
+        "para_id": "2026.327",
+        "lang": "ro",
+        "refcode": "CA 80.3"
+      },
+      {
+        "para_id": "1803.302",
+        "lang": "ru",
+        "refcode": "ХД 80.3"
+      },
+      {
+        "para_id": "12131.295",
+        "lang": "uk",
+        "refcode": "ХР 63.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.336",
+    "id_prev": "128.335",
+    "id_next": "128.337",
+    "refcode_1": "AH",
+    "refcode_2": "80",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 80.4",
+    "refcode_long": "The Adventist Home, p. 80.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "What a contrast between the course of Isaac and that pursued by the youth of our time, even among professed Christians! Young people too often feel that the bestowal of their affections is a matter in which self alone should be consulted&mdash;a matter that neither God nor their parents should in any wise control. Long before they have reached manhood or womanhood, they think themselves competent to make their own choice, without the aid of their parents. A few years of married life are usually sufficient to show them their error, but often too late to prevent its baleful results. For the same lack of wisdom and self-control that dictated the hasty choice is permitted to aggravate the evil, until the marriage relation becomes a galling yoke. Many have thus wrecked their happiness in this life and their hope of the life to come.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"PP 175.1\" data-link=\"84.718\">Patriarchs and Prophets, 175</span>.</span></a></sup>",
+    "puborder": 216,
+    "translations": [
+      {
+        "para_id": "13839.263",
+        "lang": "bg",
+        "refcode": "ХД 31.4"
+      },
+      {
+        "para_id": "177.372",
+        "lang": "es",
+        "refcode": "HC 67.4"
+      },
+      {
+        "para_id": "193.335",
+        "lang": "fr",
+        "refcode": "FC 76.4"
+      },
+      {
+        "para_id": "12869.372",
+        "lang": "id",
+        "refcode": "MKB 73.5"
+      },
+      {
+        "para_id": "12178.282",
+        "lang": "pl",
+        "refcode": "ChD 48.2"
+      },
+      {
+        "para_id": "1955.458",
+        "lang": "pt",
+        "refcode": "LA 80.4"
+      },
+      {
+        "para_id": "2026.328",
+        "lang": "ro",
+        "refcode": "CA 80.4"
+      },
+      {
+        "para_id": "1803.303",
+        "lang": "ru",
+        "refcode": "ХД 80.4"
+      },
+      {
+        "para_id": "12131.296",
+        "lang": "uk",
+        "refcode": "ХР 63.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.337",
+    "id_prev": "128.336",
+    "id_next": "128.340",
+    "refcode_1": "AH",
+    "refcode_2": "80",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 80.5",
+    "refcode_long": "The Adventist Home, p. 80.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Potential Workers for God Entangled</strong>&mdash;Young men have received the truth and run well for a season, but <span class=\"page-break\" data-page=\"81\"></span> Satan has woven his meshes about them in unwise attachments and poor marriages. This he saw would be the most successful way he could allure them from the path of holiness.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 114.1\" data-link=\"113.574\">Testimonies for the Church 5:114, 115</span>.</span></a></sup>",
+    "puborder": 217,
+    "translations": [
+      {
+        "para_id": "13839.264",
+        "lang": "bg",
+        "refcode": "ХД 31.5"
+      },
+      {
+        "para_id": "177.375",
+        "lang": "es",
+        "refcode": "HC 68.1"
+      },
+      {
+        "para_id": "193.336",
+        "lang": "fr",
+        "refcode": "FC 76.5"
+      },
+      {
+        "para_id": "12869.376",
+        "lang": "id",
+        "refcode": "MKB 74.1"
+      },
+      {
+        "para_id": "12178.283",
+        "lang": "pl",
+        "refcode": "ChD 48.3"
+      },
+      {
+        "para_id": "1955.460",
+        "lang": "pt",
+        "refcode": "LA 80.5"
+      },
+      {
+        "para_id": "1955.459",
+        "lang": "pt",
+        "refcode": "LA 80"
+      },
+      {
+        "para_id": "2026.329",
+        "lang": "ro",
+        "refcode": "CA 80.5"
+      },
+      {
+        "para_id": "1803.304",
+        "lang": "ru",
+        "refcode": "ХД 80.5"
+      },
+      {
+        "para_id": "12131.297",
+        "lang": "uk",
+        "refcode": "ХР 63.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.340",
+    "id_prev": "128.337",
+    "id_next": "128.341",
+    "refcode_1": "AH",
+    "refcode_2": "81",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 81.1",
+    "refcode_long": "The Adventist Home, p. 81.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "I have been shown that the youth of today have no true sense of their great danger. There are many of the young whom God would accept as laborers in the various branches of His work, but Satan steps in and so entangles them in his web that they become estranged from God and powerless in His work. Satan is a sharp and persevering workman. He knows just how to entrap the unwary, and it is an alarming fact that but few succeed in escaping from his wiles. They see no danger and do not guard against his devices. He prompts them to fasten their affections upon one another without seeking wisdom of God or of those whom He has sent to warn, reprove, and counsel. They feel self-sufficient and will not bear restraint.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 105.1\" data-link=\"113.530\">Ibid., 105, 106</span>.</span></a></sup>",
+    "puborder": 218,
+    "translations": [
+      {
+        "para_id": "13839.265",
+        "lang": "bg",
+        "refcode": "ХД 31.6"
+      },
+      {
+        "para_id": "177.376",
+        "lang": "es",
+        "refcode": "HC 68.2"
+      },
+      {
+        "para_id": "193.338",
+        "lang": "fr",
+        "refcode": "FC 77.1"
+      },
+      {
+        "para_id": "12869.377",
+        "lang": "id",
+        "refcode": "MKB 74.2"
+      },
+      {
+        "para_id": "12178.284",
+        "lang": "pl",
+        "refcode": "ChD 48.4"
+      },
+      {
+        "para_id": "12178.286",
+        "lang": "pl",
+        "refcode": "ChD 49.1"
+      },
+      {
+        "para_id": "1955.463",
+        "lang": "pt",
+        "refcode": "LA 81.1"
+      },
+      {
+        "para_id": "2026.332",
+        "lang": "ro",
+        "refcode": "CA 81.1"
+      },
+      {
+        "para_id": "1803.307",
+        "lang": "ru",
+        "refcode": "ХД 81.1"
+      },
+      {
+        "para_id": "12131.298",
+        "lang": "uk",
+        "refcode": "ХР 63.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.341",
+    "id_prev": "128.340",
+    "id_next": "128.342",
+    "refcode_1": "AH",
+    "refcode_2": "81",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 81.2",
+    "refcode_long": "The Adventist Home, p. 81.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Counsel to a Teen-age Youth</strong>&mdash;Your boyish ideas of love for young girls does not give anyone a high opinion of you. By letting your mind run in this channel, you spoil your thoughts for study. You will be led to form impure associations; your ways and the ways of others will be corrupted. This is just as your case is presented to me, and as long as you persist in following your own way, whoever will seek to guide, influence, or restrain you will meet with the most determined resistance because your heart is not in harmony with truth and righteousness.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 15a, 1896\" data-link=\"14061.13065001\">Manuscript 15a, 1896</span>.</span></a></sup>",
+    "puborder": 219,
+    "translations": [
+      {
+        "para_id": "13839.266",
+        "lang": "bg",
+        "refcode": "ХД 31.7"
+      },
+      {
+        "para_id": "177.377",
+        "lang": "es",
+        "refcode": "HC 68.3"
+      },
+      {
+        "para_id": "193.339",
+        "lang": "fr",
+        "refcode": "FC 77.2"
+      },
+      {
+        "para_id": "12869.379",
+        "lang": "id",
+        "refcode": "MKB 74.3"
+      },
+      {
+        "para_id": "12178.287",
+        "lang": "pl",
+        "refcode": "ChD 49.2"
+      },
+      {
+        "para_id": "1955.465",
+        "lang": "pt",
+        "refcode": "LA 81.2"
+      },
+      {
+        "para_id": "1955.464",
+        "lang": "pt",
+        "refcode": "LA 81"
+      },
+      {
+        "para_id": "2026.333",
+        "lang": "ro",
+        "refcode": "CA 81.2"
+      },
+      {
+        "para_id": "1803.308",
+        "lang": "ru",
+        "refcode": "ХД 81.2"
+      },
+      {
+        "para_id": "12131.301",
+        "lang": "uk",
+        "refcode": "ХР 64.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.342",
+    "id_prev": "128.341",
+    "id_next": "128.346",
+    "refcode_1": "AH",
+    "refcode_2": "81",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 81.3",
+    "refcode_long": "The Adventist Home, p. 81.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Disparity in Age</strong>&mdash;The parties may not have worldly wealth, but they should have the far greater blessing of health. And in most cases there should not be a great <span class=\"page-break\" data-page=\"82\"></span> disparity in age. A neglect of this rule may result in seriously impairing the health of the younger. And often the children are robbed of physical and mental strength. They cannot receive from an aged parent the care and companionship which their young lives demand, and they may be deprived by death of the father or the mother at the very time when love and guidance are most needed.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 358.1\" data-link=\"135.1803\">The Ministry of Healing, 358</span>.</span></a></sup>",
+    "puborder": 220,
+    "translations": [
+      {
+        "para_id": "13839.269",
+        "lang": "bg",
+        "refcode": "ХД 32.1"
+      },
+      {
+        "para_id": "177.378",
+        "lang": "es",
+        "refcode": "HC 68.4"
+      },
+      {
+        "para_id": "193.340",
+        "lang": "fr",
+        "refcode": "FC 77.3"
+      },
+      {
+        "para_id": "12869.383",
+        "lang": "id",
+        "refcode": "MKB 75.1"
+      },
+      {
+        "para_id": "12178.288",
+        "lang": "pl",
+        "refcode": "ChD 49.3"
+      },
+      {
+        "para_id": "1955.466",
+        "lang": "pt",
+        "refcode": "LA 81"
+      },
+      {
+        "para_id": "1955.467",
+        "lang": "pt",
+        "refcode": "LA 81.3"
+      },
+      {
+        "para_id": "2026.334",
+        "lang": "ro",
+        "refcode": "CA 81.3"
+      },
+      {
+        "para_id": "1803.309",
+        "lang": "ru",
+        "refcode": "ХД 81.3"
+      },
+      {
+        "para_id": "12131.302",
+        "lang": "uk",
+        "refcode": "ХР 64.2"
+      }
+    ]
+  }
+]

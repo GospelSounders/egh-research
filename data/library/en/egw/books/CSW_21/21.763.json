@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.763",
+    "id_prev": "21.762",
+    "id_next": "21.764",
+    "refcode_1": "CSW",
+    "refcode_2": "164",
+    "refcode_3": "",
+    "refcode_4": "128",
+    "refcode_short": "CSW 164",
+    "refcode_long": "Counsels on Sabbath School Work, p. 164 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Choosing of Officers",
+    "puborder": 481,
+    "translations": [
+      {
+        "para_id": "11629.741",
+        "lang": "da",
+        "refcode": "RSSA 164"
+      },
+      {
+        "para_id": "799.716",
+        "lang": "de",
+        "refcode": "RSs 133"
+      },
+      {
+        "para_id": "1711.822",
+        "lang": "es",
+        "refcode": "COES 184"
+      },
+      {
+        "para_id": "1917.901",
+        "lang": "pt",
+        "refcode": "CES38 86"
+      },
+      {
+        "para_id": "1724.806",
+        "lang": "pt",
+        "refcode": "CES 164"
+      },
+      {
+        "para_id": "2719.782",
+        "lang": "ro",
+        "refcode": "SSS 164"
+      },
+      {
+        "para_id": "1873.757",
+        "lang": "ru",
+        "refcode": "ССШ 164"
+      }
+    ]
+  },
+  {
+    "para_id": "21.764",
+    "id_prev": "21.763",
+    "id_next": "21.766",
+    "refcode_1": "CSW",
+    "refcode_2": "164",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 164.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 164.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Christian women may exert an influence for good over the youth and children. Their capabilities are God&apos;s entrusted talents, and should be wholly consecrated to the Master&apos;s service. Many are quick to discern, and efficient to execute, but they need to be closely connected with God. They will seek for new methods and ways by which to develop character and educate the youth how to use the talents God has given them.",
+    "puborder": 482,
+    "translations": [
+      {
+        "para_id": "11629.742",
+        "lang": "da",
+        "refcode": "RSSA 164.2"
+      },
+      {
+        "para_id": "799.717",
+        "lang": "de",
+        "refcode": "RSs 133.3"
+      },
+      {
+        "para_id": "1711.823",
+        "lang": "es",
+        "refcode": "COES 184.1"
+      },
+      {
+        "para_id": "1917.902",
+        "lang": "pt",
+        "refcode": "CES38 86.2"
+      },
+      {
+        "para_id": "1724.807",
+        "lang": "pt",
+        "refcode": "CES 164.2"
+      },
+      {
+        "para_id": "2719.783",
+        "lang": "ro",
+        "refcode": "SSS 164.2"
+      },
+      {
+        "para_id": "1873.758",
+        "lang": "ru",
+        "refcode": "ССШ 164.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.766",
+    "id_prev": "21.764",
+    "id_next": "21.767",
+    "refcode_1": "CSW",
+    "refcode_2": "165",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 165.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 165.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In selecting officers from time to time, be sure that personal preferences do not rule, but place in positions of trust those whom you are convinced love and fear God, and who will make God their counselor. Without the love and fear of God, however brilliant the intellect may be, there will be failure. Jesus says, &ldquo;Without Me ye can do nothing.&rdquo; This matter of choosing officers should not be left to the control of the Sabbath school scholars. To change the officers frequently will be an advantage to the school; for one man&apos;s mind is not to mold all other minds. He may have some excellent qualifications, and yet in some things be deficient. Another chosen may be efficient where the other was lacking. Different minds and qualities will bring in fresh ideas, fresh lines of thought; and this is essential. But, above everything else, select those who, in the simplicity of their souls, are walking in the truth, who love and fear God, and take their lessons in His school. Such will carry the scholars forward and upward. Under wise teachers the scholars will gain increased interest for the word of God, and have deeper insight into the Scriptures. Let Christ be the theme of every lesson. The lessons which Christ has given to His disciples are of the highest importance.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 83.1\" data-link=\"121.331\"><em>Testimonies on Sabbath-School Work</em>, 83, 84</span>.",
+    "puborder": 483,
+    "translations": [
+      {
+        "para_id": "11629.745",
+        "lang": "da",
+        "refcode": "RSSA 165.1"
+      },
+      {
+        "para_id": "799.720",
+        "lang": "de",
+        "refcode": "RSs 134.1"
+      },
+      {
+        "para_id": "1711.824",
+        "lang": "es",
+        "refcode": "COES 184.2"
+      },
+      {
+        "para_id": "1917.904",
+        "lang": "pt",
+        "refcode": "CES38 86.3"
+      },
+      {
+        "para_id": "1724.809",
+        "lang": "pt",
+        "refcode": "CES 165.1"
+      },
+      {
+        "para_id": "2719.785",
+        "lang": "ro",
+        "refcode": "SSS 165.1"
+      },
+      {
+        "para_id": "1873.758",
+        "lang": "ru",
+        "refcode": "ССШ 164.2"
+      }
+    ]
+  }
+]

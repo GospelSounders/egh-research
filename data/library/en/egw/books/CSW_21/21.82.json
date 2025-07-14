@@ -1,0 +1,111 @@
+[
+  {
+    "para_id": "21.82",
+    "id_prev": "21.81",
+    "id_next": "21.83",
+    "refcode_1": "CSW",
+    "refcode_2": "22",
+    "refcode_3": "",
+    "refcode_4": "12",
+    "refcode_short": "CSW 22",
+    "refcode_long": "Counsels on Sabbath School Work, p. 22 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Compare Scripture With Scripture",
+    "puborder": 51,
+    "translations": [
+      {
+        "para_id": "11629.56",
+        "lang": "da",
+        "refcode": "RSSA 22"
+      },
+      {
+        "para_id": "799.98",
+        "lang": "de",
+        "refcode": "RSs 24"
+      },
+      {
+        "para_id": "1711.100",
+        "lang": "es",
+        "refcode": "COES 23"
+      },
+      {
+        "para_id": "1724.111",
+        "lang": "pt",
+        "refcode": "CES 22"
+      },
+      {
+        "para_id": "1917.86",
+        "lang": "pt",
+        "refcode": "CES38 8"
+      },
+      {
+        "para_id": "2719.84",
+        "lang": "ro",
+        "refcode": "SSS 22"
+      },
+      {
+        "para_id": "1873.80",
+        "lang": "ru",
+        "refcode": "ССШ 22"
+      }
+    ]
+  },
+  {
+    "para_id": "21.83",
+    "id_prev": "21.82",
+    "id_next": "21.86",
+    "refcode_1": "CSW",
+    "refcode_2": "22",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 22.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 22.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Search the Scriptures,&rdquo; was the injunction of the Master. Many have lost much because they have neglected this duty. When we search the word of God, angels are by our side, reflecting bright beams of light upon its sacred pages. The Scriptures appeal to man as having power to choose between right and wrong; they speak to him in warning, in reproof, in <span class=\"page-break\" data-page=\"23\"></span> entreaty, in encouragement. The mind must be exercised on the solemn truths of God&apos;s word, or it will grow weak. We have the truth brought out in publications, but it is not enough to rely upon other men&apos;s thoughts. We must examine for ourselves, and learn the reasons of our faith by comparing scripture with scripture. Take the Bible, and on your knees plead with God to enlighten your mind. If we would study the Bible diligently and prayerfully every day, we should every day see some beautiful truth in a new, clear, and forcible light.&mdash;<span class=\"egwlink egwlink_book\" title=\"RH 3-4-1884\" data-link=\"821.5265\"><em>The Review and Herald</em>, March 4, 1884</span>.",
+    "puborder": 52,
+    "translations": [
+      {
+        "para_id": "11629.57",
+        "lang": "da",
+        "refcode": "RSSA 22.2"
+      },
+      {
+        "para_id": "799.99",
+        "lang": "de",
+        "refcode": "RSs 24.2"
+      },
+      {
+        "para_id": "1711.101",
+        "lang": "es",
+        "refcode": "COES 23.2"
+      },
+      {
+        "para_id": "1917.91",
+        "lang": "pt",
+        "refcode": "CES38 9.1"
+      },
+      {
+        "para_id": "1917.87",
+        "lang": "pt",
+        "refcode": "CES38 8.5"
+      },
+      {
+        "para_id": "1724.112",
+        "lang": "pt",
+        "refcode": "CES 22.2"
+      },
+      {
+        "para_id": "2719.85",
+        "lang": "ro",
+        "refcode": "SSS 22.2"
+      },
+      {
+        "para_id": "1873.81",
+        "lang": "ru",
+        "refcode": "ССШ 22.2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,799 @@
+[
+  {
+    "para_id": "128.835",
+    "id_prev": "128.833",
+    "id_next": "128.836",
+    "refcode_1": "AH",
+    "refcode_2": "187",
+    "refcode_3": "",
+    "refcode_4": "29",
+    "refcode_short": "AH 187",
+    "refcode_long": "The Adventist Home, p. 187 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 29&mdash;A Work That Cannot Be Transferred",
+    "puborder": 546,
+    "translations": [
+      {
+        "para_id": "13839.672",
+        "lang": "bg",
+        "refcode": "ХД 77"
+      },
+      {
+        "para_id": "177.861",
+        "lang": "es",
+        "refcode": "HC 166"
+      },
+      {
+        "para_id": "193.824",
+        "lang": "fr",
+        "refcode": "FC 179"
+      },
+      {
+        "para_id": "12869.996",
+        "lang": "id",
+        "refcode": "MKB 176"
+      },
+      {
+        "para_id": "891.512",
+        "lang": "it",
+        "refcode": "FC 76"
+      },
+      {
+        "para_id": "12178.690",
+        "lang": "pl",
+        "refcode": "ChD 114"
+      },
+      {
+        "para_id": "1955.1085",
+        "lang": "pt",
+        "refcode": "LA 187"
+      },
+      {
+        "para_id": "2026.827",
+        "lang": "ro",
+        "refcode": "CA 187"
+      },
+      {
+        "para_id": "1803.796",
+        "lang": "ru",
+        "refcode": "ХД 187"
+      },
+      {
+        "para_id": "12131.737",
+        "lang": "uk",
+        "refcode": "ХР 148"
+      }
+    ]
+  },
+  {
+    "para_id": "128.836",
+    "id_prev": "128.835",
+    "id_next": "128.837",
+    "refcode_1": "AH",
+    "refcode_2": "187",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 187.1",
+    "refcode_long": "The Adventist Home, p. 187.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Parental Responsibilities Which No One Else Can Bear</strong>&mdash;Parents, you carry responsibilities that no one can bear for you. As long as you live, you are accountable to God to keep His way.... Parents who make the word of God their guide, and who realize how much their children depend upon them for the characters they form, will set an example that it will be safe for their children to follow.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 356, 1907\" data-link=\"14072.7590001\">Letter 356, 1907</span>.</span></a></sup>",
+    "puborder": 547,
+    "translations": [
+      {
+        "para_id": "13839.673",
+        "lang": "bg",
+        "refcode": "ХД 77.5"
+      },
+      {
+        "para_id": "792.332",
+        "lang": "de",
+        "refcode": "GFH 52.3"
+      },
+      {
+        "para_id": "792.331",
+        "lang": "de",
+        "refcode": "GFH 52"
+      },
+      {
+        "para_id": "177.862",
+        "lang": "es",
+        "refcode": "HC 166.1"
+      },
+      {
+        "para_id": "193.825",
+        "lang": "fr",
+        "refcode": "FC 179.1"
+      },
+      {
+        "para_id": "12869.998",
+        "lang": "id",
+        "refcode": "MKB 176.1"
+      },
+      {
+        "para_id": "891.514",
+        "lang": "it",
+        "refcode": "FC 76.2"
+      },
+      {
+        "para_id": "891.513",
+        "lang": "it",
+        "refcode": "FC 76"
+      },
+      {
+        "para_id": "12178.691",
+        "lang": "pl",
+        "refcode": "ChD 114.1"
+      },
+      {
+        "para_id": "1955.1087",
+        "lang": "pt",
+        "refcode": "LA 187.1"
+      },
+      {
+        "para_id": "1955.1086",
+        "lang": "pt",
+        "refcode": "LA 187"
+      },
+      {
+        "para_id": "2026.828",
+        "lang": "ro",
+        "refcode": "CA 187.1"
+      },
+      {
+        "para_id": "1803.797",
+        "lang": "ru",
+        "refcode": "ХД 187.1"
+      },
+      {
+        "para_id": "12131.738",
+        "lang": "uk",
+        "refcode": "ХР 148.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.837",
+    "id_prev": "128.836",
+    "id_next": "128.838",
+    "refcode_1": "AH",
+    "refcode_2": "187",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 187.2",
+    "refcode_long": "The Adventist Home, p. 187.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Fathers and mothers are responsible for the health, the constitution, the development of the character of their children. No one else should be left to see to this work. In becoming the parents of children, it devolves upon you to co-operate with the Lord in educating them in sound principles.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 126, 1897\" data-link=\"14062.7141001\">Manuscript 126, 1897</span>.</span></a></sup>",
+    "puborder": 548,
+    "translations": [
+      {
+        "para_id": "13839.674",
+        "lang": "bg",
+        "refcode": "ХД 77.6"
+      },
+      {
+        "para_id": "792.333",
+        "lang": "de",
+        "refcode": "GFH 52.4"
+      },
+      {
+        "para_id": "177.863",
+        "lang": "es",
+        "refcode": "HC 166.2"
+      },
+      {
+        "para_id": "193.826",
+        "lang": "fr",
+        "refcode": "FC 179.2"
+      },
+      {
+        "para_id": "12869.999",
+        "lang": "id",
+        "refcode": "MKB 176.2"
+      },
+      {
+        "para_id": "891.515",
+        "lang": "it",
+        "refcode": "FC 76.3"
+      },
+      {
+        "para_id": "12178.692",
+        "lang": "pl",
+        "refcode": "ChD 114.2"
+      },
+      {
+        "para_id": "1955.1088",
+        "lang": "pt",
+        "refcode": "LA 187.2"
+      },
+      {
+        "para_id": "2026.829",
+        "lang": "ro",
+        "refcode": "CA 187.2"
+      },
+      {
+        "para_id": "1803.798",
+        "lang": "ru",
+        "refcode": "ХД 187.2"
+      },
+      {
+        "para_id": "12131.739",
+        "lang": "uk",
+        "refcode": "ХР 148.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.838",
+    "id_prev": "128.837",
+    "id_next": "128.839",
+    "refcode_1": "AH",
+    "refcode_2": "187",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 187.3",
+    "refcode_long": "The Adventist Home, p. 187.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "How sad it is that many parents have cast off their God-given responsibility to their children, and are willing that strangers should bear it for them! They are willing that others should labor for their children and relieve them of all burden in the matter.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 10-25-1892\" data-link=\"821.12255\">The Review and Herald, October 25, 1892</span>.</span></a></sup>",
+    "puborder": 549,
+    "translations": [
+      {
+        "para_id": "13839.675",
+        "lang": "bg",
+        "refcode": "ХД 77.7"
+      },
+      {
+        "para_id": "792.336",
+        "lang": "de",
+        "refcode": "GFH 53.1"
+      },
+      {
+        "para_id": "177.864",
+        "lang": "es",
+        "refcode": "HC 166.3"
+      },
+      {
+        "para_id": "193.827",
+        "lang": "fr",
+        "refcode": "FC 179.3"
+      },
+      {
+        "para_id": "12869.1002",
+        "lang": "id",
+        "refcode": "MKB 177.1"
+      },
+      {
+        "para_id": "891.516",
+        "lang": "it",
+        "refcode": "FC 76.4"
+      },
+      {
+        "para_id": "12178.693",
+        "lang": "pl",
+        "refcode": "ChD 114.3"
+      },
+      {
+        "para_id": "1955.1089",
+        "lang": "pt",
+        "refcode": "LA 187.3"
+      },
+      {
+        "para_id": "2026.830",
+        "lang": "ro",
+        "refcode": "CA 187.3"
+      },
+      {
+        "para_id": "1803.799",
+        "lang": "ru",
+        "refcode": "ХД 187.3"
+      },
+      {
+        "para_id": "12131.740",
+        "lang": "uk",
+        "refcode": "ХР 148.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.839",
+    "id_prev": "128.838",
+    "id_next": "128.841",
+    "refcode_1": "AH",
+    "refcode_2": "187",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 187.4",
+    "refcode_long": "The Adventist Home, p. 187.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Many who are now bemoaning the waywardness of their children have only themselves to blame. Let these look to their Bibles and see what God enjoins upon them as parents and guardians. Let them take up their long-neglected duties. They need to humble themselves and to repent before God for their neglect to follow His directions in the training of their children. They need to change their own course of action and to follow the Bible strictly and carefully as their guide and counselor.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 57, 1897\" data-link=\"14062.6345001\">Manuscript 57, 1897</span>.</span></a></sup>",
+    "puborder": 550,
+    "translations": [
+      {
+        "para_id": "13839.676",
+        "lang": "bg",
+        "refcode": "ХД 77.8"
+      },
+      {
+        "para_id": "792.337",
+        "lang": "de",
+        "refcode": "GFH 53.2"
+      },
+      {
+        "para_id": "177.865",
+        "lang": "es",
+        "refcode": "HC 166.4"
+      },
+      {
+        "para_id": "193.828",
+        "lang": "fr",
+        "refcode": "FC 179.4"
+      },
+      {
+        "para_id": "12869.1003",
+        "lang": "id",
+        "refcode": "MKB 177.2"
+      },
+      {
+        "para_id": "891.518",
+        "lang": "it",
+        "refcode": "FC 77.1"
+      },
+      {
+        "para_id": "12178.694",
+        "lang": "pl",
+        "refcode": "ChD 114.4"
+      },
+      {
+        "para_id": "1955.1090",
+        "lang": "pt",
+        "refcode": "LA 187.4"
+      },
+      {
+        "para_id": "2026.831",
+        "lang": "ro",
+        "refcode": "CA 187.4"
+      },
+      {
+        "para_id": "1803.800",
+        "lang": "ru",
+        "refcode": "ХД 187.4"
+      },
+      {
+        "para_id": "12131.741",
+        "lang": "uk",
+        "refcode": "ХР 148.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.841",
+    "id_prev": "128.839",
+    "id_next": "128.842",
+    "refcode_1": "AH",
+    "refcode_2": "188",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 188.1",
+    "refcode_long": "The Adventist Home, p. 188.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Church Alone Cannot Assume These Responsibilities</strong>&mdash;Oh, that the youth and children would give their hearts to Christ! What an army might then be raised up to win others to righteousness! But parents should not leave this work for the church to do alone.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 8-13-1896\" data-link=\"820.13604\">The Signs of the Times, August 13, 1896</span>.</span></a></sup>",
+    "puborder": 551,
+    "translations": [
+      {
+        "para_id": "13839.679",
+        "lang": "bg",
+        "refcode": "ХД 78.1"
+      },
+      {
+        "para_id": "177.866",
+        "lang": "es",
+        "refcode": "HC 166.5"
+      },
+      {
+        "para_id": "193.829",
+        "lang": "fr",
+        "refcode": "FC 179.5"
+      },
+      {
+        "para_id": "12869.1005",
+        "lang": "id",
+        "refcode": "MKB 177.3"
+      },
+      {
+        "para_id": "891.519",
+        "lang": "it",
+        "refcode": "FC 77"
+      },
+      {
+        "para_id": "891.520",
+        "lang": "it",
+        "refcode": "FC 77.2"
+      },
+      {
+        "para_id": "12178.695",
+        "lang": "pl",
+        "refcode": "ChD 114.5"
+      },
+      {
+        "para_id": "1955.1092",
+        "lang": "pt",
+        "refcode": "LA 188"
+      },
+      {
+        "para_id": "1955.1093",
+        "lang": "pt",
+        "refcode": "LA 188.1"
+      },
+      {
+        "para_id": "2026.833",
+        "lang": "ro",
+        "refcode": "CA 188.1"
+      },
+      {
+        "para_id": "1803.802",
+        "lang": "ru",
+        "refcode": "ХД 188.1"
+      },
+      {
+        "para_id": "12131.742",
+        "lang": "uk",
+        "refcode": "ХР 148.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.842",
+    "id_prev": "128.841",
+    "id_next": "128.843",
+    "refcode_1": "AH",
+    "refcode_2": "188",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 188.2",
+    "refcode_long": "The Adventist Home, p. 188.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Nor Can the Minister</strong>&mdash;You roll vast responsibilities upon the preacher and hold him accountable for the souls of your children; but you do not sense your own responsibility as parents and as instructors.... Your sons and daughters are corrupted by your own example and lax precepts; and, notwithstanding this lack of domestic training, you expect the minister to counteract your daily work and accomplish the wonderful achievement of training their hearts and lives to virtue and piety. After the minister has done all he can do for the church by faithful, affectionate admonition, patient discipline, and fervent prayer to reclaim and save the soul, yet is not successful, the fathers and mothers often blame him because their children are not converted, when it may be because of their own neglect. The burden rests with the parents; and will they take up the work that God has entrusted to them and with fidelity perform it? Will they move onward and upward, working in a humble, patient, persevering way to reach the exalted standard themselves and to bring their children up with them?<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 494.1\" data-link=\"113.2426\">Testimonies for the Church 5:494, 495</span>.</span></a></sup>",
+    "puborder": 552,
+    "translations": [
+      {
+        "para_id": "13839.680",
+        "lang": "bg",
+        "refcode": "ХД 78.2"
+      },
+      {
+        "para_id": "177.869",
+        "lang": "es",
+        "refcode": "HC 167.1"
+      },
+      {
+        "para_id": "177.870",
+        "lang": "es",
+        "refcode": "HC 167.2"
+      },
+      {
+        "para_id": "193.832",
+        "lang": "fr",
+        "refcode": "FC 180.1"
+      },
+      {
+        "para_id": "12869.1007",
+        "lang": "id",
+        "refcode": "MKB 177.4"
+      },
+      {
+        "para_id": "891.522",
+        "lang": "it",
+        "refcode": "FC 77.3"
+      },
+      {
+        "para_id": "891.521",
+        "lang": "it",
+        "refcode": "FC 77"
+      },
+      {
+        "para_id": "12178.698",
+        "lang": "pl",
+        "refcode": "ChD 115.1"
+      },
+      {
+        "para_id": "12178.699",
+        "lang": "pl",
+        "refcode": "ChD 115.2"
+      },
+      {
+        "para_id": "1955.1095",
+        "lang": "pt",
+        "refcode": "LA 188.2"
+      },
+      {
+        "para_id": "1955.1094",
+        "lang": "pt",
+        "refcode": "LA 188"
+      },
+      {
+        "para_id": "2026.834",
+        "lang": "ro",
+        "refcode": "CA 188.2"
+      },
+      {
+        "para_id": "1803.803",
+        "lang": "ru",
+        "refcode": "ХД 188.2"
+      },
+      {
+        "para_id": "12131.743",
+        "lang": "uk",
+        "refcode": "ХР 148.6"
+      },
+      {
+        "para_id": "12131.746",
+        "lang": "uk",
+        "refcode": "ХР 149.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.843",
+    "id_prev": "128.842",
+    "id_next": "128.844",
+    "refcode_1": "AH",
+    "refcode_2": "188",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 188.3",
+    "refcode_long": "The Adventist Home, p. 188.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Are not many fathers and mothers placing their responsibilities into others&rsquo; hands? Do not many of them think that the minister should take the burden and see to it that their children are converted and that the seal of God is placed upon them?&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 5-21-1895\" data-link=\"821.14233\">The Review and Herald, May 21, 1895</span>.</span></a></sup>",
+    "puborder": 553,
+    "translations": [
+      {
+        "para_id": "13839.681",
+        "lang": "bg",
+        "refcode": "ХД 78.3"
+      },
+      {
+        "para_id": "177.871",
+        "lang": "es",
+        "refcode": "HC 167.3"
+      },
+      {
+        "para_id": "193.833",
+        "lang": "fr",
+        "refcode": "FC 180.2"
+      },
+      {
+        "para_id": "12869.1010",
+        "lang": "id",
+        "refcode": "MKB 178.1"
+      },
+      {
+        "para_id": "891.522",
+        "lang": "it",
+        "refcode": "FC 77.3"
+      },
+      {
+        "para_id": "12178.700",
+        "lang": "pl",
+        "refcode": "ChD 115.3"
+      },
+      {
+        "para_id": "1955.1096",
+        "lang": "pt",
+        "refcode": "LA 188.3"
+      },
+      {
+        "para_id": "2026.835",
+        "lang": "ro",
+        "refcode": "CA 188.3"
+      },
+      {
+        "para_id": "1803.804",
+        "lang": "ru",
+        "refcode": "ХД 188.3"
+      },
+      {
+        "para_id": "12131.747",
+        "lang": "uk",
+        "refcode": "ХР 149.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.844",
+    "id_prev": "128.843",
+    "id_next": "128.847",
+    "refcode_1": "AH",
+    "refcode_2": "188",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 188.4",
+    "refcode_long": "The Adventist Home, p. 188.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Nor Can the Sabbath School</strong>&mdash;It is their [the parents&apos;] privilege to help their children obtain that knowledge <span class=\"page-break\" data-page=\"189\"></span> which they may carry with them into the future life. But for some reason many parents dislike to give their children religious instruction. They leave them to pick up in Sabbath school the knowledge they should impart concerning their responsibility to God. Such parents need to understand that God desires them to educate, discipline, and train their children, ever keeping before them the fact that they are forming characters for the present and the future life.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 6-6-1899\" data-link=\"821.17999\">The Review and Herald, June 6, 1899</span>.</span></a></sup>",
+    "puborder": 554,
+    "translations": [
+      {
+        "para_id": "13839.682",
+        "lang": "bg",
+        "refcode": "ХД 78.4"
+      },
+      {
+        "para_id": "177.872",
+        "lang": "es",
+        "refcode": "HC 167.4"
+      },
+      {
+        "para_id": "193.834",
+        "lang": "fr",
+        "refcode": "FC 180.3"
+      },
+      {
+        "para_id": "12869.1012",
+        "lang": "id",
+        "refcode": "MKB 178.2"
+      },
+      {
+        "para_id": "12178.701",
+        "lang": "pl",
+        "refcode": "ChD 115.4"
+      },
+      {
+        "para_id": "1955.1098",
+        "lang": "pt",
+        "refcode": "LA 188.4"
+      },
+      {
+        "para_id": "1955.1097",
+        "lang": "pt",
+        "refcode": "LA 188"
+      },
+      {
+        "para_id": "2026.836",
+        "lang": "ro",
+        "refcode": "CA 188.4"
+      },
+      {
+        "para_id": "1803.805",
+        "lang": "ru",
+        "refcode": "ХД 188.4"
+      },
+      {
+        "para_id": "12131.748",
+        "lang": "uk",
+        "refcode": "ХР 149.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.847",
+    "id_prev": "128.844",
+    "id_next": "128.848",
+    "refcode_1": "AH",
+    "refcode_2": "189",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 189.1",
+    "refcode_long": "The Adventist Home, p. 189.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Do not depend upon the teachers of the Sabbath school to do your work of training your children in the way they should go. The Sabbath school is a great blessing; it may help you in your work, but it can never take your place. God has given to all fathers and mothers the responsibility of bringing their children to Jesus, teaching them how to pray and believe in the word of God.",
+    "puborder": 555,
+    "translations": [
+      {
+        "para_id": "13839.683",
+        "lang": "bg",
+        "refcode": "ХД 78.5"
+      },
+      {
+        "para_id": "177.875",
+        "lang": "es",
+        "refcode": "HC 168.1"
+      },
+      {
+        "para_id": "193.837",
+        "lang": "fr",
+        "refcode": "FC 181.1"
+      },
+      {
+        "para_id": "12869.1013",
+        "lang": "id",
+        "refcode": "MKB 178.3"
+      },
+      {
+        "para_id": "12178.702",
+        "lang": "pl",
+        "refcode": "ChD 115.5"
+      },
+      {
+        "para_id": "1955.1101",
+        "lang": "pt",
+        "refcode": "LA 189.1"
+      },
+      {
+        "para_id": "2026.839",
+        "lang": "ro",
+        "refcode": "CA 189.1"
+      },
+      {
+        "para_id": "1803.808",
+        "lang": "ru",
+        "refcode": "ХД 189.1"
+      },
+      {
+        "para_id": "12131.749",
+        "lang": "uk",
+        "refcode": "ХР 149.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.848",
+    "id_prev": "128.847",
+    "id_next": "128.850",
+    "refcode_1": "AH",
+    "refcode_2": "189",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 189.2",
+    "refcode_long": "The Adventist Home, p. 189.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the education of your children lay not the grand truths of the Bible to one side, supposing that the Sabbath school and the minister will do your neglected work. The Bible is not too sacred and sublime to be opened daily and studied diligently. The truths of the word of God are to be brought into contact with the supposed little things of life. If rightly regarded they will brighten the common life, supplying motives for obedience and principles for the formation of a right character.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 5, 1896\" data-link=\"14061.6243001\">Manuscript 5, 1896</span>.</span></a></sup>",
+    "puborder": 556,
+    "translations": [
+      {
+        "para_id": "13839.684",
+        "lang": "bg",
+        "refcode": "ХД 78.6"
+      },
+      {
+        "para_id": "177.875",
+        "lang": "es",
+        "refcode": "HC 168.1"
+      },
+      {
+        "para_id": "193.838",
+        "lang": "fr",
+        "refcode": "FC 181.2"
+      },
+      {
+        "para_id": "12869.1014",
+        "lang": "id",
+        "refcode": "MKB 178.4"
+      },
+      {
+        "para_id": "12178.705",
+        "lang": "pl",
+        "refcode": "ChD 116.1"
+      },
+      {
+        "para_id": "1955.1102",
+        "lang": "pt",
+        "refcode": "LA 189.2"
+      },
+      {
+        "para_id": "2026.840",
+        "lang": "ro",
+        "refcode": "CA 189.2"
+      },
+      {
+        "para_id": "1803.809",
+        "lang": "ru",
+        "refcode": "ХД 189.2"
+      },
+      {
+        "para_id": "12131.750",
+        "lang": "uk",
+        "refcode": "ХР 149.5"
+      }
+    ]
+  }
+]

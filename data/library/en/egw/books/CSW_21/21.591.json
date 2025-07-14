@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.591",
+    "id_prev": "21.587",
+    "id_next": "21.592",
+    "refcode_1": "CSW",
+    "refcode_2": "129",
+    "refcode_3": "",
+    "refcode_4": "5",
+    "refcode_short": "CSW 129",
+    "refcode_long": "Counsels on Sabbath School Work, p. 129 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 5&mdash;Gathering Weekly Mission Offerings",
+    "puborder": 369,
+    "translations": [
+      {
+        "para_id": "11629.565",
+        "lang": "da",
+        "refcode": "RSSA 129"
+      },
+      {
+        "para_id": "799.561",
+        "lang": "de",
+        "refcode": "RSs 107"
+      },
+      {
+        "para_id": "1711.636",
+        "lang": "es",
+        "refcode": "COES 145"
+      },
+      {
+        "para_id": "1917.693",
+        "lang": "pt",
+        "refcode": "CES38 66"
+      },
+      {
+        "para_id": "1724.624",
+        "lang": "pt",
+        "refcode": "CES 127"
+      },
+      {
+        "para_id": "2719.608",
+        "lang": "ro",
+        "refcode": "SSS 129"
+      },
+      {
+        "para_id": "1873.586",
+        "lang": "ru",
+        "refcode": "ССШ 129"
+      }
+    ]
+  },
+  {
+    "para_id": "21.592",
+    "id_prev": "21.591",
+    "id_next": "21.593",
+    "refcode_1": "CSW",
+    "refcode_2": "129",
+    "refcode_3": "",
+    "refcode_4": "89",
+    "refcode_short": "CSW 129",
+    "refcode_long": "Counsels on Sabbath School Work, p. 129 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Thanksgiving for Past Achievement",
+    "puborder": 370,
+    "translations": [
+      {
+        "para_id": "11629.566",
+        "lang": "da",
+        "refcode": "RSSA 129"
+      },
+      {
+        "para_id": "799.563",
+        "lang": "de",
+        "refcode": "RSs 108"
+      },
+      {
+        "para_id": "1711.637",
+        "lang": "es",
+        "refcode": "COES 145"
+      },
+      {
+        "para_id": "1917.696",
+        "lang": "pt",
+        "refcode": "CES38 67"
+      },
+      {
+        "para_id": "1724.630",
+        "lang": "pt",
+        "refcode": "CES 129"
+      },
+      {
+        "para_id": "2719.609",
+        "lang": "ro",
+        "refcode": "SSS 129"
+      },
+      {
+        "para_id": "1873.587",
+        "lang": "ru",
+        "refcode": "ССШ 129"
+      }
+    ]
+  },
+  {
+    "para_id": "21.593",
+    "id_prev": "21.592",
+    "id_next": "21.594",
+    "refcode_1": "CSW",
+    "refcode_2": "129",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 129.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 129.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "We thank God that our Sabbath schools have contributed enough to advance many a precious enterprise. Children and youth have given their pennies, that, like little rivulets, have supplied a stream of beneficence. Children should be educated in such a way that they may perform unselfish acts which heaven will rejoice to see. When the dew of youth is upon them, children should be trained how to do service for Christ. They should be taught self-denial.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 113.1\" data-link=\"121.460\"><em>Testimonies on Sabbath-School Work</em>, 113</span>.",
+    "puborder": 371,
+    "translations": [
+      {
+        "para_id": "11629.567",
+        "lang": "da",
+        "refcode": "RSSA 129.1"
+      },
+      {
+        "para_id": "799.564",
+        "lang": "de",
+        "refcode": "RSs 108.1"
+      },
+      {
+        "para_id": "1711.638",
+        "lang": "es",
+        "refcode": "COES 145.1"
+      },
+      {
+        "para_id": "1917.697",
+        "lang": "pt",
+        "refcode": "CES38 67.1"
+      },
+      {
+        "para_id": "1724.631",
+        "lang": "pt",
+        "refcode": "CES 129.1"
+      },
+      {
+        "para_id": "2719.610",
+        "lang": "ro",
+        "refcode": "SSS 129.1"
+      },
+      {
+        "para_id": "1873.588",
+        "lang": "ru",
+        "refcode": "ССШ 129.1"
+      }
+    ]
+  }
+]

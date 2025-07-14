@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.143",
+    "id_prev": "21.140",
+    "id_next": "21.144",
+    "refcode_1": "CSW",
+    "refcode_2": "35",
+    "refcode_3": "",
+    "refcode_4": "19",
+    "refcode_short": "CSW 35",
+    "refcode_long": "Counsels on Sabbath School Work, p. 35 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Drifting From Bible Landmarks",
+    "puborder": 86,
+    "translations": [
+      {
+        "para_id": "11629.117",
+        "lang": "da",
+        "refcode": "RSSA 35"
+      },
+      {
+        "para_id": "799.150",
+        "lang": "de",
+        "refcode": "RSs 34"
+      },
+      {
+        "para_id": "1711.161",
+        "lang": "es",
+        "refcode": "COES 37"
+      },
+      {
+        "para_id": "1917.159",
+        "lang": "pt",
+        "refcode": "CES38 15"
+      },
+      {
+        "para_id": "1724.172",
+        "lang": "pt",
+        "refcode": "CES 35"
+      },
+      {
+        "para_id": "2719.149",
+        "lang": "ro",
+        "refcode": "SSS 35"
+      },
+      {
+        "para_id": "1873.141",
+        "lang": "ru",
+        "refcode": "ССШ 35"
+      }
+    ]
+  },
+  {
+    "para_id": "21.144",
+    "id_prev": "21.143",
+    "id_next": "21.145",
+    "refcode_1": "CSW",
+    "refcode_2": "35",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 35.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 35.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Many know so little about their Bibles that they are unsettled in the faith. They remove the old landmarks, and fallacies and winds of doctrine blow them hither and thither. Science, falsely so called, is wearing away the foundation of Christian principle; and those who were once in the faith drift away from the Bible landmarks, and divorce themselves from God, while still claiming to be His children.&mdash;<span class=\"egwlink egwlink_book\" title=\"RH 12-29-1896\" data-link=\"821.15543\"><em>The Review and Herald</em>, December 29, 1896</span>.",
+    "puborder": 87,
+    "translations": [
+      {
+        "para_id": "11629.118",
+        "lang": "da",
+        "refcode": "RSSA 35.1"
+      },
+      {
+        "para_id": "799.151",
+        "lang": "de",
+        "refcode": "RSs 34.1"
+      },
+      {
+        "para_id": "1711.162",
+        "lang": "es",
+        "refcode": "COES 37.2"
+      },
+      {
+        "para_id": "1917.160",
+        "lang": "pt",
+        "refcode": "CES38 15.6"
+      },
+      {
+        "para_id": "1724.173",
+        "lang": "pt",
+        "refcode": "CES 35.1"
+      },
+      {
+        "para_id": "2719.150",
+        "lang": "ro",
+        "refcode": "SSS 35.1"
+      },
+      {
+        "para_id": "1873.142",
+        "lang": "ru",
+        "refcode": "ССШ 35.1"
+      }
+    ]
+  }
+]

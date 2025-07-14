@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.185",
+    "id_prev": "21.182",
+    "id_next": "21.186",
+    "refcode_1": "CSW",
+    "refcode_2": "43",
+    "refcode_3": "",
+    "refcode_4": "27",
+    "refcode_short": "CSW 43",
+    "refcode_long": "Counsels on Sabbath School Work, p. 43 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Fixing the Lesson in the Memory",
+    "puborder": 113,
+    "translations": [
+      {
+        "para_id": "11629.158",
+        "lang": "da",
+        "refcode": "RSSA 43"
+      },
+      {
+        "para_id": "799.187",
+        "lang": "de",
+        "refcode": "RSs 39"
+      },
+      {
+        "para_id": "1711.204",
+        "lang": "es",
+        "refcode": "COES 46"
+      },
+      {
+        "para_id": "1917.210",
+        "lang": "pt",
+        "refcode": "CES38 20"
+      },
+      {
+        "para_id": "1724.213",
+        "lang": "pt",
+        "refcode": "CES 43"
+      },
+      {
+        "para_id": "2719.191",
+        "lang": "ro",
+        "refcode": "SSS 43"
+      },
+      {
+        "para_id": "1873.182",
+        "lang": "ru",
+        "refcode": "ССШ 43"
+      }
+    ]
+  },
+  {
+    "para_id": "21.186",
+    "id_prev": "21.185",
+    "id_next": "21.187",
+    "refcode_1": "CSW",
+    "refcode_2": "43",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 43.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 43.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As a means of intellectual training, the opportunities of the Sabbath are invaluable. Let the Sabbath school lesson be learned, not by a hasty glance at the lesson scripture on Sabbath morning, but by careful study for the next week on Sabbath afternoon, with daily review or illustration during the week. Thus the lesson will become fixed in the memory, a treasure never to be wholly lost.&mdash;<span class=\"egwlink egwlink_book\" title=\"Ed 251.1\" data-link=\"29.1326\"><em>Education</em>, 251, 252</span>.",
+    "puborder": 114,
+    "translations": [
+      {
+        "para_id": "11629.159",
+        "lang": "da",
+        "refcode": "RSSA 43.1"
+      },
+      {
+        "para_id": "799.188",
+        "lang": "de",
+        "refcode": "RSs 39.3"
+      },
+      {
+        "para_id": "1711.205",
+        "lang": "es",
+        "refcode": "COES 46.2"
+      },
+      {
+        "para_id": "1724.214",
+        "lang": "pt",
+        "refcode": "CES 43.1"
+      },
+      {
+        "para_id": "1917.211",
+        "lang": "pt",
+        "refcode": "CES38 20.5"
+      },
+      {
+        "para_id": "2719.192",
+        "lang": "ro",
+        "refcode": "SSS 43.1"
+      },
+      {
+        "para_id": "1873.183",
+        "lang": "ru",
+        "refcode": "ССШ 43.1"
+      }
+    ]
+  }
+]

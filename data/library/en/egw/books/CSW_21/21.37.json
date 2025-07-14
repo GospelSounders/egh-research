@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.37",
+    "id_prev": "21.36",
+    "id_next": "21.38",
+    "refcode_1": "CSW",
+    "refcode_2": "11",
+    "refcode_3": "",
+    "refcode_4": "8",
+    "refcode_short": "CSW 11",
+    "refcode_long": "Counsels on Sabbath School Work, p. 11 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Broad, Important Field",
+    "puborder": 24,
+    "translations": [
+      {
+        "para_id": "11629.21",
+        "lang": "da",
+        "refcode": "RSSA 11"
+      },
+      {
+        "para_id": "799.57",
+        "lang": "de",
+        "refcode": "RSs 15"
+      },
+      {
+        "para_id": "1711.51",
+        "lang": "es",
+        "refcode": "COES 11"
+      },
+      {
+        "para_id": "1917.32",
+        "lang": "pt",
+        "refcode": "CES38 3"
+      },
+      {
+        "para_id": "1724.63",
+        "lang": "pt",
+        "refcode": "CES 11"
+      },
+      {
+        "para_id": "2719.36",
+        "lang": "ro",
+        "refcode": "SSS 11"
+      },
+      {
+        "para_id": "1873.35",
+        "lang": "ru",
+        "refcode": "ССШ 11"
+      }
+    ]
+  },
+  {
+    "para_id": "21.38",
+    "id_prev": "21.37",
+    "id_next": "21.41",
+    "refcode_1": "CSW",
+    "refcode_2": "11",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 11.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 11.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Superintendents and the workers in our Sabbath schools have a very important, broad field to cultivate. They need to be baptized with the Holy Spirit of God, that their minds may be impressed to use the very best methods, and follow the best plans to make their work wholly successful. The Lord will work with their efforts; for the youth are the purchase <span class=\"page-break\" data-page=\"12\"></span> of the blood of the only-begotten Son of God. The Lord loved these youth, and gave Jesus to die, that &ldquo;whosoever believeth in Him should not perish, but have everlasting life.&rdquo;",
+    "puborder": 25,
+    "translations": [
+      {
+        "para_id": "11629.22",
+        "lang": "da",
+        "refcode": "RSSA 11.2"
+      },
+      {
+        "para_id": "799.58",
+        "lang": "de",
+        "refcode": "RSs 15.4"
+      },
+      {
+        "para_id": "1711.52",
+        "lang": "es",
+        "refcode": "COES 11.2"
+      },
+      {
+        "para_id": "1724.64",
+        "lang": "pt",
+        "refcode": "CES 11.2"
+      },
+      {
+        "para_id": "1917.33",
+        "lang": "pt",
+        "refcode": "CES38 3.4"
+      },
+      {
+        "para_id": "2719.37",
+        "lang": "ro",
+        "refcode": "SSS 11.2"
+      },
+      {
+        "para_id": "1873.36",
+        "lang": "ru",
+        "refcode": "ССШ 11.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.41",
+    "id_prev": "21.38",
+    "id_next": "21.42",
+    "refcode_1": "CSW",
+    "refcode_2": "12",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 12.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 12.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There is a great work of education to be carried on. The teachers should often pray for and with the children and youth, that they may &ldquo;behold the Lamb of God, which taketh away the sin of the world.&rdquo; They should teach the youth their accountability to God, and help them to understand what Jesus expects of them. Exert every influence you can possibly command to interest them in the Scriptures. Labor for their souls, that they themselves shall become zealous workers, using their talents to impart to others that which has been imparted to them.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 83.1\" data-link=\"121.331\"><em>Testimonies on Sabbath-School Work</em>, 83</span>.",
+    "puborder": 26,
+    "translations": [
+      {
+        "para_id": "11629.22",
+        "lang": "da",
+        "refcode": "RSSA 11.2"
+      },
+      {
+        "para_id": "799.61",
+        "lang": "de",
+        "refcode": "RSs 16.1"
+      },
+      {
+        "para_id": "1711.55",
+        "lang": "es",
+        "refcode": "COES 12.1"
+      },
+      {
+        "para_id": "1724.67",
+        "lang": "pt",
+        "refcode": "CES 12.1"
+      },
+      {
+        "para_id": "1917.36",
+        "lang": "pt",
+        "refcode": "CES38 3.6"
+      },
+      {
+        "para_id": "2719.40",
+        "lang": "ro",
+        "refcode": "SSS 12.1"
+      },
+      {
+        "para_id": "1873.39",
+        "lang": "ru",
+        "refcode": "ССШ 12.1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.644",
+    "id_prev": "21.643",
+    "id_next": "21.645",
+    "refcode_1": "CSW",
+    "refcode_2": "138",
+    "refcode_3": "",
+    "refcode_4": "105",
+    "refcode_short": "CSW 138",
+    "refcode_long": "Counsels on Sabbath School Work, p. 138 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Overcoming Natural Selfishness",
+    "puborder": 406,
+    "translations": [
+      {
+        "para_id": "11629.619",
+        "lang": "da",
+        "refcode": "RSSA 138"
+      },
+      {
+        "para_id": "799.612",
+        "lang": "de",
+        "refcode": "RSs 115"
+      },
+      {
+        "para_id": "1711.693",
+        "lang": "es",
+        "refcode": "COES 156"
+      },
+      {
+        "para_id": "1917.757",
+        "lang": "pt",
+        "refcode": "CES38 72"
+      },
+      {
+        "para_id": "1724.682",
+        "lang": "pt",
+        "refcode": "CES 138"
+      },
+      {
+        "para_id": "2719.661",
+        "lang": "ro",
+        "refcode": "SSS 138"
+      },
+      {
+        "para_id": "1873.639",
+        "lang": "ru",
+        "refcode": "ССШ 138"
+      }
+    ]
+  },
+  {
+    "para_id": "21.645",
+    "id_prev": "21.644",
+    "id_next": "21.648",
+    "refcode_1": "CSW",
+    "refcode_2": "138",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 138.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 138.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Men are not naturally inclined to be benevolent, but to be sordid and avaricious, and to live for self. <span class=\"page-break\" data-page=\"139\"></span> And Satan is ever ready to present the advantages to be gained by using all their means for selfish, worldly purposes; he is glad when he can influence them to shirk duty, and rob God in tithes and offerings. But not one is excused in this matter. &ldquo;Let every one of you lay by him in store, as God hath prospered him.&rdquo; The poor and the rich, the young men and the young women who earn wages,&mdash;all are to lay by a portion; for God claims it. The spiritual prosperity of every member of the church depends on personal effort and strict fidelity to God.&mdash;<span class=\"egwlink egwlink_book\" title=\"5T 382.1\" data-link=\"113.1906\"><em>Testimonies for the Church</em> 5:382</span>.",
+    "puborder": 407,
+    "translations": [
+      {
+        "para_id": "11629.620",
+        "lang": "da",
+        "refcode": "RSSA 138.2"
+      },
+      {
+        "para_id": "799.613",
+        "lang": "de",
+        "refcode": "RSs 115.1"
+      },
+      {
+        "para_id": "1711.694",
+        "lang": "es",
+        "refcode": "COES 156.1"
+      },
+      {
+        "para_id": "1917.758",
+        "lang": "pt",
+        "refcode": "CES38 72.4"
+      },
+      {
+        "para_id": "1724.683",
+        "lang": "pt",
+        "refcode": "CES 138.2"
+      },
+      {
+        "para_id": "2719.662",
+        "lang": "ro",
+        "refcode": "SSS 138.2"
+      },
+      {
+        "para_id": "1873.640",
+        "lang": "ru",
+        "refcode": "ССШ 138.2"
+      }
+    ]
+  }
+]

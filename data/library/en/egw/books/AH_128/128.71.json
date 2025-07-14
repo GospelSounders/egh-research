@@ -1,0 +1,846 @@
+[
+  {
+    "para_id": "128.71",
+    "id_prev": "128.69",
+    "id_next": "128.72",
+    "refcode_1": "AH",
+    "refcode_2": "21",
+    "refcode_3": "",
+    "refcode_4": "2",
+    "refcode_short": "AH 21",
+    "refcode_long": "The Adventist Home, p. 21 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 2&mdash;Fundamentals of True Homemaking",
+    "puborder": 42,
+    "translations": [
+      {
+        "para_id": "13839.51",
+        "lang": "bg",
+        "refcode": "ХД 7"
+      },
+      {
+        "para_id": "177.112",
+        "lang": "es",
+        "refcode": "HC 17"
+      },
+      {
+        "para_id": "193.72",
+        "lang": "fr",
+        "refcode": "FC 21"
+      },
+      {
+        "para_id": "12869.69",
+        "lang": "id",
+        "refcode": "MKB 19"
+      },
+      {
+        "para_id": "891.34",
+        "lang": "it",
+        "refcode": "FC 10"
+      },
+      {
+        "para_id": "12178.56",
+        "lang": "pl",
+        "refcode": "ChD 11"
+      },
+      {
+        "para_id": "1955.130",
+        "lang": "pt",
+        "refcode": "LA 21"
+      },
+      {
+        "para_id": "2026.59",
+        "lang": "ro",
+        "refcode": "CA 21"
+      },
+      {
+        "para_id": "1803.39",
+        "lang": "ru",
+        "refcode": "ХД 21"
+      },
+      {
+        "para_id": "12131.58",
+        "lang": "uk",
+        "refcode": "ХР 17"
+      }
+    ]
+  },
+  {
+    "para_id": "128.72",
+    "id_prev": "128.71",
+    "id_next": "128.73",
+    "refcode_1": "AH",
+    "refcode_2": "21",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 21.1",
+    "refcode_long": "The Adventist Home, p. 21.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Most Attractive Place in the World</strong>&mdash;While there are weighty responsibilities devolving upon the parents to guard carefully the future happiness and interests of their children, it is also their duty to make home as attractive as possible. This is of far greater consequence than to acquire estates and money. Home must not lack sunshine. The home feeling should be kept alive in the hearts of the children, that they may look back upon the home of their childhood as a place of peace and happiness next to heaven. Then as they come to maturity, they should in their turn try to be a comfort and blessing to their parents.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 2-2-1886\" data-link=\"821.7009\">The Review and Herald, February 2, 1886</span>.</span></a></sup>",
+    "puborder": 43,
+    "translations": [
+      {
+        "para_id": "13839.52",
+        "lang": "bg",
+        "refcode": "ХД 7.6"
+      },
+      {
+        "para_id": "177.113",
+        "lang": "es",
+        "refcode": "HC 17.1"
+      },
+      {
+        "para_id": "193.73",
+        "lang": "fr",
+        "refcode": "FC 21.1"
+      },
+      {
+        "para_id": "12869.72",
+        "lang": "id",
+        "refcode": "MKB 19.2"
+      },
+      {
+        "para_id": "12869.71",
+        "lang": "id",
+        "refcode": "MKB 19.1"
+      },
+      {
+        "para_id": "891.36",
+        "lang": "it",
+        "refcode": "FC 10.1"
+      },
+      {
+        "para_id": "891.35",
+        "lang": "it",
+        "refcode": "FC 10"
+      },
+      {
+        "para_id": "12178.57",
+        "lang": "pl",
+        "refcode": "ChD 11.2"
+      },
+      {
+        "para_id": "1955.131",
+        "lang": "pt",
+        "refcode": "LA 21"
+      },
+      {
+        "para_id": "1955.132",
+        "lang": "pt",
+        "refcode": "LA 21.1"
+      },
+      {
+        "para_id": "2026.60",
+        "lang": "ro",
+        "refcode": "CA 21.1"
+      },
+      {
+        "para_id": "1803.40",
+        "lang": "ru",
+        "refcode": "ХД 21.1"
+      },
+      {
+        "para_id": "12131.59",
+        "lang": "uk",
+        "refcode": "ХР 17.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.73",
+    "id_prev": "128.72",
+    "id_next": "128.74",
+    "refcode_1": "AH",
+    "refcode_2": "21",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 21.2",
+    "refcode_long": "The Adventist Home, p. 21.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The home should be to the children the most attractive place in the world, and the mother&apos;s presence should be its greatest attraction. Children have sensitive, loving natures. They are easily pleased, and easily made unhappy. By gentle discipline, in loving words and acts, mothers may bind their children to their hearts.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 388.1\" data-link=\"135.1961\">The Ministry of Healing, 388</span>.</span></a></sup>",
+    "puborder": 44,
+    "translations": [
+      {
+        "para_id": "13839.53",
+        "lang": "bg",
+        "refcode": "ХД 7.7"
+      },
+      {
+        "para_id": "177.114",
+        "lang": "es",
+        "refcode": "HC 17.2"
+      },
+      {
+        "para_id": "193.74",
+        "lang": "fr",
+        "refcode": "FC 21.2"
+      },
+      {
+        "para_id": "12869.75",
+        "lang": "id",
+        "refcode": "MKB 20.1"
+      },
+      {
+        "para_id": "891.37",
+        "lang": "it",
+        "refcode": "FC 10.2"
+      },
+      {
+        "para_id": "12178.58",
+        "lang": "pl",
+        "refcode": "ChD 11.3"
+      },
+      {
+        "para_id": "1955.133",
+        "lang": "pt",
+        "refcode": "LA 21.2"
+      },
+      {
+        "para_id": "2026.61",
+        "lang": "ro",
+        "refcode": "CA 21.2"
+      },
+      {
+        "para_id": "1803.41",
+        "lang": "ru",
+        "refcode": "ХД 21.2"
+      },
+      {
+        "para_id": "12131.60",
+        "lang": "uk",
+        "refcode": "ХР 17.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.74",
+    "id_prev": "128.73",
+    "id_next": "128.75",
+    "refcode_1": "AH",
+    "refcode_2": "21",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 21.3",
+    "refcode_long": "The Adventist Home, p. 21.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Clean, Neat, Orderly</strong>&mdash;Cleanliness, neatness, and order are indispensable to the proper management of the household. But when the mother makes these the all-important duties of her life, and devotes herself to them, to the neglect of the physical development and the mental and moral training of her children, she makes a sad mistake.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 8-5-1875\" data-link=\"820.134\">The Signs of the Times, August 5, 1875</span>.</span></a></sup>",
+    "puborder": 45,
+    "translations": [
+      {
+        "para_id": "13839.54",
+        "lang": "bg",
+        "refcode": "ХД 7.8"
+      },
+      {
+        "para_id": "177.115",
+        "lang": "es",
+        "refcode": "HC 17.3"
+      },
+      {
+        "para_id": "193.75",
+        "lang": "fr",
+        "refcode": "FC 21.3"
+      },
+      {
+        "para_id": "12869.77",
+        "lang": "id",
+        "refcode": "MKB 20.2"
+      },
+      {
+        "para_id": "891.39",
+        "lang": "it",
+        "refcode": "FC 10.3"
+      },
+      {
+        "para_id": "891.38",
+        "lang": "it",
+        "refcode": "FC 10"
+      },
+      {
+        "para_id": "12178.59",
+        "lang": "pl",
+        "refcode": "ChD 11.4"
+      },
+      {
+        "para_id": "1955.134",
+        "lang": "pt",
+        "refcode": "LA 21"
+      },
+      {
+        "para_id": "1955.135",
+        "lang": "pt",
+        "refcode": "LA 21.3"
+      },
+      {
+        "para_id": "2026.62",
+        "lang": "ro",
+        "refcode": "CA 21.3"
+      },
+      {
+        "para_id": "1803.42",
+        "lang": "ru",
+        "refcode": "ХД 21.3"
+      },
+      {
+        "para_id": "12131.61",
+        "lang": "uk",
+        "refcode": "ХР 17.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.75",
+    "id_prev": "128.74",
+    "id_next": "128.78",
+    "refcode_1": "AH",
+    "refcode_2": "21",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 21.4",
+    "refcode_long": "The Adventist Home, p. 21.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Believers should be taught that even though they may be poor, they need not be unclean or untidy in their <span class=\"page-break\" data-page=\"22\"></span> persons or in their homes. Help must be given in this line to those who seem to have no sense of the meaning and importance of cleanliness. They are to be taught that those who are to represent the high and holy God must keep their souls pure and clean, and that this purity must extend to their dress and to everything in the home, so that the ministering angels will have evidence that the truth has wrought a change in the life, purifying the soul and refining the tastes. Those who, after receiving the truth, make no change in word or deportment, in dress or surroundings, are living to themselves, not to Christ. They have not been created anew in Christ Jesus, unto purification and holiness....",
+    "puborder": 46,
+    "translations": [
+      {
+        "para_id": "13839.55",
+        "lang": "bg",
+        "refcode": "ХД 7.9"
+      },
+      {
+        "para_id": "177.116",
+        "lang": "es",
+        "refcode": "HC 17.4"
+      },
+      {
+        "para_id": "193.76",
+        "lang": "fr",
+        "refcode": "FC 21.4"
+      },
+      {
+        "para_id": "12869.78",
+        "lang": "id",
+        "refcode": "MKB 20.3"
+      },
+      {
+        "para_id": "12178.60",
+        "lang": "pl",
+        "refcode": "ChD 11.5"
+      },
+      {
+        "para_id": "1955.136",
+        "lang": "pt",
+        "refcode": "LA 21.4"
+      },
+      {
+        "para_id": "2026.63",
+        "lang": "ro",
+        "refcode": "CA 21.4"
+      },
+      {
+        "para_id": "1803.43",
+        "lang": "ru",
+        "refcode": "ХД 21.4"
+      },
+      {
+        "para_id": "12131.62",
+        "lang": "uk",
+        "refcode": "ХР 17.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.78",
+    "id_prev": "128.75",
+    "id_next": "128.79",
+    "refcode_1": "AH",
+    "refcode_2": "22",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 22.1",
+    "refcode_long": "The Adventist Home, p. 22.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "While we are to guard against needless adornment and display, we are in no case to be careless and indifferent in regard to outward appearance. All about our persons and our homes is to be neat and attractive. The youth are to be taught the importance of presenting an appearance above criticism, an appearance that honors God and the truth.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 6-10-1902\" data-link=\"821.21739\">The Review and Herald, June 10, 1902</span>.</span></a></sup>",
+    "puborder": 47,
+    "translations": [
+      {
+        "para_id": "13839.58",
+        "lang": "bg",
+        "refcode": "ХД 8.1"
+      },
+      {
+        "para_id": "177.119",
+        "lang": "es",
+        "refcode": "HC 18.1"
+      },
+      {
+        "para_id": "193.79",
+        "lang": "fr",
+        "refcode": "FC 22.1"
+      },
+      {
+        "para_id": "12869.79",
+        "lang": "id",
+        "refcode": "MKB 20.4"
+      },
+      {
+        "para_id": "12178.63",
+        "lang": "pl",
+        "refcode": "ChD 12.1"
+      },
+      {
+        "para_id": "1955.139",
+        "lang": "pt",
+        "refcode": "LA 22.1"
+      },
+      {
+        "para_id": "2026.66",
+        "lang": "ro",
+        "refcode": "CA 22.1"
+      },
+      {
+        "para_id": "1803.46",
+        "lang": "ru",
+        "refcode": "ХД 22.1"
+      },
+      {
+        "para_id": "12131.65",
+        "lang": "uk",
+        "refcode": "ХР 18.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.79",
+    "id_prev": "128.78",
+    "id_next": "128.80",
+    "refcode_1": "AH",
+    "refcode_2": "22",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 22.2",
+    "refcode_long": "The Adventist Home, p. 22.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "A neglect of cleanliness will induce disease. Sickness does not come without a cause. Violent epidemics of fevers have occurred in villages and cities that were considered perfectly healthful, and these have resulted in death or broken constitutions. In many instances the premises of the very ones who fell victims to these epidemics contained the agents of destruction which sent forth deadly poison into the atmosphere, to be inhaled by the family and the neighborhood. It is astonishing to witness the prevailing ignorance relative to the effects which slackness and recklessness produce upon health.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CTBH 105.1\" data-link=\"14.504\">Christian Temperance and Bible Hygiene, 105, 106</span>.</span></a></sup>",
+    "puborder": 48,
+    "translations": [
+      {
+        "para_id": "13839.59",
+        "lang": "bg",
+        "refcode": "ХД 8.2"
+      },
+      {
+        "para_id": "177.120",
+        "lang": "es",
+        "refcode": "HC 18.2"
+      },
+      {
+        "para_id": "193.80",
+        "lang": "fr",
+        "refcode": "FC 22.2"
+      },
+      {
+        "para_id": "12869.80",
+        "lang": "id",
+        "refcode": "MKB 20.5"
+      },
+      {
+        "para_id": "12178.64",
+        "lang": "pl",
+        "refcode": "ChD 12.2"
+      },
+      {
+        "para_id": "1955.140",
+        "lang": "pt",
+        "refcode": "LA 22.2"
+      },
+      {
+        "para_id": "2026.67",
+        "lang": "ro",
+        "refcode": "CA 22.2"
+      },
+      {
+        "para_id": "1803.47",
+        "lang": "ru",
+        "refcode": "ХД 22.2"
+      },
+      {
+        "para_id": "12131.66",
+        "lang": "uk",
+        "refcode": "ХР 18.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.80",
+    "id_prev": "128.79",
+    "id_next": "128.83",
+    "refcode_1": "AH",
+    "refcode_2": "22",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 22.3",
+    "refcode_long": "The Adventist Home, p. 22.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Order Necessary for a Happy Home</strong>&mdash;God is displeased with disorder, slackness, and a lack of thoroughness <span class=\"page-break\" data-page=\"23\"></span> in anyone. These deficiencies are serious evils, and tend to wean the affections of the husband from the wife when the husband loves order, well-disciplined children, and a well-regulated house. A wife and mother cannot make home agreeable and happy unless she possesses a love for order, preserves her dignity, and has good government; therefore all who fail on these points should begin at once to educate themselves in this direction, and cultivate the very things wherein is their greatest lack.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 298.1\" data-link=\"120.1286\">Testimonies for the Church 2:298, 299</span>.</span></a></sup>",
+    "puborder": 49,
+    "translations": [
+      {
+        "para_id": "13839.60",
+        "lang": "bg",
+        "refcode": "ХД 8.3"
+      },
+      {
+        "para_id": "177.121",
+        "lang": "es",
+        "refcode": "HC 18.3"
+      },
+      {
+        "para_id": "193.81",
+        "lang": "fr",
+        "refcode": "FC 22.3"
+      },
+      {
+        "para_id": "12869.84",
+        "lang": "id",
+        "refcode": "MKB 21.1"
+      },
+      {
+        "para_id": "891.40",
+        "lang": "it",
+        "refcode": "FC 10"
+      },
+      {
+        "para_id": "891.41",
+        "lang": "it",
+        "refcode": "FC 10.4"
+      },
+      {
+        "para_id": "12178.65",
+        "lang": "pl",
+        "refcode": "ChD 12.3"
+      },
+      {
+        "para_id": "1955.142",
+        "lang": "pt",
+        "refcode": "LA 22.3"
+      },
+      {
+        "para_id": "1955.141",
+        "lang": "pt",
+        "refcode": "LA 22"
+      },
+      {
+        "para_id": "2026.68",
+        "lang": "ro",
+        "refcode": "CA 22.3"
+      },
+      {
+        "para_id": "1803.48",
+        "lang": "ru",
+        "refcode": "ХД 22.3"
+      },
+      {
+        "para_id": "12131.67",
+        "lang": "uk",
+        "refcode": "ХР 18.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.83",
+    "id_prev": "128.80",
+    "id_next": "128.84",
+    "refcode_1": "AH",
+    "refcode_2": "23",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 23.1",
+    "refcode_long": "The Adventist Home, p. 23.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Vigilance and Diligence to Be Blended</strong>&mdash;When we give ourselves unreservedly to the Lord, the simple, commonplace duties of home life will be seen in their true importance, and we shall perform them in accordance with the will of God. We are to be vigilant, watching for the coming of the Son of man; and we must also be diligent; working as well as waiting is required; there must be a union of the two. This will balance the Christian character, making it well developed, symmetrical. We should not feel that we are to neglect everything else, and give ourselves up to meditation, study, or prayer; neither are we to be full of bustle and hurry and work, to the neglect of personal piety. Waiting and watching and working are to be blended. &ldquo;Not slothful in business; fervent in spirit; serving the Lord.&rdquo;<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 9-15-1891\" data-link=\"821.11491\">The Review and Herald, September 15, 1891</span>.</span></a></sup>",
+    "puborder": 50,
+    "translations": [
+      {
+        "para_id": "13839.61",
+        "lang": "bg",
+        "refcode": "ХД 8.4"
+      },
+      {
+        "para_id": "177.124",
+        "lang": "es",
+        "refcode": "HC 19.1"
+      },
+      {
+        "para_id": "193.84",
+        "lang": "fr",
+        "refcode": "FC 23.1"
+      },
+      {
+        "para_id": "12869.86",
+        "lang": "id",
+        "refcode": "MKB 21.2"
+      },
+      {
+        "para_id": "12178.66",
+        "lang": "pl",
+        "refcode": "ChD 12.4"
+      },
+      {
+        "para_id": "1955.145",
+        "lang": "pt",
+        "refcode": "LA 23"
+      },
+      {
+        "para_id": "1955.146",
+        "lang": "pt",
+        "refcode": "LA 23.1"
+      },
+      {
+        "para_id": "2026.71",
+        "lang": "ro",
+        "refcode": "CA 23.1"
+      },
+      {
+        "para_id": "1803.51",
+        "lang": "ru",
+        "refcode": "ХД 23.1"
+      },
+      {
+        "para_id": "12131.68",
+        "lang": "uk",
+        "refcode": "ХР 18.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.84",
+    "id_prev": "128.83",
+    "id_next": "128.87",
+    "refcode_1": "AH",
+    "refcode_2": "23",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 23.2",
+    "refcode_long": "The Adventist Home, p. 23.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Provide Laborsaving Facilities</strong>&mdash;In many a home the wife and mother has no time to read, to keep herself well informed, no time to be a companion to her husband, no time to keep in touch with the developing minds of her children. There is no time or place for the precious Saviour to be a close, dear companion. Little by little she sinks into a mere household drudge, her strength and time and interest absorbed in the things that perish with the using. Too late she awakes to find herself almost a <span class=\"page-break\" data-page=\"24\"></span> stranger in her own home. The precious opportunities once hers to influence her dear ones for the higher life, unimproved, have passed away forever.",
+    "puborder": 51,
+    "translations": [
+      {
+        "para_id": "13839.62",
+        "lang": "bg",
+        "refcode": "ХД 8.5"
+      },
+      {
+        "para_id": "177.125",
+        "lang": "es",
+        "refcode": "HC 19.2"
+      },
+      {
+        "para_id": "193.85",
+        "lang": "fr",
+        "refcode": "FC 23.2"
+      },
+      {
+        "para_id": "12869.88",
+        "lang": "id",
+        "refcode": "MKB 21.3"
+      },
+      {
+        "para_id": "891.42",
+        "lang": "it",
+        "refcode": "FC 10"
+      },
+      {
+        "para_id": "891.43",
+        "lang": "it",
+        "refcode": "FC 10.5"
+      },
+      {
+        "para_id": "12178.69",
+        "lang": "pl",
+        "refcode": "ChD 13.1"
+      },
+      {
+        "para_id": "1955.147",
+        "lang": "pt",
+        "refcode": "LA 23"
+      },
+      {
+        "para_id": "1955.148",
+        "lang": "pt",
+        "refcode": "LA 23.2"
+      },
+      {
+        "para_id": "2026.73",
+        "lang": "ro",
+        "refcode": "CA 23.2"
+      },
+      {
+        "para_id": "1803.52",
+        "lang": "ru",
+        "refcode": "ХД 23.2"
+      },
+      {
+        "para_id": "12131.71",
+        "lang": "uk",
+        "refcode": "ХР 19.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.87",
+    "id_prev": "128.84",
+    "id_next": "128.88",
+    "refcode_1": "AH",
+    "refcode_2": "24",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 24.1",
+    "refcode_long": "The Adventist Home, p. 24.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Let the homemakers resolve to live on a wiser plan. Let it be your first aim to make a pleasant home. Be sure to provide the facilities that will lighten labor and promote health.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MH 368.1\" data-link=\"135.1854\">The Ministry of Healing, 368, 369</span>.</span></a></sup>",
+    "puborder": 52,
+    "translations": [
+      {
+        "para_id": "13839.65",
+        "lang": "bg",
+        "refcode": "ХД 9.1"
+      },
+      {
+        "para_id": "177.126",
+        "lang": "es",
+        "refcode": "HC 19.3"
+      },
+      {
+        "para_id": "193.86",
+        "lang": "fr",
+        "refcode": "FC 23.3"
+      },
+      {
+        "para_id": "12869.91",
+        "lang": "id",
+        "refcode": "MKB 22.1"
+      },
+      {
+        "para_id": "891.46",
+        "lang": "it",
+        "refcode": "FC 11.1"
+      },
+      {
+        "para_id": "12178.70",
+        "lang": "pl",
+        "refcode": "ChD 13.2"
+      },
+      {
+        "para_id": "1955.151",
+        "lang": "pt",
+        "refcode": "LA 24.1"
+      },
+      {
+        "para_id": "2026.76",
+        "lang": "ro",
+        "refcode": "CA 24.1"
+      },
+      {
+        "para_id": "1803.55",
+        "lang": "ru",
+        "refcode": "ХД 24.1"
+      },
+      {
+        "para_id": "12131.71",
+        "lang": "uk",
+        "refcode": "ХР 19.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.88",
+    "id_prev": "128.87",
+    "id_next": "128.90",
+    "refcode_1": "AH",
+    "refcode_2": "24",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 24.2",
+    "refcode_long": "The Adventist Home, p. 24.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Even the Humblest Tasks Are the Work of God</strong>&mdash;All the work we do that is necessary to be done, be it washing dishes, setting tables, waiting upon the sick, cooking, or washing, is of moral importance.... The humble tasks before us are to be taken up by someone; and those who do them should feel that they are doing a necessary and honorable work, and that in their mission, humble though it may be, they are doing the work of God just as surely as was Gabriel when sent to the prophets. All are working in their order in their respective spheres. Woman in her home, doing the simple duties of life that must be done, can and should exhibit faithfulness, obedience, and love, as sincere as angels in their sphere. Conformity to the will of God makes any work honorable that must be done.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"3T 79.1\" data-link=\"119.352\">Testimonies for the Church 3:79, 80</span>.</span></a></sup>",
+    "puborder": 53,
+    "translations": [
+      {
+        "para_id": "13839.66",
+        "lang": "bg",
+        "refcode": "ХД 9.2"
+      },
+      {
+        "para_id": "177.129",
+        "lang": "es",
+        "refcode": "HC 20.1"
+      },
+      {
+        "para_id": "193.87",
+        "lang": "fr",
+        "refcode": "FC 23.4"
+      },
+      {
+        "para_id": "12869.93",
+        "lang": "id",
+        "refcode": "MKB 22.2"
+      },
+      {
+        "para_id": "891.47",
+        "lang": "it",
+        "refcode": "FC 11"
+      },
+      {
+        "para_id": "891.48",
+        "lang": "it",
+        "refcode": "FC 11.2"
+      },
+      {
+        "para_id": "12178.71",
+        "lang": "pl",
+        "refcode": "ChD 13.3"
+      },
+      {
+        "para_id": "1955.152",
+        "lang": "pt",
+        "refcode": "LA 24"
+      },
+      {
+        "para_id": "1955.153",
+        "lang": "pt",
+        "refcode": "LA 24.2"
+      },
+      {
+        "para_id": "2026.77",
+        "lang": "ro",
+        "refcode": "CA 24.2"
+      },
+      {
+        "para_id": "1803.56",
+        "lang": "ru",
+        "refcode": "ХД 24.2"
+      },
+      {
+        "para_id": "12131.72",
+        "lang": "uk",
+        "refcode": "ХР 19.2"
+      }
+    ]
+  }
+]

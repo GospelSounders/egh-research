@@ -1,0 +1,428 @@
+[
+  {
+    "para_id": "21.381",
+    "id_prev": "21.380",
+    "id_next": "21.382",
+    "refcode_1": "CSW",
+    "refcode_2": "84",
+    "refcode_3": "",
+    "refcode_4": "56",
+    "refcode_short": "CSW 84",
+    "refcode_long": "Counsels on Sabbath School Work, p. 84 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Regard for Christians in Other Churches",
+    "puborder": 238,
+    "translations": [
+      {
+        "para_id": "11629.355",
+        "lang": "da",
+        "refcode": "RSSA 84"
+      },
+      {
+        "para_id": "799.368",
+        "lang": "de",
+        "refcode": "RSs 71"
+      },
+      {
+        "para_id": "1711.414",
+        "lang": "es",
+        "refcode": "COES 93"
+      },
+      {
+        "para_id": "1917.447",
+        "lang": "pt",
+        "refcode": "CES38 43"
+      },
+      {
+        "para_id": "1724.413",
+        "lang": "pt",
+        "refcode": "CES 84"
+      },
+      {
+        "para_id": "2719.391",
+        "lang": "ro",
+        "refcode": "SSS 84"
+      },
+      {
+        "para_id": "1873.377",
+        "lang": "ru",
+        "refcode": "ССШ 84"
+      }
+    ]
+  },
+  {
+    "para_id": "21.382",
+    "id_prev": "21.381",
+    "id_next": "21.385",
+    "refcode_1": "CSW",
+    "refcode_2": "84",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 84.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 84.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Do not make the Sabbath school lessons dry and spiritless. Leave the impression upon the mind that the Bible, and the Bible alone, is our rule of faith, and that the sayings and doings of men are not to be a criterion for our doctrines or actions. One grand lesson must be taught to the children, and that is that they must be free from every particle of egotism and bigotry. Teach them that Christ died to save sinners, and that those who are not of our faith are to be labored for with great tenderness and forbearance, for their souls are precious in the sight of God. <span class=\"page-break\" data-page=\"85\"></span> No one must be regarded with contempt. There must be no Pharisaism, no self-righteousness.",
+    "puborder": 239,
+    "translations": [
+      {
+        "para_id": "11629.356",
+        "lang": "da",
+        "refcode": "RSSA 84.2"
+      },
+      {
+        "para_id": "799.369",
+        "lang": "de",
+        "refcode": "RSs 71.3"
+      },
+      {
+        "para_id": "1711.415",
+        "lang": "es",
+        "refcode": "COES 93.1"
+      },
+      {
+        "para_id": "1724.414",
+        "lang": "pt",
+        "refcode": "CES 84.2"
+      },
+      {
+        "para_id": "1917.448",
+        "lang": "pt",
+        "refcode": "CES38 43.1"
+      },
+      {
+        "para_id": "2719.392",
+        "lang": "ro",
+        "refcode": "SSS 84.2"
+      },
+      {
+        "para_id": "1873.378",
+        "lang": "ru",
+        "refcode": "ССШ 84.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.385",
+    "id_prev": "21.382",
+    "id_next": "21.386",
+    "refcode_1": "CSW",
+    "refcode_2": "85",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 85.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 85.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There are many true Christians not of our faith, with whom we come in contact, who live according to the best light that they have, and they are in greater favor with God than are those who have greater light but who have not improved it by showing corresponding works.",
+    "puborder": 240,
+    "translations": [
+      {
+        "para_id": "11629.359",
+        "lang": "da",
+        "refcode": "RSSA 85.1"
+      },
+      {
+        "para_id": "799.372",
+        "lang": "de",
+        "refcode": "RSs 72.1"
+      },
+      {
+        "para_id": "1711.416",
+        "lang": "es",
+        "refcode": "COES 93.2"
+      },
+      {
+        "para_id": "1917.451",
+        "lang": "pt",
+        "refcode": "CES38 43.3"
+      },
+      {
+        "para_id": "1724.417",
+        "lang": "pt",
+        "refcode": "CES 85.1"
+      },
+      {
+        "para_id": "2719.395",
+        "lang": "ro",
+        "refcode": "SSS 85.2"
+      },
+      {
+        "para_id": "1873.381",
+        "lang": "ru",
+        "refcode": "ССШ 85.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.386",
+    "id_prev": "21.385",
+    "id_next": "21.387",
+    "refcode_1": "CSW",
+    "refcode_2": "85",
+    "refcode_3": "",
+    "refcode_4": "28",
+    "refcode_short": "CSW 85",
+    "refcode_long": "Counsels on Sabbath School Work, p. 85 (Ellen Gould White)",
+    "element_type": "h5",
+    "element_subtype": "",
+    "content": "A Spirit of Tolerance",
+    "puborder": 241,
+    "translations": [
+      {
+        "para_id": "11629.360",
+        "lang": "da",
+        "refcode": "RSSA 85"
+      },
+      {
+        "para_id": "799.373",
+        "lang": "de",
+        "refcode": "RSs 72"
+      },
+      {
+        "para_id": "1711.418",
+        "lang": "es",
+        "refcode": "COES 94"
+      },
+      {
+        "para_id": "1724.418",
+        "lang": "pt",
+        "refcode": "CES 85"
+      },
+      {
+        "para_id": "1917.452",
+        "lang": "pt",
+        "refcode": "CES38 43"
+      },
+      {
+        "para_id": "2719.396",
+        "lang": "ro",
+        "refcode": "SSS 85"
+      },
+      {
+        "para_id": "1873.382",
+        "lang": "ru",
+        "refcode": "ССШ 85"
+      }
+    ]
+  },
+  {
+    "para_id": "21.387",
+    "id_prev": "21.386",
+    "id_next": "21.388",
+    "refcode_1": "CSW",
+    "refcode_2": "85",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 85.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 85.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "At one time the disciples found a man who was doing a work in Christ&apos;s name, and John, relating the matter to Jesus said, &ldquo;We forbade him, because he followeth not us;&rdquo; but Jesus rebuked his spirit, and told his followers that &ldquo;he that is not against us is on our part.&rdquo;",
+    "puborder": 242,
+    "translations": [
+      {
+        "para_id": "11629.361",
+        "lang": "da",
+        "refcode": "RSSA 85.2"
+      },
+      {
+        "para_id": "799.374",
+        "lang": "de",
+        "refcode": "RSs 72.2"
+      },
+      {
+        "para_id": "1711.419",
+        "lang": "es",
+        "refcode": "COES 94.1"
+      },
+      {
+        "para_id": "1917.453",
+        "lang": "pt",
+        "refcode": "CES38 43.4"
+      },
+      {
+        "para_id": "1724.419",
+        "lang": "pt",
+        "refcode": "CES 85.2"
+      },
+      {
+        "para_id": "2719.397",
+        "lang": "ro",
+        "refcode": "SSS 85.3"
+      },
+      {
+        "para_id": "1873.383",
+        "lang": "ru",
+        "refcode": "ССШ 85.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.388",
+    "id_prev": "21.387",
+    "id_next": "21.391",
+    "refcode_1": "CSW",
+    "refcode_2": "85",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 85.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 85.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Way, the Truth, and the Life will be clearly revealed in the words, the spirit, and the deportment of those who believe in and learn of Jesus. Parents and teachers should manifest the tenderest interest and sympathy for those who are not believers in the truth. They should never, either by word or action, wound a soul, the purchase of Christ&apos;s blood. If the older ones manifest a cold, harsh, unsympathetic spirit, the children will manifest the same, and their characters will not be molded after the divine model. We must patiently educate the children and youth to feel that they are required of God to be missionaries, that they are not to be selfish, narrow, and bigoted, but broad in their ideas and sympathies. If <span class=\"page-break\" data-page=\"86\"></span> all work in love and manifest Christian courtesy, they will be winners of souls, and will bring precious sheaves to the Master.",
+    "puborder": 243,
+    "translations": [
+      {
+        "para_id": "11629.362",
+        "lang": "da",
+        "refcode": "RSSA 85.3"
+      },
+      {
+        "para_id": "799.375",
+        "lang": "de",
+        "refcode": "RSs 72.3"
+      },
+      {
+        "para_id": "1711.419",
+        "lang": "es",
+        "refcode": "COES 94.1"
+      },
+      {
+        "para_id": "1917.454",
+        "lang": "pt",
+        "refcode": "CES38 43.5"
+      },
+      {
+        "para_id": "1724.420",
+        "lang": "pt",
+        "refcode": "CES 85.3"
+      },
+      {
+        "para_id": "2719.398",
+        "lang": "ro",
+        "refcode": "SSS 85.4"
+      },
+      {
+        "para_id": "2719.399",
+        "lang": "ro",
+        "refcode": "SSS 85.5"
+      },
+      {
+        "para_id": "1873.384",
+        "lang": "ru",
+        "refcode": "ССШ 85.3"
+      }
+    ]
+  },
+  {
+    "para_id": "21.391",
+    "id_prev": "21.388",
+    "id_next": "21.392",
+    "refcode_1": "CSW",
+    "refcode_2": "86",
+    "refcode_3": "",
+    "refcode_4": "29",
+    "refcode_short": "CSW 86",
+    "refcode_long": "Counsels on Sabbath School Work, p. 86 (Ellen Gould White)",
+    "element_type": "h5",
+    "element_subtype": "",
+    "content": "Aim for a Higher Standard",
+    "puborder": 244,
+    "translations": [
+      {
+        "para_id": "11629.365",
+        "lang": "da",
+        "refcode": "RSSA 86"
+      },
+      {
+        "para_id": "799.378",
+        "lang": "de",
+        "refcode": "RSs 73"
+      },
+      {
+        "para_id": "1711.420",
+        "lang": "es",
+        "refcode": "COES 94"
+      },
+      {
+        "para_id": "1917.458",
+        "lang": "pt",
+        "refcode": "CES38 44"
+      },
+      {
+        "para_id": "1724.423",
+        "lang": "pt",
+        "refcode": "CES 86"
+      },
+      {
+        "para_id": "2719.402",
+        "lang": "ro",
+        "refcode": "SSS 86"
+      },
+      {
+        "para_id": "1873.387",
+        "lang": "ru",
+        "refcode": "ССШ 86"
+      }
+    ]
+  },
+  {
+    "para_id": "21.392",
+    "id_prev": "21.391",
+    "id_next": "21.396",
+    "refcode_1": "CSW",
+    "refcode_2": "86",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 86.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 86.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "One thing is certain, there is too little of the spirit of love among Seventh-day Adventists, both in church and Sabbath school work. The workers and learners aim for too low a standard. All need to be enlarged, to have higher and holier aspirations, to inhale a purer atmosphere. Young men and women are to come forth from our Sabbath schools and colleges to become missionaries for God. They need the very best instruction and religious training. They need that virtue that comes from God, added to knowledge, which will qualify them for trying and responsible positions. The intellectual and spiritual growth should be as marked as the development of the physical powers. The young should feel the necessity of being strong and competent intellectually as well as spiritually. Many fail to acquire this power, not because they are lacking in ability, but because they fail to apply themselves with determined and diligent effort. They should make the very most of their opportunities, and become caretakers, in order to be able to bear the burdens and share the responsibilities of those who are worn and laden. The most important of all missionary work is to train workers to go into the field to preach the gospel to every creature.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 32.1\" data-link=\"121.119\"><em>Testimonies on Sabbath-School Work</em>, 32-34</span>.",
+    "puborder": 245,
+    "translations": [
+      {
+        "para_id": "11629.366",
+        "lang": "da",
+        "refcode": "RSSA 86.1"
+      },
+      {
+        "para_id": "799.379",
+        "lang": "de",
+        "refcode": "RSs 73.1"
+      },
+      {
+        "para_id": "1711.421",
+        "lang": "es",
+        "refcode": "COES 94.2"
+      },
+      {
+        "para_id": "1917.459",
+        "lang": "pt",
+        "refcode": "CES38 44.2"
+      },
+      {
+        "para_id": "1724.424",
+        "lang": "pt",
+        "refcode": "CES 86.1"
+      },
+      {
+        "para_id": "2719.403",
+        "lang": "ro",
+        "refcode": "SSS 86.1"
+      },
+      {
+        "para_id": "2719.404",
+        "lang": "ro",
+        "refcode": "SSS 86.2"
+      },
+      {
+        "para_id": "1873.388",
+        "lang": "ru",
+        "refcode": "ССШ 86.1"
+      }
+    ]
+  }
+]

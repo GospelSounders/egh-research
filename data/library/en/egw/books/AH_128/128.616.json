@@ -1,0 +1,1546 @@
+[
+  {
+    "para_id": "128.616",
+    "id_prev": "128.612",
+    "id_next": "128.617",
+    "refcode_1": "AH",
+    "refcode_2": "141",
+    "refcode_3": "",
+    "refcode_4": "21",
+    "refcode_short": "AH 141",
+    "refcode_long": "The Adventist Home, p. 141 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 21&mdash;Advantages of the Country",
+    "puborder": 400,
+    "translations": [
+      {
+        "para_id": "13839.494",
+        "lang": "bg",
+        "refcode": "ХД 57"
+      },
+      {
+        "para_id": "177.648",
+        "lang": "es",
+        "refcode": "HC 125"
+      },
+      {
+        "para_id": "193.608",
+        "lang": "fr",
+        "refcode": "FC 134"
+      },
+      {
+        "para_id": "12869.713",
+        "lang": "id",
+        "refcode": "MKB 132"
+      },
+      {
+        "para_id": "891.345",
+        "lang": "it",
+        "refcode": "FC 54"
+      },
+      {
+        "para_id": "12178.507",
+        "lang": "pl",
+        "refcode": "ChD 84"
+      },
+      {
+        "para_id": "1955.809",
+        "lang": "pt",
+        "refcode": "LA 141"
+      },
+      {
+        "para_id": "2026.607",
+        "lang": "ro",
+        "refcode": "CA 141"
+      },
+      {
+        "para_id": "1803.580",
+        "lang": "ru",
+        "refcode": "ХД 141"
+      },
+      {
+        "para_id": "12131.547",
+        "lang": "uk",
+        "refcode": "ХР 113"
+      }
+    ]
+  },
+  {
+    "para_id": "128.617",
+    "id_prev": "128.616",
+    "id_next": "128.618",
+    "refcode_1": "AH",
+    "refcode_2": "141",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 141.1",
+    "refcode_long": "The Adventist Home, p. 141.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>With a Piece of Land and a Comfortable Home</strong>&mdash;Whenever possible, it is the duty of parents to make homes in the country for their children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CL 12.1\" data-link=\"25.85\">Country Living, 12</span>.</span></a></sup>",
+    "puborder": 401,
+    "translations": [
+      {
+        "para_id": "13839.495",
+        "lang": "bg",
+        "refcode": "ХД 57.9"
+      },
+      {
+        "para_id": "177.649",
+        "lang": "es",
+        "refcode": "HC 125.1"
+      },
+      {
+        "para_id": "193.609",
+        "lang": "fr",
+        "refcode": "FC 134.1"
+      },
+      {
+        "para_id": "12869.715",
+        "lang": "id",
+        "refcode": "MKB 132.1"
+      },
+      {
+        "para_id": "891.347",
+        "lang": "it",
+        "refcode": "FC 54.1"
+      },
+      {
+        "para_id": "891.346",
+        "lang": "it",
+        "refcode": "FC 54"
+      },
+      {
+        "para_id": "1955.811",
+        "lang": "pt",
+        "refcode": "LA 141.1"
+      },
+      {
+        "para_id": "1955.810",
+        "lang": "pt",
+        "refcode": "LA 141"
+      },
+      {
+        "para_id": "2026.608",
+        "lang": "ro",
+        "refcode": "CA 141.1"
+      },
+      {
+        "para_id": "1803.581",
+        "lang": "ru",
+        "refcode": "ХД 141.1"
+      },
+      {
+        "para_id": "12131.548",
+        "lang": "uk",
+        "refcode": "ХР 113.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.618",
+    "id_prev": "128.617",
+    "id_next": "128.619",
+    "refcode_1": "AH",
+    "refcode_2": "141",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 141.2",
+    "refcode_long": "The Adventist Home, p. 141.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Fathers and mothers who possess a piece of land and a comfortable home are kings and queens.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"FE 327.1\" data-link=\"32.1319\">Fundamentals of Christian Education, 327</span>.</span></a></sup>",
+    "puborder": 402,
+    "translations": [
+      {
+        "para_id": "13839.496",
+        "lang": "bg",
+        "refcode": "ХД 57.10"
+      },
+      {
+        "para_id": "177.650",
+        "lang": "es",
+        "refcode": "HC 125.2"
+      },
+      {
+        "para_id": "193.610",
+        "lang": "fr",
+        "refcode": "FC 134.2"
+      },
+      {
+        "para_id": "12869.716",
+        "lang": "id",
+        "refcode": "MKB 132.2"
+      },
+      {
+        "para_id": "1955.812",
+        "lang": "pt",
+        "refcode": "LA 141.2"
+      },
+      {
+        "para_id": "2026.609",
+        "lang": "ro",
+        "refcode": "CA 141.2"
+      },
+      {
+        "para_id": "1803.582",
+        "lang": "ru",
+        "refcode": "ХД 141.2"
+      },
+      {
+        "para_id": "12131.549",
+        "lang": "uk",
+        "refcode": "ХР 113.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.619",
+    "id_prev": "128.618",
+    "id_next": "128.620",
+    "refcode_1": "AH",
+    "refcode_2": "141",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 141.3",
+    "refcode_long": "The Adventist Home, p. 141.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Do not consider it a privation when you are called to leave the cities and move out into the country places. Here there await rich blessings for those who will grasp them.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CL 14.1\" data-link=\"25.104\">Country Living, 14</span>.</span></a></sup>",
+    "puborder": 403,
+    "translations": [
+      {
+        "para_id": "13839.498",
+        "lang": "bg",
+        "refcode": "ХД 58.1"
+      },
+      {
+        "para_id": "177.651",
+        "lang": "es",
+        "refcode": "HC 125.3"
+      },
+      {
+        "para_id": "193.611",
+        "lang": "fr",
+        "refcode": "FC 134.3"
+      },
+      {
+        "para_id": "12869.717",
+        "lang": "id",
+        "refcode": "MKB 132.3"
+      },
+      {
+        "para_id": "891.348",
+        "lang": "it",
+        "refcode": "FC 54.2"
+      },
+      {
+        "para_id": "1955.813",
+        "lang": "pt",
+        "refcode": "LA 141.3"
+      },
+      {
+        "para_id": "2026.610",
+        "lang": "ro",
+        "refcode": "CA 141.3"
+      },
+      {
+        "para_id": "1803.583",
+        "lang": "ru",
+        "refcode": "ХД 141.3"
+      },
+      {
+        "para_id": "12131.550",
+        "lang": "uk",
+        "refcode": "ХР 113.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.620",
+    "id_prev": "128.619",
+    "id_next": "128.621",
+    "refcode_1": "AH",
+    "refcode_2": "141",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 141.4",
+    "refcode_long": "The Adventist Home, p. 141.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Contributes to Economic Security</strong>&mdash;Again and again the Lord has instructed that our people are to take their families away from the cities, into the country, where they can raise their own provisions; for in the future the problem of buying and selling will be a very serious one. We should now begin to heed the instruction given us over and over again: Get out of the cities into rural districts, where the houses are not crowded closely together, and where you will be free from the interference of enemies.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CL 9.5\" data-link=\"25.63\">Ibid., 9, 10</span>.</span></a></sup> (<span class=\"non-egw-note\">For further detailed counsel on this topic see <em>Country Living</em>.</span>)",
+    "puborder": 404,
+    "translations": [
+      {
+        "para_id": "13839.499",
+        "lang": "bg",
+        "refcode": "ХД 58.2"
+      },
+      {
+        "para_id": "177.652",
+        "lang": "es",
+        "refcode": "HC 125.4"
+      },
+      {
+        "para_id": "193.612",
+        "lang": "fr",
+        "refcode": "FC 134.4"
+      },
+      {
+        "para_id": "12869.719",
+        "lang": "id",
+        "refcode": "MKB 132.4"
+      },
+      {
+        "para_id": "1955.815",
+        "lang": "pt",
+        "refcode": "LA 141.4"
+      },
+      {
+        "para_id": "1955.814",
+        "lang": "pt",
+        "refcode": "LA 141"
+      },
+      {
+        "para_id": "2026.611",
+        "lang": "ro",
+        "refcode": "CA 141.4"
+      },
+      {
+        "para_id": "1803.584",
+        "lang": "ru",
+        "refcode": "ХД 141.4"
+      },
+      {
+        "para_id": "12131.551",
+        "lang": "uk",
+        "refcode": "ХР 113.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.621",
+    "id_prev": "128.620",
+    "id_next": "128.624",
+    "refcode_1": "AH",
+    "refcode_2": "141",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 141.5",
+    "refcode_long": "The Adventist Home, p. 141.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Advice to a City Dweller</strong>&mdash;It would be well for you to lay by your perplexing cares and find a retreat in the country, where there is not so strong an influence to corrupt the morals of the young. True, you would not be entirely free from annoyances and perplexing cares in the country; but you would there avoid many evils and close the door against a flood of temptations which threaten to overpower the minds of your children. They need <span class=\"page-break\" data-page=\"142\"></span> employment and variety. The sameness of their home makes them uneasy and restless, and they have fallen into the habit of mingling with the vicious lads of the town, thus obtaining a street education....",
+    "puborder": 405,
+    "translations": [
+      {
+        "para_id": "13839.500",
+        "lang": "bg",
+        "refcode": "ХД 58.3"
+      },
+      {
+        "para_id": "177.653",
+        "lang": "es",
+        "refcode": "HC 125.5"
+      },
+      {
+        "para_id": "193.613",
+        "lang": "fr",
+        "refcode": "FC 134.5"
+      },
+      {
+        "para_id": "12869.723",
+        "lang": "id",
+        "refcode": "MKB 133.1"
+      },
+      {
+        "para_id": "1955.816",
+        "lang": "pt",
+        "refcode": "LA 141"
+      },
+      {
+        "para_id": "1955.817",
+        "lang": "pt",
+        "refcode": "LA 141.5"
+      },
+      {
+        "para_id": "2026.612",
+        "lang": "ro",
+        "refcode": "CA 141.5"
+      },
+      {
+        "para_id": "1803.585",
+        "lang": "ru",
+        "refcode": "ХД 141.5"
+      },
+      {
+        "para_id": "12131.552",
+        "lang": "uk",
+        "refcode": "ХР 113.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.624",
+    "id_prev": "128.621",
+    "id_next": "128.625",
+    "refcode_1": "AH",
+    "refcode_2": "142",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 142.1",
+    "refcode_long": "The Adventist Home, p. 142.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To live in the country would be very beneficial to them; an active, out-of-door life would develop health of both mind and body. They should have a garden to cultivate, where they might find both amusement and useful employment. The training of plants and flowers tends to the improvement of taste and judgment, while an acquaintance with God&apos;s useful and beautiful creations has a refining and ennobling influence upon the mind, referring it to the Maker and Master of all.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"4T 136.1\" data-link=\"114.698\">Testimonies for the Church 4:136</span>.</span></a></sup>",
+    "puborder": 406,
+    "translations": [
+      {
+        "para_id": "13839.501",
+        "lang": "bg",
+        "refcode": "ХД 58.4"
+      },
+      {
+        "para_id": "177.656",
+        "lang": "es",
+        "refcode": "HC 126.1"
+      },
+      {
+        "para_id": "193.616",
+        "lang": "fr",
+        "refcode": "FC 135.1"
+      },
+      {
+        "para_id": "12869.724",
+        "lang": "id",
+        "refcode": "MKB 133.2"
+      },
+      {
+        "para_id": "1955.820",
+        "lang": "pt",
+        "refcode": "LA 142.1"
+      },
+      {
+        "para_id": "2026.615",
+        "lang": "ro",
+        "refcode": "CA 142.1"
+      },
+      {
+        "para_id": "1803.588",
+        "lang": "ru",
+        "refcode": "ХД 142.1"
+      },
+      {
+        "para_id": "12131.554",
+        "lang": "uk",
+        "refcode": "ХР 113.7"
+      },
+      {
+        "para_id": "12131.557",
+        "lang": "uk",
+        "refcode": "ХР 114.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.625",
+    "id_prev": "128.624",
+    "id_next": "128.626",
+    "refcode_1": "AH",
+    "refcode_2": "142",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 142.2",
+    "refcode_long": "The Adventist Home, p. 142.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Rich Blessings Assured Country Dwellers</strong>&mdash;The earth has blessings hidden in her depths for those who have courage and will and perseverance to gather her treasures.... Many farmers have failed to secure adequate returns from their land because they have undertaken the work as though it was a degrading employment; they do not see that there is a blessing in it for themselves and their families.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"FE 326.1\" data-link=\"32.1315\">Fundamentals of Christian Education, 326, 327</span>.</span></a></sup>",
+    "puborder": 407,
+    "translations": [
+      {
+        "para_id": "13839.502",
+        "lang": "bg",
+        "refcode": "ХД 58.5"
+      },
+      {
+        "para_id": "177.657",
+        "lang": "es",
+        "refcode": "HC 126.2"
+      },
+      {
+        "para_id": "193.617",
+        "lang": "fr",
+        "refcode": "FC 135.2"
+      },
+      {
+        "para_id": "12869.726",
+        "lang": "id",
+        "refcode": "MKB 133.3"
+      },
+      {
+        "para_id": "891.350",
+        "lang": "it",
+        "refcode": "FC 54.3"
+      },
+      {
+        "para_id": "891.349",
+        "lang": "it",
+        "refcode": "FC 54"
+      },
+      {
+        "para_id": "12178.508",
+        "lang": "pl",
+        "refcode": "ChD 84.4"
+      },
+      {
+        "para_id": "1955.822",
+        "lang": "pt",
+        "refcode": "LA 142.2"
+      },
+      {
+        "para_id": "1955.821",
+        "lang": "pt",
+        "refcode": "LA 142"
+      },
+      {
+        "para_id": "2026.616",
+        "lang": "ro",
+        "refcode": "CA 142.2"
+      },
+      {
+        "para_id": "1803.589",
+        "lang": "ru",
+        "refcode": "ХД 142.2"
+      },
+      {
+        "para_id": "12131.558",
+        "lang": "uk",
+        "refcode": "ХР 114.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.626",
+    "id_prev": "128.625",
+    "id_next": "128.629",
+    "refcode_1": "AH",
+    "refcode_2": "142",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 142.3",
+    "refcode_long": "The Adventist Home, p. 142.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Labor That Will Quicken the Mind, Refine the Character</strong>&mdash;In the cultivation of the soil the thoughtful worker will find that treasures little dreamed of are opening up before him. No one can succeed in agriculture or gardening without attention to the laws involved. The special needs of every variety of plant must be studied. Different varieties require different soil and cultivation, and compliance with the laws governing each is the condition of success. The attention required in transplanting, that not even a root fiber shall be crowded or misplaced, the care of the young plants, the pruning and watering, <span class=\"page-break\" data-page=\"143\"></span> the shielding from frost at night and sun by day, keeping out weeds, disease, and insect pests, the training and arranging, not only teach important lessons concerning the development of character, but the work itself is a means of development. In cultivating carefulness, patience, attention to detail, obedience to law, it imparts a most essential training. The constant contact with the mystery of life and the loveliness of nature, as well as the tenderness called forth in ministering to these beautiful objects of God&apos;s creation, tends to quicken the mind and refine and elevate the character.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ed 111.1\" data-link=\"29.537\">Education, 111, 112</span>.</span></a></sup>",
+    "puborder": 408,
+    "translations": [
+      {
+        "para_id": "13839.503",
+        "lang": "bg",
+        "refcode": "ХД 58.6"
+      },
+      {
+        "para_id": "177.658",
+        "lang": "es",
+        "refcode": "HC 126.3"
+      },
+      {
+        "para_id": "193.618",
+        "lang": "fr",
+        "refcode": "FC 135.3"
+      },
+      {
+        "para_id": "12869.728",
+        "lang": "id",
+        "refcode": "MKB 133.4"
+      },
+      {
+        "para_id": "891.352",
+        "lang": "it",
+        "refcode": "FC 54.4"
+      },
+      {
+        "para_id": "891.351",
+        "lang": "it",
+        "refcode": "FC 54"
+      },
+      {
+        "para_id": "12178.511",
+        "lang": "pl",
+        "refcode": "ChD 85.1"
+      },
+      {
+        "para_id": "1955.824",
+        "lang": "pt",
+        "refcode": "LA 142.3"
+      },
+      {
+        "para_id": "1955.823",
+        "lang": "pt",
+        "refcode": "LA 142"
+      },
+      {
+        "para_id": "2026.617",
+        "lang": "ro",
+        "refcode": "CA 142.3"
+      },
+      {
+        "para_id": "1803.590",
+        "lang": "ru",
+        "refcode": "ХД 142.3"
+      },
+      {
+        "para_id": "12131.559",
+        "lang": "uk",
+        "refcode": "ХР 114.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.629",
+    "id_prev": "128.626",
+    "id_next": "128.630",
+    "refcode_1": "AH",
+    "refcode_2": "143",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 143.1",
+    "refcode_long": "The Adventist Home, p. 143.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God Will Instruct and Teach</strong>&mdash;He who taught Adam and Eve in Eden how to tend the garden would instruct men today. There is wisdom for him who holds the plow and plants and sows the seed. The earth has its concealed treasures, and the Lord would have thousands and tens of thousands working upon the soil who are crowded into the cities to watch for a chance to earn a trifle.... Those who will take their families into the country place them where they have fewer temptations. The children who are with parents that love and fear God are in every way much better situated to learn of the Great Teacher, who is the source and fountain of wisdom. They have a much more favorable opportunity to gain a fitness for the kingdom of heaven.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"FE 326.1\" data-link=\"32.1315\">Fundamentals of Christian Education, 326</span>.</span></a></sup>",
+    "puborder": 409,
+    "translations": [
+      {
+        "para_id": "13839.506",
+        "lang": "bg",
+        "refcode": "ХД 59.1"
+      },
+      {
+        "para_id": "177.661",
+        "lang": "es",
+        "refcode": "HC 127.1"
+      },
+      {
+        "para_id": "193.621",
+        "lang": "fr",
+        "refcode": "FC 136.1"
+      },
+      {
+        "para_id": "12869.732",
+        "lang": "id",
+        "refcode": "MKB 134.1"
+      },
+      {
+        "para_id": "891.353",
+        "lang": "it",
+        "refcode": "FC 54"
+      },
+      {
+        "para_id": "891.354",
+        "lang": "it",
+        "refcode": "FC 54.5"
+      },
+      {
+        "para_id": "12178.512",
+        "lang": "pl",
+        "refcode": "ChD 85.2"
+      },
+      {
+        "para_id": "1955.827",
+        "lang": "pt",
+        "refcode": "LA 143"
+      },
+      {
+        "para_id": "1955.828",
+        "lang": "pt",
+        "refcode": "LA 143.1"
+      },
+      {
+        "para_id": "2026.620",
+        "lang": "ro",
+        "refcode": "CA 143.1"
+      },
+      {
+        "para_id": "1803.593",
+        "lang": "ru",
+        "refcode": "ХД 143.1"
+      },
+      {
+        "para_id": "12131.560",
+        "lang": "uk",
+        "refcode": "ХР 114.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.630",
+    "id_prev": "128.629",
+    "id_next": "128.633",
+    "refcode_1": "AH",
+    "refcode_2": "143",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 143.2",
+    "refcode_long": "The Adventist Home, p. 143.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God&apos;s Plan for Israel&apos;s Land</strong>&mdash;Through disobedience to God Adam and Eve had lost Eden, and because of sin the whole earth was cursed. But if God&apos;s people followed His instruction, their land would be restored to fertility and beauty. God Himself gave them directions in regard to the culture of the soil, and they were to co-operate with Him in its restoration. Thus the whole land, under <span class=\"page-break\" data-page=\"144\"></span> God&apos;s control, would become an object lesson of spiritual truth. As in obedience to His natural laws the earth should produce its treasures, so in obedience to His moral law the hearts of the people were to reflect the attributes of His character.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"COL 289.1\" data-link=\"15.1251\">Christ&apos;s Object Lessons, 289</span>.</span></a></sup>",
+    "puborder": 410,
+    "translations": [
+      {
+        "para_id": "13839.507",
+        "lang": "bg",
+        "refcode": "ХД 59.2"
+      },
+      {
+        "para_id": "177.662",
+        "lang": "es",
+        "refcode": "HC 127.2"
+      },
+      {
+        "para_id": "193.622",
+        "lang": "fr",
+        "refcode": "FC 136.2"
+      },
+      {
+        "para_id": "12869.734",
+        "lang": "id",
+        "refcode": "MKB 134.2"
+      },
+      {
+        "para_id": "891.357",
+        "lang": "it",
+        "refcode": "FC 55"
+      },
+      {
+        "para_id": "891.358",
+        "lang": "it",
+        "refcode": "FC 55.1"
+      },
+      {
+        "para_id": "12178.513",
+        "lang": "pl",
+        "refcode": "ChD 85.3"
+      },
+      {
+        "para_id": "1955.829",
+        "lang": "pt",
+        "refcode": "LA 143"
+      },
+      {
+        "para_id": "1955.830",
+        "lang": "pt",
+        "refcode": "LA 143.2"
+      },
+      {
+        "para_id": "2026.622",
+        "lang": "ro",
+        "refcode": "CA 143.2"
+      },
+      {
+        "para_id": "1803.594",
+        "lang": "ru",
+        "refcode": "ХД 143.2"
+      },
+      {
+        "para_id": "12131.563",
+        "lang": "uk",
+        "refcode": "ХР 115.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.633",
+    "id_prev": "128.630",
+    "id_next": "128.634",
+    "refcode_1": "AH",
+    "refcode_2": "144",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 144.1",
+    "refcode_long": "The Adventist Home, p. 144.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Find Spiritual Lessons in Daily Living</strong>&mdash;God has surrounded us with nature&apos;s beautiful scenery to attract and interest the mind. It is His design that we should associate the glories of nature with His character. If we faithfully study the book of nature, we shall find it a fruitful source for contemplating the infinite love and power of God.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MYP 365.1\" data-link=\"76.1874\">Messages to Young People, 365, 366</span>.</span></a></sup>",
+    "puborder": 411,
+    "translations": [
+      {
+        "para_id": "13839.508",
+        "lang": "bg",
+        "refcode": "ХД 59.3"
+      },
+      {
+        "para_id": "177.663",
+        "lang": "es",
+        "refcode": "HC 127.3"
+      },
+      {
+        "para_id": "193.623",
+        "lang": "fr",
+        "refcode": "FC 136.3"
+      },
+      {
+        "para_id": "12869.738",
+        "lang": "id",
+        "refcode": "MKB 135.1"
+      },
+      {
+        "para_id": "891.360",
+        "lang": "it",
+        "refcode": "FC 55.2"
+      },
+      {
+        "para_id": "891.359",
+        "lang": "it",
+        "refcode": "FC 55"
+      },
+      {
+        "para_id": "12178.516",
+        "lang": "pl",
+        "refcode": "ChD 86.1"
+      },
+      {
+        "para_id": "1955.834",
+        "lang": "pt",
+        "refcode": "LA 144.1"
+      },
+      {
+        "para_id": "1955.833",
+        "lang": "pt",
+        "refcode": "LA 144"
+      },
+      {
+        "para_id": "2026.625",
+        "lang": "ro",
+        "refcode": "CA 144.1"
+      },
+      {
+        "para_id": "1803.597",
+        "lang": "ru",
+        "refcode": "ХД 144.1"
+      },
+      {
+        "para_id": "12131.564",
+        "lang": "uk",
+        "refcode": "ХР 115.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.634",
+    "id_prev": "128.633",
+    "id_next": "128.635",
+    "refcode_1": "AH",
+    "refcode_2": "144",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 144.2",
+    "refcode_long": "The Adventist Home, p. 144.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Christ has linked His teaching, not only with the day of rest, but with the week of toil.... In the plowing and sowing, the tilling and reaping, He teaches us to see an illustration of His work of grace in the heart. So in every line of useful labor and every association of life, He desires us to find a lesson of divine truth. Then our daily toil will no longer absorb our attention and lead us to forget God; it will continually remind us of our Creator and Redeemer. The thought of God will run like a thread of gold through all our homely cares and occupations. For us the glory of His face will again rest upon the face of nature. We shall ever be learning new lessons of heavenly truth and growing into the image of His purity.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"COL 26.1\" data-link=\"15.69\">Christ&apos;s Object Lessons, 26, 27</span>.</span></a></sup>",
+    "puborder": 412,
+    "translations": [
+      {
+        "para_id": "13839.509",
+        "lang": "bg",
+        "refcode": "ХД 59.4"
+      },
+      {
+        "para_id": "177.666",
+        "lang": "es",
+        "refcode": "HC 128.1"
+      },
+      {
+        "para_id": "193.626",
+        "lang": "fr",
+        "refcode": "FC 137.1"
+      },
+      {
+        "para_id": "12869.739",
+        "lang": "id",
+        "refcode": "MKB 135.2"
+      },
+      {
+        "para_id": "891.361",
+        "lang": "it",
+        "refcode": "FC 55.3"
+      },
+      {
+        "para_id": "12178.517",
+        "lang": "pl",
+        "refcode": "ChD 86.2"
+      },
+      {
+        "para_id": "1955.835",
+        "lang": "pt",
+        "refcode": "LA 144.2"
+      },
+      {
+        "para_id": "2026.626",
+        "lang": "ro",
+        "refcode": "CA 144.2"
+      },
+      {
+        "para_id": "1803.598",
+        "lang": "ru",
+        "refcode": "ХД 144.2"
+      },
+      {
+        "para_id": "12131.565",
+        "lang": "uk",
+        "refcode": "ХР 115.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.635",
+    "id_prev": "128.634",
+    "id_next": "128.638",
+    "refcode_1": "AH",
+    "refcode_2": "144",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 144.3",
+    "refcode_long": "The Adventist Home, p. 144.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Identical Laws Govern Nature and Mankind</strong>&mdash;The Great Teacher brought His hearers in contact with nature, that they might listen to the voice which speaks in all created things; and as their hearts became tender and their minds receptive, He helped them to interpret the spiritual teaching of the scenes upon which their eyes <span class=\"page-break\" data-page=\"145\"></span> rested.... In His lessons there was something to interest every mind, to appeal to every heart. Thus the daily task, instead of being a mere round of toil, bereft of higher thoughts, was brightened and uplifted by constant reminders of the spiritual and the unseen.",
+    "puborder": 413,
+    "translations": [
+      {
+        "para_id": "13839.510",
+        "lang": "bg",
+        "refcode": "ХД 59.5"
+      },
+      {
+        "para_id": "177.667",
+        "lang": "es",
+        "refcode": "HC 128.2"
+      },
+      {
+        "para_id": "193.627",
+        "lang": "fr",
+        "refcode": "FC 137.2"
+      },
+      {
+        "para_id": "12869.741",
+        "lang": "id",
+        "refcode": "MKB 135.3"
+      },
+      {
+        "para_id": "891.362",
+        "lang": "it",
+        "refcode": "FC 55"
+      },
+      {
+        "para_id": "891.363",
+        "lang": "it",
+        "refcode": "FC 55.4"
+      },
+      {
+        "para_id": "12178.518",
+        "lang": "pl",
+        "refcode": "ChD 86.3"
+      },
+      {
+        "para_id": "1955.836",
+        "lang": "pt",
+        "refcode": "LA 144"
+      },
+      {
+        "para_id": "1955.837",
+        "lang": "pt",
+        "refcode": "LA 144.3"
+      },
+      {
+        "para_id": "2026.627",
+        "lang": "ro",
+        "refcode": "CA 144.3"
+      },
+      {
+        "para_id": "1803.599",
+        "lang": "ru",
+        "refcode": "ХД 144.3"
+      },
+      {
+        "para_id": "12131.566",
+        "lang": "uk",
+        "refcode": "ХР 115.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.638",
+    "id_prev": "128.635",
+    "id_next": "128.639",
+    "refcode_1": "AH",
+    "refcode_2": "145",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 145.1",
+    "refcode_long": "The Adventist Home, p. 145.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "So we should teach. Let the children learn to see in nature an expression of the love and the wisdom of God; let the thought of Him be linked with bird and flower and tree; let all things seen become to them the interpreters of the unseen, and all the events of life be a means of divine teaching.",
+    "puborder": 414,
+    "translations": [
+      {
+        "para_id": "13839.513",
+        "lang": "bg",
+        "refcode": "ХД 60.1"
+      },
+      {
+        "para_id": "177.668",
+        "lang": "es",
+        "refcode": "HC 128.3"
+      },
+      {
+        "para_id": "193.628",
+        "lang": "fr",
+        "refcode": "FC 137.3"
+      },
+      {
+        "para_id": "12869.744",
+        "lang": "id",
+        "refcode": "MKB 136.1"
+      },
+      {
+        "para_id": "891.366",
+        "lang": "it",
+        "refcode": "FC 56.1"
+      },
+      {
+        "para_id": "12178.519",
+        "lang": "pl",
+        "refcode": "ChD 86.4"
+      },
+      {
+        "para_id": "1955.840",
+        "lang": "pt",
+        "refcode": "LA 145.1"
+      },
+      {
+        "para_id": "2026.630",
+        "lang": "ro",
+        "refcode": "CA 145.1"
+      },
+      {
+        "para_id": "1803.602",
+        "lang": "ru",
+        "refcode": "ХД 145.1"
+      },
+      {
+        "para_id": "12131.569",
+        "lang": "uk",
+        "refcode": "ХР 116.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.639",
+    "id_prev": "128.638",
+    "id_next": "128.640",
+    "refcode_1": "AH",
+    "refcode_2": "145",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 145.2",
+    "refcode_long": "The Adventist Home, p. 145.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As they learn thus to study the lessons in all created things and in all life&apos;s experiences, show that the same laws which govern the things of nature and the events of life are to control us, that they are given for our good, and that only in obedience to them can we find true happiness and success.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ed 102.1\" data-link=\"29.485\">Education, 102, 103</span>.</span></a></sup>",
+    "puborder": 415,
+    "translations": [
+      {
+        "para_id": "13839.514",
+        "lang": "bg",
+        "refcode": "ХД 60.2"
+      },
+      {
+        "para_id": "177.671",
+        "lang": "es",
+        "refcode": "HC 129.1"
+      },
+      {
+        "para_id": "193.629",
+        "lang": "fr",
+        "refcode": "FC 137.4"
+      },
+      {
+        "para_id": "12869.745",
+        "lang": "id",
+        "refcode": "MKB 136.2"
+      },
+      {
+        "para_id": "891.367",
+        "lang": "it",
+        "refcode": "FC 56.2"
+      },
+      {
+        "para_id": "12178.519",
+        "lang": "pl",
+        "refcode": "ChD 86.4"
+      },
+      {
+        "para_id": "1955.841",
+        "lang": "pt",
+        "refcode": "LA 145.2"
+      },
+      {
+        "para_id": "2026.631",
+        "lang": "ro",
+        "refcode": "CA 145.2"
+      },
+      {
+        "para_id": "1803.603",
+        "lang": "ru",
+        "refcode": "ХД 145.2"
+      },
+      {
+        "para_id": "12131.569",
+        "lang": "uk",
+        "refcode": "ХР 116.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.640",
+    "id_prev": "128.639",
+    "id_next": "128.641",
+    "refcode_1": "AH",
+    "refcode_2": "145",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 145.3",
+    "refcode_long": "The Adventist Home, p. 145.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Give Practical Lessons in Agriculture</strong>&mdash;Of the almost innumerable lessons taught in the varied processes of growth, some of the most precious are conveyed in the Saviour&apos;s parable of the growing seed. It has lessons for old and young....",
+    "puborder": 416,
+    "translations": [
+      {
+        "para_id": "13839.515",
+        "lang": "bg",
+        "refcode": "ХД 60.3"
+      },
+      {
+        "para_id": "177.672",
+        "lang": "es",
+        "refcode": "HC 129.2"
+      },
+      {
+        "para_id": "193.632",
+        "lang": "fr",
+        "refcode": "FC 138.1"
+      },
+      {
+        "para_id": "12869.747",
+        "lang": "id",
+        "refcode": "MKB 136.3"
+      },
+      {
+        "para_id": "891.369",
+        "lang": "it",
+        "refcode": "FC 56.3"
+      },
+      {
+        "para_id": "891.368",
+        "lang": "it",
+        "refcode": "FC 56"
+      },
+      {
+        "para_id": "12178.522",
+        "lang": "pl",
+        "refcode": "ChD 87.1"
+      },
+      {
+        "para_id": "1955.842",
+        "lang": "pt",
+        "refcode": "LA 145"
+      },
+      {
+        "para_id": "1955.843",
+        "lang": "pt",
+        "refcode": "LA 145.3"
+      },
+      {
+        "para_id": "2026.632",
+        "lang": "ro",
+        "refcode": "CA 145.3"
+      },
+      {
+        "para_id": "1803.604",
+        "lang": "ru",
+        "refcode": "ХД 145.3"
+      },
+      {
+        "para_id": "12131.570",
+        "lang": "uk",
+        "refcode": "ХР 116.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.641",
+    "id_prev": "128.640",
+    "id_next": "128.644",
+    "refcode_1": "AH",
+    "refcode_2": "145",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 145.4",
+    "refcode_long": "The Adventist Home, p. 145.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The germination of the seed represents the beginning of spiritual life, and the development of the plant is a figure of the development of character.... As parents and teachers try to teach these lessons, the work should be made practical. Let the children themselves prepare the soil and sow the seed. As they work, the parent or teacher can explain the garden of the heart, with the good or bad seed sown there, and that as the garden must be prepared for the natural seed, so the heart must be prepared for the seed of truth.... No one settles upon a raw piece of land with the expectation that it will at <span class=\"page-break\" data-page=\"146\"></span> once yield a harvest. Diligent, persevering labor must be put forth in the preparation of the soil, the sowing of the seed, and the culture of the crop. So it must be in the spiritual sowing.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ed 104.1\" data-link=\"29.498\">Ibid., 104, 105, 111</span>.</span></a></sup>",
+    "puborder": 417,
+    "translations": [
+      {
+        "para_id": "13839.516",
+        "lang": "bg",
+        "refcode": "ХД 60.4"
+      },
+      {
+        "para_id": "177.673",
+        "lang": "es",
+        "refcode": "HC 129.3"
+      },
+      {
+        "para_id": "193.633",
+        "lang": "fr",
+        "refcode": "FC 138.2"
+      },
+      {
+        "para_id": "12869.748",
+        "lang": "id",
+        "refcode": "MKB 136.4"
+      },
+      {
+        "para_id": "891.370",
+        "lang": "it",
+        "refcode": "FC 56.4"
+      },
+      {
+        "para_id": "12178.523",
+        "lang": "pl",
+        "refcode": "ChD 87.2"
+      },
+      {
+        "para_id": "1955.844",
+        "lang": "pt",
+        "refcode": "LA 145.4"
+      },
+      {
+        "para_id": "2026.633",
+        "lang": "ro",
+        "refcode": "CA 145.4"
+      },
+      {
+        "para_id": "1803.605",
+        "lang": "ru",
+        "refcode": "ХД 145.4"
+      },
+      {
+        "para_id": "12131.571",
+        "lang": "uk",
+        "refcode": "ХР 116.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.644",
+    "id_prev": "128.641",
+    "id_next": "128.645",
+    "refcode_1": "AH",
+    "refcode_2": "146",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 146.1",
+    "refcode_long": "The Adventist Home, p. 146.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Wrong Habits Seen as Weeds</strong>&mdash;If possible, the home should be out of the city, where the children can have ground to cultivate. Let them each have a piece of ground of their own; and as you teach them how to make a garden, how to prepare the soil for seed, and the importance of keeping all the weeds pulled out, teach them also how important it is to keep unsightly, injurious practices out of the life. Teach them to keep down wrong habits as they keep down the weeds in their gardens. It will take time to teach these lessons, but it will pay, greatly pay.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">14<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CT 124.1\" data-link=\"23.575\">Counsels to Teachers, Parents, and Students, 124</span>.</span></a></sup>",
+    "puborder": 418,
+    "translations": [
+      {
+        "para_id": "13839.517",
+        "lang": "bg",
+        "refcode": "ХД 60.5"
+      },
+      {
+        "para_id": "177.674",
+        "lang": "es",
+        "refcode": "HC 129.4"
+      },
+      {
+        "para_id": "193.634",
+        "lang": "fr",
+        "refcode": "FC 138.3"
+      },
+      {
+        "para_id": "12869.750",
+        "lang": "id",
+        "refcode": "MKB 136.5"
+      },
+      {
+        "para_id": "891.372",
+        "lang": "it",
+        "refcode": "FC 56.5"
+      },
+      {
+        "para_id": "891.371",
+        "lang": "it",
+        "refcode": "FC 56"
+      },
+      {
+        "para_id": "12178.524",
+        "lang": "pl",
+        "refcode": "ChD 87.3"
+      },
+      {
+        "para_id": "1955.848",
+        "lang": "pt",
+        "refcode": "LA 146.1"
+      },
+      {
+        "para_id": "1955.847",
+        "lang": "pt",
+        "refcode": "LA 146"
+      },
+      {
+        "para_id": "2026.636",
+        "lang": "ro",
+        "refcode": "CA 146.1"
+      },
+      {
+        "para_id": "1803.608",
+        "lang": "ru",
+        "refcode": "ХД 146.1"
+      },
+      {
+        "para_id": "12131.572",
+        "lang": "uk",
+        "refcode": "ХР 116.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.645",
+    "id_prev": "128.644",
+    "id_next": "128.646",
+    "refcode_1": "AH",
+    "refcode_2": "146",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 146.2",
+    "refcode_long": "The Adventist Home, p. 146.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Home Surroundings to Exemplify Our Beliefs</strong>&mdash;Parents are under obligation to God to make their surroundings such as will correspond to the truth they profess. They can then give correct lessons to their children, and the children will learn to associate the home below with the home above. The family here must, as far as possible, be a model of the one in heaven. Then temptations to indulge in what is low and groveling will lose much of their force. Children should be taught that they are only probationers here, and educated to become inhabitants of the mansions which Christ is preparing for those who love Him and keep His commandments. This is the highest duty which parents have to perform.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">15<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"CTBH 144.1\" data-link=\"14.680\">Christian Temperance and Bible Hygiene, 144</span>.</span></a></sup>",
+    "puborder": 419,
+    "translations": [
+      {
+        "para_id": "13839.518",
+        "lang": "bg",
+        "refcode": "ХД 60.6"
+      },
+      {
+        "para_id": "177.677",
+        "lang": "es",
+        "refcode": "HC 130.1"
+      },
+      {
+        "para_id": "193.636",
+        "lang": "fr",
+        "refcode": "FC 139.1"
+      },
+      {
+        "para_id": "12869.754",
+        "lang": "id",
+        "refcode": "MKB 137.1"
+      },
+      {
+        "para_id": "891.376",
+        "lang": "it",
+        "refcode": "FC 57.1"
+      },
+      {
+        "para_id": "891.375",
+        "lang": "it",
+        "refcode": "FC 57"
+      },
+      {
+        "para_id": "12178.525",
+        "lang": "pl",
+        "refcode": "ChD 87.4"
+      },
+      {
+        "para_id": "1955.849",
+        "lang": "pt",
+        "refcode": "LA 146"
+      },
+      {
+        "para_id": "1955.850",
+        "lang": "pt",
+        "refcode": "LA 146.2"
+      },
+      {
+        "para_id": "2026.637",
+        "lang": "ro",
+        "refcode": "CA 146.2"
+      },
+      {
+        "para_id": "1803.609",
+        "lang": "ru",
+        "refcode": "ХД 146.2"
+      },
+      {
+        "para_id": "12131.574",
+        "lang": "uk",
+        "refcode": "ХР 117.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.646",
+    "id_prev": "128.645",
+    "id_next": "128.649",
+    "refcode_1": "AH",
+    "refcode_2": "146",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 146.3",
+    "refcode_long": "The Adventist Home, p. 146.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Parents: Get Homes in the Country</strong>&mdash;So long as God gives me power to speak to our people, I shall continue to call upon parents to leave the cities and get homes in the country, where they can cultivate the soil and learn from the book of nature the lessons of purity <span class=\"page-break\" data-page=\"147\"></span> and simplicity. The things of nature are the Lord&apos;s silent ministers, given to us to teach us spiritual truths. They speak to us of the love of God and declare the wisdom of the great Master Artist.",
+    "puborder": 420,
+    "translations": [
+      {
+        "para_id": "13839.521",
+        "lang": "bg",
+        "refcode": "ХД 61.1"
+      },
+      {
+        "para_id": "177.678",
+        "lang": "es",
+        "refcode": "HC 130.2"
+      },
+      {
+        "para_id": "193.637",
+        "lang": "fr",
+        "refcode": "FC 139.2"
+      },
+      {
+        "para_id": "12869.756",
+        "lang": "id",
+        "refcode": "MKB 137.2"
+      },
+      {
+        "para_id": "891.377",
+        "lang": "it",
+        "refcode": "FC 57"
+      },
+      {
+        "para_id": "891.378",
+        "lang": "it",
+        "refcode": "FC 57.2"
+      },
+      {
+        "para_id": "12178.528",
+        "lang": "pl",
+        "refcode": "ChD 88.1"
+      },
+      {
+        "para_id": "1955.851",
+        "lang": "pt",
+        "refcode": "LA 146"
+      },
+      {
+        "para_id": "1955.852",
+        "lang": "pt",
+        "refcode": "LA 146.3"
+      },
+      {
+        "para_id": "2026.638",
+        "lang": "ro",
+        "refcode": "CA 146.3"
+      },
+      {
+        "para_id": "1803.610",
+        "lang": "ru",
+        "refcode": "ХД 146.3"
+      },
+      {
+        "para_id": "12131.575",
+        "lang": "uk",
+        "refcode": "ХР 117.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.649",
+    "id_prev": "128.646",
+    "id_next": "128.651",
+    "refcode_1": "AH",
+    "refcode_2": "147",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 147.1",
+    "refcode_long": "The Adventist Home, p. 147.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "I love the beautiful flowers. They are memories of Eden, pointing to the blessed country into which, if faithful, we shall soon enter. The Lord is leading my mind to the health-giving properties of the flowers and trees.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">16<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 47, 1903\" data-link=\"14068.9807001\">Letter 47, 1903</span>.</span></a></sup>",
+    "puborder": 421,
+    "translations": [
+      {
+        "para_id": "13839.522",
+        "lang": "bg",
+        "refcode": "ХД 61.2"
+      },
+      {
+        "para_id": "177.679",
+        "lang": "es",
+        "refcode": "HC 130.3"
+      },
+      {
+        "para_id": "193.638",
+        "lang": "fr",
+        "refcode": "FC 139.3"
+      },
+      {
+        "para_id": "12869.757",
+        "lang": "id",
+        "refcode": "MKB 137.3"
+      },
+      {
+        "para_id": "891.379",
+        "lang": "it",
+        "refcode": "FC 57.3"
+      },
+      {
+        "para_id": "12178.529",
+        "lang": "pl",
+        "refcode": "ChD 88.2"
+      },
+      {
+        "para_id": "1955.855",
+        "lang": "pt",
+        "refcode": "LA 147.1"
+      },
+      {
+        "para_id": "2026.641",
+        "lang": "ro",
+        "refcode": "CA 147.1"
+      },
+      {
+        "para_id": "12131.576",
+        "lang": "uk",
+        "refcode": "ХР 117.3"
+      }
+    ]
+  }
+]

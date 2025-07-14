@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.757",
+    "id_prev": "21.756",
+    "id_next": "21.758",
+    "refcode_1": "CSW",
+    "refcode_2": "163",
+    "refcode_3": "",
+    "refcode_4": "126",
+    "refcode_short": "CSW 163",
+    "refcode_long": "Counsels on Sabbath School Work, p. 163 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Crippled for True Leadership",
+    "puborder": 477,
+    "translations": [
+      {
+        "para_id": "11629.735",
+        "lang": "da",
+        "refcode": "RSSA 163"
+      },
+      {
+        "para_id": "799.712",
+        "lang": "de",
+        "refcode": "RSs 133"
+      },
+      {
+        "para_id": "1711.816",
+        "lang": "es",
+        "refcode": "COES 183"
+      },
+      {
+        "para_id": "1917.893",
+        "lang": "pt",
+        "refcode": "CES38 85"
+      },
+      {
+        "para_id": "1724.800",
+        "lang": "pt",
+        "refcode": "CES 163"
+      },
+      {
+        "para_id": "2719.776",
+        "lang": "ro",
+        "refcode": "SSS 163"
+      },
+      {
+        "para_id": "1873.751",
+        "lang": "ru",
+        "refcode": "ССШ 163"
+      }
+    ]
+  },
+  {
+    "para_id": "21.758",
+    "id_prev": "21.757",
+    "id_next": "21.761",
+    "refcode_1": "CSW",
+    "refcode_2": "163",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 163.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 163.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Our Sabbath schools which are to instruct the children and youth are too superficial. The managers of these need to plow deeper. They need to put more thought and more hard work upon the <span class=\"page-break\" data-page=\"164\"></span> work they are doing. They need to be more thorough students of the Bible, and to have a deeper religious experience, in order to know how to conduct Sabbath schools after the Lord&apos;s order, and how to lead children and youth to their Saviour. This is one of the branches of the work that is crippling along for the want of efficient, discerning men and women, who feel their accountability to God to use their powers, not to exhibit self, not for vainglory, but to do good.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 111.1\" data-link=\"121.450\"><em>Testimonies on Sabbath-School Work</em>, 111</span>.",
+    "puborder": 478,
+    "translations": [
+      {
+        "para_id": "11629.736",
+        "lang": "da",
+        "refcode": "RSSA 163.2"
+      },
+      {
+        "para_id": "799.713",
+        "lang": "de",
+        "refcode": "RSs 133.1"
+      },
+      {
+        "para_id": "1711.817",
+        "lang": "es",
+        "refcode": "COES 183.1"
+      },
+      {
+        "para_id": "1724.801",
+        "lang": "pt",
+        "refcode": "CES 163.3"
+      },
+      {
+        "para_id": "1917.894",
+        "lang": "pt",
+        "refcode": "CES38 85.5"
+      },
+      {
+        "para_id": "2719.777",
+        "lang": "ro",
+        "refcode": "SSS 163.2"
+      },
+      {
+        "para_id": "1873.752",
+        "lang": "ru",
+        "refcode": "ССШ 163.2"
+      }
+    ]
+  }
+]

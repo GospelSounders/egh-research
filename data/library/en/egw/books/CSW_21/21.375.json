@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.375",
+    "id_prev": "21.372",
+    "id_next": "21.376",
+    "refcode_1": "CSW",
+    "refcode_2": "83",
+    "refcode_3": "",
+    "refcode_4": "54",
+    "refcode_short": "CSW 83",
+    "refcode_long": "Counsels on Sabbath School Work, p. 83 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Sabbath School a Factor in Missionary Training",
+    "puborder": 233,
+    "translations": [
+      {
+        "para_id": "11629.348",
+        "lang": "da",
+        "refcode": "RSSA 83"
+      },
+      {
+        "para_id": "799.361",
+        "lang": "de",
+        "refcode": "RSs 70"
+      },
+      {
+        "para_id": "1711.405",
+        "lang": "es",
+        "refcode": "COES 91"
+      },
+      {
+        "para_id": "1917.439",
+        "lang": "pt",
+        "refcode": "CES38 42"
+      },
+      {
+        "para_id": "1724.407",
+        "lang": "pt",
+        "refcode": "CES 83"
+      },
+      {
+        "para_id": "2719.385",
+        "lang": "ro",
+        "refcode": "SSS 83"
+      },
+      {
+        "para_id": "1873.371",
+        "lang": "ru",
+        "refcode": "ССШ 83"
+      }
+    ]
+  },
+  {
+    "para_id": "21.376",
+    "id_prev": "21.375",
+    "id_next": "21.377",
+    "refcode_1": "CSW",
+    "refcode_2": "83",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 83.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 83.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It has been proved in the missionary field, that, whatever may be the preaching talent, if the laboring part is neglected, if the people are not taught how to work, how to conduct meetings, how to act their part in missionary labor, how to reach people successfully, the work will be nearly a failure. There is much to be done in the Sabbath school work also, in bringing the people to realize their obligation and to act their part. God calls them to work for Him, and the ministers should guide their efforts.&mdash;<span class=\"egwlink egwlink_book\" title=\"5T 256.1\" data-link=\"113.1312\"><em>Testimonies for the Church</em> 5:256</span>.",
+    "puborder": 234,
+    "translations": [
+      {
+        "para_id": "11629.349",
+        "lang": "da",
+        "refcode": "RSSA 83.1"
+      },
+      {
+        "para_id": "799.362",
+        "lang": "de",
+        "refcode": "RSs 70.2"
+      },
+      {
+        "para_id": "1711.406",
+        "lang": "es",
+        "refcode": "COES 91.2"
+      },
+      {
+        "para_id": "1917.440",
+        "lang": "pt",
+        "refcode": "CES38 42.3"
+      },
+      {
+        "para_id": "1724.408",
+        "lang": "pt",
+        "refcode": "CES 83.2"
+      },
+      {
+        "para_id": "2719.386",
+        "lang": "ro",
+        "refcode": "SSS 83.1"
+      },
+      {
+        "para_id": "1873.372",
+        "lang": "ru",
+        "refcode": "ССШ 83.1"
+      }
+    ]
+  }
+]

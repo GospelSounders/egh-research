@@ -1,0 +1,4014 @@
+[
+  {
+    "para_id": "127.1365",
+    "id_prev": "127.1361",
+    "id_next": "127.2677",
+    "refcode_1": "AA",
+    "refcode_2": "309",
+    "refcode_3": "",
+    "refcode_4": "30",
+    "refcode_short": "AA 309",
+    "refcode_long": "The Acts of the Apostles, p. 309 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 30&mdash;Called to Reach a Higher Standard",
+    "puborder": 859,
+    "translations": [
+      {
+        "para_id": "13804.1027",
+        "lang": "bg",
+        "refcode": "Дa 119"
+      },
+      {
+        "para_id": "11590.1305",
+        "lang": "ce",
+        "refcode": "ABA 264"
+      },
+      {
+        "para_id": "11247.1246",
+        "lang": "cs",
+        "refcode": "PNL 178"
+      },
+      {
+        "para_id": "813.1362",
+        "lang": "de",
+        "refcode": "WA 309"
+      },
+      {
+        "para_id": "198.1282",
+        "lang": "es",
+        "refcode": "HAp 249"
+      },
+      {
+        "para_id": "158.1294",
+        "lang": "fr",
+        "refcode": "CP 275"
+      },
+      {
+        "para_id": "11938.1185",
+        "lang": "hu",
+        "refcode": "AT 204"
+      },
+      {
+        "para_id": "12410.1273",
+        "lang": "id",
+        "refcode": "KR 260"
+      },
+      {
+        "para_id": "882.1187",
+        "lang": "it",
+        "refcode": "UVI 194"
+      },
+      {
+        "para_id": "11660.1490",
+        "lang": "ja",
+        "refcode": "AAJ 333"
+      },
+      {
+        "para_id": "12335.1138",
+        "lang": "nb",
+        "refcode": "AV 180"
+      },
+      {
+        "para_id": "12008.1062",
+        "lang": "pl",
+        "refcode": "DA 169"
+      },
+      {
+        "para_id": "1806.1126",
+        "lang": "pt",
+        "refcode": "AA 162"
+      },
+      {
+        "para_id": "2013.1353",
+        "lang": "ro",
+        "refcode": "FA 309"
+      },
+      {
+        "para_id": "1785.1329",
+        "lang": "ru",
+        "refcode": "ДА 309"
+      },
+      {
+        "para_id": "13874.1136",
+        "lang": "rw",
+        "refcode": "INI 190"
+      },
+      {
+        "para_id": "11182.1122",
+        "lang": "sk",
+        "refcode": "SA 186"
+      },
+      {
+        "para_id": "11904.1231",
+        "lang": "tl",
+        "refcode": "AGA 235"
+      },
+      {
+        "para_id": "11875.1193",
+        "lang": "uk",
+        "refcode": "ДА 212"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2677",
+    "id_prev": "127.1365",
+    "id_next": "127.1366",
+    "refcode_1": "AA",
+    "refcode_2": "309",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "bibletext",
+    "content": "<span class=\"non-egw-comment\">This chapter is based on the <span class=\"egwlink egwlink_bible\" title=\"1 Corinthians 1:1\" data-link=\"1965.57840\">First Epistle to the Corinthians</span>.</span>",
+    "puborder": 860,
+    "translations": [
+      {
+        "para_id": "813.1363",
+        "lang": "de",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "198.1282",
+        "lang": "es",
+        "refcode": "HAp 249"
+      },
+      {
+        "para_id": "158.1295",
+        "lang": "fr",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11938.1186",
+        "lang": "hu",
+        "refcode": "AT 204"
+      },
+      {
+        "para_id": "11660.1491",
+        "lang": "ja",
+        "refcode": "AAJ 333.1"
+      },
+      {
+        "para_id": "1806.2165",
+        "lang": "pt",
+        "refcode": "AA 310.1"
+      },
+      {
+        "para_id": "2013.2663",
+        "lang": "ro",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "1785.2617",
+        "lang": "ru",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "13874.1137",
+        "lang": "rw",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11875.1194",
+        "lang": "uk",
+        "refcode": "The Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1366",
+    "id_prev": "127.2677",
+    "id_next": "127.1367",
+    "refcode_1": "AA",
+    "refcode_2": "309",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 309.1",
+    "refcode_long": "The Acts of the Apostles, p. 309.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the hope of impressing vividly upon the minds of the Corinthian believers the importance of firm self-control, strict temperance, and unflagging zeal in the service of Christ, Paul in his letter to them made a striking comparison between the Christian warfare and the celebrated foot races held at stated intervals near Corinth. Of all the games instituted among the Greeks and the Romans, the foot races were the most ancient and the most highly esteemed. They were witnessed by kings, nobles, and statesmen. Young men of rank and wealth took part in them and shrank from no effort or discipline necessary to obtain the prize.",
+    "puborder": 861,
+    "translations": [
+      {
+        "para_id": "13804.1028",
+        "lang": "bg",
+        "refcode": "Дa 119.4"
+      },
+      {
+        "para_id": "11590.1306",
+        "lang": "ce",
+        "refcode": "ABA 264.1"
+      },
+      {
+        "para_id": "11247.1247",
+        "lang": "cs",
+        "refcode": "PNL 178.1"
+      },
+      {
+        "para_id": "813.1364",
+        "lang": "de",
+        "refcode": "WA 309.1"
+      },
+      {
+        "para_id": "198.1283",
+        "lang": "es",
+        "refcode": "HAp 249.1"
+      },
+      {
+        "para_id": "158.1297",
+        "lang": "fr",
+        "refcode": "CP 275.2"
+      },
+      {
+        "para_id": "158.1296",
+        "lang": "fr",
+        "refcode": "CP 275.1"
+      },
+      {
+        "para_id": "11938.1187",
+        "lang": "hu",
+        "refcode": "AT 204.1"
+      },
+      {
+        "para_id": "12410.1274",
+        "lang": "id",
+        "refcode": "KR 260.1"
+      },
+      {
+        "para_id": "882.1188",
+        "lang": "it",
+        "refcode": "UVI 194.1"
+      },
+      {
+        "para_id": "11660.1492",
+        "lang": "ja",
+        "refcode": "AAJ 333.2"
+      },
+      {
+        "para_id": "12335.1139",
+        "lang": "nb",
+        "refcode": "AV 180.1"
+      },
+      {
+        "para_id": "12008.1063",
+        "lang": "pl",
+        "refcode": "DA 169.1"
+      },
+      {
+        "para_id": "1806.1126",
+        "lang": "pt",
+        "refcode": "AA 162"
+      },
+      {
+        "para_id": "2013.1354",
+        "lang": "ro",
+        "refcode": "FA 309.1"
+      },
+      {
+        "para_id": "1785.1330",
+        "lang": "ru",
+        "refcode": "ДА 309.1"
+      },
+      {
+        "para_id": "13874.1138",
+        "lang": "rw",
+        "refcode": "INI 190.1"
+      },
+      {
+        "para_id": "11182.1123",
+        "lang": "sk",
+        "refcode": "SA 186.1"
+      },
+      {
+        "para_id": "11904.1232",
+        "lang": "tl",
+        "refcode": "AGA 235.1"
+      },
+      {
+        "para_id": "11875.1195",
+        "lang": "uk",
+        "refcode": "ДА 212.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1367",
+    "id_prev": "127.1366",
+    "id_next": "127.1370",
+    "refcode_1": "AA",
+    "refcode_2": "309",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 309.2",
+    "refcode_long": "The Acts of the Apostles, p. 309.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The contests were governed by strict regulations, from which there was no appeal. Those who desired their names entered as competitors for the prize had first to undergo a severe preparatory training. Harmful indulgence of appetite, or any other gratification that would lower mental or physical vigor, was strictly forbidden. For one to have any hope <span class=\"page-break\" data-page=\"310\"></span> of success in these trials of strength and speed, the muscles must be strong and supple, and the nerves well under control. Every movement must be certain, every step swift and unswerving; the physical powers must reach the highest mark.",
+    "puborder": 862,
+    "translations": [
+      {
+        "para_id": "13804.1029",
+        "lang": "bg",
+        "refcode": "Дa 119.5"
+      },
+      {
+        "para_id": "11590.1307",
+        "lang": "ce",
+        "refcode": "ABA 264.2"
+      },
+      {
+        "para_id": "11247.1248",
+        "lang": "cs",
+        "refcode": "PNL 178.2"
+      },
+      {
+        "para_id": "813.1365",
+        "lang": "de",
+        "refcode": "WA 309.2"
+      },
+      {
+        "para_id": "198.1284",
+        "lang": "es",
+        "refcode": "HAp 249.2"
+      },
+      {
+        "para_id": "158.1298",
+        "lang": "fr",
+        "refcode": "CP 275.3"
+      },
+      {
+        "para_id": "11938.1188",
+        "lang": "hu",
+        "refcode": "AT 204.2"
+      },
+      {
+        "para_id": "12410.1275",
+        "lang": "id",
+        "refcode": "KR 260.2"
+      },
+      {
+        "para_id": "882.1189",
+        "lang": "it",
+        "refcode": "UVI 194.2"
+      },
+      {
+        "para_id": "11660.1493",
+        "lang": "ja",
+        "refcode": "AAJ 333.3"
+      },
+      {
+        "para_id": "12335.1140",
+        "lang": "nb",
+        "refcode": "AV 180.2"
+      },
+      {
+        "para_id": "12008.1064",
+        "lang": "pl",
+        "refcode": "DA 169.2"
+      },
+      {
+        "para_id": "1806.1127",
+        "lang": "pt",
+        "refcode": "AA 162.1"
+      },
+      {
+        "para_id": "2013.1355",
+        "lang": "ro",
+        "refcode": "FA 309.2"
+      },
+      {
+        "para_id": "1785.1331",
+        "lang": "ru",
+        "refcode": "ДА 309.2"
+      },
+      {
+        "para_id": "13874.1139",
+        "lang": "rw",
+        "refcode": "INI 190.2"
+      },
+      {
+        "para_id": "11182.1124",
+        "lang": "sk",
+        "refcode": "SA 186.2"
+      },
+      {
+        "para_id": "11904.1233",
+        "lang": "tl",
+        "refcode": "AGA 235.2"
+      },
+      {
+        "para_id": "11875.1196",
+        "lang": "uk",
+        "refcode": "ДА 212.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1370",
+    "id_prev": "127.1367",
+    "id_next": "127.1371",
+    "refcode_1": "AA",
+    "refcode_2": "310",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 310.1",
+    "refcode_long": "The Acts of the Apostles, p. 310.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As the contestants in the race made their appearance before the waiting multitude, their names were heralded, and the rules of the race were distinctly stated. Then they all started together, the fixed attention of the spectators inspiring them with a determination to win. The judges were seated near the goal, that they might watch the race from its beginning to its close and give the prize to the true victor. If a man reached the goal first by taking an unlawful advantage, he was not awarded the prize.",
+    "puborder": 863,
+    "translations": [
+      {
+        "para_id": "13804.1032",
+        "lang": "bg",
+        "refcode": "Дa 120.1"
+      },
+      {
+        "para_id": "11590.1308",
+        "lang": "ce",
+        "refcode": "ABA 264.3"
+      },
+      {
+        "para_id": "11247.1249",
+        "lang": "cs",
+        "refcode": "PNL 178.3"
+      },
+      {
+        "para_id": "813.1365",
+        "lang": "de",
+        "refcode": "WA 309.2"
+      },
+      {
+        "para_id": "198.1285",
+        "lang": "es",
+        "refcode": "HAp 249.3"
+      },
+      {
+        "para_id": "158.1301",
+        "lang": "fr",
+        "refcode": "CP 276.1"
+      },
+      {
+        "para_id": "11938.1189",
+        "lang": "hu",
+        "refcode": "AT 204.3"
+      },
+      {
+        "para_id": "12410.1278",
+        "lang": "id",
+        "refcode": "KR 261.1"
+      },
+      {
+        "para_id": "882.1190",
+        "lang": "it",
+        "refcode": "UVI 194.3"
+      },
+      {
+        "para_id": "11660.1496",
+        "lang": "ja",
+        "refcode": "AAJ 334.1"
+      },
+      {
+        "para_id": "12335.1141",
+        "lang": "nb",
+        "refcode": "AV 180.3"
+      },
+      {
+        "para_id": "12008.1065",
+        "lang": "pl",
+        "refcode": "DA 169.3"
+      },
+      {
+        "para_id": "1806.1128",
+        "lang": "pt",
+        "refcode": "AA 162.2"
+      },
+      {
+        "para_id": "2013.1358",
+        "lang": "ro",
+        "refcode": "FA 310.1"
+      },
+      {
+        "para_id": "1785.1334",
+        "lang": "ru",
+        "refcode": "ДА 310.1"
+      },
+      {
+        "para_id": "13874.1140",
+        "lang": "rw",
+        "refcode": "INI 190.3"
+      },
+      {
+        "para_id": "11182.1125",
+        "lang": "sk",
+        "refcode": "SA 186.3"
+      },
+      {
+        "para_id": "11904.1234",
+        "lang": "tl",
+        "refcode": "AGA 235.3"
+      },
+      {
+        "para_id": "11875.1198",
+        "lang": "uk",
+        "refcode": "ДА 213.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1371",
+    "id_prev": "127.1370",
+    "id_next": "127.1372",
+    "refcode_1": "AA",
+    "refcode_2": "310",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 310.2",
+    "refcode_long": "The Acts of the Apostles, p. 310.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In these contests great risks were run. Some never recovered from the terrible physical strain. It was not unusual for men to fall on the course, bleeding at the mouth and nose, and sometimes a contestant would drop dead when about to seize the prize. But the possibility of lifelong injury or of death was not looked upon as too great a risk to run for the sake of the honor awarded the successful contestant.",
+    "puborder": 864,
+    "translations": [
+      {
+        "para_id": "13804.1033",
+        "lang": "bg",
+        "refcode": "Дa 120.2"
+      },
+      {
+        "para_id": "11590.1311",
+        "lang": "ce",
+        "refcode": "ABA 265.1"
+      },
+      {
+        "para_id": "11247.1250",
+        "lang": "cs",
+        "refcode": "PNL 178.4"
+      },
+      {
+        "para_id": "813.1368",
+        "lang": "de",
+        "refcode": "WA 310.1"
+      },
+      {
+        "para_id": "198.1288",
+        "lang": "es",
+        "refcode": "HAp 250.1"
+      },
+      {
+        "para_id": "158.1302",
+        "lang": "fr",
+        "refcode": "CP 276.2"
+      },
+      {
+        "para_id": "11938.1190",
+        "lang": "hu",
+        "refcode": "AT 204.4"
+      },
+      {
+        "para_id": "12410.1279",
+        "lang": "id",
+        "refcode": "KR 261.2"
+      },
+      {
+        "para_id": "882.1191",
+        "lang": "it",
+        "refcode": "UVI 194.4"
+      },
+      {
+        "para_id": "11660.1497",
+        "lang": "ja",
+        "refcode": "AAJ 334.2"
+      },
+      {
+        "para_id": "12335.1142",
+        "lang": "nb",
+        "refcode": "AV 180.4"
+      },
+      {
+        "para_id": "12008.1066",
+        "lang": "pl",
+        "refcode": "DA 169.4"
+      },
+      {
+        "para_id": "1806.1129",
+        "lang": "pt",
+        "refcode": "AA 162.3"
+      },
+      {
+        "para_id": "2013.1359",
+        "lang": "ro",
+        "refcode": "FA 310.2"
+      },
+      {
+        "para_id": "1785.1335",
+        "lang": "ru",
+        "refcode": "ДА 310.2"
+      },
+      {
+        "para_id": "13874.1141",
+        "lang": "rw",
+        "refcode": "INI 190.4"
+      },
+      {
+        "para_id": "11182.1126",
+        "lang": "sk",
+        "refcode": "SA 186.4"
+      },
+      {
+        "para_id": "11904.1237",
+        "lang": "tl",
+        "refcode": "AGA 236.1"
+      },
+      {
+        "para_id": "11875.1199",
+        "lang": "uk",
+        "refcode": "ДА 213.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1372",
+    "id_prev": "127.1371",
+    "id_next": "127.1375",
+    "refcode_1": "AA",
+    "refcode_2": "310",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 310.3",
+    "refcode_long": "The Acts of the Apostles, p. 310.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As the winner reached the goal, the applause of the vast multitude of onlookers rent the air and awoke the echoes of the surrounding hills and mountains. In full view of the spectators, the judge presented him with the emblems of victory&mdash;a laurel crown and a palm branch to carry in his right hand. His praise was sung throughout the land; his parents received their share of honor; and even the city <span class=\"page-break\" data-page=\"311\"></span> in which he lived was held in high esteem for having produced so great an athlete.",
+    "puborder": 865,
+    "translations": [
+      {
+        "para_id": "13804.1034",
+        "lang": "bg",
+        "refcode": "Дa 120.3"
+      },
+      {
+        "para_id": "11590.1312",
+        "lang": "ce",
+        "refcode": "ABA 265.2"
+      },
+      {
+        "para_id": "11247.1253",
+        "lang": "cs",
+        "refcode": "PNL 179.1"
+      },
+      {
+        "para_id": "813.1369",
+        "lang": "de",
+        "refcode": "WA 310.2"
+      },
+      {
+        "para_id": "198.1289",
+        "lang": "es",
+        "refcode": "HAp 250.2"
+      },
+      {
+        "para_id": "158.1303",
+        "lang": "fr",
+        "refcode": "CP 276.3"
+      },
+      {
+        "para_id": "11938.1193",
+        "lang": "hu",
+        "refcode": "AT 205.1"
+      },
+      {
+        "para_id": "12410.1280",
+        "lang": "id",
+        "refcode": "KR 261.3"
+      },
+      {
+        "para_id": "882.1194",
+        "lang": "it",
+        "refcode": "UVI 195.1"
+      },
+      {
+        "para_id": "11660.1498",
+        "lang": "ja",
+        "refcode": "AAJ 334.3"
+      },
+      {
+        "para_id": "12335.1143",
+        "lang": "nb",
+        "refcode": "AV 180.5"
+      },
+      {
+        "para_id": "12008.1068",
+        "lang": "pl",
+        "refcode": "DA 170.1"
+      },
+      {
+        "para_id": "1806.1130",
+        "lang": "pt",
+        "refcode": "AA 162.4"
+      },
+      {
+        "para_id": "2013.1360",
+        "lang": "ro",
+        "refcode": "FA 310.3"
+      },
+      {
+        "para_id": "1785.1336",
+        "lang": "ru",
+        "refcode": "ДА 310.3"
+      },
+      {
+        "para_id": "13874.1144",
+        "lang": "rw",
+        "refcode": "INI 191.1"
+      },
+      {
+        "para_id": "11182.1127",
+        "lang": "sk",
+        "refcode": "SA 186.5"
+      },
+      {
+        "para_id": "11904.1238",
+        "lang": "tl",
+        "refcode": "AGA 236.2"
+      },
+      {
+        "para_id": "11875.1200",
+        "lang": "uk",
+        "refcode": "ДА 213.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1375",
+    "id_prev": "127.1372",
+    "id_next": "127.1376",
+    "refcode_1": "AA",
+    "refcode_2": "311",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 311.1",
+    "refcode_long": "The Acts of the Apostles, p. 311.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In referring to these races as a figure of the Christian warfare, Paul emphasized the preparation necessary to the success of the contestants in the race&mdash;the preliminary discipline, the abstemious diet, the necessity for temperance. &ldquo;Every man that striveth for the mastery,&rdquo; he declared, &ldquo;is temperate in all things.&rdquo; The runners put aside every indulgence that would tend to weaken the physical powers, and by severe and continuous discipline trained their muscles to strength and endurance, that when the day of the contest should arrive, they might put the heaviest tax upon their powers. How much more important that the Christian, whose eternal interests are at stake, bring appetite and passion under subjection to reason and the will of God! Never must he allow his attention to be diverted by amusements, luxuries, or ease. All his habits and passions must be brought under the strictest discipline. Reason, enlightened by the teachings of God&apos;s word and guided by His Spirit, must hold the reins of control.",
+    "puborder": 866,
+    "translations": [
+      {
+        "para_id": "13804.1035",
+        "lang": "bg",
+        "refcode": "Дa 120.4"
+      },
+      {
+        "para_id": "11590.1313",
+        "lang": "ce",
+        "refcode": "ABA 265.3"
+      },
+      {
+        "para_id": "11247.1255",
+        "lang": "cs",
+        "refcode": "PNL 179.2"
+      },
+      {
+        "para_id": "813.1370",
+        "lang": "de",
+        "refcode": "WA 310.3"
+      },
+      {
+        "para_id": "198.1290",
+        "lang": "es",
+        "refcode": "HAp 250.3"
+      },
+      {
+        "para_id": "158.1304",
+        "lang": "fr",
+        "refcode": "CP 276.4"
+      },
+      {
+        "para_id": "11938.1194",
+        "lang": "hu",
+        "refcode": "AT 205.2"
+      },
+      {
+        "para_id": "12410.1281",
+        "lang": "id",
+        "refcode": "KR 261.4"
+      },
+      {
+        "para_id": "882.1195",
+        "lang": "it",
+        "refcode": "UVI 195.2"
+      },
+      {
+        "para_id": "11660.1500",
+        "lang": "ja",
+        "refcode": "AAJ 335.1"
+      },
+      {
+        "para_id": "12335.1146",
+        "lang": "nb",
+        "refcode": "AV 181.1"
+      },
+      {
+        "para_id": "12008.1069",
+        "lang": "pl",
+        "refcode": "DA 170.2"
+      },
+      {
+        "para_id": "1806.1132",
+        "lang": "pt",
+        "refcode": "AA 162.6"
+      },
+      {
+        "para_id": "2013.1363",
+        "lang": "ro",
+        "refcode": "FA 311.1"
+      },
+      {
+        "para_id": "1785.1339",
+        "lang": "ru",
+        "refcode": "ДА 311.1"
+      },
+      {
+        "para_id": "13874.1145",
+        "lang": "rw",
+        "refcode": "INI 191.2"
+      },
+      {
+        "para_id": "11182.1130",
+        "lang": "sk",
+        "refcode": "SA 187.1"
+      },
+      {
+        "para_id": "11904.1239",
+        "lang": "tl",
+        "refcode": "AGA 236.3"
+      },
+      {
+        "para_id": "11875.1201",
+        "lang": "uk",
+        "refcode": "ДА 213.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1376",
+    "id_prev": "127.1375",
+    "id_next": "127.1377",
+    "refcode_1": "AA",
+    "refcode_2": "311",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 311.2",
+    "refcode_long": "The Acts of the Apostles, p. 311.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "And after this has been done, the Christian must put forth the utmost exertion in order to gain the victory. In the Corinthian games the last few strides of the contestants in the race were made with agonizing effort to keep up undiminished speed. So the Christian, as he nears the goal, will press onward with even more zeal and determination than at the first of his course.",
+    "puborder": 867,
+    "translations": [
+      {
+        "para_id": "13804.1036",
+        "lang": "bg",
+        "refcode": "Дa 120.5"
+      },
+      {
+        "para_id": "11590.1316",
+        "lang": "ce",
+        "refcode": "ABA 266.1"
+      },
+      {
+        "para_id": "11247.1256",
+        "lang": "cs",
+        "refcode": "PNL 179.3"
+      },
+      {
+        "para_id": "813.1373",
+        "lang": "de",
+        "refcode": "WA 311.1"
+      },
+      {
+        "para_id": "198.1293",
+        "lang": "es",
+        "refcode": "HAp 251.1"
+      },
+      {
+        "para_id": "158.1304",
+        "lang": "fr",
+        "refcode": "CP 276.4"
+      },
+      {
+        "para_id": "11938.1195",
+        "lang": "hu",
+        "refcode": "AT 205.3"
+      },
+      {
+        "para_id": "12410.1284",
+        "lang": "id",
+        "refcode": "KR 262.1"
+      },
+      {
+        "para_id": "882.1196",
+        "lang": "it",
+        "refcode": "UVI 195.3"
+      },
+      {
+        "para_id": "11660.1501",
+        "lang": "ja",
+        "refcode": "AAJ 335.2"
+      },
+      {
+        "para_id": "12335.1147",
+        "lang": "nb",
+        "refcode": "AV 181.2"
+      },
+      {
+        "para_id": "12008.1070",
+        "lang": "pl",
+        "refcode": "DA 170.3"
+      },
+      {
+        "para_id": "1806.1132",
+        "lang": "pt",
+        "refcode": "AA 162.6"
+      },
+      {
+        "para_id": "2013.1364",
+        "lang": "ro",
+        "refcode": "FA 311.2"
+      },
+      {
+        "para_id": "1785.1340",
+        "lang": "ru",
+        "refcode": "ДА 311.2"
+      },
+      {
+        "para_id": "13874.1146",
+        "lang": "rw",
+        "refcode": "INI 191.3"
+      },
+      {
+        "para_id": "11182.1131",
+        "lang": "sk",
+        "refcode": "SA 187.2"
+      },
+      {
+        "para_id": "11904.1240",
+        "lang": "tl",
+        "refcode": "AGA 236.4"
+      },
+      {
+        "para_id": "11875.1204",
+        "lang": "uk",
+        "refcode": "ДА 214.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1377",
+    "id_prev": "127.1376",
+    "id_next": "127.1380",
+    "refcode_1": "AA",
+    "refcode_2": "311",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 311.3",
+    "refcode_long": "The Acts of the Apostles, p. 311.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul presents the contrast between the chaplet of fading laurel received by the victor in the foot races, and the crown <span class=\"page-break\" data-page=\"312\"></span> of immortal glory that will be given to him who runs with triumph the Christian race. &ldquo;They do it,&rdquo; he declares, &ldquo;to obtain a corruptible crown; but we an incorruptible.&rdquo; To win a perishable prize, the Grecian runners spared themselves no toil or discipline. We are striving for a prize infinitely more valuable, even the crown of everlasting life. How much more careful should be our striving, how much more willing our sacrifice and self-denial!",
+    "puborder": 868,
+    "translations": [
+      {
+        "para_id": "13804.1037",
+        "lang": "bg",
+        "refcode": "Дa 120.6"
+      },
+      {
+        "para_id": "11590.1317",
+        "lang": "ce",
+        "refcode": "ABA 266.2"
+      },
+      {
+        "para_id": "11247.1258",
+        "lang": "cs",
+        "refcode": "PNL 179.4"
+      },
+      {
+        "para_id": "813.1374",
+        "lang": "de",
+        "refcode": "WA 311.2"
+      },
+      {
+        "para_id": "198.1294",
+        "lang": "es",
+        "refcode": "HAp 251.2"
+      },
+      {
+        "para_id": "158.1307",
+        "lang": "fr",
+        "refcode": "CP 277.1"
+      },
+      {
+        "para_id": "11938.1196",
+        "lang": "hu",
+        "refcode": "AT 205.4"
+      },
+      {
+        "para_id": "12410.1285",
+        "lang": "id",
+        "refcode": "KR 262.2"
+      },
+      {
+        "para_id": "882.1197",
+        "lang": "it",
+        "refcode": "UVI 195.4"
+      },
+      {
+        "para_id": "11660.1502",
+        "lang": "ja",
+        "refcode": "AAJ 335.3"
+      },
+      {
+        "para_id": "12335.1148",
+        "lang": "nb",
+        "refcode": "AV 181.3"
+      },
+      {
+        "para_id": "12008.1071",
+        "lang": "pl",
+        "refcode": "DA 170.4"
+      },
+      {
+        "para_id": "1806.1135",
+        "lang": "pt",
+        "refcode": "AA 163.1"
+      },
+      {
+        "para_id": "2013.1365",
+        "lang": "ro",
+        "refcode": "FA 311.3"
+      },
+      {
+        "para_id": "1785.1341",
+        "lang": "ru",
+        "refcode": "ДА 311.3"
+      },
+      {
+        "para_id": "13874.1147",
+        "lang": "rw",
+        "refcode": "INI 191.4"
+      },
+      {
+        "para_id": "11182.1132",
+        "lang": "sk",
+        "refcode": "SA 187.3"
+      },
+      {
+        "para_id": "11904.1243",
+        "lang": "tl",
+        "refcode": "AGA 237.1"
+      },
+      {
+        "para_id": "11875.1205",
+        "lang": "uk",
+        "refcode": "ДА 214.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1380",
+    "id_prev": "127.1377",
+    "id_next": "127.1381",
+    "refcode_1": "AA",
+    "refcode_2": "312",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 312.1",
+    "refcode_long": "The Acts of the Apostles, p. 312.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the epistle to the Hebrews is pointed out the single-hearted purpose that should characterize the Christian&apos;s race for eternal life: &ldquo;Let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us, looking unto Jesus the author and finisher of our faith.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Hebrews 12:1\" data-link=\"1965.61632\">Hebrews 12:1, 2</span>. Envy, malice, evil thinking, evilspeaking, covetousness&mdash;these are weights that the Christian must lay aside if he would run successfully the race for immortality. Every habit or practice that leads into sin and brings dishonor upon Christ must be put away, whatever the sacrifice. The blessing of heaven cannot attend any man in violating the eternal principles of right. One sin cherished is sufficient to work degradation of character and to mislead others.",
+    "puborder": 869,
+    "translations": [
+      {
+        "para_id": "13804.1039",
+        "lang": "bg",
+        "refcode": "Дa 121.1"
+      },
+      {
+        "para_id": "11590.1318",
+        "lang": "ce",
+        "refcode": "ABA 266.3"
+      },
+      {
+        "para_id": "11247.1259",
+        "lang": "cs",
+        "refcode": "PNL 179.5"
+      },
+      {
+        "para_id": "813.1375",
+        "lang": "de",
+        "refcode": "WA 311.3"
+      },
+      {
+        "para_id": "198.1295",
+        "lang": "es",
+        "refcode": "HAp 251.3"
+      },
+      {
+        "para_id": "158.1310",
+        "lang": "fr",
+        "refcode": "CP 278.1"
+      },
+      {
+        "para_id": "158.1308",
+        "lang": "fr",
+        "refcode": "CP 277.2"
+      },
+      {
+        "para_id": "158.1311",
+        "lang": "fr",
+        "refcode": "CP 278.2"
+      },
+      {
+        "para_id": "11938.1198",
+        "lang": "hu",
+        "refcode": "AT 206.1"
+      },
+      {
+        "para_id": "12410.1286",
+        "lang": "id",
+        "refcode": "KR 262.3"
+      },
+      {
+        "para_id": "882.1198",
+        "lang": "it",
+        "refcode": "UVI 195.5"
+      },
+      {
+        "para_id": "11660.1505",
+        "lang": "ja",
+        "refcode": "AAJ 336.1"
+      },
+      {
+        "para_id": "12335.1149",
+        "lang": "nb",
+        "refcode": "AV 181.4"
+      },
+      {
+        "para_id": "12008.1072",
+        "lang": "pl",
+        "refcode": "DA 170.5"
+      },
+      {
+        "para_id": "1806.1136",
+        "lang": "pt",
+        "refcode": "AA 163.2"
+      },
+      {
+        "para_id": "2013.1368",
+        "lang": "ro",
+        "refcode": "FA 312.1"
+      },
+      {
+        "para_id": "1785.1344",
+        "lang": "ru",
+        "refcode": "ДА 312.1"
+      },
+      {
+        "para_id": "13874.1150",
+        "lang": "rw",
+        "refcode": "INI 192.1"
+      },
+      {
+        "para_id": "11182.1134",
+        "lang": "sk",
+        "refcode": "SA 187.5"
+      },
+      {
+        "para_id": "11904.1244",
+        "lang": "tl",
+        "refcode": "AGA 237.2"
+      },
+      {
+        "para_id": "11875.1206",
+        "lang": "uk",
+        "refcode": "ДА 214.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1381",
+    "id_prev": "127.1380",
+    "id_next": "127.1384",
+    "refcode_1": "AA",
+    "refcode_2": "312",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 312.2",
+    "refcode_long": "The Acts of the Apostles, p. 312.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;If thy hand cause thee to stumble,&rdquo; the Saviour said, &ldquo;Cut it off: it is good for thee to enter into life maimed, rather than having thy two hands to go into hell, into the unquenchable fire. And if thy foot cause thee to stumble, cut it off: it is good for thee to enter into life halt, rather than having thy two feet to be cast into hell.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Mark 9:43\" data-link=\"1965.50172\">Mark 9:43-45,</span> <span class=\"page-break\" data-page=\"313\"></span> R.V. If to save the body from death, the foot or the hand should be cut off, or even the eye plucked out, how much more earnest should the Christian be to put away sin, which brings death to the soul!",
+    "puborder": 870,
+    "translations": [
+      {
+        "para_id": "13804.1040",
+        "lang": "bg",
+        "refcode": "Дa 121.2"
+      },
+      {
+        "para_id": "11590.1321",
+        "lang": "ce",
+        "refcode": "ABA 267.1"
+      },
+      {
+        "para_id": "11247.1262",
+        "lang": "cs",
+        "refcode": "PNL 180.1"
+      },
+      {
+        "para_id": "813.1378",
+        "lang": "de",
+        "refcode": "WA 312.1"
+      },
+      {
+        "para_id": "198.1297",
+        "lang": "es",
+        "refcode": "HAp 252.1"
+      },
+      {
+        "para_id": "158.1311",
+        "lang": "fr",
+        "refcode": "CP 278.2"
+      },
+      {
+        "para_id": "11938.1199",
+        "lang": "hu",
+        "refcode": "AT 206.2"
+      },
+      {
+        "para_id": "12410.1290",
+        "lang": "id",
+        "refcode": "KR 263.1"
+      },
+      {
+        "para_id": "882.1201",
+        "lang": "it",
+        "refcode": "UVI 196.1"
+      },
+      {
+        "para_id": "11660.1506",
+        "lang": "ja",
+        "refcode": "AAJ 336.2"
+      },
+      {
+        "para_id": "12335.1152",
+        "lang": "nb",
+        "refcode": "AV 182.1"
+      },
+      {
+        "para_id": "12008.1075",
+        "lang": "pl",
+        "refcode": "DA 171.1"
+      },
+      {
+        "para_id": "1806.1139",
+        "lang": "pt",
+        "refcode": "AA 163.5"
+      },
+      {
+        "para_id": "2013.1369",
+        "lang": "ro",
+        "refcode": "FA 312.2"
+      },
+      {
+        "para_id": "1785.1345",
+        "lang": "ru",
+        "refcode": "ДА 312.2"
+      },
+      {
+        "para_id": "13874.1151",
+        "lang": "rw",
+        "refcode": "INI 192.2"
+      },
+      {
+        "para_id": "11182.1137",
+        "lang": "sk",
+        "refcode": "SA 188.1"
+      },
+      {
+        "para_id": "11904.1245",
+        "lang": "tl",
+        "refcode": "AGA 237.3"
+      },
+      {
+        "para_id": "11875.1207",
+        "lang": "uk",
+        "refcode": "ДА 214.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1384",
+    "id_prev": "127.1381",
+    "id_next": "127.1385",
+    "refcode_1": "AA",
+    "refcode_2": "313",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 313.1",
+    "refcode_long": "The Acts of the Apostles, p. 313.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The competitors in the ancient games, after they had submitted to self-denial and rigid discipline, were not even then sure of the victory. &ldquo;Know ye not,&rdquo; Paul asked, &ldquo;that they which run in a race run all, but one receiveth the prize?&rdquo; However eagerly and earnestly the runners might strive, the prize could be awarded to but one. One hand only could grasp the coveted garland. Some might put forth the utmost effort to obtain the prize, but as they reached forth the hand to secure it, another, an instant before them, might grasp the coveted treasure.",
+    "puborder": 871,
+    "translations": [
+      {
+        "para_id": "13804.1041",
+        "lang": "bg",
+        "refcode": "Дa 121.3"
+      },
+      {
+        "para_id": "11590.1322",
+        "lang": "ce",
+        "refcode": "ABA 267.2"
+      },
+      {
+        "para_id": "11247.1263",
+        "lang": "cs",
+        "refcode": "PNL 180.2"
+      },
+      {
+        "para_id": "813.1379",
+        "lang": "de",
+        "refcode": "WA 312.2"
+      },
+      {
+        "para_id": "198.1298",
+        "lang": "es",
+        "refcode": "HAp 252.2"
+      },
+      {
+        "para_id": "158.1312",
+        "lang": "fr",
+        "refcode": "CP 278.3"
+      },
+      {
+        "para_id": "11938.1200",
+        "lang": "hu",
+        "refcode": "AT 206.3"
+      },
+      {
+        "para_id": "12410.1291",
+        "lang": "id",
+        "refcode": "KR 263.2"
+      },
+      {
+        "para_id": "882.1202",
+        "lang": "it",
+        "refcode": "UVI 196.2"
+      },
+      {
+        "para_id": "11660.1509",
+        "lang": "ja",
+        "refcode": "AAJ 337.1"
+      },
+      {
+        "para_id": "12335.1153",
+        "lang": "nb",
+        "refcode": "AV 182.2"
+      },
+      {
+        "para_id": "12008.1076",
+        "lang": "pl",
+        "refcode": "DA 171.2"
+      },
+      {
+        "para_id": "1806.1139",
+        "lang": "pt",
+        "refcode": "AA 163.5"
+      },
+      {
+        "para_id": "2013.1372",
+        "lang": "ro",
+        "refcode": "FA 313.1"
+      },
+      {
+        "para_id": "1785.1348",
+        "lang": "ru",
+        "refcode": "ДА 313.1"
+      },
+      {
+        "para_id": "13874.1153",
+        "lang": "rw",
+        "refcode": "INI 192.4"
+      },
+      {
+        "para_id": "11182.1138",
+        "lang": "sk",
+        "refcode": "SA 188.2"
+      },
+      {
+        "para_id": "11904.1246",
+        "lang": "tl",
+        "refcode": "AGA 237.4"
+      },
+      {
+        "para_id": "11875.1209",
+        "lang": "uk",
+        "refcode": "ДА 215.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1385",
+    "id_prev": "127.1384",
+    "id_next": "127.1388",
+    "refcode_1": "AA",
+    "refcode_2": "313",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 313.2",
+    "refcode_long": "The Acts of the Apostles, p. 313.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Such is not the case in the Christian warfare. Not one who complies with the conditions will be disappointed at the end of the race. Not one who is earnest and persevering will fail of success. The race is not to the swift, nor the battle to the strong. The weakest saint, as well as the strongest, may wear the crown of immortal glory. All may win who, through the power of divine grace, bring their lives into conformity to the will of Christ. The practice, in the details of life, of the principles laid down in God&apos;s word, is too often looked upon as unimportant&mdash;a matter too trivial to demand attention. But in view of the issue at stake, nothing is small that will help or hinder. Every act casts its weight into the scale that determines life&apos;s victory or defeat. And the reward given to those who win <span class=\"page-break\" data-page=\"314\"></span> will be in proportion to the energy and earnestness with which they have striven.",
+    "puborder": 872,
+    "translations": [
+      {
+        "para_id": "13804.1042",
+        "lang": "bg",
+        "refcode": "Дa 121.4"
+      },
+      {
+        "para_id": "11590.1323",
+        "lang": "ce",
+        "refcode": "ABA 267.3"
+      },
+      {
+        "para_id": "11247.1264",
+        "lang": "cs",
+        "refcode": "PNL 180.3"
+      },
+      {
+        "para_id": "813.1382",
+        "lang": "de",
+        "refcode": "WA 313.1"
+      },
+      {
+        "para_id": "198.1299",
+        "lang": "es",
+        "refcode": "HAp 252.3"
+      },
+      {
+        "para_id": "158.1312",
+        "lang": "fr",
+        "refcode": "CP 278.3"
+      },
+      {
+        "para_id": "11938.1201",
+        "lang": "hu",
+        "refcode": "AT 206.4"
+      },
+      {
+        "para_id": "12410.1292",
+        "lang": "id",
+        "refcode": "KR 263.3"
+      },
+      {
+        "para_id": "882.1203",
+        "lang": "it",
+        "refcode": "UVI 196.3"
+      },
+      {
+        "para_id": "11660.1510",
+        "lang": "ja",
+        "refcode": "AAJ 337.2"
+      },
+      {
+        "para_id": "12335.1154",
+        "lang": "nb",
+        "refcode": "AV 182.3"
+      },
+      {
+        "para_id": "12008.1077",
+        "lang": "pl",
+        "refcode": "DA 171.3"
+      },
+      {
+        "para_id": "1806.1139",
+        "lang": "pt",
+        "refcode": "AA 163.5"
+      },
+      {
+        "para_id": "2013.1373",
+        "lang": "ro",
+        "refcode": "FA 313.2"
+      },
+      {
+        "para_id": "1785.1349",
+        "lang": "ru",
+        "refcode": "ДА 313.2"
+      },
+      {
+        "para_id": "13874.1154",
+        "lang": "rw",
+        "refcode": "INI 192.5"
+      },
+      {
+        "para_id": "11182.1139",
+        "lang": "sk",
+        "refcode": "SA 188.3"
+      },
+      {
+        "para_id": "11904.1249",
+        "lang": "tl",
+        "refcode": "AGA 238.1"
+      },
+      {
+        "para_id": "11875.1210",
+        "lang": "uk",
+        "refcode": "ДА 215.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1388",
+    "id_prev": "127.1385",
+    "id_next": "127.1389",
+    "refcode_1": "AA",
+    "refcode_2": "314",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 314.1",
+    "refcode_long": "The Acts of the Apostles, p. 314.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle compared himself to a man running in a race, straining every nerve to win the prize. &ldquo;I therefore so run,&rdquo; he says, &ldquo;not as uncertainly; so fight I, not as one that beateth the air: but I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.&rdquo; That he might not run uncertainly or at random in the Christian race, Paul subjected himself to severe training. The words, &ldquo;I keep under my body,&rdquo; literally mean to beat back by severe discipline the desires, impulses, and passions.",
+    "puborder": 873,
+    "translations": [
+      {
+        "para_id": "13804.1043",
+        "lang": "bg",
+        "refcode": "Дa 121.5"
+      },
+      {
+        "para_id": "11590.1326",
+        "lang": "ce",
+        "refcode": "ABA 268.1"
+      },
+      {
+        "para_id": "11247.1266",
+        "lang": "cs",
+        "refcode": "PNL 180.4"
+      },
+      {
+        "para_id": "813.1383",
+        "lang": "de",
+        "refcode": "WA 313.2"
+      },
+      {
+        "para_id": "198.1300",
+        "lang": "es",
+        "refcode": "HAp 252.4"
+      },
+      {
+        "para_id": "158.1315",
+        "lang": "fr",
+        "refcode": "CP 279.1"
+      },
+      {
+        "para_id": "11938.1204",
+        "lang": "hu",
+        "refcode": "AT 207.1"
+      },
+      {
+        "para_id": "12410.1292",
+        "lang": "id",
+        "refcode": "KR 263.3"
+      },
+      {
+        "para_id": "882.1206",
+        "lang": "it",
+        "refcode": "UVI 197.1"
+      },
+      {
+        "para_id": "11660.1513",
+        "lang": "ja",
+        "refcode": "AAJ 338.1"
+      },
+      {
+        "para_id": "12335.1155",
+        "lang": "nb",
+        "refcode": "AV 182.4"
+      },
+      {
+        "para_id": "12008.1078",
+        "lang": "pl",
+        "refcode": "DA 171.4"
+      },
+      {
+        "para_id": "1806.1142",
+        "lang": "pt",
+        "refcode": "AA 164.1"
+      },
+      {
+        "para_id": "2013.1376",
+        "lang": "ro",
+        "refcode": "FA 314.1"
+      },
+      {
+        "para_id": "1785.1352",
+        "lang": "ru",
+        "refcode": "ДА 314.1"
+      },
+      {
+        "para_id": "13874.1157",
+        "lang": "rw",
+        "refcode": "INI 193.1"
+      },
+      {
+        "para_id": "11182.1140",
+        "lang": "sk",
+        "refcode": "SA 188.4"
+      },
+      {
+        "para_id": "11904.1250",
+        "lang": "tl",
+        "refcode": "AGA 238.2"
+      },
+      {
+        "para_id": "11875.1211",
+        "lang": "uk",
+        "refcode": "ДА 215.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1389",
+    "id_prev": "127.1388",
+    "id_next": "127.1390",
+    "refcode_1": "AA",
+    "refcode_2": "314",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 314.2",
+    "refcode_long": "The Acts of the Apostles, p. 314.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul feared lest, having preached to others, he himself should be a castaway. He realized that if he did not carry out in his life the principles he believed and preached, his labors in behalf of others would avail him nothing. His conversation, his influence, his refusal to yield to self-gratification, must show that his religion was not a profession merely, but a daily, living connection with God. One goal he kept ever before him, and strove earnestly to reach&mdash;&ldquo;the righteousness which is of God by faith.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Philippians 3:9\" data-link=\"1965.60019\">Philippians 3:9</span>.",
+    "puborder": 874,
+    "translations": [
+      {
+        "para_id": "13804.1044",
+        "lang": "bg",
+        "refcode": "Дa 121.6"
+      },
+      {
+        "para_id": "11590.1327",
+        "lang": "ce",
+        "refcode": "ABA 268.2"
+      },
+      {
+        "para_id": "11247.1269",
+        "lang": "cs",
+        "refcode": "PNL 181.1"
+      },
+      {
+        "para_id": "813.1384",
+        "lang": "de",
+        "refcode": "WA 313.3"
+      },
+      {
+        "para_id": "198.1300",
+        "lang": "es",
+        "refcode": "HAp 252.4"
+      },
+      {
+        "para_id": "158.1316",
+        "lang": "fr",
+        "refcode": "CP 279.2"
+      },
+      {
+        "para_id": "11938.1205",
+        "lang": "hu",
+        "refcode": "AT 207.2"
+      },
+      {
+        "para_id": "12410.1295",
+        "lang": "id",
+        "refcode": "KR 264.1"
+      },
+      {
+        "para_id": "882.1207",
+        "lang": "it",
+        "refcode": "UVI 197.2"
+      },
+      {
+        "para_id": "11660.1514",
+        "lang": "ja",
+        "refcode": "AAJ 338.2"
+      },
+      {
+        "para_id": "12335.1158",
+        "lang": "nb",
+        "refcode": "AV 183.1"
+      },
+      {
+        "para_id": "12008.1079",
+        "lang": "pl",
+        "refcode": "DA 171.5"
+      },
+      {
+        "para_id": "1806.1143",
+        "lang": "pt",
+        "refcode": "AA 164.2"
+      },
+      {
+        "para_id": "2013.1377",
+        "lang": "ro",
+        "refcode": "FA 314.2"
+      },
+      {
+        "para_id": "1785.1353",
+        "lang": "ru",
+        "refcode": "ДА 314.2"
+      },
+      {
+        "para_id": "13874.1158",
+        "lang": "rw",
+        "refcode": "INI 193.2"
+      },
+      {
+        "para_id": "11182.1141",
+        "lang": "sk",
+        "refcode": "SA 188.5"
+      },
+      {
+        "para_id": "11904.1251",
+        "lang": "tl",
+        "refcode": "AGA 238.3"
+      },
+      {
+        "para_id": "11875.1214",
+        "lang": "uk",
+        "refcode": "ДА 216.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1390",
+    "id_prev": "127.1389",
+    "id_next": "127.1393",
+    "refcode_1": "AA",
+    "refcode_2": "314",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 314.3",
+    "refcode_long": "The Acts of the Apostles, p. 314.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul knew that his warfare against evil would not end so long as life should last. Ever he realized the need of putting a strict guard upon himself, that earthly desires might not overcome spiritual zeal. With all his power he continued to strive against natural inclinations. Ever he kept before him the ideal to be attained, and this ideal he strove to reach by willing obedience to the law of God. His <span class=\"page-break\" data-page=\"315\"></span> words, his practices, his passions&mdash;all were brought under the control of the Spirit of God.",
+    "puborder": 875,
+    "translations": [
+      {
+        "para_id": "13804.1047",
+        "lang": "bg",
+        "refcode": "Дa 122.1"
+      },
+      {
+        "para_id": "11590.1330",
+        "lang": "ce",
+        "refcode": "ABA 269.1"
+      },
+      {
+        "para_id": "11247.1270",
+        "lang": "cs",
+        "refcode": "PNL 181.2"
+      },
+      {
+        "para_id": "813.1387",
+        "lang": "de",
+        "refcode": "WA 314.1"
+      },
+      {
+        "para_id": "198.1303",
+        "lang": "es",
+        "refcode": "HAp 253.1"
+      },
+      {
+        "para_id": "158.1317",
+        "lang": "fr",
+        "refcode": "CP 279.3"
+      },
+      {
+        "para_id": "11938.1206",
+        "lang": "hu",
+        "refcode": "AT 207.3"
+      },
+      {
+        "para_id": "12410.1296",
+        "lang": "id",
+        "refcode": "KR 264.2"
+      },
+      {
+        "para_id": "882.1208",
+        "lang": "it",
+        "refcode": "UVI 197.3"
+      },
+      {
+        "para_id": "11660.1515",
+        "lang": "ja",
+        "refcode": "AAJ 338.3"
+      },
+      {
+        "para_id": "12335.1159",
+        "lang": "nb",
+        "refcode": "AV 183.2"
+      },
+      {
+        "para_id": "12008.1082",
+        "lang": "pl",
+        "refcode": "DA 172.1"
+      },
+      {
+        "para_id": "1806.1146",
+        "lang": "pt",
+        "refcode": "AA 164.5"
+      },
+      {
+        "para_id": "2013.1378",
+        "lang": "ro",
+        "refcode": "FA 314.3"
+      },
+      {
+        "para_id": "1785.1354",
+        "lang": "ru",
+        "refcode": "ДА 314.3"
+      },
+      {
+        "para_id": "13874.1159",
+        "lang": "rw",
+        "refcode": "INI 193.3"
+      },
+      {
+        "para_id": "11182.1144",
+        "lang": "sk",
+        "refcode": "SA 189.1"
+      },
+      {
+        "para_id": "11904.1254",
+        "lang": "tl",
+        "refcode": "AGA 239.1"
+      },
+      {
+        "para_id": "11875.1215",
+        "lang": "uk",
+        "refcode": "ДА 216.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1393",
+    "id_prev": "127.1390",
+    "id_next": "127.1394",
+    "refcode_1": "AA",
+    "refcode_2": "315",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 315.1",
+    "refcode_long": "The Acts of the Apostles, p. 315.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It was this singlehearted purpose to win the race for eternal life that Paul longed to see revealed in the lives of the Corinthian believers. He knew that in order to reach Christ&apos;s ideal for them, they had before them a life struggle from which there would be no release. He entreated them to strive lawfully, day by day seeking for piety and moral excellence. He pleaded with them to lay aside every weight and to press forward to the goal of perfection in Christ.",
+    "puborder": 876,
+    "translations": [
+      {
+        "para_id": "13804.1048",
+        "lang": "bg",
+        "refcode": "Дa 122.2"
+      },
+      {
+        "para_id": "11590.1331",
+        "lang": "ce",
+        "refcode": "ABA 269.2"
+      },
+      {
+        "para_id": "11247.1271",
+        "lang": "cs",
+        "refcode": "PNL 181.3"
+      },
+      {
+        "para_id": "813.1388",
+        "lang": "de",
+        "refcode": "WA 314.2"
+      },
+      {
+        "para_id": "198.1304",
+        "lang": "es",
+        "refcode": "HAp 253.2"
+      },
+      {
+        "para_id": "158.1319",
+        "lang": "fr",
+        "refcode": "CP 280.1"
+      },
+      {
+        "para_id": "11938.1207",
+        "lang": "hu",
+        "refcode": "AT 207.4"
+      },
+      {
+        "para_id": "12410.1299",
+        "lang": "id",
+        "refcode": "KR 265.1"
+      },
+      {
+        "para_id": "882.1209",
+        "lang": "it",
+        "refcode": "UVI 197.4"
+      },
+      {
+        "para_id": "11660.1518",
+        "lang": "ja",
+        "refcode": "AAJ 339.1"
+      },
+      {
+        "para_id": "12335.1160",
+        "lang": "nb",
+        "refcode": "AV 183.3"
+      },
+      {
+        "para_id": "12008.1083",
+        "lang": "pl",
+        "refcode": "DA 172.2"
+      },
+      {
+        "para_id": "1806.1148",
+        "lang": "pt",
+        "refcode": "AA 165.1"
+      },
+      {
+        "para_id": "2013.1381",
+        "lang": "ro",
+        "refcode": "FA 315.1"
+      },
+      {
+        "para_id": "1785.1357",
+        "lang": "ru",
+        "refcode": "ДА 315.1"
+      },
+      {
+        "para_id": "13874.1160",
+        "lang": "rw",
+        "refcode": "INI 193.4"
+      },
+      {
+        "para_id": "11182.1145",
+        "lang": "sk",
+        "refcode": "SA 189.2"
+      },
+      {
+        "para_id": "11904.1255",
+        "lang": "tl",
+        "refcode": "AGA 239.2"
+      },
+      {
+        "para_id": "11875.1216",
+        "lang": "uk",
+        "refcode": "ДА 216.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1394",
+    "id_prev": "127.1393",
+    "id_next": "127.1395",
+    "refcode_1": "AA",
+    "refcode_2": "315",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 315.2",
+    "refcode_long": "The Acts of the Apostles, p. 315.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul pointed the Corinthians to the experience of ancient Israel, to the blessings that rewarded their obedience, and to the judgments that followed their transgressions. He reminded them of the miraculous way in which the Hebrews were led from Egypt under the protection of the cloud by day and the pillar of fire by night. Thus they were safely conducted through the Red Sea, while the Egyptians, essaying to cross in like manner, were all drowned. By these acts God had acknowledged Israel as His church. They &ldquo;did all eat the same spiritual meat; and did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.&rdquo; The Hebrews, in all their travels, had Christ as a leader. The smitten rock typified Christ, who was to be wounded for men&apos;s transgressions, that the stream of salvation might flow to all.",
+    "puborder": 877,
+    "translations": [
+      {
+        "para_id": "13804.1049",
+        "lang": "bg",
+        "refcode": "Дa 122.3"
+      },
+      {
+        "para_id": "11590.1332",
+        "lang": "ce",
+        "refcode": "ABA 269.3"
+      },
+      {
+        "para_id": "11247.1273",
+        "lang": "cs",
+        "refcode": "PNL 181.4"
+      },
+      {
+        "para_id": "813.1389",
+        "lang": "de",
+        "refcode": "WA 314.3"
+      },
+      {
+        "para_id": "198.1306",
+        "lang": "es",
+        "refcode": "HAp 254.1"
+      },
+      {
+        "para_id": "158.1319",
+        "lang": "fr",
+        "refcode": "CP 280.1"
+      },
+      {
+        "para_id": "158.1320",
+        "lang": "fr",
+        "refcode": "CP 280.2"
+      },
+      {
+        "para_id": "11938.1210",
+        "lang": "hu",
+        "refcode": "AT 208.1"
+      },
+      {
+        "para_id": "12410.1300",
+        "lang": "id",
+        "refcode": "KR 265.2"
+      },
+      {
+        "para_id": "882.1210",
+        "lang": "it",
+        "refcode": "UVI 197.5"
+      },
+      {
+        "para_id": "11660.1519",
+        "lang": "ja",
+        "refcode": "AAJ 339.2"
+      },
+      {
+        "para_id": "12335.1161",
+        "lang": "nb",
+        "refcode": "AV 183.4"
+      },
+      {
+        "para_id": "12008.1084",
+        "lang": "pl",
+        "refcode": "DA 172.3"
+      },
+      {
+        "para_id": "1806.1148",
+        "lang": "pt",
+        "refcode": "AA 165.1"
+      },
+      {
+        "para_id": "2013.1382",
+        "lang": "ro",
+        "refcode": "FA 315.2"
+      },
+      {
+        "para_id": "1785.1358",
+        "lang": "ru",
+        "refcode": "ДА 315.2"
+      },
+      {
+        "para_id": "13874.1163",
+        "lang": "rw",
+        "refcode": "INI 194.1"
+      },
+      {
+        "para_id": "11182.1146",
+        "lang": "sk",
+        "refcode": "SA 189.3"
+      },
+      {
+        "para_id": "11904.1256",
+        "lang": "tl",
+        "refcode": "AGA 239.3"
+      },
+      {
+        "para_id": "11875.1217",
+        "lang": "uk",
+        "refcode": "ДА 216.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1395",
+    "id_prev": "127.1394",
+    "id_next": "127.1398",
+    "refcode_1": "AA",
+    "refcode_2": "315",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 315.3",
+    "refcode_long": "The Acts of the Apostles, p. 315.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Notwithstanding the favor that God showed to the Hebrews, yet because of their lust for the luxuries left behind in Egypt, and because of their sin and rebellion, the <span class=\"page-break\" data-page=\"316\"></span> judgments of God came upon them. The apostle enjoined the Corinthian believers to heed the lesson contained in Israel&apos;s experience. &ldquo;Now these things were our examples,&rdquo; he declared, &ldquo;to the intent we should not lust after evil things, as they also lusted.&rdquo; He showed how love of ease and pleasure had prepared the way for sins that called forth the signal vengeance of God. It was when the children of Israel sat down to eat and drink, and rose up to play, that they threw off the fear of God, which they had felt as they listened to the giving of the law; and, making a golden calf to represent God, they worshiped it. And it was after enjoying a luxurious feast connected with the worship of Baalpeor, that many of the Hebrews fell through licentiousness. The anger of God was aroused, and at His command &ldquo;three and twenty thousand&rdquo; were slain by the plague in one day.",
+    "puborder": 878,
+    "translations": [
+      {
+        "para_id": "13804.1050",
+        "lang": "bg",
+        "refcode": "Дa 122.4"
+      },
+      {
+        "para_id": "11590.1335",
+        "lang": "ce",
+        "refcode": "ABA 270.1"
+      },
+      {
+        "para_id": "11247.1274",
+        "lang": "cs",
+        "refcode": "PNL 181.5"
+      },
+      {
+        "para_id": "813.1392",
+        "lang": "de",
+        "refcode": "WA 315.1"
+      },
+      {
+        "para_id": "198.1307",
+        "lang": "es",
+        "refcode": "HAp 254.2"
+      },
+      {
+        "para_id": "158.1321",
+        "lang": "fr",
+        "refcode": "CP 280.3"
+      },
+      {
+        "para_id": "11938.1211",
+        "lang": "hu",
+        "refcode": "AT 208.2"
+      },
+      {
+        "para_id": "12410.1301",
+        "lang": "id",
+        "refcode": "KR 265.3"
+      },
+      {
+        "para_id": "882.1213",
+        "lang": "it",
+        "refcode": "UVI 198.1"
+      },
+      {
+        "para_id": "11660.1522",
+        "lang": "ja",
+        "refcode": "AAJ 340.1"
+      },
+      {
+        "para_id": "12335.1162",
+        "lang": "nb",
+        "refcode": "AV 183.5"
+      },
+      {
+        "para_id": "12008.1085",
+        "lang": "pl",
+        "refcode": "DA 172.4"
+      },
+      {
+        "para_id": "1806.1149",
+        "lang": "pt",
+        "refcode": "AA 165.2"
+      },
+      {
+        "para_id": "2013.1383",
+        "lang": "ro",
+        "refcode": "FA 315.3"
+      },
+      {
+        "para_id": "1785.1359",
+        "lang": "ru",
+        "refcode": "ДА 315.3"
+      },
+      {
+        "para_id": "13874.1164",
+        "lang": "rw",
+        "refcode": "INI 194.2"
+      },
+      {
+        "para_id": "11182.1147",
+        "lang": "sk",
+        "refcode": "SA 189.4"
+      },
+      {
+        "para_id": "11904.1259",
+        "lang": "tl",
+        "refcode": "AGA 240.1"
+      },
+      {
+        "para_id": "11875.1220",
+        "lang": "uk",
+        "refcode": "ДА 217.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1398",
+    "id_prev": "127.1395",
+    "id_next": "127.1399",
+    "refcode_1": "AA",
+    "refcode_2": "316",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 316.1",
+    "refcode_long": "The Acts of the Apostles, p. 316.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle adjured the Corinthians, &ldquo;Let him that thinketh he standeth take heed lest he fall.&rdquo; Should they become boastful and self-confident, neglecting to watch and pray, they would fall into grievous sin, calling down upon themselves the wrath of God. Yet Paul would not have them yield to despondency or discouragement. He gave them the assurance: &ldquo;God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way of escape, that ye may be able to bear it.&rdquo;",
+    "puborder": 879,
+    "translations": [
+      {
+        "para_id": "13804.1051",
+        "lang": "bg",
+        "refcode": "Дa 122.5"
+      },
+      {
+        "para_id": "11590.1336",
+        "lang": "ce",
+        "refcode": "ABA 270.2"
+      },
+      {
+        "para_id": "11247.1277",
+        "lang": "cs",
+        "refcode": "PNL 182.1"
+      },
+      {
+        "para_id": "813.1393",
+        "lang": "de",
+        "refcode": "WA 315.2"
+      },
+      {
+        "para_id": "198.1308",
+        "lang": "es",
+        "refcode": "HAp 254.3"
+      },
+      {
+        "para_id": "158.1326",
+        "lang": "fr",
+        "refcode": "CP 281.2"
+      },
+      {
+        "para_id": "11938.1212",
+        "lang": "hu",
+        "refcode": "AT 208.3"
+      },
+      {
+        "para_id": "12410.1304",
+        "lang": "id",
+        "refcode": "KR 266.1"
+      },
+      {
+        "para_id": "882.1214",
+        "lang": "it",
+        "refcode": "UVI 198.2"
+      },
+      {
+        "para_id": "11660.1523",
+        "lang": "ja",
+        "refcode": "AAJ 340.2"
+      },
+      {
+        "para_id": "12335.1165",
+        "lang": "nb",
+        "refcode": "AV 184.1"
+      },
+      {
+        "para_id": "12008.1088",
+        "lang": "pl",
+        "refcode": "DA 173.1"
+      },
+      {
+        "para_id": "1806.1152",
+        "lang": "pt",
+        "refcode": "AA 165.5"
+      },
+      {
+        "para_id": "2013.1386",
+        "lang": "ro",
+        "refcode": "FA 316.1"
+      },
+      {
+        "para_id": "1785.1362",
+        "lang": "ru",
+        "refcode": "ДА 316.1"
+      },
+      {
+        "para_id": "13874.1165",
+        "lang": "rw",
+        "refcode": "INI 194.3"
+      },
+      {
+        "para_id": "11182.1150",
+        "lang": "sk",
+        "refcode": "SA 190.1"
+      },
+      {
+        "para_id": "11904.1260",
+        "lang": "tl",
+        "refcode": "AGA 240.2"
+      },
+      {
+        "para_id": "11875.1221",
+        "lang": "uk",
+        "refcode": "ДА 217.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1399",
+    "id_prev": "127.1398",
+    "id_next": "127.1402",
+    "refcode_1": "AA",
+    "refcode_2": "316",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 316.2",
+    "refcode_long": "The Acts of the Apostles, p. 316.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul urged his brethren to ask themselves what influence their words and deeds would have upon others and to do nothing, however innocent in itself, that would seem to <span class=\"page-break\" data-page=\"317\"></span> sanction idolatry or offend the scruples of those who might be weak in the faith. &ldquo;Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God. Give none offense, neither to the Jews, nor to the Gentiles, nor to the church of God.&rdquo;",
+    "puborder": 880,
+    "translations": [
+      {
+        "para_id": "13804.1052",
+        "lang": "bg",
+        "refcode": "Дa 122.6"
+      },
+      {
+        "para_id": "11590.1337",
+        "lang": "ce",
+        "refcode": "ABA 270.3"
+      },
+      {
+        "para_id": "11247.1278",
+        "lang": "cs",
+        "refcode": "PNL 182.2"
+      },
+      {
+        "para_id": "813.1396",
+        "lang": "de",
+        "refcode": "WA 316.1"
+      },
+      {
+        "para_id": "198.1311",
+        "lang": "es",
+        "refcode": "HAp 255.1"
+      },
+      {
+        "para_id": "158.1327",
+        "lang": "fr",
+        "refcode": "CP 281.3"
+      },
+      {
+        "para_id": "11938.1215",
+        "lang": "hu",
+        "refcode": "AT 209.1"
+      },
+      {
+        "para_id": "12410.1305",
+        "lang": "id",
+        "refcode": "KR 266.2"
+      },
+      {
+        "para_id": "882.1215",
+        "lang": "it",
+        "refcode": "UVI 198.3"
+      },
+      {
+        "para_id": "11660.1526",
+        "lang": "ja",
+        "refcode": "AAJ 341.1"
+      },
+      {
+        "para_id": "12335.1166",
+        "lang": "nb",
+        "refcode": "AV 184.2"
+      },
+      {
+        "para_id": "12008.1089",
+        "lang": "pl",
+        "refcode": "DA 173.2"
+      },
+      {
+        "para_id": "1806.1153",
+        "lang": "pt",
+        "refcode": "AA 165.6"
+      },
+      {
+        "para_id": "2013.1387",
+        "lang": "ro",
+        "refcode": "FA 316.2"
+      },
+      {
+        "para_id": "1785.1363",
+        "lang": "ru",
+        "refcode": "ДА 316.2"
+      },
+      {
+        "para_id": "13874.1167",
+        "lang": "rw",
+        "refcode": "INI 195.1"
+      },
+      {
+        "para_id": "11182.1151",
+        "lang": "sk",
+        "refcode": "SA 190.2"
+      },
+      {
+        "para_id": "11904.1261",
+        "lang": "tl",
+        "refcode": "AGA 240.3"
+      },
+      {
+        "para_id": "11875.1222",
+        "lang": "uk",
+        "refcode": "ДА 217.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1402",
+    "id_prev": "127.1399",
+    "id_next": "127.1403",
+    "refcode_1": "AA",
+    "refcode_2": "317",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 317.1",
+    "refcode_long": "The Acts of the Apostles, p. 317.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle&apos;s words of warning to the Corinthian church are applicable to all time and are especially adapted to our day. By idolatry he meant not only the worship of idols, but self-serving, love of ease, the gratification of appetite and passion. A mere profession of faith in Christ, a boastful knowledge of the truth, does not make a man a Christian. A religion that seeks only to gratify the eye, the ear, and the taste, or that sanctions self-indulgence, is not the religion of Christ.",
+    "puborder": 881,
+    "translations": [
+      {
+        "para_id": "13804.1055",
+        "lang": "bg",
+        "refcode": "Дa 123.1"
+      },
+      {
+        "para_id": "11590.1340",
+        "lang": "ce",
+        "refcode": "ABA 271.1"
+      },
+      {
+        "para_id": "11247.1279",
+        "lang": "cs",
+        "refcode": "PNL 182.3"
+      },
+      {
+        "para_id": "813.1397",
+        "lang": "de",
+        "refcode": "WA 316.2"
+      },
+      {
+        "para_id": "198.1312",
+        "lang": "es",
+        "refcode": "HAp 255.2"
+      },
+      {
+        "para_id": "158.1328",
+        "lang": "fr",
+        "refcode": "CP 281.4"
+      },
+      {
+        "para_id": "11938.1216",
+        "lang": "hu",
+        "refcode": "AT 209.2"
+      },
+      {
+        "para_id": "12410.1308",
+        "lang": "id",
+        "refcode": "KR 267.1"
+      },
+      {
+        "para_id": "882.1216",
+        "lang": "it",
+        "refcode": "UVI 198.4"
+      },
+      {
+        "para_id": "11660.1527",
+        "lang": "ja",
+        "refcode": "AAJ 341.2"
+      },
+      {
+        "para_id": "12335.1167",
+        "lang": "nb",
+        "refcode": "AV 184.3"
+      },
+      {
+        "para_id": "12008.1090",
+        "lang": "pl",
+        "refcode": "DA 173.3"
+      },
+      {
+        "para_id": "1806.1153",
+        "lang": "pt",
+        "refcode": "AA 165.6"
+      },
+      {
+        "para_id": "2013.1390",
+        "lang": "ro",
+        "refcode": "FA 317.1"
+      },
+      {
+        "para_id": "1785.1366",
+        "lang": "ru",
+        "refcode": "ДА 317.1"
+      },
+      {
+        "para_id": "13874.1168",
+        "lang": "rw",
+        "refcode": "INI 195.2"
+      },
+      {
+        "para_id": "11182.1152",
+        "lang": "sk",
+        "refcode": "SA 190.3"
+      },
+      {
+        "para_id": "11904.1262",
+        "lang": "tl",
+        "refcode": "AGA 240.4"
+      },
+      {
+        "para_id": "11875.1223",
+        "lang": "uk",
+        "refcode": "ДА 217.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1403",
+    "id_prev": "127.1402",
+    "id_next": "127.1406",
+    "refcode_1": "AA",
+    "refcode_2": "317",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 317.2",
+    "refcode_long": "The Acts of the Apostles, p. 317.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "By a comparison of the church with the human body, the apostle aptly illustrated the close and harmonious relationship that should exist among all members of the church of Christ. &ldquo;By one Spirit,&rdquo; he wrote, &ldquo;are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit. For the body is not one member, but many. If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body? And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body? If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling? But now hath God set the members every one of them in the body, as it hath pleased Him. And if they were all one member, where were the body? <span class=\"page-break\" data-page=\"318\"></span> But now are they many members, yet but one body. And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.... God hath tempered the body together, having given more abundant honor to that part which lacked: that there should be no schism in the body; but that the members should have the same care one for another. And whether one member suffer, all the members suffer with it; or one member be honored, all the members rejoice with it. Now ye are the body of Christ, and members in particular.&rdquo;",
+    "puborder": 882,
+    "translations": [
+      {
+        "para_id": "13804.1056",
+        "lang": "bg",
+        "refcode": "Дa 123.2"
+      },
+      {
+        "para_id": "11590.1341",
+        "lang": "ce",
+        "refcode": "ABA 271.2"
+      },
+      {
+        "para_id": "11247.1281",
+        "lang": "cs",
+        "refcode": "PNL 182.4"
+      },
+      {
+        "para_id": "813.1398",
+        "lang": "de",
+        "refcode": "WA 316.3"
+      },
+      {
+        "para_id": "198.1313",
+        "lang": "es",
+        "refcode": "HAp 255.3"
+      },
+      {
+        "para_id": "158.1331",
+        "lang": "fr",
+        "refcode": "CP 282.1"
+      },
+      {
+        "para_id": "11938.1217",
+        "lang": "hu",
+        "refcode": "AT 209.3"
+      },
+      {
+        "para_id": "12410.1309",
+        "lang": "id",
+        "refcode": "KR 267.2"
+      },
+      {
+        "para_id": "882.1219",
+        "lang": "it",
+        "refcode": "UVI 199.1"
+      },
+      {
+        "para_id": "11660.1528",
+        "lang": "ja",
+        "refcode": "AAJ 341.3"
+      },
+      {
+        "para_id": "12335.1168",
+        "lang": "nb",
+        "refcode": "AV 184.4"
+      },
+      {
+        "para_id": "12008.1091",
+        "lang": "pl",
+        "refcode": "DA 173.4"
+      },
+      {
+        "para_id": "1806.1153",
+        "lang": "pt",
+        "refcode": "AA 165.6"
+      },
+      {
+        "para_id": "2013.1391",
+        "lang": "ro",
+        "refcode": "FA 317.2"
+      },
+      {
+        "para_id": "1785.1367",
+        "lang": "ru",
+        "refcode": "ДА 317.2"
+      },
+      {
+        "para_id": "13874.1169",
+        "lang": "rw",
+        "refcode": "INI 195.3"
+      },
+      {
+        "para_id": "11182.1153",
+        "lang": "sk",
+        "refcode": "SA 190.4"
+      },
+      {
+        "para_id": "11904.1265",
+        "lang": "tl",
+        "refcode": "AGA 241.1"
+      },
+      {
+        "para_id": "11875.1226",
+        "lang": "uk",
+        "refcode": "ДА 218.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1406",
+    "id_prev": "127.1403",
+    "id_next": "127.1407",
+    "refcode_1": "AA",
+    "refcode_2": "318",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 318.1",
+    "refcode_long": "The Acts of the Apostles, p. 318.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "And then, in words which from that day to this have been to men and women a source of inspiration and encouragement, Paul set forth the importance of that love which should be cherished by the followers of Christ: &ldquo;Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal. And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing. And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.&rdquo;",
+    "puborder": 883,
+    "translations": [
+      {
+        "para_id": "13804.1057",
+        "lang": "bg",
+        "refcode": "Дa 123.3"
+      },
+      {
+        "para_id": "11590.1344",
+        "lang": "ce",
+        "refcode": "ABA 272.1"
+      },
+      {
+        "para_id": "11247.1284",
+        "lang": "cs",
+        "refcode": "PNL 183.1"
+      },
+      {
+        "para_id": "813.1401",
+        "lang": "de",
+        "refcode": "WA 317.1"
+      },
+      {
+        "para_id": "198.1316",
+        "lang": "es",
+        "refcode": "HAp 256.1"
+      },
+      {
+        "para_id": "158.1332",
+        "lang": "fr",
+        "refcode": "CP 282.2"
+      },
+      {
+        "para_id": "11938.1220",
+        "lang": "hu",
+        "refcode": "AT 210.1"
+      },
+      {
+        "para_id": "12410.1311",
+        "lang": "id",
+        "refcode": "KR 268.1"
+      },
+      {
+        "para_id": "882.1220",
+        "lang": "it",
+        "refcode": "UVI 199.2"
+      },
+      {
+        "para_id": "11660.1531",
+        "lang": "ja",
+        "refcode": "AAJ 342.1"
+      },
+      {
+        "para_id": "12335.1171",
+        "lang": "nb",
+        "refcode": "AV 185.1"
+      },
+      {
+        "para_id": "12008.1093",
+        "lang": "pl",
+        "refcode": "DA 174.1"
+      },
+      {
+        "para_id": "1806.1158",
+        "lang": "pt",
+        "refcode": "AA 166.3"
+      },
+      {
+        "para_id": "2013.1394",
+        "lang": "ro",
+        "refcode": "FA 318.1"
+      },
+      {
+        "para_id": "1785.1370",
+        "lang": "ru",
+        "refcode": "ДА 318.1"
+      },
+      {
+        "para_id": "13874.1171",
+        "lang": "rw",
+        "refcode": "INI 196.1"
+      },
+      {
+        "para_id": "11182.1156",
+        "lang": "sk",
+        "refcode": "SA 191.1"
+      },
+      {
+        "para_id": "11904.1266",
+        "lang": "tl",
+        "refcode": "AGA 241.2"
+      },
+      {
+        "para_id": "11875.1227",
+        "lang": "uk",
+        "refcode": "ДА 218.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1407",
+    "id_prev": "127.1406",
+    "id_next": "127.1410",
+    "refcode_1": "AA",
+    "refcode_2": "318",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 318.2",
+    "refcode_long": "The Acts of the Apostles, p. 318.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "No matter how high the profession, he whose heart is not filled with love for God and his fellow men is not a true disciple of Christ. Though he should possess great faith and have power even to work miracles, yet without love his faith would be worthless. He might display great liberality; but should he, from some other motive than <span class=\"page-break\" data-page=\"319\"></span> genuine love, bestow all his goods to feed the poor, the act would not commend him to the favor of God. In his zeal he might even meet a martyr&apos;s death, yet if not actuated by love, he would be regarded by God as a deluded enthusiast or an ambitious hypocrite.",
+    "puborder": 884,
+    "translations": [
+      {
+        "para_id": "13804.1058",
+        "lang": "bg",
+        "refcode": "Дa 123.4"
+      },
+      {
+        "para_id": "11590.1345",
+        "lang": "ce",
+        "refcode": "ABA 272.2"
+      },
+      {
+        "para_id": "11247.1285",
+        "lang": "cs",
+        "refcode": "PNL 183.2"
+      },
+      {
+        "para_id": "813.1402",
+        "lang": "de",
+        "refcode": "WA 317.2"
+      },
+      {
+        "para_id": "198.1317",
+        "lang": "es",
+        "refcode": "HAp 256.2"
+      },
+      {
+        "para_id": "158.1335",
+        "lang": "fr",
+        "refcode": "CP 283.1"
+      },
+      {
+        "para_id": "11938.1221",
+        "lang": "hu",
+        "refcode": "AT 210.2"
+      },
+      {
+        "para_id": "12410.1312",
+        "lang": "id",
+        "refcode": "KR 268.2"
+      },
+      {
+        "para_id": "882.1221",
+        "lang": "it",
+        "refcode": "UVI 199.3"
+      },
+      {
+        "para_id": "11660.1534",
+        "lang": "ja",
+        "refcode": "AAJ 343.1"
+      },
+      {
+        "para_id": "12335.1172",
+        "lang": "nb",
+        "refcode": "AV 185.2"
+      },
+      {
+        "para_id": "12008.1094",
+        "lang": "pl",
+        "refcode": "DA 174.2"
+      },
+      {
+        "para_id": "1806.1159",
+        "lang": "pt",
+        "refcode": "AA 166.4"
+      },
+      {
+        "para_id": "2013.1395",
+        "lang": "ro",
+        "refcode": "FA 318.2"
+      },
+      {
+        "para_id": "1785.1371",
+        "lang": "ru",
+        "refcode": "ДА 318.2"
+      },
+      {
+        "para_id": "13874.1172",
+        "lang": "rw",
+        "refcode": "INI 196.2"
+      },
+      {
+        "para_id": "11182.1157",
+        "lang": "sk",
+        "refcode": "SA 191.2"
+      },
+      {
+        "para_id": "11904.1269",
+        "lang": "tl",
+        "refcode": "AGA 242.1"
+      },
+      {
+        "para_id": "11875.1228",
+        "lang": "uk",
+        "refcode": "ДА 218.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1410",
+    "id_prev": "127.1407",
+    "id_next": "127.1411",
+    "refcode_1": "AA",
+    "refcode_2": "319",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 319.1",
+    "refcode_long": "The Acts of the Apostles, p. 319.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up.&rdquo; The purest joy springs from the deepest humiliation. The strongest and noblest characters are built on the foundation of patience, love, and submission to God&apos;s will.",
+    "puborder": 885,
+    "translations": [
+      {
+        "para_id": "13804.1059",
+        "lang": "bg",
+        "refcode": "Дa 123.5"
+      },
+      {
+        "para_id": "11590.1346",
+        "lang": "ce",
+        "refcode": "ABA 272.3"
+      },
+      {
+        "para_id": "11247.1286",
+        "lang": "cs",
+        "refcode": "PNL 183.3"
+      },
+      {
+        "para_id": "813.1405",
+        "lang": "de",
+        "refcode": "WA 318.1"
+      },
+      {
+        "para_id": "198.1318",
+        "lang": "es",
+        "refcode": "HAp 256.3"
+      },
+      {
+        "para_id": "158.1337",
+        "lang": "fr",
+        "refcode": "CP 283.3"
+      },
+      {
+        "para_id": "158.1336",
+        "lang": "fr",
+        "refcode": "CP 283.2"
+      },
+      {
+        "para_id": "11938.1222",
+        "lang": "hu",
+        "refcode": "AT 210.3"
+      },
+      {
+        "para_id": "12410.1313",
+        "lang": "id",
+        "refcode": "KR 268.3"
+      },
+      {
+        "para_id": "882.1224",
+        "lang": "it",
+        "refcode": "UVI 200.1"
+      },
+      {
+        "para_id": "11660.1535",
+        "lang": "ja",
+        "refcode": "AAJ 343.2"
+      },
+      {
+        "para_id": "12335.1173",
+        "lang": "nb",
+        "refcode": "AV 185.3"
+      },
+      {
+        "para_id": "12008.1095",
+        "lang": "pl",
+        "refcode": "DA 174.3"
+      },
+      {
+        "para_id": "1806.1160",
+        "lang": "pt",
+        "refcode": "AA 166.5"
+      },
+      {
+        "para_id": "2013.1398",
+        "lang": "ro",
+        "refcode": "FA 319.1"
+      },
+      {
+        "para_id": "1785.1374",
+        "lang": "ru",
+        "refcode": "ДА 319.1"
+      },
+      {
+        "para_id": "13874.1172",
+        "lang": "rw",
+        "refcode": "INI 196.2"
+      },
+      {
+        "para_id": "11904.1270",
+        "lang": "tl",
+        "refcode": "AGA 242.2"
+      },
+      {
+        "para_id": "11875.1231",
+        "lang": "uk",
+        "refcode": "ДА 219.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1411",
+    "id_prev": "127.1410",
+    "id_next": "127.1412",
+    "refcode_1": "AA",
+    "refcode_2": "319",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 319.2",
+    "refcode_long": "The Acts of the Apostles, p. 319.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Charity &ldquo;doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil.&rdquo; Christ-like love places the most favorable construction on the motives and acts of others. It does not needlessly expose their faults; it does not listen eagerly to unfavorable reports, but seeks rather to bring to mind the good qualities of others.",
+    "puborder": 886,
+    "translations": [
+      {
+        "para_id": "13804.1060",
+        "lang": "bg",
+        "refcode": "Дa 123.6"
+      },
+      {
+        "para_id": "11590.1347",
+        "lang": "ce",
+        "refcode": "ABA 272.4"
+      },
+      {
+        "para_id": "11247.1287",
+        "lang": "cs",
+        "refcode": "PNL 183.4"
+      },
+      {
+        "para_id": "813.1406",
+        "lang": "de",
+        "refcode": "WA 318.2"
+      },
+      {
+        "para_id": "198.1321",
+        "lang": "es",
+        "refcode": "HAp 257.1"
+      },
+      {
+        "para_id": "158.1338",
+        "lang": "fr",
+        "refcode": "CP 283.4"
+      },
+      {
+        "para_id": "11938.1223",
+        "lang": "hu",
+        "refcode": "AT 210.4"
+      },
+      {
+        "para_id": "12410.1314",
+        "lang": "id",
+        "refcode": "KR 268.4"
+      },
+      {
+        "para_id": "882.1225",
+        "lang": "it",
+        "refcode": "UVI 200.2"
+      },
+      {
+        "para_id": "11660.1536",
+        "lang": "ja",
+        "refcode": "AAJ 343.3"
+      },
+      {
+        "para_id": "12335.1174",
+        "lang": "nb",
+        "refcode": "AV 185.4"
+      },
+      {
+        "para_id": "12008.1096",
+        "lang": "pl",
+        "refcode": "DA 174.4"
+      },
+      {
+        "para_id": "1806.1161",
+        "lang": "pt",
+        "refcode": "AA 166.6"
+      },
+      {
+        "para_id": "2013.1399",
+        "lang": "ro",
+        "refcode": "FA 319.2"
+      },
+      {
+        "para_id": "1785.1375",
+        "lang": "ru",
+        "refcode": "ДА 319.2"
+      },
+      {
+        "para_id": "13874.1173",
+        "lang": "rw",
+        "refcode": "INI 196.3"
+      },
+      {
+        "para_id": "11182.1158",
+        "lang": "sk",
+        "refcode": "SA 191.3"
+      },
+      {
+        "para_id": "11904.1271",
+        "lang": "tl",
+        "refcode": "AGA 242.3"
+      },
+      {
+        "para_id": "11875.1232",
+        "lang": "uk",
+        "refcode": "ДА 219.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1412",
+    "id_prev": "127.1411",
+    "id_next": "127.1413",
+    "refcode_1": "AA",
+    "refcode_2": "319",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 319.3",
+    "refcode_long": "The Acts of the Apostles, p. 319.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Love &ldquo;rejoiceth not in iniquity, but rejoiceth in the truth; beareth all things, believeth all things, hopeth all things, endureth all things.&rdquo; This love &ldquo;never faileth.&rdquo; It can never lose its value; it is a heavenly attribute. As a precious treasure, it will be carried by its possessor through the portals of the city of God.",
+    "puborder": 887,
+    "translations": [
+      {
+        "para_id": "13804.1063",
+        "lang": "bg",
+        "refcode": "Дa 124.1"
+      },
+      {
+        "para_id": "11590.1350",
+        "lang": "ce",
+        "refcode": "ABA 273.1"
+      },
+      {
+        "para_id": "11247.1288",
+        "lang": "cs",
+        "refcode": "PNL 183.5"
+      },
+      {
+        "para_id": "813.1407",
+        "lang": "de",
+        "refcode": "WA 318.3"
+      },
+      {
+        "para_id": "198.1322",
+        "lang": "es",
+        "refcode": "HAp 257.2"
+      },
+      {
+        "para_id": "158.1339",
+        "lang": "fr",
+        "refcode": "CP 283.5"
+      },
+      {
+        "para_id": "11938.1224",
+        "lang": "hu",
+        "refcode": "AT 210.5"
+      },
+      {
+        "para_id": "12410.1317",
+        "lang": "id",
+        "refcode": "KR 269.1"
+      },
+      {
+        "para_id": "882.1226",
+        "lang": "it",
+        "refcode": "UVI 200.3"
+      },
+      {
+        "para_id": "11660.1538",
+        "lang": "ja",
+        "refcode": "AAJ 344.1"
+      },
+      {
+        "para_id": "12335.1175",
+        "lang": "nb",
+        "refcode": "AV 185.5"
+      },
+      {
+        "para_id": "12008.1097",
+        "lang": "pl",
+        "refcode": "DA 174.5"
+      },
+      {
+        "para_id": "1806.1163",
+        "lang": "pt",
+        "refcode": "AA 167.1"
+      },
+      {
+        "para_id": "2013.1400",
+        "lang": "ro",
+        "refcode": "FA 319.3"
+      },
+      {
+        "para_id": "1785.1376",
+        "lang": "ru",
+        "refcode": "ДА 319.3"
+      },
+      {
+        "para_id": "13874.1174",
+        "lang": "rw",
+        "refcode": "INI 196.4"
+      },
+      {
+        "para_id": "11182.1159",
+        "lang": "sk",
+        "refcode": "SA 191.4"
+      },
+      {
+        "para_id": "11904.1272",
+        "lang": "tl",
+        "refcode": "AGA 242.4"
+      },
+      {
+        "para_id": "11875.1233",
+        "lang": "uk",
+        "refcode": "ДА 219.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1413",
+    "id_prev": "127.1412",
+    "id_next": "127.1414",
+    "refcode_1": "AA",
+    "refcode_2": "319",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 319.4",
+    "refcode_long": "The Acts of the Apostles, p. 319.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;And now abideth faith, hope, charity, these three; but the greatest of these is charity.&rdquo;",
+    "puborder": 888,
+    "translations": [
+      {
+        "para_id": "13804.1064",
+        "lang": "bg",
+        "refcode": "Дa 124.2"
+      },
+      {
+        "para_id": "11590.1351",
+        "lang": "ce",
+        "refcode": "ABA 273.2"
+      },
+      {
+        "para_id": "11247.1289",
+        "lang": "cs",
+        "refcode": "PNL 183.6"
+      },
+      {
+        "para_id": "813.1408",
+        "lang": "de",
+        "refcode": "WA 318.4"
+      },
+      {
+        "para_id": "198.1323",
+        "lang": "es",
+        "refcode": "HAp 257.3"
+      },
+      {
+        "para_id": "158.1342",
+        "lang": "fr",
+        "refcode": "CP 284.1"
+      },
+      {
+        "para_id": "11938.1226",
+        "lang": "hu",
+        "refcode": "AT 211.1"
+      },
+      {
+        "para_id": "12410.1318",
+        "lang": "id",
+        "refcode": "KR 269.2"
+      },
+      {
+        "para_id": "882.1227",
+        "lang": "it",
+        "refcode": "UVI 200.4"
+      },
+      {
+        "para_id": "11660.1539",
+        "lang": "ja",
+        "refcode": "AAJ 344.2"
+      },
+      {
+        "para_id": "12335.1178",
+        "lang": "nb",
+        "refcode": "AV 186.1"
+      },
+      {
+        "para_id": "12008.1098",
+        "lang": "pl",
+        "refcode": "DA 174.6"
+      },
+      {
+        "para_id": "1806.1163",
+        "lang": "pt",
+        "refcode": "AA 167.1"
+      },
+      {
+        "para_id": "2013.1401",
+        "lang": "ro",
+        "refcode": "FA 319.4"
+      },
+      {
+        "para_id": "1785.1377",
+        "lang": "ru",
+        "refcode": "ДА 319.4"
+      },
+      {
+        "para_id": "13874.1175",
+        "lang": "rw",
+        "refcode": "INI 196.5"
+      },
+      {
+        "para_id": "11182.1160",
+        "lang": "sk",
+        "refcode": "SA 191.5"
+      },
+      {
+        "para_id": "11904.1275",
+        "lang": "tl",
+        "refcode": "AGA 243.1"
+      },
+      {
+        "para_id": "11875.1234",
+        "lang": "uk",
+        "refcode": "ДА 219.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1414",
+    "id_prev": "127.1413",
+    "id_next": "127.1417",
+    "refcode_1": "AA",
+    "refcode_2": "319",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AA 319.5",
+    "refcode_long": "The Acts of the Apostles, p. 319.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the lowering of the moral standard among the Corinthian believers, there were those who had given up some of the fundamental features of their faith. Some had gone so far as to deny the doctrine of the resurrection. Paul met this heresy with a very plain testimony regarding the <span class=\"page-break\" data-page=\"320\"></span> unmistakable evidence of the resurrection of Christ. He declared that Christ, after His death, &ldquo;rose again the third day according to the Scriptures,&rdquo; after which &ldquo;He was seen of Cephas, then of the Twelve: after that, He was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep. After that, He was seen of James; then of all the apostles. And last of all He was seen of me also.&rdquo;",
+    "puborder": 889,
+    "translations": [
+      {
+        "para_id": "13804.1065",
+        "lang": "bg",
+        "refcode": "Дa 124.3"
+      },
+      {
+        "para_id": "11590.1352",
+        "lang": "ce",
+        "refcode": "ABA 273.3"
+      },
+      {
+        "para_id": "11247.1291",
+        "lang": "cs",
+        "refcode": "PNL 183.7"
+      },
+      {
+        "para_id": "813.1409",
+        "lang": "de",
+        "refcode": "WA 318.5"
+      },
+      {
+        "para_id": "198.1324",
+        "lang": "es",
+        "refcode": "HAp 257.4"
+      },
+      {
+        "para_id": "158.1343",
+        "lang": "fr",
+        "refcode": "CP 284.2"
+      },
+      {
+        "para_id": "11938.1227",
+        "lang": "hu",
+        "refcode": "AT 211.2"
+      },
+      {
+        "para_id": "12410.1319",
+        "lang": "id",
+        "refcode": "KR 269.3"
+      },
+      {
+        "para_id": "882.1228",
+        "lang": "it",
+        "refcode": "UVI 200.5"
+      },
+      {
+        "para_id": "11660.1540",
+        "lang": "ja",
+        "refcode": "AAJ 344.3"
+      },
+      {
+        "para_id": "12335.1179",
+        "lang": "nb",
+        "refcode": "AV 186.2"
+      },
+      {
+        "para_id": "12008.1099",
+        "lang": "pl",
+        "refcode": "DA 174.7"
+      },
+      {
+        "para_id": "1806.1164",
+        "lang": "pt",
+        "refcode": "AA 167.2"
+      },
+      {
+        "para_id": "2013.1402",
+        "lang": "ro",
+        "refcode": "FA 319.5"
+      },
+      {
+        "para_id": "1785.1378",
+        "lang": "ru",
+        "refcode": "ДА 319.5"
+      },
+      {
+        "para_id": "13874.1177",
+        "lang": "rw",
+        "refcode": "INI 197.1"
+      },
+      {
+        "para_id": "11182.1161",
+        "lang": "sk",
+        "refcode": "SA 191.6"
+      },
+      {
+        "para_id": "11904.1276",
+        "lang": "tl",
+        "refcode": "AGA 243.2"
+      },
+      {
+        "para_id": "11875.1235",
+        "lang": "uk",
+        "refcode": "ДА 219.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1417",
+    "id_prev": "127.1414",
+    "id_next": "127.1418",
+    "refcode_1": "AA",
+    "refcode_2": "320",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 320.1",
+    "refcode_long": "The Acts of the Apostles, p. 320.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "With convincing power the apostle set forth the great truth of the resurrection. &ldquo;If there be no resurrection of the dead,&rdquo; he argued, &ldquo;then is Christ not risen: and if Christ be not risen, then is our preaching vain, and your faith is also vain. Yea, and we are found false witnesses of God; because we have testified of God that He raised up Christ: whom He raised not up, if so be that the dead rise not. For if the dead rise not, then is not Christ raised: and if Christ be not raised, your faith is vain; ye are yet in your sins. Then they also which are fallen asleep in Christ are perished. If in this life only we have hope in Christ, we are of all men most miserable. But now is Christ risen from the dead, and become the first fruits of them that slept.&rdquo;",
+    "puborder": 890,
+    "translations": [
+      {
+        "para_id": "13804.1066",
+        "lang": "bg",
+        "refcode": "Дa 124.4"
+      },
+      {
+        "para_id": "11590.1353",
+        "lang": "ce",
+        "refcode": "ABA 273.4"
+      },
+      {
+        "para_id": "11247.1294",
+        "lang": "cs",
+        "refcode": "PNL 184.1"
+      },
+      {
+        "para_id": "813.1412",
+        "lang": "de",
+        "refcode": "WA 319.1"
+      },
+      {
+        "para_id": "198.1325",
+        "lang": "es",
+        "refcode": "HAp 257.5"
+      },
+      {
+        "para_id": "158.1344",
+        "lang": "fr",
+        "refcode": "CP 284.3"
+      },
+      {
+        "para_id": "11938.1228",
+        "lang": "hu",
+        "refcode": "AT 211.3"
+      },
+      {
+        "para_id": "12410.1320",
+        "lang": "id",
+        "refcode": "KR 269.4"
+      },
+      {
+        "para_id": "882.1229",
+        "lang": "it",
+        "refcode": "UVI 200.6"
+      },
+      {
+        "para_id": "11660.1541",
+        "lang": "ja",
+        "refcode": "AAJ 344.4"
+      },
+      {
+        "para_id": "12335.1180",
+        "lang": "nb",
+        "refcode": "AV 186.3"
+      },
+      {
+        "para_id": "12008.1102",
+        "lang": "pl",
+        "refcode": "DA 175.1"
+      },
+      {
+        "para_id": "1806.1167",
+        "lang": "pt",
+        "refcode": "AA 167.5"
+      },
+      {
+        "para_id": "2013.1405",
+        "lang": "ro",
+        "refcode": "FA 320.1"
+      },
+      {
+        "para_id": "1785.1381",
+        "lang": "ru",
+        "refcode": "ДА 320.1"
+      },
+      {
+        "para_id": "13874.1178",
+        "lang": "rw",
+        "refcode": "INI 197.2"
+      },
+      {
+        "para_id": "11182.1164",
+        "lang": "sk",
+        "refcode": "SA 192.1"
+      },
+      {
+        "para_id": "11904.1277",
+        "lang": "tl",
+        "refcode": "AGA 243.3"
+      },
+      {
+        "para_id": "11875.1236",
+        "lang": "uk",
+        "refcode": "ДА 219.6"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1418",
+    "id_prev": "127.1417",
+    "id_next": "127.1421",
+    "refcode_1": "AA",
+    "refcode_2": "320",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 320.2",
+    "refcode_long": "The Acts of the Apostles, p. 320.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The apostle carried the minds of the Corinthian brethren forward to the triumphs of the resurrection morn, when all the sleeping saints are to be raised, henceforth to live forever with their Lord. &ldquo;Behold,&rdquo; the apostle declared, &ldquo;I show you a mystery: We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. For this <span class=\"page-break\" data-page=\"321\"></span> corruptible must put on incorruption, and this mortal must put on immortality. So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. O death, where is thy sting? O grave, where is thy victory? ... Thanks be to God, which giveth us the victory through our Lord Jesus Christ.&rdquo;",
+    "puborder": 891,
+    "translations": [
+      {
+        "para_id": "13804.1067",
+        "lang": "bg",
+        "refcode": "Дa 124.5"
+      },
+      {
+        "para_id": "11590.1356",
+        "lang": "ce",
+        "refcode": "ABA 274.1"
+      },
+      {
+        "para_id": "11247.1295",
+        "lang": "cs",
+        "refcode": "PNL 184.2"
+      },
+      {
+        "para_id": "813.1413",
+        "lang": "de",
+        "refcode": "WA 319.2"
+      },
+      {
+        "para_id": "198.1328",
+        "lang": "es",
+        "refcode": "HAp 258.1"
+      },
+      {
+        "para_id": "158.1345",
+        "lang": "fr",
+        "refcode": "CP 284.4"
+      },
+      {
+        "para_id": "11938.1229",
+        "lang": "hu",
+        "refcode": "AT 211.4"
+      },
+      {
+        "para_id": "12410.1323",
+        "lang": "id",
+        "refcode": "KR 270.1"
+      },
+      {
+        "para_id": "882.1232",
+        "lang": "it",
+        "refcode": "UVI 201.1"
+      },
+      {
+        "para_id": "11660.1544",
+        "lang": "ja",
+        "refcode": "AAJ 345.1"
+      },
+      {
+        "para_id": "12335.1181",
+        "lang": "nb",
+        "refcode": "AV 186.4"
+      },
+      {
+        "para_id": "12008.1103",
+        "lang": "pl",
+        "refcode": "DA 175.2"
+      },
+      {
+        "para_id": "1806.1168",
+        "lang": "pt",
+        "refcode": "AA 167.6"
+      },
+      {
+        "para_id": "2013.1406",
+        "lang": "ro",
+        "refcode": "FA 320.2"
+      },
+      {
+        "para_id": "1785.1382",
+        "lang": "ru",
+        "refcode": "ДА 320.2"
+      },
+      {
+        "para_id": "13874.1179",
+        "lang": "rw",
+        "refcode": "INI 197.3"
+      },
+      {
+        "para_id": "11182.1165",
+        "lang": "sk",
+        "refcode": "SA 192.2"
+      },
+      {
+        "para_id": "11904.1278",
+        "lang": "tl",
+        "refcode": "AGA 243.4"
+      },
+      {
+        "para_id": "11875.1239",
+        "lang": "uk",
+        "refcode": "ДА 220.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1421",
+    "id_prev": "127.1418",
+    "id_next": "127.1422",
+    "refcode_1": "AA",
+    "refcode_2": "321",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 321.1",
+    "refcode_long": "The Acts of the Apostles, p. 321.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Glorious is the triumph awaiting the faithful. The apostle, realizing the possibilities before the Corinthian believers, sought to set before them that which uplifts from the selfish and the sensual, and glorifies life with the hope of immortality. Earnestly he exhorted them to be true to their high calling in Christ. &ldquo;My beloved brethren,&rdquo; he pleaded, &ldquo;be ye steadfast, unmovable, always abounding in the work of the Lord, forasmuch as ye know that your labor is not in vain in the Lord.&rdquo;",
+    "puborder": 892,
+    "translations": [
+      {
+        "para_id": "13804.1068",
+        "lang": "bg",
+        "refcode": "Дa 124.6"
+      },
+      {
+        "para_id": "11590.1357",
+        "lang": "ce",
+        "refcode": "ABA 274.2"
+      },
+      {
+        "para_id": "11247.1297",
+        "lang": "cs",
+        "refcode": "PNL 184.3"
+      },
+      {
+        "para_id": "813.1416",
+        "lang": "de",
+        "refcode": "WA 320.1"
+      },
+      {
+        "para_id": "198.1329",
+        "lang": "es",
+        "refcode": "HAp 258.2"
+      },
+      {
+        "para_id": "158.1348",
+        "lang": "fr",
+        "refcode": "CP 285.1"
+      },
+      {
+        "para_id": "11938.1232",
+        "lang": "hu",
+        "refcode": "AT 212.1"
+      },
+      {
+        "para_id": "12410.1324",
+        "lang": "id",
+        "refcode": "KR 270.2"
+      },
+      {
+        "para_id": "882.1233",
+        "lang": "it",
+        "refcode": "UVI 201.2"
+      },
+      {
+        "para_id": "11660.1547",
+        "lang": "ja",
+        "refcode": "AAJ 346.1"
+      },
+      {
+        "para_id": "12335.1182",
+        "lang": "nb",
+        "refcode": "AV 186.5"
+      },
+      {
+        "para_id": "12008.1104",
+        "lang": "pl",
+        "refcode": "DA 175.3"
+      },
+      {
+        "para_id": "1806.1168",
+        "lang": "pt",
+        "refcode": "AA 167.6"
+      },
+      {
+        "para_id": "2013.1409",
+        "lang": "ro",
+        "refcode": "FA 321.1"
+      },
+      {
+        "para_id": "1785.1385",
+        "lang": "ru",
+        "refcode": "ДА 321.1"
+      },
+      {
+        "para_id": "13874.1180",
+        "lang": "rw",
+        "refcode": "INI 197.4"
+      },
+      {
+        "para_id": "11182.1166",
+        "lang": "sk",
+        "refcode": "SA 192.3"
+      },
+      {
+        "para_id": "11904.1281",
+        "lang": "tl",
+        "refcode": "AGA 244.1"
+      },
+      {
+        "para_id": "11875.1240",
+        "lang": "uk",
+        "refcode": "ДА 220.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1422",
+    "id_prev": "127.1421",
+    "id_next": "127.1423",
+    "refcode_1": "AA",
+    "refcode_2": "321",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 321.2",
+    "refcode_long": "The Acts of the Apostles, p. 321.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Thus the apostle, in the most decided and impressive manner, endeavored to correct the false and dangerous ideas and practices that were prevailing in the Corinthian church. He spoke plainly, yet in love for their souls. In his warnings and reproofs, light from the throne of God was shining upon them, to reveal the hidden sins that were defiling their lives. How would it be received?",
+    "puborder": 893,
+    "translations": [
+      {
+        "para_id": "13804.1069",
+        "lang": "bg",
+        "refcode": "Дa 124.7"
+      },
+      {
+        "para_id": "11590.1358",
+        "lang": "ce",
+        "refcode": "ABA 274.3"
+      },
+      {
+        "para_id": "11247.1298",
+        "lang": "cs",
+        "refcode": "PNL 184.4"
+      },
+      {
+        "para_id": "813.1417",
+        "lang": "de",
+        "refcode": "WA 320.2"
+      },
+      {
+        "para_id": "198.1330",
+        "lang": "es",
+        "refcode": "HAp 258.3"
+      },
+      {
+        "para_id": "158.1349",
+        "lang": "fr",
+        "refcode": "CP 285.2"
+      },
+      {
+        "para_id": "11938.1233",
+        "lang": "hu",
+        "refcode": "AT 212.2"
+      },
+      {
+        "para_id": "12410.1326",
+        "lang": "id",
+        "refcode": "KR 271.1"
+      },
+      {
+        "para_id": "882.1234",
+        "lang": "it",
+        "refcode": "UVI 201.3"
+      },
+      {
+        "para_id": "11660.1548",
+        "lang": "ja",
+        "refcode": "AAJ 346.2"
+      },
+      {
+        "para_id": "12335.1185",
+        "lang": "nb",
+        "refcode": "AV 187.1"
+      },
+      {
+        "para_id": "12008.1105",
+        "lang": "pl",
+        "refcode": "DA 175.4"
+      },
+      {
+        "para_id": "1806.1168",
+        "lang": "pt",
+        "refcode": "AA 167.6"
+      },
+      {
+        "para_id": "2013.1410",
+        "lang": "ro",
+        "refcode": "FA 321.2"
+      },
+      {
+        "para_id": "1785.1386",
+        "lang": "ru",
+        "refcode": "ДА 321.2"
+      },
+      {
+        "para_id": "13874.1183",
+        "lang": "rw",
+        "refcode": "INI 198.1"
+      },
+      {
+        "para_id": "11182.1168",
+        "lang": "sk",
+        "refcode": "SA 193.1"
+      },
+      {
+        "para_id": "11904.1282",
+        "lang": "tl",
+        "refcode": "AGA 244.2"
+      },
+      {
+        "para_id": "11875.1241",
+        "lang": "uk",
+        "refcode": "ДА 220.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1423",
+    "id_prev": "127.1422",
+    "id_next": "127.1427",
+    "refcode_1": "AA",
+    "refcode_2": "321",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 321.3",
+    "refcode_long": "The Acts of the Apostles, p. 321.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "After the letter had been dispatched, Paul feared lest that which he had written might wound too deeply those whom he desired to benefit. He keenly dreaded a further alienation and sometimes longed to recall his words. Those who, like the apostle, have felt a responsibility for beloved <span class=\"page-break\" data-page=\"322\"></span> churches or institutions, can best appreciate his depression of spirit and self-accusing. The servants of God who bear the burden of His work for this time know something of the same experience of labor, conflict, and anxious care that fell to the lot of the great apostle. Burdened by divisions in the church, meeting with ingratitude and betrayal from some to whom he looked for sympathy and support, realizing the peril of the churches that harbored iniquity, compelled to bear a close, searching testimony in reproof of sin, he was at the same time weighed down with fear that he might have dealt with too great severity. With trembling anxiety he waited to receive some tidings as to the reception of his message.",
+    "puborder": 894,
+    "translations": [
+      {
+        "para_id": "13804.1072",
+        "lang": "bg",
+        "refcode": "Дa 125.1"
+      },
+      {
+        "para_id": "11590.1361",
+        "lang": "ce",
+        "refcode": "ABA 275.1"
+      },
+      {
+        "para_id": "11247.1300",
+        "lang": "cs",
+        "refcode": "PNL 185.1"
+      },
+      {
+        "para_id": "813.1418",
+        "lang": "de",
+        "refcode": "WA 320.3"
+      },
+      {
+        "para_id": "198.1333",
+        "lang": "es",
+        "refcode": "HAp 259.1"
+      },
+      {
+        "para_id": "158.1351",
+        "lang": "fr",
+        "refcode": "CP 285.4"
+      },
+      {
+        "para_id": "158.1350",
+        "lang": "fr",
+        "refcode": "CP 285.3"
+      },
+      {
+        "para_id": "11938.1234",
+        "lang": "hu",
+        "refcode": "AT 212.3"
+      },
+      {
+        "para_id": "12410.1327",
+        "lang": "id",
+        "refcode": "KR 271.2"
+      },
+      {
+        "para_id": "882.1235",
+        "lang": "it",
+        "refcode": "UVI 201.4"
+      },
+      {
+        "para_id": "11660.1549",
+        "lang": "ja",
+        "refcode": "AAJ 346.3"
+      },
+      {
+        "para_id": "12335.1186",
+        "lang": "nb",
+        "refcode": "AV 187.2"
+      },
+      {
+        "para_id": "12008.1107",
+        "lang": "pl",
+        "refcode": "DA 176.1"
+      },
+      {
+        "para_id": "1806.1174",
+        "lang": "pt",
+        "refcode": "AA 169"
+      },
+      {
+        "para_id": "2013.1411",
+        "lang": "ro",
+        "refcode": "FA 321.3"
+      },
+      {
+        "para_id": "1785.1387",
+        "lang": "ru",
+        "refcode": "ДА 321.3"
+      },
+      {
+        "para_id": "13874.1184",
+        "lang": "rw",
+        "refcode": "INI 198.2"
+      },
+      {
+        "para_id": "11182.1169",
+        "lang": "sk",
+        "refcode": "SA 193.2"
+      },
+      {
+        "para_id": "11904.1283",
+        "lang": "tl",
+        "refcode": "AGA 244.3"
+      },
+      {
+        "para_id": "11875.1243",
+        "lang": "uk",
+        "refcode": "ДА 221.1"
+      }
+    ]
+  }
+]

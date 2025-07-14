@@ -1,0 +1,2635 @@
+[
+  {
+    "para_id": "127.355",
+    "id_prev": "127.353",
+    "id_next": "127.2658",
+    "refcode_1": "AA",
+    "refcode_2": "87",
+    "refcode_3": "",
+    "refcode_4": "9",
+    "refcode_short": "AA 87",
+    "refcode_long": "The Acts of the Apostles, p. 87 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 9&mdash;The Seven Deacons",
+    "puborder": 215,
+    "translations": [
+      {
+        "para_id": "13804.262",
+        "lang": "bg",
+        "refcode": "Дa 33"
+      },
+      {
+        "para_id": "11590.340",
+        "lang": "ce",
+        "refcode": "ABA 75"
+      },
+      {
+        "para_id": "11247.319",
+        "lang": "cs",
+        "refcode": "PNL 50"
+      },
+      {
+        "para_id": "813.352",
+        "lang": "de",
+        "refcode": "WA 89"
+      },
+      {
+        "para_id": "198.348",
+        "lang": "es",
+        "refcode": "HAp 72"
+      },
+      {
+        "para_id": "158.333",
+        "lang": "fr",
+        "refcode": "CP 77"
+      },
+      {
+        "para_id": "11938.309",
+        "lang": "hu",
+        "refcode": "AT 59"
+      },
+      {
+        "para_id": "12410.324",
+        "lang": "id",
+        "refcode": "KR 73"
+      },
+      {
+        "para_id": "882.306",
+        "lang": "it",
+        "refcode": "UVI 55"
+      },
+      {
+        "para_id": "11660.432",
+        "lang": "ja",
+        "refcode": "AAJ 89"
+      },
+      {
+        "para_id": "12335.292",
+        "lang": "nb",
+        "refcode": "AV 51"
+      },
+      {
+        "para_id": "12008.281",
+        "lang": "pl",
+        "refcode": "DA 50"
+      },
+      {
+        "para_id": "1806.307",
+        "lang": "pt",
+        "refcode": "AA 51.4"
+      },
+      {
+        "para_id": "2013.345",
+        "lang": "ro",
+        "refcode": "FA 87"
+      },
+      {
+        "para_id": "1785.326",
+        "lang": "ru",
+        "refcode": "ДА 87"
+      },
+      {
+        "para_id": "13874.296",
+        "lang": "rw",
+        "refcode": "INI 58"
+      },
+      {
+        "para_id": "11182.288",
+        "lang": "sk",
+        "refcode": "SA 56"
+      },
+      {
+        "para_id": "11904.323",
+        "lang": "tl",
+        "refcode": "AGA 67"
+      },
+      {
+        "para_id": "11875.304",
+        "lang": "uk",
+        "refcode": "ДА 58"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2658",
+    "id_prev": "127.355",
+    "id_next": "127.356",
+    "refcode_1": "AA",
+    "refcode_2": "87",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "bibletext",
+    "content": "<span class=\"non-egw-comment\">This chapter is based on <span class=\"egwlink egwlink_bible\" title=\"Acts 6:1\" data-link=\"1965.55275\">Acts 6:1-7</span>.</span>",
+    "puborder": 216,
+    "translations": [
+      {
+        "para_id": "813.353",
+        "lang": "de",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11938.310",
+        "lang": "hu",
+        "refcode": "AT 59"
+      },
+      {
+        "para_id": "11660.433",
+        "lang": "ja",
+        "refcode": "AAJ 89.1"
+      },
+      {
+        "para_id": "1806.2144",
+        "lang": "pt",
+        "refcode": "AA 307.2"
+      },
+      {
+        "para_id": "2013.2642",
+        "lang": "ro",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "1785.2596",
+        "lang": "ru",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "13874.297",
+        "lang": "rw",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11875.305",
+        "lang": "uk",
+        "refcode": "The Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "para_id": "127.356",
+    "id_prev": "127.2658",
+    "id_next": "127.357",
+    "refcode_1": "AA",
+    "refcode_2": "87",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 87.1",
+    "refcode_long": "The Acts of the Apostles, p. 87.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;In those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.&rdquo;",
+    "puborder": 217,
+    "translations": [
+      {
+        "para_id": "13804.263",
+        "lang": "bg",
+        "refcode": "Дa 33.4"
+      },
+      {
+        "para_id": "11590.341",
+        "lang": "ce",
+        "refcode": "ABA 75.1"
+      },
+      {
+        "para_id": "11247.320",
+        "lang": "cs",
+        "refcode": "PNL 50.1"
+      },
+      {
+        "para_id": "813.354",
+        "lang": "de",
+        "refcode": "WA 89.1"
+      },
+      {
+        "para_id": "198.349",
+        "lang": "es",
+        "refcode": "HAp 72.1"
+      },
+      {
+        "para_id": "158.335",
+        "lang": "fr",
+        "refcode": "CP 77.1"
+      },
+      {
+        "para_id": "11938.311",
+        "lang": "hu",
+        "refcode": "AT 59.1"
+      },
+      {
+        "para_id": "12410.325",
+        "lang": "id",
+        "refcode": "KR 73.1"
+      },
+      {
+        "para_id": "882.307",
+        "lang": "it",
+        "refcode": "UVI 55.1"
+      },
+      {
+        "para_id": "11660.434",
+        "lang": "ja",
+        "refcode": "AAJ 89.2"
+      },
+      {
+        "para_id": "12335.293",
+        "lang": "nb",
+        "refcode": "AV 51.1"
+      },
+      {
+        "para_id": "12008.282",
+        "lang": "pl",
+        "refcode": "DA 50.1"
+      },
+      {
+        "para_id": "1806.307",
+        "lang": "pt",
+        "refcode": "AA 51.4"
+      },
+      {
+        "para_id": "2013.346",
+        "lang": "ro",
+        "refcode": "FA 87.1"
+      },
+      {
+        "para_id": "1785.327",
+        "lang": "ru",
+        "refcode": "ДА 87.1"
+      },
+      {
+        "para_id": "13874.298",
+        "lang": "rw",
+        "refcode": "INI 58.1"
+      },
+      {
+        "para_id": "11182.289",
+        "lang": "sk",
+        "refcode": "SA 56.1"
+      },
+      {
+        "para_id": "11904.324",
+        "lang": "tl",
+        "refcode": "AGA 67.1"
+      },
+      {
+        "para_id": "11875.306",
+        "lang": "uk",
+        "refcode": "ДА 58.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.357",
+    "id_prev": "127.356",
+    "id_next": "127.358",
+    "refcode_1": "AA",
+    "refcode_2": "87",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 87.2",
+    "refcode_long": "The Acts of the Apostles, p. 87.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The early church was made up of many classes of people, of various nationalities. At the time of the outpouring of the Holy Spirit at Pentecost, &ldquo;there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 2:5\" data-link=\"1965.54975\">Acts 2:5</span>. Among those of the Hebrew faith who were gathered at Jerusalem were some commonly known as Grecians, between whom and the Jews of Palestine there had long existed distrust and even antagonism.",
+    "puborder": 218,
+    "translations": [
+      {
+        "para_id": "13804.264",
+        "lang": "bg",
+        "refcode": "Дa 33.5"
+      },
+      {
+        "para_id": "11590.342",
+        "lang": "ce",
+        "refcode": "ABA 75.2"
+      },
+      {
+        "para_id": "11247.321",
+        "lang": "cs",
+        "refcode": "PNL 50.2"
+      },
+      {
+        "para_id": "813.355",
+        "lang": "de",
+        "refcode": "WA 89.2"
+      },
+      {
+        "para_id": "198.350",
+        "lang": "es",
+        "refcode": "HAp 72.2"
+      },
+      {
+        "para_id": "158.336",
+        "lang": "fr",
+        "refcode": "CP 77.2"
+      },
+      {
+        "para_id": "11938.312",
+        "lang": "hu",
+        "refcode": "AT 59.2"
+      },
+      {
+        "para_id": "12410.326",
+        "lang": "id",
+        "refcode": "KR 73.2"
+      },
+      {
+        "para_id": "882.308",
+        "lang": "it",
+        "refcode": "UVI 55.2"
+      },
+      {
+        "para_id": "11660.435",
+        "lang": "ja",
+        "refcode": "AAJ 89.3"
+      },
+      {
+        "para_id": "12335.294",
+        "lang": "nb",
+        "refcode": "AV 51.2"
+      },
+      {
+        "para_id": "12008.283",
+        "lang": "pl",
+        "refcode": "DA 50.2"
+      },
+      {
+        "para_id": "1806.307",
+        "lang": "pt",
+        "refcode": "AA 51.4"
+      },
+      {
+        "para_id": "2013.347",
+        "lang": "ro",
+        "refcode": "FA 87.2"
+      },
+      {
+        "para_id": "1785.328",
+        "lang": "ru",
+        "refcode": "ДА 87.2"
+      },
+      {
+        "para_id": "13874.299",
+        "lang": "rw",
+        "refcode": "INI 58.2"
+      },
+      {
+        "para_id": "11182.290",
+        "lang": "sk",
+        "refcode": "SA 56.2"
+      },
+      {
+        "para_id": "11904.325",
+        "lang": "tl",
+        "refcode": "AGA 67.2"
+      },
+      {
+        "para_id": "11875.307",
+        "lang": "uk",
+        "refcode": "ДА 58.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.358",
+    "id_prev": "127.357",
+    "id_next": "127.361",
+    "refcode_1": "AA",
+    "refcode_2": "87",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 87.3",
+    "refcode_long": "The Acts of the Apostles, p. 87.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The hearts of those who had been converted under the labors of the apostles, were softened and united by Christian love. Despite former prejudices, all were in harmony with one another. Satan knew that so long as this union continued <span class=\"page-break\" data-page=\"88\"></span> to exist, he would be powerless to check the progress of gospel truth; and he sought to take advantage of former habits of thought, in the hope that thereby he might be able to introduce into the church elements of disunion.",
+    "puborder": 219,
+    "translations": [
+      {
+        "para_id": "13804.265",
+        "lang": "bg",
+        "refcode": "Дa 33.6"
+      },
+      {
+        "para_id": "11590.343",
+        "lang": "ce",
+        "refcode": "ABA 75.3"
+      },
+      {
+        "para_id": "11247.322",
+        "lang": "cs",
+        "refcode": "PNL 50.3"
+      },
+      {
+        "para_id": "813.356",
+        "lang": "de",
+        "refcode": "WA 89.3"
+      },
+      {
+        "para_id": "198.351",
+        "lang": "es",
+        "refcode": "HAp 72.3"
+      },
+      {
+        "para_id": "158.337",
+        "lang": "fr",
+        "refcode": "CP 77.3"
+      },
+      {
+        "para_id": "11938.313",
+        "lang": "hu",
+        "refcode": "AT 59.3"
+      },
+      {
+        "para_id": "12410.327",
+        "lang": "id",
+        "refcode": "KR 73.3"
+      },
+      {
+        "para_id": "882.309",
+        "lang": "it",
+        "refcode": "UVI 55.3"
+      },
+      {
+        "para_id": "11660.436",
+        "lang": "ja",
+        "refcode": "AAJ 89.4"
+      },
+      {
+        "para_id": "12335.295",
+        "lang": "nb",
+        "refcode": "AV 51.3"
+      },
+      {
+        "para_id": "12008.284",
+        "lang": "pl",
+        "refcode": "DA 50.3"
+      },
+      {
+        "para_id": "1806.310",
+        "lang": "pt",
+        "refcode": "AA 52.1"
+      },
+      {
+        "para_id": "2013.348",
+        "lang": "ro",
+        "refcode": "FA 87.3"
+      },
+      {
+        "para_id": "1785.329",
+        "lang": "ru",
+        "refcode": "ДА 87.3"
+      },
+      {
+        "para_id": "13874.300",
+        "lang": "rw",
+        "refcode": "INI 58.3"
+      },
+      {
+        "para_id": "11182.291",
+        "lang": "sk",
+        "refcode": "SA 56.3"
+      },
+      {
+        "para_id": "11904.326",
+        "lang": "tl",
+        "refcode": "AGA 67.3"
+      },
+      {
+        "para_id": "11875.308",
+        "lang": "uk",
+        "refcode": "ДА 58.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.361",
+    "id_prev": "127.358",
+    "id_next": "127.362",
+    "refcode_1": "AA",
+    "refcode_2": "88",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 88.1",
+    "refcode_long": "The Acts of the Apostles, p. 88.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Thus it came to pass that as disciples were multiplied, the enemy succeeded in arousing the suspicions of some who had formerly been in the habit of looking with jealousy on their brethren in the faith and of finding fault with their spiritual leaders, and so &ldquo;there arose a murmuring of the Grecians against the Hebrews.&rdquo; The cause of complaint was an alleged neglect of the Greek widows in the daily distribution of assistance. Any inequality would have been contrary to the spirit of the gospel, yet Satan had succeeded in arousing suspicion. Prompt measures must now be taken to remove all occasion for dissatisfaction, lest the enemy triumph in his effort to bring about a division among the believers.",
+    "puborder": 220,
+    "translations": [
+      {
+        "para_id": "13804.266",
+        "lang": "bg",
+        "refcode": "Дa 33.7"
+      },
+      {
+        "para_id": "11590.344",
+        "lang": "ce",
+        "refcode": "ABA 75.4"
+      },
+      {
+        "para_id": "11247.323",
+        "lang": "cs",
+        "refcode": "PNL 50.4"
+      },
+      {
+        "para_id": "813.357",
+        "lang": "de",
+        "refcode": "WA 89.4"
+      },
+      {
+        "para_id": "198.352",
+        "lang": "es",
+        "refcode": "HAp 72.4"
+      },
+      {
+        "para_id": "158.340",
+        "lang": "fr",
+        "refcode": "CP 78.1"
+      },
+      {
+        "para_id": "11938.314",
+        "lang": "hu",
+        "refcode": "AT 59.4"
+      },
+      {
+        "para_id": "12410.328",
+        "lang": "id",
+        "refcode": "KR 73.4"
+      },
+      {
+        "para_id": "882.310",
+        "lang": "it",
+        "refcode": "UVI 55.4"
+      },
+      {
+        "para_id": "11660.439",
+        "lang": "ja",
+        "refcode": "AAJ 90.1"
+      },
+      {
+        "para_id": "12335.296",
+        "lang": "nb",
+        "refcode": "AV 51.4"
+      },
+      {
+        "para_id": "12008.285",
+        "lang": "pl",
+        "refcode": "DA 50.4"
+      },
+      {
+        "para_id": "1806.311",
+        "lang": "pt",
+        "refcode": "AA 52.2"
+      },
+      {
+        "para_id": "2013.351",
+        "lang": "ro",
+        "refcode": "FA 88.1"
+      },
+      {
+        "para_id": "1785.332",
+        "lang": "ru",
+        "refcode": "ДА 88.1"
+      },
+      {
+        "para_id": "13874.301",
+        "lang": "rw",
+        "refcode": "INI 58.4"
+      },
+      {
+        "para_id": "11182.292",
+        "lang": "sk",
+        "refcode": "SA 56.4"
+      },
+      {
+        "para_id": "11904.327",
+        "lang": "tl",
+        "refcode": "AGA 67.4"
+      },
+      {
+        "para_id": "11875.309",
+        "lang": "uk",
+        "refcode": "ДА 58.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.362",
+    "id_prev": "127.361",
+    "id_next": "127.365",
+    "refcode_1": "AA",
+    "refcode_2": "88",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 88.2",
+    "refcode_long": "The Acts of the Apostles, p. 88.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The disciples of Jesus had reached a crisis in their experience. Under the wise leadership of the apostles, who labored unitedly in the power of the Holy Spirit, the work committed to the gospel messengers was developing rapidly. The church was continually enlarging, and this growth in membership brought increasingly heavy burdens upon those in charge. No one man, or even one set of men, could continue to bear these burdens alone, without imperiling the future prosperity of the church. There was necessity for a further distribution of the responsibilities which had been borne so faithfully by a few during the earlier days of the church. The apostles must now take an important step in <span class=\"page-break\" data-page=\"89\"></span> the perfecting of gospel order in the church by laying upon others some of the burdens thus far borne by themselves.",
+    "puborder": 221,
+    "translations": [
+      {
+        "para_id": "13804.268",
+        "lang": "bg",
+        "refcode": "Дa 34.1"
+      },
+      {
+        "para_id": "11590.347",
+        "lang": "ce",
+        "refcode": "ABA 76.1"
+      },
+      {
+        "para_id": "11247.325",
+        "lang": "cs",
+        "refcode": "PNL 50.5"
+      },
+      {
+        "para_id": "813.360",
+        "lang": "de",
+        "refcode": "WA 90.1"
+      },
+      {
+        "para_id": "198.355",
+        "lang": "es",
+        "refcode": "HAp 73.1"
+      },
+      {
+        "para_id": "158.341",
+        "lang": "fr",
+        "refcode": "CP 78.2"
+      },
+      {
+        "para_id": "11938.314",
+        "lang": "hu",
+        "refcode": "AT 59.4"
+      },
+      {
+        "para_id": "12410.331",
+        "lang": "id",
+        "refcode": "KR 74.1"
+      },
+      {
+        "para_id": "882.311",
+        "lang": "it",
+        "refcode": "UVI 55.5"
+      },
+      {
+        "para_id": "11660.440",
+        "lang": "ja",
+        "refcode": "AAJ 90.2"
+      },
+      {
+        "para_id": "12335.297",
+        "lang": "nb",
+        "refcode": "AV 51.5"
+      },
+      {
+        "para_id": "12008.286",
+        "lang": "pl",
+        "refcode": "DA 50.5"
+      },
+      {
+        "para_id": "1806.312",
+        "lang": "pt",
+        "refcode": "AA 52.3"
+      },
+      {
+        "para_id": "2013.352",
+        "lang": "ro",
+        "refcode": "FA 88.2"
+      },
+      {
+        "para_id": "1785.333",
+        "lang": "ru",
+        "refcode": "ДА 88.2"
+      },
+      {
+        "para_id": "13874.302",
+        "lang": "rw",
+        "refcode": "INI 58.5"
+      },
+      {
+        "para_id": "11182.293",
+        "lang": "sk",
+        "refcode": "SA 56.5"
+      },
+      {
+        "para_id": "11904.328",
+        "lang": "tl",
+        "refcode": "AGA 67.5"
+      },
+      {
+        "para_id": "11875.312",
+        "lang": "uk",
+        "refcode": "ДА 59.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.365",
+    "id_prev": "127.362",
+    "id_next": "127.366",
+    "refcode_1": "AA",
+    "refcode_2": "89",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 89.1",
+    "refcode_long": "The Acts of the Apostles, p. 89.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Summoning a meeting of the believers, the apostles were led by the Holy Spirit to outline a plan for the better organization of all the working forces of the church. The time had come, the apostles stated, when the spiritual leaders having the oversight of the church should be relieved from the task of distributing to the poor and from similar burdens, so that they might be free to carry forward the work of preaching the gospel. &ldquo;Wherefore, brethren,&rdquo; they said, &ldquo;look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business. But we will give ourselves continually to prayer, and to the ministry of the word.&rdquo; This advice was followed, and by prayer and the laying on of hands, seven chosen men were solemnly set apart for their duties as deacons.",
+    "puborder": 222,
+    "translations": [
+      {
+        "para_id": "13804.269",
+        "lang": "bg",
+        "refcode": "Дa 34.2"
+      },
+      {
+        "para_id": "11590.348",
+        "lang": "ce",
+        "refcode": "ABA 76.2"
+      },
+      {
+        "para_id": "11247.328",
+        "lang": "cs",
+        "refcode": "PNL 51.1"
+      },
+      {
+        "para_id": "813.361",
+        "lang": "de",
+        "refcode": "WA 90.2"
+      },
+      {
+        "para_id": "198.356",
+        "lang": "es",
+        "refcode": "HAp 73.2"
+      },
+      {
+        "para_id": "158.342",
+        "lang": "fr",
+        "refcode": "CP 78.3"
+      },
+      {
+        "para_id": "11938.317",
+        "lang": "hu",
+        "refcode": "AT 60.1"
+      },
+      {
+        "para_id": "12410.332",
+        "lang": "id",
+        "refcode": "KR 74.2"
+      },
+      {
+        "para_id": "882.314",
+        "lang": "it",
+        "refcode": "UVI 56.1"
+      },
+      {
+        "para_id": "11660.443",
+        "lang": "ja",
+        "refcode": "AAJ 91.1"
+      },
+      {
+        "para_id": "12335.300",
+        "lang": "nb",
+        "refcode": "AV 52.1"
+      },
+      {
+        "para_id": "12008.289",
+        "lang": "pl",
+        "refcode": "DA 51.1"
+      },
+      {
+        "para_id": "1806.315",
+        "lang": "pt",
+        "refcode": "AA 52.6"
+      },
+      {
+        "para_id": "2013.355",
+        "lang": "ro",
+        "refcode": "FA 89.1"
+      },
+      {
+        "para_id": "1785.336",
+        "lang": "ru",
+        "refcode": "ДА 89.1"
+      },
+      {
+        "para_id": "13874.305",
+        "lang": "rw",
+        "refcode": "INI 59.1"
+      },
+      {
+        "para_id": "11182.296",
+        "lang": "sk",
+        "refcode": "SA 57.1"
+      },
+      {
+        "para_id": "11904.331",
+        "lang": "tl",
+        "refcode": "AGA 68.1"
+      },
+      {
+        "para_id": "11875.313",
+        "lang": "uk",
+        "refcode": "ДА 59.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.366",
+    "id_prev": "127.365",
+    "id_next": "127.367",
+    "refcode_1": "AA",
+    "refcode_2": "89",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 89.2",
+    "refcode_long": "The Acts of the Apostles, p. 89.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The appointment of the seven to take the oversight of special lines of work, proved a great blessing to the church. These officers gave careful consideration to individual needs as well as to the general financial interests of the church, and by their prudent management and their godly example they were an important aid to their fellow officers in binding together the various interests of the church into a united whole.",
+    "puborder": 223,
+    "translations": [
+      {
+        "para_id": "13804.270",
+        "lang": "bg",
+        "refcode": "Дa 34.3"
+      },
+      {
+        "para_id": "11590.351",
+        "lang": "ce",
+        "refcode": "ABA 77.1"
+      },
+      {
+        "para_id": "11247.329",
+        "lang": "cs",
+        "refcode": "PNL 51.2"
+      },
+      {
+        "para_id": "813.364",
+        "lang": "de",
+        "refcode": "WA 91.1"
+      },
+      {
+        "para_id": "198.357",
+        "lang": "es",
+        "refcode": "HAp 73.3"
+      },
+      {
+        "para_id": "158.345",
+        "lang": "fr",
+        "refcode": "CP 79.1"
+      },
+      {
+        "para_id": "11938.318",
+        "lang": "hu",
+        "refcode": "AT 60.2"
+      },
+      {
+        "para_id": "12410.335",
+        "lang": "id",
+        "refcode": "KR 75.1"
+      },
+      {
+        "para_id": "882.315",
+        "lang": "it",
+        "refcode": "UVI 56.2"
+      },
+      {
+        "para_id": "11660.444",
+        "lang": "ja",
+        "refcode": "AAJ 91.2"
+      },
+      {
+        "para_id": "12335.301",
+        "lang": "nb",
+        "refcode": "AV 52.2"
+      },
+      {
+        "para_id": "12008.290",
+        "lang": "pl",
+        "refcode": "DA 51.2"
+      },
+      {
+        "para_id": "1806.315",
+        "lang": "pt",
+        "refcode": "AA 52.6"
+      },
+      {
+        "para_id": "2013.356",
+        "lang": "ro",
+        "refcode": "FA 89.2"
+      },
+      {
+        "para_id": "1785.337",
+        "lang": "ru",
+        "refcode": "ДА 89.2"
+      },
+      {
+        "para_id": "13874.306",
+        "lang": "rw",
+        "refcode": "INI 59.2"
+      },
+      {
+        "para_id": "11182.297",
+        "lang": "sk",
+        "refcode": "SA 57.2"
+      },
+      {
+        "para_id": "11904.332",
+        "lang": "tl",
+        "refcode": "AGA 68.2"
+      },
+      {
+        "para_id": "11875.314",
+        "lang": "uk",
+        "refcode": "ДА 59.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.367",
+    "id_prev": "127.366",
+    "id_next": "127.370",
+    "refcode_1": "AA",
+    "refcode_2": "89",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 89.3",
+    "refcode_long": "The Acts of the Apostles, p. 89.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "That this step was in the order of God, is revealed in the immediate results for good that were seen. &ldquo;The word of God increased; and the number of the disciples multiplied in Jerusalem greatly; and a great company of the priests <span class=\"page-break\" data-page=\"90\"></span> were obedient to the faith.&rdquo; This ingathering of souls was due both to the greater freedom secured by the apostles and to the zeal and power shown by the seven deacons. The fact that these brethren had been ordained for the special work of looking after the needs of the poor, did not exclude them from teaching the faith. On the contrary, they were fully qualified to instruct others in the truth, and they engaged in the work with great earnestness and success.",
+    "puborder": 224,
+    "translations": [
+      {
+        "para_id": "13804.271",
+        "lang": "bg",
+        "refcode": "Дa 34.4"
+      },
+      {
+        "para_id": "11590.352",
+        "lang": "ce",
+        "refcode": "ABA 77.2"
+      },
+      {
+        "para_id": "11247.330",
+        "lang": "cs",
+        "refcode": "PNL 51.3"
+      },
+      {
+        "para_id": "813.365",
+        "lang": "de",
+        "refcode": "WA 91.2"
+      },
+      {
+        "para_id": "198.360",
+        "lang": "es",
+        "refcode": "HAp 74.1"
+      },
+      {
+        "para_id": "158.346",
+        "lang": "fr",
+        "refcode": "CP 79.2"
+      },
+      {
+        "para_id": "11938.319",
+        "lang": "hu",
+        "refcode": "AT 60.3"
+      },
+      {
+        "para_id": "12410.336",
+        "lang": "id",
+        "refcode": "KR 75.2"
+      },
+      {
+        "para_id": "882.316",
+        "lang": "it",
+        "refcode": "UVI 56.3"
+      },
+      {
+        "para_id": "11660.445",
+        "lang": "ja",
+        "refcode": "AAJ 91.3"
+      },
+      {
+        "para_id": "12335.302",
+        "lang": "nb",
+        "refcode": "AV 52.3"
+      },
+      {
+        "para_id": "12008.291",
+        "lang": "pl",
+        "refcode": "DA 51.3"
+      },
+      {
+        "para_id": "1806.315",
+        "lang": "pt",
+        "refcode": "AA 52.6"
+      },
+      {
+        "para_id": "2013.357",
+        "lang": "ro",
+        "refcode": "FA 89.3"
+      },
+      {
+        "para_id": "1785.338",
+        "lang": "ru",
+        "refcode": "ДА 89.3"
+      },
+      {
+        "para_id": "13874.307",
+        "lang": "rw",
+        "refcode": "INI 59.3"
+      },
+      {
+        "para_id": "11182.298",
+        "lang": "sk",
+        "refcode": "SA 57.3"
+      },
+      {
+        "para_id": "11904.333",
+        "lang": "tl",
+        "refcode": "AGA 68.3"
+      },
+      {
+        "para_id": "11875.316",
+        "lang": "uk",
+        "refcode": "ДА 60.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.370",
+    "id_prev": "127.367",
+    "id_next": "127.371",
+    "refcode_1": "AA",
+    "refcode_2": "90",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 90.1",
+    "refcode_long": "The Acts of the Apostles, p. 90.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To the early church had been entrusted a constantly enlarging work&mdash;that of establishing centers of light and blessing wherever there were honest souls willing to give themselves to the service of Christ. The proclamation of the gospel was to be world-wide in its extent, and the messengers of the cross could not hope to fulfill their important mission unless they should remain united in the bonds of Christian unity, and thus reveal to the world that they were one with Christ in God. Had not their divine Leader prayed to the Father, &ldquo;Keep through Thine own name those whom Thou hast given Me, that they may be one, as We are&rdquo;? And had He not declared of His disciples, &ldquo;The world hath hated them, because they are not of the world&rdquo;? Had He not pleaded with the Father that they might be &ldquo;made perfect in one,&rdquo; &ldquo;that the world may believe that Thou hast sent Me&rdquo;? <span class=\"egwlink egwlink_bible\" title=\"John 17:11\" data-link=\"1965.54600\">John 17:11, 14, 23, 21</span>. Their spiritual life and power was dependent on a close connection with the One by whom they had been commissioned to preach the gospel.",
+    "puborder": 225,
+    "translations": [
+      {
+        "para_id": "13804.272",
+        "lang": "bg",
+        "refcode": "Дa 34.5"
+      },
+      {
+        "para_id": "11590.353",
+        "lang": "ce",
+        "refcode": "ABA 77.3"
+      },
+      {
+        "para_id": "11247.332",
+        "lang": "cs",
+        "refcode": "PNL 51.4"
+      },
+      {
+        "para_id": "813.366",
+        "lang": "de",
+        "refcode": "WA 91.3"
+      },
+      {
+        "para_id": "198.361",
+        "lang": "es",
+        "refcode": "HAp 74.2"
+      },
+      {
+        "para_id": "158.347",
+        "lang": "fr",
+        "refcode": "CP 79.3"
+      },
+      {
+        "para_id": "11938.320",
+        "lang": "hu",
+        "refcode": "AT 60.4"
+      },
+      {
+        "para_id": "12410.337",
+        "lang": "id",
+        "refcode": "KR 75.3"
+      },
+      {
+        "para_id": "882.317",
+        "lang": "it",
+        "refcode": "UVI 56.4"
+      },
+      {
+        "para_id": "11660.448",
+        "lang": "ja",
+        "refcode": "AAJ 92.1"
+      },
+      {
+        "para_id": "12335.303",
+        "lang": "nb",
+        "refcode": "AV 52.4"
+      },
+      {
+        "para_id": "12008.292",
+        "lang": "pl",
+        "refcode": "DA 51.4"
+      },
+      {
+        "para_id": "1806.318",
+        "lang": "pt",
+        "refcode": "AA 53.1"
+      },
+      {
+        "para_id": "2013.360",
+        "lang": "ro",
+        "refcode": "FA 90.1"
+      },
+      {
+        "para_id": "1785.341",
+        "lang": "ru",
+        "refcode": "ДА 90.1"
+      },
+      {
+        "para_id": "13874.308",
+        "lang": "rw",
+        "refcode": "INI 59.4"
+      },
+      {
+        "para_id": "11182.298",
+        "lang": "sk",
+        "refcode": "SA 57.3"
+      },
+      {
+        "para_id": "11904.336",
+        "lang": "tl",
+        "refcode": "AGA 69.1"
+      },
+      {
+        "para_id": "11875.317",
+        "lang": "uk",
+        "refcode": "ДА 60.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.371",
+    "id_prev": "127.370",
+    "id_next": "127.374",
+    "refcode_1": "AA",
+    "refcode_2": "90",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 90.2",
+    "refcode_long": "The Acts of the Apostles, p. 90.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Only as they were united with Christ could the disciples hope to have the accompanying power of the Holy Spirit and <span class=\"page-break\" data-page=\"91\"></span> the co-operation of angels of heaven. With the help of these divine agencies they would present before the world a united front and would be victorious in the conflict they were compelled to wage unceasingly against the powers of darkness. As they should continue to labor unitedly, heavenly messengers would go before them, opening the way; hearts would be prepared for the reception of truth, and many would be won to Christ. So long as they remained united, the church would go forth &ldquo;fair as the moon, clear as the sun, and terrible as an army with banners.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Song of Solomon 6:10\" data-link=\"1965.35950\">Song of Solomon 6:10</span>. Nothing could withstand her onward progress. The church would advance from victory to victory, gloriously fulfilling her divine mission of proclaiming the gospel to the world.",
+    "puborder": 226,
+    "translations": [
+      {
+        "para_id": "13804.273",
+        "lang": "bg",
+        "refcode": "Дa 34.6"
+      },
+      {
+        "para_id": "11590.356",
+        "lang": "ce",
+        "refcode": "ABA 78.1"
+      },
+      {
+        "para_id": "11247.334",
+        "lang": "cs",
+        "refcode": "PNL 52.1"
+      },
+      {
+        "para_id": "813.369",
+        "lang": "de",
+        "refcode": "WA 92.1"
+      },
+      {
+        "para_id": "198.362",
+        "lang": "es",
+        "refcode": "HAp 74.3"
+      },
+      {
+        "para_id": "158.350",
+        "lang": "fr",
+        "refcode": "CP 80.1"
+      },
+      {
+        "para_id": "11938.323",
+        "lang": "hu",
+        "refcode": "AT 61.1"
+      },
+      {
+        "para_id": "12410.340",
+        "lang": "id",
+        "refcode": "KR 76.1"
+      },
+      {
+        "para_id": "882.320",
+        "lang": "it",
+        "refcode": "UVI 57.1"
+      },
+      {
+        "para_id": "11660.449",
+        "lang": "ja",
+        "refcode": "AAJ 92.2"
+      },
+      {
+        "para_id": "12335.306",
+        "lang": "nb",
+        "refcode": "AV 53.1"
+      },
+      {
+        "para_id": "12008.294",
+        "lang": "pl",
+        "refcode": "DA 52.1"
+      },
+      {
+        "para_id": "1806.321",
+        "lang": "pt",
+        "refcode": "AA 54"
+      },
+      {
+        "para_id": "2013.361",
+        "lang": "ro",
+        "refcode": "FA 90.2"
+      },
+      {
+        "para_id": "1785.342",
+        "lang": "ru",
+        "refcode": "ДА 90.2"
+      },
+      {
+        "para_id": "13874.311",
+        "lang": "rw",
+        "refcode": "INI 60.1"
+      },
+      {
+        "para_id": "11182.301",
+        "lang": "sk",
+        "refcode": "SA 58.1"
+      },
+      {
+        "para_id": "11904.337",
+        "lang": "tl",
+        "refcode": "AGA 69.2"
+      },
+      {
+        "para_id": "11875.318",
+        "lang": "uk",
+        "refcode": "ДА 60.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.374",
+    "id_prev": "127.371",
+    "id_next": "127.375",
+    "refcode_1": "AA",
+    "refcode_2": "91",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 91.1",
+    "refcode_long": "The Acts of the Apostles, p. 91.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The organization of the church at Jerusalem was to serve as a model for the organization of churches in every other place where messengers of truth should win converts to the gospel. Those to whom was given the responsibility of the general oversight of the church were not to lord it over God&apos;s heritage, but, as wise shepherds, were to &ldquo;feed the flock of God, ... being ensamples to the flock&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"1 Peter 5:2\" data-link=\"1965.62153\">1 Peter 5:2, 3</span>); and the deacons were to be &ldquo;men of honest report, full of the Holy Ghost and wisdom.&rdquo; These men were to take their position unitedly on the side of right and to maintain it with firmness and decision. Thus they would have a uniting influence upon the entire flock.",
+    "puborder": 227,
+    "translations": [
+      {
+        "para_id": "13804.276",
+        "lang": "bg",
+        "refcode": "Дa 35.1"
+      },
+      {
+        "para_id": "11590.357",
+        "lang": "ce",
+        "refcode": "ABA 78.2"
+      },
+      {
+        "para_id": "11247.335",
+        "lang": "cs",
+        "refcode": "PNL 52.2"
+      },
+      {
+        "para_id": "813.370",
+        "lang": "de",
+        "refcode": "WA 92.2"
+      },
+      {
+        "para_id": "198.365",
+        "lang": "es",
+        "refcode": "HAp 75.1"
+      },
+      {
+        "para_id": "158.351",
+        "lang": "fr",
+        "refcode": "CP 80.2"
+      },
+      {
+        "para_id": "11938.324",
+        "lang": "hu",
+        "refcode": "AT 61.2"
+      },
+      {
+        "para_id": "12410.341",
+        "lang": "id",
+        "refcode": "KR 76.2"
+      },
+      {
+        "para_id": "882.321",
+        "lang": "it",
+        "refcode": "UVI 57.2"
+      },
+      {
+        "para_id": "11660.452",
+        "lang": "ja",
+        "refcode": "AAJ 93.1"
+      },
+      {
+        "para_id": "12335.307",
+        "lang": "nb",
+        "refcode": "AV 53.2"
+      },
+      {
+        "para_id": "12008.295",
+        "lang": "pl",
+        "refcode": "DA 52.2"
+      },
+      {
+        "para_id": "1806.322",
+        "lang": "pt",
+        "refcode": "AA 54"
+      },
+      {
+        "para_id": "2013.364",
+        "lang": "ro",
+        "refcode": "FA 91.1"
+      },
+      {
+        "para_id": "1785.345",
+        "lang": "ru",
+        "refcode": "ДА 91.1"
+      },
+      {
+        "para_id": "13874.312",
+        "lang": "rw",
+        "refcode": "INI 60.2"
+      },
+      {
+        "para_id": "11182.302",
+        "lang": "sk",
+        "refcode": "SA 58.2"
+      },
+      {
+        "para_id": "11904.338",
+        "lang": "tl",
+        "refcode": "AGA 69.3"
+      },
+      {
+        "para_id": "11875.321",
+        "lang": "uk",
+        "refcode": "ДА 61.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.375",
+    "id_prev": "127.374",
+    "id_next": "127.378",
+    "refcode_1": "AA",
+    "refcode_2": "91",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 91.2",
+    "refcode_long": "The Acts of the Apostles, p. 91.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Later in the history of the early church, when in various parts of the world many groups of believers had been formed into churches, the organization of the church was further <span class=\"page-break\" data-page=\"92\"></span> perfected, so that order and harmonious action might be maintained. Every member was exhorted to act well his part. Each was to make a wise use of the talents entrusted to him. Some were endowed by the Holy Spirit with special gifts&mdash;&ldquo;first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Corinthians 12:28\" data-link=\"1965.58447\">1 Corinthians 12:28</span>. But all these classes of workers were to labor in harmony.",
+    "puborder": 228,
+    "translations": [
+      {
+        "para_id": "13804.277",
+        "lang": "bg",
+        "refcode": "Дa 35.2"
+      },
+      {
+        "para_id": "11590.358",
+        "lang": "ce",
+        "refcode": "ABA 78.3"
+      },
+      {
+        "para_id": "11247.336",
+        "lang": "cs",
+        "refcode": "PNL 52.3"
+      },
+      {
+        "para_id": "813.373",
+        "lang": "de",
+        "refcode": "WA 93.1"
+      },
+      {
+        "para_id": "198.366",
+        "lang": "es",
+        "refcode": "HAp 75.2"
+      },
+      {
+        "para_id": "158.352",
+        "lang": "fr",
+        "refcode": "CP 80.3"
+      },
+      {
+        "para_id": "11938.326",
+        "lang": "hu",
+        "refcode": "AT 62.1"
+      },
+      {
+        "para_id": "12410.342",
+        "lang": "id",
+        "refcode": "KR 76.3"
+      },
+      {
+        "para_id": "882.322",
+        "lang": "it",
+        "refcode": "UVI 57.3"
+      },
+      {
+        "para_id": "11660.453",
+        "lang": "ja",
+        "refcode": "AAJ 93.2"
+      },
+      {
+        "para_id": "12335.308",
+        "lang": "nb",
+        "refcode": "AV 53.3"
+      },
+      {
+        "para_id": "12008.296",
+        "lang": "pl",
+        "refcode": "DA 52.3"
+      },
+      {
+        "para_id": "1806.323",
+        "lang": "pt",
+        "refcode": "AA 54.1"
+      },
+      {
+        "para_id": "2013.365",
+        "lang": "ro",
+        "refcode": "FA 91.2"
+      },
+      {
+        "para_id": "1785.346",
+        "lang": "ru",
+        "refcode": "ДА 91.2"
+      },
+      {
+        "para_id": "13874.313",
+        "lang": "rw",
+        "refcode": "INI 60.3"
+      },
+      {
+        "para_id": "11182.303",
+        "lang": "sk",
+        "refcode": "SA 58.3"
+      },
+      {
+        "para_id": "11904.341",
+        "lang": "tl",
+        "refcode": "AGA 70.1"
+      },
+      {
+        "para_id": "11875.322",
+        "lang": "uk",
+        "refcode": "ДА 61.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.378",
+    "id_prev": "127.375",
+    "id_next": "127.379",
+    "refcode_1": "AA",
+    "refcode_2": "92",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 92.1",
+    "refcode_long": "The Acts of the Apostles, p. 92.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;There are diversities of gifts, but the same Spirit. And there are differences of administrations, but the same Lord. And there are diversities of operations, but it is the same God which worketh all in all. But the manifestation of the Spirit is given to every man to profit withal. For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit; to another faith by the same Spirit; to another the gifts of healing by the same Spirit; to another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues: but all these worketh that one and the selfsame Spirit, dividing to every man severally as He will. For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Corinthians 12:4\" data-link=\"1965.58399\">1 Corinthians 12:4-12</span>.",
+    "puborder": 229,
+    "translations": [
+      {
+        "para_id": "13804.278",
+        "lang": "bg",
+        "refcode": "Дa 35.3"
+      },
+      {
+        "para_id": "11590.361",
+        "lang": "ce",
+        "refcode": "ABA 79.1"
+      },
+      {
+        "para_id": "11247.337",
+        "lang": "cs",
+        "refcode": "PNL 52.4"
+      },
+      {
+        "para_id": "813.374",
+        "lang": "de",
+        "refcode": "WA 93.2"
+      },
+      {
+        "para_id": "198.369",
+        "lang": "es",
+        "refcode": "HAp 76.1"
+      },
+      {
+        "para_id": "158.355",
+        "lang": "fr",
+        "refcode": "CP 81.1"
+      },
+      {
+        "para_id": "11938.327",
+        "lang": "hu",
+        "refcode": "AT 62.2"
+      },
+      {
+        "para_id": "12410.345",
+        "lang": "id",
+        "refcode": "KR 77.1"
+      },
+      {
+        "para_id": "882.325",
+        "lang": "it",
+        "refcode": "UVI 58.1"
+      },
+      {
+        "para_id": "11660.456",
+        "lang": "ja",
+        "refcode": "AAJ 94.1"
+      },
+      {
+        "para_id": "12335.309",
+        "lang": "nb",
+        "refcode": "AV 53.4"
+      },
+      {
+        "para_id": "12008.297",
+        "lang": "pl",
+        "refcode": "DA 52.4"
+      },
+      {
+        "para_id": "1806.324",
+        "lang": "pt",
+        "refcode": "AA 54.2"
+      },
+      {
+        "para_id": "2013.368",
+        "lang": "ro",
+        "refcode": "FA 92.1"
+      },
+      {
+        "para_id": "1785.349",
+        "lang": "ru",
+        "refcode": "ДА 92.1"
+      },
+      {
+        "para_id": "13874.316",
+        "lang": "rw",
+        "refcode": "INI 61.1"
+      },
+      {
+        "para_id": "11182.304",
+        "lang": "sk",
+        "refcode": "SA 58.4"
+      },
+      {
+        "para_id": "11904.342",
+        "lang": "tl",
+        "refcode": "AGA 70.2"
+      },
+      {
+        "para_id": "11875.323",
+        "lang": "uk",
+        "refcode": "ДА 61.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.379",
+    "id_prev": "127.378",
+    "id_next": "127.382",
+    "refcode_1": "AA",
+    "refcode_2": "92",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 92.2",
+    "refcode_long": "The Acts of the Apostles, p. 92.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Solemn are the responsibilities resting upon those who are called to act as leaders in the church of God on earth. In the days of the theocracy, when Moses was endeavoring to carry alone burdens so heavy that he would soon have <span class=\"page-break\" data-page=\"93\"></span> worn away under them, he was counseled by Jethro to plan for a wise distribution of responsibilities. &ldquo;Be thou for the people to Godward,&rdquo; Jethro advised, &ldquo;that thou mayest bring the causes unto God: and thou shalt teach them ordinances and laws, and shalt show them the way wherein they must walk, and the work that they must do.&rdquo; Jethro further advised that men be appointed to act as &ldquo;rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens.&rdquo; These were to be &ldquo;able men, such as fear God, men of truth, hating covetousness.&rdquo; They were to &ldquo;judge the people at all seasons,&rdquo; thus relieving Moses of the wearing responsibility of giving consideration to many minor matters that could be dealt with wisely by consecrated helpers.",
+    "puborder": 230,
+    "translations": [
+      {
+        "para_id": "13804.279",
+        "lang": "bg",
+        "refcode": "Дa 35.4"
+      },
+      {
+        "para_id": "11590.362",
+        "lang": "ce",
+        "refcode": "ABA 79.2"
+      },
+      {
+        "para_id": "11247.339",
+        "lang": "cs",
+        "refcode": "PNL 52.5"
+      },
+      {
+        "para_id": "813.377",
+        "lang": "de",
+        "refcode": "WA 94.1"
+      },
+      {
+        "para_id": "198.370",
+        "lang": "es",
+        "refcode": "HAp 76.2"
+      },
+      {
+        "para_id": "158.356",
+        "lang": "fr",
+        "refcode": "CP 81.2"
+      },
+      {
+        "para_id": "11938.328",
+        "lang": "hu",
+        "refcode": "AT 62.3"
+      },
+      {
+        "para_id": "12410.346",
+        "lang": "id",
+        "refcode": "KR 77.2"
+      },
+      {
+        "para_id": "882.326",
+        "lang": "it",
+        "refcode": "UVI 58.2"
+      },
+      {
+        "para_id": "11660.457",
+        "lang": "ja",
+        "refcode": "AAJ 94.2"
+      },
+      {
+        "para_id": "12335.312",
+        "lang": "nb",
+        "refcode": "AV 54.1"
+      },
+      {
+        "para_id": "12008.299",
+        "lang": "pl",
+        "refcode": "DA 53.1"
+      },
+      {
+        "para_id": "1806.326",
+        "lang": "pt",
+        "refcode": "AA 54.4"
+      },
+      {
+        "para_id": "2013.369",
+        "lang": "ro",
+        "refcode": "FA 92.2"
+      },
+      {
+        "para_id": "1785.350",
+        "lang": "ru",
+        "refcode": "ДА 92.2"
+      },
+      {
+        "para_id": "13874.317",
+        "lang": "rw",
+        "refcode": "INI 61.2"
+      },
+      {
+        "para_id": "11182.307",
+        "lang": "sk",
+        "refcode": "SA 59.1"
+      },
+      {
+        "para_id": "11904.343",
+        "lang": "tl",
+        "refcode": "AGA 70.3"
+      },
+      {
+        "para_id": "11875.324",
+        "lang": "uk",
+        "refcode": "ДА 61.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.382",
+    "id_prev": "127.379",
+    "id_next": "127.383",
+    "refcode_1": "AA",
+    "refcode_2": "93",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 93.1",
+    "refcode_long": "The Acts of the Apostles, p. 93.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The time and strength of those who in the providence of God have been placed in leading positions of responsibility in the church, should be spent in dealing with the weightier matters demanding special wisdom and largeness of heart. It is not in the order of God that such men should be appealed to for the adjustment of minor matters that others are well qualified to handle. &ldquo;Every great matter they shall bring unto thee,&rdquo; Jethro proposed to Moses, &ldquo;but every small matter they shall judge: so shall it be easier for thyself, and they shall bear the burden with thee. If thou shalt do this thing, and God command thee so, then thou shalt be able to endure, and all this people shall also go to their place in peace.&rdquo;",
+    "puborder": 231,
+    "translations": [
+      {
+        "para_id": "13804.281",
+        "lang": "bg",
+        "refcode": "Дa 36.1"
+      },
+      {
+        "para_id": "11590.365",
+        "lang": "ce",
+        "refcode": "ABA 80.1"
+      },
+      {
+        "para_id": "11247.342",
+        "lang": "cs",
+        "refcode": "PNL 53.1"
+      },
+      {
+        "para_id": "813.378",
+        "lang": "de",
+        "refcode": "WA 94.2"
+      },
+      {
+        "para_id": "198.372",
+        "lang": "es",
+        "refcode": "HAp 77.1"
+      },
+      {
+        "para_id": "158.359",
+        "lang": "fr",
+        "refcode": "CP 82.1"
+      },
+      {
+        "para_id": "11938.331",
+        "lang": "hu",
+        "refcode": "AT 63.1"
+      },
+      {
+        "para_id": "12410.349",
+        "lang": "id",
+        "refcode": "KR 78.1"
+      },
+      {
+        "para_id": "882.327",
+        "lang": "it",
+        "refcode": "UVI 58.3"
+      },
+      {
+        "para_id": "11660.461",
+        "lang": "ja",
+        "refcode": "AAJ 96.1"
+      },
+      {
+        "para_id": "12335.313",
+        "lang": "nb",
+        "refcode": "AV 54.2"
+      },
+      {
+        "para_id": "12008.300",
+        "lang": "pl",
+        "refcode": "DA 53.2"
+      },
+      {
+        "para_id": "1806.326",
+        "lang": "pt",
+        "refcode": "AA 54.4"
+      },
+      {
+        "para_id": "2013.372",
+        "lang": "ro",
+        "refcode": "FA 93.1"
+      },
+      {
+        "para_id": "1785.353",
+        "lang": "ru",
+        "refcode": "ДА 93.1"
+      },
+      {
+        "para_id": "13874.318",
+        "lang": "rw",
+        "refcode": "INI 61.3"
+      },
+      {
+        "para_id": "11182.308",
+        "lang": "sk",
+        "refcode": "SA 59.2"
+      },
+      {
+        "para_id": "11904.346",
+        "lang": "tl",
+        "refcode": "AGA 71.1"
+      },
+      {
+        "para_id": "11875.327",
+        "lang": "uk",
+        "refcode": "ДА 62.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.383",
+    "id_prev": "127.382",
+    "id_next": "127.386",
+    "refcode_1": "AA",
+    "refcode_2": "93",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 93.2",
+    "refcode_long": "The Acts of the Apostles, p. 93.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In harmony with this plan, &ldquo;Moses chose able men out of all Israel, and made them heads over the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers <span class=\"page-break\" data-page=\"94\"></span> of tens. And they judged the people at all seasons: the hard causes they brought unto Moses, but every small matter they judged themselves.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Exodus 18:19\" data-link=\"1965.4109\">Exodus 18:19-26</span>.",
+    "puborder": 232,
+    "translations": [
+      {
+        "para_id": "13804.282",
+        "lang": "bg",
+        "refcode": "Дa 36.2"
+      },
+      {
+        "para_id": "11590.366",
+        "lang": "ce",
+        "refcode": "ABA 80.2"
+      },
+      {
+        "para_id": "11247.343",
+        "lang": "cs",
+        "refcode": "PNL 53.2"
+      },
+      {
+        "para_id": "813.379",
+        "lang": "de",
+        "refcode": "WA 94.3"
+      },
+      {
+        "para_id": "198.373",
+        "lang": "es",
+        "refcode": "HAp 77.2"
+      },
+      {
+        "para_id": "158.360",
+        "lang": "fr",
+        "refcode": "CP 82.2"
+      },
+      {
+        "para_id": "11938.332",
+        "lang": "hu",
+        "refcode": "AT 63.2"
+      },
+      {
+        "para_id": "12410.350",
+        "lang": "id",
+        "refcode": "KR 78.2"
+      },
+      {
+        "para_id": "882.330",
+        "lang": "it",
+        "refcode": "UVI 59.1"
+      },
+      {
+        "para_id": "11660.462",
+        "lang": "ja",
+        "refcode": "AAJ 96.2"
+      },
+      {
+        "para_id": "12335.314",
+        "lang": "nb",
+        "refcode": "AV 54.3"
+      },
+      {
+        "para_id": "12008.301",
+        "lang": "pl",
+        "refcode": "DA 53.3"
+      },
+      {
+        "para_id": "1806.329",
+        "lang": "pt",
+        "refcode": "AA 55.1"
+      },
+      {
+        "para_id": "2013.373",
+        "lang": "ro",
+        "refcode": "FA 93.2"
+      },
+      {
+        "para_id": "1785.354",
+        "lang": "ru",
+        "refcode": "ДА 93.2"
+      },
+      {
+        "para_id": "13874.320",
+        "lang": "rw",
+        "refcode": "INI 62.1"
+      },
+      {
+        "para_id": "11182.309",
+        "lang": "sk",
+        "refcode": "SA 59.3"
+      },
+      {
+        "para_id": "11904.347",
+        "lang": "tl",
+        "refcode": "AGA 71.2"
+      },
+      {
+        "para_id": "11875.328",
+        "lang": "uk",
+        "refcode": "ДА 62.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.386",
+    "id_prev": "127.383",
+    "id_next": "127.387",
+    "refcode_1": "AA",
+    "refcode_2": "94",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 94.1",
+    "refcode_long": "The Acts of the Apostles, p. 94.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Later, when choosing seventy elders to share with him the responsibilities of leadership, Moses was careful to select, as his helpers, men possessing dignity, sound judgment, and experience. In his charge to these elders at the time of their ordination, he outlined some of the qualifications that fit a man to be a wise ruler in the church. &ldquo;Hear the causes between your brethren,&rdquo; said Moses, &ldquo;and judge righteously between every man and his brother, and the stranger that is with him. Ye shall not respect persons in judgment; but ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment is God&apos;s.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Deuteronomy 1:16\" data-link=\"1965.9978\">Deuteronomy 1:16, 17</span>.",
+    "puborder": 233,
+    "translations": [
+      {
+        "para_id": "13804.283",
+        "lang": "bg",
+        "refcode": "Дa 36.3"
+      },
+      {
+        "para_id": "11590.367",
+        "lang": "ce",
+        "refcode": "ABA 80.3"
+      },
+      {
+        "para_id": "11247.344",
+        "lang": "cs",
+        "refcode": "PNL 53.3"
+      },
+      {
+        "para_id": "813.381",
+        "lang": "de",
+        "refcode": "WA 95.1"
+      },
+      {
+        "para_id": "198.374",
+        "lang": "es",
+        "refcode": "HAp 77.3"
+      },
+      {
+        "para_id": "158.361",
+        "lang": "fr",
+        "refcode": "CP 82.3"
+      },
+      {
+        "para_id": "11938.333",
+        "lang": "hu",
+        "refcode": "AT 63.3"
+      },
+      {
+        "para_id": "12410.351",
+        "lang": "id",
+        "refcode": "KR 78.3"
+      },
+      {
+        "para_id": "882.331",
+        "lang": "it",
+        "refcode": "UVI 59.2"
+      },
+      {
+        "para_id": "11660.464",
+        "lang": "ja",
+        "refcode": "AAJ 97.1"
+      },
+      {
+        "para_id": "12335.315",
+        "lang": "nb",
+        "refcode": "AV 54.4"
+      },
+      {
+        "para_id": "12008.302",
+        "lang": "pl",
+        "refcode": "DA 53.4"
+      },
+      {
+        "para_id": "1806.330",
+        "lang": "pt",
+        "refcode": "AA 55.2"
+      },
+      {
+        "para_id": "2013.376",
+        "lang": "ro",
+        "refcode": "FA 94.1"
+      },
+      {
+        "para_id": "1785.357",
+        "lang": "ru",
+        "refcode": "ДА 94.1"
+      },
+      {
+        "para_id": "13874.321",
+        "lang": "rw",
+        "refcode": "INI 62.2"
+      },
+      {
+        "para_id": "11182.310",
+        "lang": "sk",
+        "refcode": "SA 59.4"
+      },
+      {
+        "para_id": "11904.348",
+        "lang": "tl",
+        "refcode": "AGA 71.3"
+      },
+      {
+        "para_id": "11875.329",
+        "lang": "uk",
+        "refcode": "ДА 62.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.387",
+    "id_prev": "127.386",
+    "id_next": "127.389",
+    "refcode_1": "AA",
+    "refcode_2": "94",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 94.2",
+    "refcode_long": "The Acts of the Apostles, p. 94.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "King David, toward the close of his reign, delivered a solemn charge to those bearing the burden of the work of God in his day. Summoning to Jerusalem &ldquo;all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men,&rdquo; the aged king solemnly charged them, &ldquo;in the sight of all Israel the congregation of the Lord, and in the audience of our God,&rdquo; to &ldquo;keep and seek for all the commandments of the Lord your God.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Chronicles 28:1\" data-link=\"1965.22670\">1 Chronicles 28:1, 8</span>.",
+    "puborder": 234,
+    "translations": [
+      {
+        "para_id": "13804.284",
+        "lang": "bg",
+        "refcode": "Дa 36.4"
+      },
+      {
+        "para_id": "11590.370",
+        "lang": "ce",
+        "refcode": "ABA 81.1"
+      },
+      {
+        "para_id": "11247.345",
+        "lang": "cs",
+        "refcode": "PNL 53.4"
+      },
+      {
+        "para_id": "813.382",
+        "lang": "de",
+        "refcode": "WA 95.2"
+      },
+      {
+        "para_id": "198.375",
+        "lang": "es",
+        "refcode": "HAp 77.4"
+      },
+      {
+        "para_id": "158.363",
+        "lang": "fr",
+        "refcode": "CP 83.1"
+      },
+      {
+        "para_id": "11938.334",
+        "lang": "hu",
+        "refcode": "AT 63.4"
+      },
+      {
+        "para_id": "12410.354",
+        "lang": "id",
+        "refcode": "KR 79.1"
+      },
+      {
+        "para_id": "882.332",
+        "lang": "it",
+        "refcode": "UVI 59.3"
+      },
+      {
+        "para_id": "11660.465",
+        "lang": "ja",
+        "refcode": "AAJ 97.2"
+      },
+      {
+        "para_id": "12335.318",
+        "lang": "nb",
+        "refcode": "AV 55.1"
+      },
+      {
+        "para_id": "12008.303",
+        "lang": "pl",
+        "refcode": "DA 53.5"
+      },
+      {
+        "para_id": "1806.333",
+        "lang": "pt",
+        "refcode": "AA 55.5"
+      },
+      {
+        "para_id": "2013.377",
+        "lang": "ro",
+        "refcode": "FA 94.2"
+      },
+      {
+        "para_id": "1785.358",
+        "lang": "ru",
+        "refcode": "ДА 94.2"
+      },
+      {
+        "para_id": "13874.322",
+        "lang": "rw",
+        "refcode": "INI 62.3"
+      },
+      {
+        "para_id": "11182.313",
+        "lang": "sk",
+        "refcode": "SA 60.1"
+      },
+      {
+        "para_id": "11904.351",
+        "lang": "tl",
+        "refcode": "AGA 72.1"
+      },
+      {
+        "para_id": "11875.331",
+        "lang": "uk",
+        "refcode": "ДА 63.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.389",
+    "id_prev": "127.387",
+    "id_next": "127.390",
+    "refcode_1": "AA",
+    "refcode_2": "95",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 95.1",
+    "refcode_long": "The Acts of the Apostles, p. 95.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To Solomon, as one called to occupy a position of leading responsibility, David gave a special charge: &ldquo;Thou, Solomon my son, know thou the God of thy father, and serve Him with a perfect heart and with a willing mind: for the Lord searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek Him, He will be found of thee; but if thou forsake Him, He will cast thee off forever. Take heed now; for the Lord hath chosen thee: ... be strong.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Chronicles 28:9\" data-link=\"1965.22686\">1 Chronicles 28:9, 10</span>.",
+    "puborder": 235,
+    "translations": [
+      {
+        "para_id": "13804.285",
+        "lang": "bg",
+        "refcode": "Дa 36.5"
+      },
+      {
+        "para_id": "11590.371",
+        "lang": "ce",
+        "refcode": "ABA 81.2"
+      },
+      {
+        "para_id": "11247.347",
+        "lang": "cs",
+        "refcode": "PNL 54.1"
+      },
+      {
+        "para_id": "813.383",
+        "lang": "de",
+        "refcode": "WA 95.3"
+      },
+      {
+        "para_id": "198.378",
+        "lang": "es",
+        "refcode": "HAp 78.1"
+      },
+      {
+        "para_id": "158.364",
+        "lang": "fr",
+        "refcode": "CP 83.2"
+      },
+      {
+        "para_id": "11938.337",
+        "lang": "hu",
+        "refcode": "AT 64.1"
+      },
+      {
+        "para_id": "12410.355",
+        "lang": "id",
+        "refcode": "KR 79.2"
+      },
+      {
+        "para_id": "882.333",
+        "lang": "it",
+        "refcode": "UVI 59.4"
+      },
+      {
+        "para_id": "11660.466",
+        "lang": "ja",
+        "refcode": "AAJ 97.3"
+      },
+      {
+        "para_id": "12335.319",
+        "lang": "nb",
+        "refcode": "AV 55.2"
+      },
+      {
+        "para_id": "12008.306",
+        "lang": "pl",
+        "refcode": "DA 54.1"
+      },
+      {
+        "para_id": "1806.334",
+        "lang": "pt",
+        "refcode": "AA 55.6"
+      },
+      {
+        "para_id": "2013.379",
+        "lang": "ro",
+        "refcode": "FA 95.1"
+      },
+      {
+        "para_id": "1785.360",
+        "lang": "ru",
+        "refcode": "ДА 95.1"
+      },
+      {
+        "para_id": "13874.323",
+        "lang": "rw",
+        "refcode": "INI 62.4"
+      },
+      {
+        "para_id": "11182.314",
+        "lang": "sk",
+        "refcode": "SA 60.2"
+      },
+      {
+        "para_id": "11904.352",
+        "lang": "tl",
+        "refcode": "AGA 72.2"
+      },
+      {
+        "para_id": "11875.332",
+        "lang": "uk",
+        "refcode": "ДА 63.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.390",
+    "id_prev": "127.389",
+    "id_next": "127.391",
+    "refcode_1": "AA",
+    "refcode_2": "95",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 95.2",
+    "refcode_long": "The Acts of the Apostles, p. 95.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The same principles of piety and justice that were to guide the rulers among God&apos;s people in the time of Moses and of David, were also to be followed by those given the oversight of the newly organized church of God in the gospel dispensation. In the work of setting things in order in all the churches, and ordaining suitable men to act as officers, the apostles held to the high standards of leadership outlined in the Old Testament Scriptures. They maintained that he who is called to stand in a position of leading responsibility in the church &ldquo;must be blameless, as the steward of God; not self-willed, not soon angry, not given to wine, no striker, not given to filthy lucre; but a lover of hospitality, a lover of good men, sober, just, holy, temperate; holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Titus 1:7\" data-link=\"1965.60987\">Titus 1:7-9</span>.",
+    "puborder": 236,
+    "translations": [
+      {
+        "para_id": "13804.286",
+        "lang": "bg",
+        "refcode": "Дa 36.6"
+      },
+      {
+        "para_id": "11590.372",
+        "lang": "ce",
+        "refcode": "ABA 81.3"
+      },
+      {
+        "para_id": "11247.348",
+        "lang": "cs",
+        "refcode": "PNL 54.2"
+      },
+      {
+        "para_id": "813.386",
+        "lang": "de",
+        "refcode": "WA 96.1"
+      },
+      {
+        "para_id": "198.379",
+        "lang": "es",
+        "refcode": "HAp 78.2"
+      },
+      {
+        "para_id": "158.365",
+        "lang": "fr",
+        "refcode": "CP 83.3"
+      },
+      {
+        "para_id": "11938.338",
+        "lang": "hu",
+        "refcode": "AT 64.2"
+      },
+      {
+        "para_id": "12410.356",
+        "lang": "id",
+        "refcode": "KR 79.3"
+      },
+      {
+        "para_id": "882.334",
+        "lang": "it",
+        "refcode": "UVI 59.5"
+      },
+      {
+        "para_id": "11660.469",
+        "lang": "ja",
+        "refcode": "AAJ 98.1"
+      },
+      {
+        "para_id": "12335.320",
+        "lang": "nb",
+        "refcode": "AV 55.3"
+      },
+      {
+        "para_id": "12008.307",
+        "lang": "pl",
+        "refcode": "DA 54.2"
+      },
+      {
+        "para_id": "1806.334",
+        "lang": "pt",
+        "refcode": "AA 55.6"
+      },
+      {
+        "para_id": "2013.380",
+        "lang": "ro",
+        "refcode": "FA 95.2"
+      },
+      {
+        "para_id": "1785.361",
+        "lang": "ru",
+        "refcode": "ДА 95.2"
+      },
+      {
+        "para_id": "13874.324",
+        "lang": "rw",
+        "refcode": "INI 62.5"
+      },
+      {
+        "para_id": "11182.315",
+        "lang": "sk",
+        "refcode": "SA 60.3"
+      },
+      {
+        "para_id": "11904.353",
+        "lang": "tl",
+        "refcode": "AGA 72.3"
+      },
+      {
+        "para_id": "11875.333",
+        "lang": "uk",
+        "refcode": "ДА 63.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.391",
+    "id_prev": "127.390",
+    "id_next": "127.394",
+    "refcode_1": "AA",
+    "refcode_2": "95",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 95.3",
+    "refcode_long": "The Acts of the Apostles, p. 95.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The order that was maintained in the early Christian church made it possible for them to move forward solidly as a well-disciplined army clad with the armor of God. The <span class=\"page-break\" data-page=\"96\"></span> companies of believers, though scattered over a large territory, were all members of one body; all moved in concert and in harmony with one another. When dissension arose in a local church, as later it did arise in Antioch and elsewhere, and the believers were unable to come to an agreement among themselves, such matters were not permitted to create a division in the church, but were referred to a general council of the entire body of believers, made up of appointed delegates from the various local churches, with the apostles and elders in positions of leading responsibility. Thus the efforts of Satan to attack the church in isolated places were met by concerted action on the part of all, and the plans of the enemy to disrupt and destroy were thwarted.",
+    "puborder": 237,
+    "translations": [
+      {
+        "para_id": "13804.288",
+        "lang": "bg",
+        "refcode": "Дa 37.1"
+      },
+      {
+        "para_id": "11590.375",
+        "lang": "ce",
+        "refcode": "ABA 82.1"
+      },
+      {
+        "para_id": "11247.349",
+        "lang": "cs",
+        "refcode": "PNL 54.3"
+      },
+      {
+        "para_id": "813.387",
+        "lang": "de",
+        "refcode": "WA 96.2"
+      },
+      {
+        "para_id": "198.380",
+        "lang": "es",
+        "refcode": "HAp 78.3"
+      },
+      {
+        "para_id": "158.367",
+        "lang": "fr",
+        "refcode": "CP 84.1"
+      },
+      {
+        "para_id": "11938.339",
+        "lang": "hu",
+        "refcode": "AT 64.3"
+      },
+      {
+        "para_id": "12410.359",
+        "lang": "id",
+        "refcode": "KR 80.1"
+      },
+      {
+        "para_id": "882.337",
+        "lang": "it",
+        "refcode": "UVI 60.1"
+      },
+      {
+        "para_id": "11660.470",
+        "lang": "ja",
+        "refcode": "AAJ 98.2"
+      },
+      {
+        "para_id": "12335.321",
+        "lang": "nb",
+        "refcode": "AV 55.4"
+      },
+      {
+        "para_id": "12008.308",
+        "lang": "pl",
+        "refcode": "DA 54.3"
+      },
+      {
+        "para_id": "1806.334",
+        "lang": "pt",
+        "refcode": "AA 55.6"
+      },
+      {
+        "para_id": "2013.381",
+        "lang": "ro",
+        "refcode": "FA 95.3"
+      },
+      {
+        "para_id": "1785.362",
+        "lang": "ru",
+        "refcode": "ДА 95.3"
+      },
+      {
+        "para_id": "13874.327",
+        "lang": "rw",
+        "refcode": "INI 63.1"
+      },
+      {
+        "para_id": "11182.316",
+        "lang": "sk",
+        "refcode": "SA 60.4"
+      },
+      {
+        "para_id": "11904.356",
+        "lang": "tl",
+        "refcode": "AGA 73.1"
+      },
+      {
+        "para_id": "11875.334",
+        "lang": "uk",
+        "refcode": "ДА 63.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.394",
+    "id_prev": "127.391",
+    "id_next": "127.396",
+    "refcode_1": "AA",
+    "refcode_2": "96",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 96.1",
+    "refcode_long": "The Acts of the Apostles, p. 96.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;God is not the author of confusion, but of peace, as in all churches of the saints.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 Corinthians 14:33\" data-link=\"1965.58547\">1 Corinthians 14:33</span>. He requires that order and system be observed in the conduct of church affairs today no less than in the days of old. He desires His work to be carried forward with thoroughness and exactness so that He may place upon it the seal of His approval. Christian is to be united with Christian, church with church, the human instrumentality co-operating with the divine, every agency subordinate to the Holy Spirit, and all combined in giving to the world the good tidings of the grace of God.",
+    "puborder": 238,
+    "translations": [
+      {
+        "para_id": "13804.289",
+        "lang": "bg",
+        "refcode": "Дa 37.2"
+      },
+      {
+        "para_id": "11590.376",
+        "lang": "ce",
+        "refcode": "ABA 82.2"
+      },
+      {
+        "para_id": "11247.350",
+        "lang": "cs",
+        "refcode": "PNL 54.4"
+      },
+      {
+        "para_id": "813.390",
+        "lang": "de",
+        "refcode": "WA 97.1"
+      },
+      {
+        "para_id": "198.383",
+        "lang": "es",
+        "refcode": "HAp 79.1"
+      },
+      {
+        "para_id": "158.368",
+        "lang": "fr",
+        "refcode": "CP 84.2"
+      },
+      {
+        "para_id": "11938.341",
+        "lang": "hu",
+        "refcode": "AT 65.1"
+      },
+      {
+        "para_id": "12410.360",
+        "lang": "id",
+        "refcode": "KR 80.2"
+      },
+      {
+        "para_id": "882.338",
+        "lang": "it",
+        "refcode": "UVI 60.2"
+      },
+      {
+        "para_id": "11660.473",
+        "lang": "ja",
+        "refcode": "AAJ 99.1"
+      },
+      {
+        "para_id": "12335.324",
+        "lang": "nb",
+        "refcode": "AV 56.1"
+      },
+      {
+        "para_id": "12008.309",
+        "lang": "pl",
+        "refcode": "DA 54.4"
+      },
+      {
+        "para_id": "1806.339",
+        "lang": "pt",
+        "refcode": "AA 56.3"
+      },
+      {
+        "para_id": "2013.384",
+        "lang": "ro",
+        "refcode": "FA 96.1"
+      },
+      {
+        "para_id": "1785.365",
+        "lang": "ru",
+        "refcode": "ДА 96.1"
+      },
+      {
+        "para_id": "13874.328",
+        "lang": "rw",
+        "refcode": "INI 63.2"
+      },
+      {
+        "para_id": "11182.319",
+        "lang": "sk",
+        "refcode": "SA 61.1"
+      },
+      {
+        "para_id": "11904.357",
+        "lang": "tl",
+        "refcode": "AGA 73.2"
+      },
+      {
+        "para_id": "11875.337",
+        "lang": "uk",
+        "refcode": "ДА 64.1"
+      }
+    ]
+  }
+]

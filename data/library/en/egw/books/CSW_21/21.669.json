@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.669",
+    "id_prev": "21.668",
+    "id_next": "21.670",
+    "refcode_1": "CSW",
+    "refcode_2": "143",
+    "refcode_3": "",
+    "refcode_4": "111",
+    "refcode_short": "CSW 143",
+    "refcode_long": "Counsels on Sabbath School Work, p. 143 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Reminder of God&apos;s Care and Love",
+    "puborder": 422,
+    "translations": [
+      {
+        "para_id": "11629.644",
+        "lang": "da",
+        "refcode": "RSSA 143"
+      },
+      {
+        "para_id": "799.635",
+        "lang": "de",
+        "refcode": "RSs 119"
+      },
+      {
+        "para_id": "1711.718",
+        "lang": "es",
+        "refcode": "COES 161"
+      },
+      {
+        "para_id": "1917.787",
+        "lang": "pt",
+        "refcode": "CES38 75"
+      },
+      {
+        "para_id": "1724.707",
+        "lang": "pt",
+        "refcode": "CES 143"
+      },
+      {
+        "para_id": "2719.686",
+        "lang": "ro",
+        "refcode": "SSS 143"
+      },
+      {
+        "para_id": "1873.665",
+        "lang": "ru",
+        "refcode": "ССШ 144"
+      }
+    ]
+  },
+  {
+    "para_id": "21.670",
+    "id_prev": "21.669",
+    "id_next": "21.673",
+    "refcode_1": "CSW",
+    "refcode_2": "143",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 143.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 143.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Our birthday anniversaries, and Christmas and Thanksgiving festivals, are too often devoted to selfish <span class=\"page-break\" data-page=\"144\"></span> gratification, when the mind should be directed to the mercy and loving-kindness of God. God is displeased that His goodness, His constant care, His unceasing love, are not brought to mind on these anniversary occasions.&mdash;<span class=\"egwlink egwlink_book\" title=\"RH 12-23-1890\" data-link=\"821.10920\"><em>The Review and Herald</em>, December 23, 1890</span>.",
+    "puborder": 423,
+    "translations": [
+      {
+        "para_id": "11629.645",
+        "lang": "da",
+        "refcode": "RSSA 143.2"
+      },
+      {
+        "para_id": "799.636",
+        "lang": "de",
+        "refcode": "RSs 119.1"
+      },
+      {
+        "para_id": "1711.719",
+        "lang": "es",
+        "refcode": "COES 161.1"
+      },
+      {
+        "para_id": "1724.708",
+        "lang": "pt",
+        "refcode": "CES 143.2"
+      },
+      {
+        "para_id": "1917.788",
+        "lang": "pt",
+        "refcode": "CES38 75.2"
+      },
+      {
+        "para_id": "2719.687",
+        "lang": "ro",
+        "refcode": "SSS 143.2"
+      },
+      {
+        "para_id": "1873.666",
+        "lang": "ru",
+        "refcode": "ССШ 144.1"
+      }
+    ]
+  }
+]

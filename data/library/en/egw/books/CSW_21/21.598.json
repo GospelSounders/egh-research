@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.598",
+    "id_prev": "21.595",
+    "id_next": "21.599",
+    "refcode_1": "CSW",
+    "refcode_2": "130",
+    "refcode_3": "",
+    "refcode_4": "91",
+    "refcode_short": "CSW 130",
+    "refcode_long": "Counsels on Sabbath School Work, p. 130 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Systematic Weekly Giving",
+    "puborder": 374,
+    "translations": [
+      {
+        "para_id": "11629.572",
+        "lang": "da",
+        "refcode": "RSSA 130"
+      },
+      {
+        "para_id": "799.567",
+        "lang": "de",
+        "refcode": "RSs 108"
+      },
+      {
+        "para_id": "1711.643",
+        "lang": "es",
+        "refcode": "COES 146"
+      },
+      {
+        "para_id": "1724.636",
+        "lang": "pt",
+        "refcode": "CES 130"
+      },
+      {
+        "para_id": "1917.702",
+        "lang": "pt",
+        "refcode": "CES38 67"
+      },
+      {
+        "para_id": "2719.615",
+        "lang": "ro",
+        "refcode": "SSS 130"
+      },
+      {
+        "para_id": "1873.593",
+        "lang": "ru",
+        "refcode": "ССШ 130"
+      }
+    ]
+  },
+  {
+    "para_id": "21.599",
+    "id_prev": "21.598",
+    "id_next": "21.600",
+    "refcode_1": "CSW",
+    "refcode_2": "130",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 130.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 130.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The offerings of little children may be acceptable and pleasing to God. In accordance with the spirit that prompts the gifts will be the value of the offering. The poor, by following the rule of the apostle and laying by a small sum every week, help to swell the treasury, and their gifts are wholly acceptable to God; for they make just as great, and even greater, sacrifices than their more wealthy brethren. The plan of systematic benevolence will prove a safeguard to every family against temptations to spend means for needless things, and especially will it prove a blessing to the rich by guarding them from indulging in extravagances.",
+    "puborder": 375,
+    "translations": [
+      {
+        "para_id": "11629.573",
+        "lang": "da",
+        "refcode": "RSSA 130.1"
+      },
+      {
+        "para_id": "799.568",
+        "lang": "de",
+        "refcode": "RSs 108.3"
+      },
+      {
+        "para_id": "1711.644",
+        "lang": "es",
+        "refcode": "COES 146.1"
+      },
+      {
+        "para_id": "1724.637",
+        "lang": "pt",
+        "refcode": "CES 130.1"
+      },
+      {
+        "para_id": "1917.703",
+        "lang": "pt",
+        "refcode": "CES38 67.4"
+      },
+      {
+        "para_id": "2719.616",
+        "lang": "ro",
+        "refcode": "SSS 130.1"
+      },
+      {
+        "para_id": "1873.594",
+        "lang": "ru",
+        "refcode": "ССШ 130.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.600",
+    "id_prev": "21.599",
+    "id_next": "21.603",
+    "refcode_1": "CSW",
+    "refcode_2": "130",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 130.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 130.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Every week the demands of God upon each family are brought to mind by each of its members fully carrying out the plan; and as they have denied themselves some superfluity in order to have means to put into the treasury, lessons of value in self-denial for the <span class=\"page-break\" data-page=\"131\"></span> glory of God have been impressed upon the heart. Once a week, each is brought face to face with the doings of the past week&mdash;the income that he might have had if he had been economical, and the means that he does not have because of indulgence. His conscience is reined up, as it were, before God, and either commends or accuses him. He learns that if he retains peace of mind and the favor of God, he must eat, and drink, and dress to His glory.&mdash;<span class=\"egwlink egwlink_book\" title=\"3T 412.1\" data-link=\"119.1920\"><em>Testimonies for the Church</em> 3:412</span>.",
+    "puborder": 376,
+    "translations": [
+      {
+        "para_id": "11629.574",
+        "lang": "da",
+        "refcode": "RSSA 130.2"
+      },
+      {
+        "para_id": "799.571",
+        "lang": "de",
+        "refcode": "RSs 109.1"
+      },
+      {
+        "para_id": "1711.647",
+        "lang": "es",
+        "refcode": "COES 147.1"
+      },
+      {
+        "para_id": "1917.704",
+        "lang": "pt",
+        "refcode": "CES38 67.5"
+      },
+      {
+        "para_id": "1724.638",
+        "lang": "pt",
+        "refcode": "CES 130.2"
+      },
+      {
+        "para_id": "2719.617",
+        "lang": "ro",
+        "refcode": "SSS 130.2"
+      },
+      {
+        "para_id": "1873.595",
+        "lang": "ru",
+        "refcode": "ССШ 130.2"
+      }
+    ]
+  }
+]

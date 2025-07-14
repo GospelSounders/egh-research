@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.679",
+    "id_prev": "21.676",
+    "id_next": "21.680",
+    "refcode_1": "CSW",
+    "refcode_2": "145",
+    "refcode_3": "",
+    "refcode_4": "114",
+    "refcode_short": "CSW 145",
+    "refcode_long": "Counsels on Sabbath School Work, p. 145 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Christ Values Deeds of Love",
+    "puborder": 428,
+    "translations": [
+      {
+        "para_id": "11629.654",
+        "lang": "da",
+        "refcode": "RSSA 145"
+      },
+      {
+        "para_id": "799.643",
+        "lang": "de",
+        "refcode": "RSs 120"
+      },
+      {
+        "para_id": "1711.728",
+        "lang": "es",
+        "refcode": "COES 163"
+      },
+      {
+        "para_id": "1724.717",
+        "lang": "pt",
+        "refcode": "CES 145"
+      },
+      {
+        "para_id": "1917.799",
+        "lang": "pt",
+        "refcode": "CES38 76"
+      },
+      {
+        "para_id": "2719.697",
+        "lang": "ro",
+        "refcode": "SSS 145"
+      },
+      {
+        "para_id": "1873.673",
+        "lang": "ru",
+        "refcode": "ССШ 145"
+      }
+    ]
+  },
+  {
+    "para_id": "21.680",
+    "id_prev": "21.679",
+    "id_next": "21.681",
+    "refcode_1": "CSW",
+    "refcode_2": "145",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 145.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 145.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Christ values acts of heartfelt courtesy. When any one did Him a favor, with heavenly politeness He blessed the actor. He did not refuse the simplest flower plucked by the hand of a child, and offered to Him in love. He accepted the offerings of children, and blessed the givers, inscribing their names in the book of life. In the Scriptures, Mary&apos;s anointing of Jesus is mentioned as distinguishing her from the other Marys. Acts of love and reverence for Jesus are an evidence of faith in Him as the Son of God.&mdash;<span class=\"egwlink egwlink_book\" title=\"DA 564.1\" data-link=\"130.2748\"><em>The Desire of Ages</em>, 564</span>.",
+    "puborder": 429,
+    "translations": [
+      {
+        "para_id": "11629.655",
+        "lang": "da",
+        "refcode": "RSSA 145.1"
+      },
+      {
+        "para_id": "799.644",
+        "lang": "de",
+        "refcode": "RSs 120.1"
+      },
+      {
+        "para_id": "1711.729",
+        "lang": "es",
+        "refcode": "COES 163.1"
+      },
+      {
+        "para_id": "1917.800",
+        "lang": "pt",
+        "refcode": "CES38 76.4"
+      },
+      {
+        "para_id": "1724.718",
+        "lang": "pt",
+        "refcode": "CES 145.1"
+      },
+      {
+        "para_id": "2719.698",
+        "lang": "ro",
+        "refcode": "SSS 145.1"
+      },
+      {
+        "para_id": "1873.674",
+        "lang": "ru",
+        "refcode": "ССШ 145.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.681",
+    "id_prev": "21.680",
+    "id_next": "21.682",
+    "refcode_1": "CSW",
+    "refcode_2": "145",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 145.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 145.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "No offering is small that is given with trueheartedness and gladness of soul.&mdash;<span class=\"egwlink egwlink_book\" title=\"COL 359.1\" data-link=\"15.1601\"><em>Christ&apos;s Object Lessons</em>, 359</span>.",
+    "puborder": 430,
+    "translations": [
+      {
+        "para_id": "11629.656",
+        "lang": "da",
+        "refcode": "RSSA 145.2"
+      },
+      {
+        "para_id": "799.645",
+        "lang": "de",
+        "refcode": "RSs 120.2"
+      },
+      {
+        "para_id": "1711.730",
+        "lang": "es",
+        "refcode": "COES 163.2"
+      },
+      {
+        "para_id": "1917.801",
+        "lang": "pt",
+        "refcode": "CES38 76.5"
+      },
+      {
+        "para_id": "1724.719",
+        "lang": "pt",
+        "refcode": "CES 145.2"
+      },
+      {
+        "para_id": "2719.698",
+        "lang": "ro",
+        "refcode": "SSS 145.1"
+      },
+      {
+        "para_id": "1873.675",
+        "lang": "ru",
+        "refcode": "ССШ 145.2"
+      }
+    ]
+  }
+]

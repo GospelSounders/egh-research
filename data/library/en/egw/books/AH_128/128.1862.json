@@ -1,0 +1,1429 @@
+[
+  {
+    "para_id": "128.1862",
+    "id_prev": "128.1859",
+    "id_next": "128.1864",
+    "refcode_1": "AH",
+    "refcode_2": "399",
+    "refcode_3": "",
+    "refcode_4": "14",
+    "refcode_short": "AH 399",
+    "refcode_long": "The Adventist Home, p. 399 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 14&mdash;Guarding the Avenues of the Soul",
+    "puborder": 1240,
+    "translations": [
+      {
+        "para_id": "13839.1518",
+        "lang": "bg",
+        "refcode": "ХД 172"
+      },
+      {
+        "para_id": "177.1884",
+        "lang": "es",
+        "refcode": "HC 364"
+      },
+      {
+        "para_id": "193.1838",
+        "lang": "fr",
+        "refcode": "FC 385"
+      },
+      {
+        "para_id": "12869.2309",
+        "lang": "id",
+        "refcode": "MKB 382"
+      },
+      {
+        "para_id": "891.1216",
+        "lang": "it",
+        "refcode": "FC 164"
+      },
+      {
+        "para_id": "12178.1597",
+        "lang": "pl",
+        "refcode": "ChD 254"
+      },
+      {
+        "para_id": "1955.2389",
+        "lang": "pt",
+        "refcode": "LA 401"
+      },
+      {
+        "para_id": "2026.1856",
+        "lang": "ro",
+        "refcode": "CA 401"
+      },
+      {
+        "para_id": "1803.1805",
+        "lang": "ru",
+        "refcode": "ХД 400"
+      },
+      {
+        "para_id": "12131.1678",
+        "lang": "uk",
+        "refcode": "ХР 321"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1864",
+    "id_prev": "128.1862",
+    "id_next": "128.1865",
+    "refcode_1": "AH",
+    "refcode_2": "401",
+    "refcode_3": "",
+    "refcode_4": "66",
+    "refcode_short": "AH 401",
+    "refcode_long": "The Adventist Home, p. 401 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 66&mdash;The Portals We Must Watch",
+    "puborder": 1241,
+    "translations": [
+      {
+        "para_id": "13839.1519",
+        "lang": "bg",
+        "refcode": "ХД 172"
+      },
+      {
+        "para_id": "177.1885",
+        "lang": "es",
+        "refcode": "HC 364"
+      },
+      {
+        "para_id": "193.1841",
+        "lang": "fr",
+        "refcode": "FC 387"
+      },
+      {
+        "para_id": "12869.2311",
+        "lang": "id",
+        "refcode": "MKB 383"
+      },
+      {
+        "para_id": "891.1217",
+        "lang": "it",
+        "refcode": "FC 164"
+      },
+      {
+        "para_id": "12178.1598",
+        "lang": "pl",
+        "refcode": "ChD 254"
+      },
+      {
+        "para_id": "1955.2390",
+        "lang": "pt",
+        "refcode": "LA 401"
+      },
+      {
+        "para_id": "2026.1857",
+        "lang": "ro",
+        "refcode": "CA 401"
+      },
+      {
+        "para_id": "1803.1807",
+        "lang": "ru",
+        "refcode": "ХД 401"
+      },
+      {
+        "para_id": "12131.1680",
+        "lang": "uk",
+        "refcode": "ХР 322"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1865",
+    "id_prev": "128.1864",
+    "id_next": "128.1866",
+    "refcode_1": "AH",
+    "refcode_2": "401",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 401.1",
+    "refcode_long": "The Adventist Home, p. 401.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Why God Gave Us Eyes, Ears, and Speech</strong>&mdash;God gave men eyes, that they might behold wondrous things out of His law. He gave them the hearing ear, that they might listen to His message, spoken by the living preacher. He gave men the talent of speech, that they might present Christ as the sin-pardoning Saviour. With the heart man believeth unto righteousness, and with the mouth confession is made unto salvation.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 21, 1899\" data-link=\"14064.7009001\">Letter 21, 1899</span>.</span></a></sup>",
+    "puborder": 1242,
+    "translations": [
+      {
+        "para_id": "13839.1520",
+        "lang": "bg",
+        "refcode": "ХД 172.1"
+      },
+      {
+        "para_id": "177.1886",
+        "lang": "es",
+        "refcode": "HC 364.1"
+      },
+      {
+        "para_id": "193.1842",
+        "lang": "fr",
+        "refcode": "FC 387.1"
+      },
+      {
+        "para_id": "12869.2313",
+        "lang": "id",
+        "refcode": "MKB 383.1"
+      },
+      {
+        "para_id": "12178.1599",
+        "lang": "pl",
+        "refcode": "ChD 254.1"
+      },
+      {
+        "para_id": "1955.2392",
+        "lang": "pt",
+        "refcode": "LA 401.1"
+      },
+      {
+        "para_id": "1955.2391",
+        "lang": "pt",
+        "refcode": "LA 401"
+      },
+      {
+        "para_id": "2026.1858",
+        "lang": "ro",
+        "refcode": "CA 401.1"
+      },
+      {
+        "para_id": "1803.1808",
+        "lang": "ru",
+        "refcode": "ХД 401.1"
+      },
+      {
+        "para_id": "12131.1681",
+        "lang": "uk",
+        "refcode": "ХР 322.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1866",
+    "id_prev": "128.1865",
+    "id_next": "128.1867",
+    "refcode_1": "AH",
+    "refcode_2": "401",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 401.2",
+    "refcode_long": "The Adventist Home, p. 401.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>How Satan Gains Entrance to the Soul</strong>&mdash;All should guard the senses, lest Satan gain victory over them; for these are the avenues of the soul.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"3T 507.1\" data-link=\"119.2389\">Testimonies for the Church 3:507</span>.</span></a></sup>",
+    "puborder": 1243,
+    "translations": [
+      {
+        "para_id": "13839.1521",
+        "lang": "bg",
+        "refcode": "ХД 172.2"
+      },
+      {
+        "para_id": "177.1887",
+        "lang": "es",
+        "refcode": "HC 364.2"
+      },
+      {
+        "para_id": "193.1843",
+        "lang": "fr",
+        "refcode": "FC 387.2"
+      },
+      {
+        "para_id": "12869.2315",
+        "lang": "id",
+        "refcode": "MKB 383.2"
+      },
+      {
+        "para_id": "12178.1600",
+        "lang": "pl",
+        "refcode": "ChD 254.2"
+      },
+      {
+        "para_id": "1955.2393",
+        "lang": "pt",
+        "refcode": "LA 401"
+      },
+      {
+        "para_id": "1955.2394",
+        "lang": "pt",
+        "refcode": "LA 401.2"
+      },
+      {
+        "para_id": "2026.1859",
+        "lang": "ro",
+        "refcode": "CA 401.2"
+      },
+      {
+        "para_id": "1803.1809",
+        "lang": "ru",
+        "refcode": "ХД 401.2"
+      },
+      {
+        "para_id": "12131.1682",
+        "lang": "uk",
+        "refcode": "ХР 322.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1867",
+    "id_prev": "128.1866",
+    "id_next": "128.1868",
+    "refcode_1": "AH",
+    "refcode_2": "401",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 401.3",
+    "refcode_long": "The Adventist Home, p. 401.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "You will have to become a faithful sentinel over your eyes, ears, and all your senses if you would control your mind and prevent vain and corrupt thoughts from staining your soul. The power of grace alone can accomplish this most desirable work.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"2T 561.1\" data-link=\"120.2407\">Testimonies for the Church 2:561</span>.</span></a></sup>",
+    "puborder": 1244,
+    "translations": [
+      {
+        "para_id": "13839.1522",
+        "lang": "bg",
+        "refcode": "ХД 172.3"
+      },
+      {
+        "para_id": "177.1888",
+        "lang": "es",
+        "refcode": "HC 364.3"
+      },
+      {
+        "para_id": "193.1844",
+        "lang": "fr",
+        "refcode": "FC 387.3"
+      },
+      {
+        "para_id": "12869.2318",
+        "lang": "id",
+        "refcode": "MKB 384.1"
+      },
+      {
+        "para_id": "12178.1601",
+        "lang": "pl",
+        "refcode": "ChD 254.3"
+      },
+      {
+        "para_id": "1955.2395",
+        "lang": "pt",
+        "refcode": "LA 401.3"
+      },
+      {
+        "para_id": "2026.1860",
+        "lang": "ro",
+        "refcode": "CA 401.3"
+      },
+      {
+        "para_id": "1803.1810",
+        "lang": "ru",
+        "refcode": "ХД 401.3"
+      },
+      {
+        "para_id": "12131.1683",
+        "lang": "uk",
+        "refcode": "ХР 322.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1868",
+    "id_prev": "128.1867",
+    "id_next": "128.1869",
+    "refcode_1": "AH",
+    "refcode_2": "401",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 401.4",
+    "refcode_long": "The Adventist Home, p. 401.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Satan and his angels are busy creating a paralyzed condition of the senses so that cautions, warnings, and reproofs shall not be heard; or, if heard, that they shall not take effect upon the heart and reform the life.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 493.1\" data-link=\"113.2422\">Ibid., 5:493</span>.</span></a></sup>",
+    "puborder": 1245,
+    "translations": [
+      {
+        "para_id": "13839.1523",
+        "lang": "bg",
+        "refcode": "ХД 172.4"
+      },
+      {
+        "para_id": "177.1889",
+        "lang": "es",
+        "refcode": "HC 364.4"
+      },
+      {
+        "para_id": "193.1845",
+        "lang": "fr",
+        "refcode": "FC 387.4"
+      },
+      {
+        "para_id": "12869.2319",
+        "lang": "id",
+        "refcode": "MKB 384.2"
+      },
+      {
+        "para_id": "12178.1602",
+        "lang": "pl",
+        "refcode": "ChD 254.4"
+      },
+      {
+        "para_id": "1955.2396",
+        "lang": "pt",
+        "refcode": "LA 401.4"
+      },
+      {
+        "para_id": "2026.1861",
+        "lang": "ro",
+        "refcode": "CA 401.4"
+      },
+      {
+        "para_id": "1803.1811",
+        "lang": "ru",
+        "refcode": "ХД 401.4"
+      },
+      {
+        "para_id": "12131.1684",
+        "lang": "uk",
+        "refcode": "ХР 322.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1869",
+    "id_prev": "128.1868",
+    "id_next": "128.1870",
+    "refcode_1": "AH",
+    "refcode_2": "401",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AH 401.5",
+    "refcode_long": "The Adventist Home, p. 401.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "My brethren, God calls upon you as His followers to walk in the light. You need to be alarmed. Sin is among us, and it is not seen to be exceedingly sinful. The senses of many are benumbed by the indulgence of appetite and by familiarity with sin. We need to advance nearer heaven.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"3T 476.2\" data-link=\"119.2236\">Ibid., 3:476</span>.</span></a></sup>",
+    "puborder": 1246,
+    "translations": [
+      {
+        "para_id": "13839.1524",
+        "lang": "bg",
+        "refcode": "ХД 172.5"
+      },
+      {
+        "para_id": "177.1890",
+        "lang": "es",
+        "refcode": "HC 364.5"
+      },
+      {
+        "para_id": "193.1846",
+        "lang": "fr",
+        "refcode": "FC 387.5"
+      },
+      {
+        "para_id": "12869.2320",
+        "lang": "id",
+        "refcode": "MKB 384.3"
+      },
+      {
+        "para_id": "12178.1603",
+        "lang": "pl",
+        "refcode": "ChD 254.5"
+      },
+      {
+        "para_id": "1955.2397",
+        "lang": "pt",
+        "refcode": "LA 401.5"
+      },
+      {
+        "para_id": "2026.1862",
+        "lang": "ro",
+        "refcode": "CA 401.5"
+      },
+      {
+        "para_id": "1803.1812",
+        "lang": "ru",
+        "refcode": "ХД 401.5"
+      },
+      {
+        "para_id": "12131.1685",
+        "lang": "uk",
+        "refcode": "ХР 322.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1870",
+    "id_prev": "128.1869",
+    "id_next": "128.1873",
+    "refcode_1": "AH",
+    "refcode_2": "401",
+    "refcode_3": "6",
+    "refcode_4": "",
+    "refcode_short": "AH 401.6",
+    "refcode_long": "The Adventist Home, p. 401.6 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Satan&apos;s Strategy Is to Confuse the Senses</strong>&mdash;Satan&apos;s work is to lead men to ignore God, to so engross and <span class=\"page-break\" data-page=\"402\"></span> absorb the mind that God will not be in their thoughts. The education they have received has been of a character to confuse the mind and eclipse the true light. Satan does not wish the people to have a knowledge of God; and if he can set in operation games and theatrical performances that will so confuse the senses of the young that human beings will perish in darkness while light shines all about them, he is well pleased.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 3-13-1900\" data-link=\"821.19098\">The Review and Herald, March 13, 1900</span>.</span></a></sup>",
+    "puborder": 1247,
+    "translations": [
+      {
+        "para_id": "13839.1525",
+        "lang": "bg",
+        "refcode": "ХД 172.6"
+      },
+      {
+        "para_id": "177.1893",
+        "lang": "es",
+        "refcode": "HC 365.1"
+      },
+      {
+        "para_id": "193.1848",
+        "lang": "fr",
+        "refcode": "FC 388.1"
+      },
+      {
+        "para_id": "12869.2322",
+        "lang": "id",
+        "refcode": "MKB 384.4"
+      },
+      {
+        "para_id": "891.1219",
+        "lang": "it",
+        "refcode": "FC 164.1"
+      },
+      {
+        "para_id": "891.1218",
+        "lang": "it",
+        "refcode": "FC 164"
+      },
+      {
+        "para_id": "12178.1604",
+        "lang": "pl",
+        "refcode": "ChD 254.6"
+      },
+      {
+        "para_id": "1955.2399",
+        "lang": "pt",
+        "refcode": "LA 401.6"
+      },
+      {
+        "para_id": "1955.2398",
+        "lang": "pt",
+        "refcode": "LA 401"
+      },
+      {
+        "para_id": "2026.1863",
+        "lang": "ro",
+        "refcode": "CA 401.6"
+      },
+      {
+        "para_id": "1803.1813",
+        "lang": "ru",
+        "refcode": "ХД 401.6"
+      },
+      {
+        "para_id": "12131.1686",
+        "lang": "uk",
+        "refcode": "ХР 322.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1873",
+    "id_prev": "128.1870",
+    "id_next": "128.1874",
+    "refcode_1": "AH",
+    "refcode_2": "402",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 402.1",
+    "refcode_long": "The Adventist Home, p. 402.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Satan Cannot Enter the Mind Without Our Consent</strong>&mdash;We should present before the people the fact that God has provided that we shall not be tempted above what we are able to bear, but that with every temptation He will make a way of escape. If we live wholly for God, we shall not allow the mind to indulge in selfish imaginings.",
+    "puborder": 1248,
+    "translations": [
+      {
+        "para_id": "13839.1526",
+        "lang": "bg",
+        "refcode": "ХД 172.7"
+      },
+      {
+        "para_id": "177.1894",
+        "lang": "es",
+        "refcode": "HC 365.2"
+      },
+      {
+        "para_id": "193.1849",
+        "lang": "fr",
+        "refcode": "FC 388.2"
+      },
+      {
+        "para_id": "12869.2324",
+        "lang": "id",
+        "refcode": "MKB 384.5"
+      },
+      {
+        "para_id": "891.1220",
+        "lang": "it",
+        "refcode": "FC 164"
+      },
+      {
+        "para_id": "891.1221",
+        "lang": "it",
+        "refcode": "FC 164.2"
+      },
+      {
+        "para_id": "12178.1607",
+        "lang": "pl",
+        "refcode": "ChD 255.1"
+      },
+      {
+        "para_id": "1955.2403",
+        "lang": "pt",
+        "refcode": "LA 402.1"
+      },
+      {
+        "para_id": "1955.2402",
+        "lang": "pt",
+        "refcode": "LA 402"
+      },
+      {
+        "para_id": "2026.1866",
+        "lang": "ro",
+        "refcode": "CA 402.1"
+      },
+      {
+        "para_id": "1803.1816",
+        "lang": "ru",
+        "refcode": "ХД 402.1"
+      },
+      {
+        "para_id": "12131.1688",
+        "lang": "uk",
+        "refcode": "ХР 323.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1874",
+    "id_prev": "128.1873",
+    "id_next": "128.1875",
+    "refcode_1": "AH",
+    "refcode_2": "402",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 402.2",
+    "refcode_long": "The Adventist Home, p. 402.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "If there is any way by which Satan can gain access to the mind, he will sow his tares and cause them to grow until they will yield an abundant harvest. In no case can Satan obtain dominion over the thoughts, words, and actions, unless we voluntarily open the door and invite him to enter. He will then come in and, by catching away the good seed sown in the heart, make of none effect the truth.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 7-11-1893\" data-link=\"821.12895\">The Review and Herald, July 11, 1893</span>.</span></a></sup>",
+    "puborder": 1249,
+    "translations": [
+      {
+        "para_id": "13839.1527",
+        "lang": "bg",
+        "refcode": "ХД 172.8"
+      },
+      {
+        "para_id": "177.1895",
+        "lang": "es",
+        "refcode": "HC 365.3"
+      },
+      {
+        "para_id": "193.1850",
+        "lang": "fr",
+        "refcode": "FC 388.3"
+      },
+      {
+        "para_id": "12869.2325",
+        "lang": "id",
+        "refcode": "MKB 384.6"
+      },
+      {
+        "para_id": "891.1221",
+        "lang": "it",
+        "refcode": "FC 164.2"
+      },
+      {
+        "para_id": "12178.1608",
+        "lang": "pl",
+        "refcode": "ChD 255.2"
+      },
+      {
+        "para_id": "1955.2404",
+        "lang": "pt",
+        "refcode": "LA 402.2"
+      },
+      {
+        "para_id": "2026.1867",
+        "lang": "ro",
+        "refcode": "CA 402.2"
+      },
+      {
+        "para_id": "1803.1817",
+        "lang": "ru",
+        "refcode": "ХД 402.2"
+      },
+      {
+        "para_id": "12131.1689",
+        "lang": "uk",
+        "refcode": "ХР 323.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1875",
+    "id_prev": "128.1874",
+    "id_next": "128.1876",
+    "refcode_1": "AH",
+    "refcode_2": "402",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 402.3",
+    "refcode_long": "The Adventist Home, p. 402.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Close Every Avenue to the Tempter</strong>&mdash;All who name the name of Christ need to watch and pray and guard the avenues of the soul, for Satan is at work to corrupt and destroy if the least advantage is given him.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"3T 476.1\" data-link=\"119.2236\">Testimonies for the Church 3:476</span>.</span></a></sup>",
+    "puborder": 1250,
+    "translations": [
+      {
+        "para_id": "13839.1528",
+        "lang": "bg",
+        "refcode": "ХД 172.9"
+      },
+      {
+        "para_id": "177.1896",
+        "lang": "es",
+        "refcode": "HC 365.4"
+      },
+      {
+        "para_id": "193.1851",
+        "lang": "fr",
+        "refcode": "FC 388.4"
+      },
+      {
+        "para_id": "12869.2329",
+        "lang": "id",
+        "refcode": "MKB 385.1"
+      },
+      {
+        "para_id": "891.1222",
+        "lang": "it",
+        "refcode": "FC 164"
+      },
+      {
+        "para_id": "891.1223",
+        "lang": "it",
+        "refcode": "FC 164.3"
+      },
+      {
+        "para_id": "12178.1609",
+        "lang": "pl",
+        "refcode": "ChD 255.3"
+      },
+      {
+        "para_id": "1955.2406",
+        "lang": "pt",
+        "refcode": "LA 402.3"
+      },
+      {
+        "para_id": "1955.2405",
+        "lang": "pt",
+        "refcode": "LA 402"
+      },
+      {
+        "para_id": "2026.1868",
+        "lang": "ro",
+        "refcode": "CA 402.3"
+      },
+      {
+        "para_id": "1803.1818",
+        "lang": "ru",
+        "refcode": "ХД 402.3"
+      },
+      {
+        "para_id": "12131.1690",
+        "lang": "uk",
+        "refcode": "ХР 323.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1876",
+    "id_prev": "128.1875",
+    "id_next": "128.1879",
+    "refcode_1": "AH",
+    "refcode_2": "402",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 402.4",
+    "refcode_long": "The Adventist Home, p. 402.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is not safe for us to linger to contemplate the advantages to be reaped through yielding to Satan&apos;s suggestions. Sin means dishonor and disaster to every soul that indulges in it; but it is blinding and deceiving in its nature, and it will entice us with flattering presentations. <span class=\"page-break\" data-page=\"403\"></span> If we venture on Satan&apos;s ground, we have no assurance of protection from his power. So far as in us lies, we should close every avenue by which the tempter may find access to us.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MB 118.1\" data-link=\"150.609\">Thoughts From the Mount of Blessing, 118</span>.</span></a></sup>",
+    "puborder": 1251,
+    "translations": [
+      {
+        "para_id": "13839.1529",
+        "lang": "bg",
+        "refcode": "ХД 172.10"
+      },
+      {
+        "para_id": "177.1897",
+        "lang": "es",
+        "refcode": "HC 365.5"
+      },
+      {
+        "para_id": "193.1852",
+        "lang": "fr",
+        "refcode": "FC 388.5"
+      },
+      {
+        "para_id": "12869.2330",
+        "lang": "id",
+        "refcode": "MKB 385.2"
+      },
+      {
+        "para_id": "891.1223",
+        "lang": "it",
+        "refcode": "FC 164.3"
+      },
+      {
+        "para_id": "12178.1610",
+        "lang": "pl",
+        "refcode": "ChD 255.4"
+      },
+      {
+        "para_id": "1955.2407",
+        "lang": "pt",
+        "refcode": "LA 402.4"
+      },
+      {
+        "para_id": "2026.1869",
+        "lang": "ro",
+        "refcode": "CA 402.4"
+      },
+      {
+        "para_id": "1803.1819",
+        "lang": "ru",
+        "refcode": "ХД 402.4"
+      },
+      {
+        "para_id": "12131.1691",
+        "lang": "uk",
+        "refcode": "ХР 323.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1879",
+    "id_prev": "128.1876",
+    "id_next": "128.1880",
+    "refcode_1": "AH",
+    "refcode_2": "403",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 403.1",
+    "refcode_long": "The Adventist Home, p. 403.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Who can know, in the moment of temptation, the terrible consequences which will result from one wrong, hasty step! Our only safety is to be shielded by the grace of God every moment, and not put out our own spiritual eyesight so that we will call evil, good, and good, evil. Without hesitation or argument we must close and guard the avenues of the soul against evil.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">10<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"3T 324.1\" data-link=\"119.1494\">Testimonies for the Church 3:324</span>.</span></a></sup>",
+    "puborder": 1252,
+    "translations": [
+      {
+        "para_id": "13839.1532",
+        "lang": "bg",
+        "refcode": "ХД 173.1"
+      },
+      {
+        "para_id": "177.1900",
+        "lang": "es",
+        "refcode": "HC 366.1"
+      },
+      {
+        "para_id": "193.1853",
+        "lang": "fr",
+        "refcode": "FC 388.6"
+      },
+      {
+        "para_id": "12869.2331",
+        "lang": "id",
+        "refcode": "MKB 385.3"
+      },
+      {
+        "para_id": "891.1224",
+        "lang": "it",
+        "refcode": "FC 164.4"
+      },
+      {
+        "para_id": "12178.1611",
+        "lang": "pl",
+        "refcode": "ChD 255.5"
+      },
+      {
+        "para_id": "1955.2410",
+        "lang": "pt",
+        "refcode": "LA 403.1"
+      },
+      {
+        "para_id": "2026.1872",
+        "lang": "ro",
+        "refcode": "CA 403.1"
+      },
+      {
+        "para_id": "1803.1822",
+        "lang": "ru",
+        "refcode": "ХД 403.1"
+      },
+      {
+        "para_id": "12131.1692",
+        "lang": "uk",
+        "refcode": "ХР 323.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1880",
+    "id_prev": "128.1879",
+    "id_next": "128.1881",
+    "refcode_1": "AH",
+    "refcode_2": "403",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 403.2",
+    "refcode_long": "The Adventist Home, p. 403.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Every Christian must stand on guard continually, watching every avenue of the soul where Satan might find access. He must pray for divine help and at the same time resolutely resist every inclination to sin. By courage, by faith, by persevering toil, he can conquer. But let him remember that to gain the victory Christ must abide in him and he in Christ.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">11<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"5T 47.2\" data-link=\"113.234\">Ibid., 5:47</span>.</span></a></sup>",
+    "puborder": 1253,
+    "translations": [
+      {
+        "para_id": "13839.1533",
+        "lang": "bg",
+        "refcode": "ХД 173.2"
+      },
+      {
+        "para_id": "177.1901",
+        "lang": "es",
+        "refcode": "HC 366.2"
+      },
+      {
+        "para_id": "193.1856",
+        "lang": "fr",
+        "refcode": "FC 389.1"
+      },
+      {
+        "para_id": "12869.2332",
+        "lang": "id",
+        "refcode": "MKB 385.4"
+      },
+      {
+        "para_id": "891.1225",
+        "lang": "it",
+        "refcode": "FC 164.5"
+      },
+      {
+        "para_id": "12178.1612",
+        "lang": "pl",
+        "refcode": "ChD 255.6"
+      },
+      {
+        "para_id": "1955.2411",
+        "lang": "pt",
+        "refcode": "LA 403.2"
+      },
+      {
+        "para_id": "2026.1873",
+        "lang": "ro",
+        "refcode": "CA 403.2"
+      },
+      {
+        "para_id": "1803.1823",
+        "lang": "ru",
+        "refcode": "ХД 403.2"
+      },
+      {
+        "para_id": "12131.1693",
+        "lang": "uk",
+        "refcode": "ХР 323.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1881",
+    "id_prev": "128.1880",
+    "id_next": "128.1882",
+    "refcode_1": "AH",
+    "refcode_2": "403",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 403.3",
+    "refcode_long": "The Adventist Home, p. 403.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Avoid Reading, Seeing, or Hearing Evil</strong>&mdash;The apostle [Peter] sought to teach the believers how important it is to keep the mind from wandering to forbidden themes or from spending its energies on trifling subjects. Those who would not fall a prey to Satan&apos;s devices must guard well the avenues of the soul; they must avoid reading, seeing, or hearing that which will suggest impure thoughts. The mind must not be left to dwell at random upon every subject that the enemy of souls may suggest. The heart must be faithfully sentineled, or evils without will awaken evils within, and the soul will wander in darkness.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">12<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"AA 518.1\" data-link=\"127.2288\">The Acts of the Apostols, 518, 519</span>.</span></a></sup>",
+    "puborder": 1254,
+    "translations": [
+      {
+        "para_id": "13839.1534",
+        "lang": "bg",
+        "refcode": "ХД 173.3"
+      },
+      {
+        "para_id": "177.1902",
+        "lang": "es",
+        "refcode": "HC 366.3"
+      },
+      {
+        "para_id": "193.1857",
+        "lang": "fr",
+        "refcode": "FC 389.2"
+      },
+      {
+        "para_id": "12869.2334",
+        "lang": "id",
+        "refcode": "MKB 385.5"
+      },
+      {
+        "para_id": "891.1229",
+        "lang": "it",
+        "refcode": "FC 165.1"
+      },
+      {
+        "para_id": "891.1228",
+        "lang": "it",
+        "refcode": "FC 165"
+      },
+      {
+        "para_id": "12178.1615",
+        "lang": "pl",
+        "refcode": "ChD 256.1"
+      },
+      {
+        "para_id": "1955.2412",
+        "lang": "pt",
+        "refcode": "LA 403"
+      },
+      {
+        "para_id": "1955.2413",
+        "lang": "pt",
+        "refcode": "LA 403.3"
+      },
+      {
+        "para_id": "2026.1874",
+        "lang": "ro",
+        "refcode": "CA 403.3"
+      },
+      {
+        "para_id": "1803.1824",
+        "lang": "ru",
+        "refcode": "ХД 403.3"
+      },
+      {
+        "para_id": "12131.1694",
+        "lang": "uk",
+        "refcode": "ХР 323.7"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1882",
+    "id_prev": "128.1881",
+    "id_next": "128.1885",
+    "refcode_1": "AH",
+    "refcode_2": "403",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 403.4",
+    "refcode_long": "The Adventist Home, p. 403.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Everything that can be done should be done to place ourselves and our children where we shall not see the iniquity that is practiced in the world. We should <span class=\"page-break\" data-page=\"404\"></span> carefully guard the sight of our eyes and the hearing of our ears so that these awful things shall not enter our minds. When the daily newspaper comes into the house, I feel as if I want to hide it, that the ridiculous, sensational things in it may not be seen. It seems as if the enemy is at the foundation of the publishing of many things that appear in newspapers. Every sinful thing that can be found is uncovered and laid bare before the world.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">13<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"1NL 79.5\" data-link=\"430.770\">Notebook Leaflets from the Elmshaven Library, Education, Volume 1 (1845)</span>.</span></a></sup>",
+    "puborder": 1255,
+    "translations": [
+      {
+        "para_id": "13839.1535",
+        "lang": "bg",
+        "refcode": "ХД 173.4"
+      },
+      {
+        "para_id": "177.1903",
+        "lang": "es",
+        "refcode": "HC 366.4"
+      },
+      {
+        "para_id": "193.1858",
+        "lang": "fr",
+        "refcode": "FC 389.3"
+      },
+      {
+        "para_id": "12869.2337",
+        "lang": "id",
+        "refcode": "MKB 386.1"
+      },
+      {
+        "para_id": "891.1230",
+        "lang": "it",
+        "refcode": "FC 165.2"
+      },
+      {
+        "para_id": "12178.1616",
+        "lang": "pl",
+        "refcode": "ChD 256.2"
+      },
+      {
+        "para_id": "1955.2414",
+        "lang": "pt",
+        "refcode": "LA 403.4"
+      },
+      {
+        "para_id": "2026.1875",
+        "lang": "ro",
+        "refcode": "CA 403.4"
+      },
+      {
+        "para_id": "1803.1825",
+        "lang": "ru",
+        "refcode": "ХД 403.4"
+      },
+      {
+        "para_id": "12131.1697",
+        "lang": "uk",
+        "refcode": "ХР 324.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1885",
+    "id_prev": "128.1882",
+    "id_next": "128.1886",
+    "refcode_1": "AH",
+    "refcode_2": "404",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 404.1",
+    "refcode_long": "The Adventist Home, p. 404.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those who would have that wisdom which is from God must become fools in the sinful knowledge of this age, in order to be wise. They should shut their eyes, that they may see and learn no evil. They should close their ears, lest they hear that which is evil and obtain that knowledge which would stain their purity of thoughts and acts. And they should guard their tongues, lest they utter corrupt communications and guile be found in their mouths.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">14<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"SA 76.1\" data-link=\"4.100\">A Solemn Appeal, 76</span>.</span></a></sup>",
+    "puborder": 1256,
+    "translations": [
+      {
+        "para_id": "13839.1536",
+        "lang": "bg",
+        "refcode": "ХД 173.5"
+      },
+      {
+        "para_id": "177.1906",
+        "lang": "es",
+        "refcode": "HC 367.1"
+      },
+      {
+        "para_id": "193.1859",
+        "lang": "fr",
+        "refcode": "FC 389.4"
+      },
+      {
+        "para_id": "12869.2338",
+        "lang": "id",
+        "refcode": "MKB 386.2"
+      },
+      {
+        "para_id": "891.1231",
+        "lang": "it",
+        "refcode": "FC 165.3"
+      },
+      {
+        "para_id": "12178.1617",
+        "lang": "pl",
+        "refcode": "ChD 256.3"
+      },
+      {
+        "para_id": "1955.2417",
+        "lang": "pt",
+        "refcode": "LA 404.1"
+      },
+      {
+        "para_id": "2026.1878",
+        "lang": "ro",
+        "refcode": "CA 404.1"
+      },
+      {
+        "para_id": "1803.1828",
+        "lang": "ru",
+        "refcode": "ХД 404.1"
+      },
+      {
+        "para_id": "12131.1698",
+        "lang": "uk",
+        "refcode": "ХР 324.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1886",
+    "id_prev": "128.1885",
+    "id_next": "128.1887",
+    "refcode_1": "AH",
+    "refcode_2": "404",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 404.2",
+    "refcode_long": "The Adventist Home, p. 404.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Resistance Is Weakened by Opening the Door</strong>&mdash;Do not see how close you can walk upon the brink of a precipice and be safe. Avoid the first approach to danger. The soul&apos;s interests cannot be trifled with. Your capital is your character. Cherish it as you would a golden treasure. Moral purity, self-respect, a strong power of resistance, must be firmly and constantly cherished. There should not be one departure from reserve; one act of familiarity, one indiscretion, may jeopardize the soul in opening the door to temptation, and the power of resistance becomes weakened.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">15<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MM 143.1\" data-link=\"75.1105\">Medical Ministry, 143</span>.</span></a></sup>",
+    "puborder": 1257,
+    "translations": [
+      {
+        "para_id": "13839.1537",
+        "lang": "bg",
+        "refcode": "ХД 173.6"
+      },
+      {
+        "para_id": "177.1907",
+        "lang": "es",
+        "refcode": "HC 367.2"
+      },
+      {
+        "para_id": "193.1862",
+        "lang": "fr",
+        "refcode": "FC 390.1"
+      },
+      {
+        "para_id": "12869.2340",
+        "lang": "id",
+        "refcode": "MKB 386.3"
+      },
+      {
+        "para_id": "12178.1618",
+        "lang": "pl",
+        "refcode": "ChD 256.4"
+      },
+      {
+        "para_id": "1955.2419",
+        "lang": "pt",
+        "refcode": "LA 404.2"
+      },
+      {
+        "para_id": "1955.2418",
+        "lang": "pt",
+        "refcode": "LA 404"
+      },
+      {
+        "para_id": "2026.1879",
+        "lang": "ro",
+        "refcode": "CA 404.2"
+      },
+      {
+        "para_id": "1803.1829",
+        "lang": "ru",
+        "refcode": "ХД 404.2"
+      },
+      {
+        "para_id": "12131.1699",
+        "lang": "uk",
+        "refcode": "ХР 324.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1887",
+    "id_prev": "128.1886",
+    "id_next": "128.1890",
+    "refcode_1": "AH",
+    "refcode_2": "404",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 404.3",
+    "refcode_long": "The Adventist Home, p. 404.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Satan Would Eclipse the Future Glories</strong>&mdash;Satan has worked continually to eclipse the glories of the future world and to attract the whole attention to the things of this life. He has striven so to arrange matters that our <span class=\"page-break\" data-page=\"405\"></span> thought, our anxiety, our labor might be so fully employed in temporal things that we should not see or realize the value of eternal realities. The world and its cares have too large a place, while Jesus and heavenly things have altogether too small a share in our thoughts and affections. We should conscientiously discharge all the duties of everyday life, but it is also essential that we should cultivate, above everything else, holy affection for our Lord Jesus Christ.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">16<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 1-7-1890\" data-link=\"821.10146\">The Review and Herald, January 7, 1890</span>.</span></a></sup>",
+    "puborder": 1258,
+    "translations": [
+      {
+        "para_id": "13839.1539",
+        "lang": "bg",
+        "refcode": "ХД 174.1"
+      },
+      {
+        "para_id": "177.1908",
+        "lang": "es",
+        "refcode": "HC 367.3"
+      },
+      {
+        "para_id": "193.1863",
+        "lang": "fr",
+        "refcode": "FC 390.2"
+      },
+      {
+        "para_id": "12869.2344",
+        "lang": "id",
+        "refcode": "MKB 387.1"
+      },
+      {
+        "para_id": "12178.1619",
+        "lang": "pl",
+        "refcode": "ChD 256.5"
+      },
+      {
+        "para_id": "1955.2421",
+        "lang": "pt",
+        "refcode": "LA 404.3"
+      },
+      {
+        "para_id": "1955.2420",
+        "lang": "pt",
+        "refcode": "LA 404"
+      },
+      {
+        "para_id": "2026.1880",
+        "lang": "ro",
+        "refcode": "CA 404.3"
+      },
+      {
+        "para_id": "1803.1830",
+        "lang": "ru",
+        "refcode": "ХД 404.3"
+      },
+      {
+        "para_id": "12131.1700",
+        "lang": "uk",
+        "refcode": "ХР 324.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1890",
+    "id_prev": "128.1887",
+    "id_next": "128.1891",
+    "refcode_1": "AH",
+    "refcode_2": "405",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 405.1",
+    "refcode_long": "The Adventist Home, p. 405.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Heavenly Angels Will Help Us</strong>&mdash;We should ever keep in mind that unseen agencies are at work, both evil and good, to take the control of the mind. They act with unseen yet effectual power. Good angels are ministering spirits, exerting a heavenly influence upon heart and mind; while the great adversary of souls, the devil, and his angels are continually laboring to accomplish our destruction....",
+    "puborder": 1259,
+    "translations": [
+      {
+        "para_id": "13839.1540",
+        "lang": "bg",
+        "refcode": "ХД 174.2"
+      },
+      {
+        "para_id": "177.1911",
+        "lang": "es",
+        "refcode": "HC 368.1"
+      },
+      {
+        "para_id": "193.1864",
+        "lang": "fr",
+        "refcode": "FC 390.3"
+      },
+      {
+        "para_id": "12869.2346",
+        "lang": "id",
+        "refcode": "MKB 387.2"
+      },
+      {
+        "para_id": "12178.1622",
+        "lang": "pl",
+        "refcode": "ChD 257.1"
+      },
+      {
+        "para_id": "1955.2425",
+        "lang": "pt",
+        "refcode": "LA 405.1"
+      },
+      {
+        "para_id": "1955.2424",
+        "lang": "pt",
+        "refcode": "LA 405"
+      },
+      {
+        "para_id": "2026.1883",
+        "lang": "ro",
+        "refcode": "CA 405.1"
+      },
+      {
+        "para_id": "1803.1833",
+        "lang": "ru",
+        "refcode": "ХД 405.1"
+      },
+      {
+        "para_id": "12131.1703",
+        "lang": "uk",
+        "refcode": "ХР 325.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1891",
+    "id_prev": "128.1890",
+    "id_next": "128.1893",
+    "refcode_1": "AH",
+    "refcode_2": "405",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 405.2",
+    "refcode_long": "The Adventist Home, p. 405.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "While we should be keenly alive to our exposure to the assaults of unseen and invisible foes, we are to be sure that they cannot harm us without gaining our consent.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">17<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 7-19-1887\" data-link=\"821.8338\">The Review and Herald, July 19, 1887</span>.</span></a></sup>",
+    "puborder": 1260,
+    "translations": [
+      {
+        "para_id": "13839.1541",
+        "lang": "bg",
+        "refcode": "ХД 174.3"
+      },
+      {
+        "para_id": "177.1912",
+        "lang": "es",
+        "refcode": "HC 368.2"
+      },
+      {
+        "para_id": "193.1867",
+        "lang": "fr",
+        "refcode": "FC 391.1"
+      },
+      {
+        "para_id": "12869.2347",
+        "lang": "id",
+        "refcode": "MKB 387.3"
+      },
+      {
+        "para_id": "12178.1623",
+        "lang": "pl",
+        "refcode": "ChD 257.2"
+      },
+      {
+        "para_id": "1955.2426",
+        "lang": "pt",
+        "refcode": "LA 405.2"
+      },
+      {
+        "para_id": "2026.1884",
+        "lang": "ro",
+        "refcode": "CA 405.2"
+      },
+      {
+        "para_id": "1803.1834",
+        "lang": "ru",
+        "refcode": "ХД 405.2"
+      },
+      {
+        "para_id": "12131.1704",
+        "lang": "uk",
+        "refcode": "ХР 325.2"
+      }
+    ]
+  }
+]

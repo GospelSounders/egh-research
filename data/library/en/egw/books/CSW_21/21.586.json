@@ -1,0 +1,101 @@
+[
+  {
+    "para_id": "21.586",
+    "id_prev": "21.584",
+    "id_next": "21.587",
+    "refcode_1": "CSW",
+    "refcode_2": "126",
+    "refcode_3": "",
+    "refcode_4": "88",
+    "refcode_short": "CSW 126",
+    "refcode_long": "Counsels on Sabbath School Work, p. 126 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Supreme Joy",
+    "puborder": 367,
+    "translations": [
+      {
+        "para_id": "11629.560",
+        "lang": "da",
+        "refcode": "RSSA 126"
+      },
+      {
+        "para_id": "799.555",
+        "lang": "de",
+        "refcode": "RSs 104"
+      },
+      {
+        "para_id": "1711.626",
+        "lang": "es",
+        "refcode": "COES 140"
+      },
+      {
+        "para_id": "1724.621",
+        "lang": "pt",
+        "refcode": "CES 126"
+      },
+      {
+        "para_id": "1917.690",
+        "lang": "pt",
+        "refcode": "CES38 66"
+      },
+      {
+        "para_id": "2719.603",
+        "lang": "ro",
+        "refcode": "SSS 126"
+      },
+      {
+        "para_id": "1873.581",
+        "lang": "ru",
+        "refcode": "ССШ 126"
+      }
+    ]
+  },
+  {
+    "para_id": "21.587",
+    "id_prev": "21.586",
+    "id_next": "21.591",
+    "refcode_1": "CSW",
+    "refcode_2": "126",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 126.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 126.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "To those who are accepted as teachers in our schools is opened a field of labor and cultivation, for the sowing of the seed and for the harvesting of the ripening grain. What can give greater satisfaction than to be laborers together with God in educating and training the children and youth to love God and keep His commandments? Lead the children whom you are instructing in the day school and the Sabbath school to Jesus. What can give you greater joy than to see children and youth following Christ, the Great Shepherd, who calls, and the sheep and lambs hear His voice and follow Him? What can spread more sunshine through the soul of the interested, devoted worker than to know that his persevering, patient labor is not in vain in the Lord, and to see his pupils have the sunshine of joy in their souls because Christ has forgiven their sins? What can be more satisfying to the worker together with God, than to see children and youth receiving the impressions of the Spirit of God in true nobility of character and in the restoration of the moral image of God&mdash;the children seeking the peace coming from the Prince of peace?&mdash;<span class=\"egwlink egwlink_book\" title=\"FE 271.1\" data-link=\"32.1105\"><em>Fundamentals of Christian Education</em>, 271</span>.",
+    "puborder": 368,
+    "translations": [
+      {
+        "para_id": "799.556",
+        "lang": "de",
+        "refcode": "RSs 104.2"
+      },
+      {
+        "para_id": "1711.627",
+        "lang": "es",
+        "refcode": "COES 140.1"
+      },
+      {
+        "para_id": "1917.691",
+        "lang": "pt",
+        "refcode": "CES38 66.2"
+      },
+      {
+        "para_id": "1724.622",
+        "lang": "pt",
+        "refcode": "CES 126.1"
+      },
+      {
+        "para_id": "2719.604",
+        "lang": "ro",
+        "refcode": "SSS 126.1"
+      },
+      {
+        "para_id": "1873.582",
+        "lang": "ru",
+        "refcode": "ССШ 126.1"
+      }
+    ]
+  }
+]

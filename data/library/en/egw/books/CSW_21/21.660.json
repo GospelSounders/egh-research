@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.660",
+    "id_prev": "21.659",
+    "id_next": "21.661",
+    "refcode_1": "CSW",
+    "refcode_2": "141",
+    "refcode_3": "",
+    "refcode_4": "108",
+    "refcode_short": "CSW 141",
+    "refcode_long": "Counsels on Sabbath School Work, p. 141 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "No Unhealthful Stimulation Needed",
+    "puborder": 416,
+    "translations": [
+      {
+        "para_id": "11629.634",
+        "lang": "da",
+        "refcode": "RSSA 141"
+      },
+      {
+        "para_id": "799.625",
+        "lang": "de",
+        "refcode": "RSs 117"
+      },
+      {
+        "para_id": "1711.708",
+        "lang": "es",
+        "refcode": "COES 159"
+      },
+      {
+        "para_id": "1724.698",
+        "lang": "pt",
+        "refcode": "CES 141"
+      },
+      {
+        "para_id": "1917.776",
+        "lang": "pt",
+        "refcode": "CES38 74"
+      },
+      {
+        "para_id": "2719.677",
+        "lang": "ro",
+        "refcode": "SSS 141"
+      },
+      {
+        "para_id": "1873.655",
+        "lang": "ru",
+        "refcode": "ССШ 141"
+      }
+    ]
+  },
+  {
+    "para_id": "21.661",
+    "id_prev": "21.660",
+    "id_next": "21.664",
+    "refcode_1": "CSW",
+    "refcode_2": "141",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 141.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 141.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Those who keep eternal realities in view, who love the Lord with all the heart and soul and strength, and their neighbor as themselves, will conscientiously do their whole duty, as if the curtain were rolled back, and they could see that they were working in view of the heavenly universe. The spirit of Christian liberality will strengthen as it is exercised, and will not need to be unhealthfully stimulated. All who <span class=\"page-break\" data-page=\"142\"></span> possess this spirit, the Spirit of Christ, will with cheerful alacrity press their gifts into the Lord&apos;s treasury. Inspired by love for Christ and for the souls for whom He has died, they feel an intense earnestness to act their part with fidelity.&mdash;<span class=\"egwlink egwlink_book\" title=\"RH 5-16-1893\" data-link=\"821.12746\"><em>The Review and Herald</em>, May 16, 1893</span>.",
+    "puborder": 417,
+    "translations": [
+      {
+        "para_id": "11629.635",
+        "lang": "da",
+        "refcode": "RSSA 141.2"
+      },
+      {
+        "para_id": "799.626",
+        "lang": "de",
+        "refcode": "RSs 117.2"
+      },
+      {
+        "para_id": "1711.709",
+        "lang": "es",
+        "refcode": "COES 159.1"
+      },
+      {
+        "para_id": "1724.699",
+        "lang": "pt",
+        "refcode": "CES 141.2"
+      },
+      {
+        "para_id": "1917.777",
+        "lang": "pt",
+        "refcode": "CES38 74.4"
+      },
+      {
+        "para_id": "2719.678",
+        "lang": "ro",
+        "refcode": "SSS 141.2"
+      },
+      {
+        "para_id": "1873.656",
+        "lang": "ru",
+        "refcode": "ССШ 141.2"
+      }
+    ]
+  }
+]

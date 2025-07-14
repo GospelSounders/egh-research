@@ -1,0 +1,111 @@
+[
+  {
+    "para_id": "21.332",
+    "id_prev": "21.331",
+    "id_next": "21.333",
+    "refcode_1": "CSW",
+    "refcode_2": "74",
+    "refcode_3": "",
+    "refcode_4": "44",
+    "refcode_short": "CSW 74",
+    "refcode_long": "Counsels on Sabbath School Work, p. 74 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Personal Work for Class Members",
+    "puborder": 207,
+    "translations": [
+      {
+        "para_id": "11629.305",
+        "lang": "da",
+        "refcode": "RSSA 74"
+      },
+      {
+        "para_id": "799.324",
+        "lang": "de",
+        "refcode": "RSs 64"
+      },
+      {
+        "para_id": "1711.364",
+        "lang": "es",
+        "refcode": "COES 82"
+      },
+      {
+        "para_id": "1724.364",
+        "lang": "pt",
+        "refcode": "CES 74"
+      },
+      {
+        "para_id": "1917.387",
+        "lang": "pt",
+        "refcode": "CES38 37"
+      },
+      {
+        "para_id": "2719.341",
+        "lang": "ro",
+        "refcode": "SSS 74"
+      },
+      {
+        "para_id": "1873.328",
+        "lang": "ru",
+        "refcode": "ССШ 74"
+      }
+    ]
+  },
+  {
+    "para_id": "21.333",
+    "id_prev": "21.332",
+    "id_next": "21.336",
+    "refcode_1": "CSW",
+    "refcode_2": "74",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 74.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 74.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Our teachers need to be converted men and women, who know what it means to wrestle with God, who will not be at rest until the hearts of the children <span class=\"page-break\" data-page=\"75\"></span> are turned to love, praise, and glorify God. Who will be earnest workers for souls in our Sabbath schools? Who will take the youth separately, and talk and pray with them, and make personal appeals to them, beseeching them to yield their heart to Jesus, that they may be as a sweet savor to Christ? As we view the magnitude of the work, and see how little it is appreciated, we feel like groaning in spirit, and exclaiming, Who will accept these grave responsibilities, and watch for souls as they that must give an account? We are Christ&apos;s representatives upon the earth. How do we fulfill our mission? Christ&apos;s representatives will be in daily communion with Him. Their words will be select, their speech seasoned with grace, their hearts filled with love, their efforts sincere, earnest, persevering, to save souls for whom Christ has died. Let all do their utmost to work for the salvation of the dear children and youth, and by and by they will listen with joy to the words of Jesus, &ldquo;Well done, good and faithful servant; ... enter thou into the joy of thy Lord.&rdquo; What is this joy? It is beholding the redeemed saints saved through their instrumentality, through the blood of Jesus Christ.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 14.3\" data-link=\"121.46\"><em>Testimonies on Sabbath-School Work</em>, 15</span>.",
+    "puborder": 208,
+    "translations": [
+      {
+        "para_id": "11629.306",
+        "lang": "da",
+        "refcode": "RSSA 74.2"
+      },
+      {
+        "para_id": "799.325",
+        "lang": "de",
+        "refcode": "RSs 64.2"
+      },
+      {
+        "para_id": "1711.365",
+        "lang": "es",
+        "refcode": "COES 82.1"
+      },
+      {
+        "para_id": "1724.365",
+        "lang": "pt",
+        "refcode": "CES 74.2"
+      },
+      {
+        "para_id": "1917.390",
+        "lang": "pt",
+        "refcode": "CES38 37.3"
+      },
+      {
+        "para_id": "1917.388",
+        "lang": "pt",
+        "refcode": "CES38 37.2"
+      },
+      {
+        "para_id": "2719.342",
+        "lang": "ro",
+        "refcode": "SSS 74.2"
+      },
+      {
+        "para_id": "1873.329",
+        "lang": "ru",
+        "refcode": "ССШ 74.2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "para_id": "21.578",
+    "id_prev": "21.575",
+    "id_next": "21.579",
+    "refcode_1": "CSW",
+    "refcode_2": "124",
+    "refcode_3": "",
+    "refcode_4": "86",
+    "refcode_short": "CSW 124",
+    "refcode_long": "Counsels on Sabbath School Work, p. 124 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Lifting Up Christ",
+    "puborder": 362,
+    "translations": [
+      {
+        "para_id": "11629.551",
+        "lang": "da",
+        "refcode": "RSSA 124"
+      },
+      {
+        "para_id": "799.548",
+        "lang": "de",
+        "refcode": "RSs 103"
+      },
+      {
+        "para_id": "1711.617",
+        "lang": "es",
+        "refcode": "COES 138"
+      },
+      {
+        "para_id": "1724.613",
+        "lang": "pt",
+        "refcode": "CES 124"
+      },
+      {
+        "para_id": "1917.679",
+        "lang": "pt",
+        "refcode": "CES38 65"
+      },
+      {
+        "para_id": "2719.595",
+        "lang": "ro",
+        "refcode": "SSS 124"
+      },
+      {
+        "para_id": "1873.573",
+        "lang": "ru",
+        "refcode": "ССШ 124"
+      }
+    ]
+  },
+  {
+    "para_id": "21.579",
+    "id_prev": "21.578",
+    "id_next": "21.582",
+    "refcode_1": "CSW",
+    "refcode_2": "124",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 124.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 124.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The gospel is the power and wisdom of God, if it is correctly represented by those who claim to be Christians. Christ crucified for our sins should humble every soul before God in his own estimation. Christ risen from the dead, ascended on high, our living Intercessor in the presence of God, is the science of salvation, which we need to learn and teach to children and youth. Said Christ, &ldquo;I sanctify Myself, that they might also be sanctified.&rdquo; This is the work that ever devolves upon every teacher. There must not be any haphazard work in this matter, for even the work of educating the children in the day schools requires very much of the grace of Christ and the subduing of self. Those who naturally are fretful, easily provoked, and have cherished the habit of criticism, of thinking evil, should find some other kind of work, that will not reproduce any of their unlovely traits of character in the children and youth, for they have cost too much. Heaven sees in the child the undeveloped man or woman, with capabilities and powers that, if correctly guided and developed, with heavenly wisdom, will become the human agencies through whom the divine influences can cooperate, to be <span class=\"page-break\" data-page=\"125\"></span> laborers together with God. Sharp words and continual censure bewilder the child, but never reform him. Keep back that pettish word; keep your own spirit under discipline to Jesus Christ; then you will learn how to pity and sympathize with those brought under your influence.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 87.1\" data-link=\"121.345\"><em>Testimonies on Sabbath-School Work</em>, 87, 88</span>.",
+    "puborder": 363,
+    "translations": [
+      {
+        "para_id": "11629.552",
+        "lang": "da",
+        "refcode": "RSSA 124.1"
+      },
+      {
+        "para_id": "799.549",
+        "lang": "de",
+        "refcode": "RSs 103.1"
+      },
+      {
+        "para_id": "1711.618",
+        "lang": "es",
+        "refcode": "COES 138.1"
+      },
+      {
+        "para_id": "1917.681",
+        "lang": "pt",
+        "refcode": "CES38 65.2"
+      },
+      {
+        "para_id": "1917.680",
+        "lang": "pt",
+        "refcode": "CES38 65.1"
+      },
+      {
+        "para_id": "1724.614",
+        "lang": "pt",
+        "refcode": "CES 124.1"
+      },
+      {
+        "para_id": "2719.596",
+        "lang": "ro",
+        "refcode": "SSS 124.1"
+      },
+      {
+        "para_id": "1873.574",
+        "lang": "ru",
+        "refcode": "ССШ 124.1"
+      }
+    ]
+  }
+]

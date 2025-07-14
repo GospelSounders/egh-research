@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.325",
+    "id_prev": "21.323",
+    "id_next": "21.326",
+    "refcode_1": "CSW",
+    "refcode_2": "73",
+    "refcode_3": "",
+    "refcode_4": "42",
+    "refcode_short": "CSW 73",
+    "refcode_long": "Counsels on Sabbath School Work, p. 73 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Exercises to Be Spiritualized",
+    "puborder": 202,
+    "translations": [
+      {
+        "para_id": "11629.299",
+        "lang": "da",
+        "refcode": "RSSA 73.1"
+      },
+      {
+        "para_id": "799.317",
+        "lang": "de",
+        "refcode": "RSs 63"
+      },
+      {
+        "para_id": "1711.355",
+        "lang": "es",
+        "refcode": "COES 80"
+      },
+      {
+        "para_id": "1917.378",
+        "lang": "pt",
+        "refcode": "CES38 36"
+      },
+      {
+        "para_id": "1724.357",
+        "lang": "pt",
+        "refcode": "CES 73"
+      },
+      {
+        "para_id": "2719.334",
+        "lang": "ro",
+        "refcode": "SSS 73"
+      },
+      {
+        "para_id": "1873.321",
+        "lang": "ru",
+        "refcode": "ССШ 73"
+      }
+    ]
+  },
+  {
+    "para_id": "21.326",
+    "id_prev": "21.325",
+    "id_next": "21.327",
+    "refcode_1": "CSW",
+    "refcode_2": "73",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 73.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 73.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In order to do the will of God, we must search His word, that we may know His doctrine, and put to the task all our entrusted ability. We must be diligent in prayer, and fervent in simple, wholehearted service to God. Those who are engaged as teachers in the Sabbath school should hunger and thirst for divine truth, that they may impart this Spirit to those under their care, and lead their pupils to seek for truth as for hidden treasure. We do not want our Sabbath schools conducted in such a way as to make hypocrites of the pupils; for such cannot advance the interests of true religion. Then let there be more attention given to seeking God, that the Spirit of the Lord may be in your school, than that you may have every mechanical arrangement you desire. High pretensions of any kind are out of place in the Sabbath school work, and the mechanical working of the school is of little value if the Spirit of God does not soften and mold the hearts of teachers and pupils.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 76.1\" data-link=\"121.303\"><em>Testimonies on Sabbath-School Work</em>, 76</span>.",
+    "puborder": 203,
+    "translations": [
+      {
+        "para_id": "11629.299",
+        "lang": "da",
+        "refcode": "RSSA 73.1"
+      },
+      {
+        "para_id": "799.318",
+        "lang": "de",
+        "refcode": "RSs 63.1"
+      },
+      {
+        "para_id": "1711.356",
+        "lang": "es",
+        "refcode": "COES 80.1"
+      },
+      {
+        "para_id": "1917.379",
+        "lang": "pt",
+        "refcode": "CES38 36.2"
+      },
+      {
+        "para_id": "1724.358",
+        "lang": "pt",
+        "refcode": "CES 73.1"
+      },
+      {
+        "para_id": "2719.335",
+        "lang": "ro",
+        "refcode": "SSS 73.1"
+      },
+      {
+        "para_id": "1873.322",
+        "lang": "ru",
+        "refcode": "ССШ 73.1"
+      }
+    ]
+  }
+]

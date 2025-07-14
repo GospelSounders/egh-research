@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.735",
+    "id_prev": "21.732",
+    "id_next": "21.736",
+    "refcode_1": "CSW",
+    "refcode_2": "159",
+    "refcode_3": "",
+    "refcode_4": "123",
+    "refcode_short": "CSW 159",
+    "refcode_long": "Counsels on Sabbath School Work, p. 159 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Persevering Fidelity Needed",
+    "puborder": 463,
+    "translations": [
+      {
+        "para_id": "11629.713",
+        "lang": "da",
+        "refcode": "RSSA 159"
+      },
+      {
+        "para_id": "799.692",
+        "lang": "de",
+        "refcode": "RSs 129"
+      },
+      {
+        "para_id": "1711.792",
+        "lang": "es",
+        "refcode": "COES 178"
+      },
+      {
+        "para_id": "1724.777",
+        "lang": "pt",
+        "refcode": "CES 159"
+      },
+      {
+        "para_id": "1917.866",
+        "lang": "pt",
+        "refcode": "CES38 83"
+      },
+      {
+        "para_id": "2719.753",
+        "lang": "ro",
+        "refcode": "SSS 159"
+      },
+      {
+        "para_id": "1873.729",
+        "lang": "ru",
+        "refcode": "ССШ 159"
+      }
+    ]
+  },
+  {
+    "para_id": "21.736",
+    "id_prev": "21.735",
+    "id_next": "21.737",
+    "refcode_1": "CSW",
+    "refcode_2": "159",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 159.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 159.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Such patient, prayerful, and persevering fidelity as was possessed by these saints of God [Caleb, Hannah, and Dorcas] is rare; yet the church cannot prosper without it. It is needed in the church, in the Sabbath school, and in society.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 109.1\" data-link=\"121.437\"><em>Testimonies on Sabbath-School Work</em>, 109</span>.",
+    "puborder": 464,
+    "translations": [
+      {
+        "para_id": "11629.714",
+        "lang": "da",
+        "refcode": "RSSA 159.1"
+      },
+      {
+        "para_id": "799.693",
+        "lang": "de",
+        "refcode": "RSs 129.3"
+      },
+      {
+        "para_id": "1711.793",
+        "lang": "es",
+        "refcode": "COES 178.1"
+      },
+      {
+        "para_id": "1724.778",
+        "lang": "pt",
+        "refcode": "CES 159.1"
+      },
+      {
+        "para_id": "1917.867",
+        "lang": "pt",
+        "refcode": "CES38 83.1"
+      },
+      {
+        "para_id": "2719.754",
+        "lang": "ro",
+        "refcode": "SSS 159.1"
+      },
+      {
+        "para_id": "1873.730",
+        "lang": "ru",
+        "refcode": "ССШ 159.1"
+      }
+    ]
+  }
+]

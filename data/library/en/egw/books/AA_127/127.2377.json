@@ -1,0 +1,2045 @@
+[
+  {
+    "para_id": "127.2377",
+    "id_prev": "127.2373",
+    "id_next": "127.2378",
+    "refcode_1": "AA",
+    "refcode_2": "539",
+    "refcode_3": "",
+    "refcode_4": "53",
+    "refcode_short": "AA 539",
+    "refcode_long": "The Acts of the Apostles, p. 539 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 53&mdash;John the Beloved",
+    "puborder": 1481,
+    "translations": [
+      {
+        "para_id": "13804.1772",
+        "lang": "bg",
+        "refcode": "Дa 210"
+      },
+      {
+        "para_id": "11590.2274",
+        "lang": "ce",
+        "refcode": "ABA 460"
+      },
+      {
+        "para_id": "11247.2170",
+        "lang": "cs",
+        "refcode": "PNL 311"
+      },
+      {
+        "para_id": "813.2376",
+        "lang": "de",
+        "refcode": "WA 537"
+      },
+      {
+        "para_id": "198.2204",
+        "lang": "es",
+        "refcode": "HAp 430"
+      },
+      {
+        "para_id": "158.2289",
+        "lang": "fr",
+        "refcode": "CP 481"
+      },
+      {
+        "para_id": "11938.2051",
+        "lang": "hu",
+        "refcode": "AT 355"
+      },
+      {
+        "para_id": "12410.2224",
+        "lang": "id",
+        "refcode": "KR 455"
+      },
+      {
+        "para_id": "882.2059",
+        "lang": "it",
+        "refcode": "UVI 338"
+      },
+      {
+        "para_id": "12335.1966",
+        "lang": "nb",
+        "refcode": "AV 311"
+      },
+      {
+        "para_id": "12008.1851",
+        "lang": "pl",
+        "refcode": "DA 298"
+      },
+      {
+        "para_id": "1806.1928",
+        "lang": "pt",
+        "refcode": "AA 276.1"
+      },
+      {
+        "para_id": "2013.2362",
+        "lang": "ro",
+        "refcode": "FA 539"
+      },
+      {
+        "para_id": "1785.2318",
+        "lang": "ru",
+        "refcode": "ДА 539"
+      },
+      {
+        "para_id": "13874.1979",
+        "lang": "rw",
+        "refcode": "INI 333"
+      },
+      {
+        "para_id": "11182.1951",
+        "lang": "sk",
+        "refcode": "SA 324"
+      },
+      {
+        "para_id": "11904.2144",
+        "lang": "tl",
+        "refcode": "AGA 409"
+      },
+      {
+        "para_id": "11875.2078",
+        "lang": "uk",
+        "refcode": "ДА 370"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2378",
+    "id_prev": "127.2377",
+    "id_next": "127.2379",
+    "refcode_1": "AA",
+    "refcode_2": "539",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 539.1",
+    "refcode_long": "The Acts of the Apostles, p. 539.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "John is distinguished above the other apostles as &ldquo;the disciple whom Jesus loved.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"John 21:20\" data-link=\"1965.54900\">John 21:20</span>. He seems to have enjoyed to a pre-eminent degree the friendship of Christ, and he received many tokens of the Saviour&apos;s confidence and love. He was one of the three permitted to witness Christ&apos;s glory upon the mount of transfiguration and His agony in Gethsemane, and it was to his care that our Lord confided His mother in those last hours of anguish upon the cross.",
+    "puborder": 1482,
+    "translations": [
+      {
+        "para_id": "13804.1773",
+        "lang": "bg",
+        "refcode": "Дa 210.5"
+      },
+      {
+        "para_id": "11590.2275",
+        "lang": "ce",
+        "refcode": "ABA 460.1"
+      },
+      {
+        "para_id": "11247.2171",
+        "lang": "cs",
+        "refcode": "PNL 311.1"
+      },
+      {
+        "para_id": "813.2377",
+        "lang": "de",
+        "refcode": "WA 537.1"
+      },
+      {
+        "para_id": "198.2205",
+        "lang": "es",
+        "refcode": "HAp 430.1"
+      },
+      {
+        "para_id": "158.2290",
+        "lang": "fr",
+        "refcode": "CP 481.1"
+      },
+      {
+        "para_id": "11938.2052",
+        "lang": "hu",
+        "refcode": "AT 355.1"
+      },
+      {
+        "para_id": "12410.2225",
+        "lang": "id",
+        "refcode": "KR 455.1"
+      },
+      {
+        "para_id": "882.2060",
+        "lang": "it",
+        "refcode": "UVI 338.1"
+      },
+      {
+        "para_id": "12335.1967",
+        "lang": "nb",
+        "refcode": "AV 311.1"
+      },
+      {
+        "para_id": "12008.1852",
+        "lang": "pl",
+        "refcode": "DA 298.1"
+      },
+      {
+        "para_id": "1806.1929",
+        "lang": "pt",
+        "refcode": "AA 276.2"
+      },
+      {
+        "para_id": "2013.2363",
+        "lang": "ro",
+        "refcode": "FA 539.1"
+      },
+      {
+        "para_id": "1785.2319",
+        "lang": "ru",
+        "refcode": "ДА 539.1"
+      },
+      {
+        "para_id": "13874.1980",
+        "lang": "rw",
+        "refcode": "INI 333.1"
+      },
+      {
+        "para_id": "11182.1952",
+        "lang": "sk",
+        "refcode": "SA 324.1"
+      },
+      {
+        "para_id": "11904.2145",
+        "lang": "tl",
+        "refcode": "AGA 409.1"
+      },
+      {
+        "para_id": "11875.2079",
+        "lang": "uk",
+        "refcode": "ДА 370.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2379",
+    "id_prev": "127.2378",
+    "id_next": "127.2380",
+    "refcode_1": "AA",
+    "refcode_2": "539",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 539.2",
+    "refcode_long": "The Acts of the Apostles, p. 539.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Saviour&apos;s affection for the beloved disciple was returned with all the strength of ardent devotion. John clung to Christ as the vine clings to the stately pillar. For his Master&apos;s sake he braved the dangers of the judgment hall and lingered about the cross, and at the tidings that Christ had risen, he hastened to the sepulcher, in his zeal out-stripping even the impetuous Peter.",
+    "puborder": 1483,
+    "translations": [
+      {
+        "para_id": "13804.1774",
+        "lang": "bg",
+        "refcode": "Дa 210.6"
+      },
+      {
+        "para_id": "11590.2276",
+        "lang": "ce",
+        "refcode": "ABA 460.2"
+      },
+      {
+        "para_id": "11247.2172",
+        "lang": "cs",
+        "refcode": "PNL 311.2"
+      },
+      {
+        "para_id": "813.2378",
+        "lang": "de",
+        "refcode": "WA 537.2"
+      },
+      {
+        "para_id": "198.2206",
+        "lang": "es",
+        "refcode": "HAp 430.2"
+      },
+      {
+        "para_id": "158.2291",
+        "lang": "fr",
+        "refcode": "CP 481.2"
+      },
+      {
+        "para_id": "11938.2053",
+        "lang": "hu",
+        "refcode": "AT 355.2"
+      },
+      {
+        "para_id": "12410.2226",
+        "lang": "id",
+        "refcode": "KR 455.2"
+      },
+      {
+        "para_id": "882.2061",
+        "lang": "it",
+        "refcode": "UVI 338.2"
+      },
+      {
+        "para_id": "12335.1968",
+        "lang": "nb",
+        "refcode": "AV 311.2"
+      },
+      {
+        "para_id": "12008.1853",
+        "lang": "pl",
+        "refcode": "DA 298.2"
+      },
+      {
+        "para_id": "1806.1930",
+        "lang": "pt",
+        "refcode": "AA 276.3"
+      },
+      {
+        "para_id": "2013.2364",
+        "lang": "ro",
+        "refcode": "FA 539.2"
+      },
+      {
+        "para_id": "1785.2320",
+        "lang": "ru",
+        "refcode": "ДА 539.2"
+      },
+      {
+        "para_id": "13874.1981",
+        "lang": "rw",
+        "refcode": "INI 333.2"
+      },
+      {
+        "para_id": "11182.1953",
+        "lang": "sk",
+        "refcode": "SA 324.2"
+      },
+      {
+        "para_id": "11904.2146",
+        "lang": "tl",
+        "refcode": "AGA 409.2"
+      },
+      {
+        "para_id": "11875.2080",
+        "lang": "uk",
+        "refcode": "ДА 370.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2380",
+    "id_prev": "127.2379",
+    "id_next": "127.2383",
+    "refcode_1": "AA",
+    "refcode_2": "539",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 539.3",
+    "refcode_long": "The Acts of the Apostles, p. 539.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The confiding love and unselfish devotion manifested in the life and character of John present lessons of untold value <span class=\"page-break\" data-page=\"540\"></span> to the Christian church. John did not naturally possess the loveliness of character that his later experience revealed. By nature he had serious defects. He was not only proud, self-assertive, and ambitious for honor, but impetuous, and resentful under injury. He and his brother were called &ldquo;sons of thunder.&rdquo; Evil temper, the desire for revenge, the spirit of criticism, were all in the beloved disciple. But beneath all this the divine Teacher discerned the ardent, sincere, loving heart. Jesus rebuked this self-seeking, disappointed his ambitions, tested his faith. But He revealed to him that for which his soul longed&mdash;the beauty of holiness, the transforming power of love.",
+    "puborder": 1484,
+    "translations": [
+      {
+        "para_id": "13804.1777",
+        "lang": "bg",
+        "refcode": "Дa 211.1"
+      },
+      {
+        "para_id": "11590.2277",
+        "lang": "ce",
+        "refcode": "ABA 460.3"
+      },
+      {
+        "para_id": "11247.2174",
+        "lang": "cs",
+        "refcode": "PNL 311.3"
+      },
+      {
+        "para_id": "813.2379",
+        "lang": "de",
+        "refcode": "WA 537.3"
+      },
+      {
+        "para_id": "198.2207",
+        "lang": "es",
+        "refcode": "HAp 430.3"
+      },
+      {
+        "para_id": "158.2292",
+        "lang": "fr",
+        "refcode": "CP 481.3"
+      },
+      {
+        "para_id": "11938.2054",
+        "lang": "hu",
+        "refcode": "AT 355.3"
+      },
+      {
+        "para_id": "12410.2227",
+        "lang": "id",
+        "refcode": "KR 455.3"
+      },
+      {
+        "para_id": "882.2062",
+        "lang": "it",
+        "refcode": "UVI 338.3"
+      },
+      {
+        "para_id": "12335.1969",
+        "lang": "nb",
+        "refcode": "AV 311.3"
+      },
+      {
+        "para_id": "12008.1854",
+        "lang": "pl",
+        "refcode": "DA 298.3"
+      },
+      {
+        "para_id": "1806.1931",
+        "lang": "pt",
+        "refcode": "AA 276.4"
+      },
+      {
+        "para_id": "2013.2365",
+        "lang": "ro",
+        "refcode": "FA 539.3"
+      },
+      {
+        "para_id": "1785.2321",
+        "lang": "ru",
+        "refcode": "ДА 539.3"
+      },
+      {
+        "para_id": "13874.1982",
+        "lang": "rw",
+        "refcode": "INI 333.3"
+      },
+      {
+        "para_id": "11182.1954",
+        "lang": "sk",
+        "refcode": "SA 324.3"
+      },
+      {
+        "para_id": "11904.2147",
+        "lang": "tl",
+        "refcode": "AGA 409.3"
+      },
+      {
+        "para_id": "11875.2081",
+        "lang": "uk",
+        "refcode": "ДА 370.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2383",
+    "id_prev": "127.2380",
+    "id_next": "127.2384",
+    "refcode_1": "AA",
+    "refcode_2": "540",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 540.1",
+    "refcode_long": "The Acts of the Apostles, p. 540.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The defects in John&apos;s character came strongly to the front on several occasions during his personal association with the Saviour. At one time Christ sent messengers before Him into a village of the Samaritans, requesting the people to prepare refreshments for Him and His disciples. But when the Saviour approached the town, He appeared to be desirous of passing on toward Jerusalem. This aroused the envy of the Samaritans, and instead of inviting Him to tarry with them, they withheld the courtesies which they would have given to a common wayfarer. Jesus never urges His presence upon any, and the Samaritans lost the blessing which would have been granted them had they solicited Him to be their guest.",
+    "puborder": 1485,
+    "translations": [
+      {
+        "para_id": "13804.1778",
+        "lang": "bg",
+        "refcode": "Дa 211.2"
+      },
+      {
+        "para_id": "11590.2280",
+        "lang": "ce",
+        "refcode": "ABA 461.1"
+      },
+      {
+        "para_id": "11247.2175",
+        "lang": "cs",
+        "refcode": "PNL 311.4"
+      },
+      {
+        "para_id": "813.2383",
+        "lang": "de",
+        "refcode": "WA 538.2"
+      },
+      {
+        "para_id": "198.2210",
+        "lang": "es",
+        "refcode": "HAp 431.1"
+      },
+      {
+        "para_id": "158.2295",
+        "lang": "fr",
+        "refcode": "CP 482.1"
+      },
+      {
+        "para_id": "158.2296",
+        "lang": "fr",
+        "refcode": "CP 482.2"
+      },
+      {
+        "para_id": "11938.2055",
+        "lang": "hu",
+        "refcode": "AT 355.4"
+      },
+      {
+        "para_id": "12410.2230",
+        "lang": "id",
+        "refcode": "KR 456.1"
+      },
+      {
+        "para_id": "882.2063",
+        "lang": "it",
+        "refcode": "UVI 338.4"
+      },
+      {
+        "para_id": "12335.1970",
+        "lang": "nb",
+        "refcode": "AV 311.4"
+      },
+      {
+        "para_id": "12008.1855",
+        "lang": "pl",
+        "refcode": "DA 298.4"
+      },
+      {
+        "para_id": "1806.1932",
+        "lang": "pt",
+        "refcode": "AA 276.5"
+      },
+      {
+        "para_id": "2013.2368",
+        "lang": "ro",
+        "refcode": "FA 540.1"
+      },
+      {
+        "para_id": "1785.2324",
+        "lang": "ru",
+        "refcode": "ДА 540.1"
+      },
+      {
+        "para_id": "13874.1983",
+        "lang": "rw",
+        "refcode": "INI 333.4"
+      },
+      {
+        "para_id": "11182.1955",
+        "lang": "sk",
+        "refcode": "SA 324.4"
+      },
+      {
+        "para_id": "11904.2148",
+        "lang": "tl",
+        "refcode": "AGA 409.4"
+      },
+      {
+        "para_id": "11875.2084",
+        "lang": "uk",
+        "refcode": "ДА 371.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2384",
+    "id_prev": "127.2383",
+    "id_next": "127.2387",
+    "refcode_1": "AA",
+    "refcode_2": "540",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 540.2",
+    "refcode_long": "The Acts of the Apostles, p. 540.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The disciples knew that it was the purpose of Christ to bless the Samaritans by His presence; and the coldness, jealousy, and disrespect shown to their Master filled them with surprise and indignation. James and John especially <span class=\"page-break\" data-page=\"541\"></span> were aroused. That He whom they so highly reverenced should be thus treated, seemed to them a wrong too great to be passed over without immediate punishment. In their zeal they said, &ldquo;Lord, wilt Thou that we command fire to come down from heaven, and consume them, even as Elias did?&rdquo; referring to the destruction of the Samaritan captains and their companies sent out to take the prophet Elijah. They were surprised to see that Jesus was pained by their words, and still more surprised as His rebuke fell upon their ears: &ldquo;Ye know not what manner of spirit ye are of. For the Son of man is not come to destroy men&apos;s lives, but to save them.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Luke 9:54\" data-link=\"1965.51737\">Luke 9:54-56</span>.",
+    "puborder": 1486,
+    "translations": [
+      {
+        "para_id": "13804.1779",
+        "lang": "bg",
+        "refcode": "Дa 211.3"
+      },
+      {
+        "para_id": "11590.2281",
+        "lang": "ce",
+        "refcode": "ABA 461.2"
+      },
+      {
+        "para_id": "11247.2178",
+        "lang": "cs",
+        "refcode": "PNL 312.1"
+      },
+      {
+        "para_id": "813.2384",
+        "lang": "de",
+        "refcode": "WA 538.3"
+      },
+      {
+        "para_id": "198.2211",
+        "lang": "es",
+        "refcode": "HAp 431.2"
+      },
+      {
+        "para_id": "158.2297",
+        "lang": "fr",
+        "refcode": "CP 482.3"
+      },
+      {
+        "para_id": "11938.2058",
+        "lang": "hu",
+        "refcode": "AT 356.1"
+      },
+      {
+        "para_id": "12410.2231",
+        "lang": "id",
+        "refcode": "KR 456.2"
+      },
+      {
+        "para_id": "882.2066",
+        "lang": "it",
+        "refcode": "UVI 339.1"
+      },
+      {
+        "para_id": "12335.1972",
+        "lang": "nb",
+        "refcode": "AV 312.1"
+      },
+      {
+        "para_id": "12008.1858",
+        "lang": "pl",
+        "refcode": "DA 299.1"
+      },
+      {
+        "para_id": "1806.1933",
+        "lang": "pt",
+        "refcode": "AA 276.6"
+      },
+      {
+        "para_id": "2013.2369",
+        "lang": "ro",
+        "refcode": "FA 540.2"
+      },
+      {
+        "para_id": "1785.2325",
+        "lang": "ru",
+        "refcode": "ДА 540.2"
+      },
+      {
+        "para_id": "13874.1985",
+        "lang": "rw",
+        "refcode": "INI 334.1"
+      },
+      {
+        "para_id": "11182.1957",
+        "lang": "sk",
+        "refcode": "SA 325.1"
+      },
+      {
+        "para_id": "11904.2151",
+        "lang": "tl",
+        "refcode": "AGA 410.1"
+      },
+      {
+        "para_id": "11875.2085",
+        "lang": "uk",
+        "refcode": "ДА 371.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2387",
+    "id_prev": "127.2384",
+    "id_next": "127.2388",
+    "refcode_1": "AA",
+    "refcode_2": "541",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 541.1",
+    "refcode_long": "The Acts of the Apostles, p. 541.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is no part of Christ&apos;s mission to compel men to receive Him. It is Satan, and men actuated by his spirit, who seek to compel the conscience. Under a pretense of zeal for righteousness, men who are confederated with evil angels sometimes bring suffering upon their fellow men in order to convert them to their ideas of religion; but Christ is ever showing mercy, ever seeking to win by the revealing of His love. He can admit no rival in the soul, nor accept of partial service; but He desires only voluntary service, the willing surrender of the heart under the constraint of love.",
+    "puborder": 1487,
+    "translations": [
+      {
+        "para_id": "13804.1780",
+        "lang": "bg",
+        "refcode": "Дa 211.4"
+      },
+      {
+        "para_id": "11590.2282",
+        "lang": "ce",
+        "refcode": "ABA 461.3"
+      },
+      {
+        "para_id": "11247.2179",
+        "lang": "cs",
+        "refcode": "PNL 312.2"
+      },
+      {
+        "para_id": "813.2387",
+        "lang": "de",
+        "refcode": "WA 539.1"
+      },
+      {
+        "para_id": "198.2212",
+        "lang": "es",
+        "refcode": "HAp 431.3"
+      },
+      {
+        "para_id": "158.2301",
+        "lang": "fr",
+        "refcode": "CP 483.2"
+      },
+      {
+        "para_id": "11938.2059",
+        "lang": "hu",
+        "refcode": "AT 356.2"
+      },
+      {
+        "para_id": "12410.2232",
+        "lang": "id",
+        "refcode": "KR 456.3"
+      },
+      {
+        "para_id": "882.2067",
+        "lang": "it",
+        "refcode": "UVI 339.2"
+      },
+      {
+        "para_id": "12335.1973",
+        "lang": "nb",
+        "refcode": "AV 312.2"
+      },
+      {
+        "para_id": "12008.1859",
+        "lang": "pl",
+        "refcode": "DA 299.2"
+      },
+      {
+        "para_id": "1806.1933",
+        "lang": "pt",
+        "refcode": "AA 276.6"
+      },
+      {
+        "para_id": "2013.2372",
+        "lang": "ro",
+        "refcode": "FA 541.1"
+      },
+      {
+        "para_id": "1785.2328",
+        "lang": "ru",
+        "refcode": "ДА 541.1"
+      },
+      {
+        "para_id": "13874.1986",
+        "lang": "rw",
+        "refcode": "INI 334.2"
+      },
+      {
+        "para_id": "11182.1958",
+        "lang": "sk",
+        "refcode": "SA 325.2"
+      },
+      {
+        "para_id": "11904.2152",
+        "lang": "tl",
+        "refcode": "AGA 410.2"
+      },
+      {
+        "para_id": "11875.2086",
+        "lang": "uk",
+        "refcode": "ДА 371.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2388",
+    "id_prev": "127.2387",
+    "id_next": "127.2391",
+    "refcode_1": "AA",
+    "refcode_2": "541",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 541.2",
+    "refcode_long": "The Acts of the Apostles, p. 541.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "On another occasion James and John presented through their mother a petition requesting that they might be permitted to occupy the highest positions of honor in Christ&apos;s kingdom. Notwithstanding Christ&apos;s repeated instruction concerning the nature of His kingdom, these young disciples still cherished the hope for a Messiah who would take His throne and kingly power in accordance with the desires <span class=\"page-break\" data-page=\"542\"></span> of men. The mother, coveting with them the place of honor in this kingdom for her sons, asked, &ldquo;Grant that these my two sons may sit, the one on Thy right hand, and the other on the left, in Thy kingdom.&rdquo;",
+    "puborder": 1488,
+    "translations": [
+      {
+        "para_id": "13804.1781",
+        "lang": "bg",
+        "refcode": "Дa 211.5"
+      },
+      {
+        "para_id": "11590.2285",
+        "lang": "ce",
+        "refcode": "ABA 462.1"
+      },
+      {
+        "para_id": "11247.2180",
+        "lang": "cs",
+        "refcode": "PNL 312.3"
+      },
+      {
+        "para_id": "813.2388",
+        "lang": "de",
+        "refcode": "WA 539.2"
+      },
+      {
+        "para_id": "198.2215",
+        "lang": "es",
+        "refcode": "HAp 432.1"
+      },
+      {
+        "para_id": "158.2302",
+        "lang": "fr",
+        "refcode": "CP 483.3"
+      },
+      {
+        "para_id": "11938.2060",
+        "lang": "hu",
+        "refcode": "AT 356.3"
+      },
+      {
+        "para_id": "12410.2235",
+        "lang": "id",
+        "refcode": "KR 457.1"
+      },
+      {
+        "para_id": "882.2068",
+        "lang": "it",
+        "refcode": "UVI 339.3"
+      },
+      {
+        "para_id": "12335.1974",
+        "lang": "nb",
+        "refcode": "AV 312.3"
+      },
+      {
+        "para_id": "12008.1860",
+        "lang": "pl",
+        "refcode": "DA 299.3"
+      },
+      {
+        "para_id": "1806.1936",
+        "lang": "pt",
+        "refcode": "AA 277.1"
+      },
+      {
+        "para_id": "2013.2373",
+        "lang": "ro",
+        "refcode": "FA 541.2"
+      },
+      {
+        "para_id": "1785.2329",
+        "lang": "ru",
+        "refcode": "ДА 541.2"
+      },
+      {
+        "para_id": "13874.1987",
+        "lang": "rw",
+        "refcode": "INI 334.3"
+      },
+      {
+        "para_id": "11182.1959",
+        "lang": "sk",
+        "refcode": "SA 325.3"
+      },
+      {
+        "para_id": "11904.2153",
+        "lang": "tl",
+        "refcode": "AGA 410.3"
+      },
+      {
+        "para_id": "11875.2089",
+        "lang": "uk",
+        "refcode": "ДА 372.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2391",
+    "id_prev": "127.2388",
+    "id_next": "127.2392",
+    "refcode_1": "AA",
+    "refcode_2": "542",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 542.1",
+    "refcode_long": "The Acts of the Apostles, p. 542.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But the Saviour answered, &ldquo;Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with?&rdquo; They recalled His mysterious words pointing to trial and suffering, yet answered confidently, &ldquo;We are able.&rdquo; They would count it highest honor to prove their loyalty by sharing all that was to befall their Lord.",
+    "puborder": 1489,
+    "translations": [
+      {
+        "para_id": "13804.1783",
+        "lang": "bg",
+        "refcode": "Дa 212.1"
+      },
+      {
+        "para_id": "11590.2286",
+        "lang": "ce",
+        "refcode": "ABA 462.2"
+      },
+      {
+        "para_id": "11247.2181",
+        "lang": "cs",
+        "refcode": "PNL 312.4"
+      },
+      {
+        "para_id": "813.2389",
+        "lang": "de",
+        "refcode": "WA 539.3"
+      },
+      {
+        "para_id": "198.2216",
+        "lang": "es",
+        "refcode": "HAp 432.2"
+      },
+      {
+        "para_id": "158.2302",
+        "lang": "fr",
+        "refcode": "CP 483.3"
+      },
+      {
+        "para_id": "11938.2062",
+        "lang": "hu",
+        "refcode": "AT 357.1"
+      },
+      {
+        "para_id": "12410.2236",
+        "lang": "id",
+        "refcode": "KR 457.2"
+      },
+      {
+        "para_id": "882.2069",
+        "lang": "it",
+        "refcode": "UVI 339.4"
+      },
+      {
+        "para_id": "12335.1975",
+        "lang": "nb",
+        "refcode": "AV 312.4"
+      },
+      {
+        "para_id": "12008.1861",
+        "lang": "pl",
+        "refcode": "DA 299.4"
+      },
+      {
+        "para_id": "1806.1937",
+        "lang": "pt",
+        "refcode": "AA 277.2"
+      },
+      {
+        "para_id": "2013.2376",
+        "lang": "ro",
+        "refcode": "FA 542.1"
+      },
+      {
+        "para_id": "1785.2332",
+        "lang": "ru",
+        "refcode": "ДА 542.1"
+      },
+      {
+        "para_id": "13874.1988",
+        "lang": "rw",
+        "refcode": "INI 334.4"
+      },
+      {
+        "para_id": "11182.1960",
+        "lang": "sk",
+        "refcode": "SA 325.4"
+      },
+      {
+        "para_id": "11904.2156",
+        "lang": "tl",
+        "refcode": "AGA 411.1"
+      },
+      {
+        "para_id": "11875.2090",
+        "lang": "uk",
+        "refcode": "ДА 372.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2392",
+    "id_prev": "127.2391",
+    "id_next": "127.2393",
+    "refcode_1": "AA",
+    "refcode_2": "542",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 542.2",
+    "refcode_long": "The Acts of the Apostles, p. 542.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Ye shall drink indeed of My cup, and be baptized with the baptism that I am baptized with,&rdquo; Christ declared&mdash;before Him a cross instead of a throne, two malefactors His companions at His right hand and at His left. James and John were to be sharers with their Master in suffering&mdash;the one, destined to swift-coming death by the sword; the other, longest of all the disciples to follow his Master in labor and reproach and persecution. &ldquo;But to sit on My right hand, and on My left,&rdquo; He continued, &ldquo;is not Mine to give, but it shall be given to them for whom it is prepared of My Father.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Matthew 20:21\" data-link=\"1965.48618\">Matthew 20:21-23</span>.",
+    "puborder": 1490,
+    "translations": [
+      {
+        "para_id": "13804.1784",
+        "lang": "bg",
+        "refcode": "Дa 212.2"
+      },
+      {
+        "para_id": "11590.2287",
+        "lang": "ce",
+        "refcode": "ABA 462.3"
+      },
+      {
+        "para_id": "11247.2182",
+        "lang": "cs",
+        "refcode": "PNL 312.5"
+      },
+      {
+        "para_id": "813.2392",
+        "lang": "de",
+        "refcode": "WA 540.1"
+      },
+      {
+        "para_id": "198.2217",
+        "lang": "es",
+        "refcode": "HAp 432.3"
+      },
+      {
+        "para_id": "158.2305",
+        "lang": "fr",
+        "refcode": "CP 484.1"
+      },
+      {
+        "para_id": "11938.2063",
+        "lang": "hu",
+        "refcode": "AT 357.2"
+      },
+      {
+        "para_id": "12410.2237",
+        "lang": "id",
+        "refcode": "KR 457.3"
+      },
+      {
+        "para_id": "882.2070",
+        "lang": "it",
+        "refcode": "UVI 339.5"
+      },
+      {
+        "para_id": "12335.1976",
+        "lang": "nb",
+        "refcode": "AV 312.5"
+      },
+      {
+        "para_id": "12008.1862",
+        "lang": "pl",
+        "refcode": "DA 299.5"
+      },
+      {
+        "para_id": "1806.1938",
+        "lang": "pt",
+        "refcode": "AA 277.3"
+      },
+      {
+        "para_id": "2013.2377",
+        "lang": "ro",
+        "refcode": "FA 542.2"
+      },
+      {
+        "para_id": "1785.2333",
+        "lang": "ru",
+        "refcode": "ДА 542.2"
+      },
+      {
+        "para_id": "13874.1988",
+        "lang": "rw",
+        "refcode": "INI 334.4"
+      },
+      {
+        "para_id": "11182.1961",
+        "lang": "sk",
+        "refcode": "SA 325.5"
+      },
+      {
+        "para_id": "11904.2157",
+        "lang": "tl",
+        "refcode": "AGA 411.2"
+      },
+      {
+        "para_id": "11875.2091",
+        "lang": "uk",
+        "refcode": "ДА 372.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2393",
+    "id_prev": "127.2392",
+    "id_next": "127.2396",
+    "refcode_1": "AA",
+    "refcode_2": "542",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 542.3",
+    "refcode_long": "The Acts of the Apostles, p. 542.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Jesus understood the motive that prompted the request and thus reproved the pride and ambition of the two disciples: &ldquo;The princes of the Gentiles exercise dominion over them, and they that are great exercise authority upon them. But it shall not be so among you: but whosoever will be great among you, let him be your minister; and whosoever will be chief among you, let him be your servant: even <span class=\"page-break\" data-page=\"543\"></span> as the Son of man came not to be ministered unto, but to minister, and to give His life a ransom for many.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Matthew 20:25\" data-link=\"1965.48626\">Matthew 20:25-28</span>.",
+    "puborder": 1491,
+    "translations": [
+      {
+        "para_id": "13804.1785",
+        "lang": "bg",
+        "refcode": "Дa 212.3"
+      },
+      {
+        "para_id": "11590.2290",
+        "lang": "ce",
+        "refcode": "ABA 463.1"
+      },
+      {
+        "para_id": "11247.2185",
+        "lang": "cs",
+        "refcode": "PNL 313.1"
+      },
+      {
+        "para_id": "813.2393",
+        "lang": "de",
+        "refcode": "WA 540.2"
+      },
+      {
+        "para_id": "198.2218",
+        "lang": "es",
+        "refcode": "HAp 432.4"
+      },
+      {
+        "para_id": "158.2306",
+        "lang": "fr",
+        "refcode": "CP 484.2"
+      },
+      {
+        "para_id": "11938.2064",
+        "lang": "hu",
+        "refcode": "AT 357.3"
+      },
+      {
+        "para_id": "12410.2240",
+        "lang": "id",
+        "refcode": "KR 458.1"
+      },
+      {
+        "para_id": "882.2073",
+        "lang": "it",
+        "refcode": "UVI 340.1"
+      },
+      {
+        "para_id": "12335.1979",
+        "lang": "nb",
+        "refcode": "AV 313.1"
+      },
+      {
+        "para_id": "12008.1865",
+        "lang": "pl",
+        "refcode": "DA 300.1"
+      },
+      {
+        "para_id": "1806.1940",
+        "lang": "pt",
+        "refcode": "AA 277.5"
+      },
+      {
+        "para_id": "2013.2378",
+        "lang": "ro",
+        "refcode": "FA 542.3"
+      },
+      {
+        "para_id": "1785.2334",
+        "lang": "ru",
+        "refcode": "ДА 542.3"
+      },
+      {
+        "para_id": "13874.1991",
+        "lang": "rw",
+        "refcode": "INI 335.1"
+      },
+      {
+        "para_id": "11182.1964",
+        "lang": "sk",
+        "refcode": "SA 326.1"
+      },
+      {
+        "para_id": "11904.2158",
+        "lang": "tl",
+        "refcode": "AGA 411.3"
+      },
+      {
+        "para_id": "11875.2092",
+        "lang": "uk",
+        "refcode": "ДА 372.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2396",
+    "id_prev": "127.2393",
+    "id_next": "127.2397",
+    "refcode_1": "AA",
+    "refcode_2": "543",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 543.1",
+    "refcode_long": "The Acts of the Apostles, p. 543.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the kingdom of God, position is not gained through favoritism. It is not earned, nor is it received through an arbitrary bestowal. It is the result of character. The crown and the throne are the tokens of a condition attained&mdash;tokens of self-conquest through the grace of our Lord Jesus Christ.",
+    "puborder": 1492,
+    "translations": [
+      {
+        "para_id": "13804.1786",
+        "lang": "bg",
+        "refcode": "Дa 212.4"
+      },
+      {
+        "para_id": "11590.2291",
+        "lang": "ce",
+        "refcode": "ABA 463.2"
+      },
+      {
+        "para_id": "11247.2186",
+        "lang": "cs",
+        "refcode": "PNL 313.2"
+      },
+      {
+        "para_id": "813.2394",
+        "lang": "de",
+        "refcode": "WA 540.3"
+      },
+      {
+        "para_id": "198.2221",
+        "lang": "es",
+        "refcode": "HAp 433.1"
+      },
+      {
+        "para_id": "158.2307",
+        "lang": "fr",
+        "refcode": "CP 484.3"
+      },
+      {
+        "para_id": "11938.2065",
+        "lang": "hu",
+        "refcode": "AT 357.4"
+      },
+      {
+        "para_id": "12410.2241",
+        "lang": "id",
+        "refcode": "KR 458.2"
+      },
+      {
+        "para_id": "882.2074",
+        "lang": "it",
+        "refcode": "UVI 340.2"
+      },
+      {
+        "para_id": "12335.1980",
+        "lang": "nb",
+        "refcode": "AV 313.2"
+      },
+      {
+        "para_id": "12008.1866",
+        "lang": "pl",
+        "refcode": "DA 300.2"
+      },
+      {
+        "para_id": "1806.1940",
+        "lang": "pt",
+        "refcode": "AA 277.5"
+      },
+      {
+        "para_id": "2013.2381",
+        "lang": "ro",
+        "refcode": "FA 543.1"
+      },
+      {
+        "para_id": "1785.2337",
+        "lang": "ru",
+        "refcode": "ДА 543.1"
+      },
+      {
+        "para_id": "13874.1992",
+        "lang": "rw",
+        "refcode": "INI 335.2"
+      },
+      {
+        "para_id": "11182.1965",
+        "lang": "sk",
+        "refcode": "SA 326.2"
+      },
+      {
+        "para_id": "11904.2159",
+        "lang": "tl",
+        "refcode": "AGA 411.4"
+      },
+      {
+        "para_id": "11875.2093",
+        "lang": "uk",
+        "refcode": "ДА 372.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2397",
+    "id_prev": "127.2396",
+    "id_next": "127.2398",
+    "refcode_1": "AA",
+    "refcode_2": "543",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 543.2",
+    "refcode_long": "The Acts of the Apostles, p. 543.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Long afterward, when John had been brought into sympathy with Christ through the fellowship of His sufferings, the Lord Jesus revealed to him what is the condition of nearness to His kingdom. &ldquo;To him that overcometh,&rdquo; Christ said, &ldquo;will I grant to sit with Me in My throne, even as I also overcame, and am set down with My Father in His throne.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Revelation 3:21\" data-link=\"1965.62773\">Revelation 3:21</span>. The one who stands nearest to Christ will be he who has drunk most deeply of His spirit of self-sacrificing love,&mdash;love that &ldquo;vaunteth not itself, is not puffed up, ... seeketh not her own, is not easily provoked, thinketh no evil&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"1 Corinthians 13:4\" data-link=\"1965.58462\">1 Corinthians 13:4, 5</span>),&mdash;love that moves the disciple, as it moved our Lord, to give all, to live and labor and sacrifice even unto death, for the saving of humanity.",
+    "puborder": 1493,
+    "translations": [
+      {
+        "para_id": "13804.1787",
+        "lang": "bg",
+        "refcode": "Дa 212.5"
+      },
+      {
+        "para_id": "11590.2292",
+        "lang": "ce",
+        "refcode": "ABA 463.3"
+      },
+      {
+        "para_id": "11247.2187",
+        "lang": "cs",
+        "refcode": "PNL 313.3"
+      },
+      {
+        "para_id": "813.2396",
+        "lang": "de",
+        "refcode": "WA 541.1"
+      },
+      {
+        "para_id": "198.2222",
+        "lang": "es",
+        "refcode": "HAp 433.2"
+      },
+      {
+        "para_id": "158.2308",
+        "lang": "fr",
+        "refcode": "CP 484.4"
+      },
+      {
+        "para_id": "11938.2066",
+        "lang": "hu",
+        "refcode": "AT 357.5"
+      },
+      {
+        "para_id": "12410.2242",
+        "lang": "id",
+        "refcode": "KR 458.3"
+      },
+      {
+        "para_id": "882.2075",
+        "lang": "it",
+        "refcode": "UVI 340.3"
+      },
+      {
+        "para_id": "12335.1981",
+        "lang": "nb",
+        "refcode": "AV 313.3"
+      },
+      {
+        "para_id": "12008.1867",
+        "lang": "pl",
+        "refcode": "DA 300.3"
+      },
+      {
+        "para_id": "1806.1940",
+        "lang": "pt",
+        "refcode": "AA 277.5"
+      },
+      {
+        "para_id": "2013.2382",
+        "lang": "ro",
+        "refcode": "FA 543.2"
+      },
+      {
+        "para_id": "1785.2338",
+        "lang": "ru",
+        "refcode": "ДА 543.2"
+      },
+      {
+        "para_id": "13874.1993",
+        "lang": "rw",
+        "refcode": "INI 335.3"
+      },
+      {
+        "para_id": "11182.1966",
+        "lang": "sk",
+        "refcode": "SA 326.3"
+      },
+      {
+        "para_id": "11904.2161",
+        "lang": "tl",
+        "refcode": "AGA 412.1"
+      },
+      {
+        "para_id": "11875.2096",
+        "lang": "uk",
+        "refcode": "ДА 373.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2398",
+    "id_prev": "127.2397",
+    "id_next": "127.2401",
+    "refcode_1": "AA",
+    "refcode_2": "543",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 543.3",
+    "refcode_long": "The Acts of the Apostles, p. 543.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "At another time during their early evangelistic labors, James and John met one who, while not an acknowledged follower of Christ, was casting out devils in His name. The disciples forbade the man to work and thought they were right in doing this. But when they laid the matter before Christ, He reproved them, saying, &ldquo;Forbid him not: for there is no man which shall do a miracle in My name, that <span class=\"page-break\" data-page=\"544\"></span> can lightly speak evil of Me.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Mark 9:39\" data-link=\"1965.50164\">Mark 9:39</span>. None who showed themselves in any way friendly to Christ were to be repulsed. The disciples must not indulge a narrow, exclusive spirit, but must manifest the same far-reaching sympathy which they had seen in their Master. James and John had thought that in checking this man they had in view the Lord&apos;s honor; but they began to see that they were jealous for their own. They acknowledged their error and accepted the reproof.",
+    "puborder": 1494,
+    "translations": [
+      {
+        "para_id": "13804.1788",
+        "lang": "bg",
+        "refcode": "Дa 212.6"
+      },
+      {
+        "para_id": "11590.2293",
+        "lang": "ce",
+        "refcode": "ABA 463.4"
+      },
+      {
+        "para_id": "11247.2188",
+        "lang": "cs",
+        "refcode": "PNL 313.4"
+      },
+      {
+        "para_id": "813.2397",
+        "lang": "de",
+        "refcode": "WA 541.2"
+      },
+      {
+        "para_id": "198.2223",
+        "lang": "es",
+        "refcode": "HAp 433.3"
+      },
+      {
+        "para_id": "158.2311",
+        "lang": "fr",
+        "refcode": "CP 485.1"
+      },
+      {
+        "para_id": "11938.2069",
+        "lang": "hu",
+        "refcode": "AT 358.1"
+      },
+      {
+        "para_id": "12410.2243",
+        "lang": "id",
+        "refcode": "KR 458.4"
+      },
+      {
+        "para_id": "882.2076",
+        "lang": "it",
+        "refcode": "UVI 340.4"
+      },
+      {
+        "para_id": "12335.1982",
+        "lang": "nb",
+        "refcode": "AV 313.4"
+      },
+      {
+        "para_id": "12008.1868",
+        "lang": "pl",
+        "refcode": "DA 300.4"
+      },
+      {
+        "para_id": "1806.1943",
+        "lang": "pt",
+        "refcode": "AA 278.1"
+      },
+      {
+        "para_id": "2013.2383",
+        "lang": "ro",
+        "refcode": "FA 543.3"
+      },
+      {
+        "para_id": "1785.2339",
+        "lang": "ru",
+        "refcode": "ДА 543.3"
+      },
+      {
+        "para_id": "13874.1994",
+        "lang": "rw",
+        "refcode": "INI 335.4"
+      },
+      {
+        "para_id": "11182.1967",
+        "lang": "sk",
+        "refcode": "SA 326.4"
+      },
+      {
+        "para_id": "11904.2162",
+        "lang": "tl",
+        "refcode": "AGA 412.2"
+      },
+      {
+        "para_id": "11875.2097",
+        "lang": "uk",
+        "refcode": "ДА 373.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2401",
+    "id_prev": "127.2398",
+    "id_next": "127.2402",
+    "refcode_1": "AA",
+    "refcode_2": "544",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 544.1",
+    "refcode_long": "The Acts of the Apostles, p. 544.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The lessons of Christ, setting forth meekness and humility and love as essential to growth in grace and a fitness for His work, were of the highest value to John. He treasured every lesson and constantly sought to bring his life into harmony with the divine pattern. John had begun to discern the glory of Christ&mdash;not the worldly pomp and power for which he had been taught to hope, but &ldquo;the glory as of the Only Begotten of the Father, full of grace and truth.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"John 1:14\" data-link=\"1965.53160\">John 1:14</span>.",
+    "puborder": 1495,
+    "translations": [
+      {
+        "para_id": "13804.1789",
+        "lang": "bg",
+        "refcode": "Дa 212.7"
+      },
+      {
+        "para_id": "11590.2296",
+        "lang": "ce",
+        "refcode": "ABA 464.1"
+      },
+      {
+        "para_id": "11247.2190",
+        "lang": "cs",
+        "refcode": "PNL 313.5"
+      },
+      {
+        "para_id": "813.2398",
+        "lang": "de",
+        "refcode": "WA 541.3"
+      },
+      {
+        "para_id": "198.2226",
+        "lang": "es",
+        "refcode": "HAp 434.1"
+      },
+      {
+        "para_id": "158.2312",
+        "lang": "fr",
+        "refcode": "CP 485.2"
+      },
+      {
+        "para_id": "11938.2070",
+        "lang": "hu",
+        "refcode": "AT 358.2"
+      },
+      {
+        "para_id": "12410.2246",
+        "lang": "id",
+        "refcode": "KR 459.1"
+      },
+      {
+        "para_id": "882.2079",
+        "lang": "it",
+        "refcode": "UVI 341.1"
+      },
+      {
+        "para_id": "12335.1985",
+        "lang": "nb",
+        "refcode": "AV 314.1"
+      },
+      {
+        "para_id": "12008.1869",
+        "lang": "pl",
+        "refcode": "DA 300.5"
+      },
+      {
+        "para_id": "1806.1944",
+        "lang": "pt",
+        "refcode": "AA 278.2"
+      },
+      {
+        "para_id": "2013.2383",
+        "lang": "ro",
+        "refcode": "FA 543.3"
+      },
+      {
+        "para_id": "1785.2342",
+        "lang": "ru",
+        "refcode": "ДА 544.1"
+      },
+      {
+        "para_id": "13874.1996",
+        "lang": "rw",
+        "refcode": "INI 336.1"
+      },
+      {
+        "para_id": "11182.1970",
+        "lang": "sk",
+        "refcode": "SA 327.1"
+      },
+      {
+        "para_id": "11904.2163",
+        "lang": "tl",
+        "refcode": "AGA 412.3"
+      },
+      {
+        "para_id": "11875.2098",
+        "lang": "uk",
+        "refcode": "ДА 373.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2402",
+    "id_prev": "127.2401",
+    "id_next": "127.2405",
+    "refcode_1": "AA",
+    "refcode_2": "544",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 544.2",
+    "refcode_long": "The Acts of the Apostles, p. 544.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The depth and fervor of John&apos;s affection for his Master was not the cause of Christ&apos;s love for him, but the effect of that love. John desired to become like Jesus, and under the transforming influence of the love of Christ he did become meek and lowly. Self was hid in Jesus. Above all his companions, John yielded himself to the power of that wondrous life. He says, &ldquo;The life was manifested, and we have seen it.&rdquo; &ldquo;And of His fullness have all we received, and grace for grace.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 John 1:2\" data-link=\"1965.62309\">1 John 1:2</span>; <span class=\"egwlink egwlink_bible\" title=\"John 1:16\" data-link=\"1965.53164\">John 1:16</span>. John knew the Saviour by an experimental knowledge. His Master&apos;s <span class=\"page-break\" data-page=\"545\"></span> lessons were graven on his soul. When he testified of the Saviour&apos;s grace, his simple language was eloquent with the love that pervaded his whole being.",
+    "puborder": 1496,
+    "translations": [
+      {
+        "para_id": "13804.1792",
+        "lang": "bg",
+        "refcode": "Дa 213.1"
+      },
+      {
+        "para_id": "11590.2297",
+        "lang": "ce",
+        "refcode": "ABA 464.2"
+      },
+      {
+        "para_id": "11247.2193",
+        "lang": "cs",
+        "refcode": "PNL 314.1"
+      },
+      {
+        "para_id": "813.2401",
+        "lang": "de",
+        "refcode": "WA 542.1"
+      },
+      {
+        "para_id": "198.2227",
+        "lang": "es",
+        "refcode": "HAp 434.2"
+      },
+      {
+        "para_id": "158.2312",
+        "lang": "fr",
+        "refcode": "CP 485.2"
+      },
+      {
+        "para_id": "158.2315",
+        "lang": "fr",
+        "refcode": "CP 486.1"
+      },
+      {
+        "para_id": "11938.2071",
+        "lang": "hu",
+        "refcode": "AT 358.3"
+      },
+      {
+        "para_id": "12410.2247",
+        "lang": "id",
+        "refcode": "KR 459.2"
+      },
+      {
+        "para_id": "882.2080",
+        "lang": "it",
+        "refcode": "UVI 341.2"
+      },
+      {
+        "para_id": "12335.1986",
+        "lang": "nb",
+        "refcode": "AV 314.2"
+      },
+      {
+        "para_id": "12008.1872",
+        "lang": "pl",
+        "refcode": "DA 301.1"
+      },
+      {
+        "para_id": "1806.1946",
+        "lang": "pt",
+        "refcode": "AA 278.4"
+      },
+      {
+        "para_id": "2013.2386",
+        "lang": "ro",
+        "refcode": "FA 544.2"
+      },
+      {
+        "para_id": "1785.2343",
+        "lang": "ru",
+        "refcode": "ДА 544.2"
+      },
+      {
+        "para_id": "13874.1997",
+        "lang": "rw",
+        "refcode": "INI 336.2"
+      },
+      {
+        "para_id": "11182.1971",
+        "lang": "sk",
+        "refcode": "SA 327.2"
+      },
+      {
+        "para_id": "11904.2164",
+        "lang": "tl",
+        "refcode": "AGA 412.4"
+      },
+      {
+        "para_id": "11875.2099",
+        "lang": "uk",
+        "refcode": "ДА 373.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2405",
+    "id_prev": "127.2402",
+    "id_next": "127.2406",
+    "refcode_1": "AA",
+    "refcode_2": "545",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 545.1",
+    "refcode_long": "The Acts of the Apostles, p. 545.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It was John&apos;s deep love for Christ which led him always to desire to be close by His side. The Saviour loved all the Twelve, but John&apos;s was the most receptive spirit. He was younger than the others, and with more of the child&apos;s confiding trust he opened his heart to Jesus. Thus he came more into sympathy with Christ, and through him the Saviour&apos;s deepest spiritual teaching was communicated to the people.",
+    "puborder": 1497,
+    "translations": [
+      {
+        "para_id": "13804.1793",
+        "lang": "bg",
+        "refcode": "Дa 213.2"
+      },
+      {
+        "para_id": "11590.2300",
+        "lang": "ce",
+        "refcode": "ABA 465.1"
+      },
+      {
+        "para_id": "11247.2194",
+        "lang": "cs",
+        "refcode": "PNL 314.2"
+      },
+      {
+        "para_id": "813.2402",
+        "lang": "de",
+        "refcode": "WA 542.2"
+      },
+      {
+        "para_id": "198.2228",
+        "lang": "es",
+        "refcode": "HAp 434.3"
+      },
+      {
+        "para_id": "158.2316",
+        "lang": "fr",
+        "refcode": "CP 486.2"
+      },
+      {
+        "para_id": "11938.2072",
+        "lang": "hu",
+        "refcode": "AT 358.4"
+      },
+      {
+        "para_id": "12410.2248",
+        "lang": "id",
+        "refcode": "KR 459.3"
+      },
+      {
+        "para_id": "882.2081",
+        "lang": "it",
+        "refcode": "UVI 341.3"
+      },
+      {
+        "para_id": "12335.1987",
+        "lang": "nb",
+        "refcode": "AV 314.3"
+      },
+      {
+        "para_id": "12008.1873",
+        "lang": "pl",
+        "refcode": "DA 301.2"
+      },
+      {
+        "para_id": "1806.1947",
+        "lang": "pt",
+        "refcode": "AA 278.5"
+      },
+      {
+        "para_id": "2013.2389",
+        "lang": "ro",
+        "refcode": "FA 545.1"
+      },
+      {
+        "para_id": "1785.2346",
+        "lang": "ru",
+        "refcode": "ДА 545.1"
+      },
+      {
+        "para_id": "13874.1998",
+        "lang": "rw",
+        "refcode": "INI 336.3"
+      },
+      {
+        "para_id": "11182.1972",
+        "lang": "sk",
+        "refcode": "SA 327.3"
+      },
+      {
+        "para_id": "11904.2167",
+        "lang": "tl",
+        "refcode": "AGA 413.1"
+      },
+      {
+        "para_id": "11875.2102",
+        "lang": "uk",
+        "refcode": "ДА 374.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2406",
+    "id_prev": "127.2405",
+    "id_next": "127.2407",
+    "refcode_1": "AA",
+    "refcode_2": "545",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 545.2",
+    "refcode_long": "The Acts of the Apostles, p. 545.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Jesus loves those who represent the Father, and John could talk of the Father&apos;s love as no other of the disciples could. He revealed to his fellow men that which he felt in his own soul, representing in his character the attributes of God. The glory of the Lord was expressed in his face. The beauty of holiness which had transformed him shone with a Christlike radiance from his countenance. In adoration and love he beheld the Saviour until likeness to Christ and fellowship with Him became his one desire, and in his character was reflected the character of his Master.",
+    "puborder": 1498,
+    "translations": [
+      {
+        "para_id": "13804.1794",
+        "lang": "bg",
+        "refcode": "Дa 213.3"
+      },
+      {
+        "para_id": "11590.2301",
+        "lang": "ce",
+        "refcode": "ABA 465.2"
+      },
+      {
+        "para_id": "11247.2195",
+        "lang": "cs",
+        "refcode": "PNL 314.3"
+      },
+      {
+        "para_id": "813.2403",
+        "lang": "de",
+        "refcode": "WA 542.3"
+      },
+      {
+        "para_id": "198.2231",
+        "lang": "es",
+        "refcode": "HAp 435.1"
+      },
+      {
+        "para_id": "158.2317",
+        "lang": "fr",
+        "refcode": "CP 486.3"
+      },
+      {
+        "para_id": "11938.2075",
+        "lang": "hu",
+        "refcode": "AT 359.1"
+      },
+      {
+        "para_id": "12410.2251",
+        "lang": "id",
+        "refcode": "KR 460.1"
+      },
+      {
+        "para_id": "882.2082",
+        "lang": "it",
+        "refcode": "UVI 341.4"
+      },
+      {
+        "para_id": "12335.1988",
+        "lang": "nb",
+        "refcode": "AV 314.4"
+      },
+      {
+        "para_id": "12008.1874",
+        "lang": "pl",
+        "refcode": "DA 301.3"
+      },
+      {
+        "para_id": "1806.1948",
+        "lang": "pt",
+        "refcode": "AA 278.6"
+      },
+      {
+        "para_id": "2013.2390",
+        "lang": "ro",
+        "refcode": "FA 545.2"
+      },
+      {
+        "para_id": "1785.2347",
+        "lang": "ru",
+        "refcode": "ДА 545.2"
+      },
+      {
+        "para_id": "13874.1999",
+        "lang": "rw",
+        "refcode": "INI 336.4"
+      },
+      {
+        "para_id": "11182.1973",
+        "lang": "sk",
+        "refcode": "SA 327.4"
+      },
+      {
+        "para_id": "11904.2168",
+        "lang": "tl",
+        "refcode": "AGA 413.2"
+      },
+      {
+        "para_id": "11875.2103",
+        "lang": "uk",
+        "refcode": "ДА 374.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2407",
+    "id_prev": "127.2406",
+    "id_next": "127.2409",
+    "refcode_1": "AA",
+    "refcode_2": "545",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 545.3",
+    "refcode_long": "The Acts of the Apostles, p. 545.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Behold,&rdquo; he said, &ldquo;what manner of love the Father hath bestowed upon us, that we should be called the sons of God.... Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when He shall appear, we shall be like Him; for we shall see Him as He is.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"1 John 3:1\" data-link=\"1965.62387\">1 John 3:1, 2</span>.",
+    "puborder": 1499,
+    "translations": [
+      {
+        "para_id": "13804.1795",
+        "lang": "bg",
+        "refcode": "Дa 213.4"
+      },
+      {
+        "para_id": "11590.2302",
+        "lang": "ce",
+        "refcode": "ABA 465.3"
+      },
+      {
+        "para_id": "11247.2196",
+        "lang": "cs",
+        "refcode": "PNL 314.4"
+      },
+      {
+        "para_id": "813.2406",
+        "lang": "de",
+        "refcode": "WA 543.1"
+      },
+      {
+        "para_id": "198.2232",
+        "lang": "es",
+        "refcode": "HAp 435.2"
+      },
+      {
+        "para_id": "158.2318",
+        "lang": "fr",
+        "refcode": "CP 486.4"
+      },
+      {
+        "para_id": "11938.2076",
+        "lang": "hu",
+        "refcode": "AT 359.2"
+      },
+      {
+        "para_id": "12410.2252",
+        "lang": "id",
+        "refcode": "KR 460.2"
+      },
+      {
+        "para_id": "882.2083",
+        "lang": "it",
+        "refcode": "UVI 341.5"
+      },
+      {
+        "para_id": "12335.1989",
+        "lang": "nb",
+        "refcode": "AV 314.5"
+      },
+      {
+        "para_id": "12008.1875",
+        "lang": "pl",
+        "refcode": "DA 301.4"
+      },
+      {
+        "para_id": "1806.1948",
+        "lang": "pt",
+        "refcode": "AA 278.6"
+      },
+      {
+        "para_id": "2013.2391",
+        "lang": "ro",
+        "refcode": "FA 545.3"
+      },
+      {
+        "para_id": "1785.2348",
+        "lang": "ru",
+        "refcode": "ДА 545.3"
+      },
+      {
+        "para_id": "13874.2000",
+        "lang": "rw",
+        "refcode": "INI 336.5"
+      },
+      {
+        "para_id": "11182.1974",
+        "lang": "sk",
+        "refcode": "SA 327.5"
+      },
+      {
+        "para_id": "11904.2169",
+        "lang": "tl",
+        "refcode": "AGA 413.3"
+      },
+      {
+        "para_id": "11875.2104",
+        "lang": "uk",
+        "refcode": "ДА 374.3"
+      }
+    ]
+  }
+]

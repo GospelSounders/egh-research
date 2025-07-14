@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.19",
+    "id_prev": "21.11",
+    "id_next": "21.20",
+    "refcode_1": "CSW",
+    "refcode_2": "9",
+    "refcode_3": "",
+    "refcode_4": "1",
+    "refcode_short": "CSW 9",
+    "refcode_long": "Counsels on Sabbath School Work, p. 9 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 1&mdash;The Importance and Purpose of Sabbath School Work",
+    "puborder": 9,
+    "translations": [
+      {
+        "para_id": "11629.4",
+        "lang": "da",
+        "refcode": "RSSA 9"
+      },
+      {
+        "para_id": "799.40",
+        "lang": "de",
+        "refcode": "RSs 13"
+      },
+      {
+        "para_id": "1711.33",
+        "lang": "es",
+        "refcode": "COES 9"
+      },
+      {
+        "para_id": "1917.10",
+        "lang": "pt",
+        "refcode": "CES38 1"
+      },
+      {
+        "para_id": "1724.40",
+        "lang": "pt",
+        "refcode": "CES 7"
+      },
+      {
+        "para_id": "2719.18",
+        "lang": "ro",
+        "refcode": "SSS 9"
+      },
+      {
+        "para_id": "1873.17",
+        "lang": "ru",
+        "refcode": "ССШ 9"
+      }
+    ]
+  },
+  {
+    "para_id": "21.20",
+    "id_prev": "21.19",
+    "id_next": "21.21",
+    "refcode_1": "CSW",
+    "refcode_2": "9",
+    "refcode_3": "",
+    "refcode_4": "1",
+    "refcode_short": "CSW 9",
+    "refcode_long": "Counsels on Sabbath School Work, p. 9 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "An Important Work",
+    "puborder": 10,
+    "translations": [
+      {
+        "para_id": "11629.5",
+        "lang": "da",
+        "refcode": "RSSA 9"
+      },
+      {
+        "para_id": "799.42",
+        "lang": "de",
+        "refcode": "RSs 14"
+      },
+      {
+        "para_id": "1711.34",
+        "lang": "es",
+        "refcode": "COES 9"
+      },
+      {
+        "para_id": "1917.13",
+        "lang": "pt",
+        "refcode": "CES38 2"
+      },
+      {
+        "para_id": "1724.46",
+        "lang": "pt",
+        "refcode": "CES 9"
+      },
+      {
+        "para_id": "2719.19",
+        "lang": "ro",
+        "refcode": "SSS 9"
+      },
+      {
+        "para_id": "1873.18",
+        "lang": "ru",
+        "refcode": "ССШ 9"
+      }
+    ]
+  },
+  {
+    "para_id": "21.21",
+    "id_prev": "21.20",
+    "id_next": "21.22",
+    "refcode_1": "CSW",
+    "refcode_2": "9",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 9.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 9.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Sabbath school work is important, and all who are interested in the truth should endeavor to make it prosperous.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 109.1\" data-link=\"121.437\"><em>Testimonies on Sabbath-School Work</em>, 109</span>.",
+    "puborder": 11,
+    "translations": [
+      {
+        "para_id": "11629.6",
+        "lang": "da",
+        "refcode": "RSSA 9.1"
+      },
+      {
+        "para_id": "799.43",
+        "lang": "de",
+        "refcode": "RSs 14.1"
+      },
+      {
+        "para_id": "1711.35",
+        "lang": "es",
+        "refcode": "Counsels on Sabbath School Work"
+      },
+      {
+        "para_id": "1917.14",
+        "lang": "pt",
+        "refcode": "CES38 2.1"
+      },
+      {
+        "para_id": "1724.47",
+        "lang": "pt",
+        "refcode": "CES 9.1"
+      },
+      {
+        "para_id": "2719.20",
+        "lang": "ro",
+        "refcode": "SSS 9.1"
+      },
+      {
+        "para_id": "1873.19",
+        "lang": "ru",
+        "refcode": "ССШ 9.1"
+      }
+    ]
+  }
+]

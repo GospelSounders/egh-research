@@ -1,0 +1,589 @@
+[
+  {
+    "para_id": "128.5",
+    "id_prev": null,
+    "id_next": "128.7",
+    "refcode_1": "AH",
+    "refcode_2": "3",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "AH 3",
+    "refcode_long": "The Adventist Home, p. 3 (Ellen Gould White)",
+    "element_type": "h1",
+    "element_subtype": "",
+    "content": "The Adventist Home",
+    "puborder": 1,
+    "translations": [
+      {
+        "para_id": "177.2",
+        "lang": "es",
+        "refcode": "HC 1"
+      },
+      {
+        "para_id": "193.3",
+        "lang": "fr",
+        "refcode": "FC 1"
+      },
+      {
+        "para_id": "12869.2",
+        "lang": "id",
+        "refcode": "MKB 0"
+      },
+      {
+        "para_id": "891.2",
+        "lang": "it",
+        "refcode": "FC 2"
+      },
+      {
+        "para_id": "12178.5",
+        "lang": "pl",
+        "refcode": "ChD 3"
+      },
+      {
+        "para_id": "1955.2",
+        "lang": "pt",
+        "refcode": "LA 1"
+      },
+      {
+        "para_id": "2026.2",
+        "lang": "ro",
+        "refcode": "CA 4"
+      },
+      {
+        "para_id": "1803.2",
+        "lang": "ru",
+        "refcode": "ХД 13"
+      },
+      {
+        "para_id": "12131.2",
+        "lang": "uk",
+        "refcode": "ХР 1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.7",
+    "id_prev": "128.5",
+    "id_next": "128.8",
+    "refcode_1": "AH",
+    "refcode_2": "5",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "AH 5",
+    "refcode_long": "The Adventist Home, p. 5 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Foreword",
+    "puborder": 2,
+    "translations": [
+      {
+        "para_id": "13839.7",
+        "lang": "bg",
+        "refcode": "ХД 3"
+      },
+      {
+        "para_id": "177.23",
+        "lang": "es",
+        "refcode": "HC 5"
+      },
+      {
+        "para_id": "193.14",
+        "lang": "fr",
+        "refcode": "FC 7"
+      },
+      {
+        "para_id": "12869.8",
+        "lang": "id",
+        "refcode": "MKB 5"
+      },
+      {
+        "para_id": "2026.4",
+        "lang": "ro",
+        "refcode": "CA 5"
+      },
+      {
+        "para_id": "12131.12",
+        "lang": "uk",
+        "refcode": "ХР 8"
+      }
+    ]
+  },
+  {
+    "para_id": "128.8",
+    "id_prev": "128.7",
+    "id_next": "128.9",
+    "refcode_1": "AH",
+    "refcode_2": "5",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 5.1",
+    "refcode_long": "The Adventist Home, p. 5.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\">The Adventist home is a home where Seventh-day Adventist standards and practices are lived and taught, a place to which Seventh-day Adventist fathers and mothers are commissioned by Christ to go and make Christians of the members of their own households. And in order to perform that task well, Seventh-day Adventist parents are looking for all the help they can possibly find.</span>",
+    "puborder": 3,
+    "translations": [
+      {
+        "para_id": "13839.8",
+        "lang": "bg",
+        "refcode": "ХД 3.1"
+      },
+      {
+        "para_id": "177.24",
+        "lang": "es",
+        "refcode": "HC 5.1"
+      },
+      {
+        "para_id": "193.15",
+        "lang": "fr",
+        "refcode": "FC 7.1"
+      },
+      {
+        "para_id": "12869.9",
+        "lang": "id",
+        "refcode": "MKB 5.1"
+      },
+      {
+        "para_id": "2026.5",
+        "lang": "ro",
+        "refcode": "CA 5.1"
+      },
+      {
+        "para_id": "12131.13",
+        "lang": "uk",
+        "refcode": "ХР 8.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.9",
+    "id_prev": "128.8",
+    "id_next": "128.10",
+    "refcode_1": "AH",
+    "refcode_2": "5",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 5.2",
+    "refcode_long": "The Adventist Home, p. 5.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\">Ellen G. White has written much and very valuable counsel for parents. She has touched upon every phase of the home, and offers specific instruction on many of the problems which give so much concern to thoughtful and often anxious parents today. Some years before her death, she indicated her desire to get out &ldquo;a book for Christian parents&rdquo; that would define &ldquo;the mother&apos;s duty and influence over her children.&rdquo; In the present work an endeavor has been made to fulfill this expectation.</span>",
+    "puborder": 4,
+    "translations": [
+      {
+        "para_id": "13839.9",
+        "lang": "bg",
+        "refcode": "ХД 3.2"
+      },
+      {
+        "para_id": "177.25",
+        "lang": "es",
+        "refcode": "HC 5.2"
+      },
+      {
+        "para_id": "193.16",
+        "lang": "fr",
+        "refcode": "FC 7.2"
+      },
+      {
+        "para_id": "12869.10",
+        "lang": "id",
+        "refcode": "MKB 5.2"
+      },
+      {
+        "para_id": "2026.6",
+        "lang": "ro",
+        "refcode": "CA 5.2"
+      },
+      {
+        "para_id": "12131.14",
+        "lang": "uk",
+        "refcode": "ХР 8.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.10",
+    "id_prev": "128.9",
+    "id_next": "128.11",
+    "refcode_1": "AH",
+    "refcode_2": "5",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 5.3",
+    "refcode_long": "The Adventist Home, p. 5.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\">This book, <em>The Adventist Home,</em> is at once a sort of handbook or manual for busy parents, and a pattern or ideal of what the home can and should become. Here are the answers to your many questions, the words of wisdom from the heavenly Father.</span>",
+    "puborder": 5,
+    "translations": [
+      {
+        "para_id": "13839.12",
+        "lang": "bg",
+        "refcode": "ХД 4.1"
+      },
+      {
+        "para_id": "177.26",
+        "lang": "es",
+        "refcode": "HC 5.3"
+      },
+      {
+        "para_id": "193.17",
+        "lang": "fr",
+        "refcode": "FC 7.3"
+      },
+      {
+        "para_id": "12869.11",
+        "lang": "id",
+        "refcode": "MKB 5.3"
+      },
+      {
+        "para_id": "2026.7",
+        "lang": "ro",
+        "refcode": "CA 5.3"
+      },
+      {
+        "para_id": "12131.15",
+        "lang": "uk",
+        "refcode": "ХР 8.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.11",
+    "id_prev": "128.10",
+    "id_next": "128.14",
+    "refcode_1": "AH",
+    "refcode_2": "5",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 5.4",
+    "refcode_long": "The Adventist Home, p. 5.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\">In compiling this work, excerpts have been drawn from the Ellen G. White writings penned through seven decades, but especially from the thousands of E. G. White articles which were prepared for the journals of the denomination. The current published works, special testimonies issued in pamphlet form, and the E. G. White manuscript files have also enriched the Volume. Appropriate source credits are given in connection with each chapter. As the excerpts drawn from different sources</span> <span class=\"page-break\" data-page=\"6\"></span> <span class=\"non-egw-foreword\">written at different times are linked together in their logical sequence, there may be occasionally a slight unavoidable break in thought or manner of address, for the compilers are limited in their work to selecting and arranging the subject matter and supplying the headings.</span>",
+    "puborder": 6,
+    "translations": [
+      {
+        "para_id": "13839.13",
+        "lang": "bg",
+        "refcode": "ХД 4.2"
+      },
+      {
+        "para_id": "177.27",
+        "lang": "es",
+        "refcode": "HC 5.4"
+      },
+      {
+        "para_id": "193.18",
+        "lang": "fr",
+        "refcode": "FC 7.4"
+      },
+      {
+        "para_id": "12869.12",
+        "lang": "id",
+        "refcode": "MKB 5.4"
+      },
+      {
+        "para_id": "2026.8",
+        "lang": "ro",
+        "refcode": "CA 5.4"
+      },
+      {
+        "para_id": "12131.16",
+        "lang": "uk",
+        "refcode": "ХР 8.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.14",
+    "id_prev": "128.11",
+    "id_next": "128.15",
+    "refcode_1": "AH",
+    "refcode_2": "6",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 6.1",
+    "refcode_long": "The Adventist Home, p. 6.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\">This document has been prepared in the office of the Ellen G. White Publications. The work has been done in harmony with Mrs. White&apos;s instruction to her trustees in providing &ldquo;for the printing of compilations&rdquo; from her manuscripts, for they contain, she said, &ldquo;instruction that the Lord has given me for his people.&rdquo;</span>",
+    "puborder": 7,
+    "translations": [
+      {
+        "para_id": "13839.14",
+        "lang": "bg",
+        "refcode": "ХД 4.3"
+      },
+      {
+        "para_id": "177.30",
+        "lang": "es",
+        "refcode": "HC 6.1"
+      },
+      {
+        "para_id": "193.21",
+        "lang": "fr",
+        "refcode": "FC 8.1"
+      },
+      {
+        "para_id": "12869.13",
+        "lang": "id",
+        "refcode": "MKB 5.5"
+      },
+      {
+        "para_id": "2026.11",
+        "lang": "ro",
+        "refcode": "CA 6.1"
+      },
+      {
+        "para_id": "12131.17",
+        "lang": "uk",
+        "refcode": "ХР 8.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.15",
+    "id_prev": "128.14",
+    "id_next": "128.16",
+    "refcode_1": "AH",
+    "refcode_2": "6",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 6.2",
+    "refcode_long": "The Adventist Home, p. 6.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\">Never in the history of the world has a book like this been needed more urgently than it is right now. Never have parents and children been more anxious for the right answer to the things which trouble them. Never have homes been in such jeopardy as they are today.</span>",
+    "puborder": 8,
+    "translations": [
+      {
+        "para_id": "13839.15",
+        "lang": "bg",
+        "refcode": "ХД 4.4"
+      },
+      {
+        "para_id": "177.31",
+        "lang": "es",
+        "refcode": "HC 6.2"
+      },
+      {
+        "para_id": "193.22",
+        "lang": "fr",
+        "refcode": "FC 8.2"
+      },
+      {
+        "para_id": "12869.14",
+        "lang": "id",
+        "refcode": "MKB 5.6"
+      },
+      {
+        "para_id": "2026.12",
+        "lang": "ro",
+        "refcode": "CA 6.2"
+      },
+      {
+        "para_id": "12131.18",
+        "lang": "uk",
+        "refcode": "ХР 8.6"
+      }
+    ]
+  },
+  {
+    "para_id": "128.16",
+    "id_prev": "128.15",
+    "id_next": "128.17",
+    "refcode_1": "AH",
+    "refcode_2": "6",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 6.3",
+    "refcode_long": "The Adventist Home, p. 6.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\">Every one of us knows that conditions in society are but a reflection of conditions in the homes of the nation. We likewise know that a change in the home will be mirrored in a changed society. To this end this Volume&mdash;<em>The Adventist Home</em>&mdash;has been prepared and, as a part of the Christian home library, is now sent forth on its important mission by the publishers and</span>",
+    "puborder": 9,
+    "translations": [
+      {
+        "para_id": "13839.15",
+        "lang": "bg",
+        "refcode": "ХД 4.4"
+      },
+      {
+        "para_id": "177.32",
+        "lang": "es",
+        "refcode": "HC 6.3"
+      },
+      {
+        "para_id": "193.23",
+        "lang": "fr",
+        "refcode": "FC 8.3"
+      },
+      {
+        "para_id": "12869.17",
+        "lang": "id",
+        "refcode": "MKB 6.1"
+      },
+      {
+        "para_id": "2026.13",
+        "lang": "ro",
+        "refcode": "CA 6.3"
+      },
+      {
+        "para_id": "12131.21",
+        "lang": "uk",
+        "refcode": "ХР 9.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.17",
+    "id_prev": "128.16",
+    "id_next": "128.18",
+    "refcode_1": "AH",
+    "refcode_2": "6",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "signatureline",
+    "content": "<span class=\"non-egw-foreword\">The Trustees of the</span>",
+    "puborder": 10,
+    "translations": [
+      {
+        "para_id": "177.33",
+        "lang": "es",
+        "refcode": "The Adventist Home"
+      },
+      {
+        "para_id": "2026.13",
+        "lang": "ro",
+        "refcode": "CA 6.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.18",
+    "id_prev": "128.17",
+    "id_next": "128.19",
+    "refcode_1": "AH",
+    "refcode_2": "6",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "signatureline",
+    "content": "<span class=\"non-egw-foreword\">Ellen G. White Publications</span>",
+    "puborder": 11,
+    "translations": [
+      {
+        "para_id": "177.33",
+        "lang": "es",
+        "refcode": "The Adventist Home"
+      },
+      {
+        "para_id": "193.23",
+        "lang": "fr",
+        "refcode": "FC 8.3"
+      },
+      {
+        "para_id": "2026.13",
+        "lang": "ro",
+        "refcode": "CA 6.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.19",
+    "id_prev": "128.18",
+    "id_next": "128.20",
+    "refcode_1": "AH",
+    "refcode_2": "6",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "signatureplace",
+    "content": "<span class=\"non-egw-foreword\">Washington, D.C.</span>,",
+    "puborder": 12,
+    "translations": [
+      {
+        "para_id": "177.34",
+        "lang": "es",
+        "refcode": "The Adventist Home"
+      },
+      {
+        "para_id": "193.24",
+        "lang": "fr",
+        "refcode": "The Adventist Home"
+      },
+      {
+        "para_id": "2026.14",
+        "lang": "ro",
+        "refcode": "The Adventist Home"
+      },
+      {
+        "para_id": "12131.22",
+        "lang": "uk",
+        "refcode": "ХР 9.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.20",
+    "id_prev": "128.19",
+    "id_next": "128.2587",
+    "refcode_1": "AH",
+    "refcode_2": "6",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "signaturedate",
+    "content": "<span class=\"non-egw-foreword\">May 8, 1952</span>.",
+    "puborder": 13,
+    "translations": [
+      {
+        "para_id": "177.34",
+        "lang": "es",
+        "refcode": "The Adventist Home"
+      },
+      {
+        "para_id": "193.24",
+        "lang": "fr",
+        "refcode": "The Adventist Home"
+      },
+      {
+        "para_id": "2026.2585",
+        "lang": "ro",
+        "refcode": "The Adventist Home"
+      },
+      {
+        "para_id": "12131.22",
+        "lang": "uk",
+        "refcode": "ХР 9.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.2587",
+    "id_prev": "128.20",
+    "id_next": "128.36",
+    "refcode_1": "AH",
+    "refcode_2": "6",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 6.4",
+    "refcode_long": "The Adventist Home, p. 6.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\"><br /><br /><span class=\"egw-no-link\" title=\"SG-AH 5.1\">The Adventist Home Study Guide</span>. A complete chapter by chapter guide with questions to aid in your reading and understanding of the book.</span>",
+    "puborder": 14,
+    "translations": []
+  }
+]

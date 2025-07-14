@@ -1,0 +1,163 @@
+[
+  {
+    "para_id": "21.481",
+    "id_prev": "21.480",
+    "id_next": "21.482",
+    "refcode_1": "CSW",
+    "refcode_2": "105",
+    "refcode_3": "",
+    "refcode_4": "69",
+    "refcode_short": "CSW 105",
+    "refcode_long": "Counsels on Sabbath School Work, p. 105 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Christ, Not Man, the Model",
+    "puborder": 302,
+    "translations": [
+      {
+        "para_id": "11629.455",
+        "lang": "da",
+        "refcode": "RSSA 105"
+      },
+      {
+        "para_id": "799.464",
+        "lang": "de",
+        "refcode": "RSs 89"
+      },
+      {
+        "para_id": "1711.519",
+        "lang": "es",
+        "refcode": "COES 117"
+      },
+      {
+        "para_id": "1724.516",
+        "lang": "pt",
+        "refcode": "CES 105"
+      },
+      {
+        "para_id": "1917.565",
+        "lang": "pt",
+        "refcode": "CES38 54"
+      },
+      {
+        "para_id": "2719.494",
+        "lang": "ro",
+        "refcode": "SSS 105"
+      },
+      {
+        "para_id": "1873.477",
+        "lang": "ru",
+        "refcode": "ССШ 105"
+      }
+    ]
+  },
+  {
+    "para_id": "21.482",
+    "id_prev": "21.481",
+    "id_next": "21.485",
+    "refcode_1": "CSW",
+    "refcode_2": "105",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 105.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 105.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Let not the teacher in Sabbath school follow the example of those who do not grow in the knowledge of our Lord and Saviour Jesus Christ, even though <span class=\"page-break\" data-page=\"106\"></span> those who minister in the sacred desk have given them such an example. He who would be accepted as a laborer together with God must not be found imitating the tone, manners, or ideas of any other man. He must learn of God, and be endowed with heavenly wisdom. God has given the gift of reason and intellect to one worker the same as He has to another; and according to your ability you are to put your talents out to the exchangers. The Lord would not have any worker the mere shadow of another whom he admires. The teacher must grow up into the measure of the stature of Christ, not to the measure of some finite erring mortal. You are to &ldquo;grow in grace,&rdquo; and where is grace to be found?&mdash;Only in Christ, the divine Pattern.",
+    "puborder": 303,
+    "translations": [
+      {
+        "para_id": "11629.456",
+        "lang": "da",
+        "refcode": "RSSA 105.2"
+      },
+      {
+        "para_id": "799.465",
+        "lang": "de",
+        "refcode": "RSs 89.1"
+      },
+      {
+        "para_id": "1711.520",
+        "lang": "es",
+        "refcode": "COES 117.2"
+      },
+      {
+        "para_id": "1917.568",
+        "lang": "pt",
+        "refcode": "CES38 54.3"
+      },
+      {
+        "para_id": "1917.566",
+        "lang": "pt",
+        "refcode": "CES38 54.2"
+      },
+      {
+        "para_id": "1724.517",
+        "lang": "pt",
+        "refcode": "CES 105.2"
+      },
+      {
+        "para_id": "2719.495",
+        "lang": "ro",
+        "refcode": "SSS 105.2"
+      },
+      {
+        "para_id": "1873.478",
+        "lang": "ru",
+        "refcode": "ССШ 105.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.485",
+    "id_prev": "21.482",
+    "id_next": "21.486",
+    "refcode_1": "CSW",
+    "refcode_2": "106",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 106.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 106.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Then let every one look to Christ and copy the divine Model. Let every worker tax his powers to the utmost to work in harmony with the plan of God. Let him learn in the school of Christ, that he may be wise in instructing others. Those who are committed to the care of the teacher in the Sabbath school will need the wisdom and experience that God can give to the follower of Christ. Let the teacher learn of Christ&apos;s meekness and lowliness of heart, that he may be a true teacher, and win his pupils to Christ, that they, in turn, may become faithful missionaries in the great harvest field.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 76.1\" data-link=\"121.303\"><em>Testimonies on Sabbath-School Work</em>, 76, 77</span>.",
+    "puborder": 304,
+    "translations": [
+      {
+        "para_id": "11629.459",
+        "lang": "da",
+        "refcode": "RSSA 106.1"
+      },
+      {
+        "para_id": "799.466",
+        "lang": "de",
+        "refcode": "RSs 89.2"
+      },
+      {
+        "para_id": "1711.523",
+        "lang": "es",
+        "refcode": "COES 118.1"
+      },
+      {
+        "para_id": "1917.569",
+        "lang": "pt",
+        "refcode": "CES38 54.4"
+      },
+      {
+        "para_id": "1724.520",
+        "lang": "pt",
+        "refcode": "CES 106.1"
+      },
+      {
+        "para_id": "2719.498",
+        "lang": "ro",
+        "refcode": "SSS 106.1"
+      },
+      {
+        "para_id": "1873.481",
+        "lang": "ru",
+        "refcode": "ССШ 106.1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3304 @@
+[
+  {
+    "para_id": "127.1709",
+    "id_prev": "127.1707",
+    "id_next": "127.2681",
+    "refcode_1": "AA",
+    "refcode_2": "389",
+    "refcode_3": "",
+    "refcode_4": "37",
+    "refcode_short": "AA 389",
+    "refcode_long": "The Acts of the Apostles, p. 389 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 37&mdash;Paul&apos;s Last Journey to Jerusalem",
+    "puborder": 1064,
+    "translations": [
+      {
+        "para_id": "13804.1278",
+        "lang": "bg",
+        "refcode": "Дa 151"
+      },
+      {
+        "para_id": "11590.1635",
+        "lang": "ce",
+        "refcode": "ABA 332"
+      },
+      {
+        "para_id": "11247.1558",
+        "lang": "cs",
+        "refcode": "PNL 223"
+      },
+      {
+        "para_id": "813.1706",
+        "lang": "de",
+        "refcode": "WA 387"
+      },
+      {
+        "para_id": "198.1592",
+        "lang": "es",
+        "refcode": "HAp 312"
+      },
+      {
+        "para_id": "158.1630",
+        "lang": "fr",
+        "refcode": "CP 345"
+      },
+      {
+        "para_id": "11938.1475",
+        "lang": "hu",
+        "refcode": "AT 256"
+      },
+      {
+        "para_id": "12410.1591",
+        "lang": "id",
+        "refcode": "KR 327"
+      },
+      {
+        "para_id": "882.1480",
+        "lang": "it",
+        "refcode": "UVI 244"
+      },
+      {
+        "para_id": "12335.1413",
+        "lang": "nb",
+        "refcode": "AV 224"
+      },
+      {
+        "para_id": "12008.1331",
+        "lang": "pl",
+        "refcode": "DA 214"
+      },
+      {
+        "para_id": "1806.1398",
+        "lang": "pt",
+        "refcode": "AA 200.6"
+      },
+      {
+        "para_id": "2013.1695",
+        "lang": "ro",
+        "refcode": "FA 389"
+      },
+      {
+        "para_id": "1785.1667",
+        "lang": "ru",
+        "refcode": "ДА 389"
+      },
+      {
+        "para_id": "13874.1416",
+        "lang": "rw",
+        "refcode": "INI 240"
+      },
+      {
+        "para_id": "11182.1404",
+        "lang": "sk",
+        "refcode": "SA 234"
+      },
+      {
+        "para_id": "11904.1538",
+        "lang": "tl",
+        "refcode": "AGA 294"
+      },
+      {
+        "para_id": "11875.1492",
+        "lang": "uk",
+        "refcode": "ДА 267"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2681",
+    "id_prev": "127.1709",
+    "id_next": "127.1710",
+    "refcode_1": "AA",
+    "refcode_2": "389",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "bibletext",
+    "content": "<span class=\"non-egw-comment\">This chapter is based on <span class=\"egwlink egwlink_bible\" title=\"Acts 20:4\" data-link=\"1965.56345\">Acts 20:4-38</span>; <span class=\"egwlink egwlink_bible\" title=\"Acts 21:1\" data-link=\"1965.56416\">21:1-16</span>.</span>",
+    "puborder": 1065,
+    "translations": [
+      {
+        "para_id": "813.1707",
+        "lang": "de",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "198.1592",
+        "lang": "es",
+        "refcode": "HAp 312"
+      },
+      {
+        "para_id": "158.1631",
+        "lang": "fr",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11938.1476",
+        "lang": "hu",
+        "refcode": "AT 256"
+      },
+      {
+        "para_id": "1806.2168",
+        "lang": "pt",
+        "refcode": "AA 310.4"
+      },
+      {
+        "para_id": "2013.2667",
+        "lang": "ro",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "1785.2621",
+        "lang": "ru",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "13874.1417",
+        "lang": "rw",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11875.1493",
+        "lang": "uk",
+        "refcode": "The Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1710",
+    "id_prev": "127.2681",
+    "id_next": "127.1711",
+    "refcode_1": "AA",
+    "refcode_2": "389",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 389.1",
+    "refcode_long": "The Acts of the Apostles, p. 389.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul greatly desired to reach Jerusalem before the Passover as he would thus have an opportunity to meet those who should come from all parts of the world to attend the feast. Ever he cherished the hope that in some way he might be instrumental in removing the prejudice of his unbelieving countrymen, so that they might be led to accept the precious light of the gospel. He also desired to meet the church at Jerusalem and bear to them the gifts sent by the Gentile churches to the poor brethren in Judea. And by this visit he hoped to bring about a firmer union between the Jewish and the Gentile converts to the faith.",
+    "puborder": 1066,
+    "translations": [
+      {
+        "para_id": "13804.1279",
+        "lang": "bg",
+        "refcode": "Дa 151.4"
+      },
+      {
+        "para_id": "11590.1636",
+        "lang": "ce",
+        "refcode": "ABA 332.1"
+      },
+      {
+        "para_id": "11247.1559",
+        "lang": "cs",
+        "refcode": "PNL 223.1"
+      },
+      {
+        "para_id": "813.1708",
+        "lang": "de",
+        "refcode": "WA 387.1"
+      },
+      {
+        "para_id": "198.1593",
+        "lang": "es",
+        "refcode": "HAp 312.1"
+      },
+      {
+        "para_id": "158.1632",
+        "lang": "fr",
+        "refcode": "CP 345.1"
+      },
+      {
+        "para_id": "11938.1477",
+        "lang": "hu",
+        "refcode": "AT 256.1"
+      },
+      {
+        "para_id": "12410.1592",
+        "lang": "id",
+        "refcode": "KR 327.1"
+      },
+      {
+        "para_id": "882.1481",
+        "lang": "it",
+        "refcode": "UVI 244.1"
+      },
+      {
+        "para_id": "12335.1414",
+        "lang": "nb",
+        "refcode": "AV 224.1"
+      },
+      {
+        "para_id": "12008.1332",
+        "lang": "pl",
+        "refcode": "DA 214.1"
+      },
+      {
+        "para_id": "1806.1401",
+        "lang": "pt",
+        "refcode": "AA 201.1"
+      },
+      {
+        "para_id": "2013.1696",
+        "lang": "ro",
+        "refcode": "FA 389.1"
+      },
+      {
+        "para_id": "1785.1668",
+        "lang": "ru",
+        "refcode": "ДА 389.1"
+      },
+      {
+        "para_id": "13874.1418",
+        "lang": "rw",
+        "refcode": "INI 240.1"
+      },
+      {
+        "para_id": "11182.1405",
+        "lang": "sk",
+        "refcode": "SA 234.1"
+      },
+      {
+        "para_id": "11904.1539",
+        "lang": "tl",
+        "refcode": "AGA 294.1"
+      },
+      {
+        "para_id": "11875.1494",
+        "lang": "uk",
+        "refcode": "ДА 267.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1711",
+    "id_prev": "127.1710",
+    "id_next": "127.1714",
+    "refcode_1": "AA",
+    "refcode_2": "389",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 389.2",
+    "refcode_long": "The Acts of the Apostles, p. 389.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Having completed his work at Corinth, he determined to sail directly for one of the ports on the coast of Palestine. All the arrangements had been made, and he was about to step on board the ship, when he was told of a plot laid by the Jews to take his life. In the past these opposers of the <span class=\"page-break\" data-page=\"390\"></span> faith had been foiled in all their efforts to put an end to the apostle&apos;s work.",
+    "puborder": 1067,
+    "translations": [
+      {
+        "para_id": "13804.1280",
+        "lang": "bg",
+        "refcode": "Дa 151.5"
+      },
+      {
+        "para_id": "11590.1637",
+        "lang": "ce",
+        "refcode": "ABA 332.2"
+      },
+      {
+        "para_id": "11247.1560",
+        "lang": "cs",
+        "refcode": "PNL 223.2"
+      },
+      {
+        "para_id": "813.1709",
+        "lang": "de",
+        "refcode": "WA 387.2"
+      },
+      {
+        "para_id": "198.1594",
+        "lang": "es",
+        "refcode": "HAp 312.2"
+      },
+      {
+        "para_id": "158.1633",
+        "lang": "fr",
+        "refcode": "CP 345.2"
+      },
+      {
+        "para_id": "11938.1478",
+        "lang": "hu",
+        "refcode": "AT 256.2"
+      },
+      {
+        "para_id": "12410.1593",
+        "lang": "id",
+        "refcode": "KR 327.2"
+      },
+      {
+        "para_id": "882.1482",
+        "lang": "it",
+        "refcode": "UVI 244.2"
+      },
+      {
+        "para_id": "12335.1415",
+        "lang": "nb",
+        "refcode": "AV 224.2"
+      },
+      {
+        "para_id": "12008.1333",
+        "lang": "pl",
+        "refcode": "DA 214.2"
+      },
+      {
+        "para_id": "1806.1402",
+        "lang": "pt",
+        "refcode": "AA 201.2"
+      },
+      {
+        "para_id": "2013.1697",
+        "lang": "ro",
+        "refcode": "FA 389.2"
+      },
+      {
+        "para_id": "1785.1669",
+        "lang": "ru",
+        "refcode": "ДА 389.2"
+      },
+      {
+        "para_id": "13874.1419",
+        "lang": "rw",
+        "refcode": "INI 240.2"
+      },
+      {
+        "para_id": "11182.1406",
+        "lang": "sk",
+        "refcode": "SA 234.2"
+      },
+      {
+        "para_id": "11904.1540",
+        "lang": "tl",
+        "refcode": "AGA 294.2"
+      },
+      {
+        "para_id": "11875.1495",
+        "lang": "uk",
+        "refcode": "ДА 267.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1714",
+    "id_prev": "127.1711",
+    "id_next": "127.1715",
+    "refcode_1": "AA",
+    "refcode_2": "390",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 390.1",
+    "refcode_long": "The Acts of the Apostles, p. 390.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The success attending the preaching of the gospel aroused the anger of the Jews anew. From every quarter were coming accounts of the spread of the new doctrine by which Jews were released from the observance of the rites of the ceremonial law and Gentiles were admitted to equal privileges with the Jews as children of Abraham. Paul, in his preaching at Corinth, presented the same arguments which he urged so forcibly in his epistles. His emphatic statement, &ldquo;There is neither Greek nor Jew, circumcision nor uncircumcision&rdquo; (<span class=\"egwlink egwlink_bible\" title=\"Colossians 3:11\" data-link=\"1965.60220\">Colossians 3:11</span>), was regarded by his enemies as daring blasphemy, and they determined that his voice should be silenced.",
+    "puborder": 1068,
+    "translations": [
+      {
+        "para_id": "13804.1281",
+        "lang": "bg",
+        "refcode": "Дa 151.6"
+      },
+      {
+        "para_id": "11590.1638",
+        "lang": "ce",
+        "refcode": "ABA 332.3"
+      },
+      {
+        "para_id": "11247.1561",
+        "lang": "cs",
+        "refcode": "PNL 223.3"
+      },
+      {
+        "para_id": "813.1710",
+        "lang": "de",
+        "refcode": "WA 387.3"
+      },
+      {
+        "para_id": "198.1595",
+        "lang": "es",
+        "refcode": "HAp 312.3"
+      },
+      {
+        "para_id": "158.1635",
+        "lang": "fr",
+        "refcode": "CP 346.1"
+      },
+      {
+        "para_id": "11938.1479",
+        "lang": "hu",
+        "refcode": "AT 256.3"
+      },
+      {
+        "para_id": "12410.1595",
+        "lang": "id",
+        "refcode": "KR 328.1"
+      },
+      {
+        "para_id": "882.1483",
+        "lang": "it",
+        "refcode": "UVI 244.3"
+      },
+      {
+        "para_id": "12335.1416",
+        "lang": "nb",
+        "refcode": "AV 224.3"
+      },
+      {
+        "para_id": "12008.1334",
+        "lang": "pl",
+        "refcode": "DA 214.3"
+      },
+      {
+        "para_id": "1806.1403",
+        "lang": "pt",
+        "refcode": "AA 201.3"
+      },
+      {
+        "para_id": "2013.1700",
+        "lang": "ro",
+        "refcode": "FA 390.1"
+      },
+      {
+        "para_id": "1785.1671",
+        "lang": "ru",
+        "refcode": "ДА 390.1"
+      },
+      {
+        "para_id": "13874.1420",
+        "lang": "rw",
+        "refcode": "INI 240.3"
+      },
+      {
+        "para_id": "11182.1407",
+        "lang": "sk",
+        "refcode": "SA 234.3"
+      },
+      {
+        "para_id": "11904.1541",
+        "lang": "tl",
+        "refcode": "AGA 294.3"
+      },
+      {
+        "para_id": "11875.1496",
+        "lang": "uk",
+        "refcode": "ДА 267.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1715",
+    "id_prev": "127.1714",
+    "id_next": "127.1716",
+    "refcode_1": "AA",
+    "refcode_2": "390",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 390.2",
+    "refcode_long": "The Acts of the Apostles, p. 390.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Upon receiving warning of the plot, Paul decided to go around by way of Macedonia. His plan to reach Jerusalem in time for the Passover services had to be given up, but he hoped to be there at Pentecost.",
+    "puborder": 1069,
+    "translations": [
+      {
+        "para_id": "13804.1282",
+        "lang": "bg",
+        "refcode": "Дa 151.7"
+      },
+      {
+        "para_id": "11590.1641",
+        "lang": "ce",
+        "refcode": "ABA 333.1"
+      },
+      {
+        "para_id": "11247.1563",
+        "lang": "cs",
+        "refcode": "PNL 223.4"
+      },
+      {
+        "para_id": "813.1713",
+        "lang": "de",
+        "refcode": "WA 388.1"
+      },
+      {
+        "para_id": "198.1598",
+        "lang": "es",
+        "refcode": "HAp 313.1"
+      },
+      {
+        "para_id": "158.1636",
+        "lang": "fr",
+        "refcode": "CP 346.2"
+      },
+      {
+        "para_id": "11938.1480",
+        "lang": "hu",
+        "refcode": "AT 256.4"
+      },
+      {
+        "para_id": "12410.1596",
+        "lang": "id",
+        "refcode": "KR 328.2"
+      },
+      {
+        "para_id": "882.1484",
+        "lang": "it",
+        "refcode": "UVI 244.4"
+      },
+      {
+        "para_id": "12335.1417",
+        "lang": "nb",
+        "refcode": "AV 224.4"
+      },
+      {
+        "para_id": "12008.1335",
+        "lang": "pl",
+        "refcode": "DA 214.4"
+      },
+      {
+        "para_id": "1806.1404",
+        "lang": "pt",
+        "refcode": "AA 201.4"
+      },
+      {
+        "para_id": "2013.1701",
+        "lang": "ro",
+        "refcode": "FA 390.2"
+      },
+      {
+        "para_id": "1785.1672",
+        "lang": "ru",
+        "refcode": "ДА 390.2"
+      },
+      {
+        "para_id": "13874.1421",
+        "lang": "rw",
+        "refcode": "INI 240.4"
+      },
+      {
+        "para_id": "11182.1408",
+        "lang": "sk",
+        "refcode": "SA 234.4"
+      },
+      {
+        "para_id": "11904.1542",
+        "lang": "tl",
+        "refcode": "AGA 294.4"
+      },
+      {
+        "para_id": "11875.1499",
+        "lang": "uk",
+        "refcode": "ДА 268.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1716",
+    "id_prev": "127.1715",
+    "id_next": "127.1717",
+    "refcode_1": "AA",
+    "refcode_2": "390",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 390.3",
+    "refcode_long": "The Acts of the Apostles, p. 390.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Accompanying Paul and Luke were &ldquo;Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.&rdquo; Paul had with him a large sum of money from the Gentile churches, which he purposed to place in the hands of the brethren in charge of the work in Judea; and because of this he made arrangements for these representative brethren from various contributing churches, to accompany him to Jerusalem.",
+    "puborder": 1070,
+    "translations": [
+      {
+        "para_id": "13804.1284",
+        "lang": "bg",
+        "refcode": "Дa 152.1"
+      },
+      {
+        "para_id": "11590.1642",
+        "lang": "ce",
+        "refcode": "ABA 333.2"
+      },
+      {
+        "para_id": "11247.1565",
+        "lang": "cs",
+        "refcode": "PNL 224.1"
+      },
+      {
+        "para_id": "813.1714",
+        "lang": "de",
+        "refcode": "WA 388.2"
+      },
+      {
+        "para_id": "198.1599",
+        "lang": "es",
+        "refcode": "HAp 313.2"
+      },
+      {
+        "para_id": "158.1636",
+        "lang": "fr",
+        "refcode": "CP 346.2"
+      },
+      {
+        "para_id": "11938.1481",
+        "lang": "hu",
+        "refcode": "AT 256.5"
+      },
+      {
+        "para_id": "12410.1597",
+        "lang": "id",
+        "refcode": "KR 328.3"
+      },
+      {
+        "para_id": "882.1485",
+        "lang": "it",
+        "refcode": "UVI 244.5"
+      },
+      {
+        "para_id": "12335.1418",
+        "lang": "nb",
+        "refcode": "AV 224.5"
+      },
+      {
+        "para_id": "12008.1336",
+        "lang": "pl",
+        "refcode": "DA 214.5"
+      },
+      {
+        "para_id": "1806.1406",
+        "lang": "pt",
+        "refcode": "AA 202"
+      },
+      {
+        "para_id": "2013.1702",
+        "lang": "ro",
+        "refcode": "FA 390.3"
+      },
+      {
+        "para_id": "1785.1673",
+        "lang": "ru",
+        "refcode": "ДА 390.3"
+      },
+      {
+        "para_id": "13874.1422",
+        "lang": "rw",
+        "refcode": "INI 240.5"
+      },
+      {
+        "para_id": "11182.1408",
+        "lang": "sk",
+        "refcode": "SA 234.4"
+      },
+      {
+        "para_id": "11904.1545",
+        "lang": "tl",
+        "refcode": "AGA 295.1"
+      },
+      {
+        "para_id": "11875.1500",
+        "lang": "uk",
+        "refcode": "ДА 268.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1717",
+    "id_prev": "127.1716",
+    "id_next": "127.1720",
+    "refcode_1": "AA",
+    "refcode_2": "390",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 390.4",
+    "refcode_long": "The Acts of the Apostles, p. 390.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "At Philippi Paul tarried to keep the Passover. Only Luke remained with him, the other members of the company <span class=\"page-break\" data-page=\"391\"></span> passing on to Troas to await him there. The Philippians were the most loving and truehearted of the apostle&apos;s converts, and during the eight days of the feast he enjoyed peaceful and happy communion with them.",
+    "puborder": 1071,
+    "translations": [
+      {
+        "para_id": "13804.1285",
+        "lang": "bg",
+        "refcode": "Дa 152.2"
+      },
+      {
+        "para_id": "11590.1643",
+        "lang": "ce",
+        "refcode": "ABA 333.3"
+      },
+      {
+        "para_id": "11247.1566",
+        "lang": "cs",
+        "refcode": "PNL 224.2"
+      },
+      {
+        "para_id": "813.1715",
+        "lang": "de",
+        "refcode": "WA 388.3"
+      },
+      {
+        "para_id": "198.1600",
+        "lang": "es",
+        "refcode": "HAp 313.3"
+      },
+      {
+        "para_id": "158.1637",
+        "lang": "fr",
+        "refcode": "CP 346.3"
+      },
+      {
+        "para_id": "11938.1484",
+        "lang": "hu",
+        "refcode": "AT 257.1"
+      },
+      {
+        "para_id": "12410.1598",
+        "lang": "id",
+        "refcode": "KR 328.4"
+      },
+      {
+        "para_id": "882.1488",
+        "lang": "it",
+        "refcode": "UVI 245.1"
+      },
+      {
+        "para_id": "12335.1419",
+        "lang": "nb",
+        "refcode": "AV 224.6"
+      },
+      {
+        "para_id": "12008.1339",
+        "lang": "pl",
+        "refcode": "DA 215.1"
+      },
+      {
+        "para_id": "1806.1407",
+        "lang": "pt",
+        "refcode": "AA 202.1"
+      },
+      {
+        "para_id": "2013.1703",
+        "lang": "ro",
+        "refcode": "FA 390.4"
+      },
+      {
+        "para_id": "1785.1674",
+        "lang": "ru",
+        "refcode": "ДА 390.4"
+      },
+      {
+        "para_id": "13874.1425",
+        "lang": "rw",
+        "refcode": "INI 241.1"
+      },
+      {
+        "para_id": "11182.1410",
+        "lang": "sk",
+        "refcode": "SA 235.1"
+      },
+      {
+        "para_id": "11904.1546",
+        "lang": "tl",
+        "refcode": "AGA 295.2"
+      },
+      {
+        "para_id": "11875.1501",
+        "lang": "uk",
+        "refcode": "ДА 268.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1720",
+    "id_prev": "127.1717",
+    "id_next": "127.1721",
+    "refcode_1": "AA",
+    "refcode_2": "391",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 391.1",
+    "refcode_long": "The Acts of the Apostles, p. 391.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Sailing from Philippi, Paul and Luke reached their companions at Troas five days later, and remained for seven days with the believers in that place.",
+    "puborder": 1072,
+    "translations": [
+      {
+        "para_id": "13804.1286",
+        "lang": "bg",
+        "refcode": "Дa 152.3"
+      },
+      {
+        "para_id": "11590.1644",
+        "lang": "ce",
+        "refcode": "ABA 333.4"
+      },
+      {
+        "para_id": "11247.1567",
+        "lang": "cs",
+        "refcode": "PNL 224.3"
+      },
+      {
+        "para_id": "813.1716",
+        "lang": "de",
+        "refcode": "WA 388.4"
+      },
+      {
+        "para_id": "198.1601",
+        "lang": "es",
+        "refcode": "HAp 313.4"
+      },
+      {
+        "para_id": "158.1638",
+        "lang": "fr",
+        "refcode": "CP 346.4"
+      },
+      {
+        "para_id": "11938.1485",
+        "lang": "hu",
+        "refcode": "AT 257.2"
+      },
+      {
+        "para_id": "12410.1599",
+        "lang": "id",
+        "refcode": "KR 328.5"
+      },
+      {
+        "para_id": "882.1489",
+        "lang": "it",
+        "refcode": "UVI 245.2"
+      },
+      {
+        "para_id": "12335.1422",
+        "lang": "nb",
+        "refcode": "AV 225.1"
+      },
+      {
+        "para_id": "12008.1340",
+        "lang": "pl",
+        "refcode": "DA 215.2"
+      },
+      {
+        "para_id": "1806.1408",
+        "lang": "pt",
+        "refcode": "AA 202.2"
+      },
+      {
+        "para_id": "2013.1706",
+        "lang": "ro",
+        "refcode": "FA 391.1"
+      },
+      {
+        "para_id": "1785.1677",
+        "lang": "ru",
+        "refcode": "ДА 391.1"
+      },
+      {
+        "para_id": "13874.1426",
+        "lang": "rw",
+        "refcode": "INI 241.2"
+      },
+      {
+        "para_id": "11182.1411",
+        "lang": "sk",
+        "refcode": "SA 235.2"
+      },
+      {
+        "para_id": "11904.1547",
+        "lang": "tl",
+        "refcode": "AGA 295.3"
+      },
+      {
+        "para_id": "11875.1502",
+        "lang": "uk",
+        "refcode": "ДА 268.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1721",
+    "id_prev": "127.1720",
+    "id_next": "127.1722",
+    "refcode_1": "AA",
+    "refcode_2": "391",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 391.2",
+    "refcode_long": "The Acts of the Apostles, p. 391.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Upon the last evening of his stay the brethren &ldquo;came together to break bread.&rdquo; The fact that their beloved teacher was about to depart, had called together a larger company than usual. They assembled in an &ldquo;upper chamber&rdquo; on the third story. There, in the fervency of his love and solicitude for them, the apostle preached until midnight.",
+    "puborder": 1073,
+    "translations": [
+      {
+        "para_id": "13804.1287",
+        "lang": "bg",
+        "refcode": "Дa 152.4"
+      },
+      {
+        "para_id": "11590.1645",
+        "lang": "ce",
+        "refcode": "ABA 333.5"
+      },
+      {
+        "para_id": "11247.1568",
+        "lang": "cs",
+        "refcode": "PNL 224.4"
+      },
+      {
+        "para_id": "813.1718",
+        "lang": "de",
+        "refcode": "WA 389.1"
+      },
+      {
+        "para_id": "198.1602",
+        "lang": "es",
+        "refcode": "HAp 313.5"
+      },
+      {
+        "para_id": "158.1638",
+        "lang": "fr",
+        "refcode": "CP 346.4"
+      },
+      {
+        "para_id": "11938.1486",
+        "lang": "hu",
+        "refcode": "AT 257.3"
+      },
+      {
+        "para_id": "12410.1600",
+        "lang": "id",
+        "refcode": "KR 328.6"
+      },
+      {
+        "para_id": "882.1490",
+        "lang": "it",
+        "refcode": "UVI 245.3"
+      },
+      {
+        "para_id": "12335.1423",
+        "lang": "nb",
+        "refcode": "AV 225.2"
+      },
+      {
+        "para_id": "12008.1341",
+        "lang": "pl",
+        "refcode": "DA 215.3"
+      },
+      {
+        "para_id": "1806.1408",
+        "lang": "pt",
+        "refcode": "AA 202.2"
+      },
+      {
+        "para_id": "2013.1707",
+        "lang": "ro",
+        "refcode": "FA 391.2"
+      },
+      {
+        "para_id": "1785.1678",
+        "lang": "ru",
+        "refcode": "ДА 391.2"
+      },
+      {
+        "para_id": "13874.1427",
+        "lang": "rw",
+        "refcode": "INI 241.3"
+      },
+      {
+        "para_id": "11182.1412",
+        "lang": "sk",
+        "refcode": "SA 235.3"
+      },
+      {
+        "para_id": "11904.1548",
+        "lang": "tl",
+        "refcode": "AGA 295.4"
+      },
+      {
+        "para_id": "11875.1503",
+        "lang": "uk",
+        "refcode": "ДА 268.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1722",
+    "id_prev": "127.1721",
+    "id_next": "127.1723",
+    "refcode_1": "AA",
+    "refcode_2": "391",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 391.3",
+    "refcode_long": "The Acts of the Apostles, p. 391.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In one of the open windows sat a youth named Eutychus. In this perilous position he went to sleep and fell to the court below. At once all was alarm and confusion. The youth was taken up dead, and many gathered about him with cries and mourning. But Paul, passing through the frightened company, embraced him and offered up an earnest prayer that God would restore the dead to life. His petition was granted. Above the sound of mourning and lamentation the apostle&apos;s voice was heard, saying, &ldquo;Trouble not yourselves; for his life is in him.&rdquo; With rejoicing the believers again assembled in the upper chamber. They partook of the Communion, and then Paul &ldquo;talked a long while, even till break of day.&rdquo;",
+    "puborder": 1074,
+    "translations": [
+      {
+        "para_id": "13804.1288",
+        "lang": "bg",
+        "refcode": "Дa 152.5"
+      },
+      {
+        "para_id": "11590.1646",
+        "lang": "ce",
+        "refcode": "ABA 333.6"
+      },
+      {
+        "para_id": "11247.1569",
+        "lang": "cs",
+        "refcode": "PNL 224.5"
+      },
+      {
+        "para_id": "813.1719",
+        "lang": "de",
+        "refcode": "WA 389.2"
+      },
+      {
+        "para_id": "198.1603",
+        "lang": "es",
+        "refcode": "HAp 313.6"
+      },
+      {
+        "para_id": "158.1641",
+        "lang": "fr",
+        "refcode": "CP 347.1"
+      },
+      {
+        "para_id": "11938.1487",
+        "lang": "hu",
+        "refcode": "AT 257.4"
+      },
+      {
+        "para_id": "12410.1603",
+        "lang": "id",
+        "refcode": "KR 329.1"
+      },
+      {
+        "para_id": "882.1491",
+        "lang": "it",
+        "refcode": "UVI 245.4"
+      },
+      {
+        "para_id": "12335.1424",
+        "lang": "nb",
+        "refcode": "AV 225.3"
+      },
+      {
+        "para_id": "12008.1342",
+        "lang": "pl",
+        "refcode": "DA 215.4"
+      },
+      {
+        "para_id": "1806.1409",
+        "lang": "pt",
+        "refcode": "AA 202.3"
+      },
+      {
+        "para_id": "2013.1708",
+        "lang": "ro",
+        "refcode": "FA 391.3"
+      },
+      {
+        "para_id": "1785.1679",
+        "lang": "ru",
+        "refcode": "ДА 391.3"
+      },
+      {
+        "para_id": "13874.1428",
+        "lang": "rw",
+        "refcode": "INI 241.4"
+      },
+      {
+        "para_id": "11182.1413",
+        "lang": "sk",
+        "refcode": "SA 235.4"
+      },
+      {
+        "para_id": "11904.1549",
+        "lang": "tl",
+        "refcode": "AGA 295.5"
+      },
+      {
+        "para_id": "11875.1504",
+        "lang": "uk",
+        "refcode": "ДА 268.6"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1723",
+    "id_prev": "127.1722",
+    "id_next": "127.1726",
+    "refcode_1": "AA",
+    "refcode_2": "391",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 391.4",
+    "refcode_long": "The Acts of the Apostles, p. 391.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The ship on which Paul and his companions were to continue their journey, was about to sail, and the brethren hastened on board. The apostle himself, however, chose to take the nearer route by land between Troas and Assos, meeting <span class=\"page-break\" data-page=\"392\"></span> his companions at the latter city. This gave him a short season for meditation and prayer. The difficulties and dangers connected with his coming visit to Jerusalem, the attitude of the church there toward him and his work, as well as the condition of the churches and the interests of the gospel work in other fields, were subjects of earnest, anxious thought, and he took advantage of this special opportunity to seek God for strength and guidance.",
+    "puborder": 1075,
+    "translations": [
+      {
+        "para_id": "13804.1289",
+        "lang": "bg",
+        "refcode": "Дa 152.6"
+      },
+      {
+        "para_id": "11590.1649",
+        "lang": "ce",
+        "refcode": "ABA 334.1"
+      },
+      {
+        "para_id": "11247.1570",
+        "lang": "cs",
+        "refcode": "PNL 224.6"
+      },
+      {
+        "para_id": "813.1720",
+        "lang": "de",
+        "refcode": "WA 389.3"
+      },
+      {
+        "para_id": "198.1606",
+        "lang": "es",
+        "refcode": "HAp 314.1"
+      },
+      {
+        "para_id": "158.1642",
+        "lang": "fr",
+        "refcode": "CP 347.2"
+      },
+      {
+        "para_id": "11938.1488",
+        "lang": "hu",
+        "refcode": "AT 257.5"
+      },
+      {
+        "para_id": "12410.1604",
+        "lang": "id",
+        "refcode": "KR 329.2"
+      },
+      {
+        "para_id": "882.1492",
+        "lang": "it",
+        "refcode": "UVI 245.5"
+      },
+      {
+        "para_id": "12335.1425",
+        "lang": "nb",
+        "refcode": "AV 225.4"
+      },
+      {
+        "para_id": "12008.1343",
+        "lang": "pl",
+        "refcode": "DA 215.5"
+      },
+      {
+        "para_id": "1806.1410",
+        "lang": "pt",
+        "refcode": "AA 202.4"
+      },
+      {
+        "para_id": "2013.1709",
+        "lang": "ro",
+        "refcode": "FA 391.4"
+      },
+      {
+        "para_id": "1785.1680",
+        "lang": "ru",
+        "refcode": "ДА 391.4"
+      },
+      {
+        "para_id": "13874.1429",
+        "lang": "rw",
+        "refcode": "INI 241.5"
+      },
+      {
+        "para_id": "11182.1414",
+        "lang": "sk",
+        "refcode": "SA 235.5"
+      },
+      {
+        "para_id": "11904.1550",
+        "lang": "tl",
+        "refcode": "AGA 295.6"
+      },
+      {
+        "para_id": "11875.1507",
+        "lang": "uk",
+        "refcode": "ДА 269.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1726",
+    "id_prev": "127.1723",
+    "id_next": "127.1727",
+    "refcode_1": "AA",
+    "refcode_2": "392",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 392.1",
+    "refcode_long": "The Acts of the Apostles, p. 392.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As the travelers sailed southward from Assos, they passed the city of Ephesus, so long the scene of the apostle&apos;s labors. Paul had greatly desired to visit the church there, for he had important instruction and counsel to give them. But upon consideration he determined to hasten on, for he desired, &ldquo;if it were possible for him, to be at Jerusalem the Day of Pentecost.&rdquo; On arriving at Miletus, however, about thirty miles from Ephesus, he learned that it might be possible to communicate with the church before the ship should sail. He therefore immediately sent a message to the elders, urging them to hasten to Miletus, that he might see them before continuing his journey.",
+    "puborder": 1076,
+    "translations": [
+      {
+        "para_id": "13804.1290",
+        "lang": "bg",
+        "refcode": "Дa 152.7"
+      },
+      {
+        "para_id": "11590.1650",
+        "lang": "ce",
+        "refcode": "ABA 334.2"
+      },
+      {
+        "para_id": "11247.1571",
+        "lang": "cs",
+        "refcode": "PNL 224.7"
+      },
+      {
+        "para_id": "813.1723",
+        "lang": "de",
+        "refcode": "WA 390.1"
+      },
+      {
+        "para_id": "198.1607",
+        "lang": "es",
+        "refcode": "HAp 314.2"
+      },
+      {
+        "para_id": "158.1643",
+        "lang": "fr",
+        "refcode": "CP 347.3"
+      },
+      {
+        "para_id": "158.1645",
+        "lang": "fr",
+        "refcode": "CP 348.1"
+      },
+      {
+        "para_id": "11938.1490",
+        "lang": "hu",
+        "refcode": "AT 258.1"
+      },
+      {
+        "para_id": "12410.1605",
+        "lang": "id",
+        "refcode": "KR 329.3"
+      },
+      {
+        "para_id": "882.1493",
+        "lang": "it",
+        "refcode": "UVI 245.6"
+      },
+      {
+        "para_id": "12335.1426",
+        "lang": "nb",
+        "refcode": "AV 225.5"
+      },
+      {
+        "para_id": "12008.1344",
+        "lang": "pl",
+        "refcode": "DA 215.6"
+      },
+      {
+        "para_id": "1806.1411",
+        "lang": "pt",
+        "refcode": "AA 202.5"
+      },
+      {
+        "para_id": "2013.1712",
+        "lang": "ro",
+        "refcode": "FA 392.1"
+      },
+      {
+        "para_id": "1785.1683",
+        "lang": "ru",
+        "refcode": "ДА 392.1"
+      },
+      {
+        "para_id": "13874.1431",
+        "lang": "rw",
+        "refcode": "INI 242.1"
+      },
+      {
+        "para_id": "11182.1415",
+        "lang": "sk",
+        "refcode": "SA 235.6"
+      },
+      {
+        "para_id": "11904.1553",
+        "lang": "tl",
+        "refcode": "AGA 296.1"
+      },
+      {
+        "para_id": "11875.1508",
+        "lang": "uk",
+        "refcode": "ДА 269.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1727",
+    "id_prev": "127.1726",
+    "id_next": "127.1730",
+    "refcode_1": "AA",
+    "refcode_2": "392",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 392.2",
+    "refcode_long": "The Acts of the Apostles, p. 392.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In answer to his call they came, and he spoke to them strong, touching words of admonition and farewell. &ldquo;Ye know,&rdquo; he said, &ldquo;from the first day that I came into Asia, after what manner I have been with you at all seasons, serving the Lord with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews: and how I kept back nothing that was profitable unto you, but have showed you, and have taught you publicly, and from house to house, testifying both to <span class=\"page-break\" data-page=\"393\"></span> the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.&rdquo;",
+    "puborder": 1077,
+    "translations": [
+      {
+        "para_id": "13804.1291",
+        "lang": "bg",
+        "refcode": "Дa 152.8"
+      },
+      {
+        "para_id": "11590.1651",
+        "lang": "ce",
+        "refcode": "ABA 334.3"
+      },
+      {
+        "para_id": "11247.1575",
+        "lang": "cs",
+        "refcode": "PNL 225.1"
+      },
+      {
+        "para_id": "813.1724",
+        "lang": "de",
+        "refcode": "WA 390.2"
+      },
+      {
+        "para_id": "198.1608",
+        "lang": "es",
+        "refcode": "HAp 314.3"
+      },
+      {
+        "para_id": "158.1645",
+        "lang": "fr",
+        "refcode": "CP 348.1"
+      },
+      {
+        "para_id": "11938.1491",
+        "lang": "hu",
+        "refcode": "AT 258.2"
+      },
+      {
+        "para_id": "12410.1608",
+        "lang": "id",
+        "refcode": "KR 330.1"
+      },
+      {
+        "para_id": "882.1496",
+        "lang": "it",
+        "refcode": "UVI 246.1"
+      },
+      {
+        "para_id": "12335.1428",
+        "lang": "nb",
+        "refcode": "AV 226.1"
+      },
+      {
+        "para_id": "12008.1347",
+        "lang": "pl",
+        "refcode": "DA 216.1"
+      },
+      {
+        "para_id": "1806.1412",
+        "lang": "pt",
+        "refcode": "AA 202.6"
+      },
+      {
+        "para_id": "2013.1713",
+        "lang": "ro",
+        "refcode": "FA 392.2"
+      },
+      {
+        "para_id": "1785.1684",
+        "lang": "ru",
+        "refcode": "ДА 392.2"
+      },
+      {
+        "para_id": "13874.1432",
+        "lang": "rw",
+        "refcode": "INI 242.2"
+      },
+      {
+        "para_id": "11182.1418",
+        "lang": "sk",
+        "refcode": "SA 236.1"
+      },
+      {
+        "para_id": "11904.1554",
+        "lang": "tl",
+        "refcode": "AGA 296.2"
+      },
+      {
+        "para_id": "11875.1509",
+        "lang": "uk",
+        "refcode": "ДА 269.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1730",
+    "id_prev": "127.1727",
+    "id_next": "127.1731",
+    "refcode_1": "AA",
+    "refcode_2": "393",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 393.1",
+    "refcode_long": "The Acts of the Apostles, p. 393.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul had ever exalted the divine law. He had shown that in the law there is no power to save men from the penalty of disobedience. Wrongdoers must repent of their sins and humble themselves before God, whose just wrath they have incurred by breaking His law, and they must also exercise faith in the blood of Christ as their only means of pardon. The Son of God had died as their sacrifice and had ascended to heaven to stand before the Father as their advocate. By repentance and faith they might be freed from the condemnation of sin and through the grace of Christ be enabled henceforth to render obedience to the law of God.",
+    "puborder": 1078,
+    "translations": [
+      {
+        "para_id": "13804.1294",
+        "lang": "bg",
+        "refcode": "Дa 153.1"
+      },
+      {
+        "para_id": "11590.1654",
+        "lang": "ce",
+        "refcode": "ABA 335.1"
+      },
+      {
+        "para_id": "11247.1576",
+        "lang": "cs",
+        "refcode": "PNL 225.2"
+      },
+      {
+        "para_id": "813.1725",
+        "lang": "de",
+        "refcode": "WA 390.3"
+      },
+      {
+        "para_id": "198.1611",
+        "lang": "es",
+        "refcode": "HAp 315.1"
+      },
+      {
+        "para_id": "158.1646",
+        "lang": "fr",
+        "refcode": "CP 348.2"
+      },
+      {
+        "para_id": "11938.1492",
+        "lang": "hu",
+        "refcode": "AT 258.3"
+      },
+      {
+        "para_id": "12410.1609",
+        "lang": "id",
+        "refcode": "KR 330.2"
+      },
+      {
+        "para_id": "882.1497",
+        "lang": "it",
+        "refcode": "UVI 246.2"
+      },
+      {
+        "para_id": "12335.1429",
+        "lang": "nb",
+        "refcode": "AV 226.2"
+      },
+      {
+        "para_id": "12008.1348",
+        "lang": "pl",
+        "refcode": "DA 216.2"
+      },
+      {
+        "para_id": "1806.1415",
+        "lang": "pt",
+        "refcode": "AA 203.1"
+      },
+      {
+        "para_id": "2013.1716",
+        "lang": "ro",
+        "refcode": "FA 393.1"
+      },
+      {
+        "para_id": "1785.1687",
+        "lang": "ru",
+        "refcode": "ДА 393.1"
+      },
+      {
+        "para_id": "13874.1433",
+        "lang": "rw",
+        "refcode": "INI 242.3"
+      },
+      {
+        "para_id": "11182.1419",
+        "lang": "sk",
+        "refcode": "SA 236.2"
+      },
+      {
+        "para_id": "11904.1555",
+        "lang": "tl",
+        "refcode": "AGA 296.3"
+      },
+      {
+        "para_id": "11875.1511",
+        "lang": "uk",
+        "refcode": "ДА 270.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1731",
+    "id_prev": "127.1730",
+    "id_next": "127.1732",
+    "refcode_1": "AA",
+    "refcode_2": "393",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 393.2",
+    "refcode_long": "The Acts of the Apostles, p. 393.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;And now, behold,&rdquo; Paul continued, &ldquo;I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there: save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me. But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God. And now, behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more.&rdquo;",
+    "puborder": 1079,
+    "translations": [
+      {
+        "para_id": "13804.1295",
+        "lang": "bg",
+        "refcode": "Дa 153.2"
+      },
+      {
+        "para_id": "11590.1655",
+        "lang": "ce",
+        "refcode": "ABA 335.2"
+      },
+      {
+        "para_id": "11247.1577",
+        "lang": "cs",
+        "refcode": "PNL 225.3"
+      },
+      {
+        "para_id": "813.1728",
+        "lang": "de",
+        "refcode": "WA 391.1"
+      },
+      {
+        "para_id": "198.1612",
+        "lang": "es",
+        "refcode": "HAp 315.2"
+      },
+      {
+        "para_id": "158.1646",
+        "lang": "fr",
+        "refcode": "CP 348.2"
+      },
+      {
+        "para_id": "11938.1493",
+        "lang": "hu",
+        "refcode": "AT 258.4"
+      },
+      {
+        "para_id": "12410.1610",
+        "lang": "id",
+        "refcode": "KR 330.3"
+      },
+      {
+        "para_id": "882.1498",
+        "lang": "it",
+        "refcode": "UVI 246.3"
+      },
+      {
+        "para_id": "12335.1430",
+        "lang": "nb",
+        "refcode": "AV 226.3"
+      },
+      {
+        "para_id": "12008.1349",
+        "lang": "pl",
+        "refcode": "DA 216.3"
+      },
+      {
+        "para_id": "1806.1416",
+        "lang": "pt",
+        "refcode": "AA 203.2"
+      },
+      {
+        "para_id": "2013.1717",
+        "lang": "ro",
+        "refcode": "FA 393.2"
+      },
+      {
+        "para_id": "1785.1688",
+        "lang": "ru",
+        "refcode": "ДА 393.2"
+      },
+      {
+        "para_id": "13874.1434",
+        "lang": "rw",
+        "refcode": "INI 242.4"
+      },
+      {
+        "para_id": "11182.1420",
+        "lang": "sk",
+        "refcode": "SA 236.3"
+      },
+      {
+        "para_id": "11904.1558",
+        "lang": "tl",
+        "refcode": "AGA 297.1"
+      },
+      {
+        "para_id": "11875.1512",
+        "lang": "uk",
+        "refcode": "ДА 270.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1732",
+    "id_prev": "127.1731",
+    "id_next": "127.1733",
+    "refcode_1": "AA",
+    "refcode_2": "393",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 393.3",
+    "refcode_long": "The Acts of the Apostles, p. 393.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Paul had not designed to bear this testimony; but, while he was speaking, the Spirit of Inspiration came upon him, confirming his fears that this would be his last meeting with his Ephesian brethren.",
+    "puborder": 1080,
+    "translations": [
+      {
+        "para_id": "13804.1296",
+        "lang": "bg",
+        "refcode": "Дa 153.3"
+      },
+      {
+        "para_id": "11590.1656",
+        "lang": "ce",
+        "refcode": "ABA 335.3"
+      },
+      {
+        "para_id": "11247.1578",
+        "lang": "cs",
+        "refcode": "PNL 225.4"
+      },
+      {
+        "para_id": "813.1729",
+        "lang": "de",
+        "refcode": "WA 391.2"
+      },
+      {
+        "para_id": "198.1613",
+        "lang": "es",
+        "refcode": "HAp 315.3"
+      },
+      {
+        "para_id": "158.1649",
+        "lang": "fr",
+        "refcode": "CP 349.1"
+      },
+      {
+        "para_id": "11938.1495",
+        "lang": "hu",
+        "refcode": "AT 259.1"
+      },
+      {
+        "para_id": "12410.1611",
+        "lang": "id",
+        "refcode": "KR 330.4"
+      },
+      {
+        "para_id": "882.1499",
+        "lang": "it",
+        "refcode": "UVI 246.4"
+      },
+      {
+        "para_id": "12335.1431",
+        "lang": "nb",
+        "refcode": "AV 226.4"
+      },
+      {
+        "para_id": "12008.1350",
+        "lang": "pl",
+        "refcode": "DA 216.4"
+      },
+      {
+        "para_id": "1806.1417",
+        "lang": "pt",
+        "refcode": "AA 203.3"
+      },
+      {
+        "para_id": "2013.1718",
+        "lang": "ro",
+        "refcode": "FA 393.3"
+      },
+      {
+        "para_id": "1785.1689",
+        "lang": "ru",
+        "refcode": "ДА 393.3"
+      },
+      {
+        "para_id": "13874.1435",
+        "lang": "rw",
+        "refcode": "INI 242.5"
+      },
+      {
+        "para_id": "11182.1421",
+        "lang": "sk",
+        "refcode": "SA 236.4"
+      },
+      {
+        "para_id": "11904.1559",
+        "lang": "tl",
+        "refcode": "AGA 297.2"
+      },
+      {
+        "para_id": "11875.1513",
+        "lang": "uk",
+        "refcode": "ДА 270.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1733",
+    "id_prev": "127.1732",
+    "id_next": "127.1736",
+    "refcode_1": "AA",
+    "refcode_2": "393",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 393.4",
+    "refcode_long": "The Acts of the Apostles, p. 393.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Wherefore I take you to record this day, that I am pure from the blood of all men. For I have not shunned to declare <span class=\"page-break\" data-page=\"394\"></span> unto you all the counsel of God.&rdquo; No fear of giving offense, no desire for friendship or applause, could lead Paul to withhold the words that God had given him for their instruction, warning, or correction. From His servants today God requires fearlessness in preaching the word and in carrying out its precepts. The minister of Christ is not to present to the people only those truths that are the most pleasing, while he withholds others that might cause them pain. He should watch with deep solicitude the development of character. If he sees that any of his flock are cherishing sin he must as a faithful shepherd give them from God&apos;s word the instruction that is applicable to their case. Should he permit them in their self-confidence to go on unwarned, he would be held responsible for their souls. The pastor who fulfills his high commission must give his people faithful instruction on every point of the Christian faith, showing them what they must be and do in order to stand perfect in the day of God. He only who is a faithful teacher of the truth will at the close of his work be able to say with Paul, &ldquo;I am pure from the blood of all men.&rdquo;",
+    "puborder": 1081,
+    "translations": [
+      {
+        "para_id": "13804.1297",
+        "lang": "bg",
+        "refcode": "Дa 153.4"
+      },
+      {
+        "para_id": "11590.1659",
+        "lang": "ce",
+        "refcode": "ABA 336.1"
+      },
+      {
+        "para_id": "11247.1579",
+        "lang": "cs",
+        "refcode": "PNL 225.5"
+      },
+      {
+        "para_id": "813.1730",
+        "lang": "de",
+        "refcode": "WA 391.3"
+      },
+      {
+        "para_id": "198.1614",
+        "lang": "es",
+        "refcode": "HAp 315.4"
+      },
+      {
+        "para_id": "158.1649",
+        "lang": "fr",
+        "refcode": "CP 349.1"
+      },
+      {
+        "para_id": "11938.1496",
+        "lang": "hu",
+        "refcode": "AT 259.2"
+      },
+      {
+        "para_id": "12410.1614",
+        "lang": "id",
+        "refcode": "KR 331.1"
+      },
+      {
+        "para_id": "882.1500",
+        "lang": "it",
+        "refcode": "UVI 246.5"
+      },
+      {
+        "para_id": "12335.1432",
+        "lang": "nb",
+        "refcode": "AV 226.5"
+      },
+      {
+        "para_id": "12008.1351",
+        "lang": "pl",
+        "refcode": "DA 216.5"
+      },
+      {
+        "para_id": "1806.1418",
+        "lang": "pt",
+        "refcode": "AA 203.4"
+      },
+      {
+        "para_id": "2013.1719",
+        "lang": "ro",
+        "refcode": "FA 393.4"
+      },
+      {
+        "para_id": "1785.1691",
+        "lang": "ru",
+        "refcode": "ДА 394.1"
+      },
+      {
+        "para_id": "13874.1437",
+        "lang": "rw",
+        "refcode": "INI 243.1"
+      },
+      {
+        "para_id": "11182.1422",
+        "lang": "sk",
+        "refcode": "SA 236.5"
+      },
+      {
+        "para_id": "11904.1560",
+        "lang": "tl",
+        "refcode": "AGA 297.3"
+      },
+      {
+        "para_id": "11875.1513",
+        "lang": "uk",
+        "refcode": "ДА 270.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1736",
+    "id_prev": "127.1733",
+    "id_next": "127.1739",
+    "refcode_1": "AA",
+    "refcode_2": "394",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 394.1",
+    "refcode_long": "The Acts of the Apostles, p. 394.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Take heed therefore unto yourselves,&rdquo; the apostle admonished his brethren, &ldquo;and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which He hath purchased with His own blood.&rdquo; If ministers of the gospel were to bear constantly in mind the fact that they are dealing with the purchase of the blood of Christ, they would have a deeper sense of the importance of their work. They are to take heed to themselves and to their flock. Their own example is to illustrate <span class=\"page-break\" data-page=\"395\"></span> and enforce their instructions. As teachers of the way of life they should give no occasion for the truth to be evil spoken of. As representatives of Christ they are to maintain the honor of His name. By their devotion, their purity of life, their godly conversation, they are to prove themselves worthy of their high calling.",
+    "puborder": 1082,
+    "translations": [
+      {
+        "para_id": "13804.1298",
+        "lang": "bg",
+        "refcode": "Дa 153.5"
+      },
+      {
+        "para_id": "11590.1660",
+        "lang": "ce",
+        "refcode": "ABA 336.2"
+      },
+      {
+        "para_id": "11247.1582",
+        "lang": "cs",
+        "refcode": "PNL 226.1"
+      },
+      {
+        "para_id": "813.1733",
+        "lang": "de",
+        "refcode": "WA 392.1"
+      },
+      {
+        "para_id": "198.1617",
+        "lang": "es",
+        "refcode": "HAp 316.1"
+      },
+      {
+        "para_id": "158.1649",
+        "lang": "fr",
+        "refcode": "CP 349.1"
+      },
+      {
+        "para_id": "158.1650",
+        "lang": "fr",
+        "refcode": "CP 349.2"
+      },
+      {
+        "para_id": "11938.1497",
+        "lang": "hu",
+        "refcode": "AT 259.3"
+      },
+      {
+        "para_id": "12410.1615",
+        "lang": "id",
+        "refcode": "KR 331.2"
+      },
+      {
+        "para_id": "882.1503",
+        "lang": "it",
+        "refcode": "UVI 247.1"
+      },
+      {
+        "para_id": "12335.1435",
+        "lang": "nb",
+        "refcode": "AV 227.1"
+      },
+      {
+        "para_id": "12008.1354",
+        "lang": "pl",
+        "refcode": "DA 217.1"
+      },
+      {
+        "para_id": "1806.1420",
+        "lang": "pt",
+        "refcode": "AA 203.6"
+      },
+      {
+        "para_id": "2013.1722",
+        "lang": "ro",
+        "refcode": "FA 394.1"
+      },
+      {
+        "para_id": "1785.1692",
+        "lang": "ru",
+        "refcode": "ДА 394.2"
+      },
+      {
+        "para_id": "13874.1438",
+        "lang": "rw",
+        "refcode": "INI 243.2"
+      },
+      {
+        "para_id": "11182.1425",
+        "lang": "sk",
+        "refcode": "SA 237.1"
+      },
+      {
+        "para_id": "11904.1563",
+        "lang": "tl",
+        "refcode": "AGA 298.1"
+      },
+      {
+        "para_id": "11875.1516",
+        "lang": "uk",
+        "refcode": "ДА 271.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1739",
+    "id_prev": "127.1736",
+    "id_next": "127.1740",
+    "refcode_1": "AA",
+    "refcode_2": "395",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 395.1",
+    "refcode_long": "The Acts of the Apostles, p. 395.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The dangers that would assail the church at Ephesus were revealed to the apostle. &ldquo;I know this,&rdquo; he said, &ldquo;that after my departing shall grievous wolves enter in among you, not sparing the flock. Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.&rdquo; Paul trembled for the church as, looking into the future, he saw the attacks which she must suffer from both external and internal foes. With solemn earnestness he bade his brethren guard vigilantly their sacred trusts. For an example he pointed them to his own unwearied labors among them: &ldquo;Therefore watch, and remember, that by the space of three years I ceased not to warn everyone night and day with tears.",
+    "puborder": 1083,
+    "translations": [
+      {
+        "para_id": "13804.1299",
+        "lang": "bg",
+        "refcode": "Дa 153.6"
+      },
+      {
+        "para_id": "11590.1663",
+        "lang": "ce",
+        "refcode": "ABA 337.1"
+      },
+      {
+        "para_id": "11247.1585",
+        "lang": "cs",
+        "refcode": "PNL 227.1"
+      },
+      {
+        "para_id": "813.1734",
+        "lang": "de",
+        "refcode": "WA 392.2"
+      },
+      {
+        "para_id": "198.1618",
+        "lang": "es",
+        "refcode": "HAp 316.2"
+      },
+      {
+        "para_id": "158.1654",
+        "lang": "fr",
+        "refcode": "CP 350.2"
+      },
+      {
+        "para_id": "158.1653",
+        "lang": "fr",
+        "refcode": "CP 350.1"
+      },
+      {
+        "para_id": "11938.1498",
+        "lang": "hu",
+        "refcode": "AT 259.4"
+      },
+      {
+        "para_id": "12410.1618",
+        "lang": "id",
+        "refcode": "KR 332.1"
+      },
+      {
+        "para_id": "882.1504",
+        "lang": "it",
+        "refcode": "UVI 247.2"
+      },
+      {
+        "para_id": "12335.1436",
+        "lang": "nb",
+        "refcode": "AV 227.2"
+      },
+      {
+        "para_id": "12008.1355",
+        "lang": "pl",
+        "refcode": "DA 217.2"
+      },
+      {
+        "para_id": "1806.1420",
+        "lang": "pt",
+        "refcode": "AA 203.6"
+      },
+      {
+        "para_id": "2013.1725",
+        "lang": "ro",
+        "refcode": "FA 395.1"
+      },
+      {
+        "para_id": "1785.1695",
+        "lang": "ru",
+        "refcode": "ДА 395.1"
+      },
+      {
+        "para_id": "13874.1439",
+        "lang": "rw",
+        "refcode": "INI 243.3"
+      },
+      {
+        "para_id": "11182.1426",
+        "lang": "sk",
+        "refcode": "SA 237.2"
+      },
+      {
+        "para_id": "11904.1564",
+        "lang": "tl",
+        "refcode": "AGA 298.2"
+      },
+      {
+        "para_id": "11875.1517",
+        "lang": "uk",
+        "refcode": "ДА 271.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1740",
+    "id_prev": "127.1739",
+    "id_next": "127.1743",
+    "refcode_1": "AA",
+    "refcode_2": "395",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 395.2",
+    "refcode_long": "The Acts of the Apostles, p. 395.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;And now, brethren,&rdquo; he continued, &ldquo;I commend you to God, and to the word of His grace, which is able to build you up, and to give you an inheritance among all them which are sanctified. I have coveted no man&apos;s silver, or gold, or apparel.&rdquo; Some of the Ephesian brethren were wealthy, but Paul had never sought personal benefit from them. It was no part of his message to call attention to his own wants. &ldquo;These hands,&rdquo; he declared, &ldquo;have ministered unto my necessities, and to them that were with me.&rdquo; Amidst his arduous labors and extensive journeys for the cause of Christ, he was <span class=\"page-break\" data-page=\"396\"></span> able, not only to supply his own wants, but to spare something for the support of his fellow laborers and the relief of the worthy poor. This he accomplished only by unremitting diligence and the closest economy. Well might he point to his own example as he said, &ldquo;I have showed you all things, how that so laboring ye ought to support the weak, and to remember the words of the Lord Jesus, how He said, It is more blessed to give than to receive.",
+    "puborder": 1084,
+    "translations": [
+      {
+        "para_id": "13804.1302",
+        "lang": "bg",
+        "refcode": "Дa 154.1"
+      },
+      {
+        "para_id": "11590.1664",
+        "lang": "ce",
+        "refcode": "ABA 337.2"
+      },
+      {
+        "para_id": "11247.1586",
+        "lang": "cs",
+        "refcode": "PNL 227.2"
+      },
+      {
+        "para_id": "813.1737",
+        "lang": "de",
+        "refcode": "WA 393.1"
+      },
+      {
+        "para_id": "198.1621",
+        "lang": "es",
+        "refcode": "HAp 317.1"
+      },
+      {
+        "para_id": "158.1655",
+        "lang": "fr",
+        "refcode": "CP 350.3"
+      },
+      {
+        "para_id": "158.1654",
+        "lang": "fr",
+        "refcode": "CP 350.2"
+      },
+      {
+        "para_id": "158.1656",
+        "lang": "fr",
+        "refcode": "CP 350.4"
+      },
+      {
+        "para_id": "11938.1501",
+        "lang": "hu",
+        "refcode": "AT 260.1"
+      },
+      {
+        "para_id": "12410.1619",
+        "lang": "id",
+        "refcode": "KR 332.2"
+      },
+      {
+        "para_id": "882.1507",
+        "lang": "it",
+        "refcode": "UVI 248.1"
+      },
+      {
+        "para_id": "12335.1437",
+        "lang": "nb",
+        "refcode": "AV 227.3"
+      },
+      {
+        "para_id": "12008.1355",
+        "lang": "pl",
+        "refcode": "DA 217.2"
+      },
+      {
+        "para_id": "1806.1423",
+        "lang": "pt",
+        "refcode": "AA 204.1"
+      },
+      {
+        "para_id": "2013.1726",
+        "lang": "ro",
+        "refcode": "FA 395.2"
+      },
+      {
+        "para_id": "1785.1696",
+        "lang": "ru",
+        "refcode": "ДА 395.2"
+      },
+      {
+        "para_id": "13874.1442",
+        "lang": "rw",
+        "refcode": "INI 244.1"
+      },
+      {
+        "para_id": "11182.1427",
+        "lang": "sk",
+        "refcode": "SA 237.3"
+      },
+      {
+        "para_id": "11904.1565",
+        "lang": "tl",
+        "refcode": "AGA 298.3"
+      },
+      {
+        "para_id": "11875.1519",
+        "lang": "uk",
+        "refcode": "ДА 271.4"
+      },
+      {
+        "para_id": "11875.1518",
+        "lang": "uk",
+        "refcode": "ДА 271.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1743",
+    "id_prev": "127.1740",
+    "id_next": "127.1744",
+    "refcode_1": "AA",
+    "refcode_2": "396",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 396.1",
+    "refcode_long": "The Acts of the Apostles, p. 396.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;And when he had thus spoken, he kneeled down, and prayed with them all. And they all wept sore, and fell on Paul&apos;s neck, and kissed him, sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.&rdquo;",
+    "puborder": 1085,
+    "translations": [
+      {
+        "para_id": "13804.1303",
+        "lang": "bg",
+        "refcode": "Дa 154.2"
+      },
+      {
+        "para_id": "11590.1667",
+        "lang": "ce",
+        "refcode": "ABA 338.1"
+      },
+      {
+        "para_id": "11247.1587",
+        "lang": "cs",
+        "refcode": "PNL 227.3"
+      },
+      {
+        "para_id": "813.1738",
+        "lang": "de",
+        "refcode": "WA 393.2"
+      },
+      {
+        "para_id": "198.1622",
+        "lang": "es",
+        "refcode": "HAp 317.2"
+      },
+      {
+        "para_id": "158.1659",
+        "lang": "fr",
+        "refcode": "CP 351.1"
+      },
+      {
+        "para_id": "11938.1502",
+        "lang": "hu",
+        "refcode": "AT 260.2"
+      },
+      {
+        "para_id": "12410.1622",
+        "lang": "id",
+        "refcode": "KR 333.1"
+      },
+      {
+        "para_id": "882.1508",
+        "lang": "it",
+        "refcode": "UVI 248.2"
+      },
+      {
+        "para_id": "12335.1438",
+        "lang": "nb",
+        "refcode": "AV 227.4"
+      },
+      {
+        "para_id": "12008.1355",
+        "lang": "pl",
+        "refcode": "DA 217.2"
+      },
+      {
+        "para_id": "1806.1424",
+        "lang": "pt",
+        "refcode": "AA 204.2"
+      },
+      {
+        "para_id": "2013.1729",
+        "lang": "ro",
+        "refcode": "FA 396.1"
+      },
+      {
+        "para_id": "1785.1699",
+        "lang": "ru",
+        "refcode": "ДА 396.1"
+      },
+      {
+        "para_id": "13874.1443",
+        "lang": "rw",
+        "refcode": "INI 244.2"
+      },
+      {
+        "para_id": "11182.1430",
+        "lang": "sk",
+        "refcode": "SA 238.1"
+      },
+      {
+        "para_id": "11904.1568",
+        "lang": "tl",
+        "refcode": "AGA 299.1"
+      },
+      {
+        "para_id": "11875.1522",
+        "lang": "uk",
+        "refcode": "ДА 272.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1744",
+    "id_prev": "127.1743",
+    "id_next": "127.1745",
+    "refcode_1": "AA",
+    "refcode_2": "396",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 396.2",
+    "refcode_long": "The Acts of the Apostles, p. 396.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "From Miletus the travelers sailed in &ldquo;a straight course unto Coos, and the day following unto Rhodes, and from thence unto Patara,&rdquo; on the southwest shore of Asia Minor, where, &ldquo;finding a ship sailing over unto Phoenicia,&rdquo; they &ldquo;went aboard, and set forth.&rdquo; At Tyre, where the ship was unloaded, they found a few disciples, with whom they were permitted to tarry seven days. Through the Holy Spirit these disciples were warned of the perils awaiting Paul at Jerusalem, and they urged him &ldquo;that he should not go up to Jerusalem.&rdquo; But the apostle allowed not the fear of affliction and imprisonment to turn him from his purpose.",
+    "puborder": 1086,
+    "translations": [
+      {
+        "para_id": "13804.1304",
+        "lang": "bg",
+        "refcode": "Дa 154.3"
+      },
+      {
+        "para_id": "11590.1668",
+        "lang": "ce",
+        "refcode": "ABA 338.2"
+      },
+      {
+        "para_id": "11247.1589",
+        "lang": "cs",
+        "refcode": "PNL 227.4"
+      },
+      {
+        "para_id": "813.1741",
+        "lang": "de",
+        "refcode": "WA 394.1"
+      },
+      {
+        "para_id": "198.1623",
+        "lang": "es",
+        "refcode": "HAp 317.3"
+      },
+      {
+        "para_id": "158.1661",
+        "lang": "fr",
+        "refcode": "CP 351.3"
+      },
+      {
+        "para_id": "158.1660",
+        "lang": "fr",
+        "refcode": "CP 351.2"
+      },
+      {
+        "para_id": "11938.1502",
+        "lang": "hu",
+        "refcode": "AT 260.2"
+      },
+      {
+        "para_id": "12410.1623",
+        "lang": "id",
+        "refcode": "KR 333.2"
+      },
+      {
+        "para_id": "882.1509",
+        "lang": "it",
+        "refcode": "UVI 248.3"
+      },
+      {
+        "para_id": "12335.1441",
+        "lang": "nb",
+        "refcode": "AV 228.1"
+      },
+      {
+        "para_id": "12008.1358",
+        "lang": "pl",
+        "refcode": "DA 218.1"
+      },
+      {
+        "para_id": "1806.1426",
+        "lang": "pt",
+        "refcode": "AA 204.4"
+      },
+      {
+        "para_id": "2013.1730",
+        "lang": "ro",
+        "refcode": "FA 396.2"
+      },
+      {
+        "para_id": "1785.1700",
+        "lang": "ru",
+        "refcode": "ДА 396.2"
+      },
+      {
+        "para_id": "13874.1444",
+        "lang": "rw",
+        "refcode": "INI 244.3"
+      },
+      {
+        "para_id": "11182.1431",
+        "lang": "sk",
+        "refcode": "SA 238.2"
+      },
+      {
+        "para_id": "11904.1569",
+        "lang": "tl",
+        "refcode": "AGA 299.2"
+      },
+      {
+        "para_id": "11875.1523",
+        "lang": "uk",
+        "refcode": "ДА 272.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1745",
+    "id_prev": "127.1744",
+    "id_next": "127.1747",
+    "refcode_1": "AA",
+    "refcode_2": "396",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 396.3",
+    "refcode_long": "The Acts of the Apostles, p. 396.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "At the close of the week spent in Tyre, all the brethren, with their wives and children, went with Paul to the ship, and before he stepped on board, they knelt upon the shore and prayed, he for them, and they for him.",
+    "puborder": 1087,
+    "translations": [
+      {
+        "para_id": "13804.1305",
+        "lang": "bg",
+        "refcode": "Дa 154.4"
+      },
+      {
+        "para_id": "11590.1669",
+        "lang": "ce",
+        "refcode": "ABA 338.3"
+      },
+      {
+        "para_id": "11247.1592",
+        "lang": "cs",
+        "refcode": "PNL 228.1"
+      },
+      {
+        "para_id": "813.1742",
+        "lang": "de",
+        "refcode": "WA 394.2"
+      },
+      {
+        "para_id": "198.1626",
+        "lang": "es",
+        "refcode": "HAp 318.1"
+      },
+      {
+        "para_id": "158.1662",
+        "lang": "fr",
+        "refcode": "CP 351.4"
+      },
+      {
+        "para_id": "11938.1503",
+        "lang": "hu",
+        "refcode": "AT 260.3"
+      },
+      {
+        "para_id": "12410.1624",
+        "lang": "id",
+        "refcode": "KR 333.3"
+      },
+      {
+        "para_id": "882.1510",
+        "lang": "it",
+        "refcode": "UVI 248.4"
+      },
+      {
+        "para_id": "12335.1442",
+        "lang": "nb",
+        "refcode": "AV 228.2"
+      },
+      {
+        "para_id": "12008.1359",
+        "lang": "pl",
+        "refcode": "DA 218.2"
+      },
+      {
+        "para_id": "1806.1427",
+        "lang": "pt",
+        "refcode": "AA 204.5"
+      },
+      {
+        "para_id": "2013.1731",
+        "lang": "ro",
+        "refcode": "FA 396.3"
+      },
+      {
+        "para_id": "1785.1701",
+        "lang": "ru",
+        "refcode": "ДА 396.3"
+      },
+      {
+        "para_id": "13874.1445",
+        "lang": "rw",
+        "refcode": "INI 244.4"
+      },
+      {
+        "para_id": "11182.1432",
+        "lang": "sk",
+        "refcode": "SA 238.3"
+      },
+      {
+        "para_id": "11904.1570",
+        "lang": "tl",
+        "refcode": "AGA 299.3"
+      },
+      {
+        "para_id": "11875.1524",
+        "lang": "uk",
+        "refcode": "ДА 272.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1747",
+    "id_prev": "127.1745",
+    "id_next": "127.1748",
+    "refcode_1": "AA",
+    "refcode_2": "397",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 397.1",
+    "refcode_long": "The Acts of the Apostles, p. 397.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Pursuing their journey southward, the travelers arrived at Caesarea and &ldquo;entered into the house of Philip the evangelist, which was one of the seven; and abode with him.&rdquo; Here Paul spent a few peaceful, happy days&mdash;the last of perfect freedom that he was to enjoy for a long time.",
+    "puborder": 1088,
+    "translations": [
+      {
+        "para_id": "13804.1306",
+        "lang": "bg",
+        "refcode": "Дa 154.5"
+      },
+      {
+        "para_id": "11590.1670",
+        "lang": "ce",
+        "refcode": "ABA 338.4"
+      },
+      {
+        "para_id": "11247.1593",
+        "lang": "cs",
+        "refcode": "PNL 228.2"
+      },
+      {
+        "para_id": "813.1743",
+        "lang": "de",
+        "refcode": "WA 394.3"
+      },
+      {
+        "para_id": "198.1627",
+        "lang": "es",
+        "refcode": "HAp 318.2"
+      },
+      {
+        "para_id": "158.1663",
+        "lang": "fr",
+        "refcode": "CP 351.5"
+      },
+      {
+        "para_id": "11938.1506",
+        "lang": "hu",
+        "refcode": "AT 261.1"
+      },
+      {
+        "para_id": "12410.1625",
+        "lang": "id",
+        "refcode": "KR 333.4"
+      },
+      {
+        "para_id": "882.1511",
+        "lang": "it",
+        "refcode": "UVI 248.5"
+      },
+      {
+        "para_id": "12335.1443",
+        "lang": "nb",
+        "refcode": "AV 228.3"
+      },
+      {
+        "para_id": "12008.1360",
+        "lang": "pl",
+        "refcode": "DA 218.3"
+      },
+      {
+        "para_id": "1806.1427",
+        "lang": "pt",
+        "refcode": "AA 204.5"
+      },
+      {
+        "para_id": "2013.1733",
+        "lang": "ro",
+        "refcode": "FA 397.1"
+      },
+      {
+        "para_id": "1785.1701",
+        "lang": "ru",
+        "refcode": "ДА 396.3"
+      },
+      {
+        "para_id": "13874.1446",
+        "lang": "rw",
+        "refcode": "INI 244.5"
+      },
+      {
+        "para_id": "11182.1433",
+        "lang": "sk",
+        "refcode": "SA 238.4"
+      },
+      {
+        "para_id": "11904.1571",
+        "lang": "tl",
+        "refcode": "AGA 299.4"
+      },
+      {
+        "para_id": "11875.1525",
+        "lang": "uk",
+        "refcode": "ДА 272.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1748",
+    "id_prev": "127.1747",
+    "id_next": "127.1749",
+    "refcode_1": "AA",
+    "refcode_2": "397",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 397.2",
+    "refcode_long": "The Acts of the Apostles, p. 397.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "While Paul tarried at Caesarea, &ldquo;there came down from Judea a certain prophet, named Agabus. And when he was come unto us,&rdquo; Luke says, &ldquo;he took Paul&apos;s girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles.&rdquo;",
+    "puborder": 1089,
+    "translations": [
+      {
+        "para_id": "13804.1307",
+        "lang": "bg",
+        "refcode": "Дa 154.6"
+      },
+      {
+        "para_id": "11590.1671",
+        "lang": "ce",
+        "refcode": "ABA 338.5"
+      },
+      {
+        "para_id": "11247.1594",
+        "lang": "cs",
+        "refcode": "PNL 228.3"
+      },
+      {
+        "para_id": "813.1744",
+        "lang": "de",
+        "refcode": "WA 394.4"
+      },
+      {
+        "para_id": "198.1628",
+        "lang": "es",
+        "refcode": "HAp 318.3"
+      },
+      {
+        "para_id": "158.1664",
+        "lang": "fr",
+        "refcode": "CP 351.6"
+      },
+      {
+        "para_id": "11938.1507",
+        "lang": "hu",
+        "refcode": "AT 261.2"
+      },
+      {
+        "para_id": "12410.1626",
+        "lang": "id",
+        "refcode": "KR 333.5"
+      },
+      {
+        "para_id": "882.1514",
+        "lang": "it",
+        "refcode": "UVI 249.1"
+      },
+      {
+        "para_id": "12335.1444",
+        "lang": "nb",
+        "refcode": "AV 228.4"
+      },
+      {
+        "para_id": "12008.1361",
+        "lang": "pl",
+        "refcode": "DA 218.4"
+      },
+      {
+        "para_id": "1806.1427",
+        "lang": "pt",
+        "refcode": "AA 204.5"
+      },
+      {
+        "para_id": "2013.1734",
+        "lang": "ro",
+        "refcode": "FA 397.2"
+      },
+      {
+        "para_id": "1785.1704",
+        "lang": "ru",
+        "refcode": "ДА 397.1"
+      },
+      {
+        "para_id": "13874.1448",
+        "lang": "rw",
+        "refcode": "INI 245.1"
+      },
+      {
+        "para_id": "11182.1434",
+        "lang": "sk",
+        "refcode": "SA 238.5"
+      },
+      {
+        "para_id": "11904.1574",
+        "lang": "tl",
+        "refcode": "AGA 300.1"
+      },
+      {
+        "para_id": "11875.1526",
+        "lang": "uk",
+        "refcode": "ДА 272.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1749",
+    "id_prev": "127.1748",
+    "id_next": "127.1750",
+    "refcode_1": "AA",
+    "refcode_2": "397",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 397.3",
+    "refcode_long": "The Acts of the Apostles, p. 397.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;When we heard these things,&rdquo; Luke continues, &ldquo;both we, and they of that place, besought him not to go up to Jerusalem.&rdquo; But Paul would not swerve from the path of duty. He would follow Christ if need be to prison and to death. &ldquo;What mean ye to weep and to break mine heart?&rdquo; he exclaimed; &ldquo;for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.&rdquo; Seeing that they caused him pain without changing his purpose, the brethren ceased their importunity, saying only, &ldquo;The will of the Lord be done.&rdquo;",
+    "puborder": 1090,
+    "translations": [
+      {
+        "para_id": "13804.1308",
+        "lang": "bg",
+        "refcode": "Дa 154.7"
+      },
+      {
+        "para_id": "11590.1673",
+        "lang": "ce",
+        "refcode": "ABA 339.1"
+      },
+      {
+        "para_id": "11247.1595",
+        "lang": "cs",
+        "refcode": "PNL 228.4"
+      },
+      {
+        "para_id": "813.1745",
+        "lang": "de",
+        "refcode": "WA 394.5"
+      },
+      {
+        "para_id": "198.1629",
+        "lang": "es",
+        "refcode": "HAp 318.4"
+      },
+      {
+        "para_id": "158.1666",
+        "lang": "fr",
+        "refcode": "CP 352.1"
+      },
+      {
+        "para_id": "11938.1508",
+        "lang": "hu",
+        "refcode": "AT 261.3"
+      },
+      {
+        "para_id": "12410.1629",
+        "lang": "id",
+        "refcode": "KR 334.1"
+      },
+      {
+        "para_id": "882.1515",
+        "lang": "it",
+        "refcode": "UVI 249.2"
+      },
+      {
+        "para_id": "12335.1445",
+        "lang": "nb",
+        "refcode": "AV 228.5"
+      },
+      {
+        "para_id": "12008.1361",
+        "lang": "pl",
+        "refcode": "DA 218.4"
+      },
+      {
+        "para_id": "2013.1735",
+        "lang": "ro",
+        "refcode": "FA 397.3"
+      },
+      {
+        "para_id": "1785.1705",
+        "lang": "ru",
+        "refcode": "ДА 397.2"
+      },
+      {
+        "para_id": "13874.1449",
+        "lang": "rw",
+        "refcode": "INI 245.2"
+      },
+      {
+        "para_id": "11182.1435",
+        "lang": "sk",
+        "refcode": "SA 238.6"
+      },
+      {
+        "para_id": "11904.1575",
+        "lang": "tl",
+        "refcode": "AGA 300.2"
+      },
+      {
+        "para_id": "11875.1527",
+        "lang": "uk",
+        "refcode": "ДА 272.6"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1750",
+    "id_prev": "127.1749",
+    "id_next": "127.1751",
+    "refcode_1": "AA",
+    "refcode_2": "397",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 397.4",
+    "refcode_long": "The Acts of the Apostles, p. 397.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The time soon came for the brief stay at Caesarea to end, and, accompanied by some of the brethren, Paul and his company set out for Jerusalem, their hearts deeply shadowed by the presentiment of coming evil.",
+    "puborder": 1091,
+    "translations": [
+      {
+        "para_id": "13804.1310",
+        "lang": "bg",
+        "refcode": "Дa 155.1"
+      },
+      {
+        "para_id": "11590.1674",
+        "lang": "ce",
+        "refcode": "ABA 339.2"
+      },
+      {
+        "para_id": "11247.1596",
+        "lang": "cs",
+        "refcode": "PNL 228.5"
+      },
+      {
+        "para_id": "813.1748",
+        "lang": "de",
+        "refcode": "WA 395.1"
+      },
+      {
+        "para_id": "198.1630",
+        "lang": "es",
+        "refcode": "HAp 318.5"
+      },
+      {
+        "para_id": "158.1667",
+        "lang": "fr",
+        "refcode": "CP 352.2"
+      },
+      {
+        "para_id": "11938.1509",
+        "lang": "hu",
+        "refcode": "AT 261.4"
+      },
+      {
+        "para_id": "12410.1630",
+        "lang": "id",
+        "refcode": "KR 334.2"
+      },
+      {
+        "para_id": "882.1516",
+        "lang": "it",
+        "refcode": "UVI 249.3"
+      },
+      {
+        "para_id": "12335.1446",
+        "lang": "nb",
+        "refcode": "AV 228.6"
+      },
+      {
+        "para_id": "12008.1362",
+        "lang": "pl",
+        "refcode": "DA 218.5"
+      },
+      {
+        "para_id": "1806.1430",
+        "lang": "pt",
+        "refcode": "AA 205.1"
+      },
+      {
+        "para_id": "2013.1736",
+        "lang": "ro",
+        "refcode": "FA 397.4"
+      },
+      {
+        "para_id": "1785.1706",
+        "lang": "ru",
+        "refcode": "ДА 397.3"
+      },
+      {
+        "para_id": "13874.1450",
+        "lang": "rw",
+        "refcode": "INI 245.3"
+      },
+      {
+        "para_id": "11182.1438",
+        "lang": "sk",
+        "refcode": "SA 239.1"
+      },
+      {
+        "para_id": "11904.1576",
+        "lang": "tl",
+        "refcode": "AGA 300.3"
+      },
+      {
+        "para_id": "11875.1530",
+        "lang": "uk",
+        "refcode": "ДА 273.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1751",
+    "id_prev": "127.1750",
+    "id_next": "127.1754",
+    "refcode_1": "AA",
+    "refcode_2": "397",
+    "refcode_3": "5",
+    "refcode_4": "",
+    "refcode_short": "AA 397.5",
+    "refcode_long": "The Acts of the Apostles, p. 397.5 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Never before had the apostle approached Jerusalem with so sad a heart. He knew that he would find few friends and <span class=\"page-break\" data-page=\"398\"></span> many enemies. He was nearing the city which had rejected and slain the Son of God and over which now hung the threatenings of divine wrath. Remembering how bitter had been his own prejudice against the followers of Christ, he felt the deepest pity for his deluded countrymen. And yet how little could he hope that he would be able to help them! The same blind wrath which had once burned in his own heart, was now with untold power kindling the hearts of a whole nation against him.",
+    "puborder": 1092,
+    "translations": [
+      {
+        "para_id": "13804.1311",
+        "lang": "bg",
+        "refcode": "Дa 155.2"
+      },
+      {
+        "para_id": "11590.1675",
+        "lang": "ce",
+        "refcode": "ABA 339.3"
+      },
+      {
+        "para_id": "11247.1597",
+        "lang": "cs",
+        "refcode": "PNL 228.6"
+      },
+      {
+        "para_id": "813.1749",
+        "lang": "de",
+        "refcode": "WA 395.2"
+      },
+      {
+        "para_id": "198.1631",
+        "lang": "es",
+        "refcode": "HAp 318.6"
+      },
+      {
+        "para_id": "158.1668",
+        "lang": "fr",
+        "refcode": "CP 352.3"
+      },
+      {
+        "para_id": "11938.1510",
+        "lang": "hu",
+        "refcode": "AT 261.5"
+      },
+      {
+        "para_id": "12410.1631",
+        "lang": "id",
+        "refcode": "KR 334.3"
+      },
+      {
+        "para_id": "882.1517",
+        "lang": "it",
+        "refcode": "UVI 249.4"
+      },
+      {
+        "para_id": "12335.1447",
+        "lang": "nb",
+        "refcode": "AV 228.7"
+      },
+      {
+        "para_id": "12008.1363",
+        "lang": "pl",
+        "refcode": "DA 218.6"
+      },
+      {
+        "para_id": "1806.1431",
+        "lang": "pt",
+        "refcode": "AA 205.2"
+      },
+      {
+        "para_id": "2013.1737",
+        "lang": "ro",
+        "refcode": "FA 397.5"
+      },
+      {
+        "para_id": "1785.1707",
+        "lang": "ru",
+        "refcode": "ДА 397.4"
+      },
+      {
+        "para_id": "13874.1451",
+        "lang": "rw",
+        "refcode": "INI 245.4"
+      },
+      {
+        "para_id": "11182.1439",
+        "lang": "sk",
+        "refcode": "SA 239.2"
+      },
+      {
+        "para_id": "11904.1577",
+        "lang": "tl",
+        "refcode": "AGA 300.4"
+      },
+      {
+        "para_id": "11875.1531",
+        "lang": "uk",
+        "refcode": "ДА 273.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1754",
+    "id_prev": "127.1751",
+    "id_next": "127.1755",
+    "refcode_1": "AA",
+    "refcode_2": "398",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 398.1",
+    "refcode_long": "The Acts of the Apostles, p. 398.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "And he could not count upon the sympathy and support of even his own brethren in the faith. The unconverted Jews who had followed so closely upon his track, had not been slow to circulate the most unfavorable reports at Jerusalem, both personally and by letter, concerning him and his work; and some, even of the apostles and elders, had received these reports as truth, making no attempt to contradict them, and manifesting no desire to harmonize with him.",
+    "puborder": 1093,
+    "translations": [
+      {
+        "para_id": "13804.1312",
+        "lang": "bg",
+        "refcode": "Дa 155.3"
+      },
+      {
+        "para_id": "11590.1676",
+        "lang": "ce",
+        "refcode": "ABA 339.4"
+      },
+      {
+        "para_id": "11247.1598",
+        "lang": "cs",
+        "refcode": "PNL 228.7"
+      },
+      {
+        "para_id": "813.1750",
+        "lang": "de",
+        "refcode": "WA 395.3"
+      },
+      {
+        "para_id": "198.1634",
+        "lang": "es",
+        "refcode": "HAp 319.1"
+      },
+      {
+        "para_id": "158.1669",
+        "lang": "fr",
+        "refcode": "CP 352.4"
+      },
+      {
+        "para_id": "11938.1511",
+        "lang": "hu",
+        "refcode": "AT 261.6"
+      },
+      {
+        "para_id": "12410.1632",
+        "lang": "id",
+        "refcode": "KR 334.4"
+      },
+      {
+        "para_id": "882.1518",
+        "lang": "it",
+        "refcode": "UVI 249.5"
+      },
+      {
+        "para_id": "12335.1450",
+        "lang": "nb",
+        "refcode": "AV 229.1"
+      },
+      {
+        "para_id": "12008.1366",
+        "lang": "pl",
+        "refcode": "DA 219.1"
+      },
+      {
+        "para_id": "1806.1433",
+        "lang": "pt",
+        "refcode": "AA 205.4"
+      },
+      {
+        "para_id": "2013.1740",
+        "lang": "ro",
+        "refcode": "FA 398.1"
+      },
+      {
+        "para_id": "1785.1710",
+        "lang": "ru",
+        "refcode": "ДА 398.1"
+      },
+      {
+        "para_id": "13874.1452",
+        "lang": "rw",
+        "refcode": "INI 245.5"
+      },
+      {
+        "para_id": "11182.1440",
+        "lang": "sk",
+        "refcode": "SA 239.3"
+      },
+      {
+        "para_id": "11904.1578",
+        "lang": "tl",
+        "refcode": "AGA 300.5"
+      },
+      {
+        "para_id": "11875.1532",
+        "lang": "uk",
+        "refcode": "ДА 273.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.1755",
+    "id_prev": "127.1754",
+    "id_next": "127.1757",
+    "refcode_1": "AA",
+    "refcode_2": "398",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 398.2",
+    "refcode_long": "The Acts of the Apostles, p. 398.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Yet in the midst of discouragements the apostle was not in despair. He trusted that the Voice which had spoken to his own heart would yet speak to the hearts of his countrymen, and that the Master whom his fellow disciples loved and served would yet unite their hearts with his in the work of the gospel.",
+    "puborder": 1094,
+    "translations": [
+      {
+        "para_id": "13804.1313",
+        "lang": "bg",
+        "refcode": "Дa 155.4"
+      },
+      {
+        "para_id": "11590.1679",
+        "lang": "ce",
+        "refcode": "ABA 340.1"
+      },
+      {
+        "para_id": "11247.1601",
+        "lang": "cs",
+        "refcode": "PNL 229.1"
+      },
+      {
+        "para_id": "813.1752",
+        "lang": "de",
+        "refcode": "WA 396.1"
+      },
+      {
+        "para_id": "198.1635",
+        "lang": "es",
+        "refcode": "HAp 319.2"
+      },
+      {
+        "para_id": "158.1670",
+        "lang": "fr",
+        "refcode": "CP 352.5"
+      },
+      {
+        "para_id": "11938.1514",
+        "lang": "hu",
+        "refcode": "AT 262.1"
+      },
+      {
+        "para_id": "12410.1633",
+        "lang": "id",
+        "refcode": "KR 334.5"
+      },
+      {
+        "para_id": "882.1519",
+        "lang": "it",
+        "refcode": "UVI 249.6"
+      },
+      {
+        "para_id": "12335.1451",
+        "lang": "nb",
+        "refcode": "AV 229.2"
+      },
+      {
+        "para_id": "12008.1367",
+        "lang": "pl",
+        "refcode": "DA 219.2"
+      },
+      {
+        "para_id": "1806.1434",
+        "lang": "pt",
+        "refcode": "AA 205.5"
+      },
+      {
+        "para_id": "2013.1741",
+        "lang": "ro",
+        "refcode": "FA 398.2"
+      },
+      {
+        "para_id": "1785.1711",
+        "lang": "ru",
+        "refcode": "ДА 398.2"
+      },
+      {
+        "para_id": "13874.1453",
+        "lang": "rw",
+        "refcode": "INI 245.6"
+      },
+      {
+        "para_id": "11182.1441",
+        "lang": "sk",
+        "refcode": "SA 239.4"
+      },
+      {
+        "para_id": "11904.1581",
+        "lang": "tl",
+        "refcode": "AGA 301.1"
+      },
+      {
+        "para_id": "11875.1533",
+        "lang": "uk",
+        "refcode": "ДА 273.4"
+      }
+    ]
+  }
+]

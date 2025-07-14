@@ -1,0 +1,401 @@
+[
+  {
+    "para_id": "21.697",
+    "id_prev": "21.690",
+    "id_next": "21.698",
+    "refcode_1": "CSW",
+    "refcode_2": "151",
+    "refcode_3": "",
+    "refcode_4": "6",
+    "refcode_short": "CSW 151",
+    "refcode_long": "Counsels on Sabbath School Work, p. 151 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 6&mdash;Guiding Principles in Administration",
+    "puborder": 439,
+    "translations": [
+      {
+        "para_id": "11629.673",
+        "lang": "da",
+        "refcode": "RSSA 151"
+      },
+      {
+        "para_id": "799.657",
+        "lang": "de",
+        "refcode": "RSs 123"
+      },
+      {
+        "para_id": "1711.749",
+        "lang": "es",
+        "refcode": "COES 169"
+      },
+      {
+        "para_id": "1724.733",
+        "lang": "pt",
+        "refcode": "CES 149"
+      },
+      {
+        "para_id": "1917.817",
+        "lang": "pt",
+        "refcode": "CES38 78"
+      },
+      {
+        "para_id": "2719.714",
+        "lang": "ro",
+        "refcode": "SSS 151"
+      },
+      {
+        "para_id": "1873.691",
+        "lang": "ru",
+        "refcode": "ССШ 151"
+      }
+    ]
+  },
+  {
+    "para_id": "21.698",
+    "id_prev": "21.697",
+    "id_next": "21.699",
+    "refcode_1": "CSW",
+    "refcode_2": "151",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 151.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 151.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<em>Following the Objective</em> The object of the Sabbath school should not be lost sight of in mechanical arrangements, thus occupying time which should be given to other important matters. We should ever be guarded against forms and ceremonies which will eclipse the real object for which we are laboring. There is danger of carrying system to such an extreme that the Sabbath school will become weariness, when, on the contrary, it should be a rest, a refreshment, and a blessing.",
+    "puborder": 440,
+    "translations": [
+      {
+        "para_id": "11629.675",
+        "lang": "da",
+        "refcode": "RSSA 151.1"
+      },
+      {
+        "para_id": "11629.674",
+        "lang": "da",
+        "refcode": "RSSA 151"
+      },
+      {
+        "para_id": "799.660",
+        "lang": "de",
+        "refcode": "RSs 124.1"
+      },
+      {
+        "para_id": "799.659",
+        "lang": "de",
+        "refcode": "RSs 124"
+      },
+      {
+        "para_id": "1711.751",
+        "lang": "es",
+        "refcode": "COES 169.1"
+      },
+      {
+        "para_id": "1917.820",
+        "lang": "pt",
+        "refcode": "CES38 78.1"
+      },
+      {
+        "para_id": "1724.740",
+        "lang": "pt",
+        "refcode": "CES 151.1"
+      },
+      {
+        "para_id": "1724.739",
+        "lang": "pt",
+        "refcode": "CES 151"
+      },
+      {
+        "para_id": "1917.819",
+        "lang": "pt",
+        "refcode": "CES38 78"
+      },
+      {
+        "para_id": "2719.716",
+        "lang": "ro",
+        "refcode": "SSS 151.1"
+      },
+      {
+        "para_id": "2719.715",
+        "lang": "ro",
+        "refcode": "SSS 151"
+      },
+      {
+        "para_id": "1873.693",
+        "lang": "ru",
+        "refcode": "ССШ 151.1"
+      },
+      {
+        "para_id": "1873.692",
+        "lang": "ru",
+        "refcode": "ССШ 151"
+      }
+    ]
+  },
+  {
+    "para_id": "21.699",
+    "id_prev": "21.698",
+    "id_next": "21.701",
+    "refcode_1": "CSW",
+    "refcode_2": "151",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 151.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 151.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The purity and simplicity of the Sabbath school must not be swallowed up in such an endless variety of forms that sufficient time cannot be devoted to religious interests. The beauty and success of the school are in its simplicity and earnestness in serving God. Nothing can be done without order and regulation, but these may be arranged so as to shut out greater and more important duties. Less should be said to the scholars about the external preliminaries and system, and much more should be said in regard to the salvation of their souls. This must be made the ruling principle of the school.",
+    "puborder": 441,
+    "translations": [
+      {
+        "para_id": "11629.676",
+        "lang": "da",
+        "refcode": "RSSA 151.2"
+      },
+      {
+        "para_id": "799.661",
+        "lang": "de",
+        "refcode": "RSs 124.2"
+      },
+      {
+        "para_id": "1711.752",
+        "lang": "es",
+        "refcode": "COES 169.2"
+      },
+      {
+        "para_id": "1724.741",
+        "lang": "pt",
+        "refcode": "CES 151.2"
+      },
+      {
+        "para_id": "1917.821",
+        "lang": "pt",
+        "refcode": "CES38 78.2"
+      },
+      {
+        "para_id": "2719.717",
+        "lang": "ro",
+        "refcode": "SSS 151.2"
+      },
+      {
+        "para_id": "1873.694",
+        "lang": "ru",
+        "refcode": "ССШ 151.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.701",
+    "id_prev": "21.699",
+    "id_next": "21.702",
+    "refcode_1": "CSW",
+    "refcode_2": "152",
+    "refcode_3": "",
+    "refcode_4": "39",
+    "refcode_short": "CSW 152",
+    "refcode_long": "Counsels on Sabbath School Work, p. 152 (Ellen Gould White)",
+    "element_type": "h5",
+    "element_subtype": "",
+    "content": "Danger of Cold Formality",
+    "puborder": 442,
+    "translations": [
+      {
+        "para_id": "11629.679",
+        "lang": "da",
+        "refcode": "RSSA 152"
+      },
+      {
+        "para_id": "799.662",
+        "lang": "de",
+        "refcode": "RSs 124"
+      },
+      {
+        "para_id": "1711.755",
+        "lang": "es",
+        "refcode": "COES 170"
+      },
+      {
+        "para_id": "1917.823",
+        "lang": "pt",
+        "refcode": "CES38 78"
+      },
+      {
+        "para_id": "1724.743",
+        "lang": "pt",
+        "refcode": "CES 152"
+      },
+      {
+        "para_id": "2719.719",
+        "lang": "ro",
+        "refcode": "SSS 152"
+      },
+      {
+        "para_id": "1873.696",
+        "lang": "ru",
+        "refcode": "ССШ 152"
+      }
+    ]
+  },
+  {
+    "para_id": "21.702",
+    "id_prev": "21.701",
+    "id_next": "21.703",
+    "refcode_1": "CSW",
+    "refcode_2": "152",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 152.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 152.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The old, old story of the love of Jesus, repeated by the teachers and the superintendent, with the love of Jesus in the heart, will have a power that will convict and convert souls. If the love and tenderness of Jesus has touched your heart, you will be able to work for your scholars. The simplicity of the gospel must be kept in view. With help from above we can do faithful work for the Master. The fact should be kept continually before the scholars that without heart work all our efforts will be in vain.",
+    "puborder": 443,
+    "translations": [
+      {
+        "para_id": "799.663",
+        "lang": "de",
+        "refcode": "RSs 124.3"
+      },
+      {
+        "para_id": "1711.756",
+        "lang": "es",
+        "refcode": "COES 170.1"
+      },
+      {
+        "para_id": "1724.744",
+        "lang": "pt",
+        "refcode": "CES 152.1"
+      },
+      {
+        "para_id": "1917.824",
+        "lang": "pt",
+        "refcode": "CES38 78.3"
+      },
+      {
+        "para_id": "2719.720",
+        "lang": "ro",
+        "refcode": "SSS 152.1"
+      },
+      {
+        "para_id": "1873.698",
+        "lang": "ru",
+        "refcode": "ССШ 152.2"
+      },
+      {
+        "para_id": "1873.697",
+        "lang": "ru",
+        "refcode": "ССШ 152.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.703",
+    "id_prev": "21.702",
+    "id_next": "21.704",
+    "refcode_1": "CSW",
+    "refcode_2": "152",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 152.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 152.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Affection and love should be seen in every movement of the teachers and managers of the school. Cold formality should be replaced by earnest zeal and energy. The love of Jesus should pervade the whole school that the pupils will learn to regard this as the highest education. Sternness or faultfinding should find no place in Sabbath school or day school. This should be put far from the hearts of the teachers, and of all who act a leading part in the school.",
+    "puborder": 444,
+    "translations": [
+      {
+        "para_id": "11629.680",
+        "lang": "da",
+        "refcode": "RSSA 152.1"
+      },
+      {
+        "para_id": "799.664",
+        "lang": "de",
+        "refcode": "RSs 124.4"
+      },
+      {
+        "para_id": "1711.757",
+        "lang": "es",
+        "refcode": "COES 170.2"
+      },
+      {
+        "para_id": "1917.827",
+        "lang": "pt",
+        "refcode": "CES38 79.1"
+      },
+      {
+        "para_id": "1724.745",
+        "lang": "pt",
+        "refcode": "CES 152.2"
+      },
+      {
+        "para_id": "2719.721",
+        "lang": "ro",
+        "refcode": "SSS 152.2"
+      },
+      {
+        "para_id": "1873.699",
+        "lang": "ru",
+        "refcode": "ССШ 152.3"
+      }
+    ]
+  },
+  {
+    "para_id": "21.704",
+    "id_prev": "21.703",
+    "id_next": "21.707",
+    "refcode_1": "CSW",
+    "refcode_2": "152",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 152.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 152.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Pride should not be felt in the forms or mechanical workings of the school, but in the good that is accomplished in bringing souls to Jesus Christ. Machines may be made to respond to the will of man, working with perfect exactitude, but they are destitute of souls. So with schools where formality takes a leading place; it is as marble without life. When all connected with the school have a sense of the responsibility of their work, and feel that they are making efforts, not only <span class=\"page-break\" data-page=\"153\"></span> for time, but for eternity, order and harmony will be seen in every department.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 89.1\" data-link=\"121.352\"><em>Testimonies on Sabbath-School Work</em>, 89, 90</span>.",
+    "puborder": 445,
+    "translations": [
+      {
+        "para_id": "11629.681",
+        "lang": "da",
+        "refcode": "RSSA 152.2"
+      },
+      {
+        "para_id": "799.667",
+        "lang": "de",
+        "refcode": "RSs 125.1"
+      },
+      {
+        "para_id": "1711.758",
+        "lang": "es",
+        "refcode": "COES 170.3"
+      },
+      {
+        "para_id": "1917.828",
+        "lang": "pt",
+        "refcode": "CES38 79.2"
+      },
+      {
+        "para_id": "1724.746",
+        "lang": "pt",
+        "refcode": "CES 152.3"
+      },
+      {
+        "para_id": "1917.830",
+        "lang": "pt",
+        "refcode": "CES38 79.3"
+      },
+      {
+        "para_id": "2719.722",
+        "lang": "ro",
+        "refcode": "SSS 152.3"
+      },
+      {
+        "para_id": "1873.700",
+        "lang": "ru",
+        "refcode": "ССШ 152.4"
+      }
+    ]
+  }
+]

@@ -1,0 +1,584 @@
+[
+  {
+    "para_id": "21.767",
+    "id_prev": "21.766",
+    "id_next": "21.768",
+    "refcode_1": "CSW",
+    "refcode_2": "165",
+    "refcode_3": "",
+    "refcode_4": "129",
+    "refcode_short": "CSW 165",
+    "refcode_long": "Counsels on Sabbath School Work, p. 165 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Counsel to Superintendents",
+    "puborder": 484,
+    "translations": [
+      {
+        "para_id": "11629.746",
+        "lang": "da",
+        "refcode": "RSSA 165"
+      },
+      {
+        "para_id": "799.721",
+        "lang": "de",
+        "refcode": "RSs 134"
+      },
+      {
+        "para_id": "1711.827",
+        "lang": "es",
+        "refcode": "COES 185"
+      },
+      {
+        "para_id": "1917.905",
+        "lang": "pt",
+        "refcode": "CES38 86"
+      },
+      {
+        "para_id": "1724.810",
+        "lang": "pt",
+        "refcode": "CES 165"
+      },
+      {
+        "para_id": "2719.786",
+        "lang": "ro",
+        "refcode": "SSS 165"
+      },
+      {
+        "para_id": "1873.761",
+        "lang": "ru",
+        "refcode": "ССШ 165"
+      }
+    ]
+  },
+  {
+    "para_id": "21.768",
+    "id_prev": "21.767",
+    "id_next": "21.771",
+    "refcode_1": "CSW",
+    "refcode_2": "165",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 165.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 165.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There is earnest work to be done in our Sabbath schools, and those who have the management of these schools should seek to move with wisdom and <span class=\"page-break\" data-page=\"166\"></span> tact. It is a nice and important work to deal with minds, to leave a right impression, to give the right mold to character. It is a wise educator who seeks to call out the ability and powers of the student, instead of constantly endeavoring to impart instruction.",
+    "puborder": 485,
+    "translations": [
+      {
+        "para_id": "11629.747",
+        "lang": "da",
+        "refcode": "RSSA 165.2"
+      },
+      {
+        "para_id": "799.722",
+        "lang": "de",
+        "refcode": "RSs 134.2"
+      },
+      {
+        "para_id": "1711.828",
+        "lang": "es",
+        "refcode": "COES 185.1"
+      },
+      {
+        "para_id": "1724.811",
+        "lang": "pt",
+        "refcode": "CES 165.2"
+      },
+      {
+        "para_id": "1917.906",
+        "lang": "pt",
+        "refcode": "CES38 86.4"
+      },
+      {
+        "para_id": "1917.909",
+        "lang": "pt",
+        "refcode": "CES38 87.1"
+      },
+      {
+        "para_id": "2719.787",
+        "lang": "ro",
+        "refcode": "SSS 165.2"
+      },
+      {
+        "para_id": "1873.762",
+        "lang": "ru",
+        "refcode": "ССШ 165.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.771",
+    "id_prev": "21.768",
+    "id_next": "21.772",
+    "refcode_1": "CSW",
+    "refcode_2": "166",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 166.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 166.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "At different times I have received letters of inquiry in regard to the duties of the Sabbath school superintendent. One who felt grieved because he could not awaken a deeper interest on the part of teachers and scholars, said that he took much time in talking with them, explaining everything he thought essential for them to understand, and yet there seemed to be a great lack of interest. They were not moved religiously. I would here say to this honest brother, and to any others who may be laboring under similar difficulties. Examine to see if you are not responsible in a great degree, for this lack of religious interest.",
+    "puborder": 486,
+    "translations": [
+      {
+        "para_id": "11629.750",
+        "lang": "da",
+        "refcode": "RSSA 166.1"
+      },
+      {
+        "para_id": "799.725",
+        "lang": "de",
+        "refcode": "RSs 135.1"
+      },
+      {
+        "para_id": "1711.830",
+        "lang": "es",
+        "refcode": "COES 186.1"
+      },
+      {
+        "para_id": "1724.814",
+        "lang": "pt",
+        "refcode": "CES 166.1"
+      },
+      {
+        "para_id": "1917.910",
+        "lang": "pt",
+        "refcode": "CES38 87.2"
+      },
+      {
+        "para_id": "2719.790",
+        "lang": "ro",
+        "refcode": "SSS 166.1"
+      },
+      {
+        "para_id": "1873.765",
+        "lang": "ru",
+        "refcode": "ССШ 166.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.772",
+    "id_prev": "21.771",
+    "id_next": "21.773",
+    "refcode_1": "CSW",
+    "refcode_2": "166",
+    "refcode_3": "",
+    "refcode_4": "45",
+    "refcode_short": "CSW 166",
+    "refcode_long": "Counsels on Sabbath School Work, p. 166 (Ellen Gould White)",
+    "element_type": "h5",
+    "element_subtype": "",
+    "content": "Wearisome Remarks",
+    "puborder": 487,
+    "translations": [
+      {
+        "para_id": "11629.751",
+        "lang": "da",
+        "refcode": "RSSA 166"
+      },
+      {
+        "para_id": "799.726",
+        "lang": "de",
+        "refcode": "RSs 135"
+      },
+      {
+        "para_id": "1711.831",
+        "lang": "es",
+        "refcode": "COES 186"
+      },
+      {
+        "para_id": "1917.911",
+        "lang": "pt",
+        "refcode": "CES38 87"
+      },
+      {
+        "para_id": "1724.815",
+        "lang": "pt",
+        "refcode": "CES 166"
+      },
+      {
+        "para_id": "2719.791",
+        "lang": "ro",
+        "refcode": "SSS 166"
+      },
+      {
+        "para_id": "1873.766",
+        "lang": "ru",
+        "refcode": "ССШ 166"
+      }
+    ]
+  },
+  {
+    "para_id": "21.773",
+    "id_prev": "21.772",
+    "id_next": "21.776",
+    "refcode_1": "CSW",
+    "refcode_2": "166",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 166.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 166.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Many try to do too much, and fail to encourage their teachers and students to do what they can. They need great simplicity and religious earnestness. They make long, dry speeches in the Sabbath school and the teachers&rsquo; meeting, thus wearying the minds of both teachers and students. Such remarks are greatly out of place. They do not adapt their instruction to the real wants of the school, and they fail to draw hearts to them, for their own hearts are not full of spiritual sympathy. They do not realize that <span class=\"page-break\" data-page=\"167\"></span> by their long, tedious talks they are killing the interest in, and love for, the school....",
+    "puborder": 488,
+    "translations": [
+      {
+        "para_id": "11629.752",
+        "lang": "da",
+        "refcode": "RSSA 166.2"
+      },
+      {
+        "para_id": "799.727",
+        "lang": "de",
+        "refcode": "RSs 135.2"
+      },
+      {
+        "para_id": "1711.832",
+        "lang": "es",
+        "refcode": "COES 186.2"
+      },
+      {
+        "para_id": "1917.914",
+        "lang": "pt",
+        "refcode": "CES38 87.4"
+      },
+      {
+        "para_id": "1724.816",
+        "lang": "pt",
+        "refcode": "CES 166.2"
+      },
+      {
+        "para_id": "1917.912",
+        "lang": "pt",
+        "refcode": "CES38 87.3"
+      },
+      {
+        "para_id": "2719.792",
+        "lang": "ro",
+        "refcode": "SSS 166.2"
+      },
+      {
+        "para_id": "1873.767",
+        "lang": "ru",
+        "refcode": "ССШ 166.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.776",
+    "id_prev": "21.773",
+    "id_next": "21.777",
+    "refcode_1": "CSW",
+    "refcode_2": "167",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 167.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 167.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When the hearts of the workers are brought into sympathy with Christ, when he abides in them by living faith, they will not talk one half as long, nor manifest one half the smartness, that some do now; but what they say in love and simplicity will reach the heart, and they will be brought in close sympathy with teachers, scholars, and church members.",
+    "puborder": 489,
+    "translations": [
+      {
+        "para_id": "11629.755",
+        "lang": "da",
+        "refcode": "RSSA 167.1"
+      },
+      {
+        "para_id": "799.728",
+        "lang": "de",
+        "refcode": "RSs 135.3"
+      },
+      {
+        "para_id": "1711.834",
+        "lang": "es",
+        "refcode": "COES 187.1"
+      },
+      {
+        "para_id": "1917.915",
+        "lang": "pt",
+        "refcode": "CES38 87.5"
+      },
+      {
+        "para_id": "1724.819",
+        "lang": "pt",
+        "refcode": "CES 167.1"
+      },
+      {
+        "para_id": "2719.795",
+        "lang": "ro",
+        "refcode": "SSS 167.1"
+      },
+      {
+        "para_id": "1873.770",
+        "lang": "ru",
+        "refcode": "ССШ 167.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.777",
+    "id_prev": "21.776",
+    "id_next": "21.778",
+    "refcode_1": "CSW",
+    "refcode_2": "167",
+    "refcode_3": "",
+    "refcode_4": "46",
+    "refcode_short": "CSW 167",
+    "refcode_long": "Counsels on Sabbath School Work, p. 167 (Ellen Gould White)",
+    "element_type": "h5",
+    "element_subtype": "",
+    "content": "Power in Simplicity",
+    "puborder": 490,
+    "translations": [
+      {
+        "para_id": "11629.756",
+        "lang": "da",
+        "refcode": "RSSA 167"
+      },
+      {
+        "para_id": "799.730",
+        "lang": "de",
+        "refcode": "RSs 136"
+      },
+      {
+        "para_id": "1711.835",
+        "lang": "es",
+        "refcode": "COES 187"
+      },
+      {
+        "para_id": "1917.916",
+        "lang": "pt",
+        "refcode": "CES38 87"
+      },
+      {
+        "para_id": "1724.820",
+        "lang": "pt",
+        "refcode": "CES 167"
+      },
+      {
+        "para_id": "2719.796",
+        "lang": "ro",
+        "refcode": "SSS 167"
+      },
+      {
+        "para_id": "1873.771",
+        "lang": "ru",
+        "refcode": "ССШ 167"
+      }
+    ]
+  },
+  {
+    "para_id": "21.778",
+    "id_prev": "21.777",
+    "id_next": "21.781",
+    "refcode_1": "CSW",
+    "refcode_2": "167",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 167.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 167.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "A true educator will carry the minds of his hearers with him. His words will be few but earnest. Coming from the heart, they will be full of sympathy, and warm with the love for precious souls. His educational advantages may have been limited, and he may have but little natural ability, but a love for the work and a willingness to labor in humility will enable him to awaken a deep interest in both teachers and scholars. The hearts of the young will be drawn to him. His work will not be a mere form. He may have the ability to draw out from both teachers and students precious gems of spiritual and intellectual truths, and thus, while educating others, he will be educated himself. The scholars are not awed by his display of profound knowledge, and in simple language they tell what impression the lesson has made upon their minds. The result is a deep and living interest in the school. Through the simplicity of the gospel of Christ, he has reached them where they are. <span class=\"page-break\" data-page=\"168\"></span> Their hearts are melted, and now he can mold them into the image of his Master.",
+    "puborder": 491,
+    "translations": [
+      {
+        "para_id": "11629.757",
+        "lang": "da",
+        "refcode": "RSSA 167.2"
+      },
+      {
+        "para_id": "799.731",
+        "lang": "de",
+        "refcode": "RSs 136.1"
+      },
+      {
+        "para_id": "1711.836",
+        "lang": "es",
+        "refcode": "COES 187.2"
+      },
+      {
+        "para_id": "1724.821",
+        "lang": "pt",
+        "refcode": "CES 167.2"
+      },
+      {
+        "para_id": "1917.917",
+        "lang": "pt",
+        "refcode": "CES38 87.6"
+      },
+      {
+        "para_id": "2719.797",
+        "lang": "ro",
+        "refcode": "SSS 167.2"
+      },
+      {
+        "para_id": "1873.772",
+        "lang": "ru",
+        "refcode": "ССШ 167.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.781",
+    "id_prev": "21.778",
+    "id_next": "21.782",
+    "refcode_1": "CSW",
+    "refcode_2": "168",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 168.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 168.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "A keen, sharp intellect may be an advantage, but the power of the educator is in his heart connection with the Light and Life of the world. He will love humanity and ever seek to bring it to a higher level. He will not always be blaming others, but his heart will be filled with pity. He will not be great in his own estimation, neither will he seek constantly to bolster up and strengthen his own dignity; but the humility of Jesus will be personified in his life. He will feel the truth of the words of Christ, &ldquo;Without Me ye can do nothing.&rdquo; Such teachers as these are greatly needed. God will work with them. &ldquo;Learn of Me,&rdquo; says Christ, &ldquo;for I am meek and lowly in heart.&rdquo; Many who are engaged in the Sabbath school work need divine enlightenment. They lack spiritual insight to enable them to apprehend the wants of those for whom they are laboring....",
+    "puborder": 492,
+    "translations": [
+      {
+        "para_id": "11629.760",
+        "lang": "da",
+        "refcode": "RSSA 168.1"
+      },
+      {
+        "para_id": "799.732",
+        "lang": "de",
+        "refcode": "RSs 136.2"
+      },
+      {
+        "para_id": "1711.839",
+        "lang": "es",
+        "refcode": "COES 188.1"
+      },
+      {
+        "para_id": "1917.922",
+        "lang": "pt",
+        "refcode": "CES38 88.2"
+      },
+      {
+        "para_id": "1724.824",
+        "lang": "pt",
+        "refcode": "CES 168.1"
+      },
+      {
+        "para_id": "2719.800",
+        "lang": "ro",
+        "refcode": "SSS 168.1"
+      },
+      {
+        "para_id": "1873.775",
+        "lang": "ru",
+        "refcode": "ССШ 168.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.782",
+    "id_prev": "21.781",
+    "id_next": "21.783",
+    "refcode_1": "CSW",
+    "refcode_2": "168",
+    "refcode_3": "",
+    "refcode_4": "47",
+    "refcode_short": "CSW 168",
+    "refcode_long": "Counsels on Sabbath School Work, p. 168 (Ellen Gould White)",
+    "element_type": "h5",
+    "element_subtype": "",
+    "content": "Criticism and Sharpness to Be Avoided",
+    "puborder": 493,
+    "translations": [
+      {
+        "para_id": "11629.761",
+        "lang": "da",
+        "refcode": "RSSA 168"
+      },
+      {
+        "para_id": "799.734",
+        "lang": "de",
+        "refcode": "RSs 137"
+      },
+      {
+        "para_id": "1711.840",
+        "lang": "es",
+        "refcode": "COES 188"
+      },
+      {
+        "para_id": "1724.825",
+        "lang": "pt",
+        "refcode": "CES 168"
+      },
+      {
+        "para_id": "1917.923",
+        "lang": "pt",
+        "refcode": "CES38 88"
+      },
+      {
+        "para_id": "2719.801",
+        "lang": "ro",
+        "refcode": "SSS 168"
+      },
+      {
+        "para_id": "1873.776",
+        "lang": "ru",
+        "refcode": "ССШ 168"
+      }
+    ]
+  },
+  {
+    "para_id": "21.783",
+    "id_prev": "21.782",
+    "id_next": "21.786",
+    "refcode_1": "CSW",
+    "refcode_2": "168",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 168.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 168.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Superintendents, never scold nor complain before your teachers or scholars. If you wish to influence the school for good, put away the whip, and exert a heaven-inspiring influence, which will carry the minds of all with you. In making plans and regulations for the school, let them represent, as nearly as possible, the voice of the school. In some schools there is a sharp, critical spirit. Much is made of forms and rules, while the weightier matters, mercy and the love <span class=\"page-break\" data-page=\"169\"></span> of God, are neglected. Let all be cheerful. If any have clouds encompassing their souls, let them work out into the sunlight before they enter the Sabbath school. A mother who is constantly relating her discouragements, and complaining to her children of their lack of appreciation, cannot have proper control of them. So will it be with you, teachers and superintendents. If you see a lack in this respect, do not lessen your influence by speaking of it; but in a quiet way set influences to work that will correct the evil. Plan, study how to secure a well-organized, well-disciplined school.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 16.1\" data-link=\"121.52\"><em>Testimonies on Sabbath-School Work</em>, 16-19</span>.",
+    "puborder": 494,
+    "translations": [
+      {
+        "para_id": "11629.762",
+        "lang": "da",
+        "refcode": "RSSA 168.2"
+      },
+      {
+        "para_id": "799.735",
+        "lang": "de",
+        "refcode": "RSs 137.1"
+      },
+      {
+        "para_id": "1711.841",
+        "lang": "es",
+        "refcode": "COES 188.2"
+      },
+      {
+        "para_id": "1724.826",
+        "lang": "pt",
+        "refcode": "CES 168.2"
+      },
+      {
+        "para_id": "1917.924",
+        "lang": "pt",
+        "refcode": "CES38 88.3"
+      },
+      {
+        "para_id": "2719.802",
+        "lang": "ro",
+        "refcode": "SSS 168.2"
+      },
+      {
+        "para_id": "1873.777",
+        "lang": "ru",
+        "refcode": "ССШ 168.2"
+      }
+    ]
+  }
+]

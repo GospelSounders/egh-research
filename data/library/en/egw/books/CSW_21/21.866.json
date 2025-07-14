@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.866",
+    "id_prev": "21.865",
+    "id_next": "21.867",
+    "refcode_1": "CSW",
+    "refcode_2": "185",
+    "refcode_3": "",
+    "refcode_4": "144",
+    "refcode_short": "CSW 185",
+    "refcode_long": "Counsels on Sabbath School Work, p. 185 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Local Institutes Suggested",
+    "puborder": 548,
+    "translations": [
+      {
+        "para_id": "11629.849",
+        "lang": "da",
+        "refcode": "RSSA 185"
+      },
+      {
+        "para_id": "799.810",
+        "lang": "de",
+        "refcode": "RSs 149"
+      },
+      {
+        "para_id": "1711.930",
+        "lang": "es",
+        "refcode": "COES 207"
+      },
+      {
+        "para_id": "1724.909",
+        "lang": "pt",
+        "refcode": "CES 185"
+      },
+      {
+        "para_id": "1917.1021",
+        "lang": "pt",
+        "refcode": "CES38 98"
+      },
+      {
+        "para_id": "2719.885",
+        "lang": "ro",
+        "refcode": "SSS 185"
+      },
+      {
+        "para_id": "1873.860",
+        "lang": "ru",
+        "refcode": "ССШ 185"
+      }
+    ]
+  },
+  {
+    "para_id": "21.867",
+    "id_prev": "21.866",
+    "id_next": "21.868",
+    "refcode_1": "CSW",
+    "refcode_2": "185",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 185.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 185.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Instruction in regard to conducting the Sabbath school should, to a large degree, be given in the home churches; for the labor can be made more direct and the results will be more permanent if instruction is given at home. This work does not require the services of the ministers; they should be free to attend to the spiritual interests of the people. They are to teach others what to do. They must instruct the people as to how to come to the Lord and how to lead others to Him.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 113.1\" data-link=\"121.460\"><em>Testimonies on Sabbath-School Work</em>, 113, 114</span>.",
+    "puborder": 549,
+    "translations": [
+      {
+        "para_id": "11629.850",
+        "lang": "da",
+        "refcode": "RSSA 185.2"
+      },
+      {
+        "para_id": "799.811",
+        "lang": "de",
+        "refcode": "RSs 149.3"
+      },
+      {
+        "para_id": "1711.931",
+        "lang": "es",
+        "refcode": "COES 207.2"
+      },
+      {
+        "para_id": "1724.910",
+        "lang": "pt",
+        "refcode": "CES 185.2"
+      },
+      {
+        "para_id": "1917.1022",
+        "lang": "pt",
+        "refcode": "CES38 98.2"
+      },
+      {
+        "para_id": "2719.886",
+        "lang": "ro",
+        "refcode": "SSS 185.2"
+      },
+      {
+        "para_id": "1873.861",
+        "lang": "ru",
+        "refcode": "ССШ 185.2"
+      }
+    ]
+  }
+]

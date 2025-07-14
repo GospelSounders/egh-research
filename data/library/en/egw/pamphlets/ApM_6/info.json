@@ -1,0 +1,35 @@
+{
+  "book_id": 6,
+  "code": "ApM",
+  "lang": "en",
+  "type": "book",
+  "subtype": "",
+  "title": "An Appeal to Mothers",
+  "first_para": "6.2",
+  "author": "Ellen Gould White",
+  "description": "This book was the first Ellen G. White writing in the field of health after the vision of June 6, 1863. It depicts the perils of secret vice. It was reprinted by James White in 1870 in the book, A Solemn Appeal Relative to Solitary Vice and the Abuses and Excesses of the Marriage Relation. It is also paralleled in the Testimonies, and was drawn from heavily for Child Guidance in the section “Preserving Moral Integrity.”",
+  "npages": 63,
+  "isbn": "978-1-61253-006-2",
+  "publisher": "Battle Creek, MI: Seventh-day Adventist Publishing Association",
+  "pub_year": "1864",
+  "buy_link": null,
+  "folder_id": 4,
+  "cover": {
+    "small": "/covers/6_s.jpg",
+    "large": "/covers/6_r.jpg"
+  },
+  "files": {
+    "mp3": "/mp3/6/en_ApM.zip",
+    "pdf": "/pdf/en_ApM.pdf",
+    "epub": "/epub/en_ApM.epub",
+    "mobi": "/mobi/en_ApM.mobi"
+  },
+  "permission_required": "public",
+  "sort": 3000004,
+  "is_audiobook": true,
+  "cite": "White, E. G. (1864) An Appeal to Mothers. Battle Creek, MI: Seventh-day Adventist Publishing Association.",
+  "translated_into": [
+    "ru",
+    "zh"
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.616",
+    "id_prev": "21.615",
+    "id_next": "21.617",
+    "refcode_1": "CSW",
+    "refcode_2": "133",
+    "refcode_3": "",
+    "refcode_4": "96",
+    "refcode_short": "CSW 133",
+    "refcode_long": "Counsels on Sabbath School Work, p. 133 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Do Not Plead for Retrenchment",
+    "puborder": 386,
+    "translations": [
+      {
+        "para_id": "11629.590",
+        "lang": "da",
+        "refcode": "RSSA 133"
+      },
+      {
+        "para_id": "799.585",
+        "lang": "de",
+        "refcode": "RSs 111"
+      },
+      {
+        "para_id": "1711.663",
+        "lang": "es",
+        "refcode": "COES 150"
+      },
+      {
+        "para_id": "1917.724",
+        "lang": "pt",
+        "refcode": "CES38 69"
+      },
+      {
+        "para_id": "1724.654",
+        "lang": "pt",
+        "refcode": "CES 133"
+      },
+      {
+        "para_id": "2719.633",
+        "lang": "ro",
+        "refcode": "SSS 133"
+      },
+      {
+        "para_id": "1873.611",
+        "lang": "ru",
+        "refcode": "ССШ 133"
+      }
+    ]
+  },
+  {
+    "para_id": "21.617",
+    "id_prev": "21.616",
+    "id_next": "21.620",
+    "refcode_1": "CSW",
+    "refcode_2": "133",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 133.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 133.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "From every church, prayers should ascend to God for an increase of devotion and liberality. My brethren and sisters, do not plead for retrenchment in evangelical work. So long as there are souls to save, <span class=\"page-break\" data-page=\"134\"></span> our interest in the work of soulsaving is to know no abating. The church cannot abridge her task without denying her Master. Not all can go as missionaries to foreign lands, but all can give of their means for the carrying forward of foreign missions.&mdash;<span class=\"egwlink egwlink_book\" title=\"9T 55.1\" data-link=\"115.293\"><em>Testimonies for the Church</em> 9:55, 56</span>.",
+    "puborder": 387,
+    "translations": [
+      {
+        "para_id": "11629.591",
+        "lang": "da",
+        "refcode": "RSSA 133.3"
+      },
+      {
+        "para_id": "799.586",
+        "lang": "de",
+        "refcode": "RSs 111.2"
+      },
+      {
+        "para_id": "1711.664",
+        "lang": "es",
+        "refcode": "COES 150.2"
+      },
+      {
+        "para_id": "1724.655",
+        "lang": "pt",
+        "refcode": "CES 133.3"
+      },
+      {
+        "para_id": "1917.725",
+        "lang": "pt",
+        "refcode": "CES38 69.4"
+      },
+      {
+        "para_id": "2719.634",
+        "lang": "ro",
+        "refcode": "SSS 133.3"
+      },
+      {
+        "para_id": "1873.612",
+        "lang": "ru",
+        "refcode": "ССШ 133.3"
+      }
+    ]
+  }
+]

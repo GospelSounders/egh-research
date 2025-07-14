@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.48",
+    "id_prev": "21.47",
+    "id_next": "21.49",
+    "refcode_1": "CSW",
+    "refcode_2": "13",
+    "refcode_3": "",
+    "refcode_4": "10",
+    "refcode_short": "CSW 13",
+    "refcode_long": "Counsels on Sabbath School Work, p. 13 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "An Abundant Reward",
+    "puborder": 31,
+    "translations": [
+      {
+        "para_id": "11629.29",
+        "lang": "da",
+        "refcode": "RSSA 13"
+      },
+      {
+        "para_id": "799.68",
+        "lang": "de",
+        "refcode": "RSs 17"
+      },
+      {
+        "para_id": "1711.64",
+        "lang": "es",
+        "refcode": "COES 14"
+      },
+      {
+        "para_id": "1917.45",
+        "lang": "pt",
+        "refcode": "CES38 4"
+      },
+      {
+        "para_id": "1724.74",
+        "lang": "pt",
+        "refcode": "CES 13"
+      },
+      {
+        "para_id": "2719.47",
+        "lang": "ro",
+        "refcode": "SSS 13"
+      },
+      {
+        "para_id": "1873.46",
+        "lang": "ru",
+        "refcode": "ССШ 13"
+      }
+    ]
+  },
+  {
+    "para_id": "21.49",
+    "id_prev": "21.48",
+    "id_next": "21.55",
+    "refcode_1": "CSW",
+    "refcode_2": "13",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 13.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 13.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "No one can labor in the Sabbath school or in the temperance work without reaping a bountiful harvest, <span class=\"page-break\" data-page=\"14\"></span> not only in the end of the world, but in the present life. In the very effort to enlighten and bless others, his own views will become clearer and broader. The more we endeavor to explain the truth to others, with a love for souls, the plainer will it become to ourselves. It ever opens with new beauty and force to the understanding of the expounder,&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 108.1\" data-link=\"121.434\"><em>Testimonies on Sabbath-School Work</em>, 108</span>.",
+    "puborder": 32,
+    "translations": [
+      {
+        "para_id": "11629.30",
+        "lang": "da",
+        "refcode": "RSSA 13.1"
+      },
+      {
+        "para_id": "799.69",
+        "lang": "de",
+        "refcode": "RSs 17.2"
+      },
+      {
+        "para_id": "1711.65",
+        "lang": "es",
+        "refcode": "COES 14.1"
+      },
+      {
+        "para_id": "1917.46",
+        "lang": "pt",
+        "refcode": "CES38 4.5"
+      },
+      {
+        "para_id": "1724.75",
+        "lang": "pt",
+        "refcode": "CES 13.3"
+      },
+      {
+        "para_id": "2719.48",
+        "lang": "ro",
+        "refcode": "SSS 13.3"
+      },
+      {
+        "para_id": "1873.47",
+        "lang": "ru",
+        "refcode": "ССШ 13.3"
+      }
+    ]
+  }
+]

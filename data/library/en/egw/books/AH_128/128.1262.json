@@ -1,0 +1,824 @@
+[
+  {
+    "para_id": "128.1262",
+    "id_prev": "128.1257",
+    "id_next": "128.1264",
+    "refcode_1": "AH",
+    "refcode_2": "277",
+    "refcode_3": "",
+    "refcode_4": "11",
+    "refcode_short": "AH 277",
+    "refcode_long": "The Adventist Home, p. 277 (Ellen Gould White)",
+    "element_type": "h2",
+    "element_subtype": "",
+    "content": "Section 11&mdash;Children&mdash;The Junior Partners",
+    "puborder": 831,
+    "translations": [
+      {
+        "para_id": "13839.1016",
+        "lang": "bg",
+        "refcode": "ХД 116"
+      },
+      {
+        "para_id": "177.1290",
+        "lang": "es",
+        "refcode": "HC 252"
+      },
+      {
+        "para_id": "193.1243",
+        "lang": "fr",
+        "refcode": "FC 267"
+      },
+      {
+        "para_id": "12869.1547",
+        "lang": "id",
+        "refcode": "MKB 266"
+      },
+      {
+        "para_id": "891.835",
+        "lang": "it",
+        "refcode": "FC 118"
+      },
+      {
+        "para_id": "12178.1062",
+        "lang": "pl",
+        "refcode": "ChD 173"
+      },
+      {
+        "para_id": "1955.1625",
+        "lang": "pt",
+        "refcode": "LA 279"
+      },
+      {
+        "para_id": "2026.1257",
+        "lang": "ro",
+        "refcode": "CA 279"
+      },
+      {
+        "para_id": "1803.1218",
+        "lang": "ru",
+        "refcode": "ХД 278"
+      },
+      {
+        "para_id": "12131.1131",
+        "lang": "uk",
+        "refcode": "ХР 223"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1264",
+    "id_prev": "128.1262",
+    "id_next": "128.1265",
+    "refcode_1": "AH",
+    "refcode_2": "279",
+    "refcode_3": "",
+    "refcode_4": "48",
+    "refcode_short": "AH 279",
+    "refcode_long": "The Adventist Home, p. 279 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 48&mdash;Heaven&apos;s Estimate of Children",
+    "puborder": 832,
+    "translations": [
+      {
+        "para_id": "13839.1017",
+        "lang": "bg",
+        "refcode": "ХД 116"
+      },
+      {
+        "para_id": "792.672",
+        "lang": "de",
+        "refcode": "GFH 103"
+      },
+      {
+        "para_id": "177.1291",
+        "lang": "es",
+        "refcode": "HC 252"
+      },
+      {
+        "para_id": "193.1246",
+        "lang": "fr",
+        "refcode": "FC 269"
+      },
+      {
+        "para_id": "12869.1549",
+        "lang": "id",
+        "refcode": "MKB 267"
+      },
+      {
+        "para_id": "891.836",
+        "lang": "it",
+        "refcode": "FC 118"
+      },
+      {
+        "para_id": "12178.1063",
+        "lang": "pl",
+        "refcode": "ChD 173"
+      },
+      {
+        "para_id": "1955.1626",
+        "lang": "pt",
+        "refcode": "LA 279"
+      },
+      {
+        "para_id": "2026.1258",
+        "lang": "ro",
+        "refcode": "CA 279"
+      },
+      {
+        "para_id": "1803.1220",
+        "lang": "ru",
+        "refcode": "ХД 279"
+      },
+      {
+        "para_id": "12131.1133",
+        "lang": "uk",
+        "refcode": "ХР 224"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1265",
+    "id_prev": "128.1264",
+    "id_next": "128.1266",
+    "refcode_1": "AH",
+    "refcode_2": "279",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 279.1",
+    "refcode_long": "The Adventist Home, p. 279.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>Children Are the Purchase of Christ&apos;s Blood</strong>&mdash;Christ placed such a high estimate upon your children that He gave His life for them. Treat them as the purchase of His blood. Patiently and firmly train them for Him. Discipline with love and forbearance. As you do this, they will become a crown of rejoicing to you and will shine as lights in the world.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">1<span class=\"chapterendnote\"><span class=\"nol-ink\" title=\"ST 4-3-1901\">The Signs of the Times, April 3, 1901</span> (<span class=\"egwlink egwlink_book\" title=\"RH 3-7-1907\" data-link=\"821.27702\">The Review and Herald, March 7, 1907</span>).</span></a></sup>",
+    "puborder": 833,
+    "translations": [
+      {
+        "para_id": "13839.1018",
+        "lang": "bg",
+        "refcode": "ХД 116.2"
+      },
+      {
+        "para_id": "792.674",
+        "lang": "de",
+        "refcode": "GFH 103.1"
+      },
+      {
+        "para_id": "792.673",
+        "lang": "de",
+        "refcode": "GFH 103"
+      },
+      {
+        "para_id": "177.1292",
+        "lang": "es",
+        "refcode": "HC 252.1"
+      },
+      {
+        "para_id": "193.1247",
+        "lang": "fr",
+        "refcode": "FC 269.1"
+      },
+      {
+        "para_id": "12869.1551",
+        "lang": "id",
+        "refcode": "MKB 267.1"
+      },
+      {
+        "para_id": "12178.1064",
+        "lang": "pl",
+        "refcode": "ChD 173.1"
+      },
+      {
+        "para_id": "1955.1628",
+        "lang": "pt",
+        "refcode": "LA 279.1"
+      },
+      {
+        "para_id": "1955.1627",
+        "lang": "pt",
+        "refcode": "LA 279"
+      },
+      {
+        "para_id": "2026.1259",
+        "lang": "ro",
+        "refcode": "CA 279.1"
+      },
+      {
+        "para_id": "1803.1221",
+        "lang": "ru",
+        "refcode": "ХД 279.1"
+      },
+      {
+        "para_id": "12131.1134",
+        "lang": "uk",
+        "refcode": "ХР 224.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1266",
+    "id_prev": "128.1265",
+    "id_next": "128.1267",
+    "refcode_1": "AH",
+    "refcode_2": "279",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 279.2",
+    "refcode_long": "The Adventist Home, p. 279.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The youngest child that loves and fears God is greater in His sight than the most talented and learned man who neglects the great salvation. The youth who consecrate their hearts and lives to God have, in so doing, placed themselves in connection with the Fountain of all wisdom and excellence.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">2<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"MYP 329.1\" data-link=\"76.1690\">Messages to Young People, 329</span>.</span></a></sup>",
+    "puborder": 834,
+    "translations": [
+      {
+        "para_id": "13839.1019",
+        "lang": "bg",
+        "refcode": "ХД 116.3"
+      },
+      {
+        "para_id": "792.675",
+        "lang": "de",
+        "refcode": "GFH 103.2"
+      },
+      {
+        "para_id": "177.1293",
+        "lang": "es",
+        "refcode": "HC 252.2"
+      },
+      {
+        "para_id": "193.1248",
+        "lang": "fr",
+        "refcode": "FC 269.2"
+      },
+      {
+        "para_id": "12869.1552",
+        "lang": "id",
+        "refcode": "MKB 267.2"
+      },
+      {
+        "para_id": "12178.1065",
+        "lang": "pl",
+        "refcode": "ChD 173.2"
+      },
+      {
+        "para_id": "1955.1629",
+        "lang": "pt",
+        "refcode": "LA 279.2"
+      },
+      {
+        "para_id": "2026.1260",
+        "lang": "ro",
+        "refcode": "CA 279.2"
+      },
+      {
+        "para_id": "1803.1222",
+        "lang": "ru",
+        "refcode": "ХД 279.2"
+      },
+      {
+        "para_id": "12131.1135",
+        "lang": "uk",
+        "refcode": "ХР 224.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1267",
+    "id_prev": "128.1266",
+    "id_next": "128.1268",
+    "refcode_1": "AH",
+    "refcode_2": "279",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 279.3",
+    "refcode_long": "The Adventist Home, p. 279.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>&ldquo;Of Such Is the Kingdom of Heaven.&rdquo;</strong>&mdash;The soul of the little child that believes in Christ is as precious in His sight as are the angels about His throne. They are to be brought to Christ and trained for Christ. They are to be guided in the path of obedience, not indulged in appetite or vanity.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">3<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"RH 3-30-1897\" data-link=\"821.15771\">The Review and Herald, March 30, 1897</span>.</span></a></sup>",
+    "puborder": 835,
+    "translations": [
+      {
+        "para_id": "13839.1020",
+        "lang": "bg",
+        "refcode": "ХД 116.4"
+      },
+      {
+        "para_id": "792.676",
+        "lang": "de",
+        "refcode": "GFH 103"
+      },
+      {
+        "para_id": "792.677",
+        "lang": "de",
+        "refcode": "GFH 103.3"
+      },
+      {
+        "para_id": "177.1294",
+        "lang": "es",
+        "refcode": "HC 252.3"
+      },
+      {
+        "para_id": "193.1249",
+        "lang": "fr",
+        "refcode": "FC 269.3"
+      },
+      {
+        "para_id": "12869.1556",
+        "lang": "id",
+        "refcode": "MKB 268.1"
+      },
+      {
+        "para_id": "891.837",
+        "lang": "it",
+        "refcode": "FC 118"
+      },
+      {
+        "para_id": "891.838",
+        "lang": "it",
+        "refcode": "FC 118.1"
+      },
+      {
+        "para_id": "12178.1066",
+        "lang": "pl",
+        "refcode": "ChD 173.3"
+      },
+      {
+        "para_id": "1955.1631",
+        "lang": "pt",
+        "refcode": "LA 279.3"
+      },
+      {
+        "para_id": "1955.1630",
+        "lang": "pt",
+        "refcode": "LA 279"
+      },
+      {
+        "para_id": "2026.1261",
+        "lang": "ro",
+        "refcode": "CA 279.3"
+      },
+      {
+        "para_id": "1803.1223",
+        "lang": "ru",
+        "refcode": "ХД 279.3"
+      },
+      {
+        "para_id": "12131.1136",
+        "lang": "uk",
+        "refcode": "ХР 224.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1268",
+    "id_prev": "128.1267",
+    "id_next": "128.1271",
+    "refcode_1": "AH",
+    "refcode_2": "279",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 279.4",
+    "refcode_long": "The Adventist Home, p. 279.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "If we would but learn the wonderful lessons which Jesus sought to teach His disciples from a little child, how many things that now seem insurmountable difficulties would wholly disappear! When the disciples came to Jesus, saying, &ldquo;Who is the greatest in the kingdom of heaven? ... Jesus called a little child unto Him, and set him in the midst of them, and said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">4<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ms 13, 1891\" data-link=\"14057.6801001\">Manuscript 13, 1891</span>.</span></a></sup> <span class=\"page-break\" data-page=\"280\"></span> Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.&rdquo;",
+    "puborder": 836,
+    "translations": [
+      {
+        "para_id": "13839.1021",
+        "lang": "bg",
+        "refcode": "ХД 116.5"
+      },
+      {
+        "para_id": "177.1295",
+        "lang": "es",
+        "refcode": "HC 252.4"
+      },
+      {
+        "para_id": "193.1250",
+        "lang": "fr",
+        "refcode": "FC 269.4"
+      },
+      {
+        "para_id": "12869.1557",
+        "lang": "id",
+        "refcode": "MKB 268.2"
+      },
+      {
+        "para_id": "891.839",
+        "lang": "it",
+        "refcode": "FC 118.2"
+      },
+      {
+        "para_id": "12178.1067",
+        "lang": "pl",
+        "refcode": "ChD 173.4"
+      },
+      {
+        "para_id": "1955.1632",
+        "lang": "pt",
+        "refcode": "LA 279.4"
+      },
+      {
+        "para_id": "2026.1262",
+        "lang": "ro",
+        "refcode": "CA 279.4"
+      },
+      {
+        "para_id": "1803.1224",
+        "lang": "ru",
+        "refcode": "ХД 279.4"
+      },
+      {
+        "para_id": "12131.1137",
+        "lang": "uk",
+        "refcode": "ХР 224.4"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1271",
+    "id_prev": "128.1268",
+    "id_next": "128.1272",
+    "refcode_1": "AH",
+    "refcode_2": "280",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 280.1",
+    "refcode_long": "The Adventist Home, p. 280.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>God&apos;s Property Entrusted to Parents</strong>&mdash;Children derive life and being from their parents, and yet it is through the creative power of God that your children have life, for God is the Life-giver. Let it be remembered that children are not to be treated as though they were our own personal property. Children are the heritage of the Lord, and the plan of redemption includes their salvation as well as ours. They have been entrusted to parents in order that they might be brought up in the nurture and admonition of the Lord, that they might be qualified to do their work in time and eternity.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">5<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 9-10-1894\" data-link=\"820.12414\">The Signs of the Times, September 10, 1894</span>.</span></a></sup>",
+    "puborder": 837,
+    "translations": [
+      {
+        "para_id": "13839.1022",
+        "lang": "bg",
+        "refcode": "ХД 116.6"
+      },
+      {
+        "para_id": "792.679",
+        "lang": "de",
+        "refcode": "GFH 103.4"
+      },
+      {
+        "para_id": "792.678",
+        "lang": "de",
+        "refcode": "GFH 103"
+      },
+      {
+        "para_id": "177.1298",
+        "lang": "es",
+        "refcode": "HC 253.1"
+      },
+      {
+        "para_id": "193.1253",
+        "lang": "fr",
+        "refcode": "FC 270.1"
+      },
+      {
+        "para_id": "12869.1559",
+        "lang": "id",
+        "refcode": "MKB 268.3"
+      },
+      {
+        "para_id": "891.840",
+        "lang": "it",
+        "refcode": "FC 118"
+      },
+      {
+        "para_id": "891.841",
+        "lang": "it",
+        "refcode": "FC 118.3"
+      },
+      {
+        "para_id": "12178.1069",
+        "lang": "pl",
+        "refcode": "ChD 174.1"
+      },
+      {
+        "para_id": "1955.1635",
+        "lang": "pt",
+        "refcode": "LA 280"
+      },
+      {
+        "para_id": "1955.1636",
+        "lang": "pt",
+        "refcode": "LA 280.1"
+      },
+      {
+        "para_id": "2026.1265",
+        "lang": "ro",
+        "refcode": "CA 280.1"
+      },
+      {
+        "para_id": "1803.1227",
+        "lang": "ru",
+        "refcode": "ХД 280.1"
+      },
+      {
+        "para_id": "12131.1138",
+        "lang": "uk",
+        "refcode": "ХР 224.5"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1272",
+    "id_prev": "128.1271",
+    "id_next": "128.1273",
+    "refcode_1": "AH",
+    "refcode_2": "280",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AH 280.2",
+    "refcode_long": "The Adventist Home, p. 280.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Mothers, deal gently with your little ones. Christ was once a little child. For His sake honor the children. Look upon them as a sacred charge, not to be indulged, petted, and idolized, but to be taught to live pure, noble lives. They are God&apos;s property; He loves them, and calls upon you to co-operate with Him in helping them to form perfect characters.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">6<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"ST 8-23-1899\" data-link=\"820.16042\">The Signs of the Times, August 23, 1899</span>.</span></a></sup>",
+    "puborder": 838,
+    "translations": [
+      {
+        "para_id": "13839.1025",
+        "lang": "bg",
+        "refcode": "ХД 117.1"
+      },
+      {
+        "para_id": "792.680",
+        "lang": "de",
+        "refcode": "GFH 103.5"
+      },
+      {
+        "para_id": "177.1299",
+        "lang": "es",
+        "refcode": "HC 253.2"
+      },
+      {
+        "para_id": "193.1254",
+        "lang": "fr",
+        "refcode": "FC 270.2"
+      },
+      {
+        "para_id": "12869.1560",
+        "lang": "id",
+        "refcode": "MKB 268.4"
+      },
+      {
+        "para_id": "891.842",
+        "lang": "it",
+        "refcode": "FC 118.4"
+      },
+      {
+        "para_id": "12178.1070",
+        "lang": "pl",
+        "refcode": "ChD 174.2"
+      },
+      {
+        "para_id": "1955.1637",
+        "lang": "pt",
+        "refcode": "LA 280.2"
+      },
+      {
+        "para_id": "2026.1266",
+        "lang": "ro",
+        "refcode": "CA 280.2"
+      },
+      {
+        "para_id": "1803.1228",
+        "lang": "ru",
+        "refcode": "ХД 280.2"
+      },
+      {
+        "para_id": "12131.1141",
+        "lang": "uk",
+        "refcode": "ХР 225.1"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1273",
+    "id_prev": "128.1272",
+    "id_next": "128.1274",
+    "refcode_1": "AH",
+    "refcode_2": "280",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AH 280.3",
+    "refcode_long": "The Adventist Home, p. 280.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "If you would meet God in peace, feed His flock now with spiritual food; for every child has the possibility of attaining unto eternal life. Children and youth are God&apos;s peculiar treasure.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">7<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Lt 105, 1893\" data-link=\"14058.5121001\">Letter 105, 1893</span>.</span></a></sup>",
+    "puborder": 839,
+    "translations": [
+      {
+        "para_id": "13839.1026",
+        "lang": "bg",
+        "refcode": "ХД 117.2"
+      },
+      {
+        "para_id": "177.1300",
+        "lang": "es",
+        "refcode": "HC 253.3"
+      },
+      {
+        "para_id": "193.1255",
+        "lang": "fr",
+        "refcode": "FC 270.3"
+      },
+      {
+        "para_id": "12869.1562",
+        "lang": "id",
+        "refcode": "MKB 269.1"
+      },
+      {
+        "para_id": "891.843",
+        "lang": "it",
+        "refcode": "FC 118.5"
+      },
+      {
+        "para_id": "12178.1071",
+        "lang": "pl",
+        "refcode": "ChD 174.3"
+      },
+      {
+        "para_id": "1955.1638",
+        "lang": "pt",
+        "refcode": "LA 280.3"
+      },
+      {
+        "para_id": "2026.1267",
+        "lang": "ro",
+        "refcode": "CA 280.3"
+      },
+      {
+        "para_id": "1803.1229",
+        "lang": "ru",
+        "refcode": "ХД 280.3"
+      },
+      {
+        "para_id": "12131.1142",
+        "lang": "uk",
+        "refcode": "ХР 225.2"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1274",
+    "id_prev": "128.1273",
+    "id_next": "128.1276",
+    "refcode_1": "AH",
+    "refcode_2": "280",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AH 280.4",
+    "refcode_long": "The Adventist Home, p. 280.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The youth need to be impressed with the truth that their endowments are not their own. Strength, time, intellect, are but lent treasures. They belong to God, and it should be the resolve of every youth to put them to the highest use. He is a branch, from which God expects fruit; a steward, whose capital must yield increase; a light, to illuminate the world&apos;s darkness. Every youth, every child, has a work to do for the honor of God and the uplifting of humanity.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">8<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"Ed 57.1\" data-link=\"29.240\">Education, 57, 58</span>.</span></a></sup>",
+    "puborder": 840,
+    "translations": [
+      {
+        "para_id": "13839.1027",
+        "lang": "bg",
+        "refcode": "ХД 117.3"
+      },
+      {
+        "para_id": "792.683",
+        "lang": "de",
+        "refcode": "GFH 104.1"
+      },
+      {
+        "para_id": "177.1301",
+        "lang": "es",
+        "refcode": "HC 253.4"
+      },
+      {
+        "para_id": "193.1256",
+        "lang": "fr",
+        "refcode": "FC 270.4"
+      },
+      {
+        "para_id": "12869.1563",
+        "lang": "id",
+        "refcode": "MKB 269.2"
+      },
+      {
+        "para_id": "891.844",
+        "lang": "it",
+        "refcode": "FC 118.6"
+      },
+      {
+        "para_id": "12178.1072",
+        "lang": "pl",
+        "refcode": "ChD 174.4"
+      },
+      {
+        "para_id": "1955.1639",
+        "lang": "pt",
+        "refcode": "LA 280.4"
+      },
+      {
+        "para_id": "2026.1268",
+        "lang": "ro",
+        "refcode": "CA 280.4"
+      },
+      {
+        "para_id": "1803.1230",
+        "lang": "ru",
+        "refcode": "ХД 280.4"
+      },
+      {
+        "para_id": "12131.1143",
+        "lang": "uk",
+        "refcode": "ХР 225.3"
+      }
+    ]
+  },
+  {
+    "para_id": "128.1276",
+    "id_prev": "128.1274",
+    "id_next": "128.1278",
+    "refcode_1": "AH",
+    "refcode_2": "281",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AH 281.1",
+    "refcode_long": "The Adventist Home, p. 281.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<strong>The Path to Heaven Is Suited to Children&apos;s Capacity</strong>&mdash;I saw that Jesus knows our infirmities and has Himself shared our experience in all things but in sin; therefore He has prepared for us a path suited to our strength and capacity and, like Jacob, has marched softly and in evenness with the children as they were able to endure, that He might entertain us by the comfort of His company and be to us a perpetual guide. He does not despise, neglect, or leave behind the children of the flock. He has not bidden us move forward and leave them. He has not traveled so hastily as to leave us with our children behind. Oh, no; but He has evened the path to life, even for children. And parents are required in His name to lead them along the narrow way. God has appointed us a path suited to the strength and capacity of children.<sup class=\"chapterendnote\"><a class=\"chapterendnote\">9<span class=\"chapterendnote\"><span class=\"egwlink egwlink_book\" title=\"1T 388.1\" data-link=\"116.1850\">Testimonies for the Church 1:388, 389</span>.</span></a></sup>",
+    "puborder": 841,
+    "translations": [
+      {
+        "para_id": "13839.1028",
+        "lang": "bg",
+        "refcode": "ХД 117.4"
+      },
+      {
+        "para_id": "792.684",
+        "lang": "de",
+        "refcode": "GFH 104"
+      },
+      {
+        "para_id": "792.685",
+        "lang": "de",
+        "refcode": "GFH 104.2"
+      },
+      {
+        "para_id": "177.1303",
+        "lang": "es",
+        "refcode": "HC 254.1"
+      },
+      {
+        "para_id": "193.1257",
+        "lang": "fr",
+        "refcode": "FC 270.5"
+      },
+      {
+        "para_id": "12869.1565",
+        "lang": "id",
+        "refcode": "MKB 269.3"
+      },
+      {
+        "para_id": "891.846",
+        "lang": "it",
+        "refcode": "FC 119"
+      },
+      {
+        "para_id": "891.847",
+        "lang": "it",
+        "refcode": "FC 119.1"
+      },
+      {
+        "para_id": "12178.1073",
+        "lang": "pl",
+        "refcode": "ChD 174.5"
+      },
+      {
+        "para_id": "1955.1641",
+        "lang": "pt",
+        "refcode": "LA 281"
+      },
+      {
+        "para_id": "1955.1642",
+        "lang": "pt",
+        "refcode": "LA 281.1"
+      },
+      {
+        "para_id": "2026.1270",
+        "lang": "ro",
+        "refcode": "CA 281.1"
+      },
+      {
+        "para_id": "1803.1232",
+        "lang": "ru",
+        "refcode": "ХД 281.1"
+      },
+      {
+        "para_id": "12131.1144",
+        "lang": "uk",
+        "refcode": "ХР 225.4"
+      }
+    ]
+  }
+]

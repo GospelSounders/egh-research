@@ -1,0 +1,158 @@
+[
+  {
+    "para_id": "21.447",
+    "id_prev": "21.446",
+    "id_next": "21.448",
+    "refcode_1": "CSW",
+    "refcode_2": "99",
+    "refcode_3": "",
+    "refcode_4": "64",
+    "refcode_short": "CSW 99",
+    "refcode_long": "Counsels on Sabbath School Work, p. 99 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "The Teacher&apos;s Influence",
+    "puborder": 278,
+    "translations": [
+      {
+        "para_id": "11629.421",
+        "lang": "da",
+        "refcode": "RSSA 99"
+      },
+      {
+        "para_id": "799.431",
+        "lang": "de",
+        "refcode": "RSs 84"
+      },
+      {
+        "para_id": "1711.486",
+        "lang": "es",
+        "refcode": "COES 111"
+      },
+      {
+        "para_id": "1917.524",
+        "lang": "pt",
+        "refcode": "CES38 50"
+      },
+      {
+        "para_id": "1724.482",
+        "lang": "pt",
+        "refcode": "CES 99"
+      },
+      {
+        "para_id": "2719.460",
+        "lang": "ro",
+        "refcode": "SSS 99"
+      },
+      {
+        "para_id": "1873.443",
+        "lang": "ru",
+        "refcode": "ССШ 99"
+      }
+    ]
+  },
+  {
+    "para_id": "21.448",
+    "id_prev": "21.447",
+    "id_next": "21.451",
+    "refcode_1": "CSW",
+    "refcode_2": "99",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 99.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 99.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is our own character and experience that determine our influence upon others. In order to convince others of the power of Christ&apos;s grace, we must know <span class=\"page-break\" data-page=\"100\"></span> its power in our own hearts and lives. The gospel we present for the saving of souls must be the gospel by which our own souls are saved. Only through a living faith in Christ as a personal Saviour is it possible to make our influence felt in a skeptical world. If we would draw sinners out of the swift-running current, our own feet must be firmly set upon the Rock, Christ Jesus.",
+    "puborder": 279,
+    "translations": [
+      {
+        "para_id": "11629.422",
+        "lang": "da",
+        "refcode": "RSSA 99.2"
+      },
+      {
+        "para_id": "799.432",
+        "lang": "de",
+        "refcode": "RSs 84.1"
+      },
+      {
+        "para_id": "1711.487",
+        "lang": "es",
+        "refcode": "COES 111.1"
+      },
+      {
+        "para_id": "1724.483",
+        "lang": "pt",
+        "refcode": "CES 99.2"
+      },
+      {
+        "para_id": "1917.525",
+        "lang": "pt",
+        "refcode": "CES38 50.4"
+      },
+      {
+        "para_id": "2719.461",
+        "lang": "ro",
+        "refcode": "SSS 99.2"
+      },
+      {
+        "para_id": "1873.444",
+        "lang": "ru",
+        "refcode": "ССШ 99.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.451",
+    "id_prev": "21.448",
+    "id_next": "21.452",
+    "refcode_1": "CSW",
+    "refcode_2": "100",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 100.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 100.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The badge of Christianity is not an outward sign, not the wearing of a cross or a crown, but it is that which reveals the union of man with God. By the power of His grace manifested in the transformation of character the world is to be convinced that God has sent His Son as its Redeemer. No other influence that can surround the human soul has such power as the influence of an unselfish life. The strongest argument in favor of the gospel is a loving and lovable Christian.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 115.1\" data-link=\"121.473\"><em>Testimonies on Sabbath-School Work</em>, 115, 116</span>.",
+    "puborder": 280,
+    "translations": [
+      {
+        "para_id": "11629.425",
+        "lang": "da",
+        "refcode": "RSSA 100.1"
+      },
+      {
+        "para_id": "799.433",
+        "lang": "de",
+        "refcode": "RSs 84.2"
+      },
+      {
+        "para_id": "1711.488",
+        "lang": "es",
+        "refcode": "COES 111.2"
+      },
+      {
+        "para_id": "1724.486",
+        "lang": "pt",
+        "refcode": "CES 100.1"
+      },
+      {
+        "para_id": "1917.530",
+        "lang": "pt",
+        "refcode": "CES38 51.1"
+      },
+      {
+        "para_id": "2719.464",
+        "lang": "ro",
+        "refcode": "SSS 100.1"
+      },
+      {
+        "para_id": "1873.447",
+        "lang": "ru",
+        "refcode": "ССШ 100.1"
+      }
+    ]
+  }
+]

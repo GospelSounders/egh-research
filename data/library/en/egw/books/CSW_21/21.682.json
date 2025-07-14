@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.682",
+    "id_prev": "21.681",
+    "id_next": "21.683",
+    "refcode_1": "CSW",
+    "refcode_2": "145",
+    "refcode_3": "",
+    "refcode_4": "115",
+    "refcode_short": "CSW 145",
+    "refcode_long": "Counsels on Sabbath School Work, p. 145 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "God&apos;s Part and Ours",
+    "puborder": 431,
+    "translations": [
+      {
+        "para_id": "11629.657",
+        "lang": "da",
+        "refcode": "RSSA 145"
+      },
+      {
+        "para_id": "799.646",
+        "lang": "de",
+        "refcode": "RSs 120"
+      },
+      {
+        "para_id": "1711.731",
+        "lang": "es",
+        "refcode": "COES 163"
+      },
+      {
+        "para_id": "1917.803",
+        "lang": "pt",
+        "refcode": "CES38 77"
+      },
+      {
+        "para_id": "1724.720",
+        "lang": "pt",
+        "refcode": "CES 145"
+      },
+      {
+        "para_id": "2719.699",
+        "lang": "ro",
+        "refcode": "SSS 145"
+      },
+      {
+        "para_id": "1873.676",
+        "lang": "ru",
+        "refcode": "ССШ 145"
+      }
+    ]
+  },
+  {
+    "para_id": "21.683",
+    "id_prev": "21.682",
+    "id_next": "21.685",
+    "refcode_1": "CSW",
+    "refcode_2": "145",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "CSW 145.3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 145.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The only means which God has ordained to advance His cause is to bless men with property. He gives them the sunshine and the rain; He causes vegetation to flourish; He gives health, and ability to acquire means. All our blessings come from His bountiful hand. In turn He would have men and women show their gratitude by returning Him a portion in tithes and offerings,&mdash;in thank offerings, in freewill offerings, in trespass offerings.&mdash;<span class=\"egwlink egwlink_book\" title=\"5T 150.1\" data-link=\"113.748\"><em>Testimonies for the Church</em> 5:150</span>.",
+    "puborder": 432,
+    "translations": [
+      {
+        "para_id": "11629.658",
+        "lang": "da",
+        "refcode": "RSSA 145.3"
+      },
+      {
+        "para_id": "799.647",
+        "lang": "de",
+        "refcode": "RSs 120.3"
+      },
+      {
+        "para_id": "1711.732",
+        "lang": "es",
+        "refcode": "COES 163.3"
+      },
+      {
+        "para_id": "1917.804",
+        "lang": "pt",
+        "refcode": "CES38 77.1"
+      },
+      {
+        "para_id": "1724.721",
+        "lang": "pt",
+        "refcode": "CES 145.3"
+      },
+      {
+        "para_id": "2719.700",
+        "lang": "ro",
+        "refcode": "SSS 145.3"
+      },
+      {
+        "para_id": "1873.677",
+        "lang": "ru",
+        "refcode": "ССШ 145.3"
+      }
+    ]
+  }
+]

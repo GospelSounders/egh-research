@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.673",
+    "id_prev": "21.670",
+    "id_next": "21.674",
+    "refcode_1": "CSW",
+    "refcode_2": "144",
+    "refcode_3": "",
+    "refcode_4": "112",
+    "refcode_short": "CSW 144",
+    "refcode_long": "Counsels on Sabbath School Work, p. 144 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Putting God&apos;s Requirements First",
+    "puborder": 424,
+    "translations": [
+      {
+        "para_id": "11629.648",
+        "lang": "da",
+        "refcode": "RSSA 144"
+      },
+      {
+        "para_id": "799.637",
+        "lang": "de",
+        "refcode": "RSs 119"
+      },
+      {
+        "para_id": "1711.722",
+        "lang": "es",
+        "refcode": "COES 162"
+      },
+      {
+        "para_id": "1724.711",
+        "lang": "pt",
+        "refcode": "CES 144"
+      },
+      {
+        "para_id": "1917.793",
+        "lang": "pt",
+        "refcode": "CES38 76"
+      },
+      {
+        "para_id": "2719.691",
+        "lang": "ro",
+        "refcode": "SSS 144"
+      },
+      {
+        "para_id": "1873.667",
+        "lang": "ru",
+        "refcode": "ССШ 144"
+      }
+    ]
+  },
+  {
+    "para_id": "21.674",
+    "id_prev": "21.673",
+    "id_next": "21.675",
+    "refcode_1": "CSW",
+    "refcode_2": "144",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 144.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 144.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God&apos;s requirements come first. We are not doing His will if we consecrate to Him what is left of our income after all our imaginary wants have been supplied. Before any part of our earnings is consumed, we should take out and present to Him that portion which He claims. In the old dispensation, an offering of gratitude was kept continually burning upon the altar, thus showing man&apos;s endless obligation to God. If we have prosperity in our secular business, it is because God blesses us. A part of this income is to be devoted to the poor, and a large portion to be applied to the cause of God. When that which God claims is rendered to Him, the remainder will be sanctified and blessed to our own use. But when a man robs God by withholding that which He requires, His curse rests upon the whole.&mdash;<span class=\"egwlink egwlink_book\" title=\"4T 477.1\" data-link=\"114.2348\"><em>Testimonies for the Church</em> 4:477</span>.",
+    "puborder": 425,
+    "translations": [
+      {
+        "para_id": "11629.649",
+        "lang": "da",
+        "refcode": "RSSA 144.1"
+      },
+      {
+        "para_id": "799.638",
+        "lang": "de",
+        "refcode": "RSs 119.2"
+      },
+      {
+        "para_id": "1711.723",
+        "lang": "es",
+        "refcode": "COES 162.1"
+      },
+      {
+        "para_id": "1724.712",
+        "lang": "pt",
+        "refcode": "CES 144.1"
+      },
+      {
+        "para_id": "1917.794",
+        "lang": "pt",
+        "refcode": "CES38 76.1"
+      },
+      {
+        "para_id": "2719.692",
+        "lang": "ro",
+        "refcode": "SSS 144.1"
+      },
+      {
+        "para_id": "1873.668",
+        "lang": "ru",
+        "refcode": "ССШ 144.2"
+      }
+    ]
+  }
+]

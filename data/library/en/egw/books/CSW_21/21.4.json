@@ -1,0 +1,286 @@
+[
+  {
+    "para_id": "21.4",
+    "id_prev": null,
+    "id_next": "21.5",
+    "refcode_1": "CSW",
+    "refcode_2": "3",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "CSW 3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 3 (Ellen Gould White)",
+    "element_type": "h1",
+    "element_subtype": "",
+    "content": "Counsels on Sabbath School Work",
+    "puborder": 1,
+    "translations": [
+      {
+        "para_id": "11629.2",
+        "lang": "da",
+        "refcode": "RSSA 8"
+      },
+      {
+        "para_id": "799.3",
+        "lang": "de",
+        "refcode": "RSs 1"
+      },
+      {
+        "para_id": "1711.2",
+        "lang": "es",
+        "refcode": "COES 1"
+      },
+      {
+        "para_id": "1724.3",
+        "lang": "pt",
+        "refcode": "CES 1"
+      },
+      {
+        "para_id": "1917.3",
+        "lang": "pt",
+        "refcode": "CES38 1"
+      },
+      {
+        "para_id": "2719.4",
+        "lang": "ro",
+        "refcode": "SSS 3"
+      },
+      {
+        "para_id": "1873.2",
+        "lang": "ru",
+        "refcode": "ССШ 2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.5",
+    "id_prev": "21.4",
+    "id_next": "21.6",
+    "refcode_1": "CSW",
+    "refcode_2": "3",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "CSW 3",
+    "refcode_long": "Counsels on Sabbath School Work, p. 3 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Foreword",
+    "puborder": 2,
+    "translations": [
+      {
+        "para_id": "799.32",
+        "lang": "de",
+        "refcode": "RSs 11"
+      },
+      {
+        "para_id": "1711.13",
+        "lang": "es",
+        "refcode": "COES 3"
+      },
+      {
+        "para_id": "2719.5",
+        "lang": "ro",
+        "refcode": "SSS 3"
+      },
+      {
+        "para_id": "1873.4",
+        "lang": "ru",
+        "refcode": "ССШ 3"
+      }
+    ]
+  },
+  {
+    "para_id": "21.6",
+    "id_prev": "21.5",
+    "id_next": "21.7",
+    "refcode_1": "CSW",
+    "refcode_2": "3",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 3.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 3.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\">It is significant that in the ever-widening activities of Seventh-day Adventists, God, through his messenger, has given instruction, encouragement, and counsel to those connected with each branch of major importance. The work of the Sabbath school is not lacking in this respect. Not only in the earlier numbers of <em>Testimonies for the Church</em> was counsel given regarding the Sabbath school, but also in instructive articles from the pen of Ellen G. White, that appeared through the years in the <em>Sabbath School Worker</em>. In 1900, many of these articles were assembled and published in a small volume, which has become well known as <em>Testimonies on Sabbath School Work</em>. For nearly forty years Sabbath school workers throughout the world have sought the valuable counsel of this little volume in building this important organization to the place of strength it occupies today.</span>",
+    "puborder": 3,
+    "translations": [
+      {
+        "para_id": "799.33",
+        "lang": "de",
+        "refcode": "RSs 11.1"
+      },
+      {
+        "para_id": "1711.14",
+        "lang": "es",
+        "refcode": "COES 3.1"
+      },
+      {
+        "para_id": "2719.6",
+        "lang": "ro",
+        "refcode": "SSS 3.1"
+      },
+      {
+        "para_id": "1873.5",
+        "lang": "ru",
+        "refcode": "ССШ 3.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.7",
+    "id_prev": "21.6",
+    "id_next": "21.9",
+    "refcode_1": "CSW",
+    "refcode_2": "3",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 3.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 3.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\">Since the publication of <em>Testimonies On Sabbath School Work</em>, added instruction pertaining to this line of activity has appeared in the writings of Mrs. E. G. White. The requirements of the Sabbath school work throughout the world field indicate that the time has come to gather together these later counsels affecting the activities in this department and to combine them with those in the original work. The present volume, <em>Counsels On Sabbath School Work</em>, is the worthy product of this endeavor.</span>",
+    "puborder": 4,
+    "translations": [
+      {
+        "para_id": "799.34",
+        "lang": "de",
+        "refcode": "RSs 11.2"
+      },
+      {
+        "para_id": "1711.15",
+        "lang": "es",
+        "refcode": "COES 3.2"
+      },
+      {
+        "para_id": "2719.7",
+        "lang": "ro",
+        "refcode": "SSS 3.2"
+      },
+      {
+        "para_id": "1873.6",
+        "lang": "ru",
+        "refcode": "ССШ 3.2"
+      }
+    ]
+  },
+  {
+    "para_id": "21.9",
+    "id_prev": "21.7",
+    "id_next": "21.10",
+    "refcode_1": "CSW",
+    "refcode_2": "4",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 4.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 4.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\">The material appearing in this enlarged volume has been topically arranged, and a table of contents prefaces each of the six sections into which the counsel has been divided, in order to make it more readily accessible for study or reference. Sabbath school officers and teachers, church officers, and conference workers will find this book invaluable in their endeavors to build a stronger Sabbath school. Teacher training classes will find it an essential part of their source material, and every church member may study it with great profit.</span>",
+    "puborder": 5,
+    "translations": [
+      {
+        "para_id": "799.35",
+        "lang": "de",
+        "refcode": "RSs 11.3"
+      },
+      {
+        "para_id": "1711.18",
+        "lang": "es",
+        "refcode": "COES 4.1"
+      },
+      {
+        "para_id": "2719.10",
+        "lang": "ro",
+        "refcode": "SSS 4.2"
+      },
+      {
+        "para_id": "2719.9",
+        "lang": "ro",
+        "refcode": "SSS 4.1"
+      },
+      {
+        "para_id": "1873.8",
+        "lang": "ru",
+        "refcode": "ССШ 4.1"
+      }
+    ]
+  },
+  {
+    "para_id": "21.10",
+    "id_prev": "21.9",
+    "id_next": "21.11",
+    "refcode_1": "CSW",
+    "refcode_2": "4",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "CSW 4.2",
+    "refcode_long": "Counsels on Sabbath School Work, p. 4.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "<span class=\"non-egw-foreword\">The General Conference Sabbath School Department heartily appreciates the work of the board of Trustees of the Ellen G. White Publications in preparing this compilation, and we send it forth with our unqualified endorsement. We dedicate it anew to the ever-growing army of Sabbath school officers and teachers, whose labors will become more efficient as they strive to measure up to the standard set for us by the Spirit of the Lord.</span>",
+    "puborder": 6,
+    "translations": [
+      {
+        "para_id": "799.37",
+        "lang": "de",
+        "refcode": "RSs 12.1"
+      },
+      {
+        "para_id": "1711.19",
+        "lang": "es",
+        "refcode": "COES 4.2"
+      },
+      {
+        "para_id": "2719.11",
+        "lang": "ro",
+        "refcode": "SSS 4.3"
+      },
+      {
+        "para_id": "1873.9",
+        "lang": "ru",
+        "refcode": "ССШ 4.2"
+      },
+      {
+        "para_id": "1873.10",
+        "lang": "ru",
+        "refcode": "ССШ 4.3"
+      }
+    ]
+  },
+  {
+    "para_id": "21.11",
+    "id_prev": "21.10",
+    "id_next": "21.19",
+    "refcode_1": "CSW",
+    "refcode_2": "4",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "signatureline",
+    "content": "<span class=\"non-egw-foreword\">The General Conference Sabbath School Dept.</span>",
+    "puborder": 7,
+    "translations": [
+      {
+        "para_id": "799.38",
+        "lang": "de",
+        "refcode": "Counsels on Sabbath School Work"
+      },
+      {
+        "para_id": "1711.20",
+        "lang": "es",
+        "refcode": "Counsels on Sabbath School Work"
+      },
+      {
+        "para_id": "2719.12",
+        "lang": "ro",
+        "refcode": "Counsels on Sabbath School Work"
+      },
+      {
+        "para_id": "1873.11",
+        "lang": "ru",
+        "refcode": "Counsels on Sabbath School Work"
+      }
+    ]
+  }
+]

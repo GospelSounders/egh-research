@@ -1,0 +1,2192 @@
+[
+  {
+    "para_id": "127.281",
+    "id_prev": "127.279",
+    "id_next": "127.2655",
+    "refcode_1": "AA",
+    "refcode_2": "70",
+    "refcode_3": "",
+    "refcode_4": "7",
+    "refcode_short": "AA 70",
+    "refcode_long": "The Acts of the Apostles, p. 70 (Ellen Gould White)",
+    "element_type": "h3",
+    "element_subtype": "",
+    "content": "Chapter 7&mdash;A Warning Against Hypocrisy",
+    "puborder": 169,
+    "translations": [
+      {
+        "para_id": "13804.206",
+        "lang": "bg",
+        "refcode": "Дa 27"
+      },
+      {
+        "para_id": "11590.270",
+        "lang": "ce",
+        "refcode": "ABA 61"
+      },
+      {
+        "para_id": "11247.255",
+        "lang": "cs",
+        "refcode": "PNL 41"
+      },
+      {
+        "para_id": "813.278",
+        "lang": "de",
+        "refcode": "WA 71"
+      },
+      {
+        "para_id": "198.278",
+        "lang": "es",
+        "refcode": "HAp 58"
+      },
+      {
+        "para_id": "158.266",
+        "lang": "fr",
+        "refcode": "CP 63"
+      },
+      {
+        "para_id": "11938.245",
+        "lang": "hu",
+        "refcode": "AT 47"
+      },
+      {
+        "para_id": "12410.265",
+        "lang": "id",
+        "refcode": "KR 59"
+      },
+      {
+        "para_id": "882.244",
+        "lang": "it",
+        "refcode": "UVI 45"
+      },
+      {
+        "para_id": "11660.353",
+        "lang": "ja",
+        "refcode": "AAJ 70"
+      },
+      {
+        "para_id": "12335.234",
+        "lang": "nb",
+        "refcode": "AV 42"
+      },
+      {
+        "para_id": "12008.227",
+        "lang": "pl",
+        "refcode": "DA 41"
+      },
+      {
+        "para_id": "1806.251",
+        "lang": "pt",
+        "refcode": "AA 43.1"
+      },
+      {
+        "para_id": "2013.272",
+        "lang": "ro",
+        "refcode": "FA 70"
+      },
+      {
+        "para_id": "1785.253",
+        "lang": "ru",
+        "refcode": "ДА 70"
+      },
+      {
+        "para_id": "13874.235",
+        "lang": "rw",
+        "refcode": "INI 48"
+      },
+      {
+        "para_id": "11182.225",
+        "lang": "sk",
+        "refcode": "SA 46"
+      },
+      {
+        "para_id": "11904.258",
+        "lang": "tl",
+        "refcode": "AGA 55"
+      },
+      {
+        "para_id": "11875.239",
+        "lang": "uk",
+        "refcode": "ДА 46"
+      }
+    ]
+  },
+  {
+    "para_id": "127.2655",
+    "id_prev": "127.281",
+    "id_next": "127.282",
+    "refcode_1": "AA",
+    "refcode_2": "70",
+    "refcode_3": "",
+    "refcode_4": "",
+    "refcode_short": "",
+    "refcode_long": "",
+    "element_type": "p",
+    "element_subtype": "bibletext",
+    "content": "<span class=\"non-egw-comment\">This chapter is based on <span class=\"egwlink egwlink_bible\" title=\"Acts 4:32\" data-link=\"1965.55177\">Acts 4:32-37</span> to <span class=\"egwlink egwlink_bible\" title=\"Acts 5:1\" data-link=\"1965.55190\">5:11</span>.</span>",
+    "puborder": 170,
+    "translations": [
+      {
+        "para_id": "813.279",
+        "lang": "de",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "198.278",
+        "lang": "es",
+        "refcode": "HAp 58"
+      },
+      {
+        "para_id": "158.267",
+        "lang": "fr",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11938.246",
+        "lang": "hu",
+        "refcode": "AT 47"
+      },
+      {
+        "para_id": "11660.354",
+        "lang": "ja",
+        "refcode": "AAJ 70.1"
+      },
+      {
+        "para_id": "1806.2142",
+        "lang": "pt",
+        "refcode": "AA 307"
+      },
+      {
+        "para_id": "2013.2640",
+        "lang": "ro",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "1785.2594",
+        "lang": "ru",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "13874.236",
+        "lang": "rw",
+        "refcode": "The Acts of the Apostles"
+      },
+      {
+        "para_id": "11875.240",
+        "lang": "uk",
+        "refcode": "The Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "para_id": "127.282",
+    "id_prev": "127.2655",
+    "id_next": "127.283",
+    "refcode_1": "AA",
+    "refcode_2": "70",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 70.1",
+    "refcode_long": "The Acts of the Apostles, p. 70.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "As the disciples proclaimed the truths of the gospel in Jerusalem, God bore witness to their word, and a multitude believed. Many of these early believers were immediately cut off from family and friends by the zealous bigotry of the Jews, and it was necessary to provide them with food and shelter.",
+    "puborder": 171,
+    "translations": [
+      {
+        "para_id": "13804.207",
+        "lang": "bg",
+        "refcode": "Дa 27.1"
+      },
+      {
+        "para_id": "11590.271",
+        "lang": "ce",
+        "refcode": "ABA 61.1"
+      },
+      {
+        "para_id": "11247.256",
+        "lang": "cs",
+        "refcode": "PNL 41.1"
+      },
+      {
+        "para_id": "813.280",
+        "lang": "de",
+        "refcode": "WA 71.1"
+      },
+      {
+        "para_id": "198.279",
+        "lang": "es",
+        "refcode": "HAp 58.1"
+      },
+      {
+        "para_id": "158.268",
+        "lang": "fr",
+        "refcode": "CP 63.1"
+      },
+      {
+        "para_id": "11938.247",
+        "lang": "hu",
+        "refcode": "AT 47.1"
+      },
+      {
+        "para_id": "12410.266",
+        "lang": "id",
+        "refcode": "KR 59.1"
+      },
+      {
+        "para_id": "882.245",
+        "lang": "it",
+        "refcode": "UVI 45.1"
+      },
+      {
+        "para_id": "11660.355",
+        "lang": "ja",
+        "refcode": "AAJ 70.2"
+      },
+      {
+        "para_id": "12335.235",
+        "lang": "nb",
+        "refcode": "AV 42.1"
+      },
+      {
+        "para_id": "12008.228",
+        "lang": "pl",
+        "refcode": "DA 41.1"
+      },
+      {
+        "para_id": "1806.253",
+        "lang": "pt",
+        "refcode": "AA 44"
+      },
+      {
+        "para_id": "2013.273",
+        "lang": "ro",
+        "refcode": "FA 70.1"
+      },
+      {
+        "para_id": "1785.254",
+        "lang": "ru",
+        "refcode": "ДА 70.1"
+      },
+      {
+        "para_id": "13874.237",
+        "lang": "rw",
+        "refcode": "INI 48.1"
+      },
+      {
+        "para_id": "11182.226",
+        "lang": "sk",
+        "refcode": "SA 46.1"
+      },
+      {
+        "para_id": "11904.259",
+        "lang": "tl",
+        "refcode": "AGA 55.1"
+      },
+      {
+        "para_id": "11875.241",
+        "lang": "uk",
+        "refcode": "ДА 46.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.283",
+    "id_prev": "127.282",
+    "id_next": "127.284",
+    "refcode_1": "AA",
+    "refcode_2": "70",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 70.2",
+    "refcode_long": "The Acts of the Apostles, p. 70.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The record declares, &ldquo;Neither was there any among them that lacked,&rdquo; and it tells how the need was filled. Those among the believers who had money and possessions cheerfully sacrificed them to meet the emergency. Selling their houses or their lands, they brought the money and laid it at the apostles&rsquo; feet, &ldquo;and distribution was made unto every man according as he had need.&rdquo;",
+    "puborder": 172,
+    "translations": [
+      {
+        "para_id": "13804.208",
+        "lang": "bg",
+        "refcode": "Дa 27.2"
+      },
+      {
+        "para_id": "11590.272",
+        "lang": "ce",
+        "refcode": "ABA 61.2"
+      },
+      {
+        "para_id": "11247.257",
+        "lang": "cs",
+        "refcode": "PNL 41.2"
+      },
+      {
+        "para_id": "813.280",
+        "lang": "de",
+        "refcode": "WA 71.1"
+      },
+      {
+        "para_id": "198.280",
+        "lang": "es",
+        "refcode": "HAp 58.2"
+      },
+      {
+        "para_id": "158.269",
+        "lang": "fr",
+        "refcode": "CP 63.2"
+      },
+      {
+        "para_id": "11938.248",
+        "lang": "hu",
+        "refcode": "AT 47.2"
+      },
+      {
+        "para_id": "12410.267",
+        "lang": "id",
+        "refcode": "KR 59.2"
+      },
+      {
+        "para_id": "882.246",
+        "lang": "it",
+        "refcode": "UVI 45.2"
+      },
+      {
+        "para_id": "11660.356",
+        "lang": "ja",
+        "refcode": "AAJ 70.3"
+      },
+      {
+        "para_id": "11660.357",
+        "lang": "ja",
+        "refcode": "AAJ 70.4"
+      },
+      {
+        "para_id": "12335.236",
+        "lang": "nb",
+        "refcode": "AV 42.2"
+      },
+      {
+        "para_id": "12008.229",
+        "lang": "pl",
+        "refcode": "DA 41.2"
+      },
+      {
+        "para_id": "1806.253",
+        "lang": "pt",
+        "refcode": "AA 44"
+      },
+      {
+        "para_id": "2013.274",
+        "lang": "ro",
+        "refcode": "FA 70.2"
+      },
+      {
+        "para_id": "1785.255",
+        "lang": "ru",
+        "refcode": "ДА 70.2"
+      },
+      {
+        "para_id": "13874.238",
+        "lang": "rw",
+        "refcode": "INI 48.2"
+      },
+      {
+        "para_id": "11182.227",
+        "lang": "sk",
+        "refcode": "SA 46.2"
+      },
+      {
+        "para_id": "11904.260",
+        "lang": "tl",
+        "refcode": "AGA 55.2"
+      },
+      {
+        "para_id": "11875.242",
+        "lang": "uk",
+        "refcode": "ДА 46.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.284",
+    "id_prev": "127.283",
+    "id_next": "127.287",
+    "refcode_1": "AA",
+    "refcode_2": "70",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 70.3",
+    "refcode_long": "The Acts of the Apostles, p. 70.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "This liberality on the part of the believers was the result of the outpouring of the Spirit. The converts to the gospel were &ldquo;of one heart and of one soul.&rdquo; One common interest controlled them&mdash;the success of the mission entrusted to <span class=\"page-break\" data-page=\"71\"></span> them; and covetousness had no place in their lives. Their love for their brethren and the cause they had espoused, was greater than their love of money and possessions. Their works testified that they accounted the souls of men of higher value than earthly wealth.",
+    "puborder": 173,
+    "translations": [
+      {
+        "para_id": "13804.209",
+        "lang": "bg",
+        "refcode": "Дa 27.3"
+      },
+      {
+        "para_id": "11590.273",
+        "lang": "ce",
+        "refcode": "ABA 61.3"
+      },
+      {
+        "para_id": "11247.258",
+        "lang": "cs",
+        "refcode": "PNL 41.3"
+      },
+      {
+        "para_id": "813.281",
+        "lang": "de",
+        "refcode": "WA 71.2"
+      },
+      {
+        "para_id": "198.281",
+        "lang": "es",
+        "refcode": "HAp 58.3"
+      },
+      {
+        "para_id": "158.271",
+        "lang": "fr",
+        "refcode": "CP 64.1"
+      },
+      {
+        "para_id": "11938.249",
+        "lang": "hu",
+        "refcode": "AT 47.3"
+      },
+      {
+        "para_id": "12410.268",
+        "lang": "id",
+        "refcode": "KR 59.3"
+      },
+      {
+        "para_id": "882.247",
+        "lang": "it",
+        "refcode": "UVI 45.3"
+      },
+      {
+        "para_id": "11660.358",
+        "lang": "ja",
+        "refcode": "AAJ 70.5"
+      },
+      {
+        "para_id": "12335.237",
+        "lang": "nb",
+        "refcode": "AV 42.3"
+      },
+      {
+        "para_id": "12008.230",
+        "lang": "pl",
+        "refcode": "DA 41.3"
+      },
+      {
+        "para_id": "1806.254",
+        "lang": "pt",
+        "refcode": "AA 44.1"
+      },
+      {
+        "para_id": "2013.275",
+        "lang": "ro",
+        "refcode": "FA 70.3"
+      },
+      {
+        "para_id": "1785.256",
+        "lang": "ru",
+        "refcode": "ДА 70.3"
+      },
+      {
+        "para_id": "13874.239",
+        "lang": "rw",
+        "refcode": "INI 48.3"
+      },
+      {
+        "para_id": "11182.228",
+        "lang": "sk",
+        "refcode": "SA 46.3"
+      },
+      {
+        "para_id": "11904.261",
+        "lang": "tl",
+        "refcode": "AGA 55.3"
+      },
+      {
+        "para_id": "11875.243",
+        "lang": "uk",
+        "refcode": "ДА 46.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.287",
+    "id_prev": "127.284",
+    "id_next": "127.288",
+    "refcode_1": "AA",
+    "refcode_2": "71",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 71.1",
+    "refcode_long": "The Acts of the Apostles, p. 71.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Thus it will ever be when the Spirit of God takes possession of the life. Those whose hearts are filled with the love of Christ, will follow the example of Him who for our sake became poor, that through His poverty we might be made rich. Money, time, influence&mdash;all the gifts they have received from God&apos;s hand, they will value only as a means of advancing the work of the gospel. Thus it was in the early church; and when in the church of today it is seen that by the power of the Spirit the members have taken their affections from the things of the world, and that they are willing to make sacrifices in order that their fellow men may hear the gospel, the truths proclaimed will have a powerful influence upon the hearers.",
+    "puborder": 174,
+    "translations": [
+      {
+        "para_id": "13804.210",
+        "lang": "bg",
+        "refcode": "Дa 27.4"
+      },
+      {
+        "para_id": "11590.274",
+        "lang": "ce",
+        "refcode": "ABA 61.4"
+      },
+      {
+        "para_id": "11247.259",
+        "lang": "cs",
+        "refcode": "PNL 41.4"
+      },
+      {
+        "para_id": "813.282",
+        "lang": "de",
+        "refcode": "WA 71.3"
+      },
+      {
+        "para_id": "198.282",
+        "lang": "es",
+        "refcode": "HAp 58.4"
+      },
+      {
+        "para_id": "158.272",
+        "lang": "fr",
+        "refcode": "CP 64.2"
+      },
+      {
+        "para_id": "11938.250",
+        "lang": "hu",
+        "refcode": "AT 47.4"
+      },
+      {
+        "para_id": "12410.271",
+        "lang": "id",
+        "refcode": "KR 60.1"
+      },
+      {
+        "para_id": "882.248",
+        "lang": "it",
+        "refcode": "UVI 45.4"
+      },
+      {
+        "para_id": "11660.361",
+        "lang": "ja",
+        "refcode": "AAJ 71.1"
+      },
+      {
+        "para_id": "12335.238",
+        "lang": "nb",
+        "refcode": "AV 42.4"
+      },
+      {
+        "para_id": "12008.231",
+        "lang": "pl",
+        "refcode": "DA 41.4"
+      },
+      {
+        "para_id": "1806.255",
+        "lang": "pt",
+        "refcode": "AA 44.2"
+      },
+      {
+        "para_id": "2013.278",
+        "lang": "ro",
+        "refcode": "FA 71.1"
+      },
+      {
+        "para_id": "1785.259",
+        "lang": "ru",
+        "refcode": "ДА 71.1"
+      },
+      {
+        "para_id": "13874.240",
+        "lang": "rw",
+        "refcode": "INI 48.4"
+      },
+      {
+        "para_id": "11182.229",
+        "lang": "sk",
+        "refcode": "SA 46.4"
+      },
+      {
+        "para_id": "11904.262",
+        "lang": "tl",
+        "refcode": "AGA 55.4"
+      },
+      {
+        "para_id": "11875.244",
+        "lang": "uk",
+        "refcode": "ДА 46.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.288",
+    "id_prev": "127.287",
+    "id_next": "127.291",
+    "refcode_1": "AA",
+    "refcode_2": "71",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 71.2",
+    "refcode_long": "The Acts of the Apostles, p. 71.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In sharp contrast to the example of benevolence shown by the believers, was the conduct of Ananias and Sapphira, whose experience, traced by the pen of Inspiration, has left a dark stain upon the history of the early church. With others, these professed disciples had shared the privilege of hearing the gospel preached by the apostles. They had been present with other believers when, after the apostles had prayed, &ldquo;the place was shaken where they were assembled together; and they were all filled with the Holy Ghost.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Acts 4:31\" data-link=\"1965.55175\">Acts 4:31</span>. Deep conviction had rested upon all present, and under the direct influence of the Spirit of God, <span class=\"page-break\" data-page=\"72\"></span> Ananias and Sapphira had made a pledge to give to the Lord the proceeds from the sale of certain property.",
+    "puborder": 175,
+    "translations": [
+      {
+        "para_id": "13804.211",
+        "lang": "bg",
+        "refcode": "Дa 27.5"
+      },
+      {
+        "para_id": "11590.277",
+        "lang": "ce",
+        "refcode": "ABA 62.1"
+      },
+      {
+        "para_id": "11247.262",
+        "lang": "cs",
+        "refcode": "PNL 42.1"
+      },
+      {
+        "para_id": "813.285",
+        "lang": "de",
+        "refcode": "WA 72.1"
+      },
+      {
+        "para_id": "198.285",
+        "lang": "es",
+        "refcode": "HAp 59.1"
+      },
+      {
+        "para_id": "158.273",
+        "lang": "fr",
+        "refcode": "CP 64.3"
+      },
+      {
+        "para_id": "11938.251",
+        "lang": "hu",
+        "refcode": "AT 47.5"
+      },
+      {
+        "para_id": "12410.272",
+        "lang": "id",
+        "refcode": "KR 60.2"
+      },
+      {
+        "para_id": "882.249",
+        "lang": "it",
+        "refcode": "UVI 45.5"
+      },
+      {
+        "para_id": "11660.362",
+        "lang": "ja",
+        "refcode": "AAJ 71.2"
+      },
+      {
+        "para_id": "12335.239",
+        "lang": "nb",
+        "refcode": "AV 42.5"
+      },
+      {
+        "para_id": "12008.232",
+        "lang": "pl",
+        "refcode": "DA 41.5"
+      },
+      {
+        "para_id": "1806.256",
+        "lang": "pt",
+        "refcode": "AA 44.3"
+      },
+      {
+        "para_id": "2013.279",
+        "lang": "ro",
+        "refcode": "FA 71.2"
+      },
+      {
+        "para_id": "1785.260",
+        "lang": "ru",
+        "refcode": "ДА 71.2"
+      },
+      {
+        "para_id": "13874.241",
+        "lang": "rw",
+        "refcode": "INI 48.5"
+      },
+      {
+        "para_id": "11182.230",
+        "lang": "sk",
+        "refcode": "SA 46.5"
+      },
+      {
+        "para_id": "11904.265",
+        "lang": "tl",
+        "refcode": "AGA 56.1"
+      },
+      {
+        "para_id": "11875.247",
+        "lang": "uk",
+        "refcode": "ДА 47.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.291",
+    "id_prev": "127.288",
+    "id_next": "127.292",
+    "refcode_1": "AA",
+    "refcode_2": "72",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 72.1",
+    "refcode_long": "The Acts of the Apostles, p. 72.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Afterward, Ananias and Sapphira grieved the Holy Spirit by yielding to feelings of covetousness. They began to regret their promise and soon lost the sweet influence of the blessing that had warmed their hearts with a desire to do large things in behalf of the cause of Christ. They thought they had been too hasty, that they ought to reconsider their decision. They talked the matter over, and decided not to fulfill their pledge. They saw, however, that those who parted with their possessions to supply the needs of their poorer brethren, were held in high esteem among the believers; and ashamed to have their brethren know that their selfish souls grudged that which they had solemnly dedicated to God, they deliberately decided to sell their property and pretend to give all the proceeds into the general fund, but really to keep a large share for themselves. Thus they would secure their living from the common store and at the same time gain the high esteem of their brethren.",
+    "puborder": 176,
+    "translations": [
+      {
+        "para_id": "13804.212",
+        "lang": "bg",
+        "refcode": "Дa 27.6"
+      },
+      {
+        "para_id": "11590.278",
+        "lang": "ce",
+        "refcode": "ABA 62.2"
+      },
+      {
+        "para_id": "11247.263",
+        "lang": "cs",
+        "refcode": "PNL 42.2"
+      },
+      {
+        "para_id": "813.286",
+        "lang": "de",
+        "refcode": "WA 72.2"
+      },
+      {
+        "para_id": "198.285",
+        "lang": "es",
+        "refcode": "HAp 59.1"
+      },
+      {
+        "para_id": "158.275",
+        "lang": "fr",
+        "refcode": "CP 65.1"
+      },
+      {
+        "para_id": "11938.254",
+        "lang": "hu",
+        "refcode": "AT 48.1"
+      },
+      {
+        "para_id": "12410.273",
+        "lang": "id",
+        "refcode": "KR 60.3"
+      },
+      {
+        "para_id": "882.252",
+        "lang": "it",
+        "refcode": "UVI 46.1"
+      },
+      {
+        "para_id": "11660.365",
+        "lang": "ja",
+        "refcode": "AAJ 72.1"
+      },
+      {
+        "para_id": "12335.242",
+        "lang": "nb",
+        "refcode": "AV 43.1"
+      },
+      {
+        "para_id": "12008.232",
+        "lang": "pl",
+        "refcode": "DA 41.5"
+      },
+      {
+        "para_id": "1806.259",
+        "lang": "pt",
+        "refcode": "AA 44.6"
+      },
+      {
+        "para_id": "2013.279",
+        "lang": "ro",
+        "refcode": "FA 71.2"
+      },
+      {
+        "para_id": "1785.263",
+        "lang": "ru",
+        "refcode": "ДА 72.1"
+      },
+      {
+        "para_id": "13874.244",
+        "lang": "rw",
+        "refcode": "INI 49.1"
+      },
+      {
+        "para_id": "11182.233",
+        "lang": "sk",
+        "refcode": "SA 47.1"
+      },
+      {
+        "para_id": "11904.266",
+        "lang": "tl",
+        "refcode": "AGA 56.2"
+      },
+      {
+        "para_id": "11875.248",
+        "lang": "uk",
+        "refcode": "ДА 47.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.292",
+    "id_prev": "127.291",
+    "id_next": "127.294",
+    "refcode_1": "AA",
+    "refcode_2": "72",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 72.2",
+    "refcode_long": "The Acts of the Apostles, p. 72.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But God hates hypocrisy and falsehood. Ananias and Sapphira practiced fraud in their dealing with God; they lied to the Holy Spirit, and their sin was visited with swift and terrible judgment. When Ananias came with his offering, Peter said: &ldquo;Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land? Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God.&rdquo;",
+    "puborder": 177,
+    "translations": [
+      {
+        "para_id": "13804.213",
+        "lang": "bg",
+        "refcode": "Дa 27.7"
+      },
+      {
+        "para_id": "11590.281",
+        "lang": "ce",
+        "refcode": "ABA 63.1"
+      },
+      {
+        "para_id": "11247.264",
+        "lang": "cs",
+        "refcode": "PNL 42.3"
+      },
+      {
+        "para_id": "813.289",
+        "lang": "de",
+        "refcode": "WA 73.1"
+      },
+      {
+        "para_id": "198.288",
+        "lang": "es",
+        "refcode": "HAp 60.1"
+      },
+      {
+        "para_id": "158.276",
+        "lang": "fr",
+        "refcode": "CP 65.2"
+      },
+      {
+        "para_id": "11938.255",
+        "lang": "hu",
+        "refcode": "AT 48.2"
+      },
+      {
+        "para_id": "12410.276",
+        "lang": "id",
+        "refcode": "KR 61.1"
+      },
+      {
+        "para_id": "882.253",
+        "lang": "it",
+        "refcode": "UVI 46.2"
+      },
+      {
+        "para_id": "11660.366",
+        "lang": "ja",
+        "refcode": "AAJ 72.2"
+      },
+      {
+        "para_id": "12335.243",
+        "lang": "nb",
+        "refcode": "AV 43.2"
+      },
+      {
+        "para_id": "12008.235",
+        "lang": "pl",
+        "refcode": "DA 42.1"
+      },
+      {
+        "para_id": "1806.259",
+        "lang": "pt",
+        "refcode": "AA 44.6"
+      },
+      {
+        "para_id": "2013.282",
+        "lang": "ro",
+        "refcode": "FA 72.2"
+      },
+      {
+        "para_id": "1785.264",
+        "lang": "ru",
+        "refcode": "ДА 72.2"
+      },
+      {
+        "para_id": "13874.245",
+        "lang": "rw",
+        "refcode": "INI 49.2"
+      },
+      {
+        "para_id": "11182.234",
+        "lang": "sk",
+        "refcode": "SA 47.2"
+      },
+      {
+        "para_id": "11904.267",
+        "lang": "tl",
+        "refcode": "AGA 56.3"
+      },
+      {
+        "para_id": "11875.249",
+        "lang": "uk",
+        "refcode": "ДА 47.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.294",
+    "id_prev": "127.292",
+    "id_next": "127.295",
+    "refcode_1": "AA",
+    "refcode_2": "73",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 73.1",
+    "refcode_long": "The Acts of the Apostles, p. 73.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.&rdquo;",
+    "puborder": 178,
+    "translations": [
+      {
+        "para_id": "13804.216",
+        "lang": "bg",
+        "refcode": "Дa 28.1"
+      },
+      {
+        "para_id": "11590.282",
+        "lang": "ce",
+        "refcode": "ABA 63.2"
+      },
+      {
+        "para_id": "11247.265",
+        "lang": "cs",
+        "refcode": "PNL 42.4"
+      },
+      {
+        "para_id": "813.289",
+        "lang": "de",
+        "refcode": "WA 73.1"
+      },
+      {
+        "para_id": "198.289",
+        "lang": "es",
+        "refcode": "HAp 60.2"
+      },
+      {
+        "para_id": "158.276",
+        "lang": "fr",
+        "refcode": "CP 65.2"
+      },
+      {
+        "para_id": "11938.256",
+        "lang": "hu",
+        "refcode": "AT 48.3"
+      },
+      {
+        "para_id": "12410.277",
+        "lang": "id",
+        "refcode": "KR 61.2"
+      },
+      {
+        "para_id": "882.254",
+        "lang": "it",
+        "refcode": "UVI 46.3"
+      },
+      {
+        "para_id": "11660.369",
+        "lang": "ja",
+        "refcode": "AAJ 73.1"
+      },
+      {
+        "para_id": "12335.244",
+        "lang": "nb",
+        "refcode": "AV 43.3"
+      },
+      {
+        "para_id": "1806.259",
+        "lang": "pt",
+        "refcode": "AA 44.6"
+      },
+      {
+        "para_id": "2013.284",
+        "lang": "ro",
+        "refcode": "FA 73.1"
+      },
+      {
+        "para_id": "1785.266",
+        "lang": "ru",
+        "refcode": "ДА 73.1"
+      },
+      {
+        "para_id": "13874.246",
+        "lang": "rw",
+        "refcode": "INI 49.3"
+      },
+      {
+        "para_id": "11182.235",
+        "lang": "sk",
+        "refcode": "SA 47.3"
+      },
+      {
+        "para_id": "11904.270",
+        "lang": "tl",
+        "refcode": "AGA 57.1"
+      },
+      {
+        "para_id": "11875.252",
+        "lang": "uk",
+        "refcode": "ДА 48.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.295",
+    "id_prev": "127.294",
+    "id_next": "127.296",
+    "refcode_1": "AA",
+    "refcode_2": "73",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 73.2",
+    "refcode_long": "The Acts of the Apostles, p. 73.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;Whiles it remained, was it not thine own?&rdquo; Peter asked. No undue influence had been brought to bear upon Ananias to compel him to sacrifice his possessions to the general good. He had acted from choice. But in attempting to deceive the disciples, he had lied to the Almighty.",
+    "puborder": 179,
+    "translations": [
+      {
+        "para_id": "13804.217",
+        "lang": "bg",
+        "refcode": "Дa 28.2"
+      },
+      {
+        "para_id": "11590.283",
+        "lang": "ce",
+        "refcode": "ABA 63.3"
+      },
+      {
+        "para_id": "11247.266",
+        "lang": "cs",
+        "refcode": "PNL 42.5"
+      },
+      {
+        "para_id": "813.290",
+        "lang": "de",
+        "refcode": "WA 73.2"
+      },
+      {
+        "para_id": "198.290",
+        "lang": "es",
+        "refcode": "HAp 60.3"
+      },
+      {
+        "para_id": "158.277",
+        "lang": "fr",
+        "refcode": "CP 65.3"
+      },
+      {
+        "para_id": "11938.257",
+        "lang": "hu",
+        "refcode": "AT 48.4"
+      },
+      {
+        "para_id": "12410.278",
+        "lang": "id",
+        "refcode": "KR 61.3"
+      },
+      {
+        "para_id": "882.255",
+        "lang": "it",
+        "refcode": "UVI 46.4"
+      },
+      {
+        "para_id": "11660.369",
+        "lang": "ja",
+        "refcode": "AAJ 73.1"
+      },
+      {
+        "para_id": "12335.245",
+        "lang": "nb",
+        "refcode": "AV 43.4"
+      },
+      {
+        "para_id": "1806.262",
+        "lang": "pt",
+        "refcode": "AA 45.1"
+      },
+      {
+        "para_id": "2013.285",
+        "lang": "ro",
+        "refcode": "FA 73.2"
+      },
+      {
+        "para_id": "1785.267",
+        "lang": "ru",
+        "refcode": "ДА 73.2"
+      },
+      {
+        "para_id": "13874.246",
+        "lang": "rw",
+        "refcode": "INI 49.3"
+      },
+      {
+        "para_id": "11182.236",
+        "lang": "sk",
+        "refcode": "SA 47.4"
+      },
+      {
+        "para_id": "11904.271",
+        "lang": "tl",
+        "refcode": "AGA 57.2"
+      },
+      {
+        "para_id": "11875.253",
+        "lang": "uk",
+        "refcode": "ДА 48.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.296",
+    "id_prev": "127.295",
+    "id_next": "127.297",
+    "refcode_1": "AA",
+    "refcode_2": "73",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 73.3",
+    "refcode_long": "The Acts of the Apostles, p. 73.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "&ldquo;It was about the space of three hours after, when his wife, not knowing what was done, came in. And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much. Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband are at the door, and shall carry thee out. Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband. And great fear came upon all the church, and upon as many as heard these things.&rdquo;",
+    "puborder": 180,
+    "translations": [
+      {
+        "para_id": "13804.218",
+        "lang": "bg",
+        "refcode": "Дa 28.3"
+      },
+      {
+        "para_id": "11590.284",
+        "lang": "ce",
+        "refcode": "ABA 63.4"
+      },
+      {
+        "para_id": "11247.267",
+        "lang": "cs",
+        "refcode": "PNL 42.6"
+      },
+      {
+        "para_id": "813.291",
+        "lang": "de",
+        "refcode": "WA 73.3"
+      },
+      {
+        "para_id": "198.291",
+        "lang": "es",
+        "refcode": "HAp 60.4"
+      },
+      {
+        "para_id": "158.279",
+        "lang": "fr",
+        "refcode": "CP 66.1"
+      },
+      {
+        "para_id": "11938.259",
+        "lang": "hu",
+        "refcode": "AT 49.1"
+      },
+      {
+        "para_id": "12410.279",
+        "lang": "id",
+        "refcode": "KR 61.4"
+      },
+      {
+        "para_id": "882.256",
+        "lang": "it",
+        "refcode": "UVI 46.5"
+      },
+      {
+        "para_id": "11660.370",
+        "lang": "ja",
+        "refcode": "AAJ 73.2"
+      },
+      {
+        "para_id": "12335.246",
+        "lang": "nb",
+        "refcode": "AV 43.5"
+      },
+      {
+        "para_id": "12008.236",
+        "lang": "pl",
+        "refcode": "DA 42.2"
+      },
+      {
+        "para_id": "1806.263",
+        "lang": "pt",
+        "refcode": "AA 45.2"
+      },
+      {
+        "para_id": "2013.286",
+        "lang": "ro",
+        "refcode": "FA 73.3"
+      },
+      {
+        "para_id": "1785.268",
+        "lang": "ru",
+        "refcode": "ДА 73.3"
+      },
+      {
+        "para_id": "13874.247",
+        "lang": "rw",
+        "refcode": "INI 49.4"
+      },
+      {
+        "para_id": "11182.237",
+        "lang": "sk",
+        "refcode": "SA 47.5"
+      },
+      {
+        "para_id": "11904.272",
+        "lang": "tl",
+        "refcode": "AGA 57.3"
+      },
+      {
+        "para_id": "11875.254",
+        "lang": "uk",
+        "refcode": "ДА 48.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.297",
+    "id_prev": "127.296",
+    "id_next": "127.300",
+    "refcode_1": "AA",
+    "refcode_2": "73",
+    "refcode_3": "4",
+    "refcode_4": "",
+    "refcode_short": "AA 73.4",
+    "refcode_long": "The Acts of the Apostles, p. 73.4 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Infinite Wisdom saw that this signal manifestation of the wrath of God was necessary to guard the young church from becoming demoralized. Their numbers were rapidly increasing. The church would have been endangered if, in the rapid increase of converts, men and women had been added who, while professing to serve God, were worshiping mammon. This judgment testified that men cannot deceive God, that He detects the hidden sin of the heart, and that He will not be mocked. It was designed as a warning to <span class=\"page-break\" data-page=\"74\"></span> the church, to lead them to avoid pretense and hypocrisy, and to beware of robbing God.",
+    "puborder": 181,
+    "translations": [
+      {
+        "para_id": "13804.219",
+        "lang": "bg",
+        "refcode": "Дa 28.4"
+      },
+      {
+        "para_id": "11590.285",
+        "lang": "ce",
+        "refcode": "ABA 63.5"
+      },
+      {
+        "para_id": "11247.270",
+        "lang": "cs",
+        "refcode": "PNL 43.1"
+      },
+      {
+        "para_id": "813.294",
+        "lang": "de",
+        "refcode": "WA 74.1"
+      },
+      {
+        "para_id": "198.292",
+        "lang": "es",
+        "refcode": "HAp 60.5"
+      },
+      {
+        "para_id": "158.280",
+        "lang": "fr",
+        "refcode": "CP 66.2"
+      },
+      {
+        "para_id": "11938.260",
+        "lang": "hu",
+        "refcode": "AT 49.2"
+      },
+      {
+        "para_id": "12410.282",
+        "lang": "id",
+        "refcode": "KR 62.1"
+      },
+      {
+        "para_id": "882.259",
+        "lang": "it",
+        "refcode": "UVI 47.1"
+      },
+      {
+        "para_id": "11660.371",
+        "lang": "ja",
+        "refcode": "AAJ 73.3"
+      },
+      {
+        "para_id": "12335.247",
+        "lang": "nb",
+        "refcode": "AV 43.6"
+      },
+      {
+        "para_id": "12008.237",
+        "lang": "pl",
+        "refcode": "DA 42.3"
+      },
+      {
+        "para_id": "1806.265",
+        "lang": "pt",
+        "refcode": "AA 45.4"
+      },
+      {
+        "para_id": "2013.287",
+        "lang": "ro",
+        "refcode": "FA 73.4"
+      },
+      {
+        "para_id": "1785.269",
+        "lang": "ru",
+        "refcode": "ДА 73.4"
+      },
+      {
+        "para_id": "13874.249",
+        "lang": "rw",
+        "refcode": "INI 50.1"
+      },
+      {
+        "para_id": "11182.239",
+        "lang": "sk",
+        "refcode": "SA 48.1"
+      },
+      {
+        "para_id": "11904.273",
+        "lang": "tl",
+        "refcode": "AGA 57.4"
+      },
+      {
+        "para_id": "11875.255",
+        "lang": "uk",
+        "refcode": "ДА 48.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.300",
+    "id_prev": "127.297",
+    "id_next": "127.301",
+    "refcode_1": "AA",
+    "refcode_2": "74",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 74.1",
+    "refcode_long": "The Acts of the Apostles, p. 74.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "Not to the early church only, but to all future generations, this example of God&apos;s hatred of covetousness, fraud, and hypocrisy, was given as a danger-signal. It was covetousness that Ananias and Sapphira had first cherished. The desire to retain for themselves a part of that which they had promised to the Lord, led them into fraud and hypocrisy.",
+    "puborder": 182,
+    "translations": [
+      {
+        "para_id": "13804.220",
+        "lang": "bg",
+        "refcode": "Дa 28.5"
+      },
+      {
+        "para_id": "11590.288",
+        "lang": "ce",
+        "refcode": "ABA 64.1"
+      },
+      {
+        "para_id": "11247.271",
+        "lang": "cs",
+        "refcode": "PNL 43.2"
+      },
+      {
+        "para_id": "813.295",
+        "lang": "de",
+        "refcode": "WA 74.2"
+      },
+      {
+        "para_id": "198.295",
+        "lang": "es",
+        "refcode": "HAp 61.1"
+      },
+      {
+        "para_id": "158.281",
+        "lang": "fr",
+        "refcode": "CP 66.3"
+      },
+      {
+        "para_id": "11938.261",
+        "lang": "hu",
+        "refcode": "AT 49.3"
+      },
+      {
+        "para_id": "12410.283",
+        "lang": "id",
+        "refcode": "KR 62.2"
+      },
+      {
+        "para_id": "882.260",
+        "lang": "it",
+        "refcode": "UVI 47.2"
+      },
+      {
+        "para_id": "11660.374",
+        "lang": "ja",
+        "refcode": "AAJ 74.1"
+      },
+      {
+        "para_id": "12335.250",
+        "lang": "nb",
+        "refcode": "AV 44.1"
+      },
+      {
+        "para_id": "12008.239",
+        "lang": "pl",
+        "refcode": "DA 43.1"
+      },
+      {
+        "para_id": "1806.266",
+        "lang": "pt",
+        "refcode": "AA 45.5"
+      },
+      {
+        "para_id": "2013.290",
+        "lang": "ro",
+        "refcode": "FA 74.1"
+      },
+      {
+        "para_id": "1785.270",
+        "lang": "ru",
+        "refcode": "ДА 73.5"
+      },
+      {
+        "para_id": "13874.250",
+        "lang": "rw",
+        "refcode": "INI 50.2"
+      },
+      {
+        "para_id": "11182.240",
+        "lang": "sk",
+        "refcode": "SA 48.2"
+      },
+      {
+        "para_id": "11904.274",
+        "lang": "tl",
+        "refcode": "AGA 57.5"
+      },
+      {
+        "para_id": "11875.256",
+        "lang": "uk",
+        "refcode": "ДА 48.5"
+      }
+    ]
+  },
+  {
+    "para_id": "127.301",
+    "id_prev": "127.300",
+    "id_next": "127.302",
+    "refcode_1": "AA",
+    "refcode_2": "74",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 74.2",
+    "refcode_long": "The Acts of the Apostles, p. 74.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "God has made the proclamation of the gospel dependent upon the labors and the gifts of His people. Voluntary offerings and the tithe constitute the revenue of the Lord&apos;s work. Of the means entrusted to man, God claims a certain portion,&mdash;the tenth. He leaves all free to say whether or not they will give more than this. But when the heart is stirred by the influence of the Holy Spirit, and a vow is made to give a certain amount, the one who vows has no longer any right to the consecrated portion. Promises of this kind made to men would be looked upon as binding; are those not more binding that are made to God? Are promises tried in the court of conscience less binding than written agreements of men?",
+    "puborder": 183,
+    "translations": [
+      {
+        "para_id": "13804.221",
+        "lang": "bg",
+        "refcode": "Дa 28.6"
+      },
+      {
+        "para_id": "11590.289",
+        "lang": "ce",
+        "refcode": "ABA 64.2"
+      },
+      {
+        "para_id": "11247.273",
+        "lang": "cs",
+        "refcode": "PNL 43.3"
+      },
+      {
+        "para_id": "813.296",
+        "lang": "de",
+        "refcode": "WA 74.3"
+      },
+      {
+        "para_id": "198.296",
+        "lang": "es",
+        "refcode": "HAp 61.2"
+      },
+      {
+        "para_id": "158.282",
+        "lang": "fr",
+        "refcode": "CP 66.4"
+      },
+      {
+        "para_id": "11938.262",
+        "lang": "hu",
+        "refcode": "AT 49.4"
+      },
+      {
+        "para_id": "12410.284",
+        "lang": "id",
+        "refcode": "KR 62.3"
+      },
+      {
+        "para_id": "882.261",
+        "lang": "it",
+        "refcode": "UVI 47.3"
+      },
+      {
+        "para_id": "11660.375",
+        "lang": "ja",
+        "refcode": "AAJ 74.2"
+      },
+      {
+        "para_id": "12335.251",
+        "lang": "nb",
+        "refcode": "AV 44.2"
+      },
+      {
+        "para_id": "12008.240",
+        "lang": "pl",
+        "refcode": "DA 43.2"
+      },
+      {
+        "para_id": "1806.267",
+        "lang": "pt",
+        "refcode": "AA 45.6"
+      },
+      {
+        "para_id": "2013.291",
+        "lang": "ro",
+        "refcode": "FA 74.2"
+      },
+      {
+        "para_id": "1785.273",
+        "lang": "ru",
+        "refcode": "ДА 74.1"
+      },
+      {
+        "para_id": "13874.251",
+        "lang": "rw",
+        "refcode": "INI 50.3"
+      },
+      {
+        "para_id": "11182.241",
+        "lang": "sk",
+        "refcode": "SA 48.3"
+      },
+      {
+        "para_id": "11904.277",
+        "lang": "tl",
+        "refcode": "AGA 58.1"
+      },
+      {
+        "para_id": "11875.258",
+        "lang": "uk",
+        "refcode": "ДА 49.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.302",
+    "id_prev": "127.301",
+    "id_next": "127.305",
+    "refcode_1": "AA",
+    "refcode_2": "74",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 74.3",
+    "refcode_long": "The Acts of the Apostles, p. 74.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "When divine light is shining into the heart with unusual clearness and power, habitual selfishness relaxes its grasp and there is a disposition to give to the cause of God. But none need think that they will be allowed to fulfill the promises then made, without a protest on the part of Satan. He is not pleased to see the Redeemer&apos;s kingdom on earth built up. He suggests that the pledge made was too much, <span class=\"page-break\" data-page=\"75\"></span> that it may cripple them in their efforts to acquire property or gratify the desires of their families.",
+    "puborder": 184,
+    "translations": [
+      {
+        "para_id": "13804.222",
+        "lang": "bg",
+        "refcode": "Дa 28.7"
+      },
+      {
+        "para_id": "11590.290",
+        "lang": "ce",
+        "refcode": "ABA 64.3"
+      },
+      {
+        "para_id": "11247.274",
+        "lang": "cs",
+        "refcode": "PNL 43.4"
+      },
+      {
+        "para_id": "813.299",
+        "lang": "de",
+        "refcode": "WA 75.1"
+      },
+      {
+        "para_id": "198.297",
+        "lang": "es",
+        "refcode": "HAp 61.3"
+      },
+      {
+        "para_id": "158.285",
+        "lang": "fr",
+        "refcode": "CP 67.1"
+      },
+      {
+        "para_id": "11938.264",
+        "lang": "hu",
+        "refcode": "AT 50.1"
+      },
+      {
+        "para_id": "12410.287",
+        "lang": "id",
+        "refcode": "KR 63.1"
+      },
+      {
+        "para_id": "882.262",
+        "lang": "it",
+        "refcode": "UVI 47.4"
+      },
+      {
+        "para_id": "11660.376",
+        "lang": "ja",
+        "refcode": "AAJ 74.3"
+      },
+      {
+        "para_id": "12335.252",
+        "lang": "nb",
+        "refcode": "AV 44.3"
+      },
+      {
+        "para_id": "12008.241",
+        "lang": "pl",
+        "refcode": "DA 43.3"
+      },
+      {
+        "para_id": "1806.267",
+        "lang": "pt",
+        "refcode": "AA 45.6"
+      },
+      {
+        "para_id": "2013.292",
+        "lang": "ro",
+        "refcode": "FA 74.3"
+      },
+      {
+        "para_id": "1785.274",
+        "lang": "ru",
+        "refcode": "ДА 74.2"
+      },
+      {
+        "para_id": "13874.252",
+        "lang": "rw",
+        "refcode": "INI 50.4"
+      },
+      {
+        "para_id": "11182.242",
+        "lang": "sk",
+        "refcode": "SA 48.4"
+      },
+      {
+        "para_id": "11904.278",
+        "lang": "tl",
+        "refcode": "AGA 58.2"
+      },
+      {
+        "para_id": "11875.259",
+        "lang": "uk",
+        "refcode": "ДА 49.2"
+      }
+    ]
+  },
+  {
+    "para_id": "127.305",
+    "id_prev": "127.302",
+    "id_next": "127.306",
+    "refcode_1": "AA",
+    "refcode_2": "75",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 75.1",
+    "refcode_long": "The Acts of the Apostles, p. 75.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "It is God who blesses men with property, and He does this that they may be able to give toward the advancement of His cause. He sends the sunshine and the rain. He causes vegetation to flourish. He gives health and the ability to acquire means. All our blessings come from His bountiful hand. In turn, He would have men and women show their gratitude by returning Him a portion in tithes and offerings&mdash;in thank offerings, in freewill offerings, in trespass offerings. Should means flow into the treasury in accordance with this divinely appointed plan,&mdash;a tenth of all the increase, and liberal offerings,&mdash;there would be an abundance for the advancement of the Lord&apos;s work.",
+    "puborder": 185,
+    "translations": [
+      {
+        "para_id": "13804.223",
+        "lang": "bg",
+        "refcode": "Дa 28.8"
+      },
+      {
+        "para_id": "11590.293",
+        "lang": "ce",
+        "refcode": "ABA 65.1"
+      },
+      {
+        "para_id": "11247.275",
+        "lang": "cs",
+        "refcode": "PNL 43.5"
+      },
+      {
+        "para_id": "813.300",
+        "lang": "de",
+        "refcode": "WA 75.2"
+      },
+      {
+        "para_id": "198.298",
+        "lang": "es",
+        "refcode": "HAp 61.4"
+      },
+      {
+        "para_id": "158.286",
+        "lang": "fr",
+        "refcode": "CP 67.2"
+      },
+      {
+        "para_id": "11938.265",
+        "lang": "hu",
+        "refcode": "AT 50.2"
+      },
+      {
+        "para_id": "12410.288",
+        "lang": "id",
+        "refcode": "KR 63.2"
+      },
+      {
+        "para_id": "882.263",
+        "lang": "it",
+        "refcode": "UVI 47.5"
+      },
+      {
+        "para_id": "11660.379",
+        "lang": "ja",
+        "refcode": "AAJ 76.1"
+      },
+      {
+        "para_id": "12335.253",
+        "lang": "nb",
+        "refcode": "AV 44.4"
+      },
+      {
+        "para_id": "12008.242",
+        "lang": "pl",
+        "refcode": "DA 43.4"
+      },
+      {
+        "para_id": "1806.267",
+        "lang": "pt",
+        "refcode": "AA 45.6"
+      },
+      {
+        "para_id": "2013.295",
+        "lang": "ro",
+        "refcode": "FA 75.1"
+      },
+      {
+        "para_id": "1785.277",
+        "lang": "ru",
+        "refcode": "ДА 75.1"
+      },
+      {
+        "para_id": "13874.253",
+        "lang": "rw",
+        "refcode": "INI 50.5"
+      },
+      {
+        "para_id": "11182.243",
+        "lang": "sk",
+        "refcode": "SA 48.5"
+      },
+      {
+        "para_id": "11904.279",
+        "lang": "tl",
+        "refcode": "AGA 58.3"
+      },
+      {
+        "para_id": "11875.260",
+        "lang": "uk",
+        "refcode": "ДА 49.3"
+      }
+    ]
+  },
+  {
+    "para_id": "127.306",
+    "id_prev": "127.305",
+    "id_next": "127.307",
+    "refcode_1": "AA",
+    "refcode_2": "75",
+    "refcode_3": "2",
+    "refcode_4": "",
+    "refcode_short": "AA 75.2",
+    "refcode_long": "The Acts of the Apostles, p. 75.2 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "But the hearts of men become hardened through selfishness, and, like Ananias and Sapphira, they are tempted to withhold part of the price, while pretending to fulfill God&apos;s requirements. Many spend money lavishly in self-gratification. Men and women consult their pleasure and gratify their taste, while they bring to God, almost unwillingly, a stinted offering. They forget that God will one day demand a strict account of how His goods have been used, and that He will no more accept the pittance they hand into the treasury than He accepted the offering of Ananias and Sapphira.",
+    "puborder": 186,
+    "translations": [
+      {
+        "para_id": "13804.226",
+        "lang": "bg",
+        "refcode": "Дa 29.1"
+      },
+      {
+        "para_id": "11590.294",
+        "lang": "ce",
+        "refcode": "ABA 65.2"
+      },
+      {
+        "para_id": "11247.276",
+        "lang": "cs",
+        "refcode": "PNL 43.6"
+      },
+      {
+        "para_id": "813.301",
+        "lang": "de",
+        "refcode": "WA 75.3"
+      },
+      {
+        "para_id": "198.301",
+        "lang": "es",
+        "refcode": "HAp 62.1"
+      },
+      {
+        "para_id": "158.287",
+        "lang": "fr",
+        "refcode": "CP 67.3"
+      },
+      {
+        "para_id": "11938.266",
+        "lang": "hu",
+        "refcode": "AT 50.3"
+      },
+      {
+        "para_id": "12410.289",
+        "lang": "id",
+        "refcode": "KR 63.3"
+      },
+      {
+        "para_id": "882.266",
+        "lang": "it",
+        "refcode": "UVI 48.1"
+      },
+      {
+        "para_id": "11660.380",
+        "lang": "ja",
+        "refcode": "AAJ 76.2"
+      },
+      {
+        "para_id": "12335.255",
+        "lang": "nb",
+        "refcode": "AV 45.1"
+      },
+      {
+        "para_id": "12008.243",
+        "lang": "pl",
+        "refcode": "DA 43.5"
+      },
+      {
+        "para_id": "1806.271",
+        "lang": "pt",
+        "refcode": "AA 46.2"
+      },
+      {
+        "para_id": "2013.296",
+        "lang": "ro",
+        "refcode": "FA 75.2"
+      },
+      {
+        "para_id": "1785.278",
+        "lang": "ru",
+        "refcode": "ДА 75.2"
+      },
+      {
+        "para_id": "13874.256",
+        "lang": "rw",
+        "refcode": "INI 51.1"
+      },
+      {
+        "para_id": "11182.246",
+        "lang": "sk",
+        "refcode": "SA 49.1"
+      },
+      {
+        "para_id": "11904.280",
+        "lang": "tl",
+        "refcode": "AGA 58.4"
+      },
+      {
+        "para_id": "11875.261",
+        "lang": "uk",
+        "refcode": "ДА 49.4"
+      }
+    ]
+  },
+  {
+    "para_id": "127.307",
+    "id_prev": "127.306",
+    "id_next": "127.310",
+    "refcode_1": "AA",
+    "refcode_2": "75",
+    "refcode_3": "3",
+    "refcode_4": "",
+    "refcode_short": "AA 75.3",
+    "refcode_long": "The Acts of the Apostles, p. 75.3 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "From the stern punishment meted out to those perjurers, God would have us learn also how deep is His hatred and contempt for all hypocrisy and deception. In pretending <span class=\"page-break\" data-page=\"76\"></span> that they had given all, Ananias and Sapphira lied to the Holy Spirit, and, as a result, they lost this life and the life that is to come. The same God who punished them, today condemns all falsehood. Lying lips are an abomination to Him. He declares that into the Holy City &ldquo;there shall in no wise enter ... anything that defileth, neither whatsoever worketh abomination, or maketh a lie.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Revelation 21:27\" data-link=\"1965.63417\">Revelation 21:27</span>. Let truth telling be held with no loose hand or uncertain grasp. Let it become a part of the life. Playing fast and loose with truth, and dissembling to suit one&apos;s own selfish plans, means shipwreck of faith. &ldquo;Stand therefore, having your loins girt about with truth.&rdquo; <span class=\"egwlink egwlink_bible\" title=\"Ephesians 6:14\" data-link=\"1965.59857\">Ephesians 6:14</span>. He who utters untruths sells his soul in a cheap market. His falsehoods may seem to serve in emergencies; he may thus seem to make business advancement that he could not gain by fair dealing; but he finally reaches the place where he can trust no one. Himself a falsifier, he has no confidence in the word of others.",
+    "puborder": 187,
+    "translations": [
+      {
+        "para_id": "13804.227",
+        "lang": "bg",
+        "refcode": "Дa 29.2"
+      },
+      {
+        "para_id": "11590.295",
+        "lang": "ce",
+        "refcode": "ABA 65.3"
+      },
+      {
+        "para_id": "11247.279",
+        "lang": "cs",
+        "refcode": "PNL 44.1"
+      },
+      {
+        "para_id": "813.304",
+        "lang": "de",
+        "refcode": "WA 76.1"
+      },
+      {
+        "para_id": "198.302",
+        "lang": "es",
+        "refcode": "HAp 62.2"
+      },
+      {
+        "para_id": "158.290",
+        "lang": "fr",
+        "refcode": "CP 68.1"
+      },
+      {
+        "para_id": "11938.267",
+        "lang": "hu",
+        "refcode": "AT 50.4"
+      },
+      {
+        "para_id": "12410.291",
+        "lang": "id",
+        "refcode": "KR 64.1"
+      },
+      {
+        "para_id": "882.267",
+        "lang": "it",
+        "refcode": "UVI 48.2"
+      },
+      {
+        "para_id": "11660.381",
+        "lang": "ja",
+        "refcode": "AAJ 76.3"
+      },
+      {
+        "para_id": "12335.256",
+        "lang": "nb",
+        "refcode": "AV 45.2"
+      },
+      {
+        "para_id": "12008.244",
+        "lang": "pl",
+        "refcode": "DA 43.6"
+      },
+      {
+        "para_id": "1806.272",
+        "lang": "pt",
+        "refcode": "AA 46.3"
+      },
+      {
+        "para_id": "2013.297",
+        "lang": "ro",
+        "refcode": "FA 75.3"
+      },
+      {
+        "para_id": "1785.279",
+        "lang": "ru",
+        "refcode": "ДА 75.3"
+      },
+      {
+        "para_id": "13874.257",
+        "lang": "rw",
+        "refcode": "INI 51.2"
+      },
+      {
+        "para_id": "11182.247",
+        "lang": "sk",
+        "refcode": "SA 49.2"
+      },
+      {
+        "para_id": "11904.283",
+        "lang": "tl",
+        "refcode": "AGA 59.1"
+      },
+      {
+        "para_id": "11875.264",
+        "lang": "uk",
+        "refcode": "ДА 50.1"
+      }
+    ]
+  },
+  {
+    "para_id": "127.310",
+    "id_prev": "127.307",
+    "id_next": "127.312",
+    "refcode_1": "AA",
+    "refcode_2": "76",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "AA 76.1",
+    "refcode_long": "The Acts of the Apostles, p. 76.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "In the case of Ananias and Sapphira, the sin of fraud against God was speedily punished. The same sin was often repeated in the after history of the church and is committed by many in our time. But though it may not be attended by the visible manifestation of God&apos;s displeasure, it is no less heinous in His sight now than in the apostles&rsquo; time. The warning has been given; God has clearly manifested His abhorrence of this sin; and all who give themselves up to hypocrisy and covetousness may be sure that they are destroying their own souls.",
+    "puborder": 188,
+    "translations": [
+      {
+        "para_id": "13804.228",
+        "lang": "bg",
+        "refcode": "Дa 29.3"
+      },
+      {
+        "para_id": "11590.298",
+        "lang": "ce",
+        "refcode": "ABA 66.1"
+      },
+      {
+        "para_id": "11247.280",
+        "lang": "cs",
+        "refcode": "PNL 44.2"
+      },
+      {
+        "para_id": "813.305",
+        "lang": "de",
+        "refcode": "WA 76.2"
+      },
+      {
+        "para_id": "198.305",
+        "lang": "es",
+        "refcode": "HAp 63.1"
+      },
+      {
+        "para_id": "158.291",
+        "lang": "fr",
+        "refcode": "CP 68.2"
+      },
+      {
+        "para_id": "11938.270",
+        "lang": "hu",
+        "refcode": "AT 51.1"
+      },
+      {
+        "para_id": "12410.292",
+        "lang": "id",
+        "refcode": "KR 64.2"
+      },
+      {
+        "para_id": "882.268",
+        "lang": "it",
+        "refcode": "UVI 48.3"
+      },
+      {
+        "para_id": "11660.384",
+        "lang": "ja",
+        "refcode": "AAJ 77.1"
+      },
+      {
+        "para_id": "12335.257",
+        "lang": "nb",
+        "refcode": "AV 45.3"
+      },
+      {
+        "para_id": "12008.247",
+        "lang": "pl",
+        "refcode": "DA 44.1"
+      },
+      {
+        "para_id": "1806.273",
+        "lang": "pt",
+        "refcode": "AA 46.4"
+      },
+      {
+        "para_id": "2013.300",
+        "lang": "ro",
+        "refcode": "FA 76.1"
+      },
+      {
+        "para_id": "1785.282",
+        "lang": "ru",
+        "refcode": "ДА 76.1"
+      },
+      {
+        "para_id": "13874.259",
+        "lang": "rw",
+        "refcode": "INI 51.4"
+      },
+      {
+        "para_id": "11182.248",
+        "lang": "sk",
+        "refcode": "SA 49.3"
+      },
+      {
+        "para_id": "11904.284",
+        "lang": "tl",
+        "refcode": "AGA 59.2"
+      },
+      {
+        "para_id": "11875.265",
+        "lang": "uk",
+        "refcode": "ДА 50.2"
+      }
+    ]
+  }
+]

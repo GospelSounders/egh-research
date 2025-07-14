@@ -1,0 +1,106 @@
+[
+  {
+    "para_id": "21.786",
+    "id_prev": "21.783",
+    "id_next": "21.787",
+    "refcode_1": "CSW",
+    "refcode_2": "169",
+    "refcode_3": "",
+    "refcode_4": "130",
+    "refcode_short": "CSW 169",
+    "refcode_long": "Counsels on Sabbath School Work, p. 169 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "A Child&apos;s Observation",
+    "puborder": 495,
+    "translations": [
+      {
+        "para_id": "11629.765",
+        "lang": "da",
+        "refcode": "RSSA 169"
+      },
+      {
+        "para_id": "799.736",
+        "lang": "de",
+        "refcode": "RSs 137"
+      },
+      {
+        "para_id": "1711.844",
+        "lang": "es",
+        "refcode": "COES 189"
+      },
+      {
+        "para_id": "1724.829",
+        "lang": "pt",
+        "refcode": "CES 169"
+      },
+      {
+        "para_id": "1917.928",
+        "lang": "pt",
+        "refcode": "CES38 89"
+      },
+      {
+        "para_id": "2719.805",
+        "lang": "ro",
+        "refcode": "SSS 169"
+      },
+      {
+        "para_id": "1873.780",
+        "lang": "ru",
+        "refcode": "ССШ 169"
+      }
+    ]
+  },
+  {
+    "para_id": "21.787",
+    "id_prev": "21.786",
+    "id_next": "21.788",
+    "refcode_1": "CSW",
+    "refcode_2": "169",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 169.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 169.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "There was a general superintendent of Sabbath schools who, while addressing a Sabbath school upon one occasion, was very dry, lengthy, and uninteresting. A mother asked her daughter of ten years if she enjoyed the exercise, and also, &ldquo;What did the minister say?&rdquo; Said the little girl &ldquo;He said, and he said, and he said, and he didn&apos;t say anything.&rdquo; Now, we do not want any such account of our labor as that. We want the very best of training for the work that we can possibly have ourselves, so that we can make a success in teaching others the things that we have learned.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 111.1\" data-link=\"121.450\"><em>Testimonies on Sabbath-School Work</em>, 111, 112</span>.",
+    "puborder": 496,
+    "translations": [
+      {
+        "para_id": "11629.766",
+        "lang": "da",
+        "refcode": "RSSA 169.1"
+      },
+      {
+        "para_id": "799.737",
+        "lang": "de",
+        "refcode": "RSs 137.2"
+      },
+      {
+        "para_id": "1711.845",
+        "lang": "es",
+        "refcode": "COES 189.1"
+      },
+      {
+        "para_id": "1724.830",
+        "lang": "pt",
+        "refcode": "CES 169.1"
+      },
+      {
+        "para_id": "1917.929",
+        "lang": "pt",
+        "refcode": "CES38 89.1"
+      },
+      {
+        "para_id": "2719.806",
+        "lang": "ro",
+        "refcode": "SSS 169.1"
+      },
+      {
+        "para_id": "1873.781",
+        "lang": "ru",
+        "refcode": "ССШ 169.1"
+      }
+    ]
+  }
+]

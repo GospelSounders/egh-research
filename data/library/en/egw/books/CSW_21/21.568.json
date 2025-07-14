@@ -1,0 +1,111 @@
+[
+  {
+    "para_id": "21.568",
+    "id_prev": "21.565",
+    "id_next": "21.569",
+    "refcode_1": "CSW",
+    "refcode_2": "122",
+    "refcode_3": "",
+    "refcode_4": "84",
+    "refcode_short": "CSW 122",
+    "refcode_long": "Counsels on Sabbath School Work, p. 122 (Ellen Gould White)",
+    "element_type": "h4",
+    "element_subtype": "",
+    "content": "Giving Wholehearted Service",
+    "puborder": 356,
+    "translations": [
+      {
+        "para_id": "11629.541",
+        "lang": "da",
+        "refcode": "RSSA 122"
+      },
+      {
+        "para_id": "799.538",
+        "lang": "de",
+        "refcode": "RSs 101"
+      },
+      {
+        "para_id": "1711.605",
+        "lang": "es",
+        "refcode": "COES 135"
+      },
+      {
+        "para_id": "1724.603",
+        "lang": "pt",
+        "refcode": "CES 122"
+      },
+      {
+        "para_id": "1917.665",
+        "lang": "pt",
+        "refcode": "CES38 63"
+      },
+      {
+        "para_id": "2719.584",
+        "lang": "ro",
+        "refcode": "SSS 122"
+      },
+      {
+        "para_id": "1873.563",
+        "lang": "ru",
+        "refcode": "ССШ 122"
+      }
+    ]
+  },
+  {
+    "para_id": "21.569",
+    "id_prev": "21.568",
+    "id_next": "21.570",
+    "refcode_1": "CSW",
+    "refcode_2": "122",
+    "refcode_3": "1",
+    "refcode_4": "",
+    "refcode_short": "CSW 122.1",
+    "refcode_long": "Counsels on Sabbath School Work, p. 122.1 (Ellen Gould White)",
+    "element_type": "p",
+    "element_subtype": "standard-indented",
+    "content": "The Lord would have teachers in the Sabbath school work who can give wholehearted service, who will increase their talent by exercise, and make improvement on what has already been attained. The Lord would have working Christians in His church; for the worker has fewer temptations than those who have little to do. Those who truly believe in Christ will become laborers together with God. They will be governed by His Spirit; their affections will be purified, their passions will be controlled, and precious fruits will appear in their lives for the glory of God; for those who truly believe in Christ will reflect light.&mdash;<span class=\"egwlink egwlink_book\" title=\"TSS 53.1\" data-link=\"121.206\"><em>Testimonies on Sabbath-School Work</em>, 53</span>.",
+    "puborder": 357,
+    "translations": [
+      {
+        "para_id": "11629.542",
+        "lang": "da",
+        "refcode": "RSSA 122.1"
+      },
+      {
+        "para_id": "799.539",
+        "lang": "de",
+        "refcode": "RSs 101.2"
+      },
+      {
+        "para_id": "1711.606",
+        "lang": "es",
+        "refcode": "COES 135.2"
+      },
+      {
+        "para_id": "1917.666",
+        "lang": "pt",
+        "refcode": "CES38 63.5"
+      },
+      {
+        "para_id": "1724.604",
+        "lang": "pt",
+        "refcode": "CES 122.1"
+      },
+      {
+        "para_id": "2719.585",
+        "lang": "ro",
+        "refcode": "SSS 122.1"
+      },
+      {
+        "para_id": "2719.586",
+        "lang": "ro",
+        "refcode": "SSS 122.2"
+      },
+      {
+        "para_id": "1873.564",
+        "lang": "ru",
+        "refcode": "ССШ 122.1"
+      }
+    ]
+  }
+]
