@@ -59,6 +59,12 @@ jobs:
           rm -rf apps/website/src/app/api/test-db
           rm -f apps/website/src/lib/database.ts
           
+          # Remove API routes with dynamic exports that are incompatible with static export
+          rm -rf apps/website/src/app/api/books/[bookId]/content-db
+          rm -rf apps/website/src/app/api/books/[bookId]/content
+          rm -rf apps/website/src/app/api/pdf
+          rm -rf apps/website/src/app/api/research
+          
           # Remove dynamic pages that need generateStaticParams for static export
           rm -rf apps/website/src/app/books/[bookId]/pdf
           rm -rf apps/website/src/app/books/[bookId]/read
