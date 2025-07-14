@@ -2,8 +2,8 @@
 
 **Complete offline research platform for Ellen Gould Harmon's writings with PDF generation and Docker deployment**
 
-[![Docker Build](https://github.com/Surgbc/egh-research/actions/workflows/docker-build.yml/badge.svg)](https://github.com/Surgbc/egh-research/actions/workflows/docker-build.yml)
-[![CI](https://github.com/Surgbc/egh-research/actions/workflows/ci.yml/badge.svg)](https://github.com/Surgbc/egh-research/actions/workflows/ci.yml)
+[![Docker Build](https://github.com/GospelSounders/egh-research/actions/workflows/docker-build.yml/badge.svg)](https://github.com/GospelSounders/egh-research/actions/workflows/docker-build.yml)
+[![CI](https://github.com/GospelSounders/egh-research/actions/workflows/ci.yml/badge.svg)](https://github.com/GospelSounders/egh-research/actions/workflows/ci.yml)
 [![NPM Package](https://img.shields.io/badge/npm-@surgbc%2Fegw--research-blue)](https://www.npmjs.com/~surgbc)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,15 +13,15 @@ The fastest way to get started is with our pre-built Docker image:
 
 ```bash
 # Pull and run the latest image
-docker pull ghcr.io/surgbc/egh-research-server:latest
-docker run -p 3000:3000 ghcr.io/surgbc/egh-research-server:latest
+docker pull ghcr.io/gospelsounders/egh-research-server:latest
+docker run -p 3000:3000 ghcr.io/gospelsounders/egh-research-server:latest
 
 # Test the API
 curl http://localhost:3000/health
 curl http://localhost:3000/api/docs
 ```
 
-**🌐 [Live API Documentation](https://surgbc.github.io/egh-research/docs/api)** | **📚 [Full Documentation](https://surgbc.github.io/egh-research/)**
+**🌐 [Live API Documentation](https://gospelsounders.github.io/egh-research/docs/api)** | **📚 [Full Documentation](https://gospelsounders.github.io/egh-research/)**
 
 ## 🌟 Overview
 
@@ -63,11 +63,11 @@ EGH Research is a comprehensive platform for offline research of Ellen Gould Har
 
 ```bash
 # Using Docker Run
-docker pull ghcr.io/surgbc/egh-research-server:latest
-docker run -p 3000:3000 ghcr.io/surgbc/egh-research-server:latest
+docker pull ghcr.io/gospelsounders/egh-research-server:latest
+docker run -p 3000:3000 ghcr.io/gospelsounders/egh-research-server:latest
 
 # Using Docker Compose
-curl -O https://raw.githubusercontent.com/Surgbc/egh-research/master/apps/local-server/docker-compose.yml
+curl -O https://raw.githubusercontent.com/GospelSounders/egh-research/master/apps/local-server/docker-compose.yml
 docker-compose up -d
 ```
 
@@ -88,7 +88,7 @@ egw-research-server --http --port 3000
 
 ```bash
 # Clone and setup
-git clone https://github.com/surgbc/egh-research.git
+git clone https://github.com/GospelSounders/egh-research.git
 cd egh-research
 pnpm install && pnpm build
 
@@ -162,7 +162,7 @@ GET /pdf/download/{token}
 - `get_context` - Contextual paragraph retrieval
 - `get_database_stats` - Database metrics and statistics
 
-**📚 [Complete API Documentation](https://surgbc.github.io/egh-research/docs/api)**
+**📚 [Complete API Documentation](https://gospelsounders.github.io/egh-research/docs/api)**
 
 ## 🐳 Docker & Production
 
@@ -170,7 +170,7 @@ GET /pdf/download/{token}
 
 ```bash
 # Pull latest production image
-docker pull ghcr.io/surgbc/egh-research-server:latest
+docker pull ghcr.io/gospelsounders/egh-research-server:latest
 
 # Run with persistent storage and health checks
 docker run -d \
@@ -180,7 +180,7 @@ docker run -d \
   --restart unless-stopped \
   --health-cmd="curl -f http://localhost:3000/health || exit 1" \
   --health-interval=30s \
-  ghcr.io/surgbc/egh-research-server:latest
+  ghcr.io/gospelsounders/egh-research-server:latest
 ```
 
 ### Build from Source
@@ -303,7 +303,7 @@ When using this software in academic work, please cite:
 ```
 EGH Research Platform. (2024). 
 Offline research platform for Ellen Gould Harmon's writings.
-GitHub: https://github.com/surgbc/egh-research
+GitHub: https://github.com/GospelSounders/egh-research
 ```
 
 ## 🔒 Security & Privacy
@@ -321,11 +321,11 @@ See [LICENSE](./LICENSE) for full terms.
 
 ## 🙋‍♂️ Support
 
-- **📖 Documentation**: [https://surgbc.github.io/egh-research/](https://surgbc.github.io/egh-research/)
-- **🐛 Issues**: [GitHub Issues](https://github.com/surgbc/egh-research/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/surgbc/egh-research/discussions)
+- **📖 Documentation**: [https://gospelsounders.github.io/egh-research/](https://gospelsounders.github.io/egh-research/)
+- **🐛 Issues**: [GitHub Issues](https://github.com/GospelSounders/egh-research/issues)
+- **💬 Discussions**: [GitHub Discussions](https://github.com/GospelSounders/egh-research/discussions)
 - **📧 Email**: Contact maintainers for security issues
 
 ---
 
-**Developed by [surgbc](https://github.com/surgbc) • Built with ❤️ for educational and research purposes**
+**Developed by [GospelSounders](https://github.com/GospelSounders) • Built with ❤️ for educational and research purposes**
