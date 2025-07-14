@@ -1,0 +1,39 @@
+{
+  "name": "egh-research",
+  "version": "1.0.0",
+  "description": "EGH Research - MCP Server and API for offline access to Ellen Gould Harmon's writings with PDF generation",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "turbo build",
+    "test": "turbo test",
+    "lint": "turbo lint",
+    "dev": "turbo dev",
+    "start": "turbo start",
+    "clean": "turbo clean",
+    "download": "turbo download",
+    "download:all": "node scripts/download-all-books.js",
+    "download:sample": "node scripts/download-sample-books.js",
+    "export:books": "node scripts/export-books-json.js",
+    "populate:db": "npm run download:sample && npm run export:books"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol", 
+    "egh",
+    "ellen-gould-harmon",
+    "research",
+    "research",
+    "monorepo"
+  ],
+  "author": "surgbc",
+  "license": "MIT",
+  "devDependencies": {
+    "turbo": "^2.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "packageManager": "pnpm@8.15.0"
+}
