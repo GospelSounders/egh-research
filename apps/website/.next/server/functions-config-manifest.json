@@ -1,1 +1,0 @@
-{"version":1,"functions":{"/api/books/[bookId]/content-db":{},"/api/books/[bookId]/content":{},"/api/egw/books/categories":{},"/api/egw/books":{},"/api/pdf/download/[bookId]":{},"/api/pdf/generate":{},"/api/test-db":{},"/about":{},"/contact":{},"/legal/privacy":{},"/legal/copyright":{},"/docs/packages":{},"/legal/terms":{},"/":{}}}

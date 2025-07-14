@@ -7,10 +7,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:static": "BUILD_MODE=static next build",
+    "export": "BUILD_MODE=static next build",
     "start": "next start",
     "lint": "next lint",
     "type-check": "tsc --noEmit",
-    "clean": "rimraf .next dist"
+    "clean": "rimraf .next dist out"
   },
   "dependencies": {
     "@surgbc/egw-writings-shared": "workspace:*",

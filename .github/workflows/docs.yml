@@ -39,188 +39,37 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Generate API documentation
+      - name: Generate documentation data and build website
         run: |
-          mkdir -p docs/api
+          # Generate comprehensive documentation data from ZIP files and books export
+          node scripts/generate-docs-data.js
           
-          # Generate TypeScript documentation (if TypeDoc is available)
-          if command -v typedoc &> /dev/null; then
-            npx typedoc --out docs/api apps/local-server/src/
-          fi
+          # Copy JSON data to website public directory for pseudo-API access
+          mkdir -p apps/website/public/api
+          cp docs/data.json apps/website/public/api/
+          cp docs/books.json apps/website/public/api/
+          cp docs/zip-structure.json apps/website/public/api/
+          cp docs/api-endpoints.json apps/website/public/api/
           
-          # Create API reference from source
-          cat > docs/api/README.md << 'EOF'
-          # EGH Research API Documentation
+          # Copy books export data for direct access
+          cp data/books-export.json apps/website/public/api/books-export.json
           
-          ## Overview
+          # Build the Next.js website for static export
+          cd apps/website
+          pnpm export
           
-          The EGH Research Server provides a comprehensive REST API for accessing Ellen Gould Harmon's writings offline.
+          # Copy exported site to root docs directory for GitHub Pages
+          cd ../..
+          rm -rf docs/*
+          cp -r apps/website/out/* docs/
           
-          ## Base URL
-          
-          ```
-          http://localhost:3000
-          ```
-          
-          ## Authentication
-          
-          Currently, no authentication is required for local access.
-          
-          ## Endpoints
-          
-          ### Health Check
-          
-          ```http
-          GET /health
-          ```
-          
-          Returns server health status and database statistics.
-          
-          ### API Documentation
-          
-          ```http
-          GET /api/docs
-          ```
-          
-          Returns interactive API documentation.
-          
-          ### Books
-          
-          #### List Books
-          
-          ```http
-          GET /content/books?page=1&limit=50&lang=en
-          ```
-          
-          Returns paginated list of available books.
-          
-          **Parameters:**
-          - `page` (optional): Page number (default: 1)
-          - `limit` (optional): Items per page (default: 50)
-          - `lang` (optional): Language code (default: en)
-          
-          #### Get Book Details
-          
-          ```http
-          GET /content/books/{id}
-          ```
-          
-          Returns detailed information about a specific book.
-          
-          #### Get Table of Contents
-          
-          ```http
-          GET /content/books/{id}/toc
-          ```
-          
-          Returns the table of contents for a book.
-          
-          #### Get Chapter Content
-          
-          ```http
-          GET /content/books/{id}/chapters/{chapter}
-          ```
-          
-          Returns content for a specific chapter.
-          
-          ### PDF Generation
-          
-          #### Generate PDF
-          
-          ```http
-          POST /content/books/{id}/generate-pdf
-          Content-Type: application/json
-          
-          {
-            "config": {
-              "pageSize": "A4",
-              "fontSize": 12,
-              "fontFamily": "Times",
-              "margins": {
-                "top": 72,
-                "bottom": 72,
-                "left": 72,
-                "right": 72
-              }
-            }
-          }
-          ```
-          
-          Starts PDF generation for a book with custom formatting options.
-          
-          #### Check PDF Status
-          
-          ```http
-          GET /pdf/status/{token}
-          ```
-          
-          Returns the status of a PDF generation job.
-          
-          #### Download PDF
-          
-          ```http
-          GET /pdf/download/{token}
-          ```
-          
-          Downloads the generated PDF file.
-          
-          ### Search
-          
-          ```http
-          GET /search?q=query&limit=20&offset=0
-          ```
-          
-          Performs full-text search across all content.
-          
-          **Parameters:**
-          - `q`: Search query (required)
-          - `limit` (optional): Maximum results (default: 20)
-          - `offset` (optional): Result offset (default: 0)
-          
-          ### Statistics
-          
-          ```http
-          GET /stats
-          ```
-          
-          Returns database and server statistics.
-          
-          ## Response Formats
-          
-          All responses are in JSON format with consistent error handling:
-          
-          ```json
-          {
-            "error": "Error message",
-            "status": 404
-          }
-          ```
-          
-          ## Docker Usage
-          
-          ```bash
-          # Pull the latest image
-          docker pull ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
-          
-          # Run with port mapping
-          docker run -p 3000:3000 ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
-          
-          # Or use docker-compose
-          docker-compose up -d
-          ```
-          EOF
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./docs
-          destination: ./_site
+          # Ensure JSON files are available at root for direct download
+          cp apps/website/public/api/* docs/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs
 
   deploy-docs:
     environment:

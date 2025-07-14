@@ -12,8 +12,10 @@ const nextConfig = {
   images: {
     domains: [],
   },
-  // Docker configuration
-  output: 'standalone',
+  // Build configuration - support both Docker and static export
+  output: process.env.BUILD_MODE === 'static' ? 'export' : 'standalone',
+  trailingSlash: true,
+  distDir: process.env.BUILD_MODE === 'static' ? 'out' : '.next',
   // SEO optimizations
   generateEtags: true,
   poweredByHeader: false,
