@@ -54,8 +54,15 @@ jobs:
           # Copy books export data for direct access
           cp data/books-export.json apps/website/public/api/books-export.json
           
-          # Build the Next.js website for static export
+          # Clean up any problematic API routes that depend on shared packages
+          rm -rf apps/website/src/app/api/egw/books/[bookId]
+          rm -rf apps/website/src/app/api/test-db
+          
+          # Clean build cache to avoid stale imports
           cd apps/website
+          rm -rf .next out
+          
+          # Build the Next.js website for static export
           pnpm export
           
           # Copy exported site to root docs directory for GitHub Pages
