@@ -2,8 +2,8 @@
 
 **Complete offline research platform for Ellen Gould Harmon's writings with PDF generation and Docker deployment**
 
-[![Docker Build](https://github.com/GospelSounders/egw-writings-mcp/actions/workflows/docker-build.yml/badge.svg)](https://github.com/GospelSounders/egw-writings-mcp/actions/workflows/docker-build.yml)
-[![CI](https://github.com/GospelSounders/egw-writings-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/GospelSounders/egw-writings-mcp/actions/workflows/ci.yml)
+[![Docker Build](https://github.com/Surgbc/egh-research/actions/workflows/docker-build.yml/badge.svg)](https://github.com/Surgbc/egh-research/actions/workflows/docker-build.yml)
+[![CI](https://github.com/Surgbc/egh-research/actions/workflows/ci.yml/badge.svg)](https://github.com/Surgbc/egh-research/actions/workflows/ci.yml)
 [![NPM Package](https://img.shields.io/badge/npm-@surgbc%2Fegw--research-blue)](https://www.npmjs.com/~surgbc)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

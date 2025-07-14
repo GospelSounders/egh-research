@@ -85,14 +85,14 @@ function getBasePath(): string {
   if (typeof window !== 'undefined') {
     // Client-side: detect from current URL
     const pathname = window.location.pathname;
-    if (pathname.startsWith('/egw-writings-mcp')) {
-      return '/egw-writings-mcp';
+    if (pathname.startsWith('/egh-research')) {
+      return '/egh-research';
     }
   }
   
   // Server-side or fallback
   if (process.env.NODE_ENV === 'production') {
-    return '/egw-writings-mcp';
+    return '/egh-research';
   }
   
   return '';
