@@ -8,6 +8,10 @@ import { EGWDatabase } from '@surgbc/egw-writings-shared';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 
+// Export classes and types for library usage
+export { PDFGenerator } from './generators/pdf-generator.js';
+export { PDFConfig, BookGenerationOptions, ResearchCompilationOptions, GenerationProgress } from './types/index.js';
+
 const program = new Command();
 
 program
@@ -183,4 +187,7 @@ program
     }
   });
 
-program.parse();
+// Only run CLI when this module is executed directly
+if (import.meta.url === `file://${process.argv[1]}`) {
+  program.parse();
+}

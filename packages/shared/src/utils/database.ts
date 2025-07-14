@@ -352,7 +352,7 @@ export class EGWDatabase {
     return { category: 'reference', subcategory: 'general' };
   }
 
-  getBooks(languageCode?: string, folderId?: number, category?: string, subcategory?: string) {
+  getBooks(languageCode?: string, limit?: number, offset?: number, folderId?: number, category?: string, subcategory?: string) {
     let query = 'SELECT * FROM books';
     const params: any[] = [];
     const conditions: string[] = [];
@@ -383,8 +383,52 @@ export class EGWDatabase {
     
     query += ' ORDER BY sort_order, title';
     
+    if (limit) {
+      query += ' LIMIT ?';
+      params.push(limit);
+      
+      if (offset) {
+        query += ' OFFSET ?';
+        params.push(offset);
+      }
+    }
+    
     const stmt = this.db.prepare(query);
     return stmt.all(...params);
+  }
+
+  getBookCount(languageCode?: string, folderId?: number, category?: string, subcategory?: string): number {
+    let query = 'SELECT COUNT(*) as count FROM books';
+    const params: any[] = [];
+    const conditions: string[] = [];
+    
+    if (languageCode) {
+      conditions.push('lang = ?');
+      params.push(languageCode);
+    }
+    
+    if (folderId) {
+      conditions.push('folder_id = ?');
+      params.push(folderId);
+    }
+    
+    if (category) {
+      conditions.push('category = ?');
+      params.push(category);
+    }
+    
+    if (subcategory) {
+      conditions.push('subcategory = ?');
+      params.push(subcategory);
+    }
+    
+    if (conditions.length > 0) {
+      query += ' WHERE ' + conditions.join(' AND ');
+    }
+    
+    const stmt = this.db.prepare(query);
+    const result = stmt.get(...params) as { count: number };
+    return result.count;
   }
 
   // Get books organized by categories
@@ -482,6 +526,7 @@ export class EGWDatabase {
         p.book_id,
         b.code as pub_code,
         b.title as pub_name,
+        b.author,
         p.refcode_long,
         p.refcode_short,
         b.pub_year,
@@ -502,8 +547,10 @@ export class EGWDatabase {
       index: offset + index,
       lang: row.lang,
       para_id: row.para_id,
+      book_id: row.book_id,
       pub_code: row.pub_code,
       pub_name: row.pub_name,
+      author: row.author,
       refcode_long: row.refcode_long,
       refcode_short: row.refcode_short,
       pub_year: row.pub_year,

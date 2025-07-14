@@ -1,0 +1,153 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+
+permissions:
+  contents: write
+  packages: write
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    outputs:
+      upload_url: ${{ steps.create_release.outputs.upload_url }}
+      version: ${{ steps.get_version.outputs.version }}
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get version from tag
+        id: get_version
+        run: echo "version=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+
+      - name: Generate changelog
+        id: changelog
+        run: |
+          # Get the previous tag
+          PREV_TAG=$(git describe --tags --abbrev=0 HEAD~1 2>/dev/null || echo "")
+          
+          # Generate changelog since previous tag
+          if [ -n "$PREV_TAG" ]; then
+            echo "## Changes since $PREV_TAG" > CHANGELOG.md
+            echo "" >> CHANGELOG.md
+            git log --oneline --pretty=format:"- %s (%h)" $PREV_TAG..HEAD >> CHANGELOG.md
+          else
+            echo "## Initial Release" > CHANGELOG.md
+            echo "" >> CHANGELOG.md
+            echo "- Initial release of EGH Research Server" >> CHANGELOG.md
+            echo "- Offline API for Ellen Gould Harmon research" >> CHANGELOG.md
+            echo "- PDF generation capabilities" >> CHANGELOG.md
+            echo "- Docker containerization" >> CHANGELOG.md
+          fi
+          
+          echo "" >> CHANGELOG.md
+          echo "## 📦 Docker Image" >> CHANGELOG.md
+          echo "" >> CHANGELOG.md
+          echo "\`\`\`bash" >> CHANGELOG.md
+          echo "docker pull ghcr.io/${{ github.repository_owner }}/egh-research-server:${{ steps.get_version.outputs.version }}" >> CHANGELOG.md
+          echo "docker run -p 3000:3000 ghcr.io/${{ github.repository_owner }}/egh-research-server:${{ steps.get_version.outputs.version }}" >> CHANGELOG.md
+          echo "\`\`\`" >> CHANGELOG.md
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.get_version.outputs.version }}
+          release_name: EGH Research Server ${{ steps.get_version.outputs.version }}
+          body_path: CHANGELOG.md
+          draft: false
+          prerelease: ${{ contains(steps.get_version.outputs.version, '-') }}
+
+  build-docker:
+    needs: create-release
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Log in to Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract metadata for Docker
+        id: meta
+        uses: docker/metadata-action@v5
+        with:
+          images: ghcr.io/${{ github.repository_owner }}/egh-research-server
+          tags: |
+            type=semver,pattern={{version}}
+            type=semver,pattern={{major}}.{{minor}}
+            type=semver,pattern={{major}}
+
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Dockerfile
+          platforms: linux/amd64,linux/arm64
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+          build-args: |
+            BUILD_DATE=${{ fromJSON(steps.meta.outputs.json).labels['org.opencontainers.image.created'] }}
+            VCS_REF=${{ github.sha }}
+
+      - name: Update release with Docker info
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: release } = await github.rest.repos.getReleaseByTag({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              tag: '${{ needs.create-release.outputs.version }}'
+            });
+            
+            const dockerInfo = `
+
+            ## 🐳 Docker Images Published
+
+            The following Docker images have been built and published to GitHub Container Registry:
+
+            - **Latest**: \`ghcr.io/${{ github.repository_owner }}/egh-research-server:latest\`
+            - **Version**: \`ghcr.io/${{ github.repository_owner }}/egh-research-server:${{ needs.create-release.outputs.version }}\`
+            - **Platforms**: linux/amd64, linux/arm64
+
+            ### Quick Start
+            \`\`\`bash
+            # Pull and run the latest version
+            docker run -p 3000:3000 ghcr.io/${{ github.repository_owner }}/egh-research-server:${{ needs.create-release.outputs.version }}
+
+            # Or use docker-compose
+            curl -O https://raw.githubusercontent.com/${{ github.repository }}/main/apps/local-server/docker-compose.yml
+            docker-compose up -d
+            \`\`\`
+
+            ### API Endpoints
+            - **Health Check**: http://localhost:3000/health
+            - **API Documentation**: http://localhost:3000/api/docs
+            - **Search**: http://localhost:3000/search?q=your-query
+            `;
+            
+            await github.rest.repos.updateRelease({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              release_id: release.id,
+              body: release.body + dockerInfo
+            });

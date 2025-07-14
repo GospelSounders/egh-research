@@ -54,6 +54,17 @@ const navigation: NavigationItem[] = [
     ]
   },
   {
+    name: 'Docs',
+    href: '/docs',
+    icon: AcademicCapIcon,
+    children: [
+      { name: 'API Reference', href: '/docs/api' },
+      { name: 'Getting Started', href: '/docs/getting-started' },
+      { name: 'Docker Guide', href: '/docs/docker' },
+      { name: 'MCP Integration', href: '/docs/mcp' }
+    ]
+  },
+  {
     name: 'About',
     href: '/about',
     icon: InformationCircleIcon

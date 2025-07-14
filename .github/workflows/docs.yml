@@ -1,0 +1,236 @@
+name: Documentation
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'docs/**'
+      - '**/*.md'
+      - 'apps/local-server/src/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-docs:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 8
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate API documentation
+        run: |
+          mkdir -p docs/api
+          
+          # Generate TypeScript documentation (if TypeDoc is available)
+          if command -v typedoc &> /dev/null; then
+            npx typedoc --out docs/api apps/local-server/src/
+          fi
+          
+          # Create API reference from source
+          cat > docs/api/README.md << 'EOF'
+          # EGH Research API Documentation
+          
+          ## Overview
+          
+          The EGH Research Server provides a comprehensive REST API for accessing Ellen Gould Harmon's writings offline.
+          
+          ## Base URL
+          
+          ```
+          http://localhost:3000
+          ```
+          
+          ## Authentication
+          
+          Currently, no authentication is required for local access.
+          
+          ## Endpoints
+          
+          ### Health Check
+          
+          ```http
+          GET /health
+          ```
+          
+          Returns server health status and database statistics.
+          
+          ### API Documentation
+          
+          ```http
+          GET /api/docs
+          ```
+          
+          Returns interactive API documentation.
+          
+          ### Books
+          
+          #### List Books
+          
+          ```http
+          GET /content/books?page=1&limit=50&lang=en
+          ```
+          
+          Returns paginated list of available books.
+          
+          **Parameters:**
+          - `page` (optional): Page number (default: 1)
+          - `limit` (optional): Items per page (default: 50)
+          - `lang` (optional): Language code (default: en)
+          
+          #### Get Book Details
+          
+          ```http
+          GET /content/books/{id}
+          ```
+          
+          Returns detailed information about a specific book.
+          
+          #### Get Table of Contents
+          
+          ```http
+          GET /content/books/{id}/toc
+          ```
+          
+          Returns the table of contents for a book.
+          
+          #### Get Chapter Content
+          
+          ```http
+          GET /content/books/{id}/chapters/{chapter}
+          ```
+          
+          Returns content for a specific chapter.
+          
+          ### PDF Generation
+          
+          #### Generate PDF
+          
+          ```http
+          POST /content/books/{id}/generate-pdf
+          Content-Type: application/json
+          
+          {
+            "config": {
+              "pageSize": "A4",
+              "fontSize": 12,
+              "fontFamily": "Times",
+              "margins": {
+                "top": 72,
+                "bottom": 72,
+                "left": 72,
+                "right": 72
+              }
+            }
+          }
+          ```
+          
+          Starts PDF generation for a book with custom formatting options.
+          
+          #### Check PDF Status
+          
+          ```http
+          GET /pdf/status/{token}
+          ```
+          
+          Returns the status of a PDF generation job.
+          
+          #### Download PDF
+          
+          ```http
+          GET /pdf/download/{token}
+          ```
+          
+          Downloads the generated PDF file.
+          
+          ### Search
+          
+          ```http
+          GET /search?q=query&limit=20&offset=0
+          ```
+          
+          Performs full-text search across all content.
+          
+          **Parameters:**
+          - `q`: Search query (required)
+          - `limit` (optional): Maximum results (default: 20)
+          - `offset` (optional): Result offset (default: 0)
+          
+          ### Statistics
+          
+          ```http
+          GET /stats
+          ```
+          
+          Returns database and server statistics.
+          
+          ## Response Formats
+          
+          All responses are in JSON format with consistent error handling:
+          
+          ```json
+          {
+            "error": "Error message",
+            "status": 404
+          }
+          ```
+          
+          ## Docker Usage
+          
+          ```bash
+          # Pull the latest image
+          docker pull ghcr.io/surgbc/egh-research-server:latest
+          
+          # Run with port mapping
+          docker run -p 3000:3000 ghcr.io/surgbc/egh-research-server:latest
+          
+          # Or use docker-compose
+          docker-compose up -d
+          ```
+          EOF
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./docs
+          destination: ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy-docs:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build-docs
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
+    
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

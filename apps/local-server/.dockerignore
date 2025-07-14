@@ -1,0 +1,65 @@
+# Node modules (will be installed in container)
+node_modules/
+*/node_modules/
+
+# Development files
+.env
+.env.local
+.env.*.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Git
+.git
+.gitignore
+
+# Build artifacts that will be rebuilt
+dist/
+build/
+coverage/
+
+# Documentation
+README.md
+CHANGELOG.md
+docs/
+
+# Test files
+tests/
+test/
+*.test.js
+*.spec.js
+
+# Development dependencies
+.turbo/
+.cache/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Claude sandbox files
+claude-sandbox-config.json
+.claude/
+
+# Todo files
+todo/

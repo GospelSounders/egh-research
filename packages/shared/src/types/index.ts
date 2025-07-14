@@ -83,8 +83,10 @@ export interface SearchHit {
   index: number;
   lang: string;
   para_id: string;
+  book_id: number;
   pub_code: string;
   pub_name: string;
+  author: string;
   refcode_long: string;
   refcode_short: string;
   pub_year: string;

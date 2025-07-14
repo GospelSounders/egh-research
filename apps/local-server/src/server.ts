@@ -7,10 +7,11 @@ import {
   ListToolsRequestSchema,
 } from '@modelcontextprotocol/sdk/types.js';
 import { EGWDatabase } from '@surgbc/egw-writings-shared';
+import { HTTPServer } from './http-server.js';
 
 const server = new Server(
   {
-    name: 'egw-writings-local-server',
+    name: 'egw-research-server',
     version: '1.0.0',
   },
   {
@@ -380,9 +381,34 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
 });
 
 async function main() {
-  const transport = new StdioServerTransport();
-  await server.connect(transport);
-  console.error('EGW Writings Local MCP server running on stdio');
+  const args = process.argv.slice(2);
+  const mode = args.includes('--http') ? 'http' : 'mcp';
+  const port = args.includes('--port') ? parseInt(args[args.indexOf('--port') + 1]) : 3000;
+
+  if (mode === 'http') {
+    // Start HTTP server
+    const httpServer = new HTTPServer(port);
+    httpServer.start();
+    
+    // Handle shutdown gracefully
+    process.on('SIGINT', () => {
+      console.log('\n🛑 Shutting down HTTP server...');
+      httpServer.close();
+      process.exit(0);
+    });
+  } else {
+    // Start MCP server (default)
+    const transport = new StdioServerTransport();
+    await server.connect(transport);
+    console.error('EGW Writings Local MCP server running on stdio');
+    
+    // Handle shutdown gracefully
+    process.on('SIGINT', () => {
+      console.error('\n🛑 Shutting down MCP server...');
+      db.close();
+      process.exit(0);
+    });
+  }
 }
 
 main().catch(console.error);

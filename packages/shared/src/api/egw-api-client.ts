@@ -3,9 +3,11 @@
  * Implements the correct API endpoints and patterns used by the official app
  */
 
+import { EGWAuthManager } from '../utils/auth.js';
+
 export interface EGWApiConfig {
   baseUrl?: string;
-  authToken?: string;
+  authManager?: EGWAuthManager;
   userAgent?: string;
 }
 
@@ -90,12 +92,12 @@ export interface Paragraph {
 
 export class EGWApiClient {
   private baseUrl: string;
-  private authToken?: string;
+  private authManager?: EGWAuthManager;
   private userAgent: string;
 
   constructor(config: EGWApiConfig = {}) {
     this.baseUrl = config.baseUrl || 'https://a.egwwritings.org';
-    this.authToken = config.authToken;
+    this.authManager = config.authManager;
     this.userAgent = config.userAgent || 'EGW-MCP-Client/1.0';
   }
 
@@ -114,8 +116,14 @@ export class EGWApiClient {
       'Accept': 'application/json',
     };
 
-    if (this.authToken) {
-      headers['Authorization'] = `Bearer ${this.authToken}`;
+    // Add authentication if available
+    if (this.authManager) {
+      try {
+        const token = await this.authManager.getValidToken();
+        headers['Authorization'] = `Bearer ${token}`;
+      } catch (error) {
+        console.warn('Failed to get auth token:', error);
+      }
     }
 
     const response = await fetch(url.toString(), {
@@ -151,6 +159,7 @@ export class EGWApiClient {
     trans?: 'all' | string;
     limit?: number;
     offset?: number;
+    page?: number;
   } = {}): Promise<Book[]> {
     return this.makeRequest<Book[]>(`/content/books/by_folder/${folderId}`, params);
   }
@@ -164,6 +173,7 @@ export class EGWApiClient {
     trans?: 'all' | string;
     limit?: number;
     offset?: number;
+    page?: number;
   } = {}): Promise<Book[]> {
     return this.makeRequest<Book[]>('/content/books', params);
   }
@@ -204,8 +214,14 @@ export class EGWApiClient {
       'User-Agent': this.userAgent,
     };
 
-    if (this.authToken) {
-      headers['Authorization'] = `Bearer ${this.authToken}`;
+    // Add authentication if available
+    if (this.authManager) {
+      try {
+        const token = await this.authManager.getValidToken();
+        headers['Authorization'] = `Bearer ${token}`;
+      } catch (error) {
+        console.warn('Failed to get auth token for download:', error);
+      }
     }
 
     const response = await fetch(url.toString(), {
