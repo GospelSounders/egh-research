@@ -55,7 +55,7 @@ jobs:
           cp data/books-export.json apps/website/public/api/books-export.json
           
           # Clean up any problematic API routes and libs that depend on shared packages
-          rm -rf apps/website/src/app/api/egw/books/[bookId]
+          rm -rf apps/website/src/app/api/egw
           rm -rf apps/website/src/app/api/test-db
           rm -f apps/website/src/lib/database.ts
           
