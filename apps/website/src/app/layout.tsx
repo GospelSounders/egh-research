@@ -4,6 +4,9 @@ import './globals.css';
 import { Providers } from '@/components/providers';
 import { Header } from '@/components/layout/header';
 import { Footer } from '@/components/layout/footer';
+import { CacheStats } from '@/components/debug/cache-stats';
+import { ReadingProvider } from '@/contexts/reading-context';
+import { ReadingDialog } from '@/components/reading/reading-dialog';
 import { Toaster } from 'react-hot-toast';
 
 const inter = Inter({ 
@@ -50,23 +53,23 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://egwresearch.gospelsounders.org'),
+  metadataBase: new URL('https://gospelsounders.github.io/egh-research'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://egwresearch.gospelsounders.org',
+    url: 'https://gospelsounders.github.io/egh-research',
     title: 'EGH Research - Study & Publishing Tools',
     description: 'Advanced research platform for Ellen G. White writings with search, PDF generation, and scholarly tools.',
     siteName: 'EGH Research',
     images: [
       {
-        url: '/og-image.jpg',
+        url: '/egh-research/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'EGH Research Platform',
+        alt: 'EGH Research Platform - Advanced tools for studying Ellen G. White writings',
       },
     ],
   },
@@ -74,8 +77,9 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'EGH Research - Study & Publishing Tools',
     description: 'Advanced research platform for Ellen G. White writings with search, PDF generation, and scholarly tools.',
-    images: ['/og-image.jpg'],
+    images: ['/egh-research/og-image.png'],
     creator: '@GospelSounders',
+    site: '@GospelSounders',
   },
   robots: {
     index: true,
@@ -91,6 +95,7 @@ export const metadata: Metadata = {
   verification: {
     google: 'your-google-verification-code',
   },
+  manifest: '/egh-research/site.webmanifest',
 };
 
 export default function RootLayout({
@@ -101,68 +106,97 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} ${crimsonText.variable}`}>
       <head>
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-        <link rel="manifest" href="/site.webmanifest" />
+        {/* Favicons and Icons */}
+        <link rel="icon" type="image/svg+xml" href="/egh-research/icon.svg" />
+        <link rel="icon" href="/egh-research/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/egh-research/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/egh-research/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/egh-research/favicon-16x16.png" />
+        <link rel="manifest" href="/egh-research/site.webmanifest" />
+        
+        {/* Theme and App Configuration */}
         <meta name="theme-color" content="#0ea5e9" />
+        <meta name="msapplication-TileColor" content="#0ea5e9" />
+        <meta name="msapplication-config" content="/egh-research/browserconfig.xml" />
+        
+        {/* Structured Data */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               '@context': 'https://schema.org',
               '@type': 'WebSite',
-              name: 'EGH Research',
-              description: 'Independent research platform for Ellen G. White writings',
-              url: 'https://egwresearch.gospelsounders.org',
+              name: 'EGH Research - Study & Publishing Tools',
+              alternateName: 'EGH Research',
+              description: 'Independent research platform for Ellen G. White writings with advanced search, PDF generation, and scholarly tools.',
+              url: 'https://gospelsounders.github.io/egh-research',
               potentialAction: {
                 '@type': 'SearchAction',
-                target: 'https://egwresearch.gospelsounders.org/search?q={search_term_string}',
+                target: 'https://gospelsounders.github.io/egh-research/search?q={search_term_string}',
                 'query-input': 'required name=search_term_string',
               },
               publisher: {
                 '@type': 'Organization',
                 name: 'Gospel Sounders',
                 url: 'https://github.com/gospelsounders',
+                logo: {
+                  '@type': 'ImageObject',
+                  url: 'https://gospelsounders.github.io/egh-research/icon.svg'
+                }
               },
+              mainEntity: {
+                '@type': 'WebApplication',
+                name: 'EGH Research Platform',
+                applicationCategory: 'EducationApplication',
+                operatingSystem: 'Web Browser',
+                description: 'Advanced research tools for studying Ellen G. White writings including Boolean search, multi-book reading, and citation generation.',
+                offers: {
+                  '@type': 'Offer',
+                  price: '0',
+                  priceCurrency: 'USD'
+                }
+              }
             }),
           }}
         />
       </head>
       <body className="min-h-screen bg-gray-50">
         <Providers>
-          <div className="flex flex-col min-h-screen">
-            <Header />
-            <main className="flex-1">
-              {children}
-            </main>
-            <Footer />
-          </div>
-          <Toaster
-            position="top-right"
-            toastOptions={{
-              duration: 4000,
-              style: {
-                background: '#363636',
-                color: '#fff',
-              },
-              success: {
-                duration: 3000,
-                iconTheme: {
-                  primary: '#10b981',
-                  secondary: '#fff',
+          <ReadingProvider>
+            <div className="flex flex-col min-h-screen">
+              <Header />
+              <main className="flex-1">
+                {children}
+              </main>
+              <Footer />
+            </div>
+            <ReadingDialog />
+            <Toaster
+              position="top-right"
+              toastOptions={{
+                duration: 4000,
+                style: {
+                  background: '#363636',
+                  color: '#fff',
                 },
-              },
-              error: {
-                duration: 5000,
-                iconTheme: {
-                  primary: '#ef4444',
-                  secondary: '#fff',
+                success: {
+                  duration: 3000,
+                  iconTheme: {
+                    primary: '#10b981',
+                    secondary: '#fff',
+                  },
                 },
-              },
-            }}
-          />
+                error: {
+                  duration: 5000,
+                  iconTheme: {
+                    primary: '#ef4444',
+                    secondary: '#fff',
+                  },
+                },
+              }}
+            />
+            <CacheStats />
+          </ReadingProvider>
         </Providers>
       </body>
     </html>

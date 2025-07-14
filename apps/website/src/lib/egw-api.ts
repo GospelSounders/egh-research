@@ -35,11 +35,135 @@ interface APIResponse<T> {
   limit?: number;
 }
 
+interface CacheEntry<T> {
+  data: T;
+  timestamp: number;
+  ttl: number;
+}
+
 class EGWAPIClient {
   private baseURL: string;
+  private cache: Map<string, CacheEntry<any>> = new Map();
+  private defaultTTL = 5 * 60 * 1000; // 5 minutes default TTL
+  private cacheEnabled: boolean;
+  private cleanupInterval: NodeJS.Timeout | null = null;
 
-  constructor(baseURL: string = '/api/egw') {
+  constructor(baseURL: string = '/api/egw', cacheEnabled: boolean = true) {
     this.baseURL = baseURL;
+    this.cacheEnabled = cacheEnabled;
+    
+    // Set up periodic cache cleanup (every 5 minutes)
+    if (this.cacheEnabled && typeof window !== 'undefined') {
+      this.cleanupInterval = setInterval(() => {
+        this.clearExpiredCache();
+      }, 5 * 60 * 1000);
+    }
+  }
+
+  private getCacheKey(method: string, params: any): string {
+    return `${method}:${JSON.stringify(params)}`;
+  }
+
+  private getFromCache<T>(key: string): T | null {
+    if (!this.cacheEnabled) return null;
+    
+    const entry = this.cache.get(key);
+    if (!entry) return null;
+    
+    const now = Date.now();
+    if (now - entry.timestamp > entry.ttl) {
+      this.cache.delete(key);
+      return null;
+    }
+    
+    return entry.data;
+  }
+
+  private setCache<T>(key: string, data: T, ttl: number = this.defaultTTL): void {
+    if (!this.cacheEnabled) return;
+    
+    this.cache.set(key, {
+      data,
+      timestamp: Date.now(),
+      ttl
+    });
+  }
+
+  private clearExpiredCache(): void {
+    const now = Date.now();
+    const keysToDelete: string[] = [];
+    
+    this.cache.forEach((entry, key) => {
+      if (now - entry.timestamp > entry.ttl) {
+        keysToDelete.push(key);
+      }
+    });
+    
+    keysToDelete.forEach(key => this.cache.delete(key));
+  }
+
+  // Clear all cache entries
+  clearCache(): void {
+    this.cache.clear();
+  }
+
+  // Clear cache for specific method
+  clearCacheForMethod(method: string): void {
+    const keysToDelete: string[] = [];
+    
+    this.cache.forEach((_, key) => {
+      if (key.startsWith(`${method}:`)) {
+        keysToDelete.push(key);
+      }
+    });
+    
+    keysToDelete.forEach(key => this.cache.delete(key));
+  }
+
+  // Get cache statistics
+  getCacheStats(): {
+    size: number;
+    methods: Record<string, number>;
+    totalMemory: number;
+    oldestEntry: number | null;
+    newestEntry: number | null;
+  } {
+    const methods: Record<string, number> = {};
+    let totalMemory = 0;
+    let oldestEntry: number | null = null;
+    let newestEntry: number | null = null;
+
+    this.cache.forEach((entry, key) => {
+      const method = key.split(':')[0];
+      methods[method] = (methods[method] || 0) + 1;
+      
+      // Rough estimate of memory usage
+      totalMemory += JSON.stringify(entry.data).length;
+      
+      if (oldestEntry === null || entry.timestamp < oldestEntry) {
+        oldestEntry = entry.timestamp;
+      }
+      if (newestEntry === null || entry.timestamp > newestEntry) {
+        newestEntry = entry.timestamp;
+      }
+    });
+
+    return {
+      size: this.cache.size,
+      methods,
+      totalMemory,
+      oldestEntry,
+      newestEntry
+    };
+  }
+
+  // Cleanup method to call on component unmount
+  cleanup(): void {
+    if (this.cleanupInterval) {
+      clearInterval(this.cleanupInterval);
+      this.cleanupInterval = null;
+    }
+    this.clearCache();
   }
 
   async getBooks(params: {
@@ -49,6 +173,14 @@ class EGWAPIClient {
     search?: string;
     category?: string;
   } = {}): Promise<APIResponse<APIBook[]>> {
+    // Check cache first
+    const cacheKey = this.getCacheKey('getBooks', params);
+    const cachedResult = this.getFromCache<APIResponse<APIBook[]>>(cacheKey);
+    if (cachedResult) {
+      console.log('Returning cached books result');
+      return cachedResult;
+    }
+
     try {
       const queryParams = new URLSearchParams();
       
@@ -99,13 +231,18 @@ class EGWAPIClient {
         pub_code: book.code
       }));
 
-      return {
+      const result = {
         success: true,
         data: books,
         total: books.length,
         page: 1,
         limit: books.length
       };
+
+      // Cache the result (longer TTL for books list - 10 minutes)
+      this.setCache(cacheKey, result, 10 * 60 * 1000);
+      
+      return result;
     } catch (error) {
       console.error('Failed to fetch books from API:', error);
       
@@ -117,6 +254,14 @@ class EGWAPIClient {
   }
 
   async getBook(bookId: number): Promise<APIResponse<APIBook>> {
+    // Check cache first
+    const cacheKey = this.getCacheKey('getBook', { bookId });
+    const cachedResult = this.getFromCache<APIResponse<APIBook>>(cacheKey);
+    if (cachedResult) {
+      console.log(`Returning cached book result for ${bookId}`);
+      return cachedResult;
+    }
+
     try {
       console.log(`Fetching book ${bookId} from local API route...`);
       
@@ -151,10 +296,15 @@ class EGWAPIClient {
         pub_code: apiResponse.data.code
       };
 
-      return {
+      const result = {
         success: true,
         data: book
       };
+
+      // Cache the result (longer TTL for individual books - 15 minutes)
+      this.setCache(cacheKey, result, 15 * 60 * 1000);
+
+      return result;
     } catch (error) {
       console.error(`Failed to fetch book ${bookId} from API:`, error);
       
@@ -171,6 +321,14 @@ class EGWAPIClient {
     lang?: string;
     books?: number[];
   } = {}): Promise<APIResponse<APISearchResult[]>> {
+    // Check cache first (shorter TTL for search results - 2 minutes)
+    const cacheKey = this.getCacheKey('searchBooks', { query, ...params });
+    const cachedResult = this.getFromCache<APIResponse<APISearchResult[]>>(cacheKey);
+    if (cachedResult) {
+      console.log(`Returning cached search results for "${query}"`);
+      return cachedResult;
+    }
+
     try {
       const queryParams = new URLSearchParams();
       queryParams.append('q', query);
@@ -200,13 +358,18 @@ class EGWAPIClient {
         relevance: result.relevance
       })) || [];
 
-      return {
+      const result = {
         success: true,
         data: results,
         total: data.total,
         page: data.page,
         limit: data.limit
       };
+
+      // Cache search results (shorter TTL - 2 minutes)
+      this.setCache(cacheKey, result, 2 * 60 * 1000);
+
+      return result;
     } catch (error) {
       console.error('Failed to search books:', error);
       return {
@@ -221,6 +384,14 @@ class EGWAPIClient {
     offset?: number;
     chapter?: number;
   } = {}): Promise<APIResponse<any[]>> {
+    // Check cache first (longer TTL for book content - 20 minutes)
+    const cacheKey = this.getCacheKey('getBookContent', { bookId, ...params });
+    const cachedResult = this.getFromCache<APIResponse<any[]>>(cacheKey);
+    if (cachedResult) {
+      console.log(`Returning cached book content for book ${bookId}`);
+      return cachedResult;
+    }
+
     try {
       const queryParams = new URLSearchParams();
       
@@ -236,13 +407,18 @@ class EGWAPIClient {
 
       const data = await response.json();
 
-      return {
+      const result = {
         success: true,
         data: data.content || [],
         total: data.total,
         page: data.page,
         limit: data.limit
       };
+
+      // Cache book content (longer TTL - 20 minutes)
+      this.setCache(cacheKey, result, 20 * 60 * 1000);
+
+      return result;
     } catch (error) {
       console.error('Failed to fetch book content:', error);
       return {

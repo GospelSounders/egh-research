@@ -13,6 +13,11 @@ import {
 } from '@heroicons/react/24/outline';
 import { egwAPI, type APIBook } from '@/lib/egw-api';
 import Link from 'next/link';
+import { Breadcrumbs, breadcrumbPaths } from '@/components/layout/breadcrumbs';
+import { TableOfContents } from '@/components/books/table-of-contents';
+import { ParagraphPermalink } from '@/components/books/paragraph-permalink';
+import { EnhancedChapterNav } from '@/components/books/enhanced-chapter-nav';
+import { CrossReference, generateMockCrossReferences } from '@/components/books/cross-reference';
 
 interface Chapter {
   chapter: number;
@@ -33,6 +38,7 @@ export default function BookReadPage() {
   const [fontSize, setFontSize] = useState(16);
   const [searchQuery, setSearchQuery] = useState('');
   const [showSearch, setShowSearch] = useState(false);
+  const [showTableOfContents, setShowTableOfContents] = useState(false);
 
   useEffect(() => {
     if (bookId) {
@@ -139,6 +145,74 @@ export default function BookReadPage() {
     }
   };
 
+  const handleCrossReferenceNavigation = (bookId: number, chapterNumber: number, paragraphId: string) => {
+    if (bookId === parseInt(params.bookId as string)) {
+      // Same book - navigate to chapter and paragraph
+      setCurrentChapter(chapterNumber);
+      
+      // Scroll to paragraph after a brief delay to ensure content is rendered
+      setTimeout(() => {
+        const element = document.getElementById(paragraphId);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      }, 100);
+    } else {
+      // Different book - navigate to that book's page
+      router.push(`/books/${bookId}/read?chapter=${chapterNumber}&paragraph=${paragraphId}`);
+    }
+  };
+
+  const renderChapterContent = (chapter: Chapter) => {
+    if (!chapter) return null;
+    
+    // Split content into paragraphs for permalink support
+    const paragraphs = chapter.content.split('</p>').filter(p => p.trim());
+    
+    return (
+      <div className="space-y-6">
+        {paragraphs.map((paragraph, index) => {
+          const paragraphId = `ch${chapter.chapter}-p${index + 1}`;
+          const paragraphNumber = index + 1;
+          
+          // Clean up paragraph HTML
+          const cleanParagraph = paragraph.replace('<p>', '').trim();
+          if (!cleanParagraph) return null;
+          
+          return (
+            <ParagraphPermalink
+              key={paragraphId}
+              bookId={bookId}
+              bookTitle={book?.title || 'Unknown'}
+              chapterNumber={chapter.chapter}
+              paragraphId={paragraphId}
+              paragraphNumber={paragraphNumber}
+              className="paragraph-container"
+            >
+              <div 
+                className="prose prose-lg max-w-none"
+                style={{ fontSize: `${fontSize}px`, lineHeight: '1.7' }}
+                dangerouslySetInnerHTML={{ __html: cleanParagraph }}
+              />
+            </ParagraphPermalink>
+          );
+        })}
+        
+        {/* Cross-references - show every few paragraphs */}
+        {paragraphs.length > 3 && (
+          <div className="mt-8">
+            <CrossReference
+              references={generateMockCrossReferences(bookId, chapter.chapter)}
+              currentBookId={bookId}
+              onNavigate={handleCrossReferenceNavigation}
+              className="mt-6"
+            />
+          </div>
+        )}
+      </div>
+    );
+  };
+
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
@@ -173,6 +247,13 @@ export default function BookReadPage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      {/* Breadcrumbs */}
+      <div className="bg-gray-50 border-b">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+          <Breadcrumbs items={breadcrumbPaths.bookRead(book.title, bookId)} />
+        </div>
+      </div>
+
       {/* Header */}
       <div className="bg-white border-b sticky top-0 z-10">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
@@ -191,12 +272,13 @@ export default function BookReadPage() {
             </div>
             
             <div className="flex items-center space-x-4">
-              {/* Search */}
+              {/* Table of Contents */}
               <button
-                onClick={() => setShowSearch(!showSearch)}
-                className="p-2 text-gray-500 hover:text-gray-700 rounded-md"
+                onClick={() => setShowTableOfContents(true)}
+                className="flex items-center space-x-2 px-3 py-2 text-gray-600 hover:text-gray-900 border border-gray-300 rounded-md"
               >
-                <MagnifyingGlassIcon className="h-5 w-5" />
+                <BookOpenIcon className="h-4 w-4" />
+                <span className="text-sm">Contents</span>
               </button>
               
               {/* Font Size Controls */}
@@ -215,47 +297,18 @@ export default function BookReadPage() {
                   A+
                 </button>
               </div>
-              
-              {/* Chapter Navigation */}
-              <div className="flex items-center space-x-2">
-                <button
-                  onClick={() => navigateChapter('prev')}
-                  disabled={currentChapter === 1}
-                  className="p-2 text-gray-500 hover:text-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
-                >
-                  <ChevronLeftIcon className="h-5 w-5" />
-                </button>
-                <span className="text-sm text-gray-600">
-                  {currentChapter} / {chapters.length}
-                </span>
-                <button
-                  onClick={() => navigateChapter('next')}
-                  disabled={currentChapter === chapters.length}
-                  className="p-2 text-gray-500 hover:text-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
-                >
-                  <ChevronRightIcon className="h-5 w-5" />
-                </button>
-              </div>
             </div>
           </div>
-          
-          {/* Search Bar */}
-          {showSearch && (
-            <div className="mt-4 max-w-md">
-              <div className="relative">
-                <MagnifyingGlassIcon className="absolute left-3 top-3 h-4 w-4 text-gray-400" />
-                <input
-                  type="text"
-                  placeholder="Search in this book..."
-                  value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
-                  className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
-                />
-              </div>
-            </div>
-          )}
         </div>
       </div>
+
+      {/* Enhanced Chapter Navigation */}
+      <EnhancedChapterNav
+        chapters={chapters}
+        currentChapter={currentChapter}
+        onChapterChange={setCurrentChapter}
+        bookTitle={book.title}
+      />
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="bg-white rounded-lg shadow-sm border">
@@ -282,13 +335,13 @@ export default function BookReadPage() {
           
           {/* Content */}
           <div className="p-8">
-            <div 
-              className="prose prose-lg max-w-none"
-              style={{ fontSize: `${fontSize}px`, lineHeight: '1.7' }}
-              dangerouslySetInnerHTML={{ 
-                __html: currentChapterData?.content || '<p>Loading chapter content...</p>' 
-              }}
-            />
+            {currentChapterData ? (
+              renderChapterContent(currentChapterData)
+            ) : (
+              <div className="prose prose-lg max-w-none">
+                <p>Loading chapter content...</p>
+              </div>
+            )}
           </div>
           
           {/* Navigation Footer */}
@@ -319,6 +372,15 @@ export default function BookReadPage() {
           </div>
         </div>
       </div>
+
+      {/* Table of Contents */}
+      <TableOfContents
+        chapters={chapters}
+        currentChapter={currentChapter}
+        onChapterSelect={setCurrentChapter}
+        isOpen={showTableOfContents}
+        onClose={() => setShowTableOfContents(false)}
+      />
     </div>
   );
 }

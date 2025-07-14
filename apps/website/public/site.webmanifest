@@ -1,0 +1,35 @@
+{
+  "name": "EGH Research - Study & Publishing Tools",
+  "short_name": "EGH Research",
+  "description": "Advanced research platform for Ellen G. White writings with search, PDF generation, and scholarly tools.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "books", "research", "productivity"],
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary"
+}

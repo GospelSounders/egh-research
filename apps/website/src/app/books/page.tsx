@@ -2,10 +2,13 @@
 
 import { useState, useEffect } from 'react';
 import { getBooks, getCategories, getLanguages, type Book } from '@/lib/static-api';
+import { egwAPI, type APIBook } from '@/lib/egw-api';
+import { useReading } from '@/contexts/reading-context';
 import Link from 'next/link';
 import { MagnifyingGlassIcon, BookOpenIcon } from '@heroicons/react/24/outline';
 
 export default function BooksPage() {
+  const { openBook } = useReading();
   const [books, setBooks] = useState<Book[]>([]);
   const [categories, setCategories] = useState<string[]>([]);
   const [languages, setLanguages] = useState<string[]>([]);
@@ -75,6 +78,29 @@ export default function BooksPage() {
       )
     : books;
 
+  const handleOpenBook = async (book: Book) => {
+    try {
+      // Convert Book to APIBook format
+      const apiBook: APIBook = {
+        book_id: book.book_id,
+        title: book.title,
+        author: book.author,
+        pub_year: typeof book.pub_year === 'string' ? parseInt(book.pub_year) || 0 : book.pub_year,
+        npages: typeof book.npages === 'string' ? parseInt(book.npages) || 0 : book.npages,
+        lang: book.lang,
+        description: book.description,
+        cover_url: undefined, // Book type doesn't have cover_url
+        category: book.folder,
+        publisher: undefined, // Book type doesn't have publisher
+        pub_code: undefined // Book type doesn't have code
+      };
+      
+      openBook(apiBook);
+    } catch (error) {
+      console.error('Error opening book:', error);
+    }
+  };
+
   return (
     <div className="container mx-auto px-4 py-8">
       <div className="mb-8">
@@ -143,10 +169,10 @@ export default function BooksPage() {
         <>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-8">
             {filteredBooks.map((book) => (
-              <Link
+              <button
                 key={book.book_id}
-                href={`/books/${book.book_id}`}
-                className="block bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200 dark:border-gray-700"
+                onClick={() => handleOpenBook(book)}
+                className="block w-full text-left bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-all duration-200 border border-gray-200 dark:border-gray-700 hover:border-primary-300 dark:hover:border-primary-600 hover:scale-105"
               >
                 <div className="p-6">
                   <div className="flex items-start space-x-3 mb-3">
@@ -174,8 +200,12 @@ export default function BooksPage() {
                       {book.folder}
                     </span>
                   </div>
+                  
+                  <div className="mt-3 text-xs text-primary-600 dark:text-primary-400 font-medium">
+                    Click to open book →
+                  </div>
                 </div>
-              </Link>
+              </button>
             ))}
           </div>
 
