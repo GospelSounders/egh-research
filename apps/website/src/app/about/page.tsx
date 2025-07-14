@@ -10,7 +10,7 @@ import {
 } from '@heroicons/react/24/outline';
 
 export const metadata: Metadata = {
-  title: 'About EGW Research Platform',
+  title: 'About EGH Research Platform',
   description: 'Learn about our independent research platform for Ellen G. White writings, our mission, and why we built these tools.',
 };
 
@@ -21,7 +21,7 @@ export default function AboutPage() {
       <div className="bg-primary-700 text-white py-16">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="text-4xl font-bold font-serif mb-6">
-            About EGW Research
+            About EGH Research
           </h1>
           <p className="text-xl text-primary-100 leading-relaxed">
             An independent platform dedicated to advancing research and study of Ellen G. White writings 

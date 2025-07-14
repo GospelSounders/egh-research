@@ -37,7 +37,7 @@ export function Footer() {
           <div className="space-y-4">
             <Link href="/" className="flex items-center space-x-2">
               <div className="h-8 w-8 bg-primary-600 rounded-lg flex items-center justify-center px-1">
-                <span className="text-white font-bold text-xs">EGW</span>
+                <span className="text-white font-bold text-xs">EGH</span>
               </div>
               <span className="font-serif font-semibold text-xl text-gray-900">
                 Research

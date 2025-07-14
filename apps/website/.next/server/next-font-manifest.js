@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{},\"appUsingSizeAdjust\":false,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/brian/Code/MCPSERVERS/egw-writings-mcp/apps/website/src/app/layout\":[\"static/media/f388ce6667079c43-s.p.woff2\",\"static/media/fc624604eae89eb3-s.p.woff2\",\"static/media/e400baae650c21fc-s.p.woff2\",\"static/media/c7b4fd33734710f7-s.p.woff2\",\"static/media/e4af272ccee01ff0-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

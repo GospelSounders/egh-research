@@ -22,8 +22,8 @@ const crimsonText = Crimson_Text({
 
 export const metadata: Metadata = {
   title: {
-    default: 'EGW Research - Study & Publishing Tools',
-    template: '%s | EGW Research'
+    default: 'EGH Research - Study & Publishing Tools',
+    template: '%s | EGH Research'
   },
   description: 'Independent research platform for Ellen G. White writings. Advanced search tools, PDF generation, and publishing utilities for academic study and research. Not affiliated with official SDA or EGW Estate.',
   keywords: [
@@ -58,21 +58,21 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://egwresearch.gospelsounders.org',
-    title: 'EGW Research - Study & Publishing Tools',
+    title: 'EGH Research - Study & Publishing Tools',
     description: 'Advanced research platform for Ellen G. White writings with search, PDF generation, and scholarly tools.',
-    siteName: 'EGW Research',
+    siteName: 'EGH Research',
     images: [
       {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'EGW Research Platform',
+        alt: 'EGH Research Platform',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'EGW Research - Study & Publishing Tools',
+    title: 'EGH Research - Study & Publishing Tools',
     description: 'Advanced research platform for Ellen G. White writings with search, PDF generation, and scholarly tools.',
     images: ['/og-image.jpg'],
     creator: '@GospelSounders',
@@ -113,7 +113,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               '@context': 'https://schema.org',
               '@type': 'WebSite',
-              name: 'EGW Research',
+              name: 'EGH Research',
               description: 'Independent research platform for Ellen G. White writings',
               url: 'https://egwresearch.gospelsounders.org',
               potentialAction: {
