@@ -59,11 +59,11 @@ COPY apps/local-server/package.json ./apps/local-server/
 # Create database directory
 RUN mkdir -p ./apps/local-server/data
 
-# Copy existing database if available
-COPY apps/local-server/data/*.db ./apps/local-server/data/ 2>/dev/null || echo 'No database found'
-
-# If no database exists, create a minimal one
-RUN if [ ! -f "./apps/local-server/data/egw-writings.db" ]; then \
+# Copy existing database if available, otherwise create empty one
+RUN if ls apps/local-server/data/*.db 1> /dev/null 2>&1; then \
+      cp apps/local-server/data/*.db ./apps/local-server/data/; \
+      echo "Copied existing database files"; \
+    else \
       touch ./apps/local-server/data/egw-writings.db; \
       echo "Created empty database file"; \
     fi
