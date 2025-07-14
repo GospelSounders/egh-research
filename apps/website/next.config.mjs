@@ -16,6 +16,10 @@ const nextConfig = {
   output: process.env.BUILD_MODE === 'static' ? 'export' : 'standalone',
   trailingSlash: true,
   distDir: process.env.BUILD_MODE === 'static' ? 'out' : '.next',
+  // Exclude API routes from static export
+  ...(process.env.BUILD_MODE === 'static' && {
+    generateBuildId: () => 'static-build',
+  }),
   // SEO optimizations
   generateEtags: true,
   poweredByHeader: false,
