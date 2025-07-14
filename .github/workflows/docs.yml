@@ -7,6 +7,8 @@ on:
       - 'docs/**'
       - '**/*.md'
       - 'apps/local-server/src/**'
+      - 'apps/website/**'
+      - '.github/workflows/docs.yml'
   workflow_dispatch:
 
 permissions:

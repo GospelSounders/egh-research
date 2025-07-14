@@ -3,8 +3,32 @@ name: CI
 on:
   push:
     branches: [ main, master, develop ]
+    paths:
+      - 'apps/**'
+      - 'packages/**'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+      - '.github/workflows/ci.yml'
+      - 'tsconfig.json'
+      - '**/*.ts'
+      - '**/*.tsx'
+      - '**/*.js'
+      - '**/*.jsx'
+      - '**/*.json'
   pull_request:
     branches: [ main, master, develop ]
+    paths:
+      - 'apps/**'
+      - 'packages/**'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+      - '.github/workflows/ci.yml'
+      - 'tsconfig.json'
+      - '**/*.ts'
+      - '**/*.tsx'
+      - '**/*.js'
+      - '**/*.jsx'
+      - '**/*.json'
 
 jobs:
   test:
