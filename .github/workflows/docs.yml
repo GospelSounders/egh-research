@@ -35,8 +35,6 @@ jobs:
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
-        with:
-          version: 8
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
@@ -202,10 +200,10 @@ jobs:
           
           ```bash
           # Pull the latest image
-          docker pull ghcr.io/surgbc/egh-research-server:latest
+          docker pull ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
           
           # Run with port mapping
-          docker run -p 3000:3000 ghcr.io/surgbc/egh-research-server:latest
+          docker run -p 3000:3000 ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
           
           # Or use docker-compose
           docker-compose up -d
