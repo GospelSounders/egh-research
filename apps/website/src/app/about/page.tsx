@@ -218,7 +218,7 @@ export default function AboutPage() {
               <p>
                 <strong>Project Maintainer:</strong>{' '}
                 <a 
-                  href="https://github.com/surgbc" 
+                  href="https://github.com/GospelSounders" 
                   className="text-primary-600 hover:text-primary-700"
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -229,7 +229,7 @@ export default function AboutPage() {
               <p>
                 <strong>Source Code:</strong>{' '}
                 <a 
-                  href="https://github.com/gospelsounders/egw-writings-mcp" 
+                  href="https://github.com/GospelSounders/egh-research" 
                   className="text-primary-600 hover:text-primary-700"
                   target="_blank" 
                   rel="noopener noreferrer"

@@ -106,7 +106,7 @@ export default function DataDocsPage() {
           
           <div className="flex space-x-4">
             <a 
-              href="https://gospelsounders.github.io/egw-writings-mcp/books.json" 
+              href="https://gospelsounders.github.io/egh-research/books.json" 
               className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition-colors"
               target="_blank"
               rel="noopener noreferrer"
@@ -114,7 +114,7 @@ export default function DataDocsPage() {
               📥 Download books.json
             </a>
             <a 
-              href="https://gospelsounders.github.io/egw-writings-mcp/data.json" 
+              href="https://gospelsounders.github.io/egh-research/data.json" 
               className="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700 transition-colors"
               target="_blank"
               rel="noopener noreferrer"
@@ -141,7 +141,7 @@ export default function DataDocsPage() {
           
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-white dark:bg-gray-800 border rounded-lg p-4">
-              <h4 className="font-semibold mb-3 text-blue-600 dark:text-blue-400">📚 EGW Writings</h4>
+              <h4 className="font-semibold mb-3 text-blue-600 dark:text-blue-400">📚 EGH Research</h4>
               <ul className="text-sm space-y-1 text-gray-600 dark:text-gray-300">
                 <li>📖 <code>egw/books/</code> - Main published books</li>
                 <li>🙏 <code>egw/devotional/</code> - Daily devotional books</li>
@@ -174,7 +174,7 @@ export default function DataDocsPage() {
           
           <div className="flex space-x-4">
             <a 
-              href="https://gospelsounders.github.io/egw-writings-mcp/zip-structure.json" 
+              href="https://gospelsounders.github.io/egh-research/zip-structure.json" 
               className="bg-purple-600 text-white px-4 py-2 rounded hover:bg-purple-700 transition-colors"
               target="_blank"
               rel="noopener noreferrer"
@@ -194,8 +194,8 @@ export default function DataDocsPage() {
             <h3 className="text-xl font-semibold mb-3 text-blue-800 dark:text-blue-200">Quick Start</h3>
             <pre className="bg-gray-900 text-green-400 p-4 rounded text-sm overflow-x-auto">
 {`# Pull and run the latest image
-docker pull ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
-docker run -p 3000:3000 ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest
+docker pull ghcr.io/gospelsounders/egh-research-server:latest
+docker run -p 3000:3000 ghcr.io/gospelsounders/egh-research-server:latest
 
 # Test the API
 curl http://localhost:3000/health`}
@@ -206,7 +206,7 @@ curl http://localhost:3000/health`}
             <h3 className="text-xl font-semibold mb-3 text-green-800 dark:text-green-200">Docker Compose</h3>
             <pre className="bg-gray-900 text-green-400 p-4 rounded text-sm overflow-x-auto">
 {`# Download compose file
-curl -O https://raw.githubusercontent.com/GospelSounders/egw-writings-mcp/master/apps/local-server/docker-compose.yml
+curl -O https://raw.githubusercontent.com/GospelSounders/egh-research/master/apps/local-server/docker-compose.yml
 
 # Start services
 docker-compose up -d
@@ -227,7 +227,7 @@ docker run -d \\
   --restart unless-stopped \\
   --health-cmd="curl -f http://localhost:3000/health || exit 1" \\
   --health-interval=30s \\
-  ghcr.io/gospelsounders/egw-writings-mcp/egh-research-server:latest`}
+  ghcr.io/gospelsounders/egh-research-server:latest`}
             </pre>
           </div>
         </div>
@@ -298,7 +298,7 @@ docker run -d \\
             <h3 className="text-lg font-semibold mb-4">📊 JSON Data Files</h3>
             <div className="space-y-3">
               <a 
-                href="https://gospelsounders.github.io/egw-writings-mcp/data.json" 
+                href="https://gospelsounders.github.io/egh-research/data.json" 
                 className="block text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -306,7 +306,7 @@ docker run -d \\
                 📄 data.json - Complete documentation data
               </a>
               <a 
-                href="https://gospelsounders.github.io/egw-writings-mcp/books.json" 
+                href="https://gospelsounders.github.io/egh-research/books.json" 
                 className="block text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -314,7 +314,7 @@ docker run -d \\
                 📚 books.json - Books database with metadata
               </a>
               <a 
-                href="https://gospelsounders.github.io/egw-writings-mcp/zip-structure.json" 
+                href="https://gospelsounders.github.io/egh-research/zip-structure.json" 
                 className="block text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -322,7 +322,7 @@ docker run -d \\
                 🗜️ zip-structure.json - ZIP file organization
               </a>
               <a 
-                href="https://gospelsounders.github.io/egw-writings-mcp/api-endpoints.json" 
+                href="https://gospelsounders.github.io/egh-research/api-endpoints.json" 
                 className="block text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -351,9 +351,9 @@ docker run -d \\
             Questions or need help with the data?
           </p>
           <div className="flex justify-center space-x-6 text-blue-600 dark:text-blue-400">
-            <a href="https://github.com/GospelSounders/egw-writings-mcp" className="hover:underline">GitHub Repository</a>
-            <a href="https://github.com/GospelSounders/egw-writings-mcp/issues" className="hover:underline">Report Issues</a>
-            <a href="https://github.com/GospelSounders/egw-writings-mcp/discussions" className="hover:underline">Discussions</a>
+            <a href="https://github.com/GospelSounders/egh-research" className="hover:underline">GitHub Repository</a>
+            <a href="https://github.com/GospelSounders/egh-research/issues" className="hover:underline">Report Issues</a>
+            <a href="https://github.com/GospelSounders/egh-research/discussions" className="hover:underline">Discussions</a>
           </div>
         </div>
       </section>

@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     'independent research',
     'publishing tools'
   ],
-  authors: [{ name: 'Brian Onango', url: 'https://github.com/surgbc' }],
+  authors: [{ name: 'Brian Onango', url: 'https://github.com/GospelSounders' }],
   creator: 'Brian Onango',
   publisher: 'Gospel Sounders',
   formatDetection: {
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     title: 'EGW Research - Study & Publishing Tools',
     description: 'Advanced research platform for Ellen G. White writings with search, PDF generation, and scholarly tools.',
     images: ['/og-image.jpg'],
-    creator: '@surgbc',
+    creator: '@GospelSounders',
   },
   robots: {
     index: true,

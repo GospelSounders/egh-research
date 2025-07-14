@@ -128,7 +128,7 @@ export function Footer() {
               <p className="text-gray-500 text-xs mt-1">
                 Made with ❤️ by{' '}
                 <a
-                  href="https://github.com/surgbc"
+                  href="https://github.com/GospelSounders"
                   className="text-primary-600 hover:text-primary-700"
                   target="_blank"
                   rel="noopener noreferrer"

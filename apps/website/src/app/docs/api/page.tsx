@@ -36,8 +36,8 @@ curl http://localhost:3000/health`}
             <h3 className="text-xl font-semibold mb-3 text-green-800 dark:text-green-200">Local Development</h3>
             <pre className="bg-gray-800 text-green-400 p-4 rounded text-sm overflow-x-auto">
 {`# Clone and build
-git clone https://github.com/GospelSounders/egw-writings-mcp.git
-cd egw-writings-mcp
+git clone https://github.com/GospelSounders/egh-research.git
+cd egh-research
 pnpm install && pnpm build
 
 # Start server
@@ -479,9 +479,9 @@ docker-compose logs -f`}
             Questions or need help? Check out our resources:
           </p>
           <div className="flex justify-center space-x-6 text-blue-600 dark:text-blue-400">
-            <a href="https://github.com/GospelSounders/egw-writings-mcp" className="hover:underline">GitHub Repository</a>
-            <a href="https://github.com/GospelSounders/egw-writings-mcp/issues" className="hover:underline">Report Issues</a>
-            <a href="https://github.com/GospelSounders/egw-writings-mcp/discussions" className="hover:underline">Discussions</a>
+            <a href="https://github.com/GospelSounders/egh-research" className="hover:underline">GitHub Repository</a>
+            <a href="https://github.com/GospelSounders/egh-research/issues" className="hover:underline">Report Issues</a>
+            <a href="https://github.com/GospelSounders/egh-research/discussions" className="hover:underline">Discussions</a>
           </div>
         </div>
       </section>

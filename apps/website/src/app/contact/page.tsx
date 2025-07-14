@@ -143,7 +143,7 @@ export default function ContactPage() {
                 </p>
                 <div className="flex space-x-4">
                   <a
-                    href="https://github.com/surgbc"
+                    href="https://github.com/GospelSounders"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-primary-600 hover:text-primary-700 font-medium"
@@ -204,12 +204,12 @@ export default function ContactPage() {
                 <div>
                   <span className="font-medium text-gray-900">Source Code:</span>
                   <a 
-                    href="https://github.com/gospelsounders/egw-writings-mcp" 
+                    href="https://github.com/GospelSounders/egh-research" 
                     className="ml-2 text-primary-600 hover:text-primary-700"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    github.com/gospelsounders/egw-writings-mcp
+                    github.com/GospelSounders/egh-research
                   </a>
                 </div>
               </div>
@@ -219,7 +219,7 @@ export default function ContactPage() {
                 <div>
                   <span className="font-medium text-gray-900">Discussions:</span>
                   <a 
-                    href="https://github.com/gospelsounders/egw-writings-mcp/discussions" 
+                    href="https://github.com/GospelSounders/egh-research/discussions" 
                     className="ml-2 text-primary-600 hover:text-primary-700"
                     target="_blank"
                     rel="noopener noreferrer"
